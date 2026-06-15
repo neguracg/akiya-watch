@@ -1,0 +1,462 @@
+# akiya-watch 監視対象定義（マスタ）
+# status: verified = URL実在確認済み / derived = 導出（初回実行で要検証）
+# channel: ①公開ポータル ②公的誘導 ③業者内流通 ④個人掲示板 ⑤強制換価 ⑥公有財産
+# kind: 主な対象種別。filter_keywords: 県・郡ページから対象市町だけ抽出するキーワード
+# 注意: URLは唯一のマスタ。記憶・推測で生成・修正しない（CLAUDE.md 恒久ルール）
+
+# ============================================================================
+# 適合判定パラメータ（このブロックが唯一の定義元。watch.py へのコード直書き禁止）
+# ----------------------------------------------------------------------------
+#   price_max_man         : 旧・全種別共通の価格上限（後方互換。種別別が優先）
+#   area_min_sqm          : 適合とみなす土地面積の下限。単位=㎡（維持）
+#   price_ceiling_by_type : 種別ごとの価格上限（万円）。適合判定に使用・画面で可変
+#   exclude_areas         : 所在地一致で既定除外するNGエリア（別荘地）。ハード除外は
+#                           せず、HTMLのトグル既定ONで隠す。除外ログ(監査)に残す
+#   exclude_keywords      : 空（建築可否では機械除外しない）
+#   caution_keywords      : 注意フラグ（除外しない。画面でキーワード除外トグル可）
+#   interest_keywords     : 本命シグナル（除外しない・注目印）
+# ============================================================================
+filters:
+  price_max_man: 1000
+  area_min_sqm: 330
+  price_ceiling_by_type:
+    更地: 1500
+    古家付き土地: 1500
+    中古戸建: 3000
+    空き家: 3000
+  exclude_areas: [南箱根ダイヤランド, パサディナタウン, 東大場, エメラルドタウン, 富士見ニュータウン]
+  exclude_keywords: []
+  caution_keywords: [再建築不可, 要相談, 調査中, 農地転用, 既存不適格, 崖条例, 別荘地, 管理費, 借地, 定期借地, 青地, 農振, 温泉]
+  interest_keywords: [既存宅地, 線引き前宅地, 市街化調整区域, 調整区域, 34条11号, 34条12号, 43条, 再建築可, 建替可, 適合証明, 白地, 無指定]
+
+sites:
+
+  # ==== ① 公開ポータル型: SUUMO 土地（adapter） ====
+  - id: suumo_izunokuni
+    name: SUUMO 土地 伊豆の国市
+    url: "https://suumo.jp/tochi/shizuoka/sc_izunokuni/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: suumo_mishima
+    name: SUUMO 土地 三島市
+    url: "https://suumo.jp/tochi/shizuoka/sc_mishima/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: suumo_numazu
+    name: SUUMO 土地 沼津市
+    url: "https://suumo.jp/tochi/shizuoka/sc_numazu/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: suumo_susono
+    name: SUUMO 土地 裾野市
+    url: "https://suumo.jp/tochi/shizuoka/sc_susono/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: suumo_suntogun
+    name: SUUMO 土地 駿東郡（清水/長泉）
+    url: "https://suumo.jp/tochi/shizuoka/sc_suntogun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    filter_keywords: [清水町, 長泉町]
+  - id: suumo_tagatagun
+    name: SUUMO 土地 田方郡（函南）
+    url: "https://suumo.jp/tochi/shizuoka/sc_tagatagun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    filter_keywords: [函南町]
+
+  # ==== ① SUUMO 中古戸建（adapter・新規） ====
+  - id: suumo_chuko_izunokuni
+    name: SUUMO 中古戸建 伊豆の国市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: suumo_chuko_mishima
+    name: SUUMO 中古戸建 三島市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: suumo_chuko_numazu
+    name: SUUMO 中古戸建 沼津市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: suumo_chuko_susono
+    name: SUUMO 中古戸建 裾野市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: suumo_chuko_suntogun
+    name: SUUMO 中古戸建 駿東郡（清水/長泉）
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+    filter_keywords: [清水町, 長泉町]
+  - id: suumo_chuko_tagatagun
+    name: SUUMO 中古戸建 田方郡（函南）
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+    filter_keywords: [函南町]
+
+  # ==== ① アットホーム 土地（ハッシュ監視・bot対策注意） ====
+  - id: athome_kannami
+    name: アットホーム 土地 函南町
+    url: "https://www.athome.co.jp/tochi/shizuoka/tagata_kannami-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    note: "プログラムfetchに405を返した実績あり（bot対策想定）"
+  - id: athome_izunokuni
+    name: アットホーム 土地 伊豆の国市
+    url: "https://www.athome.co.jp/tochi/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: athome_mishima
+    name: アットホーム 土地 三島市
+    url: "https://www.athome.co.jp/tochi/shizuoka/mishima-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: athome_numazu
+    name: アットホーム 土地 沼津市
+    url: "https://www.athome.co.jp/tochi/shizuoka/numazu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: athome_shimizu
+    name: アットホーム 土地 清水町
+    url: "https://www.athome.co.jp/tochi/shizuoka/suntou_shimizu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: athome_nagaizumi
+    name: アットホーム 土地 長泉町
+    url: "https://www.athome.co.jp/tochi/shizuoka/suntou_nagaizumi-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: athome_susono
+    name: アットホーム 土地 裾野市
+    url: "https://www.athome.co.jp/tochi/shizuoka/susono-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+
+  # ==== ① アットホーム 中古戸建（ハッシュ監視・新規。清水/長泉は404保留→sources_extra） ====
+  - id: athome_chuko_izunokuni
+    name: アットホーム 中古戸建 伊豆の国市
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: athome_chuko_mishima
+    name: アットホーム 中古戸建 三島市
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/mishima-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: athome_chuko_numazu
+    name: アットホーム 中古戸建 沼津市
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/numazu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: athome_chuko_kannami
+    name: アットホーム 中古戸建 函南町
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/tagata_kannami-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: athome_chuko_susono
+    name: アットホーム 中古戸建 裾野市
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/susono-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+
+  # ==== ① LIFULL HOME'S 土地（ハッシュ監視） ====
+  - id: lifull_izunokuni
+    name: LIFULL 土地 伊豆の国市
+    url: "https://www.homes.co.jp/tochi/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_mishima
+    name: LIFULL 土地 三島市
+    url: "https://www.homes.co.jp/tochi/shizuoka/mishima-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_numazu
+    name: LIFULL 土地 沼津市
+    url: "https://www.homes.co.jp/tochi/shizuoka/numazu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_kannami
+    name: LIFULL 土地 函南町
+    url: "https://www.homes.co.jp/tochi/shizuoka/tagata_kannami-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_shimizu
+    name: LIFULL 土地 清水町
+    url: "https://www.homes.co.jp/tochi/shizuoka/sunto_shimizu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_nagaizumi
+    name: LIFULL 土地 長泉町
+    url: "https://www.homes.co.jp/tochi/shizuoka/sunto_nagaizumi-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+  - id: lifull_susono
+    name: LIFULL 土地 裾野市
+    url: "https://www.homes.co.jp/tochi/shizuoka/susono-city/list/"
+    status: verified
+    channel: "①"
+    kind: 土地
+
+  # ==== ① LIFULL HOME'S 中古戸建（ハッシュ監視・新規。函南/清水/長泉は再測で200確定） ====
+  - id: lifull_chuko_izunokuni
+    name: LIFULL 中古戸建 伊豆の国市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_mishima
+    name: LIFULL 中古戸建 三島市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/mishima-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_numazu
+    name: LIFULL 中古戸建 沼津市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/numazu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_kannami
+    name: LIFULL 中古戸建 函南町
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/tagata_kannami-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_shimizu
+    name: LIFULL 中古戸建 清水町
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_shimizu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_nagaizumi
+    name: LIFULL 中古戸建 長泉町
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_nagaizumi-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_susono
+    name: LIFULL 中古戸建 裾野市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/susono-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+
+  # ==== ② 公的誘導型: 空き家バンクしずおか（takken・adapter・本命） ====
+  - id: takken_kannami
+    name: 空き家バンクしずおか 函南町
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/田方郡函南町/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+  - id: takken_izunokuni
+    name: 空き家バンクしずおか 伊豆の国市
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/伊豆の国市/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+  - id: takken_mishima
+    name: 空き家バンクしずおか 三島市
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/三島市/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+  - id: takken_numazu
+    name: 空き家バンクしずおか 沼津市
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/沼津市/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+  - id: takken_shimizu
+    name: 空き家バンクしずおか 清水町
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡清水町/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+  - id: takken_nagaizumi
+    name: 空き家バンクしずおか 長泉町
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡長泉町/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+
+  # ==== ② 公的誘導型: その他（ハッシュ監視） ====
+  - id: lifull_akiyabank
+    name: LIFULL 空き家バンク 静岡県一覧
+    url: "https://www.homes.co.jp/akiyabank/tokai/shizuoka/"
+    status: verified
+    channel: "②"
+    kind: 空き家バンク
+    filter_keywords: [函南町, 伊豆の国市, 三島市, 沼津市, 清水町, 長泉町, 裾野市]
+  - id: akiyaathome_shizuoka
+    name: アットホーム空き家バンク ふじのくに（静岡県）
+    url: "https://shizuoka22000.akiya-athome.jp/"
+    status: verified
+    channel: "②"
+    kind: 空き家バンク
+    note: "6市町中の参画は三島市のみ（akiya-athome government 一覧で確認）"
+  - id: mishima_chuko
+    name: 住むなら三島 中古住宅情報
+    url: "https://www.city.mishima.shizuoka.jp/cp/house/index.html"
+    status: verified
+    channel: "②"
+    kind: 中古住宅
+    note: "前回404。要確認（URLは変更しない）"
+  - id: nagaizumi_bank
+    name: 長泉町空き家等情報バンク
+    url: "https://www.town.nagaizumi.lg.jp/soshiki/kensetsu/akiya/9198.html"
+    status: verified
+    channel: "②"
+    kind: 空き家バンク
+
+  # ==== ④ 個人掲示板型（ハッシュ監視） ====
+  - id: jmty_land
+    name: ジモティー 静岡県 土地
+    url: "https://jmty.jp/shizuoka/est-land"
+    status: verified
+    channel: "④"
+    kind: 土地/個人
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+  - id: ieichiba_shizuoka
+    name: 家いちば 静岡県
+    url: "https://www.ieichiba.com/area/shizuoka"
+    status: verified
+    channel: "④"
+    kind: 個人直/空き家
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+
+  # ==== ⑤ 強制換価型（ハッシュ監視・動的） ====
+  - id: bit_numazu
+    name: BIT 沼津支部 売却スケジュール
+    url: "https://www.bit.courts.go.jp/app/schedule/pr005/h01?courtId=31831"
+    status: verified
+    channel: "⑤"
+    kind: 競売
+    note: "動的Webアプリ。フェーズ2候補"
+  - id: ksi
+    name: KSI官公庁オークション
+    url: "https://www.pages.kankocho.jp/"
+    status: verified
+    channel: "⑤"
+    kind: 公売
+  - id: nta_koubai
+    name: 国税庁公売 不動産検索
+    url: "https://www.koubai.nta.go.jp/auctionx/public/hp0241.php"
+    status: verified
+    channel: "⑤"
+    kind: 公売
+
+  # ==== ⑥ 公有財産売却型（ハッシュ監視・新規） ====
+  - id: kenyuchi_uriharai
+    name: 静岡県 未利用県有地 売却・貸付（行政経営課）
+    url: "https://www.pref.shizuoka.jp/kensei/nyusatsukobai/kenyuchi/1002352/index.html"
+    status: verified
+    channel: "⑥"
+    kind: 県有地
+  - id: kenyuchi_senchaku
+    name: 静岡県 先着順 県有地売却物件
+    url: "https://www.pref.shizuoka.jp/kensei/nyusatsukobai/kenyuchi/1002352/1011983.html"
+    status: verified
+    channel: "⑥"
+    kind: 県有地
+  - id: mof_tokai_kanzai
+    name: 東海財務局 公示中 一般競争入札（売却）
+    url: "https://lfb.mof.go.jp/tokai/kanzai/pagetokaihp024000205.html"
+    status: verified
+    channel: "⑥"
+    kind: 国有地
+
+# ============================================================================
+# 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
+# ============================================================================
+sources_extra:
+  - channel: "①"
+    name: ハトマークサイト（全宅連）売買 全6市町
+    kind: 売買(住宅/土地)
+    url: "https://www.hatomarksite.com/search/zentaku/buy/"
+    status: フェーズ2
+    http: 403
+    note: "bot対策403。行政コード 函南22325/伊豆の国22225/三島22206/沼津22203/清水22341/長泉22342。ブラウザ自動化で攻略"
+  - channel: "①"
+    name: 不動産ジャパン（流通推進センター）静岡
+    kind: 売買(土地/戸建)
+    url: "https://www.fudousan.or.jp/property/buy/22/area"
+    status: フェーズ2
+    http: 403
+    note: "bot対策403。ブラウザ自動化候補"
+  - channel: "①"
+    name: ラビーネット不動産（全日）静岡 土地/中古戸建
+    kind: 土地/中古戸建
+    url: "https://rabbynet.zennichi.or.jp/buy/land/shizuoka/"
+    status: 保留(再測)
+    http: 429
+    note: "URL実在・レート制限429。低頻度で再測"
+  - channel: "①"
+    name: スマイミー静岡（宅建サポートセンター）
+    kind: 土地/中古住宅
+    url: "https://shizuoka.fudohsan.jp/"
+    status: 対象外
+    http: 200
+    note: "ログインゲートで公開一覧なし。takkenの akiya-bank.shizuoka.fudohsan.jp とは別サブドメイン"
+  - channel: "①"
+    name: アットホーム 中古戸建 清水町/長泉町
+    kind: 中古戸建
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/suntou_shimizu-city/list/"
+    status: 保留(要確認)
+    http: 404
+    note: "清水/長泉のkodate/chukoは404（slug差 or 在庫0）。土地・他市町は200で稼働"
+  - channel: "③"
+    name: 地場業者の自社HP（6市町×10〜30社）
+    kind: 業者内流通(本命)
+    url: "(別タスクでリスト化)"
+    status: 未着手
+    http: "—"
+    note: "v0.3で最優先チャネル。仲介系中小業者の売地ページをハッシュ監視＋site:検索"
+  - channel: "⑤"
+    name: 任意売却・相続財産清算（士業経由）
+    kind: 任意売却
+    url: "(要特定)"
+    status: 未着手
+    http: "—"
+    note: "実装難・低優先"
+  - channel: "⑥"
+    name: 6市町 市有地・町有地売却（各市町HP 入札・契約）
+    kind: 市町有地
+    url: "https://www.town.kannami.shizuoka.jp/gyosei/nyusatsu_keiyaku/"
+    status: 未着手
+    http: "—"
+    note: "函南/長泉の入札・契約ページを確認済。低頻度・個別公告。per-town精査要"
