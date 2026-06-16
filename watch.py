@@ -1016,6 +1016,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                 "first_seen": p.get("first_seen") or "",
                 "url": p["url"],
                 "ng": bool(p.get("ng_areas")),
+                # 自由入力の除外語マッチ用の検索テキスト（所在地＋見出し＋フラグ＋属性）
+                "hay": " ".join([
+                    p.get("location", "") or "", p.get("text", "") or "", _flag_text(p),
+                    p.get("chimoku", "") or "", p.get("toshikeikaku", "") or "",
+                    p.get("rebuild_reason", "") or "", p.get("shubetsu", "") or "",
+                ]),
             })
     data_json = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     added = [(r["name"], p) for r in results for p in r["added_items"]]
@@ -1060,17 +1066,17 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
 
-    # ① 今回適用した条件（参考情報のみ。価格上限・面積下限のエコーは削除→パネルへ集約）
-    H.append("<h2 class='static'>① 参考情報（NGエリア・キーワード定義）</h2><div class='cond'>")
+    # ① 参考情報（NGエリア・プラス/マイナス要素の定義）
+    H.append("<h2 class='static'>① 参考情報（NGエリア・バッジ定義）</h2><div class='cond'>")
     H.append("<div><b>NGエリア</b> "
              + escape("、".join(filters.get("exclude_areas", [])) or "なし")
              + _help("所在地にこの地名を含む物件を一覧から外します（通学不可の別荘地など）。") + "</div>")
-    H.append("<div><b>関心(本命)シグナル</b> "
+    H.append("<div><b>プラス要素（好材料）</b> "
              + escape("、".join(filters.get("interest_keywords", [])) or "なし")
-             + _help("市街化調整区域・既存宅地・34条11号/12号など本命候補。行内に緑バッジで表示。") + "</div>")
-    H.append("<div><b>注意要素</b> "
+             + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
+    H.append("<div><b>マイナス要素（注意点）</b> "
              + escape("、".join(filters.get("caution_keywords", [])) or "なし")
-             + _help("別荘地・管理費・借地・農振など。行内に橙バッジで表示。除外は『その他の除外…』から任意。") + "</div>")
+             + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
     H.append("</div>")
     H.append(disclaimer)
 
@@ -1080,30 +1086,35 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         f"<label>{escape(t)} <input type='number' class='ceil' data-t='{escape(t)}' "
         f"id='{ceil_ids[t]}' value='{ceil_by_type.get(t, pmax_def)}'></label>" for t in types)
     H.append("<div class='panel'>")
-    # ① 3層の説明（収集/適合/表示）
-    H.append("<div class='princ'>収集＝全件を埋め込み ／ 適合＝下の基準を満たす行を<b>緑で強調</b> ／ "
-             "表示の増減は各列ヘッダのフィルタと「適合のみ表示」で行います</div>")
-    # ② 適合の基準（種別別価格上限＋面積下限）
-    H.append("<div style='margin-top:7px'><b>適合の基準</b>"
-             + _help("ここで決めた条件を満たす物件を『適合』として緑で強調します。行を隠すには『適合のみ表示』をON。")
+    H.append("<div class='princ'>価格・面積は既定フィルタとして最初から効いています（条件に合う行だけ表示）。"
+             "解除するには「全件表示」をON。列ごとの絞り込みは各列ヘッダをクリック。</div>")
+    # 既定フィルタ：種別別価格上限＋面積下限
+    H.append("<div style='margin-top:7px'><b>既定フィルタ</b>"
+             + _help("この条件に合う物件だけを表示します（価格はこの金額以下、面積はこの値以上）。解除は『全件表示』。")
              + " 価格上限(万円): " + ceil_inputs
              + f" ／ 面積下限(㎡): <input type='number' id='aminInput' value='{amin_def}'>"
-             + _help("この面積以上を『適合』として強調します。") + "</div>")
-    # ③④⑤ トグル類
+             + _help("この面積以上の物件だけを表示します（既定330㎡。未満は隠れます）。") + "</div>")
+    # トグル類
     H.append("<div style='margin-top:7px'>"
-             "<label><input type='checkbox' id='fitonly'>適合のみ表示</label>"
-             + _help("適合しない行を一覧から隠します。")
+             "<label><input type='checkbox' id='zenken'>全件表示</label>"
+             + _help("ONで価格上限・面積下限の既定フィルタを無視し、全件を表示します。")
              + " <label><input type='checkbox' id='ngtoggle' checked>NGエリア除外</label>"
              + _help("所在地にこの地名を含む物件を一覧から外します（通学不可の別荘地など）。")
-             + " <button id='moreExBtn'>その他の除外…</button>"
-             + _help("物件情報の文中にこの語を含む物件を一覧から外します。※掲載文の言い回しで意図せず外れることがあるため慎重に。")
-             + "　該当 <span class='cnt' id='cnt'>—</span></div>")
+             + " <button id='moreExBtn'>除外設定…</button>"
+             + _help("ここに入れた語が物件情報の文中に含まれる物件を一覧から外します。※掲載文の言い回しで意図せず外れることがあるため慎重に。")
+             + "　表示 <span class='cnt' id='cnt'>—</span></div>")
     H.append("</div>")
-    # 「その他の除外」ポップアップ（キーワード除外・既定全OFF）
-    H.append("<div id='exPop'><div class='pr'><b>その他の除外（掲載文に含む語で隠す）</b></div>"
+    # 「除外設定」ポップアップ：(a)定義済み語チェック (b)自由入力チップ
+    H.append("<div id='exPop'>"
+             + "<div class='pr'><b>除外設定</b>（物件情報の文中に含む語で隠す）"
+             + _help("ここに入れた語が物件情報の文中に含まれる物件を一覧から外します。※掲載文の言い回しで意図せず外れることがあるため慎重に。") + "</div>"
+             + "<div class='pr'>定義済み語（既定OFF）:</div>"
              + "".join(f"<label><input type='checkbox' class='exkw' value='{escape(kw)}'>{escape(kw)}</label>"
                        for kw in filters.get("caution_keywords", []))
-             + "<div class='pr muted' style='white-space:normal;max-width:230px'>※掲載文の言い回しで意図せず外れることがあります。</div>"
+             + "<div class='pr' style='border-top:1px solid #ddd;padding-top:5px'>自由に追加（語・地名）:"
+             + " <input id='exInput' type='text' style='width:110px' placeholder='例: 別荘地'>"
+             + " <button id='exAdd'>追加</button></div>"
+             + "<div class='pr' id='exChips'></div>"
              + "<div class='pr'><button id='exClose'>閉じる</button></div></div>")
 
     # ---- 物件ブラウザ（折り畳み・JS描画）----
@@ -1118,7 +1129,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<h2 class='sec' data-target='secSummary'>サイト別サマリ</h2>")
     H.append("<div id='secSummary' class='secbody'>")
     H.append("<table><tr><th>ID</th><th>サイト名</th><th>HTTP</th><th>方式</th><th>抽出</th>"
-             "<th>価格取得</th><th>面積取得</th><th>適合(既定)</th><th>新着</th><th>NG該当</th>"
+             "<th>価格取得</th><th>面積取得</th><th>基準内(参考)</th><th>新着</th><th>NG該当</th>"
              "<th>status</th><th>備考</th></tr>")
     for r in results:
         H.append(
@@ -1229,7 +1240,9 @@ _REPORT_CSS = (
     "box-shadow:0 3px 10px rgba(0,0,0,.25);padding:8px;font-size:12px;min-width:150px;}"
     "#exPop label{display:block;}#exPop .pr{margin:3px 0;}"
     ".bi,.bc,.bz{display:inline-block;font-size:10px;padding:0 4px;margin-left:3px;border-radius:3px;line-height:1.4;}"
-    ".bi{background:#e3f3e6;color:#0a7d2c;}.bc{background:#fdeede;color:#b25b00;}.bz{background:#fde3e3;color:#c0392b;}"
+    ".bi{background:#e3f3e6;color:#0a7d2c;}.bc{background:#fde3e3;color:#c0392b;}.bz{background:#f3e3fd;color:#7b2fb5;}"
+    ".chip{display:inline-block;background:#eef;border:1px solid #ccd;border-radius:10px;padding:0 4px 0 7px;"
+    "margin:2px 3px 0 0;font-size:11px;}.chip b{cursor:pointer;color:#c0392b;margin-left:4px;}"
 )
 
 
@@ -1258,13 +1271,15 @@ function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#
 function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk';}
 function normLoc(s){return (s||'').replace('静岡県','').replace(/\s+/g,'');}
 
-function defState(){return{ceil:Object.assign({},CONFIG.ceilings),amin:CONFIG.amin,ng:true,fitonly:false,exkw:[],cf:{},sort:{k:null,d:1}};}
+function defState(){return{ceil:Object.assign({},CONFIG.ceilings),amin:CONFIG.amin,ng:true,zenken:false,exkw:[],cf:{},sort:{k:null,d:1}};}
 let S=defState();
-const LS_SET='akiya.settings.v3', LS_HIDE='akiya.hidden.v3';
+const LS_SET='akiya.settings.v3', LS_HIDE='akiya.hidden.v3', LS_EXW='akiya.exwords.v1';
 function lsGet(k,def){try{const v=JSON.parse(localStorage.getItem(k));return v==null?def:v;}catch(e){return def;}}
 let SETTINGS=lsGet(LS_SET,{map:{},last:null}); let HIDDEN=new Set(lsGet(LS_HIDE,[])); let curName=null;
+let EXWORDS=lsGet(LS_EXW,[]);
 function saveHidden(){localStorage.setItem(LS_HIDE,JSON.stringify([...HIDDEN]));}
 function saveSettings(){localStorage.setItem(LS_SET,JSON.stringify(SETTINGS));}
+function saveExwords(){localStorage.setItem(LS_EXW,JSON.stringify(EXWORDS));}
 
 // 重複排除グループ（正規化所在地＋面積＋価格が完全一致のみ統合。所在地なしは統合しない）
 const GROUPS=[],KIDX={};
@@ -1277,13 +1292,19 @@ DATA.forEach((d,i)=>{
 function passFilters(d){
   if(S.ng&&d.ng)return false;
   if(S.exkw.length&&(d.cautions||[]).some(k=>S.exkw.includes(k)))return false;
+  if(EXWORDS.length&&EXWORDS.some(w=>w&&(d.hay||'').includes(w)))return false;
   for(const k in S.cf){const cf=S.cf[k],v=d[k];
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
   }
+  // 既定フィルタ（種別別価格上限・面積下限）。全件表示ONで無視。
+  if(!S.zenken){
+    const c=S.ceil[d.shubetsu], am=S.amin;
+    if(am!=null&&(d.area==null||d.area<am))return false;
+    if(c!=null&&(d.price==null||d.price>c))return false;
+  }
   return true;
 }
-function isFit(d){const c=S.ceil[d.shubetsu];const am=(S.amin==null?0:S.amin);return d.price!=null&&d.area!=null&&(c==null||d.price<=c)&&d.area>=am;}
 
 function buildHead(){
   let h='<thead><tr>';
@@ -1309,7 +1330,7 @@ function rowHtml(g,inHidden){
   if(g.sites.length>1){const o=g.sites.filter(x=>x!=d.site);loc+=" <span class=muted>他"+o.length+"件("+esc(o.join('/'))+")</span>";}
   const op=inHidden?("<button class=restorebtn data-dk='"+esc(g.dk)+"'>復元</button>")
                    :("<button class=hidebtn data-dk='"+esc(g.dk)+"'>非表示</button>");
-  return "<tr class='"+(isFit(d)?'hitrow':'')+"'>"
+  return "<tr>"
     +"<td>"+esc(d.machi||'—')+"</td>"
     +"<td title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>"
     +"<td>"+loc+"</td>"
@@ -1327,29 +1348,32 @@ function legendRow(){
   return "<tfoot><tr class=legendrow><td colspan="+NCOL+" class=heatleg>"
     +"ヒートマップ → 価格(安い濃緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b>　"
     +"面積(広い濃緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b>　"
-    +"坪単価(安い濃緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b>　緑帯=種別別上限以下で適合</td></tr></tfoot>";
+    +"坪単価(安い濃緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b>　所在地の後ろ: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span></td></tr></tfoot>";
 }
 function sortGroups(list){
   if(S.sort.k){const k=S.sort.k,dir=S.sort.d;
     list.sort((A,B)=>{let av=A.rep[k],bv=B.rep[k];if(av==null&&bv==null)return 0;if(av==null)return 1;if(bv==null)return -1;
       if(typeof av==='number'&&typeof bv==='number')return(av-bv)*dir;return String(av).localeCompare(String(bv),'ja')*dir;});
-  } else list.sort((A,B)=>(isFit(B.rep)-isFit(A.rep))||(((A.rep.price==null)?1e12:A.rep.price)-((B.rep.price==null)?1e12:B.rep.price)));
+  } else list.sort((A,B)=>(((A.rep.price==null)?1e12:A.rep.price)-((B.rep.price==null)?1e12:B.rep.price)));
   return list;
 }
 function tbl(list,inHidden){return buildHead()+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden)).join(''):"<tr><td colspan="+NCOL+" class=muted>該当なし</td></tr>")+'</tbody>'+legendRow();}
 function render(){
   let vis=GROUPS.filter(g=>!HIDDEN.has(g.dk)&&passFilters(g.rep));
-  if(S.fitonly)vis=vis.filter(g=>isFit(g.rep));
   sortGroups(vis);
-  const hit=vis.filter(g=>isFit(g.rep)).length;
   document.getElementById('mainTbl').innerHTML=tbl(vis,false);
   const nv=vis.filter(g=>g.added);
   document.getElementById('newTbl').innerHTML=tbl(nv,false);
   const hid=GROUPS.filter(g=>HIDDEN.has(g.dk));
   document.getElementById('hiddenTbl').innerHTML=tbl(sortGroups(hid),true);
   document.getElementById('hiddenCnt').textContent='('+hid.length+'件)';
-  document.getElementById('cnt').textContent=hit+'件 適合 / 表示 '+vis.length+'件（重複統合後・全'+GROUPS.length+'グループ／新着'+nv.length+'）';
+  document.getElementById('cnt').textContent=vis.length+'件 / 全'+GROUPS.length+'グループ'+(S.zenken?'（全件表示）':'（既定フィルタ適用）')+'・新着'+nv.length;
+  renderChips();
   markChanged();
+}
+function renderChips(){
+  const box=document.getElementById('exChips'); if(!box)return;
+  box.innerHTML=EXWORDS.map(w=>"<span class=chip>"+esc(w)+"<b data-w='"+esc(w)+"'>×</b></span>").join('')||"<span class=muted>（自由除外語なし）</span>";
 }
 
 // ---- 列ヘッダ ポップアップ（並べ替え＋列フィルタ）----
@@ -1361,7 +1385,7 @@ function openPopup(th){
   if(col.f==='range'){const cf=S.cf[k]||{};
     h+="<div class=pr>下限 <input id=fmin type=number style='width:80px' value='"+(cf.min==null?'':cf.min)+"'></div>";
     h+="<div class=pr>上限 <input id=fmax type=number style='width:80px' value='"+(cf.max==null?'':cf.max)+"'></div>";
-    h+="<div class='pr muted' style='white-space:normal;max-width:180px'>※その場の範囲絞り込み（行を隠す）。適合の基準とは別物です。</div>";
+    h+="<div class='pr muted' style='white-space:normal;max-width:180px'>※その場の範囲絞り込み（行を隠す）。パネルの既定フィルタとは別に効きます。</div>";
   } else if(col.f==='check'){const cf=S.cf[k]; const set=(cf&&cf.set)?cf.set:col.opts.slice();
     h+=col.opts.map(o=>"<label><input type=checkbox class=fchk value='"+esc(o)+"' "+(set.includes(o)?'checked':'')+"> "+esc(o)+"</label>").join('');
   }
@@ -1391,7 +1415,7 @@ function applyStateToControls(){
   document.querySelectorAll('.ceil').forEach(inp=>{inp.value=(S.ceil[inp.dataset.t]==null?'':S.ceil[inp.dataset.t]);});
   document.getElementById('aminInput').value=(S.amin==null?'':S.amin);
   document.getElementById('ngtoggle').checked=!!S.ng;
-  document.getElementById('fitonly').checked=!!S.fitonly;
+  document.getElementById('zenken').checked=!!S.zenken;
   document.querySelectorAll('.exkw').forEach(c=>{c.checked=S.exkw.includes(c.value);});
 }
 function refreshSetSel(){
@@ -1412,14 +1436,19 @@ function markChanged(){
   document.querySelectorAll('.ceil').forEach(inp=>inp.addEventListener('input',()=>{S.ceil[inp.dataset.t]=numOrNull(inp.value);render();}));
   document.getElementById('aminInput').addEventListener('input',e=>{S.amin=numOrNull(e.target.value);render();});
   document.getElementById('ngtoggle').addEventListener('change',e=>{S.ng=e.target.checked;render();});
-  document.getElementById('fitonly').addEventListener('change',e=>{S.fitonly=e.target.checked;render();});
+  document.getElementById('zenken').addEventListener('change',e=>{S.zenken=e.target.checked;render();});
   document.querySelectorAll('.exkw').forEach(c=>c.addEventListener('change',()=>{S.exkw=[...document.querySelectorAll('.exkw:checked')].map(x=>x.value);render();}));
   const exPop=document.getElementById('exPop');
   document.getElementById('moreExBtn').addEventListener('click',e=>{e.stopPropagation();
     if(exPop.style.display==='block'){exPop.style.display='none';return;}
-    const r=e.target.getBoundingClientRect();exPop.style.left=(window.scrollX+r.left)+'px';exPop.style.top=(window.scrollY+r.bottom+2)+'px';exPop.style.display='block';});
+    const r=e.target.getBoundingClientRect();exPop.style.left=(window.scrollX+r.left)+'px';exPop.style.top=(window.scrollY+r.bottom+2)+'px';exPop.style.display='block';renderChips();});
   document.getElementById('exClose').addEventListener('click',e=>{e.stopPropagation();exPop.style.display='none';});
-  exPop.addEventListener('click',e=>e.stopPropagation());
+  function addExWord(){const v=(document.getElementById('exInput').value||'').trim();
+    if(v&&!EXWORDS.includes(v)){EXWORDS.push(v);saveExwords();document.getElementById('exInput').value='';render();}}
+  document.getElementById('exAdd').addEventListener('click',e=>{e.stopPropagation();addExWord();});
+  document.getElementById('exInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addExWord();}});
+  exPop.addEventListener('click',e=>{e.stopPropagation();
+    const x=e.target.closest('#exChips b[data-w]'); if(x){EXWORDS=EXWORDS.filter(w=>w!==x.dataset.w);saveExwords();render();}});
   document.getElementById('saveBtn').addEventListener('click',()=>{
     const name=prompt('設定名を入力',curName||'設定1'); if(!name)return;
     SETTINGS.map[name]=JSON.parse(JSON.stringify(S)); SETTINGS.last=name; curName=name; saveSettings(); refreshSetSel(); markChanged();
