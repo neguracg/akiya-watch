@@ -1047,10 +1047,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         "types": types,
         "machi": list(_MACHI_NAMES),
         "cautions": filters.get("caution_keywords", []),
+        "exareas": filters.get("exclude_areas", []),
         "amin": amin_def,
     }, ensure_ascii=False)
 
     H = ["<!DOCTYPE html><html lang='ja'><head><meta charset='utf-8'>",
+         "<meta name='viewport' content='width=device-width, initial-scale=1'>",
          "<meta name='robots' content='noindex'>",
          f"<title>akiya-watch {ts_label}</title><style>{css}</style></head><body>"]
 
@@ -1066,56 +1068,54 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
 
-    # ① 参考情報（NGエリア・プラス/マイナス要素の定義）
-    H.append("<h2 class='static'>① 参考情報（NGエリア・バッジ定義）</h2><div class='cond'>")
-    H.append("<div><b>NGエリア</b> "
-             + escape("、".join(filters.get("exclude_areas", [])) or "なし")
-             + _help("所在地にこの地名を含む物件を一覧から外します（通学不可の別荘地など）。") + "</div>")
+    # ① 参考情報（バッジ定義）— 既定で折り畳み（凡例ボタン）
+    H.append("<h2 class='sec' data-target='secRef'>① 参考情報（バッジの見方）</h2>")
+    H.append("<div id='secRef' class='secbody cond'>")
     H.append("<div><b>プラス要素（好材料）</b> "
              + escape("、".join(filters.get("interest_keywords", [])) or "なし")
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
     H.append("<div><b>マイナス要素（注意点）</b> "
              + escape("、".join(filters.get("caution_keywords", [])) or "なし")
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
+    H.append("<div class='note'>" + disclaimer.replace("<p class='note'>", "").replace("</p>", "") + "</div>")
     H.append("</div>")
-    H.append(disclaimer)
 
-    # ---- スリム共通パネル ----
+    # ---- パネル（モバイルは「絞り込み」ボタンで開閉）----
     ceil_ids = {"更地": "c0", "古家付き土地": "c1", "中古戸建": "c2", "空き家": "c3"}
     ceil_inputs = "".join(
-        f"<label>{escape(t)} <input type='number' class='ceil' data-t='{escape(t)}' "
-        f"id='{ceil_ids[t]}' value='{ceil_by_type.get(t, pmax_def)}'></label>" for t in types)
-    H.append("<div class='panel'>")
-    H.append("<div class='princ'>価格・面積は既定フィルタとして最初から効いています（条件に合う行だけ表示）。"
-             "解除するには「全件表示」をON。列ごとの絞り込みは各列ヘッダをクリック。</div>")
-    # 既定フィルタ：種別別価格上限＋面積下限
-    H.append("<div style='margin-top:7px'><b>既定フィルタ</b>"
-             + _help("この条件に合う物件だけを表示します（価格はこの金額以下、面積はこの値以上）。解除は『全件表示』。")
-             + " 価格上限(万円): " + ceil_inputs
-             + f" ／ 面積下限(㎡): <input type='number' id='aminInput' value='{amin_def}'>"
-             + _help("この面積以上の物件だけを表示します（既定330㎡。未満は隠れます）。") + "</div>")
-    # トグル類
-    H.append("<div style='margin-top:7px'>"
-             "<label><input type='checkbox' id='zenken'>全件表示</label>"
-             + _help("ONで価格上限・面積下限の既定フィルタを無視し、全件を表示します。")
-             + " <label><input type='checkbox' id='ngtoggle' checked>NGエリア除外</label>"
-             + _help("所在地にこの地名を含む物件を一覧から外します（通学不可の別荘地など）。")
-             + " <button id='moreExBtn'>除外設定…</button>"
-             + _help("ここに入れた語が物件情報の文中に含まれる物件を一覧から外します。※掲載文の言い回しで意図せず外れることがあるため慎重に。")
-             + "　表示 <span class='cnt' id='cnt'>—</span></div>")
+        f"<label>{escape(t)} <span class='unit'><input type='number' class='ceil' data-t='{escape(t)}' "
+        f"id='{ceil_ids[t]}' value='{ceil_by_type.get(t, pmax_def)}'>万円</span></label>" for t in types)
+    H.append("<button id='filterToggle'>絞り込み ▾</button>"
+             " <span class='cnt' id='cntTop'>—</span>")
+    H.append("<div class='panel' id='panel'>")
+    H.append("<div class='princ'>価格・面積は既定フィルタとして最初から効いています。"
+             "ある種別の上限を空欄にするとその種別は上限なし＝全件。属性での絞り込みは下の詳細フィルタか各列見出し（タップ）から。</div>")
+    # 価格フィルタ（種別別上限）＋面積下限
+    H.append("<div class='prow'><b>価格フィルタ</b>"
+             + _help("この金額以下の物件を表示します（種別ごと）。空欄にするとその種別は上限なし＝全件表示。")
+             + " " + ceil_inputs + "</div>")
+    H.append("<div class='prow'><b>面積下限</b>"
+             + _help("この面積以上の物件だけを表示します（既定330㎡。空欄で下限なし）。")
+             + f" <span class='unit'><input type='number' id='aminInput' value='{amin_def}'>㎡</span></div>")
+    # 除外エリア
+    H.append("<div class='prow'><b>除外エリア</b>"
+             + _help("所在地にこの地名を含む物件を一覧から隠します。")
+             + " <button id='areaBtn'>除外エリアを編集…</button></div>")
+    # 詳細フィルタ（JSが描画：並べ替え＋種別/市町/再建築/地目）
+    H.append("<div class='prow'><b>詳細フィルタ</b>"
+             + _help("並べ替えと、種別・市町・再建築・地目の絞り込み。カード表示でも使えます。") + "</div>")
+    H.append("<div id='panelFilters'></div>")
+    H.append("<div class='prow'>表示 <span class='cnt' id='cnt'>—</span></div>")
     H.append("</div>")
-    # 「除外設定」ポップアップ：(a)定義済み語チェック (b)自由入力チップ
-    H.append("<div id='exPop'>"
-             + "<div class='pr'><b>除外設定</b>（物件情報の文中に含む語で隠す）"
-             + _help("ここに入れた語が物件情報の文中に含まれる物件を一覧から外します。※掲載文の言い回しで意図せず外れることがあるため慎重に。") + "</div>"
-             + "<div class='pr'>定義済み語（既定OFF）:</div>"
-             + "".join(f"<label><input type='checkbox' class='exkw' value='{escape(kw)}'>{escape(kw)}</label>"
-                       for kw in filters.get("caution_keywords", []))
-             + "<div class='pr' style='border-top:1px solid #ddd;padding-top:5px'>自由に追加（語・地名）:"
-             + " <input id='exInput' type='text' style='width:110px' placeholder='例: 別荘地'>"
-             + " <button id='exAdd'>追加</button></div>"
-             + "<div class='pr' id='exChips'></div>"
-             + "<div class='pr'><button id='exClose'>閉じる</button></div></div>")
+    # 「除外エリア」ポップアップ
+    H.append("<div id='areaPop'>"
+             + "<div class='pr'><b>除外エリア</b>（所在地に含む地名で隠す）"
+             + _help("所在地にこの地名を含む物件を一覧から隠します。") + "</div>"
+             + "<div id='areaList'></div>"
+             + "<div class='pr' style='border-top:1px solid #ddd;padding-top:5px'>追加: "
+             + "<input id='areaInput' type='text' style='width:120px' placeholder='例: 別荘地名'>"
+             + " <button id='areaAdd'>追加</button></div>"
+             + "<div class='pr'><button id='areaClose'>閉じる</button></div></div>")
 
     # ---- 物件ブラウザ（折り畳み・JS描画）----
     H.append("<h2 class='sec open' data-target='secMain'>物件ブラウザ（全件・クライアント側フィルタ）</h2>")
@@ -1236,13 +1236,36 @@ _REPORT_CSS = (
     ".restorebtn{cursor:pointer;color:#0a7d2c;border:1px solid #b4e0bf;border-radius:3px;background:#fff;}"
     ".princ{font-size:11px;color:#444;background:#fff;border:1px dashed #cfd8dc;padding:3px 7px;border-radius:4px;}"
     ".panel input[type=number]{width:60px;}"
-    "#exPop{display:none;position:absolute;z-index:50;background:#fff;border:1px solid #888;border-radius:5px;"
-    "box-shadow:0 3px 10px rgba(0,0,0,.25);padding:8px;font-size:12px;min-width:150px;}"
-    "#exPop label{display:block;}#exPop .pr{margin:3px 0;}"
+    "#areaPop .pr{margin:3px 0;}"
     ".bi,.bc,.bz{display:inline-block;font-size:10px;padding:0 4px;margin-left:3px;border-radius:3px;line-height:1.4;}"
     ".bi{background:#e3f3e6;color:#0a7d2c;}.bc{background:#fde3e3;color:#c0392b;}.bz{background:#f3e3fd;color:#7b2fb5;}"
     ".chip{display:inline-block;background:#eef;border:1px solid #ccd;border-radius:10px;padding:0 4px 0 7px;"
     "margin:2px 3px 0 0;font-size:11px;}.chip b{cursor:pointer;color:#c0392b;margin-left:4px;}"
+    ".help.show .tip{display:block;}"  # タップで開く
+    ".unit{white-space:nowrap;}.unit input{width:60px;}"
+    ".prow{margin-top:7px;}#panelFilters .pf{margin:3px 0;}#panelFilters .pf label{margin-right:8px;}"
+    "#filterToggle{display:none;font-size:14px;padding:5px 12px;margin-top:8px;}"
+    "#areaPop{display:none;position:absolute;z-index:50;background:#fff;border:1px solid #888;border-radius:5px;"
+    "box-shadow:0 3px 10px rgba(0,0,0,.25);padding:8px;font-size:12px;min-width:180px;max-width:300px;}"
+    "#areaPop label{display:inline-block;}#areaList .arow{margin:2px 0;}#areaList .delx{cursor:pointer;color:#c0392b;margin-left:6px;}"
+    # ---- レスポンシブ: 狭幅(<=700px)はテーブルをカード化 ----
+    "@media(max-width:700px){"
+    "body{margin:0 8px 40px;}.topbar{flex-direction:column;align-items:flex-start;}"
+    ".topctl{margin-top:4px;}#filterToggle{display:inline-block;}"
+    ".panel{display:none;}.panel.open{display:block;}"
+    "#mainTbl thead,#newTbl thead,#hiddenTbl thead,"
+    "#mainTbl .legendrow,#newTbl .legendrow,#hiddenTbl .legendrow{display:none;}"
+    "#mainTbl tbody tr,#newTbl tbody tr,#hiddenTbl tbody tr{display:block;border:1px solid #bbb;border-radius:7px;"
+    "margin:8px 0;padding:5px 8px;background:#fff;}"
+    "#mainTbl td,#newTbl td,#hiddenTbl td{display:block;border:none;border-bottom:1px solid #f0f0f0;"
+    "padding:3px 0;font-size:13px;white-space:normal;}"
+    "#mainTbl td:last-child,#newTbl td:last-child,#hiddenTbl td:last-child{border-bottom:none;}"
+    "#mainTbl td[data-label]::before,#newTbl td[data-label]::before,#hiddenTbl td[data-label]::before{"
+    "content:attr(data-label)'：';color:#888;font-size:11px;display:inline-block;min-width:5em;}"
+    "#mainTbl td.cardhead,#newTbl td.cardhead,#hiddenTbl td.cardhead{font-size:15px;font-weight:bold;"
+    "border-bottom:2px solid #e6eef0;margin-bottom:2px;}"
+    "#mainTbl td.cardhead::before,#newTbl td.cardhead::before,#hiddenTbl td.cardhead::before{display:none;}"
+    "h1{font-size:16px;}}"
 )
 
 
@@ -1253,7 +1276,7 @@ const COLS=[
  {k:'machi',l:'市町',f:'check',opts:MACHI},
  {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
  {k:'loc',l:'所在地'},
- {k:'price',l:'価格',f:'range'},
+ {k:'price',l:'価格'},
  {k:'area',l:'面積',f:'range'},
  {k:'tsubo',l:'坪単価',f:'range'},
  {k:'chimoku',l:'地目',f:'check',opts:CHIMOKU_OPTS},
@@ -1271,15 +1294,16 @@ function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#
 function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk';}
 function normLoc(s){return (s||'').replace('静岡県','').replace(/\s+/g,'');}
 
-function defState(){return{ceil:Object.assign({},CONFIG.ceilings),amin:CONFIG.amin,ng:true,zenken:false,exkw:[],cf:{},sort:{k:null,d:1}};}
+function defState(){return{ceil:Object.assign({},CONFIG.ceilings),amin:CONFIG.amin,cf:{},sort:{k:null,d:1}};}
 let S=defState();
-const LS_SET='akiya.settings.v3', LS_HIDE='akiya.hidden.v3', LS_EXW='akiya.exwords.v1';
+const LS_SET='akiya.settings.v3', LS_HIDE='akiya.hidden.v3', LS_AREA='akiya.exareas.v2';
 function lsGet(k,def){try{const v=JSON.parse(localStorage.getItem(k));return v==null?def:v;}catch(e){return def;}}
 let SETTINGS=lsGet(LS_SET,{map:{},last:null}); let HIDDEN=new Set(lsGet(LS_HIDE,[])); let curName=null;
-let EXWORDS=lsGet(LS_EXW,[]);
+// 除外エリア＝[{name,on}]。初回は定義済み別荘地を全ON。
+let EXAREAS=lsGet(LS_AREA,(CONFIG.exareas||[]).map(n=>({name:n,on:true})));
 function saveHidden(){localStorage.setItem(LS_HIDE,JSON.stringify([...HIDDEN]));}
 function saveSettings(){localStorage.setItem(LS_SET,JSON.stringify(SETTINGS));}
-function saveExwords(){localStorage.setItem(LS_EXW,JSON.stringify(EXWORDS));}
+function saveAreas(){localStorage.setItem(LS_AREA,JSON.stringify(EXAREAS));}
 
 // 重複排除グループ（正規化所在地＋面積＋価格が完全一致のみ統合。所在地なしは統合しない）
 const GROUPS=[],KIDX={};
@@ -1290,19 +1314,18 @@ DATA.forEach((d,i)=>{
 });
 
 function passFilters(d){
-  if(S.ng&&d.ng)return false;
-  if(S.exkw.length&&(d.cautions||[]).some(k=>S.exkw.includes(k)))return false;
-  if(EXWORDS.length&&EXWORDS.some(w=>w&&(d.hay||'').includes(w)))return false;
+  // 除外エリア（所在地への地名マッチのみ）
+  const loc=d.loc||'';
+  if(EXAREAS.some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
+  // 列フィルタ（種別/市町/再建築/地目=check、面積/坪単価=range）
   for(const k in S.cf){const cf=S.cf[k],v=d[k];
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
   }
-  // 既定フィルタ（種別別価格上限・面積下限）。全件表示ONで無視。
-  if(!S.zenken){
-    const c=S.ceil[d.shubetsu], am=S.amin;
-    if(am!=null&&(d.area==null||d.area<am))return false;
-    if(c!=null&&(d.price==null||d.price>c))return false;
-  }
+  // 既定フィルタ：種別別価格上限・面積下限。空欄(null)ならその制約なし＝全件。
+  const c=S.ceil[d.shubetsu], am=S.amin;
+  if(am!=null&&(d.area==null||d.area<am))return false;
+  if(c!=null&&(d.price==null||d.price>c))return false;
   return true;
 }
 
@@ -1331,18 +1354,18 @@ function rowHtml(g,inHidden){
   const op=inHidden?("<button class=restorebtn data-dk='"+esc(g.dk)+"'>復元</button>")
                    :("<button class=hidebtn data-dk='"+esc(g.dk)+"'>非表示</button>");
   return "<tr>"
-    +"<td>"+esc(d.machi||'—')+"</td>"
-    +"<td title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>"
-    +"<td>"+loc+"</td>"
-    +"<td style='"+hPrice(d.price)+"'>"+price+"</td>"
-    +"<td style='"+hArea(d.area)+"'>"+area+"</td>"
-    +"<td style='"+hTsubo(d.tsubo)+"'>"+tsubo+"</td>"
-    +"<td>"+esc(d.chimoku)+"</td><td>"+esc(d.toshi)+"</td>"
-    +"<td class='"+rbClass(d.rb)+"'>"+esc(d.rb)+"</td>"
-    +"<td>"+esc(reason)+"</td>"
-    +"<td>"+esc(d.first_seen||'—')+"</td>"
-    +"<td><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
-    +"<td>"+op+"</td></tr>";
+    +"<td data-label='市町'>"+esc(d.machi||'—')+"</td>"
+    +"<td data-label='種別' title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>"
+    +"<td class='cardhead' data-label='所在地'>"+loc+"</td>"
+    +"<td data-label='価格' style='"+hPrice(d.price)+"'>"+price+"</td>"
+    +"<td data-label='面積' style='"+hArea(d.area)+"'>"+area+"</td>"
+    +"<td data-label='坪単価' style='"+hTsubo(d.tsubo)+"'>"+tsubo+"</td>"
+    +"<td data-label='地目'>"+esc(d.chimoku)+"</td><td data-label='都計'>"+esc(d.toshi)+"</td>"
+    +"<td data-label='再建築' class='"+rbClass(d.rb)+"'>"+esc(d.rb)+"</td>"
+    +"<td data-label='再建築理由'>"+esc(reason)+"</td>"
+    +"<td data-label='検出日'>"+esc(d.first_seen||'—')+"</td>"
+    +"<td data-label='詳細'><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
+    +"<td data-label='操作'>"+op+"</td></tr>";
 }
 function legendRow(){
   return "<tfoot><tr class=legendrow><td colspan="+NCOL+" class=heatleg>"
@@ -1367,13 +1390,39 @@ function render(){
   const hid=GROUPS.filter(g=>HIDDEN.has(g.dk));
   document.getElementById('hiddenTbl').innerHTML=tbl(sortGroups(hid),true);
   document.getElementById('hiddenCnt').textContent='('+hid.length+'件)';
-  document.getElementById('cnt').textContent=vis.length+'件 / 全'+GROUPS.length+'グループ'+(S.zenken?'（全件表示）':'（既定フィルタ適用）')+'・新着'+nv.length;
-  renderChips();
+  const msg=vis.length+'件 / 全'+GROUPS.length+'グループ・新着'+nv.length;
+  document.getElementById('cnt').textContent=msg;
+  const ct=document.getElementById('cntTop'); if(ct)ct.textContent=vis.length+'件';
+  buildPanelFilters();
   markChanged();
 }
-function renderChips(){
-  const box=document.getElementById('exChips'); if(!box)return;
-  box.innerHTML=EXWORDS.map(w=>"<span class=chip>"+esc(w)+"<b data-w='"+esc(w)+"'>×</b></span>").join('')||"<span class=muted>（自由除外語なし）</span>";
+// ---- パネル側 詳細フィルタ（並べ替え＋種別/市町/再建築/地目）----
+function buildPanelFilters(){
+  const box=document.getElementById('panelFilters'); if(!box)return;
+  let h="<div class=pf>並べ替え <select id='sortSel'><option value=''>既定(価格昇順)</option>";
+  COLS.forEach(c=>{h+="<option value='"+c.k+"'"+(S.sort.k===c.k?' selected':'')+">"+esc(c.l)+"</option>";});
+  h+="</select> <button id='sortDir'>"+(S.sort.d>0?'▲昇順':'▼降順')+"</button></div>";
+  [['shubetsu','種別'],['machi','市町'],['rb','再建築'],['chimoku','地目']].forEach(([k,lbl])=>{
+    const opts=(k==='chimoku')?CHIMOKU_OPTS:COLS.find(x=>x.k===k).opts;
+    const set=(S.cf[k]&&S.cf[k].set)?S.cf[k].set:opts.slice();
+    h+="<div class=pf><b>"+esc(lbl)+"</b> "+opts.map(o=>"<label><input type=checkbox class=pfchk data-k='"+k+"' value='"+esc(o)+"' "+(set.includes(o)?'checked':'')+">"+esc(o)+"</label>").join('')+"</div>";
+  });
+  box.innerHTML=h;
+  document.getElementById('sortSel').onchange=e=>{S.sort.k=e.target.value||null;render();};
+  document.getElementById('sortDir').onclick=()=>{S.sort.d=-S.sort.d;render();};
+  box.querySelectorAll('.pfchk').forEach(cb=>cb.onchange=()=>{
+    const k=cb.dataset.k, opts=(k==='chimoku')?CHIMOKU_OPTS:COLS.find(x=>x.k===k).opts;
+    const set=[...box.querySelectorAll(".pfchk[data-k='"+k+"']:checked")].map(x=>x.value);
+    if(set.length===opts.length)delete S.cf[k]; else S.cf[k]={t:'check',set:set};
+    render();
+  });
+}
+// ---- 除外エリア ----
+function renderAreaList(){
+  const box=document.getElementById('areaList'); if(!box)return;
+  box.innerHTML=EXAREAS.length?EXAREAS.map(a=>
+    "<div class=arow><label><input type=checkbox class=areachk data-name='"+esc(a.name)+"' "+(a.on?'checked':'')+"> "+esc(a.name)+"</label><b class=delx data-name='"+esc(a.name)+"'>×</b></div>"
+  ).join(''):"<div class=muted>（除外エリアなし）</div>";
 }
 
 // ---- 列ヘッダ ポップアップ（並べ替え＋列フィルタ）----
@@ -1414,9 +1463,6 @@ document.getElementById('popup').addEventListener('click',e=>{
 function applyStateToControls(){
   document.querySelectorAll('.ceil').forEach(inp=>{inp.value=(S.ceil[inp.dataset.t]==null?'':S.ceil[inp.dataset.t]);});
   document.getElementById('aminInput').value=(S.amin==null?'':S.amin);
-  document.getElementById('ngtoggle').checked=!!S.ng;
-  document.getElementById('zenken').checked=!!S.zenken;
-  document.querySelectorAll('.exkw').forEach(c=>{c.checked=S.exkw.includes(c.value);});
 }
 function refreshSetSel(){
   const sel=document.getElementById('setSel'); let h='';
@@ -1435,20 +1481,22 @@ function markChanged(){
   if(SETTINGS.last&&SETTINGS.map[SETTINGS.last]){S=JSON.parse(JSON.stringify(SETTINGS.map[SETTINGS.last]));curName=SETTINGS.last;}
   document.querySelectorAll('.ceil').forEach(inp=>inp.addEventListener('input',()=>{S.ceil[inp.dataset.t]=numOrNull(inp.value);render();}));
   document.getElementById('aminInput').addEventListener('input',e=>{S.amin=numOrNull(e.target.value);render();});
-  document.getElementById('ngtoggle').addEventListener('change',e=>{S.ng=e.target.checked;render();});
-  document.getElementById('zenken').addEventListener('change',e=>{S.zenken=e.target.checked;render();});
-  document.querySelectorAll('.exkw').forEach(c=>c.addEventListener('change',()=>{S.exkw=[...document.querySelectorAll('.exkw:checked')].map(x=>x.value);render();}));
-  const exPop=document.getElementById('exPop');
-  document.getElementById('moreExBtn').addEventListener('click',e=>{e.stopPropagation();
-    if(exPop.style.display==='block'){exPop.style.display='none';return;}
-    const r=e.target.getBoundingClientRect();exPop.style.left=(window.scrollX+r.left)+'px';exPop.style.top=(window.scrollY+r.bottom+2)+'px';exPop.style.display='block';renderChips();});
-  document.getElementById('exClose').addEventListener('click',e=>{e.stopPropagation();exPop.style.display='none';});
-  function addExWord(){const v=(document.getElementById('exInput').value||'').trim();
-    if(v&&!EXWORDS.includes(v)){EXWORDS.push(v);saveExwords();document.getElementById('exInput').value='';render();}}
-  document.getElementById('exAdd').addEventListener('click',e=>{e.stopPropagation();addExWord();});
-  document.getElementById('exInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addExWord();}});
-  exPop.addEventListener('click',e=>{e.stopPropagation();
-    const x=e.target.closest('#exChips b[data-w]'); if(x){EXWORDS=EXWORDS.filter(w=>w!==x.dataset.w);saveExwords();render();}});
+  // 絞り込みドロワー（モバイル）
+  document.getElementById('filterToggle').addEventListener('click',()=>{document.getElementById('panel').classList.toggle('open');});
+  // 除外エリア ポップアップ
+  const areaPop=document.getElementById('areaPop');
+  document.getElementById('areaBtn').addEventListener('click',e=>{e.stopPropagation();
+    if(areaPop.style.display==='block'){areaPop.style.display='none';return;}
+    renderAreaList();const r=e.target.getBoundingClientRect();
+    areaPop.style.left=(window.scrollX+Math.max(8,r.left-100))+'px';areaPop.style.top=(window.scrollY+r.bottom+2)+'px';areaPop.style.display='block';});
+  document.getElementById('areaClose').addEventListener('click',e=>{e.stopPropagation();areaPop.style.display='none';});
+  function addArea(){const v=(document.getElementById('areaInput').value||'').trim();
+    if(v&&!EXAREAS.some(a=>a.name===v)){EXAREAS.push({name:v,on:true});saveAreas();document.getElementById('areaInput').value='';renderAreaList();render();}}
+  document.getElementById('areaAdd').addEventListener('click',e=>{e.stopPropagation();addArea();});
+  document.getElementById('areaInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addArea();}});
+  areaPop.addEventListener('click',e=>{e.stopPropagation();
+    const del=e.target.closest('.delx'); if(del){EXAREAS=EXAREAS.filter(a=>a.name!==del.dataset.name);saveAreas();renderAreaList();render();return;}
+    const chk=e.target.closest('.areachk'); if(chk){const a=EXAREAS.find(a=>a.name===chk.dataset.name);if(a){a.on=chk.checked;saveAreas();render();}}});
   document.getElementById('saveBtn').addEventListener('click',()=>{
     const name=prompt('設定名を入力',curName||'設定1'); if(!name)return;
     SETTINGS.map[name]=JSON.parse(JSON.stringify(S)); SETTINGS.last=name; curName=name; saveSettings(); refreshSetSel(); markChanged();
@@ -1462,7 +1510,7 @@ function markChanged(){
     const rb=e.target.closest('.restorebtn'); if(rb){HIDDEN.delete(rb.dataset.dk);saveHidden();render();return;}
     const sec=e.target.closest('h2.sec'); if(sec){const t=document.getElementById(sec.dataset.target);sec.classList.toggle('open');t.classList.toggle('open');return;}
     const pop=document.getElementById('popup'); if(pop.style.display==='block'&&!pop.contains(e.target))closePopup();
-    const ep=document.getElementById('exPop'); if(ep.style.display==='block'&&!ep.contains(e.target))ep.style.display='none';
+    const ap=document.getElementById('areaPop'); if(ap.style.display==='block'&&!ap.contains(e.target)&&e.target.id!=='areaBtn')ap.style.display='none';
   });
   applyStateToControls(); render();
 })();
