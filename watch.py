@@ -884,6 +884,50 @@ def parse_lifull(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# 家いちば アダプタ（個人直・持て余し物件。ieichiba.com）
+#   カード = a.property__list-item（カード自体が <a>、href=/project/{id} ＝詳細URL）。
+#   価格 = .property__list-item-price。所在地 = .property__list-item-address（末尾に価格が
+#   付くので除去）。※一覧カードに土地面積が無い（詳細ページのみ）→ area=None。
+#   説明文が豊富なので 種別/再建築/プラス・マイナスフラグは card_text から判定できる。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _extract_ieichiba_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("a.property__list-item"):
+        url = normalize_url(card.get("href", ""), base_url)
+        if not url:
+            continue
+        pe = card.select_one(".property__list-item-price")
+        price = parse_price_man(pe.get_text(strip=True)) if pe else None
+        ae = card.select_one(".property__list-item-address")
+        location = ""
+        if ae:
+            location = re.sub(r"\s*[\d,]+\s*万円.*$", "", ae.get_text(" ", strip=True)).strip()
+        card_text = card.get_text(" ", strip=True)
+        # 所在地(住所)で判定する。説明文には近隣市町名が出るため card_text 一致だと誤検出する。
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        # 一覧に面積が無いため area=None（詳細ページ取得は将来）。種別は本文から判定。
+        out.append(_make_record(url, location or card_text[:60], price, None, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_ieichiba(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "a.property__list-item"):
+        raise BotBlocked(f"家いちば ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_ieichiba_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[ieichiba] cards={len(dedup)} (1ページ・面積は一覧に無し)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -893,6 +937,7 @@ SITE_ADAPTERS = [
     # athome は現在持続的に bot対策でブロック中のため adapter 対象から外し、urls.yaml で
     # sources_extra(フェーズ2) へ退避済み（リトライストーム回避）。parse_athome は将来用に残置。
     (lambda sid: sid.startswith("lifull_") and sid != "lifull_akiyabank", parse_lifull),
+    (lambda sid: sid.startswith("ieichiba"), parse_ieichiba),
 ]
 
 
@@ -953,6 +998,51 @@ def municipality_hint(name: str) -> str:
     return ""
 
 
+def _intra_domain_order(items):
+    """同一ドメイン内で種別(URLパス先頭: tochi/kodate 等)を round-robin に交互配置する。
+    homes.co.jp は累積リクエスト数で 202(レート制限)になり、後半のサイトが弾かれる。
+    土地(tochi)と中古戸建(kodate)を交互にすると「制限前の良い枠」が両種別へ分かれ、
+    主要な町は土地・中古戸建の双方を取得できる（中古戸建が常に最後＝0件になるのを防ぐ）。"""
+    subs, order = {}, []
+    for s in items:
+        path = urllib.parse.urlsplit(s.get("url", "")).path.strip("/").split("/")
+        seg = path[0] if path and path[0] else ""
+        if seg not in subs:
+            subs[seg] = []
+            order.append(seg)
+        subs[seg].append(s)
+    queues = [subs[k] for k in order]
+    idx = [0] * len(queues)
+    out = []
+    while len(out) < len(items):
+        for qi, q in enumerate(queues):
+            if idx[qi] < len(q):
+                out.append(q[idx[qi]])
+                idx[qi] += 1
+    return out
+
+
+def _disperse_by_domain(sites):
+    """各ドメインを巡回全体へ均等配置して並べ替える（連続を避ける）。
+    LIFULL(homes.co.jp)の14サイトが連続して叩かれ 202(レート制限)になるのを緩和する。
+    各サイトに「グループ内位置の分数 = (group内index+0.5)/group件数」を割り当て、その昇順に
+    並べると、件数の多いドメインも巡回全体へ均等にばらける（末尾への偏りが出ない）。
+    さらにドメイン内では種別(土地/中古戸建)を交互配置する。
+    URLは一切変えない。巡回順のみ変更（順序は結果の正しさに影響しない）。"""
+    groups = {}
+    for s in sites:
+        dom = urllib.parse.urlsplit(s.get("url", "")).netloc
+        groups.setdefault(dom, []).append(s)
+    keyed = []
+    for n, (dom, items) in enumerate(groups.items()):
+        items = _intra_domain_order(items)
+        for i, s in enumerate(items):
+            # 第2キー(n)は同分数時の安定なドメイン分散用。
+            keyed.append((((i + 0.5) / len(items)), n, s))
+    keyed.sort(key=lambda t: (t[0], t[1]))
+    return [t[2] for t in keyed]
+
+
 def run(dry_run: bool = False, only: str = "") -> int:
     config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
     sites = config["sites"]
@@ -960,6 +1050,8 @@ def run(dry_run: bool = False, only: str = "") -> int:
     if only:
         sites = [s for s in sites if only in s["id"]]
         log.info(f"--only='{only}' で {len(sites)} サイトに絞り込み")
+    # 同一ドメイン連続を避ける（LIFULL 202レート制限の緩和）。
+    sites = _disperse_by_domain(sites)
     session = requests.Session()
 
     results = []
@@ -1129,9 +1221,10 @@ def run(dry_run: bool = False, only: str = "") -> int:
 
         if i < len(sites) - 1:
             # 次サイトが LIFULL(homes.co.jp) なら間隔を延長（202レート制限回避）。
+            # ドメイン分散で連続は減るが、念のため homes.co.jp 直前は長めに空ける。
             nxt_url = sites[i + 1].get("url", "")
             if "homes.co.jp" in nxt_url:
-                time.sleep(random.uniform(8, 14))
+                time.sleep(random.uniform(12, 20))
             else:
                 time.sleep(random.uniform(2, 5))
 
