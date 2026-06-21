@@ -63,15 +63,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_74423075/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/|多呂 800万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県三島市多呂225",
-      "price_man": 800,
-      "area_sqm": 228.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/",
-      "text": "多呂 800万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78391473/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -80,6 +71,15 @@
       "area_sqm": 206.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78391473/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/|多呂 800万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市多呂225",
+      "price_man": 800,
+      "area_sqm": 228.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/",
+      "text": "多呂 800万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20697228/|富士ビレッジ（三島駅） 895万円": {
       "first_seen": "2026-06-17",
@@ -180,15 +180,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78363513/",
       "text": "60坪以上の土地です。高台で日当たり良好。閑静な住宅街です。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/|☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県三島市若松町",
-      "price_man": 1380,
-      "area_sqm": 242.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/",
-      "text": "☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/|谷田（三島二日町駅） 1380万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -197,6 +188,15 @@
       "area_sqm": 184.8,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/",
       "text": "谷田（三島二日町駅） 1380万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/|☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市若松町",
+      "price_man": 1380,
+      "area_sqm": 242.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/",
+      "text": "☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/|文教町２（三島駅） 1500万円": {
       "first_seen": "2026-06-17",
@@ -216,15 +216,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/",
       "text": "☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/|＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県三島市萩50-1",
-      "price_man": 1680,
-      "area_sqm": 128.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/",
-      "text": "＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/|＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -233,6 +224,15 @@
       "area_sqm": 151.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/",
       "text": "＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/|＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市萩50-1",
+      "price_man": 1680,
+      "area_sqm": 128.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/",
+      "text": "＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
@@ -405,6 +405,15 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_79170166/",
       "text": "「三島広小路駅」より徒歩１２分。利便性の良いエリア。限定１区画。"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21119703/|建築条件無の土地！国道１号線へのアクセスしやすく、交通に便利な立地！": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市東本町２",
+      "price_man": 3000,
+      "area_sqm": 169.7,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21119703/",
+      "text": "建築条件無の土地！国道１号線へのアクセスしやすく、交通に便利な立地！"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20359048/|東本町２（三島二日町駅） 3200万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -441,15 +450,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21065136/",
       "text": "沢地（三島駅） 5300万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/|若松町（三島駅） 1億1000万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県三島市若松町",
-      "price_man": 11000,
-      "area_sqm": 2855.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/",
-      "text": "若松町（三島駅） 1億1000万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/|若松町（三島駅） 1億1000万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -457,6 +457,15 @@
       "price_man": 11000,
       "area_sqm": 2855.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/",
+      "text": "若松町（三島駅） 1億1000万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/|若松町（三島駅） 1億1000万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市若松町",
+      "price_man": 11000,
+      "area_sqm": 2855.2,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/",
       "text": "若松町（三島駅） 1億1000万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_97070761/|若松町（三島駅） 1億1000万円": {
@@ -469,6 +478,6 @@
       "text": "若松町（三島駅） 1億1000万円"
     }
   },
-  "hash": "0437158e8314c4dc",
-  "fetched_at": "2026-06-21T12:03:09.736671"
+  "hash": "511f25c84491a463",
+  "fetched_at": "2026-06-21T23:09:32.248181"
 }

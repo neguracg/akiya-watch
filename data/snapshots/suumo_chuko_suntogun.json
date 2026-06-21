@@ -144,15 +144,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_73061917/",
       "text": "建坪73坪超の二世帯住宅♪（H9年3月増築）1階は和風、2階は洋風の室内。"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/|☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県駿東郡清水町伏見",
-      "price_man": 1980,
-      "area_sqm": 165.3,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/",
-      "text": "☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/|中徳倉 1980万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -161,6 +152,15 @@
       "area_sqm": 164.8,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/",
       "text": "中徳倉 1980万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/|☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県駿東郡清水町伏見",
+      "price_man": 1980,
+      "area_sqm": 165.3,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/",
+      "text": "☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/|☆角地にある3階建てのお家　日当たり良好です": {
       "first_seen": "2026-06-17",
@@ -306,15 +306,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20516724/",
       "text": "耐震・耐火に優れた旭化成ホームズのヘーベルハウス中古住宅　５ＬＤＫ＋ＷＩＣ"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20709828/|東野 1億3800万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県駿東郡長泉町東野",
-      "price_man": 13800,
-      "area_sqm": 631.6,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20709828/",
-      "text": "東野 1億3800万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/|☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -323,6 +314,15 @@
       "area_sqm": 631.6,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/",
       "text": "☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20709828/|東野 1億3800万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県駿東郡長泉町東野",
+      "price_man": 13800,
+      "area_sqm": 631.6,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20709828/",
+      "text": "東野 1億3800万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_77869077/|☆　敷地面積600坪と広々しています。　　→工場と住宅が併設しています。": {
       "first_seen": "2026-06-17",
@@ -343,6 +343,6 @@
       "text": "太陽光発電・床暖房設置！【デグチエステート】駿東郡長泉町東野中古住宅"
     }
   },
-  "hash": "273ed7405b313517",
-  "fetched_at": "2026-06-21T12:05:53.244548"
+  "hash": "ac1c3f5a38a0f808",
+  "fetched_at": "2026-06-21T23:12:10.746639"
 }

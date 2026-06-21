@@ -117,15 +117,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20557347/",
       "text": "◇◆＼MIRAIE売主／◆◇落ち着いた住環境♪コンビニ徒歩圏内♪"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78917545/|陽当たり良好な立地です。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県田方郡函南町上沢",
-      "price_man": 550,
-      "area_sqm": 225.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78917545/",
-      "text": "陽当たり良好な立地です。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_71259940/|平井 550万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -134,6 +125,15 @@
       "area_sqm": 246.0,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_71259940/",
       "text": "平井 550万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78917545/|陽当たり良好な立地です。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県田方郡函南町上沢",
+      "price_man": 550,
+      "area_sqm": 225.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78917545/",
+      "text": "陽当たり良好な立地です。"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20935460/|平井 580万円": {
       "first_seen": "2026-06-17",
@@ -225,15 +225,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_97678859/",
       "text": "畑毛 970万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/|丹那 980万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県田方郡函南町丹那",
-      "price_man": 980,
-      "area_sqm": 342.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/",
-      "text": "丹那 980万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75024707/|富士山望む一戸建別荘　駐車場１台分。外装と一部内装リフォーム後にお引渡し。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -242,6 +233,15 @@
       "area_sqm": 379.0,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75024707/",
       "text": "富士山望む一戸建別荘　駐車場１台分。外装と一部内装リフォーム後にお引渡し。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/|丹那 980万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県田方郡函南町丹那",
+      "price_man": 980,
+      "area_sqm": 342.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/",
+      "text": "丹那 980万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_74221259/|☆R2年、水回りリフォーム済（システムキッチン・UB・トイレ・洗面台）。": {
       "first_seen": "2026-06-17",
@@ -297,15 +297,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20831938/",
       "text": "柏谷（伊豆仁田駅） 1280万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20663794/|☆セキスイハイム施工の軽量鉄骨住宅☆　大家族対応の大型住宅": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 1480,
-      "area_sqm": 207.7,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20663794/",
-      "text": "☆セキスイハイム施工の軽量鉄骨住宅☆　大家族対応の大型住宅"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20096019/|平井 1480万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -314,6 +305,15 @@
       "area_sqm": 495.9,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20096019/",
       "text": "平井 1480万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20663794/|☆セキスイハイム施工の軽量鉄骨住宅☆　大家族対応の大型住宅": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 1480,
+      "area_sqm": 207.7,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20663794/",
+      "text": "☆セキスイハイム施工の軽量鉄骨住宅☆　大家族対応の大型住宅"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78433479/|☆敷地面積177坪！圧倒的な広さが叶える贅沢でゆとりのある暮らし♪": {
       "first_seen": "2026-06-17",
@@ -622,6 +622,6 @@
       "text": "丹那南箱根ダイヤランド 4600万円"
     }
   },
-  "hash": "769bd4c608d15628",
-  "fetched_at": "2026-06-21T12:06:10.745603"
+  "hash": "0d34745362154277",
+  "fetched_at": "2026-06-21T23:12:26.861770"
 }

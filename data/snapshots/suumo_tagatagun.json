@@ -117,15 +117,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20069793/",
       "text": "畑毛 750万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21063252/|☆【建築条件なし】「前面道路7ｍ×閑静な住宅街」子育てに最適な環境♪": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県田方郡函南町肥田",
-      "price_man": 780,
-      "area_sqm": 252.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21063252/",
-      "text": "☆【建築条件なし】「前面道路7ｍ×閑静な住宅街」子育てに最適な環境♪"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21032774/|＼本日ご案内ＯＫ♪／●函南町平井●～敷地１５９坪×周辺環境充実の立地～": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -134,6 +125,15 @@
       "area_sqm": 526.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21032774/",
       "text": "＼本日ご案内ＯＫ♪／●函南町平井●～敷地１５９坪×周辺環境充実の立地～"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21063252/|☆【建築条件なし】「前面道路7ｍ×閑静な住宅街」子育てに最適な環境♪": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県田方郡函南町肥田",
+      "price_man": 780,
+      "area_sqm": 252.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21063252/",
+      "text": "☆【建築条件なし】「前面道路7ｍ×閑静な住宅街」子育てに最適な環境♪"
     },
     "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_94438487/|☆閑静な住宅街♪整形地、建築条件なし。引き渡しは、解体更地渡し致します。": {
       "first_seen": "2026-06-17",
@@ -262,6 +262,6 @@
       "text": "大土肥（大場駅） 6800万円"
     }
   },
-  "hash": "1784d24b5df0b6f7",
-  "fetched_at": "2026-06-21T12:04:12.785526"
+  "hash": "c01c3dad32116fbe",
+  "fetched_at": "2026-06-21T23:10:38.189928"
 }

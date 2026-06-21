@@ -180,15 +180,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33303030000166/",
       "text": "沼津市駿河台 (沼津駅)"
     },
-    "https://www.homes.co.jp/tochi/b-33333670000003/|沼津市中瀬町 (沼津駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "沼津市中瀬町 (沼津駅)",
-      "price_man": 3588,
-      "area_sqm": 339.0,
-      "url": "https://www.homes.co.jp/tochi/b-33333670000003/",
-      "text": "沼津市中瀬町 (沼津駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33313380000004/|沼津市原町中1丁目 (原駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
@@ -234,15 +225,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33313380000002/",
       "text": "沼津市若葉町 (沼津駅)"
     },
-    "https://www.homes.co.jp/tochi/b-33316800000123/|沼津市足高 (熱海駅)": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "location": "沼津市足高 (熱海駅)",
-      "price_man": 1200,
-      "area_sqm": 1850.3,
-      "url": "https://www.homes.co.jp/tochi/b-33316800000123/",
-      "text": "沼津市足高 (熱海駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33306250000014/|沼津市平町 (沼津駅)": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-21",
@@ -269,8 +251,26 @@
       "area_sqm": 45.5,
       "url": "https://www.homes.co.jp/tochi/b-33333610000022/",
       "text": "沼津市市道町 (沼津駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33303030000016/|沼津市豊町 (沼津駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市豊町 (沼津駅)",
+      "price_man": 590,
+      "area_sqm": 152.0,
+      "url": "https://www.homes.co.jp/tochi/b-33303030000016/",
+      "text": "沼津市豊町 (沼津駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33319390000041/|沼津市吉田町 (沼津駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市吉田町 (沼津駅)",
+      "price_man": 1100,
+      "area_sqm": 134.0,
+      "url": "https://www.homes.co.jp/tochi/b-33319390000041/",
+      "text": "沼津市吉田町 (沼津駅)"
     }
   },
-  "hash": "753c08fd89febdce",
-  "fetched_at": "2026-06-21T12:06:44.379711"
+  "hash": "93cb9e7f0a5a7cee",
+  "fetched_at": "2026-06-21T23:13:04.154911"
 }

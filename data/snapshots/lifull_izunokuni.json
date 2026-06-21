@@ -108,6 +108,42 @@
       "url": "https://www.homes.co.jp/tochi/b-33324270000038/",
       "text": "伊豆の国市南條 (伊豆長岡駅)"
     },
+    "https://www.homes.co.jp/tochi/b-1265050002640/|伊豆の国市北江間 (韮山駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "伊豆の国市北江間 (韮山駅)",
+      "price_man": 800,
+      "area_sqm": 3244.8,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002640/",
+      "text": "伊豆の国市北江間 (韮山駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002442/|伊豆の国市長岡 (伊豆長岡駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "伊豆の国市長岡 (伊豆長岡駅)",
+      "price_man": 650,
+      "area_sqm": 173.6,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002442/",
+      "text": "伊豆の国市長岡 (伊豆長岡駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002598/|伊豆の国市長崎 (原木駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "伊豆の国市長崎 (原木駅)",
+      "price_man": 990,
+      "area_sqm": 200.7,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002598/",
+      "text": "伊豆の国市長崎 (原木駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1556780000002/|伊豆の国市守木 (田京駅)": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "伊豆の国市守木 (田京駅)",
+      "price_man": 750,
+      "area_sqm": 185.0,
+      "url": "https://www.homes.co.jp/tochi/b-1556780000002/",
+      "text": "伊豆の国市守木 (田京駅)"
+    },
     "https://www.homes.co.jp/tochi/b-33303660000686/|伊豆の国市奈古谷小松ケ原": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
@@ -233,44 +269,8 @@
       "area_sqm": 73.2,
       "url": "https://www.homes.co.jp/tochi/b-1500050000639/",
       "text": "伊豆の国市南條 (伊豆長岡駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1500050000386/|伊豆の国市大仁 (大仁駅)": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "location": "伊豆の国市大仁 (大仁駅)",
-      "price_man": 1380,
-      "area_sqm": 342.3,
-      "url": "https://www.homes.co.jp/tochi/b-1500050000386/",
-      "text": "伊豆の国市大仁 (大仁駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1500050000601/|伊豆の国市中 (伊豆長岡駅)": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "location": "伊豆の国市中 (伊豆長岡駅)",
-      "price_man": 330,
-      "area_sqm": 381.0,
-      "url": "https://www.homes.co.jp/tochi/b-1500050000601/",
-      "text": "伊豆の国市中 (伊豆長岡駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33303690000049/|伊豆の国市原木 (韮山駅)": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "location": "伊豆の国市原木 (韮山駅)",
-      "price_man": 750,
-      "area_sqm": 136.5,
-      "url": "https://www.homes.co.jp/tochi/b-33303690000049/",
-      "text": "伊豆の国市原木 (韮山駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33303690000071/|伊豆の国市四日町 (韮山駅)": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "location": "伊豆の国市四日町 (韮山駅)",
-      "price_man": 1280,
-      "area_sqm": 165.9,
-      "url": "https://www.homes.co.jp/tochi/b-33303690000071/",
-      "text": "伊豆の国市四日町 (韮山駅)"
     }
   },
-  "hash": "328e3128346efaa2",
-  "fetched_at": "2026-06-21T12:06:20.229946"
+  "hash": "5152d6e593ebb5fd",
+  "fetched_at": "2026-06-21T23:12:42.085890"
 }
