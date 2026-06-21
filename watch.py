@@ -14,6 +14,7 @@ import logging.handlers
 import random
 import re
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.robotparser
@@ -23,6 +24,18 @@ from pathlib import Path
 import requests
 import yaml
 from bs4 import BeautifulSoup
+
+# Windows コンソール(cp932)で em-dash 等を含むログが UnicodeEncodeError を起こすのを防止。
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="backslashreplace")
+except Exception:
+    pass
+
+# 安全装置の定数
+FETCH_TOTAL_TIMEOUT = 25     # 1リクエストの総時間上限（秒）。requestsのtimeoutは細切れ送信で無限化するため
+SITE_TIME_BUDGET = 180       # 1サイトあたりの最大処理時間（秒）。超えたらページャ追従を打ち切り
+RUN_WALLCLOCK_LIMIT = 1800   # 実行全体の上限（秒・30分）。超えたら残サイトを打ち切って報告
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data" / "snapshots"
@@ -149,22 +162,45 @@ def robots_allowed(url: str, session: requests.Session) -> bool:
     return rp.can_fetch(HEADERS["User-Agent"], url)
 
 
+_SITE_DEADLINE = [0.0]  # run() が各サイト処理前に time.time()+SITE_TIME_BUDGET を設定
+
+
+def _site_time_left() -> bool:
+    """このサイトの処理時間予算が残っているか。"""
+    return _SITE_DEADLINE[0] == 0.0 or time.time() < _SITE_DEADLINE[0]
+
+
 def fetch(url: str, session: requests.Session) -> tuple[int, str]:
-    for attempt in range(2):
+    """HTTP GET。総経過時間を FETCH_TOTAL_TIMEOUT 秒で必ず打ち切る（使い捨てスレッド＋join方式）。
+
+    requests の timeout=(接続,読取) は「1回のソケット読み取り」単位にしか効かず、データを
+    細切れに送り続ける相手(slow-drip)だと1リクエストの総時間が無限に延びる（過去に54分〜
+    4時間ハング）。そこで取得を使い捨てデーモンスレッドで行い、メインは join(timeout) で必ず
+    制限時間内に戻る。締切超過時はそのスレッドを放置（daemon＝プロセス終了時に消える）し、
+    本流は status 0 で先へ進む。fetch ごとに新スレッドなので、プール枯渇による再ハングは無い。
+    （注: stream＋iter_content 方式は http.client の read(amt) が amt バイト揃うまでブロック
+      するため slow-drip でメインが固まり不可。本方式で回避。）
+    """
+    box = {}
+
+    def _do():
         try:
-            r = session.get(url, headers=HEADERS, timeout=30)
-            # Content-Type に charset 未指定だと requests は ISO-8859-1 を既定にする。
-            # 実体が UTF-8 のサイト（例: 空き家バンクしずおか）で文字化けするため、
-            # 既定の ISO-8859-1 のときだけ検出エンコーディングに差し替える。
+            r = session.get(url, headers=HEADERS, timeout=(10, 15))  # 接続10s / 各読取15s
+            # charset 未指定で requests が ISO-8859-1 を既定にした場合、UTF-8等へ補正
+            # （空き家バンクしずおか等は実体UTF-8だが ISO-8859-1 と誤申告）。
             if (r.encoding or "").lower() == "iso-8859-1":
                 r.encoding = r.apparent_encoding or "utf-8"
-            return r.status_code, r.text
+            box["v"] = (r.status_code, r.text)
         except Exception as e:
-            if attempt == 0:
-                time.sleep(3)
-            else:
-                return 0, str(e)
-    return 0, ""
+            box["v"] = (0, str(e))
+
+    th = threading.Thread(target=_do, daemon=True)
+    th.start()
+    th.join(FETCH_TOTAL_TIMEOUT)
+    if th.is_alive():
+        log.warning(f"fetch 総時間切れ {FETCH_TOTAL_TIMEOUT}s で打ち切り（放置スレッドは無害）: {url}")
+        return 0, "total-timeout"
+    return box.get("v", (0, "no-result"))
 
 
 def block_text_for(a) -> str:
@@ -558,17 +594,30 @@ def parse_suumo(first_html: str, base_url: str, filter_keywords: list,
     all_props = []
     page_url = base_url
     page = 1
+    seen_urls = {base_url}
+    seen_hashes = {page_hash(html)}
     while True:
         soup = BeautifulSoup(html, "html.parser")
         all_props.extend(_extract_suumo_cards(soup, page_url, filter_keywords, filters))
         nxt = _suumo_next_url(soup, page_url)
-        if not nxt or page >= SUUMO_MAX_PAGES:
+        if not nxt or page >= SUUMO_MAX_PAGES or not _site_time_left():
+            if not _site_time_left():
+                log.warning(f"[suumo] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        if nxt in seen_urls:  # 同一URLループ検知
+            log.warning(f"[suumo] 次ページURLが既出（ループ）→打ち切り: {nxt}")
             break
         time.sleep(random.uniform(2, 5))
         code, html = fetch(nxt, session)
         if code != 200:
-            log.warning(f"[suumo] page {page + 1} HTTP {code} — ページ追従を打ち切り（URLは変更しない）")
+            log.warning(f"[suumo] page {page + 1} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
             break
+        h = page_hash(html)
+        if h in seen_hashes:  # 同一内容ループ検知
+            log.warning(f"[suumo] 同一内容ページ（ループ）→打ち切り page={page + 1}")
+            break
+        seen_urls.add(nxt)
+        seen_hashes.add(h)
         page_url = nxt
         page += 1
 
@@ -663,12 +712,15 @@ def parse_takken(first_html: str, base_url: str, filter_keywords: list,
     loadbase = _takken_loadbase(soup)
     page = 1
     while loadbase and page < min(total, TAKKEN_MAX_PAGES):
+        if not _site_time_left():
+            log.warning(f"[takken] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
         page += 1
         time.sleep(random.uniform(2, 5))
         nxt = urllib.parse.urljoin(base_url, loadbase + f"/page/{page}")
         code, html = fetch(nxt, session)
         if code != 200:
-            log.warning(f"[takken] page {page} HTTP {code} — ページ追従を打ち切り（URLは変更しない）")
+            log.warning(f"[takken] page {page} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
             break
         all_props.extend(
             _extract_takken_cards(BeautifulSoup(html, "html.parser"), base_url, filters))
@@ -683,12 +735,164 @@ def parse_takken(first_html: str, base_url: str, filter_keywords: list,
     return out
 
 
+# ---------------------------------------------------------------------------
+# 共通ヘルパ（athome / LIFULL アダプタ用）
+# ---------------------------------------------------------------------------
+
+def _first_sqm(text: str):
+    """テキストから最初の面積値を㎡に正規化（m²/㎡/m2 優先、無ければ坪換算）。"""
+    if not text:
+        return None
+    m = re.search(r"([\d,]+(?:\.\d+)?)\s*(?:㎡|m²|m2)", text)
+    if m:
+        return round(float(m.group(1).replace(",", "")), 1)
+    m = re.search(r"([\d,]+(?:\.\d+)?)\s*坪", text)
+    if m:
+        return round(float(m.group(1).replace(",", "")) * TSUBO_TO_SQM, 1)
+    return None
+
+
+def _page_blocked(html: str, soup, card_selector: str) -> bool:
+    """カードが1枚も無く、かつ極小ページ＝bot対策/ソフトブロックと判定。
+
+    大きいページでカードが無い場合は真の0件・構造変化として扱い False。
+    """
+    if soup.select_one(card_selector):
+        return False
+    return len(html) < 12000
+
+
+# ---------------------------------------------------------------------------
+# athome アダプタ（土地 /tochi/・中古戸建 /kodate/chuko/。SSRで静的取得可）
+#   カード = div.card-box。属性 = .property-detail-table__block(<strong>ラベル</strong>
+#   <span>値</span>)。価格 = .property-price。詳細URL = /tochi|kodate/{id}/。
+#   bot対策の極小ページは検出→リトライ→継続なら BotBlocked。単一ページ抽出。
+# ---------------------------------------------------------------------------
+
+def _extract_athome_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    dtype = "中古戸建" if "/kodate/" in base_url else "更地"
+    for card in soup.select("div.card-box"):
+        pe = card.select_one(".property-price") or card.select_one("[class*=price]")
+        price = parse_price_man(pe.get_text(strip=True)) if pe else None
+        blocks = {}
+        for blk in card.select(".property-detail-table__block"):
+            st = blk.find("strong")
+            sp = blk.find("span")
+            if st and sp:
+                blocks.setdefault(st.get_text(strip=True), sp.get_text(" ", strip=True))
+        location = blocks.get("所在地", "")
+        area = _first_sqm(blocks.get("土地面積", ""))
+        if area is None:
+            for k, v in blocks.items():
+                if "面積" in k:
+                    area = _first_sqm(v)
+                    if area is not None:
+                        break
+        url = ""
+        for a in card.find_all("a", href=True):
+            if re.match(r"/(tochi|kodate)/\d", a["href"]):
+                url = normalize_url(a["href"], base_url)
+                break
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_athome(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    for attempt in range(2):
+        if not _page_blocked(first_html, soup, "div.card-box"):
+            break
+        wait = 8 + attempt * 8
+        log.warning(f"[athome] bot対策ページ検出（{len(first_html)}B）。{wait}秒待って再取得 {attempt + 1}/2: {base_url}")
+        time.sleep(wait)
+        code, first_html = fetch(base_url, session)
+        soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.card-box"):
+        raise BotBlocked(f"athome bot対策ページが継続: {base_url}")
+    out = _extract_athome_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[athome] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# LIFULL HOME'S アダプタ（土地 /tochi/・中古戸建 /kodate/chuko/）
+#   カード = div.mod-mergeBuilding--sale。価格/土地面積は spec テーブルの th↔td 対応
+#   （中古戸建は「土地面積」ラベルで土地優先）。所在地 = .bukkenName。
+#   詳細URL = /tochi|kodate/b-{id}/。202対策は run() 側（スリープ延長＋再試行）。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _lifull_card_specs(card):
+    for t in card.find_all("table"):
+        ths = [x.get_text(strip=True) for x in t.find_all("th")]
+        if "価格" in ths:
+            tds = [x.get_text(" ", strip=True) for x in t.find_all("td")]
+            d = {}
+            for i, h in enumerate(ths):
+                if i < len(tds):
+                    d.setdefault(h, tds[i])
+            return d
+    return {}
+
+
+def _extract_lifull_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    dtype = "中古戸建" if "/kodate/" in base_url else "更地"
+    for card in soup.select("div.mod-mergeBuilding--sale"):
+        specs = _lifull_card_specs(card)
+        price = parse_price_man(specs.get("価格", ""))
+        area = _first_sqm(specs.get("土地面積", ""))
+        nm = card.select_one(".bukkenName")
+        location = nm.get_text(" ", strip=True) if nm else ""
+        url = ""
+        for a in card.find_all("a", href=True):
+            if re.search(r"/(tochi|kodate)/b-\d", a["href"]):
+                url = normalize_url(a["href"], base_url)
+                break
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_lifull(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.mod-mergeBuilding--sale"):
+        raise BotBlocked(f"LIFULL ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_lifull_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[lifull] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
 SITE_ADAPTERS = [
     (lambda sid: sid.startswith("suumo_"), parse_suumo),
     (lambda sid: sid.startswith("takken_"), parse_takken),
+    # athome は現在持続的に bot対策でブロック中のため adapter 対象から外し、urls.yaml で
+    # sources_extra(フェーズ2) へ退避済み（リトライストーム回避）。parse_athome は将来用に残置。
+    (lambda sid: sid.startswith("lifull_") and sid != "lifull_akiyabank", parse_lifull),
 ]
 
 
@@ -762,6 +966,7 @@ def run(dry_run: bool = False, only: str = "") -> int:
     disappeared = []   # (site_name, archived_item, days_since_removed) 消滅(7日以内)
     today = date.today().isoformat()
     fail_count = 0
+    run_start = time.time()
 
     for i, site in enumerate(sites):
         sid = site["id"]
@@ -769,6 +974,11 @@ def run(dry_run: bool = False, only: str = "") -> int:
         url = site["url"]
         yaml_status = site.get("status", "")
         filter_kws = site.get("filter_keywords", [])
+        # 実行全体のウォールクロック上限。超えたら残サイトを打ち切ってレポートへ。
+        if time.time() - run_start > RUN_WALLCLOCK_LIMIT:
+            log.warning(f"実行ウォールクロック上限 {RUN_WALLCLOCK_LIMIT}s 超過。残 {len(sites) - i} サイトを打ち切り")
+            break
+        _SITE_DEADLINE[0] = time.time() + SITE_TIME_BUDGET  # このサイトの時間予算
         log.info(f"[{sid}] fetch start: {url}")
 
         row = {
@@ -918,7 +1128,12 @@ def run(dry_run: bool = False, only: str = "") -> int:
         results.append(row)
 
         if i < len(sites) - 1:
-            time.sleep(random.uniform(2, 5))
+            # 次サイトが LIFULL(homes.co.jp) なら間隔を延長（202レート制限回避）。
+            nxt_url = sites[i + 1].get("url", "")
+            if "homes.co.jp" in nxt_url:
+                time.sleep(random.uniform(8, 14))
+            else:
+                time.sleep(random.uniform(2, 5))
 
     ymd = datetime.now().strftime("%Y%m%d")
     prune_old_reports()

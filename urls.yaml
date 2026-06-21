@@ -111,82 +111,10 @@ sites:
     kind: 中古戸建
     filter_keywords: [函南町]
 
-  # ==== ① アットホーム 土地（ハッシュ監視・bot対策注意） ====
-  - id: athome_kannami
-    name: アットホーム 土地 函南町
-    url: "https://www.athome.co.jp/tochi/shizuoka/tagata_kannami-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-    note: "プログラムfetchに405を返した実績あり（bot対策想定）"
-  - id: athome_izunokuni
-    name: アットホーム 土地 伊豆の国市
-    url: "https://www.athome.co.jp/tochi/shizuoka/izunokuni-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-  - id: athome_mishima
-    name: アットホーム 土地 三島市
-    url: "https://www.athome.co.jp/tochi/shizuoka/mishima-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-  - id: athome_numazu
-    name: アットホーム 土地 沼津市
-    url: "https://www.athome.co.jp/tochi/shizuoka/numazu-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-  - id: athome_shimizu
-    name: アットホーム 土地 清水町
-    url: "https://www.athome.co.jp/tochi/shizuoka/suntou_shimizu-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-  - id: athome_nagaizumi
-    name: アットホーム 土地 長泉町
-    url: "https://www.athome.co.jp/tochi/shizuoka/suntou_nagaizumi-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-  - id: athome_susono
-    name: アットホーム 土地 裾野市
-    url: "https://www.athome.co.jp/tochi/shizuoka/susono-city/list/"
-    status: verified
-    channel: "①"
-    kind: 土地
-
-  # ==== ① アットホーム 中古戸建（ハッシュ監視・新規。清水/長泉は404保留→sources_extra） ====
-  - id: athome_chuko_izunokuni
-    name: アットホーム 中古戸建 伊豆の国市
-    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/izunokuni-city/list/"
-    status: verified
-    channel: "①"
-    kind: 中古戸建
-  - id: athome_chuko_mishima
-    name: アットホーム 中古戸建 三島市
-    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/mishima-city/list/"
-    status: verified
-    channel: "①"
-    kind: 中古戸建
-  - id: athome_chuko_numazu
-    name: アットホーム 中古戸建 沼津市
-    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/numazu-city/list/"
-    status: verified
-    channel: "①"
-    kind: 中古戸建
-  - id: athome_chuko_kannami
-    name: アットホーム 中古戸建 函南町
-    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/tagata_kannami-city/list/"
-    status: verified
-    channel: "①"
-    kind: 中古戸建
-  - id: athome_chuko_susono
-    name: アットホーム 中古戸建 裾野市
-    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/susono-city/list/"
-    status: verified
-    channel: "①"
-    kind: 中古戸建
+  # ==== ① アットホーム（土地7市町・中古戸建5市町）====
+  # 持続的な bot 対策ブロックのため sites から除外し sources_extra(フェーズ2) へ退避。
+  # URLは下記の sources_extra に保存（パターン: /tochi/shizuoka/{slug}/list/ ・
+  # /kodate/chuko/shizuoka/{slug}/list/）。ブラウザ自動化(フェーズ2)で開通予定。
 
   # ==== ① LIFULL HOME'S 土地（ハッシュ監視） ====
   - id: lifull_izunokuni
@@ -404,6 +332,20 @@ sites:
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
 # ============================================================================
 sources_extra:
+  - channel: "①"
+    name: アットホーム 土地（7市町）
+    kind: 土地
+    url: "https://www.athome.co.jp/tochi/shizuoka/{slug}/list/"
+    status: フェーズ2
+    http: 200(bot)
+    note: "slug= izunokuni-city/mishima-city/numazu-city/susono-city/tagata_kannami-city(函南)/suntou_shimizu-city/suntou_nagaizumi-city。SSRでカード(div.card-box)取得可だが持続的bot対策で7,548B極小ページを返す。adapter実装済(parse_athome)・ブラウザ自動化で開通"
+  - channel: "①"
+    name: アットホーム 中古戸建（5市町）
+    kind: 中古戸建
+    url: "https://www.athome.co.jp/kodate/chuko/shizuoka/{slug}/list/"
+    status: フェーズ2
+    http: 200(bot)
+    note: "slug= izunokuni-city/mishima-city/numazu-city/tagata_kannami-city(函南)/susono-city。清水/長泉は404既知。adapter実装済・bot対策のためフェーズ2"
   - channel: "①"
     name: ハトマークサイト（全宅連）売買 全6市町
     kind: 売買(住宅/土地)
