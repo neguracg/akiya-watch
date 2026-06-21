@@ -1,0 +1,49 @@
+name: daily-akiya-watch
+
+# トリガー: 手動(workflow_dispatch) ＋ 定期(schedule)。
+# schedule は「クラウドIPで各サイトが取れるか」の recon が通ってから有効化する（今は無効）。
+on:
+  workflow_dispatch:
+  # ↓ recon OK 後にコメント解除して有効化。0 22 * * * (UTC) = 毎日 07:00 JST
+  # schedule:
+  #   - cron: "0 22 * * *"
+
+permissions:
+  contents: write   # reports/・data/snapshots/ をコミットして push するため
+
+concurrency:
+  group: daily-akiya-watch
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40   # watch.py 側の 30分上限と二重化
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run watch.py
+        # exit 1/2 は「部分成功/全失敗」で異常終了ではないため、ジョブは止めない。
+        run: |
+          python watch.py || echo "watch.py exit=$? (1=部分成功/2=全非200。いずれも継続)"
+
+      - name: Commit & push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A reports/ data/snapshots/ data/archive/ SOURCES.md
+          if git diff --cached --quiet; then
+            echo "変更なし（コミットせず）"
+          else
+            git commit -m "Actions定期実行: $(date -u +%Y-%m-%dT%H:%MZ) クロール結果を更新"
+            git push
+          fi

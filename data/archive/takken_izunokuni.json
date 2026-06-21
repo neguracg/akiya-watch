@@ -1,0 +1,35 @@
+{
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167858/settle/1|売土地 伊豆の国市天野": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-15",
+    "location": "伊豆の国市天野",
+    "price_man": 2500,
+    "area_sqm": 871.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167858/settle/1",
+    "text": "売土地 伊豆の国市天野",
+    "removed_on": "2026-06-17",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162028/settle/1|売土地 伊豆の国市南江間": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-18",
+    "location": "伊豆の国市南江間",
+    "price_man": 350,
+    "area_sqm": 153.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162028/settle/1",
+    "text": "売土地 伊豆の国市南江間",
+    "removed_on": "2026-06-19",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163522/settle/1|売住宅 伊豆の国市宗光寺": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-19",
+    "location": "伊豆の国市宗光寺",
+    "price_man": 600,
+    "area_sqm": 112.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163522/settle/1",
+    "text": "売住宅 伊豆の国市宗光寺",
+    "removed_on": "2026-06-21",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  }
+}

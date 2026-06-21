@@ -1,0 +1,35 @@
+{
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173943/settle/1|新築売住宅 三島市藤代町3-8": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-17",
+    "location": "三島市藤代町3-8",
+    "price_man": 2880,
+    "area_sqm": 108.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173943/settle/1",
+    "text": "新築売住宅 三島市藤代町3-8",
+    "removed_on": "2026-06-18",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173929/settle/1|新築売住宅 三島市新谷23-5": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-17",
+    "location": "三島市新谷23-5",
+    "price_man": 3180,
+    "area_sqm": 201.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173929/settle/1",
+    "text": "新築売住宅 三島市新谷23-5",
+    "removed_on": "2026-06-18",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173371/settle/1|売マンション 三島市西若町6-5": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-19",
+    "location": "三島市西若町6-5",
+    "price_man": 1880,
+    "area_sqm": 77.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173371/settle/1",
+    "text": "売マンション 三島市西若町6-5",
+    "removed_on": "2026-06-21",
+    "site_name": "空き家バンクしずおか 三島市"
+  }
+}

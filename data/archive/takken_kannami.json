@@ -1,0 +1,24 @@
+{
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134639/settle/1|売土地 田方郡函南町日守306-2": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-15",
+    "location": "田方郡函南町日守306-2",
+    "price_man": 880,
+    "area_sqm": 687.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134639/settle/1",
+    "text": "売土地 田方郡函南町日守306-2",
+    "removed_on": "2026-06-17",
+    "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171540/settle/1|売土地 田方郡函南町畑毛478-7": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-19",
+    "location": "田方郡函南町畑毛478-7",
+    "price_man": 530,
+    "area_sqm": 252.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171540/settle/1",
+    "text": "売土地 田方郡函南町畑毛478-7",
+    "removed_on": "2026-06-21",
+    "site_name": "空き家バンクしずおか 函南町"
+  }
+}
