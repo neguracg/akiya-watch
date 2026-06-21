@@ -31,5 +31,16 @@
     "text": "売マンション 三島市西若町6-5",
     "removed_on": "2026-06-21",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173871/settle/1|売住宅 三島市大社町1-6": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-21",
+    "location": "三島市大社町1-6",
+    "price_man": 4280,
+    "area_sqm": 113.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173871/settle/1",
+    "text": "売住宅 三島市大社町1-6",
+    "removed_on": "2026-06-21",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

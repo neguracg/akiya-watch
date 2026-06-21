@@ -54,15 +54,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78909887/",
       "text": "【積水ハウス】長泉町下土狩。全3区画。ドラッグストア徒歩7分。小学校徒歩6分"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
-      "price_man": 5980,
-      "area_sqm": 275.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
-      "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/|【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -71,6 +62,15 @@
       "area_sqm": 311.4,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/",
       "text": "【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
+      "price_man": 5980,
+      "area_sqm": 275.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
+      "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長"
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78719754/|●長泉町上長窪●売土地♪信頼と実績の【さくら不動産】にお任せ下さい♪": {
       "first_seen": "2026-06-17",
@@ -379,6 +379,6 @@
       "text": "東野 4180万円"
     }
   },
-  "hash": "d1e14caeed9bc74d",
-  "fetched_at": "2026-06-21T10:23:41.325747"
+  "hash": "ef06b5de0eea5de9",
+  "fetched_at": "2026-06-21T12:04:04.465723"
 }

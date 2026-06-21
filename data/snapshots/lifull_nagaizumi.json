@@ -180,15 +180,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33324250000155/",
       "text": "駿東郡長泉町下土狩 (下土狩駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1540930000250/|駿東郡長泉町納米里 (長泉なめり駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡長泉町納米里 (長泉なめり駅)",
-      "price_man": 2500,
-      "area_sqm": 329.0,
-      "url": "https://www.homes.co.jp/tochi/b-1540930000250/",
-      "text": "駿東郡長泉町納米里 (長泉なめり駅)"
-    },
     "https://www.homes.co.jp/tochi/b-1265050002513/|駿東郡長泉町東野 (長泉なめり駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
@@ -197,6 +188,15 @@
       "area_sqm": 1272.2,
       "url": "https://www.homes.co.jp/tochi/b-1265050002513/",
       "text": "駿東郡長泉町東野 (長泉なめり駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1540930000250/|駿東郡長泉町納米里 (長泉なめり駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡長泉町納米里 (長泉なめり駅)",
+      "price_man": 2500,
+      "area_sqm": 329.0,
+      "url": "https://www.homes.co.jp/tochi/b-1540930000250/",
+      "text": "駿東郡長泉町納米里 (長泉なめり駅)"
     },
     "https://www.homes.co.jp/tochi/b-33300610000008/|駿東郡長泉町下土狩 (下土狩駅)": {
       "first_seen": "2026-06-19",
@@ -244,6 +244,6 @@
       "text": "駿東郡長泉町竹原 (下土狩駅)"
     }
   },
-  "hash": "d893e0282da202fa",
-  "fetched_at": "2026-06-21T10:28:35.675936"
+  "hash": "ffeaeb694e8db7e1",
+  "fetched_at": "2026-06-21T12:07:24.730359"
 }

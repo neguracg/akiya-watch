@@ -144,15 +144,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_73061917/",
       "text": "建坪73坪超の二世帯住宅♪（H9年3月増築）1階は和風、2階は洋風の室内。"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/|中徳倉 1980万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県駿東郡清水町中徳倉",
-      "price_man": 1980,
-      "area_sqm": 164.8,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/",
-      "text": "中徳倉 1980万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/|☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -161,6 +152,15 @@
       "area_sqm": 165.3,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20104560/",
       "text": "☆　国道1号線まで車で4分です。　　→多方面へのアクセス良好です。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/|中徳倉 1980万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県駿東郡清水町中徳倉",
+      "price_man": 1980,
+      "area_sqm": 164.8,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/",
+      "text": "中徳倉 1980万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/|☆角地にある3階建てのお家　日当たり良好です": {
       "first_seen": "2026-06-17",
@@ -215,15 +215,6 @@
       "area_sqm": 835.8,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20436625/",
       "text": "土地広々252坪、建物48坪の6LK！緑が多く、のどかで閑静な住環境♪"
-    },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20966371/|土地：約２５２坪、建物：約４８坪！暖かい日差したっぷりの穏やかな住環境！": {
-      "first_seen": "2026-06-18",
-      "last_seen": "2026-06-21",
-      "location": "静岡県駿東郡長泉町東野515-122",
-      "price_man": 2780,
-      "area_sqm": 835.8,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20966371/",
-      "text": "土地：約２５２坪、建物：約４８坪！暖かい日差したっぷりの穏やかな住環境！"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_76109949/|☆　小・中学校まで徒歩10分圏内です。☆　長泉町役場まで車で2分です。": {
       "first_seen": "2026-06-17",
@@ -352,6 +343,6 @@
       "text": "太陽光発電・床暖房設置！【デグチエステート】駿東郡長泉町東野中古住宅"
     }
   },
-  "hash": "2c239234954d68e1",
-  "fetched_at": "2026-06-21T10:25:23.970903"
+  "hash": "273ed7405b313517",
+  "fetched_at": "2026-06-21T12:05:53.244548"
 }

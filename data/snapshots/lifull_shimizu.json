@@ -18,24 +18,6 @@
       "url": "https://www.homes.co.jp/tochi/b-17015760000108/",
       "text": "【積水ハウス】コモンステージ清水町伏見【建築条件付土地】"
     },
-    "https://www.homes.co.jp/tochi/b-1316560004611/|駿東郡清水町徳倉 (沼津駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡清水町徳倉 (沼津駅)",
-      "price_man": 1490,
-      "area_sqm": 133.7,
-      "url": "https://www.homes.co.jp/tochi/b-1316560004611/",
-      "text": "駿東郡清水町徳倉 (沼津駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1316560004612/|駿東郡清水町徳倉 (沼津駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡清水町徳倉 (沼津駅)",
-      "price_man": 1490,
-      "area_sqm": 133.5,
-      "url": "https://www.homes.co.jp/tochi/b-1316560004612/",
-      "text": "駿東郡清水町徳倉 (沼津駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33326400000175/|駿東郡清水町伏見 (三島広小路駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
@@ -99,6 +81,15 @@
       "url": "https://www.homes.co.jp/tochi/b-1500050000474/",
       "text": "駿東郡清水町長沢 (大岡駅)"
     },
+    "https://www.homes.co.jp/tochi/b-1468010001080/|駿東郡清水町徳倉 (沼津駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町徳倉 (沼津駅)",
+      "price_man": 950,
+      "area_sqm": 167.8,
+      "url": "https://www.homes.co.jp/tochi/b-1468010001080/",
+      "text": "駿東郡清水町徳倉 (沼津駅)"
+    },
     "https://www.homes.co.jp/tochi/b-33330170000009/|駿東郡清水町徳倉 (東海バス　徳倉)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
@@ -117,13 +108,58 @@
       "url": "https://www.homes.co.jp/tochi/b-33301270000111/",
       "text": "駿東郡清水町堂庭 (三島駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1468010001080/|駿東郡清水町徳倉 (沼津駅)": {
+    "https://www.homes.co.jp/tochi/b-1265050002460/|駿東郡清水町徳倉 (三島二日町駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町徳倉 (三島二日町駅)",
+      "price_man": 1390,
+      "area_sqm": 254.0,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002460/",
+      "text": "駿東郡清水町徳倉 (三島二日町駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002601/|駿東郡清水町湯川 (三島駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町湯川 (三島駅)",
+      "price_man": 1840,
+      "area_sqm": 143.5,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002601/",
+      "text": "駿東郡清水町湯川 (三島駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002393/|駿東郡清水町玉川 (三島駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町玉川 (三島駅)",
+      "price_man": 1980,
+      "area_sqm": 165.3,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002393/",
+      "text": "駿東郡清水町玉川 (三島駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002603/|駿東郡清水町徳倉 (三島駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町徳倉 (三島駅)",
+      "price_man": 1980,
+      "area_sqm": 567.1,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002603/",
+      "text": "駿東郡清水町徳倉 (三島駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1316560004612/|駿東郡清水町徳倉 (沼津駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-21",
       "location": "駿東郡清水町徳倉 (沼津駅)",
-      "price_man": 950,
-      "area_sqm": 167.8,
-      "url": "https://www.homes.co.jp/tochi/b-1468010001080/",
+      "price_man": 1490,
+      "area_sqm": 133.5,
+      "url": "https://www.homes.co.jp/tochi/b-1316560004612/",
+      "text": "駿東郡清水町徳倉 (沼津駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1316560004611/|駿東郡清水町徳倉 (沼津駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-21",
+      "location": "駿東郡清水町徳倉 (沼津駅)",
+      "price_man": 1490,
+      "area_sqm": 133.7,
+      "url": "https://www.homes.co.jp/tochi/b-1316560004611/",
       "text": "駿東郡清水町徳倉 (沼津駅)"
     },
     "https://www.homes.co.jp/tochi/b-1540930000043/|駿東郡清水町徳倉 (沼津駅)": {
@@ -171,41 +207,14 @@
       "url": "https://www.homes.co.jp/tochi/b-1540930000037/",
       "text": "駿東郡清水町長沢 (大岡駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1265050002393/|駿東郡清水町玉川 (三島駅)": {
-      "first_seen": "2026-06-19",
+    "https://www.homes.co.jp/tochi/b-1436870001763/|駿東郡清水町柿田 (沼津駅)": {
+      "first_seen": "2026-06-21",
       "last_seen": "2026-06-21",
-      "location": "駿東郡清水町玉川 (三島駅)",
-      "price_man": 1980,
-      "area_sqm": 165.3,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002393/",
-      "text": "駿東郡清水町玉川 (三島駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1265050002601/|駿東郡清水町湯川 (三島駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡清水町湯川 (三島駅)",
-      "price_man": 1840,
-      "area_sqm": 143.5,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002601/",
-      "text": "駿東郡清水町湯川 (三島駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1265050002603/|駿東郡清水町徳倉 (三島駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡清水町徳倉 (三島駅)",
-      "price_man": 1980,
-      "area_sqm": 567.1,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002603/",
-      "text": "駿東郡清水町徳倉 (三島駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1265050002460/|駿東郡清水町徳倉 (三島二日町駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-21",
-      "location": "駿東郡清水町徳倉 (三島二日町駅)",
-      "price_man": 1390,
-      "area_sqm": 254.0,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002460/",
-      "text": "駿東郡清水町徳倉 (三島二日町駅)"
+      "location": "駿東郡清水町柿田 (沼津駅)",
+      "price_man": 2200,
+      "area_sqm": 280.2,
+      "url": "https://www.homes.co.jp/tochi/b-1436870001763/",
+      "text": "駿東郡清水町柿田 (沼津駅)"
     },
     "https://www.homes.co.jp/tochi/b-33323360000936/|駿東郡清水町徳倉 (沼津駅)": {
       "first_seen": "2026-06-19",
@@ -262,6 +271,6 @@
       "text": "駿東郡清水町徳倉 (沼津駅)"
     }
   },
-  "hash": "27094228e26b1567",
-  "fetched_at": "2026-06-21T10:28:24.448017"
+  "hash": "e85f058f5ab93504",
+  "fetched_at": "2026-06-21T12:07:12.101037"
 }

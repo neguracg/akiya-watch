@@ -162,15 +162,6 @@
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169641/settle/1",
       "text": "売土地 三島市旭ヶ丘"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173871/settle/1|売住宅 三島市大社町1-6": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-06-21",
-      "location": "三島市大社町1-6",
-      "price_man": 4280,
-      "area_sqm": 113.1,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173871/settle/1",
-      "text": "売住宅 三島市大社町1-6"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173520/settle/1|売土地 三島市徳倉４丁目": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-06-21",
@@ -478,6 +469,6 @@
       "text": "売アパート 三島市大宮町２丁目"
     }
   },
-  "hash": "f6e42f9f3e9f0487",
-  "fetched_at": "2026-06-21T10:31:02.473096"
+  "hash": "41732f3689c212a1",
+  "fetched_at": "2026-06-21T12:10:31.529023"
 }

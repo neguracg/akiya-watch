@@ -359,8 +359,1178 @@
       "area_sqm": 121.2,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158796/settle/1",
       "text": "売土地 沼津市平町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158909/settle/1|売土地 沼津市東沢田": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市東沢田",
+      "price_man": 1700,
+      "area_sqm": 190.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158909/settle/1",
+      "text": "売土地 沼津市東沢田"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169093/settle/1|売住宅 沼津市下河原町１丁目": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下河原町１丁目",
+      "price_man": 1380,
+      "area_sqm": 58.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169093/settle/1",
+      "text": "売住宅 沼津市下河原町１丁目"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1|売土地 沼津市鳥谷": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市鳥谷",
+      "price_man": 1000,
+      "area_sqm": 446.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1",
+      "text": "売土地 沼津市鳥谷"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173984/settle/1|売土地 沼津市足高": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高",
+      "price_man": 900,
+      "area_sqm": 184.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173984/settle/1",
+      "text": "売土地 沼津市足高"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152698/settle/1|売土地 沼津市原町中１丁目5-14": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市原町中１丁目5-14",
+      "price_man": 750,
+      "area_sqm": 128.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152698/settle/1",
+      "text": "売土地 沼津市原町中１丁目5-14"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153833/settle/1|売その他 沼津市今沢689-39": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市今沢689-39",
+      "price_man": 1100,
+      "area_sqm": 193.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153833/settle/1",
+      "text": "売その他 沼津市今沢689-39"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166745/settle/1|売マンション 沼津市上土町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上土町",
+      "price_man": 1980,
+      "area_sqm": 71.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166745/settle/1",
+      "text": "売マンション 沼津市上土町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162675/settle/1|売土地 沼津市中瀬町190番": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市中瀬町190番",
+      "price_man": 3588,
+      "area_sqm": 339.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162675/settle/1",
+      "text": "売土地 沼津市中瀬町190番"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159854/settle/1|売土地 沼津市下香貫藤井原": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫藤井原",
+      "price_man": 880,
+      "area_sqm": 107.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159854/settle/1",
+      "text": "売土地 沼津市下香貫藤井原"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169697/settle/1|売土地 沼津市本郷町8-12　(1)号地": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本郷町8-12　(1)号地",
+      "price_man": 1300,
+      "area_sqm": 158.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169697/settle/1",
+      "text": "売土地 沼津市本郷町8-12　(1)号地"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173874/settle/1|売住宅 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 2180,
+      "area_sqm": 240.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173874/settle/1",
+      "text": "売住宅 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173873/settle/1|売土地 沼津市下香貫八重": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫八重",
+      "price_man": 990,
+      "area_sqm": 147.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173873/settle/1",
+      "text": "売土地 沼津市下香貫八重"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173849/settle/1|売住宅 沼津市岡宮": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡宮",
+      "price_man": 1980,
+      "area_sqm": 122.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173849/settle/1",
+      "text": "売住宅 沼津市岡宮"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159985/settle/1|売土地 沼津市西間門274-3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西間門274-3",
+      "price_man": 800,
+      "area_sqm": 199.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159985/settle/1",
+      "text": "売土地 沼津市西間門274-3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160049/settle/1|売土地 沼津市西熊堂": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西熊堂",
+      "price_man": 760,
+      "area_sqm": 95.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160049/settle/1",
+      "text": "売土地 沼津市西熊堂"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148690/settle/1|売土地 沼津市大諏訪747-6": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大諏訪747-6",
+      "price_man": 950,
+      "area_sqm": 132.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148690/settle/1",
+      "text": "売土地 沼津市大諏訪747-6"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168204/settle/1|新築売住宅 沼津市白銀町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市白銀町",
+      "price_man": 4180,
+      "area_sqm": 100.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168204/settle/1",
+      "text": "新築売住宅 沼津市白銀町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171132/settle/1|売土地 沼津市本字千本郷林": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本字千本郷林",
+      "price_man": 1330,
+      "area_sqm": 284.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171132/settle/1",
+      "text": "売土地 沼津市本字千本郷林"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153203/settle/1|売住宅 沼津市新沢田町8-22": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市新沢田町8-22",
+      "price_man": 2580,
+      "area_sqm": 136.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153203/settle/1",
+      "text": "売住宅 沼津市新沢田町8-22"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146838/settle/1|売土地 沼津市住吉町1－8": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市住吉町1－8",
+      "price_man": 1000,
+      "area_sqm": 127.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146838/settle/1",
+      "text": "売土地 沼津市住吉町1－8"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168539/settle/1|売マンション 沼津市吉田町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市吉田町",
+      "price_man": 650,
+      "area_sqm": 66.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168539/settle/1",
+      "text": "売マンション 沼津市吉田町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168971/settle/1|新築売住宅 沼津市中沢田423-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市中沢田423-1",
+      "price_man": 2690,
+      "area_sqm": 132.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168971/settle/1",
+      "text": "新築売住宅 沼津市中沢田423-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139081/settle/1|売土地 沼津市上香貫宮原町1529-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫宮原町1529-1",
+      "price_man": 2308,
+      "area_sqm": 399.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139081/settle/1",
+      "text": "売土地 沼津市上香貫宮原町1529-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169946/settle/1|売マンション 沼津市下河原町２丁目": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下河原町２丁目",
+      "price_man": 450,
+      "area_sqm": 46.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169946/settle/1",
+      "text": "売マンション 沼津市下河原町２丁目"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168100/settle/1|売店舗付住宅 沼津市青野": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市青野",
+      "price_man": 5900,
+      "area_sqm": 871.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168100/settle/1",
+      "text": "売店舗付住宅 沼津市青野"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165752/settle/1|売土地 沼津市千本中町26": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市千本中町26",
+      "price_man": 780,
+      "area_sqm": 387.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165752/settle/1",
+      "text": "売土地 沼津市千本中町26"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140937/settle/1|売土地 沼津市戸田": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市戸田",
+      "price_man": 180,
+      "area_sqm": 84.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140937/settle/1",
+      "text": "売土地 沼津市戸田"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152722/settle/1|売土地 沼津市五月町1-16": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市五月町1-16",
+      "price_man": 1250,
+      "area_sqm": 138.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152722/settle/1",
+      "text": "売土地 沼津市五月町1-16"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173397/settle/1|売住宅 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 800,
+      "area_sqm": 93.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173397/settle/1",
+      "text": "売住宅 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173390/settle/1|売マンション 沼津市平町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市平町",
+      "price_man": 980,
+      "area_sqm": 52.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173390/settle/1",
+      "text": "売マンション 沼津市平町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1|売土地 沼津市下香貫": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫",
+      "price_man": 1800,
+      "area_sqm": 297.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1",
+      "text": "売土地 沼津市下香貫"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160881/settle/1|売住宅 沼津市江原町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市江原町",
+      "price_man": 6700,
+      "area_sqm": 409.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160881/settle/1",
+      "text": "売住宅 沼津市江原町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164428/settle/1|売マンション 沼津市下河原町131-18": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下河原町131-18",
+      "price_man": 150,
+      "area_sqm": 25.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164428/settle/1",
+      "text": "売マンション 沼津市下河原町131-18"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155067/settle/1|売住宅 沼津市高砂町16-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市高砂町16-1",
+      "price_man": 1890,
+      "area_sqm": 215.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155067/settle/1",
+      "text": "売住宅 沼津市高砂町16-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163582/settle/1|売住宅 沼津市原2030-33": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市原2030-33",
+      "price_man": 1980,
+      "area_sqm": 218.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163582/settle/1",
+      "text": "売住宅 沼津市原2030-33"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170276/settle/1|売住宅 沼津市南本郷町12-6-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市南本郷町12-6-1",
+      "price_man": 2880,
+      "area_sqm": 241.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170276/settle/1",
+      "text": "売住宅 沼津市南本郷町12-6-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1|売土地 沼津市本郷町8-12": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本郷町8-12",
+      "price_man": 1300,
+      "area_sqm": 158.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1",
+      "text": "売土地 沼津市本郷町8-12"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1|売土地 沼津市下香貫藤井原": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫藤井原",
+      "price_man": 880,
+      "area_sqm": 107.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1",
+      "text": "売土地 沼津市下香貫藤井原"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129160/settle/1|売土地 沼津市本字下一丁田866-14": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本字下一丁田866-14",
+      "price_man": 660,
+      "area_sqm": 134.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129160/settle/1",
+      "text": "売土地 沼津市本字下一丁田866-14"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133077/settle/1|売土地 沼津市原1548-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市原1548-1",
+      "price_man": 5100,
+      "area_sqm": 842.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133077/settle/1",
+      "text": "売土地 沼津市原1548-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160848/settle/1|売土地 沼津市下香貫牛臥3010-44": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫牛臥3010-44",
+      "price_man": 750,
+      "area_sqm": 180.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160848/settle/1",
+      "text": "売土地 沼津市下香貫牛臥3010-44"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/97393/settle/1|売土地 沼津市下香貫馬場439-2": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫馬場439-2",
+      "price_man": 1000,
+      "area_sqm": 165.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/97393/settle/1",
+      "text": "売土地 沼津市下香貫馬場439-2"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137887/settle/1|売土地 沼津市本郷町23-24": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本郷町23-24",
+      "price_man": 1950,
+      "area_sqm": 194.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137887/settle/1",
+      "text": "売土地 沼津市本郷町23-24"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164107/settle/1|売土地 沼津市御幸町23-6": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市御幸町23-6",
+      "price_man": 3200,
+      "area_sqm": 30.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164107/settle/1",
+      "text": "売土地 沼津市御幸町23-6"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153981/settle/1|売土地 沼津市中瀬町17-13": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市中瀬町17-13",
+      "price_man": 1490,
+      "area_sqm": 164.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153981/settle/1",
+      "text": "売土地 沼津市中瀬町17-13"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157705/settle/1|売土地 沼津市玉江町1-27": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市玉江町1-27",
+      "price_man": 1999,
+      "area_sqm": 220.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157705/settle/1",
+      "text": "売土地 沼津市玉江町1-27"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170313/settle/1|売土地 沼津市足高133-9": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高133-9",
+      "price_man": 77,
+      "area_sqm": 127.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170313/settle/1",
+      "text": "売土地 沼津市足高133-9"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34387/settle/1|売土地 沼津市西島町1111-6": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西島町1111-6",
+      "price_man": 1200,
+      "area_sqm": 184.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34387/settle/1",
+      "text": "売土地 沼津市西島町1111-6"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1|売土地 沼津市庄栄町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市庄栄町",
+      "price_man": 1520,
+      "area_sqm": 164.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1",
+      "text": "売土地 沼津市庄栄町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1|売土地 沼津市庄栄町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市庄栄町",
+      "price_man": 2300,
+      "area_sqm": 164.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1",
+      "text": "売土地 沼津市庄栄町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157909/settle/1|売土地 沼津市若葉町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市若葉町",
+      "price_man": 2800,
+      "area_sqm": 219.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157909/settle/1",
+      "text": "売土地 沼津市若葉町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144736/settle/1|売土地 沼津市真砂町27-9": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市真砂町27-9",
+      "price_man": 390,
+      "area_sqm": 51.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144736/settle/1",
+      "text": "売土地 沼津市真砂町27-9"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168203/settle/1|売土地 沼津市岡宮1307-6　他2筆": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡宮1307-6　他2筆",
+      "price_man": 2022,
+      "area_sqm": 180.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168203/settle/1",
+      "text": "売土地 沼津市岡宮1307-6　他2筆"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173240/settle/1|売土地 沼津市下河原町２丁目": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下河原町２丁目",
+      "price_man": 900,
+      "area_sqm": 139.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173240/settle/1",
+      "text": "売土地 沼津市下河原町２丁目"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172723/settle/1|売住宅 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 3000,
+      "area_sqm": 150.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172723/settle/1",
+      "text": "売住宅 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167921/settle/1|売住宅 沼津市口野": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市口野",
+      "price_man": 490,
+      "area_sqm": 115.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167921/settle/1",
+      "text": "売住宅 沼津市口野"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154950/settle/1|売土地 沼津市大塚531-7": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大塚531-7",
+      "price_man": 780,
+      "area_sqm": 183.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154950/settle/1",
+      "text": "売土地 沼津市大塚531-7"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168975/settle/1|新築売住宅 沼津市中沢田423-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市中沢田423-1",
+      "price_man": 2490,
+      "area_sqm": 133.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168975/settle/1",
+      "text": "新築売住宅 沼津市中沢田423-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171958/settle/1|売店舗付住宅 沼津市下香貫": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫",
+      "price_man": 4280,
+      "area_sqm": 626.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171958/settle/1",
+      "text": "売店舗付住宅 沼津市下香貫"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141530/settle/1|売土地 沼津市真砂町1-5": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市真砂町1-5",
+      "price_man": 300,
+      "area_sqm": 39.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141530/settle/1",
+      "text": "売土地 沼津市真砂町1-5"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165414/settle/1|売土地 沼津市上香貫二瀬川町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫二瀬川町",
+      "price_man": 1220,
+      "area_sqm": 254.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165414/settle/1",
+      "text": "売土地 沼津市上香貫二瀬川町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165457/settle/1|売土地 沼津市西島町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西島町",
+      "price_man": 1100,
+      "area_sqm": 218.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165457/settle/1",
+      "text": "売土地 沼津市西島町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157940/settle/1|売土地 沼津市大岡3063-2": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡3063-2",
+      "price_man": 1780,
+      "area_sqm": 165.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157940/settle/1",
+      "text": "売土地 沼津市大岡3063-2"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169633/settle/1|売土地 沼津市真砂町19-8": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市真砂町19-8",
+      "price_man": 480,
+      "area_sqm": 58.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169633/settle/1",
+      "text": "売土地 沼津市真砂町19-8"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159925/settle/1|売土地 沼津市下香貫藤井原": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫藤井原",
+      "price_man": 880,
+      "area_sqm": 107.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159925/settle/1",
+      "text": "売土地 沼津市下香貫藤井原"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172100/settle/1|売土地 沼津市西椎路": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西椎路",
+      "price_man": 1200,
+      "area_sqm": 237.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172100/settle/1",
+      "text": "売土地 沼津市西椎路"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162793/settle/1|売土地 沼津市大岡1761-9,1761-10": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡1761-9,1761-10",
+      "price_man": 950,
+      "area_sqm": 132.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162793/settle/1",
+      "text": "売土地 沼津市大岡1761-9,1761-10"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169425/settle/1|売土地 沼津市市道町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市市道町",
+      "price_man": 1200,
+      "area_sqm": 193.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169425/settle/1",
+      "text": "売土地 沼津市市道町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170104/settle/1|売土地 沼津市江浦": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市江浦",
+      "price_man": 580,
+      "area_sqm": 274.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170104/settle/1",
+      "text": "売土地 沼津市江浦"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112701/settle/1|売土地 沼津市岡宮129-13": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡宮129-13",
+      "price_man": 1480,
+      "area_sqm": 131.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112701/settle/1",
+      "text": "売土地 沼津市岡宮129-13"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112700/settle/1|売土地 沼津市岡宮129-13": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡宮129-13",
+      "price_man": 1480,
+      "area_sqm": 128.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112700/settle/1",
+      "text": "売土地 沼津市岡宮129-13"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170091/settle/1|売土地 沼津市下小路町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下小路町",
+      "price_man": 980,
+      "area_sqm": 111.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170091/settle/1",
+      "text": "売土地 沼津市下小路町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/80645/settle/1|売住宅 沼津市上香貫1688-8": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫1688-8",
+      "price_man": 3690,
+      "area_sqm": 317.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/80645/settle/1",
+      "text": "売住宅 沼津市上香貫1688-8"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154467/settle/1|売土地 沼津市上香貫二瀬川町1943番地の3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫二瀬川町1943番地の3",
+      "price_man": 2000,
+      "area_sqm": 360.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154467/settle/1",
+      "text": "売土地 沼津市上香貫二瀬川町1943番地の3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169210/settle/1|売土地 沼津市市道町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市市道町",
+      "price_man": 1500,
+      "area_sqm": 163.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169210/settle/1",
+      "text": "売土地 沼津市市道町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150344/settle/1|売土地 沼津市大岡1286-26、27、29": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡1286-26、27、29",
+      "price_man": 980,
+      "area_sqm": 173.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150344/settle/1",
+      "text": "売土地 沼津市大岡1286-26、27、29"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152120/settle/1|売マンション 沼津市江原町4番22": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市江原町4番22",
+      "price_man": 1650,
+      "area_sqm": 72.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152120/settle/1",
+      "text": "売マンション 沼津市江原町4番22"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166677/settle/1|売土地 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 1480,
+      "area_sqm": 151.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166677/settle/1",
+      "text": "売土地 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169479/settle/1|売土地 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 980,
+      "area_sqm": 173.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169479/settle/1",
+      "text": "売土地 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128347/settle/1|売土地 沼津市足高441-1227": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高441-1227",
+      "price_man": 600,
+      "area_sqm": 680.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128347/settle/1",
+      "text": "売土地 沼津市足高441-1227"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149174/settle/1|売住宅 沼津市岡宮": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡宮",
+      "price_man": 1680,
+      "area_sqm": 109.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149174/settle/1",
+      "text": "売住宅 沼津市岡宮"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167323/settle/1|売アパート 沼津市高砂町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市高砂町",
+      "price_man": 7000,
+      "area_sqm": 608.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167323/settle/1",
+      "text": "売アパート 沼津市高砂町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166669/settle/1|売土地 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 1180,
+      "area_sqm": 123.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166669/settle/1",
+      "text": "売土地 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164361/settle/1|売土地 沼津市住吉町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市住吉町",
+      "price_man": 1400,
+      "area_sqm": 125.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164361/settle/1",
+      "text": "売土地 沼津市住吉町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151517/settle/1|売土地 沼津市千本緑町１丁目23-3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市千本緑町１丁目23-3",
+      "price_man": 850,
+      "area_sqm": 132.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151517/settle/1",
+      "text": "売土地 沼津市千本緑町１丁目23-3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168184/settle/1|売土地 沼津市下香貫馬場465-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫馬場465-1",
+      "price_man": 1320,
+      "area_sqm": 216.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168184/settle/1",
+      "text": "売土地 沼津市下香貫馬場465-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169456/settle/1|売土地 沼津市松長": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市松長",
+      "price_man": 900,
+      "area_sqm": 168.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169456/settle/1",
+      "text": "売土地 沼津市松長"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48565/settle/1|売住宅 沼津市足高３２２番地２２１": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高３２２番地２２１",
+      "price_man": 3480,
+      "area_sqm": 175.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48565/settle/1",
+      "text": "売住宅 沼津市足高３２２番地２２１"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162011/settle/1|売土地 沼津市青野": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市青野",
+      "price_man": 880,
+      "area_sqm": 186.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162011/settle/1",
+      "text": "売土地 沼津市青野"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166570/settle/1|売土地 沼津市千本常盤町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市千本常盤町",
+      "price_man": 420,
+      "area_sqm": 92.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166570/settle/1",
+      "text": "売土地 沼津市千本常盤町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145221/settle/1|売土地 沼津市今沢54": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市今沢54",
+      "price_man": 1050,
+      "area_sqm": 160.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145221/settle/1",
+      "text": "売土地 沼津市今沢54"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146198/settle/1|売土地 沼津市下香貫2994-22": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫2994-22",
+      "price_man": 880,
+      "area_sqm": 117.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146198/settle/1",
+      "text": "売土地 沼津市下香貫2994-22"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125289/settle/1|売土地 沼津市今沢527-12": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市今沢527-12",
+      "price_man": 1590,
+      "area_sqm": 152.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125289/settle/1",
+      "text": "売土地 沼津市今沢527-12"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146197/settle/1|売土地 沼津市下香貫2994-21": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫2994-21",
+      "price_man": 750,
+      "area_sqm": 123.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146197/settle/1",
+      "text": "売土地 沼津市下香貫2994-21"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1|売アパート 沼津市我入道秋葉町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市我入道秋葉町",
+      "price_man": 1980,
+      "area_sqm": 208.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1",
+      "text": "売アパート 沼津市我入道秋葉町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170756/settle/1|売マンション 沼津市志下": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市志下",
+      "price_man": 1280,
+      "area_sqm": 75.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170756/settle/1",
+      "text": "売マンション 沼津市志下"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158384/settle/1|売アパート 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 5820,
+      "area_sqm": 328.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158384/settle/1",
+      "text": "売アパート 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172532/settle/1|新築売住宅 沼津市岡一色": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡一色",
+      "price_man": 3880,
+      "area_sqm": 141.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172532/settle/1",
+      "text": "新築売住宅 沼津市岡一色"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172501/settle/1|売土地 沼津市西間門": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西間門",
+      "price_man": 700,
+      "area_sqm": 446.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172501/settle/1",
+      "text": "売土地 沼津市西間門"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169715/settle/1|売土地 沼津市本郷町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本郷町",
+      "price_man": 1300,
+      "area_sqm": 158.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169715/settle/1",
+      "text": "売土地 沼津市本郷町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172509/settle/1|売土地 沼津市西沢田": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西沢田",
+      "price_man": 880,
+      "area_sqm": 126.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172509/settle/1",
+      "text": "売土地 沼津市西沢田"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150640/settle/1|一括売マンション 沼津市下香貫2979-2": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下香貫2979-2",
+      "price_man": 4000,
+      "area_sqm": 1536.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150640/settle/1",
+      "text": "一括売マンション 沼津市下香貫2979-2"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144565/settle/1|売住宅 沼津市大岡1140-27": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡1140-27",
+      "price_man": 2480,
+      "area_sqm": 172.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144565/settle/1",
+      "text": "売住宅 沼津市大岡1140-27"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151516/settle/1|売マンション 沼津市上香貫": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫",
+      "price_man": 1100,
+      "area_sqm": 56.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151516/settle/1",
+      "text": "売マンション 沼津市上香貫"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150098/settle/1|売土地 沼津市足高489-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高489-1",
+      "price_man": 800,
+      "area_sqm": 807.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150098/settle/1",
+      "text": "売土地 沼津市足高489-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148208/settle/1|売土地 沼津市八幡町34": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市八幡町34",
+      "price_man": 720,
+      "area_sqm": 83.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148208/settle/1",
+      "text": "売土地 沼津市八幡町34"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148255/settle/1|売土地 沼津市大岡926-7": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡926-7",
+      "price_man": 695,
+      "area_sqm": 69.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148255/settle/1",
+      "text": "売土地 沼津市大岡926-7"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137794/settle/1|売土地 沼津市戸田1586-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市戸田1586-1",
+      "price_man": 500,
+      "area_sqm": 221.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137794/settle/1",
+      "text": "売土地 沼津市戸田1586-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133131/settle/1|売土地 沼津市戸田3844-42": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市戸田3844-42",
+      "price_man": 35,
+      "area_sqm": 112.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133131/settle/1",
+      "text": "売土地 沼津市戸田3844-42"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172379/settle/1|売マンション 沼津市岡一色270-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市岡一色270-1",
+      "price_man": 1650,
+      "area_sqm": 70.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172379/settle/1",
+      "text": "売マンション 沼津市岡一色270-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162418/settle/1|売土地 沼津市西椎路1030-8": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西椎路1030-8",
+      "price_man": 2200,
+      "area_sqm": 7543.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162418/settle/1",
+      "text": "売土地 沼津市西椎路1030-8"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169588/settle/1|売土地 沼津市千本常盤町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市千本常盤町",
+      "price_man": 900,
+      "area_sqm": 170.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169588/settle/1",
+      "text": "売土地 沼津市千本常盤町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135222/settle/1|売土地 沼津市上香貫宮原町1502-1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市上香貫宮原町1502-1",
+      "price_man": 3980,
+      "area_sqm": 707.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135222/settle/1",
+      "text": "売土地 沼津市上香貫宮原町1502-1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143010/settle/1|売土地 沼津市下河原町10-6": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市下河原町10-6",
+      "price_man": 1500,
+      "area_sqm": 182.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143010/settle/1",
+      "text": "売土地 沼津市下河原町10-6"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150430/settle/1|売土地 沼津市吉田町27-6": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市吉田町27-6",
+      "price_man": 1100,
+      "area_sqm": 134.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150430/settle/1",
+      "text": "売土地 沼津市吉田町27-6"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49747/settle/1|売土地 沼津市吉田町27-3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市吉田町27-3",
+      "price_man": 1180,
+      "area_sqm": 144.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49747/settle/1",
+      "text": "売土地 沼津市吉田町27-3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157736/settle/1|売土地 沼津市青野68-27": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市青野68-27",
+      "price_man": 650,
+      "area_sqm": 168.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157736/settle/1",
+      "text": "売土地 沼津市青野68-27"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112484/settle/1|売土地 沼津市今沢642-3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市今沢642-3",
+      "price_man": 1560,
+      "area_sqm": 467.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112484/settle/1",
+      "text": "売土地 沼津市今沢642-3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145532/settle/1|売土地 沼津市若葉町969番1": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市若葉町969番1",
+      "price_man": 2700,
+      "area_sqm": 194.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145532/settle/1",
+      "text": "売土地 沼津市若葉町969番1"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153918/settle/1|売土地 沼津市足高441-1759、-1760": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高441-1759、-1760",
+      "price_man": 1200,
+      "area_sqm": 1850.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153918/settle/1",
+      "text": "売土地 沼津市足高441-1759、-1760"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163940/settle/1|売土地 沼津市五月町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市五月町",
+      "price_man": 3800,
+      "area_sqm": 305.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163940/settle/1",
+      "text": "売土地 沼津市五月町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/113201/settle/1|売土地 沼津市内浦重寺197-20": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市内浦重寺197-20",
+      "price_man": 1380,
+      "area_sqm": 162.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/113201/settle/1",
+      "text": "売土地 沼津市内浦重寺197-20"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/94136/settle/1|売土地 沼津市足高56-52": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市足高56-52",
+      "price_man": 150,
+      "area_sqm": 170.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/94136/settle/1",
+      "text": "売土地 沼津市足高56-52"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168517/settle/1|売住宅 沼津市原": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市原",
+      "price_man": 1140,
+      "area_sqm": 139.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168517/settle/1",
+      "text": "売住宅 沼津市原"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154153/settle/1|売土地 沼津市平町１３番3": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市平町１３番3",
+      "price_man": 1800,
+      "area_sqm": 137.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154153/settle/1",
+      "text": "売土地 沼津市平町１３番3"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162589/settle/1|売住宅 沼津市大岡": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市大岡",
+      "price_man": 5000,
+      "area_sqm": 1600.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162589/settle/1",
+      "text": "売住宅 沼津市大岡"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167217/settle/1|売土地 沼津市西熊堂": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市西熊堂",
+      "price_man": 1830,
+      "area_sqm": 169.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167217/settle/1",
+      "text": "売土地 沼津市西熊堂"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152384/settle/1|売土地 沼津市本字松下七反田": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市本字松下七反田",
+      "price_man": 1080,
+      "area_sqm": 237.6,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152384/settle/1",
+      "text": "売土地 沼津市本字松下七反田"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172420/settle/1|売土地 沼津市五月町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市五月町",
+      "price_man": 2300,
+      "area_sqm": 144.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172420/settle/1",
+      "text": "売土地 沼津市五月町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1|売住宅 沼津市青野": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "location": "沼津市青野",
+      "price_man": 830,
+      "area_sqm": 311.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1",
+      "text": "売住宅 沼津市青野"
     }
   },
-  "hash": "7e1d2b5fe941e20f",
-  "fetched_at": "2026-06-21T10:34:46.871247"
+  "hash": "303a5991b9fd75b2",
+  "fetched_at": "2026-06-21T12:12:38.918102"
 }

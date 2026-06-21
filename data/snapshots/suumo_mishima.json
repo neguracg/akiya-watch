@@ -234,15 +234,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/",
       "text": "＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/|【建築条件なし！】■敷地面積６０坪以上■全３区画販売": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-21",
-      "location": "静岡県三島市谷田1349-1",
-      "price_man": 1780,
-      "area_sqm": 202.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
-      "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-21",
@@ -251,6 +242,15 @@
       "area_sqm": 177.6,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/|【建築条件なし！】■敷地面積６０坪以上■全３区画販売": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-21",
+      "location": "静岡県三島市谷田1349-1",
+      "price_man": 1780,
+      "area_sqm": 202.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
+      "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78043370/|谷田（三島二日町駅） 1840万円・2040万円": {
       "first_seen": "2026-06-17",
@@ -469,6 +469,6 @@
       "text": "若松町（三島駅） 1億1000万円"
     }
   },
-  "hash": "538f8ffa87b7b8e2",
-  "fetched_at": "2026-06-21T10:22:45.381761"
+  "hash": "0437158e8314c4dc",
+  "fetched_at": "2026-06-21T12:03:09.736671"
 }
