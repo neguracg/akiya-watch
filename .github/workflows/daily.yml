@@ -4,9 +4,10 @@ name: daily-akiya-watch
 # schedule は「クラウドIPで各サイトが取れるか」の recon が通ってから有効化する（今は無効）。
 on:
   workflow_dispatch:
-  # ↓ recon OK 後にコメント解除して有効化。0 22 * * * (UTC) = 毎日 07:00 JST
-  # schedule:
-  #   - cron: "0 22 * * *"
+  # recon 合格（クラウドIPで SUUMO/takken/LIFULL とも200・件数も自宅と同等）につき有効化。
+  # 0 22 * * * (UTC) = 毎日 07:00 JST。GitHub の都合で数分〜数十分遅延することがある。
+  schedule:
+    - cron: "0 22 * * *"
 
 permissions:
   contents: write   # reports/・data/snapshots/ をコミットして push するため
