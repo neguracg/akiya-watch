@@ -834,15 +834,17 @@ def parse_athome(first_html, base_url, filter_keywords, filters, session):
 # ---------------------------------------------------------------------------
 
 def _lifull_card_specs(card):
+    # 価格を含み、かつ th↔td が1対1に揃ったテーブルのみ採用する。
+    # 中古戸建(kodate)のカードは 価格テーブルが先頭に画像/要約セルを持ち td数が th数と
+    # 食い違う（例 th4・td10）ため、位置揃えの zip が破綻して価格が「掲載画像N枚」に
+    # なる。揃ったテーブル(土地=9/9, 中古戸建の整列テーブル=4/4)を選べば両方で正しく取れる。
     for t in card.find_all("table"):
         ths = [x.get_text(strip=True) for x in t.find_all("th")]
-        if "価格" in ths:
-            tds = [x.get_text(" ", strip=True) for x in t.find_all("td")]
-            d = {}
-            for i, h in enumerate(ths):
-                if i < len(tds):
-                    d.setdefault(h, tds[i])
-            return d
+        if "価格" not in ths:
+            continue
+        tds = [x.get_text(" ", strip=True) for x in t.find_all("td")]
+        if len(tds) == len(ths):
+            return dict(zip(ths, tds))
     return {}
 
 
@@ -852,7 +854,12 @@ def _extract_lifull_cards(soup, base_url, filter_keywords, filters):
     for card in soup.select("div.mod-mergeBuilding--sale"):
         specs = _lifull_card_specs(card)
         price = parse_price_man(specs.get("価格", ""))
-        area = _first_sqm(specs.get("土地面積", ""))
+        if price is None:
+            pl = card.select_one(".priceLabel")   # 整列テーブルが無い場合の価格フォールバック
+            if pl:
+                price = parse_price_man(pl.get_text(" ", strip=True))
+        # 中古戸建は土地面積優先、無ければ建物面積で代替。
+        area = _first_sqm(specs.get("土地面積", "")) or _first_sqm(specs.get("建物面積", ""))
         nm = card.select_one(".bukkenName")
         location = nm.get_text(" ", strip=True) if nm else ""
         url = ""
