@@ -42,5 +42,16 @@
     "text": "売土地 沼津市原293番2",
     "removed_on": "2026-06-19",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172670/settle/1|新築売住宅 沼津市大塚": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-21",
+    "location": "沼津市大塚",
+    "price_man": 2280,
+    "area_sqm": 186.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172670/settle/1",
+    "text": "新築売住宅 沼津市大塚",
+    "removed_on": "2026-06-22",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

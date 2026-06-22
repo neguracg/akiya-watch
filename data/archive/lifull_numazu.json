@@ -2881,17 +2881,6 @@
     "removed_on": "2026-06-21",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-33306250000014/|沼津市平町 (沼津駅)": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
-    "location": "沼津市平町 (沼津駅)",
-    "price_man": 1600,
-    "area_sqm": 121.2,
-    "url": "https://www.homes.co.jp/tochi/b-33306250000014/",
-    "text": "沼津市平町 (沼津駅)",
-    "removed_on": "2026-06-21",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33306250000016/|沼津市東沢田 (沼津駅)": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-21",
@@ -2934,6 +2923,61 @@
     "url": "https://www.homes.co.jp/tochi/b-33319390000041/",
     "text": "沼津市吉田町 (沼津駅)",
     "removed_on": "2026-06-21",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004949/|沼津市大岡 (下土狩駅)": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "location": "沼津市大岡 (下土狩駅)",
+    "price_man": 1880,
+    "area_sqm": 187.5,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004949/",
+    "text": "沼津市大岡 (下土狩駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004951/|沼津市大岡 (下土狩駅)": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "location": "沼津市大岡 (下土狩駅)",
+    "price_man": 2180,
+    "area_sqm": 232.8,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004951/",
+    "text": "沼津市大岡 (下土狩駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004952/|沼津市大岡 (下土狩駅)": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "location": "沼津市大岡 (下土狩駅)",
+    "price_man": 2080,
+    "area_sqm": 192.8,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004952/",
+    "text": "沼津市大岡 (下土狩駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004923/|沼津市高尾台 (沼津駅)": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "location": "沼津市高尾台 (沼津駅)",
+    "price_man": 1490,
+    "area_sqm": 186.0,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004923/",
+    "text": "沼津市高尾台 (沼津駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004950/|沼津市大岡 (下土狩駅)": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-21",
+    "location": "沼津市大岡 (下土狩駅)",
+    "price_man": 1980,
+    "area_sqm": 259.0,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004950/",
+    "text": "沼津市大岡 (下土狩駅)",
+    "removed_on": "2026-06-22",
     "site_name": "LIFULL 土地 沼津市"
   }
 }
