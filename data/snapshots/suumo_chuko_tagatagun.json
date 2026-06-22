@@ -324,15 +324,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78433479/",
       "text": "☆敷地面積177坪！圧倒的な広さが叶える贅沢でゆとりのある暮らし♪"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/|桑原（函南駅） 1560万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-22",
-      "location": "静岡県田方郡函南町桑原",
-      "price_man": 1560,
-      "area_sqm": 219.5,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/",
-      "text": "桑原（函南駅） 1560万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_74973577/|☆駐車最大5台可能！カーポート付き！函南町徒歩4分の好立地の住宅です。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-22",
@@ -341,6 +332,15 @@
       "area_sqm": 216.5,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_74973577/",
       "text": "☆駐車最大5台可能！カーポート付き！函南町徒歩4分の好立地の住宅です。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/|桑原（函南駅） 1560万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-22",
+      "location": "静岡県田方郡函南町桑原",
+      "price_man": 1560,
+      "area_sqm": 219.5,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/",
+      "text": "桑原（函南駅） 1560万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20121296/|駐車場4台のゆとり！天窓からの日差しが明るく、ロフトと豊富な収納で庭付き！": {
       "first_seen": "2026-06-17",
@@ -378,15 +378,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73710066/",
       "text": "平井 1780万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20929341/|平井 1780万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-22",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 1780,
-      "area_sqm": 397.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20929341/",
-      "text": "平井 1780万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76134646/|2階に設けられたLDKの大開口部は雄大な富士山が望める開放的な眺望が魅力": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-22",
@@ -395,6 +386,15 @@
       "area_sqm": 429.5,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76134646/",
       "text": "2階に設けられたLDKの大開口部は雄大な富士山が望める開放的な眺望が魅力"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20929341/|平井 1780万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-22",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 1780,
+      "area_sqm": 397.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20929341/",
+      "text": "平井 1780万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20523898/|桑原（函南駅） 1780万円": {
       "first_seen": "2026-06-17",
@@ -432,15 +432,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21074468/",
       "text": "桑原（函南駅） 1970万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78534508/|平井 1980万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-22",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 1980,
-      "area_sqm": 264.6,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78534508/",
-      "text": "平井 1980万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20288594/|平井 1980万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-22",
@@ -448,6 +439,15 @@
       "price_man": 1980,
       "area_sqm": 295.8,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20288594/",
+      "text": "平井 1980万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78534508/|平井 1980万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-22",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 1980,
+      "area_sqm": 264.6,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78534508/",
       "text": "平井 1980万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75984601/|畑 1980万円": {
@@ -622,6 +622,6 @@
       "text": "丹那南箱根ダイヤランド 4600万円"
     }
   },
-  "hash": "354b79aba94f8e4c",
-  "fetched_at": "2026-06-22T07:47:07.543815"
+  "hash": "a4739f3e4a21df14",
+  "fetched_at": "2026-06-22T23:28:23.396192"
 }

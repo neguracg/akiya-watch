@@ -18,6 +18,24 @@
       "url": "https://www.homes.co.jp/kodate/b-1500050000270/",
       "text": "売中古戸建　伊豆の国市大仁"
     },
+    "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "伊豆の国市三福　中古戸建",
+      "price_man": 2180,
+      "area_sqm": 128.1,
+      "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
+      "text": "伊豆の国市三福　中古戸建"
+    },
+    "https://www.homes.co.jp/kodate/b-1436870001906/|伊豆の国市田京　中古戸建": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "伊豆の国市田京　中古戸建",
+      "price_man": 3450,
+      "area_sqm": 245.5,
+      "url": "https://www.homes.co.jp/kodate/b-1436870001906/",
+      "text": "伊豆の国市田京　中古戸建"
+    },
     "https://www.homes.co.jp/kodate/b-1556780000068/|中古戸建　伊豆の国市富士見": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-22",
@@ -63,24 +81,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1540930000173/",
       "text": "中古戸建  伊豆の国市原木"
     },
-    "https://www.homes.co.jp/kodate/b-1436870001803/|伊豆の国市原木　中古戸建": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-22",
-      "location": "伊豆の国市原木　中古戸建",
-      "price_man": 1980,
-      "area_sqm": 313.2,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001803/",
-      "text": "伊豆の国市原木　中古戸建"
-    },
-    "https://www.homes.co.jp/kodate/b-1436870001821/|伊豆の国市原木　中古戸建": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-22",
-      "location": "伊豆の国市原木　中古戸建",
-      "price_man": 1580,
-      "area_sqm": 210.7,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001821/",
-      "text": "伊豆の国市原木　中古戸建"
-    },
     "https://www.homes.co.jp/kodate/b-1265050002093/|伊豆の国市長岡中古住宅": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-22",
@@ -116,6 +116,15 @@
       "area_sqm": 100.6,
       "url": "https://www.homes.co.jp/kodate/b-1220300000737/",
       "text": "伊豆の国市原木　戸建て"
+    },
+    "https://www.homes.co.jp/kodate/b-1436870001922/|伊豆の国市南條　中古戸建": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "伊豆の国市南條　中古戸建",
+      "price_man": 1880,
+      "area_sqm": 184.1,
+      "url": "https://www.homes.co.jp/kodate/b-1436870001922/",
+      "text": "伊豆の国市南條　中古戸建"
     },
     "https://www.homes.co.jp/kodate/b-1111450005501/|小松ヶ原別荘地　戸建": {
       "first_seen": "2026-06-21",
@@ -216,15 +225,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1490460002344/",
       "text": "伊豆の国市奈古谷　中古戸建"
     },
-    "https://www.homes.co.jp/kodate/b-1436870001844/|伊豆の国市天野　中古戸建": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-22",
-      "location": "伊豆の国市天野　中古戸建",
-      "price_man": 2880,
-      "area_sqm": 463.0,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001844/",
-      "text": "伊豆の国市天野　中古戸建"
-    },
     "https://www.homes.co.jp/kodate/b-33303660000702/|JR東海道本線 熱海駅 15km": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-22",
@@ -243,15 +243,6 @@
       "url": "https://www.homes.co.jp/kodate/b-33305760000005/",
       "text": "伊豆箱根鉄道駿豆線 韮山駅 徒歩20分"
     },
-    "https://www.homes.co.jp/kodate/b-1220300000702/|伊豆の国市南條　戸建て": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-22",
-      "location": "伊豆の国市南條　戸建て",
-      "price_man": 1649,
-      "area_sqm": 243.4,
-      "url": "https://www.homes.co.jp/kodate/b-1220300000702/",
-      "text": "伊豆の国市南條　戸建て"
-    },
     "https://www.homes.co.jp/kodate/b-1564140000200/|伊豆の国市韮山多田　戸建て": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-22",
@@ -269,8 +260,17 @@
       "area_sqm": 290.0,
       "url": "https://www.homes.co.jp/kodate/b-33310640001107/",
       "text": "伊豆エメラルドタウン"
+    },
+    "https://www.homes.co.jp/kodate/b-1489770000543/|伊豆の国市奈古谷 中古戸建": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "伊豆の国市奈古谷 中古戸建",
+      "price_man": 280,
+      "area_sqm": 97.7,
+      "url": "https://www.homes.co.jp/kodate/b-1489770000543/",
+      "text": "伊豆の国市奈古谷 中古戸建"
     }
   },
-  "hash": "34c8dfd5d6eb4e17",
-  "fetched_at": "2026-06-22T07:36:27.534483"
+  "hash": "de6b9b294110e535",
+  "fetched_at": "2026-06-22T23:17:35.103819"
 }

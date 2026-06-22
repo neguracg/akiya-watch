@@ -54,24 +54,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33325040000230/",
       "text": "三島市佐野 (裾野駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1540930000122/|三島市東大場1丁目 (函南駅)": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-22",
-      "location": "三島市東大場1丁目 (函南駅)",
-      "price_man": 1380,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1540930000122/",
-      "text": "三島市東大場1丁目 (函南駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1540930000182/|三島市佐野見晴台1丁目 (三島駅)": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-22",
-      "location": "三島市佐野見晴台1丁目 (三島駅)",
-      "price_man": 1480,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1540930000182/",
-      "text": "三島市佐野見晴台1丁目 (三島駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33307660000198/|三島市谷田 (三島二日町駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-22",
@@ -81,15 +63,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33307660000198/",
       "text": "三島市谷田 (三島二日町駅)"
     },
-    "https://www.homes.co.jp/tochi/b-33307660000034/|三島市佐野見晴台1丁目": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-22",
-      "location": "三島市佐野見晴台1丁目",
-      "price_man": 3800,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33307660000034/",
-      "text": "三島市佐野見晴台1丁目"
-    },
     "https://www.homes.co.jp/tochi/b-33328870000155/|三島市大場 (大場駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-22",
@@ -98,33 +71,6 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-33328870000155/",
       "text": "三島市大場 (大場駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33327580000004/|三島市東大場2丁目 (大場駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-22",
-      "location": "三島市東大場2丁目 (大場駅)",
-      "price_man": 1980,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33327580000004/",
-      "text": "三島市東大場2丁目 (大場駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33301270000098/|三島市徳倉3丁目 (三島駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-22",
-      "location": "三島市徳倉3丁目 (三島駅)",
-      "price_man": 780,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33301270000098/",
-      "text": "三島市徳倉3丁目 (三島駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33301270000105/|三島市谷田 (三島駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-22",
-      "location": "三島市谷田 (三島駅)",
-      "price_man": 1530,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33301270000105/",
-      "text": "三島市谷田 (三島駅)"
     },
     "https://www.homes.co.jp/tochi/b-33326400000195/|三島市富士ビレッジ (三島駅)": {
       "first_seen": "2026-06-19",
@@ -216,6 +162,60 @@
       "url": "https://www.homes.co.jp/tochi/b-33304960000031/",
       "text": "三島市大場 (大場駅)"
     },
+    "https://www.homes.co.jp/tochi/b-33327580000004/|三島市東大場2丁目 (大場駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-22",
+      "location": "三島市東大場2丁目 (大場駅)",
+      "price_man": 1980,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33327580000004/",
+      "text": "三島市東大場2丁目 (大場駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1540930000182/|三島市佐野見晴台1丁目 (三島駅)": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "三島市佐野見晴台1丁目 (三島駅)",
+      "price_man": 1480,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1540930000182/",
+      "text": "三島市佐野見晴台1丁目 (三島駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1540930000122/|三島市東大場1丁目 (函南駅)": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "三島市東大場1丁目 (函南駅)",
+      "price_man": 1380,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1540930000122/",
+      "text": "三島市東大場1丁目 (函南駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1490460002309/|三島市初音台 (三島二日町駅)": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "三島市初音台 (三島二日町駅)",
+      "price_man": 1180,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1490460002309/",
+      "text": "三島市初音台 (三島二日町駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33307660000034/|三島市佐野見晴台1丁目": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-22",
+      "location": "三島市佐野見晴台1丁目",
+      "price_man": 3800,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33307660000034/",
+      "text": "三島市佐野見晴台1丁目"
+    },
+    "https://www.homes.co.jp/tochi/b-1556780000207/|三島市壱町田 (三島駅)": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "三島市壱町田 (三島駅)",
+      "price_man": 2480,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1556780000207/",
+      "text": "三島市壱町田 (三島駅)"
+    },
     "https://www.homes.co.jp/tochi/b-89420000399/|三島市東本町2丁目 (三島田町駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-22",
@@ -271,6 +271,6 @@
       "text": "三島市谷田 (三島駅)"
     }
   },
-  "hash": "3e2c394f4612013d",
-  "fetched_at": "2026-06-22T07:37:21.477442"
+  "hash": "aa7a18c73c6f644b",
+  "fetched_at": "2026-06-22T23:18:32.551000"
 }

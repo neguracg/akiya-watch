@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K|静岡県伊豆の国市": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-06-22",
+      "location": "静岡県伊豆の国市",
+      "price_man": 2680,
+      "area_sqm": null,
+      "url": "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K",
+      "text": "静岡県伊豆の国市"
+    },
     "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-22",
@@ -10,6 +19,6 @@
       "text": "静岡県裾野市"
     }
   },
-  "hash": "b010e8a93d066c8b",
-  "fetched_at": "2026-06-22T07:41:34.640586"
+  "hash": "69eb13560aadee5f",
+  "fetched_at": "2026-06-22T23:22:33.978252"
 }

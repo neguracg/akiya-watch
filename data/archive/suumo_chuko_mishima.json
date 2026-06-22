@@ -43,17 +43,6 @@
     "removed_on": "2026-06-19",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851891/|車種により駐車並列3台可能！4LDKの再生住宅が登場！スーパー、医療施設まで徒": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-19",
-    "location": "静岡県三島市西旭ケ丘町4043-24",
-    "price_man": 2499,
-    "area_sqm": 175.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851891/",
-    "text": "車種により駐車並列3台可能！4LDKの再生住宅が登場！スーパー、医療施設まで徒",
-    "removed_on": "2026-06-21",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20995050/|大社町（三島田町駅） 4280万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-19",
@@ -95,6 +84,50 @@
     "area_sqm": 197.9,
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/",
     "text": "内外装リフォーム済み住宅　伊豆縦貫道や幹線道路へのアクセス良好",
+    "removed_on": "2026-06-22",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851885/|駐車並列2台、リフォーム済みで家具付きの再生住宅が月々5万円台から登場です！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-22",
+    "location": "静岡県三島市徳倉740-34",
+    "price_man": 1999,
+    "area_sqm": 168.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851885/",
+    "text": "駐車並列2台、リフォーム済みで家具付きの再生住宅が月々5万円台から登場です！",
+    "removed_on": "2026-06-22",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20830972/|【見学会開催】三島市富士見台住宅地内。リフォーム工事完了しました。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-22",
+    "location": "静岡県三島市富士見台14-6",
+    "price_man": 2399,
+    "area_sqm": 210.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20830972/",
+    "text": "【見学会開催】三島市富士見台住宅地内。リフォーム工事完了しました。",
+    "removed_on": "2026-06-22",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21076127/|【見学会開催】三島幸原線付近の3SLDK中古住宅。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-22",
+    "location": "静岡県三島市徳倉２-171-1",
+    "price_man": 2499,
+    "area_sqm": 256.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21076127/",
+    "text": "【見学会開催】三島幸原線付近の3SLDK中古住宅。",
+    "removed_on": "2026-06-22",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20514396/|閑静×高耐久×快適性が揃う理想の住まい": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-22",
+    "location": "静岡県三島市徳倉３",
+    "price_man": 4500,
+    "area_sqm": 200.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20514396/",
+    "text": "閑静×高耐久×快適性が揃う理想の住まい",
     "removed_on": "2026-06-22",
     "site_name": "SUUMO 中古戸建 三島市"
   }

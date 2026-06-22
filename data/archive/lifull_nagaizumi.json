@@ -1,1 +1,24 @@
-{}
+{
+  "https://www.homes.co.jp/tochi/b-33327210001532/|駿東郡長泉町本宿 (大岡駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-21",
+    "location": "駿東郡長泉町本宿 (大岡駅)",
+    "price_man": 1780,
+    "area_sqm": 278.2,
+    "url": "https://www.homes.co.jp/tochi/b-33327210001532/",
+    "text": "駿東郡長泉町本宿 (大岡駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 長泉町"
+  },
+  "https://www.homes.co.jp/tochi/b-33324250000155/|駿東郡長泉町下土狩 (下土狩駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-06-21",
+    "location": "駿東郡長泉町下土狩 (下土狩駅)",
+    "price_man": 1250,
+    "area_sqm": 73.6,
+    "url": "https://www.homes.co.jp/tochi/b-33324250000155/",
+    "text": "駿東郡長泉町下土狩 (下土狩駅)",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 土地 長泉町"
+  }
+}

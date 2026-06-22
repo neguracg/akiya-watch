@@ -1,15 +1,4 @@
 {
-  "https://www.homes.co.jp/kodate/b-1475010001565/|三島市谷田　中古一戸建て": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
-    "location": "三島市谷田　中古一戸建て",
-    "price_man": null,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/kodate/b-1475010001565/",
-    "text": "三島市谷田　中古一戸建て",
-    "removed_on": "2026-06-22",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-1475010001753/|三島市中田町　分譲住宅　1号棟": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-21",
@@ -18,6 +7,17 @@
     "area_sqm": null,
     "url": "https://www.homes.co.jp/kodate/b-1475010001753/",
     "text": "三島市中田町　分譲住宅　1号棟",
+    "removed_on": "2026-06-22",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1443010008854/|三島市谷田": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-22",
+    "location": "三島市谷田",
+    "price_man": 2550,
+    "area_sqm": 181.2,
+    "url": "https://www.homes.co.jp/kodate/b-1443010008854/",
+    "text": "三島市谷田",
     "removed_on": "2026-06-22",
     "site_name": "LIFULL 中古戸建 三島市"
   }
