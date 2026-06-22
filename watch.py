@@ -935,6 +935,184 @@ def parse_ieichiba(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# 真野開発 アダプタ（地場業者自社HP。manokaihatsu.com）
+#   カード = li.estate-item（.item-price を持つもの＝物件カード、ナビ項目を排除）。
+#   価格 = .item-price（テキスト "500 万円"）。
+#   面積/所在地 = table.item-table の th↔td zip（"土地面積"/"所在地"）。
+#   詳細URL = a[href*='estate/post'] 。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _mano_card_specs(card):
+    tbl = card.select_one("table.item-table")
+    if not tbl:
+        return {}
+    ths = [th.get_text(strip=True) for th in tbl.find_all("th")]
+    tds = [td.get_text(" ", strip=True) for td in tbl.find_all("td")]
+    return dict(zip(ths, tds))
+
+
+def parse_mano(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.estate-item"):
+        raise BotBlocked(f"真野開発 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for card in soup.select("li.estate-item"):
+        pe = card.select_one(".item-price")
+        if not pe:
+            continue  # ナビ項目（物件でない li.estate-item）をスキップ
+        price = parse_price_man(pe.get_text(" ", strip=True))
+        specs = _mano_card_specs(card)
+        location = specs.get("所在地", "").strip()
+        area = _first_sqm(specs.get("土地面積", ""))
+        a = card.find("a", href=re.compile(r"/estate/post"))
+        url = normalize_url(a["href"], base_url) if a else ""
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[mano] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 不動産創研 アダプタ（地場業者自社HP。fudosansoken.jp）
+#   カード = div.article-object（全物件一覧 /sp-allbukken/）。
+#   価格 = .cell3 span.price.num（数字のみ）。
+#   面積 = .cell5（br区切り 3行目が土地面積 or 建物面積）。
+#   所在地 = .cell1（span.bold=路線名 のあとのテキストノード=住所）。
+#   種別 = .cell6（"売地"/"中古戸建"等）。
+#   詳細URL = a[href*='/detail-']（相対→絶対）。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _fudosoken_location(cell1):
+    bold = cell1.select_one("span.bold")
+    if bold:
+        bold.decompose()
+    return cell1.get_text(" ", strip=True)
+
+
+def _fudosoken_area(cell5):
+    txt = cell5.get_text("\n", strip=True)
+    for line in reversed(txt.split("\n")):
+        v = _first_sqm(line)
+        if v:
+            return v
+    return None
+
+
+def parse_fudosoken(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.article-object"):
+        raise BotBlocked(f"不動産創研 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for card in soup.select("div.article-object"):
+        c3 = card.select_one(".cell3")
+        price_num = card.select_one("span.price.num")
+        price = parse_price_man((price_num.get_text(strip=True) + "万円") if price_num else "") if c3 else None
+        c5 = card.select_one(".cell5")
+        area = _fudosoken_area(c5) if c5 else None
+        c1 = card.select_one(".cell1")
+        location = _fudosoken_location(c1) if c1 else ""
+        a = card.find("a", href=re.compile(r"/detail-"))
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        card_text = card.get_text(" ", strip=True)
+        shubetsu_hint = card.select_one(".cell6")
+        flag_text = (shubetsu_hint.get_text(" ", strip=True) if shubetsu_hint else "") + " " + card_text
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        dtype = "中古戸建" if "/kodate/" in url else "更地"
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                flag_text, filters, location=location, default_type=dtype))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[fudosoken] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 伊豆総合企画 アダプタ（地場業者自社HP。izu-s-k.fudohsan.jp）
+#   カード = div.list_simple_box（10件/ページ、ページャ追従）。
+#   価格 = dl.list_price dd:first → "38万円"。
+#   面積 = .dpoint2 → "199m²"。
+#   所在地 = .list_detail テキストの "所在地 {X} 交通" 区間。
+#   詳細URL = a[href*='post_type=fudo']。
+#   ページャ = a[href*='paged='] の次ページリンクを追従（2ページ目以降も同カード構造）。
+# ---------------------------------------------------------------------------
+
+def _izu_sougou_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("div.list_simple_box"):
+        dp2 = card.select_one(".dpoint2")
+        area = _first_sqm(dp2.get_text(strip=True)) if dp2 else None
+        lp = card.select_one("dl.list_price")
+        price = None
+        if lp:
+            dd = lp.find("dd")
+            if dd:
+                price = parse_price_man(dd.get_text(strip=True))
+        det = card.select_one(".list_detail")
+        location = ""
+        if det:
+            txt = det.get_text(" ", strip=True)
+            m = re.search(r"所在地\s+(.+?)(?:\s+交通|\s+面積:|$)", txt)
+            if m:
+                location = m.group(1).strip()
+        a = card.find("a", href=re.compile(r"post_type=fudo"))
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_izu_sougou(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.list_simple_box"):
+        raise BotBlocked(f"伊豆総合企画 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _izu_sougou_cards(soup, base_url, filter_keywords, filters)
+    # ページャ追従（最大5ページ、同一コンテンツハッシュでループ検出）
+    seen_hashes = {page_hash(first_html)}
+    for plink in soup.select("a[href*='paged=']"):
+        href = plink.get("href", "")
+        if not re.search(r"paged=[2-9]", href):
+            continue
+        next_url = normalize_url(href, base_url)
+        if not _site_time_left():
+            break
+        time.sleep(random.uniform(4, 8))
+        code, nhtml = fetch(next_url, session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        seen_hashes.add(page_hash(nhtml))
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        out.extend(_izu_sougou_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[izu_sougou] cards={len(dedup)} ({len(seen_hashes)}ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -945,6 +1123,9 @@ SITE_ADAPTERS = [
     # sources_extra(フェーズ2) へ退避済み（リトライストーム回避）。parse_athome は将来用に残置。
     (lambda sid: sid.startswith("lifull_") and sid != "lifull_akiyabank", parse_lifull),
     (lambda sid: sid.startswith("ieichiba"), parse_ieichiba),
+    (lambda sid: sid.startswith("mano_"), parse_mano),
+    (lambda sid: sid.startswith("fudosoken_"), parse_fudosoken),
+    (lambda sid: sid.startswith("izu_sougou_"), parse_izu_sougou),
 ]
 
 

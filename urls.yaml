@@ -287,6 +287,35 @@ sites:
     kind: 個人直/空き家
     filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
 
+  # ==== ③-B 地場業者自社HP（adapter実装済み） ====
+  # robots.txt: 全3社とも物件ページへの取得禁止なし（WP管理画面のみDisallow）。
+  # HTTP 200実測: manokaihatsu.com/estate/(200), fudosansoken.jp/sp-allbukken/(200),
+  #   izu-s-k.fudohsan.jp/menu/?bukken=jsearch&shu=1(200=GET; HEAD=404は誤応答)
+  - id: mano_shizuoka
+    name: 真野開発 売買物件一覧
+    url: "https://manokaihatsu.com/estate/"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/売地・中古戸建
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+    note: "静的HTML。li.estate-item(.item-price有)。table.item-table th/td zip で価格/面積/所在地。単一ページ5〜9件。"
+  - id: fudosoken_shizuoka
+    name: 不動産創研 全物件一覧
+    url: "https://www.fudosansoken.jp/sp-allbukken/"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/売地・中古戸建
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+    note: "静的HTML。div.article-object。cell1=所在地, cell3=価格, cell5=面積, cell6=種別。单一ページ20〜21件。伊豆の国市/函南町が多い。"
+  - id: izu_sougou_shizuoka
+    name: 伊豆総合企画 売買物件一覧
+    url: "https://izu-s-k.fudohsan.jp/menu/?bukken=jsearch&shu=1"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/売地
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+    note: "静的HTML(GETは200; HEADは404誤応答)。div.list_simple_box。dpoint2=面積, dl.list_price=価格, list_detail=所在地。paged=2/3ページャ追従。"
+
   # ==== ⑤ 強制換価型（ハッシュ監視・動的） ====
   - id: bit_numazu
     name: BIT 沼津支部 売却スケジュール
