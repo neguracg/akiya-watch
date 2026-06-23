@@ -1,6 +1,6 @@
 # akiya-watch 監視ソース一覧（SOURCES.md）
 
-最終更新: 2026-06-22 23:28（watch.py 実行時に自動更新）
+最終更新: 2026-06-23 02:50（watch.py 実行時に自動更新）
 
 | 区分 | ソース名 | 対象市町・種別 | URL | 状態 | 最終HTTP | 件数 |
 |---|---|---|---|---|---|---|
@@ -17,17 +17,17 @@
 | ① | SUUMO 中古戸建 駿東郡（清水/長泉） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 41 |
 | ① | SUUMO 中古戸建 田方郡（函南） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 69 |
 | ① | LIFULL 土地 伊豆の国市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/izunokuni-city/list/ | 稼働(adapter) | 200 | 30 |
-| ① | LIFULL 土地 三島市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 30 |
+| ① | LIFULL 土地 三島市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/mishima-city/list/ | 要確認(HTTP ERROR) | ERROR | — |
 | ① | LIFULL 土地 沼津市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/numazu-city/list/ | 稼働(adapter) | 200 | 30 |
 | ① | LIFULL 土地 函南町 | 土地 | https://www.homes.co.jp/tochi/shizuoka/tagata_kannami-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 土地 清水町 | 土地 | https://www.homes.co.jp/tochi/shizuoka/sunto_shimizu-city/list/ | 稼働(adapter) | 200 | 29 |
-| ① | LIFULL 土地 長泉町 | 土地 | https://www.homes.co.jp/tochi/shizuoka/sunto_nagaizumi-city/list/ | 稼働(adapter) | 200 | 25 |
+| ① | LIFULL 土地 長泉町 | 土地 | https://www.homes.co.jp/tochi/shizuoka/sunto_nagaizumi-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 土地 裾野市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/susono-city/list/ | 要確認(HTTP 202) | 202 | — |
-| ① | LIFULL 中古戸建 伊豆の国市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/izunokuni-city/list/ | 稼働(adapter) | 200 | 30 |
-| ① | LIFULL 中古戸建 三島市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 30 |
+| ① | LIFULL 中古戸建 伊豆の国市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/izunokuni-city/list/ | 要確認(HTTP ERROR) | ERROR | — |
+| ① | LIFULL 中古戸建 三島市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/mishima-city/list/ | 要確認(HTTP ERROR) | ERROR | — |
 | ① | LIFULL 中古戸建 沼津市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/numazu-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 函南町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/tagata_kannami-city/list/ | 要確認(HTTP 202) | 202 | — |
-| ① | LIFULL 中古戸建 清水町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_shimizu-city/list/ | 稼働(adapter) | 200 | 18 |
+| ① | LIFULL 中古戸建 清水町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_shimizu-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 長泉町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_nagaizumi-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 裾野市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/susono-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ② | 空き家バンクしずおか 函南町 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/田方郡函南町/ | 稼働(adapter) | 200 | 43 |
