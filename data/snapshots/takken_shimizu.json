@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174531/settle/1|売土地 駿東郡清水町徳倉80-12": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "駿東郡清水町徳倉80-12",
+      "price_man": 540,
+      "area_sqm": 592.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174531/settle/1",
+      "text": "売土地 駿東郡清水町徳倉80-12"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170890/settle/1|新築売住宅 駿東郡清水町長沢": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-06-23",
@@ -163,6 +172,6 @@
       "text": "売土地 駿東郡清水町伏見"
     }
   },
-  "hash": "50db18157cd0279f",
-  "fetched_at": "2026-06-23T02:48:25.298011"
+  "hash": "e9203d3bb80684ab",
+  "fetched_at": "2026-06-23T23:17:01.568779"
 }

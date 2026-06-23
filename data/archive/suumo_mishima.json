@@ -20,5 +20,16 @@
     "text": "大場（大場駅） 1990万円",
     "removed_on": "2026-06-19",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/|多呂 800万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-23",
+    "location": "静岡県三島市多呂225",
+    "price_man": 800,
+    "area_sqm": 228.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/",
+    "text": "多呂 800万円",
+    "removed_on": "2026-06-23",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

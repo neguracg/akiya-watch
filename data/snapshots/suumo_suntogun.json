@@ -9,15 +9,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78453284/",
       "text": "【住友林業】敷地42坪～44坪超×全6区画子育て支援が魅力の長泉町"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/|【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-23",
-      "location": "静岡県駿東郡清水町伏見字堂之口850-1、他",
-      "price_man": 2780,
-      "area_sqm": 151.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/",
-      "text": "【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76592995/|【積水ハウス】長泉町納米里3区画。長泉なめり駅徒歩9分、長泉北小学校徒歩15分": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-23",
@@ -26,6 +17,15 @@
       "area_sqm": 145.4,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76592995/",
       "text": "【積水ハウス】長泉町納米里3区画。長泉なめり駅徒歩9分、長泉北小学校徒歩15分"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/|【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-23",
+      "location": "静岡県駿東郡清水町伏見字堂之口850-2、43-14",
+      "price_man": 2780,
+      "area_sqm": 151.2,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/",
+      "text": "【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最"
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79044394/|【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。": {
       "first_seen": "2026-06-17",
@@ -379,6 +379,6 @@
       "text": "東野 4180万円"
     }
   },
-  "hash": "4be76394d724607e",
-  "fetched_at": "2026-06-23T02:48:10.498699"
+  "hash": "e367404b22ca932e",
+  "fetched_at": "2026-06-23T23:16:47.485041"
 }

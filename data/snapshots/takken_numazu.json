@@ -1,5 +1,41 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1|売土地 沼津市庄栄町": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-23",
+      "location": "沼津市庄栄町",
+      "price_man": 1400,
+      "area_sqm": 164.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1",
+      "text": "売土地 沼津市庄栄町"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1|売土地 沼津市本郷町8-12": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-23",
+      "location": "沼津市本郷町8-12",
+      "price_man": 1300,
+      "area_sqm": 158.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1",
+      "text": "売土地 沼津市本郷町8-12"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1|売土地 沼津市下香貫藤井原": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-23",
+      "location": "沼津市下香貫藤井原",
+      "price_man": 880,
+      "area_sqm": 107.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1",
+      "text": "売土地 沼津市下香貫藤井原"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1|売土地 沼津市下香貫": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-23",
+      "location": "沼津市下香貫",
+      "price_man": 1800,
+      "area_sqm": 297.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1",
+      "text": "売土地 沼津市下香貫"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142640/settle/1|売土地 沼津市東椎路1303-37": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-06-23",
@@ -684,15 +720,6 @@
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173390/settle/1",
       "text": "売マンション 沼津市平町"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1|売土地 沼津市下香貫": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-23",
-      "location": "沼津市下香貫",
-      "price_man": 1800,
-      "area_sqm": 297.0,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158447/settle/1",
-      "text": "売土地 沼津市下香貫"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160881/settle/1|売住宅 沼津市江原町": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-23",
@@ -737,24 +764,6 @@
       "area_sqm": 241.3,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170276/settle/1",
       "text": "売住宅 沼津市南本郷町12-6-1"
-    },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1|売土地 沼津市本郷町8-12": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-23",
-      "location": "沼津市本郷町8-12",
-      "price_man": 1300,
-      "area_sqm": 158.9,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169766/settle/1",
-      "text": "売土地 沼津市本郷町8-12"
-    },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1|売土地 沼津市下香貫藤井原": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-23",
-      "location": "沼津市下香貫藤井原",
-      "price_man": 880,
-      "area_sqm": 107.4,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159903/settle/1",
-      "text": "売土地 沼津市下香貫藤井原"
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129160/settle/1|売土地 沼津市本字下一丁田866-14": {
       "first_seen": "2026-06-21",
@@ -845,15 +854,6 @@
       "area_sqm": 184.0,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34387/settle/1",
       "text": "売土地 沼津市西島町1111-6"
-    },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1|売土地 沼津市庄栄町": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-06-23",
-      "location": "沼津市庄栄町",
-      "price_man": 1520,
-      "area_sqm": 164.8,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167096/settle/1",
-      "text": "売土地 沼津市庄栄町"
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1|売土地 沼津市庄栄町": {
       "first_seen": "2026-06-21",
@@ -1531,6 +1531,6 @@
       "text": "売住宅 沼津市青野"
     }
   },
-  "hash": "e64595c0b1f37665",
-  "fetched_at": "2026-06-23T02:47:08.930132"
+  "hash": "0f558cd85e263220",
+  "fetched_at": "2026-06-23T23:15:48.931899"
 }

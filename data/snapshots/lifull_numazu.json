@@ -81,24 +81,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33334000000003/",
       "text": "沼津市岡宮 (大岡駅)"
     },
-    "https://www.homes.co.jp/tochi/b-33317490000145/|沼津市井出 (原駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-23",
-      "location": "沼津市井出 (原駅)",
-      "price_man": 1500,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33317490000145/",
-      "text": "沼津市井出 (原駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33309400000052/|沼津市東沢田 (沼津駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-06-23",
-      "location": "沼津市東沢田 (沼津駅)",
-      "price_man": 999,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33309400000052/",
-      "text": "沼津市東沢田 (沼津駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33308270000286/|沼津市根古屋 (原駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-23",
@@ -189,24 +171,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33303030000166/",
       "text": "沼津市駿河台 (沼津駅)"
     },
-    "https://www.homes.co.jp/tochi/b-33306250000014/|沼津市平町 (沼津駅)": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-23",
-      "location": "沼津市平町 (沼津駅)",
-      "price_man": 1600,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33306250000014/",
-      "text": "沼津市平町 (沼津駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33306250000016/|沼津市東沢田 (沼津駅)": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-06-23",
-      "location": "沼津市東沢田 (沼津駅)",
-      "price_man": 1700,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33306250000016/",
-      "text": "沼津市東沢田 (沼津駅)"
-    },
     "https://www.homes.co.jp/tochi/b-33333610000022/|沼津市市道町 (沼津駅)": {
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-23",
@@ -269,8 +233,44 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-33309400000046/",
       "text": "沼津市大岡 (大岡駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33327210001510/|沼津市足高": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "沼津市足高",
+      "price_man": 880,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33327210001510/",
+      "text": "沼津市足高"
+    },
+    "https://www.homes.co.jp/tochi/b-33324720000035/|沼津市原 (原駅)": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "沼津市原 (原駅)",
+      "price_man": 950,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33324720000035/",
+      "text": "沼津市原 (原駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1475010001804/|沼津市下香貫木ノ宮 (沼津駅)": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "沼津市下香貫木ノ宮 (沼津駅)",
+      "price_man": 1380,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1475010001804/",
+      "text": "沼津市下香貫木ノ宮 (沼津駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1475010001716/|沼津市西間門 (沼津駅)": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "沼津市西間門 (沼津駅)",
+      "price_man": 950,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1475010001716/",
+      "text": "沼津市西間門 (沼津駅)"
     }
   },
-  "hash": "24fde9734eb54079",
-  "fetched_at": "2026-06-23T02:41:07.663995"
+  "hash": "5c9ae5f8970f5b74",
+  "fetched_at": "2026-06-23T23:09:25.506132"
 }

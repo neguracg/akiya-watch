@@ -27,15 +27,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20887246/",
       "text": "166坪の広い敷地。富士サファリパークまで3000ｍ（自動車6分）。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_75881056/|☆55坪以上、陽当良好。建築条件なし。県道24号線（富士裾野線）近くです。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-23",
-      "location": "静岡県裾野市今里",
-      "price_man": 700,
-      "area_sqm": 191.3,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_75881056/",
-      "text": "☆55坪以上、陽当良好。建築条件なし。県道24号線（富士裾野線）近くです。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78451368/|【賃貸も売買もShow不動産】裾野市茶畑　全１区画": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-23",
@@ -44,6 +35,15 @@
       "area_sqm": 806.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78451368/",
       "text": "【賃貸も売買もShow不動産】裾野市茶畑　全１区画"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_75881056/|☆55坪以上、陽当良好。建築条件なし。県道24号線（富士裾野線）近くです。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-23",
+      "location": "静岡県裾野市今里",
+      "price_man": 700,
+      "area_sqm": 191.3,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_75881056/",
+      "text": "☆55坪以上、陽当良好。建築条件なし。県道24号線（富士裾野線）近くです。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_76336722/|☆東名裾野インターへのアクセス良好♪静かな環境の立地です。": {
       "first_seen": "2026-06-17",
@@ -63,6 +63,15 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20763181/",
       "text": "平松（裾野駅） 890万円"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆": {
+      "first_seen": "2026-06-23",
+      "last_seen": "2026-06-23",
+      "location": "静岡県裾野市茶畑",
+      "price_man": 970,
+      "area_sqm": 182.7,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/",
+      "text": "■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407404/|ゆったりとした敷地の分譲地日当たり良好小学校徒歩13分で通学安心！": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-23",
@@ -72,14 +81,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407404/",
       "text": "ゆったりとした敷地の分譲地日当たり良好小学校徒歩13分で通学安心！"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪": {
-      "first_seen": "2026-06-22",
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|建築条件なし！富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪": {
+      "first_seen": "2026-06-23",
       "last_seen": "2026-06-23",
       "location": "静岡県裾野市須山",
       "price_man": 1390,
       "area_sqm": 1149.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-      "text": "憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪"
+      "text": "建築条件なし！富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪"
     },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_71890308/|【岩波駅450ｍ・Ｒ２４６アクセス良】～裾野市岩波の全４区画分譲地～": {
       "first_seen": "2026-06-17",
@@ -235,6 +244,6 @@
       "text": "☆敷地面積200坪以上♪陽当たり良好！建築条件なし。解体更地渡し致します。"
     }
   },
-  "hash": "b7e812226f9f301b",
-  "fetched_at": "2026-06-23T02:45:06.849911"
+  "hash": "dd70f73e7d77a01b",
+  "fetched_at": "2026-06-23T23:13:30.901319"
 }

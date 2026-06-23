@@ -1,14 +1,5 @@
 {
   "keys": {
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20388080/|【ミサワホーム】三島市幸原町１区画。三島駅まで徒歩約１４分！": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-23",
-      "location": "静岡県三島市幸原町１",
-      "price_man": 3220,
-      "area_sqm": 136.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20388080/",
-      "text": "【ミサワホーム】三島市幸原町１区画。三島駅まで徒歩約１４分！"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/|南二日町（三島二日町駅） 販売価格未定": {
       "first_seen": "2026-06-22",
       "last_seen": "2026-06-23",
@@ -17,6 +8,15 @@
       "area_sqm": 169.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/",
       "text": "南二日町（三島二日町駅） 販売価格未定"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20388080/|【ミサワホーム】三島市幸原町１区画。三島駅まで徒歩約１４分！": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-23",
+      "location": "静岡県三島市幸原町１",
+      "price_man": 3220,
+      "area_sqm": 136.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20388080/",
+      "text": "【ミサワホーム】三島市幸原町１区画。三島駅まで徒歩約１４分！"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78936290/|眺望良好！日当たり良好！！土地広々約92坪♪": {
       "first_seen": "2026-06-17",
@@ -80,15 +80,6 @@
       "area_sqm": 206.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78391473/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/|多呂 800万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-23",
-      "location": "静岡県三島市多呂225",
-      "price_man": 800,
-      "area_sqm": 228.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_72718327/",
-      "text": "多呂 800万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20697228/|富士ビレッジ（三島駅） 895万円": {
       "first_seen": "2026-06-17",
@@ -257,7 +248,7 @@
       "last_seen": "2026-06-23",
       "location": "静岡県三島市谷田1349-1",
       "price_man": 1780,
-      "area_sqm": 202.1,
+      "area_sqm": 201.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
       "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
     },
@@ -459,15 +450,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21065136/",
       "text": "沢地（三島駅） 5300万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/|若松町（三島駅） 1億1000万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-06-23",
-      "location": "静岡県三島市若松町",
-      "price_man": 11000,
-      "area_sqm": 2855.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/",
-      "text": "若松町（三島駅） 1億1000万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/|若松町（三島駅） 1億1000万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-06-23",
@@ -475,6 +457,15 @@
       "price_man": 11000,
       "area_sqm": 2855.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_70432019/",
+      "text": "若松町（三島駅） 1億1000万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/|若松町（三島駅） 1億1000万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-06-23",
+      "location": "静岡県三島市若松町",
+      "price_man": 11000,
+      "area_sqm": 2855.2,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78686654/",
       "text": "若松町（三島駅） 1億1000万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_97070761/|若松町（三島駅） 1億1000万円": {
@@ -487,6 +478,6 @@
       "text": "若松町（三島駅） 1億1000万円"
     }
   },
-  "hash": "503382ffe1a4eb87",
-  "fetched_at": "2026-06-23T02:38:29.313304"
+  "hash": "938fab5cc418ea14",
+  "fetched_at": "2026-06-23T23:07:36.025910"
 }
