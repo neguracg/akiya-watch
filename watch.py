@@ -1740,12 +1740,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     # 列フィルタ用ポップアップ
     H.append("<div id='popup'></div>")
 
-    H.append("<script>")
-    H.append("const DATA=" + data_json + ";")
-    H.append("const CONFIG=" + config_js + ";")
-    H.append(_FILTER_JS)
-    H.append("</script>")
-    # 非表示確認モーダル（JSで .open クラスを付与して表示）
+    # 非表示確認モーダル（JSで .open クラスを付与して表示）。
+    # ※ スクリプトはトップレベルで getElementById('hideConfirm') 等を参照するため、
+    #   モーダル DOM は必ず <script> より前に配置すること。
     H.append("<div id='hideModal'>"
              "<div id='hideModalBox'>"
              "<h3>この物件を非表示にしますか？</h3>"
@@ -1754,6 +1751,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
              "<button id='hideCancel'>キャンセル</button>"
              "<button id='hideConfirm'>非表示にする</button>"
              "</div></div></div>")
+
+    H.append("<script>")
+    H.append("const DATA=" + data_json + ";")
+    H.append("const CONFIG=" + config_js + ";")
+    H.append(_FILTER_JS)
+    H.append("</script>")
     H.append("</body></html>")
     return "\n".join(H)
 
