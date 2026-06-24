@@ -53,5 +53,27 @@
     "text": "畑 2180万円",
     "removed_on": "2026-06-21",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/|桑原（函南駅） 1560万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-23",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 1560,
+    "area_sqm": 219.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/",
+    "text": "桑原（函南駅） 1560万円",
+    "removed_on": "2026-06-24",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20966424/|函南町上沢中古戸建築１５年で綺麗な内外装！穏やかで暖かな住環境です！": {
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 1900,
+    "area_sqm": 132.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20966424/",
+    "text": "函南町上沢中古戸建築１５年で綺麗な内外装！穏やかで暖かな住環境です！",
+    "removed_on": "2026-06-24",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

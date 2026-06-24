@@ -65,28 +65,6 @@
     "removed_on": "2026-06-21",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/|内外装リフォーム済み住宅　伊豆縦貫道や幹線道路へのアクセス良好": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-21",
-    "location": "静岡県三島市萩320-83",
-    "price_man": 2599,
-    "area_sqm": 197.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/",
-    "text": "内外装リフォーム済み住宅　伊豆縦貫道や幹線道路へのアクセス良好",
-    "removed_on": "2026-06-22",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851885/|駐車並列2台、リフォーム済みで家具付きの再生住宅が月々5万円台から登場です！": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-22",
-    "location": "静岡県三島市徳倉740-34",
-    "price_man": 1999,
-    "area_sqm": 168.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851885/",
-    "text": "駐車並列2台、リフォーム済みで家具付きの再生住宅が月々5万円台から登場です！",
-    "removed_on": "2026-06-22",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21076127/|【見学会開催】三島幸原線付近の3SLDK中古住宅。": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-22",
@@ -118,6 +96,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
     "text": "●萩リフォーム住宅/9月完成●落ち着いた住まい♪資料請求＆現地案内受付中！",
     "removed_on": "2026-06-23",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78408500/|太陽光発電システム搭載のオール電化の物件です。家庭菜園もできます。": {
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-23",
+    "location": "静岡県三島市大場",
+    "price_man": 1200,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78408500/",
+    "text": "太陽光発電システム搭載のオール電化の物件です。家庭菜園もできます。",
+    "removed_on": "2026-06-24",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }
