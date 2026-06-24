@@ -369,28 +369,59 @@ def classify_shubetsu(text: str, default_type: str):
     return default_type, "既定（URL種別）"
 
 
-def rebuild_assessment(text: str, toshikeikaku: str, zokujin: bool = False):
-    """再建築可否ヒューリスティック（参考値）。戻り値 (mark, reason)。理由は必須。
+_HOUSE_SHUBETSU = ("空き家", "古家付き土地", "中古戸建")
 
-    法的確定ではなく掲載情報からの推定。役場確認が前提。属人性の疑いがあれば
-    注意喚起を理由に付す（除外はしない）。
+
+def building_assessment(text: str, toshikeikaku: str, zokujin: bool, shubetsu: str):
+    """建築可否ヒューリスティック（参考値）。戻り値 (mark, reason)。理由は必須。
+
+    種別で観点を分ける:
+      家付き系（空き家/古家付き土地/中古戸建）= 既存建物の **再建築** 可否
+      更地系（更地/農地 等）                 = **新規建築** 可否
+    いずれも法的確定ではなく掲載情報からの推定。最終判断は役場確認が前提。
+    属人性の疑いがあれば注意喚起を理由に付す（除外はしない）。
     """
+    is_house = shubetsu in _HOUSE_SHUBETSU
+    kind = "再建築" if is_house else "新規建築"
     zk = "／属人的許可の疑い→用途変更許可が必要・第三者建替え不可の恐れ" if zokujin else ""
+
+    # --- 強い否定シグナル（種別共通）---
     if "再建築不可" in text or "建築不可" in text:
-        return "×", "掲載に再建築不可表記" + zk
-    if toshikeikaku == "市街化調整区域" or "調整区域" in text:
-        return "△", "調整区域につき要役場確認＝本命候補" + zk
+        return "×", f"掲載に再建築不可の表記（{kind}不可）" + zk
     if "接道なし" in text or "未接道" in text or "無道路" in text:
-        return "×", "接道なしの疑い" + zk
+        return "×", f"接道なしの疑い（{kind}不可の恐れ）" + zk
+
     width = _road_width(text)
     frontage = _frontage(text)
     in_market = (toshikeikaku == "市街化区域") or ("市街化区域" in text)
-    if width is not None and width >= 4 and (frontage is None or frontage >= 2) and in_market:
-        return "○", f"前面道路幅員{width:g}m・市街化区域で建基法道路に接道と推定" + zk
+    is_chousei = (toshikeikaku == "市街化調整区域") or ("調整区域" in text)
+    road_ok = width is not None and width >= 4 and (frontage is None or frontage >= 2)
+
+    if is_house:
+        # --- 既存建物の再建築可否 ---
+        if "既存不適格" in text:
+            return "△", "既存不適格＝現行法では同規模再建築できない恐れ・要役場確認" + zk
+        if is_chousei:
+            return "△", "調整区域の建替えは既存宅地要件等の確認が必要＝本命候補" + zk
+        if road_ok and in_market:
+            return "○", f"前面道路幅員{width:g}m・市街化区域で建基法道路に接道、再建築可と推定" + zk
+        if width is not None and width < 4:
+            return "△", f"前面道路幅員{width:g}m(<4m)。再建築はセットバック前提・要確認" + zk
+        if zokujin:
+            return "△", "属人的許可（農家/分家）の疑い→第三者の再建築不可の恐れ"
+        return "不明", "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認"
+
+    # --- 更地: 新規建築可否 ---
+    if is_chousei:
+        return "△", "市街化調整区域は原則新築不可・許可要件次第＝本命候補" + zk
+    if road_ok and in_market:
+        return "○", f"前面道路幅員{width:g}m・市街化区域で建基法道路に接道、新築可と推定" + zk
     if width is not None and width < 4:
-        return "△", f"前面道路幅員{width:g}m(<4m)。セットバック/再建築要確認" + zk
+        return "△", f"前面道路幅員{width:g}m(<4m)。セットバックで新築可の可能性・要確認" + zk
+    if in_market:
+        return "△", "市街化区域だが接道幅員が不明。新築可否は接道要確認" + zk
     if zokujin:
-        return "△", "属人的許可の疑い→用途変更許可が必要・第三者建替え不可の恐れ"
+        return "△", "属人的許可の疑い→用途変更許可が必要" + zk
     return "不明", "接道・区分情報なし、詳細/役場で要確認"
 
 
@@ -430,7 +461,7 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     zokujin = detect_zokujinsei(flag_text)
     toshikeikaku = extract_toshikeikaku(flag_text)
     chimoku = extract_chimoku(flag_text)
-    rb_mark, rb_reason = rebuild_assessment(flag_text, toshikeikaku, zokujin)
+    rb_mark, rb_reason = building_assessment(flag_text, toshikeikaku, zokujin, shubetsu)
 
     return {
         "url": url,
@@ -1582,8 +1613,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         opts.append(f"<option value='{d}.html'{sel}>{label}</option>")
     date_nav = ("<select onchange=\"location.href=this.value\">" + "".join(opts) + "</select>")
 
-    disclaimer = ("<p class='note'>※ 再建築可否の ○△×／不明 は掲載情報からの<b>推定</b>であり、"
-                  "法的確定ではありません。最終判断には役場確認が必要です。"
+    disclaimer = ("<p class='note'>※ 建築可否の ○△×／不明 は掲載情報からの<b>推定</b>であり、"
+                  "法的確定ではありません（更地＝新規建築、家付き＝再建築の可否を表示）。"
+                  "最終判断には役場確認が必要です。"
                   "市街化調整区域（△）は除外ではなく本命候補シグナルです。</p>")
 
     config_js = json.dumps({
@@ -1616,30 +1648,33 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
 
     # ---- パネル（検索条件）----
     amin_tsubo = f"{amin_def / 3.305785:.1f}"
-    H.append("<button id='filterToggle'>絞り込み ▾</button>"
+    H.append("<button id='filterToggle'>検索条件 ▾</button>"
              " <span class='cnt' id='cntTop'>—</span>")
     H.append("<div class='panel' id='panel'>")
-    H.append("<div class='panel-title'>検索条件"
-             " <button id='resetBtn'>既定に戻す</button></div>")
-    H.append("<div class='princ'>種別・地目・市町・再建築・坪単価の絞り込みと並べ替えは"
-             "<b>各列の見出しをタップ</b>してください（PC・iPhone共通）。</div>")
-    # (a) 価格フィルタ（下限/上限）
-    H.append("<div class='filter-row prow'>"
-             "<span class='filter-label'>価格</span>"
-             + _help("タブ内の物件を価格で絞り込みます。空欄にすると制限なし。")
-             + "<label>下限 <input type='number' id='priceMinInput' value=''>万円</label>"
-             "<label>上限 <input type='number' id='priceMaxInput'>万円</label>"
+    # タイトル文字は出さず、操作ボタンのみ右上に置く
+    H.append("<div class='panel-title'><span></span>"
+             "<button id='resetBtn'>条件をリセット</button></div>")
+    H.append("<div class='princ'>種別・地目・市町・建築可否・坪単価のしぼり込みと並べ替えは"
+             "<b>各列の見出しをタップ</b>（PC・iPhone共通）。</div>")
+    # (a) 価格フィルタ（上=下限／下=上限 の縦並び）
+    H.append("<div class='filter-block prow'>"
+             "<div class='fb-head'><span class='filter-label'>価格</span>"
+             + _help("このタブの物件を価格でしぼり込みます。空欄にすると制限なし。") + "</div>"
+             "<div class='fb-line'><span class='mm'>いくら以上</span>"
+             "<input type='number' id='priceMinInput' value=''> 万円</div>"
+             "<div class='fb-line'><span class='mm'>いくら以下</span>"
+             "<input type='number' id='priceMaxInput'> 万円</div>"
              "</div>")
-    # (b) 面積フィルタ（㎡/坪 双方向換算）
-    H.append(f"<div class='area-row prow'>"
-             f"<span class='filter-label'>面積</span>"
-             + _help("土地面積で絞り込み。㎡と坪は連動して自動換算されます。空欄は制限なし。")
-             + f"<span class='area-pair'>下限&nbsp;"
-             f"<input type='number' id='aminSqmInput' value='{amin_def}'>㎡ /"
-             f"<input type='number' id='aminTsuboInput' value='{amin_tsubo}'>坪</span>"
-             f"<span class='area-pair'>上限&nbsp;"
-             f"<input type='number' id='amaxSqmInput'>㎡ /"
-             f"<input type='number' id='amaxTsuboInput'>坪</span>"
+    # (b) 面積フィルタ（坪メイン入力＋㎡は読取専用表示。上=下限／下=上限）
+    H.append(f"<div class='filter-block prow'>"
+             f"<div class='fb-head'><span class='filter-label'>面積</span>"
+             + _help("坪で入力します（㎡は自動換算の参考表示）。空欄にすると制限なし。") + "</div>"
+             f"<div class='fb-line'><span class='mm'>これ以上</span>"
+             f"<input type='number' id='aminTsuboInput' value='{amin_tsubo}'> 坪"
+             f"<span class='sqm-note'>= <span id='aminSqmView'>{amin_def}</span> ㎡</span></div>"
+             f"<div class='fb-line'><span class='mm'>これ以下</span>"
+             f"<input type='number' id='amaxTsuboInput'> 坪"
+             f"<span class='sqm-note'>= <span id='amaxSqmView'>—</span> ㎡</span></div>"
              f"</div>")
     # (c) 除外エリア
     H.append("<div class='prow'><b>除外エリア</b>"
@@ -1660,10 +1695,10 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     # ---- 参考情報（バッジ凡例）— パネル直下に配置 ----
     H.append("<details class='refbox cond'>")
     H.append("<summary>参考情報（バッジの見方）</summary>")
-    H.append("<div><b>プラス要素（好材料）</b> "
+    H.append("<div><span class='lbl lbl-plus'>プラス要素（好材料）</span> "
              + escape("、".join(filters.get("interest_keywords", [])) or "なし")
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
-    H.append("<div><b>マイナス要素（注意点）</b> "
+    H.append("<div><span class='lbl lbl-minus'>マイナス要素（注意点）</span> "
              + escape("、".join(filters.get("caution_keywords", [])) or "なし")
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。") + "</div>")
     H.append("<div class='note'>" + disclaimer.replace("<p class='note'>", "").replace("</p>", "") + "</div>")
@@ -1674,24 +1709,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<div id='secMain' class='secbody open'><table id='mainTbl'></table></div>")
 
     # ---- 新着（折り畳み・同フォーマット）----
-    H.append(f"<h2 class='sec open new' data-target='secNew'>★ 新着</h2>")
+    H.append(f"<h2 class='sec open new' data-target='secNew'>🆕 新着</h2>")
     H.append("<div id='secNew' class='secbody open'><table id='newTbl'></table></div>")
 
-    # ---- サイト別サマリ（静的）----
-    H.append("<h2 class='sec' data-target='secSummary'>サイト別サマリ</h2>")
-    H.append("<div id='secSummary' class='secbody'>")
-    H.append("<table><tr><th>ID</th><th>サイト名</th><th>HTTP</th><th>方式</th><th>抽出</th>"
-             "<th>価格取得</th><th>面積取得</th><th>基準内(参考)</th><th>新着</th><th>NG該当</th>"
-             "<th>status</th><th>備考</th></tr>")
-    for r in results:
-        H.append(
-            f"<tr><td>{escape(r['id'])}</td><td>{escape(r['name'])}</td>"
-            f"<td>{escape(str(r['http']))}</td><td>{escape(r.get('mode',''))}</td><td>{r['raw']}</td>"
-            f"<td>{r['price_cnt']}</td><td>{r['area_cnt']}</td>"
-            f"<td class='num-fit'>{r['fit_cnt']}</td>"
-            f"<td class='num-new'>{r['added_cnt']}</td><td>{r['ng_cnt']}</td>"
-            f"<td>{escape(r['yaml_status'])}</td><td>{escape(r['note'])}</td></tr>")
-    H.append("</table></div>")
+    # ---- お気に入り（折り畳み・JS描画）----
+    H.append("<h2 class='sec fav' data-target='secFav'>⭐ お気に入り <span id='favCnt'></span></h2>")
+    H.append("<div id='secFav' class='secbody'><table id='favTbl'></table></div>")
 
     # ---- NGエリア該当ログ（折り畳み・既定閉・静的）----
     H.append(f"<h2 class='sec excl' data-target='secNg'>NGエリア該当ログ（{len(ng_log)} 件）</h2>")
@@ -1711,8 +1734,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         H.append("<p class='muted'>NGエリア該当なし。</p>")
     H.append("</div>")
 
+    # ---- 非表示にした物件（折り畳み・既定閉・JS描画）----
+    H.append("<h2 class='sec' data-target='secHidden'>非表示にした物件 <span id='hiddenCnt'></span></h2>")
+    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl'></table></div>")
+
     # ---- 消滅（折り畳み・既定閉・静的）----
-    H.append(f"<h2 class='sec gone' data-target='secGone'>消滅（{len(disappeared)} 件・検出から7日以内）</h2>")
+    H.append(f"<h2 class='sec gone' data-target='secGone'>消滅（{len(disappeared)} 件・ページ削除から7日以内）</h2>")
     H.append("<div id='secGone' class='secbody'>")
     if disappeared:
         H.append("<table><tr><th>サイト</th><th>所在地</th><th>価格</th><th>面積</th>"
@@ -1731,9 +1758,21 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         H.append("<p class='muted'>消滅物件なし。</p>")
     H.append("</div>")
 
-    # ---- 非表示にした物件（折り畳み・既定閉・JS描画）----
-    H.append("<h2 class='sec' data-target='secHidden'>非表示にした物件 <span id='hiddenCnt'></span></h2>")
-    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl'></table></div>")
+    # ---- サイト別サマリ（静的・最下部。毎回見る情報ではないメタ情報）----
+    H.append("<h2 class='sec' data-target='secSummary'>サイト別サマリ（取得状況のメタ情報）</h2>")
+    H.append("<div id='secSummary' class='secbody'>")
+    H.append("<table><tr><th>ID</th><th>サイト名</th><th>HTTP</th><th>方式</th><th>抽出</th>"
+             "<th>価格取得</th><th>面積取得</th><th>基準内(参考)</th><th>新着</th><th>NG該当</th>"
+             "<th>status</th><th>備考</th></tr>")
+    for r in results:
+        H.append(
+            f"<tr><td>{escape(r['id'])}</td><td>{escape(r['name'])}</td>"
+            f"<td>{escape(str(r['http']))}</td><td>{escape(r.get('mode',''))}</td><td>{r['raw']}</td>"
+            f"<td>{r['price_cnt']}</td><td>{r['area_cnt']}</td>"
+            f"<td class='num-fit'>{r['fit_cnt']}</td>"
+            f"<td class='num-new'>{r['added_cnt']}</td><td>{r['ng_cnt']}</td>"
+            f"<td>{escape(r['yaml_status'])}</td><td>{escape(r['note'])}</td></tr>")
+    H.append("</table></div>")
 
     H.append(disclaimer)
 
@@ -1746,7 +1785,8 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<div id='hideModal'>"
              "<div id='hideModalBox'>"
              "<h3>この物件を非表示にしますか？</h3>"
-             "<p>非表示にした物件は最下部「非表示済み」から戻せます。</p>"
+             "<p class='hide-target' id='hideTarget'></p>"
+             "<p>非表示にした物件は下の「非表示にした物件」からいつでも戻せます。</p>"
              "<div class='modal-btns'>"
              "<button id='hideCancel'>キャンセル</button>"
              "<button id='hideConfirm'>非表示にする</button>"
@@ -1770,7 +1810,8 @@ _REPORT_CSS = (
     "h2.sec{cursor:pointer;background:#f3f7f4;}h2.sec:hover{background:#e7f0ea;}"
     "h2.sec::before{content:'\\25b6 ';font-size:11px;color:#666;}h2.sec.open::before{content:'\\25bc ';}"
     "h2.static{cursor:default;}h2.new{border-left-color:#d00;}h2.excl{border-left-color:#c0392b;}"
-    "h2.gone{border-left-color:#888;}.secbody{display:none;}.secbody.open{display:block;}"
+    "h2.fav{border-left-color:#e0a800;}h2.gone{border-left-color:#888;}"
+    ".secbody{display:none;}.secbody.open{display:block;}"
     "table{border-collapse:collapse;width:100%;margin-top:6px;}"
     "th,td{border:1px solid #ccc;padding:2px 5px;font-size:12px;text-align:left;white-space:nowrap;}"
     "th{background:#f0f3f5;}th.col{cursor:pointer;user-select:none;}th.col:hover{background:#e3eaf0;}"
@@ -1778,7 +1819,9 @@ _REPORT_CSS = (
     "tbody tr:nth-child(even){background:#fafbfc;}.hitrow td{box-shadow:inset 0 0 0 9999px rgba(46,158,79,.10);}"
     ".hitrow td:first-child{border-left:3px solid #2e9e4f;}"
     ".cond{background:#eef7f0;border:1px solid #bcdcc6;padding:8px 12px;border-radius:6px;}"
-    ".cond div{margin:1px 0;}.cond b{display:inline-block;min-width:9em;color:#0a5;}"
+    ".cond div{margin:1px 0;}"
+    ".cond .lbl{display:inline-block;min-width:9em;font-weight:bold;}"
+    ".lbl-plus{color:#0a7d2c;}.lbl-minus{color:#c0392b;}"
     ".muted{color:#888;}a{color:#1565c0;}.flag{color:#b25b00;}.num-fit{color:#c0392b;}.num-new{color:#d00;}"
     ".rb-ok{color:#0a7d2c;font-weight:bold;}.rb-wn{color:#b8860b;font-weight:bold;}"
     ".rb-ng{color:#c0392b;font-weight:bold;}.rb-uk{color:#888;}"
@@ -1822,16 +1865,16 @@ _REPORT_CSS = (
     ".tab-btn[data-tab=ie]{border-color:#c07030;color:#c07030;}"
     ".tab-btn[data-tab=ie]:not(.active):hover{background:#fdf0e8;}"
     ".tab-btn[data-tab=ie].active{background:#c07030;color:#fff;}"
-    # ---- パネルタイトル & フィルタ行 ----
-    ".panel-title{font-weight:bold;font-size:13px;margin-bottom:8px;"
+    # ---- パネルタイトル & フィルタブロック ----
+    ".panel-title{font-size:13px;margin-bottom:8px;"
     "display:flex;justify-content:space-between;align-items:center;}"
     ".panel-title button{font-size:11px;padding:2px 8px;}"
-    ".filter-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:6px;}"
-    ".filter-row .filter-label{font-weight:bold;min-width:3em;}"
-    ".area-row{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:6px;}"
-    ".area-row .filter-label{font-weight:bold;min-width:3em;}"
-    ".area-pair{display:inline-flex;align-items:center;gap:2px;white-space:nowrap;}"
-    ".area-pair input[type=number]{width:58px;}"
+    ".filter-block{margin-top:8px;}"
+    ".fb-head{margin-bottom:3px;}.fb-head .filter-label{font-weight:bold;}"
+    ".fb-line{display:flex;align-items:center;gap:4px;margin:3px 0;font-size:12px;}"
+    ".fb-line .mm{display:inline-block;min-width:5em;color:#555;}"
+    ".fb-line input[type=number]{width:74px;}"
+    ".sqm-note{color:#888;font-size:11px;margin-left:4px;}"
     # ---- 参考情報 (details) ----
     ".refbox{margin:8px 0;}.refbox summary{cursor:pointer;font-size:12px;color:#555;"
     "font-weight:bold;padding:4px 2px;list-style:none;}"
@@ -1847,10 +1890,20 @@ _REPORT_CSS = (
     "box-shadow:0 4px 20px rgba(0,0,0,.3);}"
     "#hideModalBox h3{margin:0 0 8px;font-size:15px;color:#c0392b;}"
     "#hideModalBox p{font-size:12px;color:#555;margin:0 0 14px;line-height:1.5;}"
+    "#hideModalBox p.hide-target{font-weight:bold;color:#222;background:#f3f4f6;"
+    "border-radius:5px;padding:8px 10px;margin:0 0 12px;}"
     ".modal-btns{display:flex;gap:8px;justify-content:flex-end;}"
     ".modal-btns button{font-size:13px;padding:6px 16px;border-radius:4px;cursor:pointer;border:1px solid;}"
     "#hideConfirm{background:#c0392b;color:#fff;border-color:#c0392b;}"
     "#hideCancel{background:#fff;color:#444;border-color:#ccc;}"
+    # ---- お気に入り★ボタン ----
+    ".favbtn{cursor:pointer;border:none;background:none;font-size:16px;line-height:1;"
+    "color:#ccc;padding:0 2px;}.favbtn.on{color:#f0a500;}"
+    ".favcell{text-align:center;}"
+    # ---- ヒートマップ凡例（改行・本文と同サイズ）----
+    ".legendrow td{font-size:11px;}"
+    ".legendrow .lgline{display:block;margin:2px 0;white-space:normal;}"
+    ".legendrow .lgline b{display:inline-block;padding:1px 6px;margin:0 1px;border-radius:3px;font-weight:normal;}"
     # ---- モバイル対応 ----
     "@media(max-width:700px){"
     "body{margin:0 8px 40px;}.topbar{flex-direction:column;align-items:flex-start;}"
@@ -1858,7 +1911,7 @@ _REPORT_CSS = (
     ".panel{display:none;}.panel.open{display:block;}"
     ".tab-btn{padding:7px 16px;font-size:13px;}"
     "h1{font-size:16px;}th,td{font-size:11px;padding:2px 4px;}.infocell{max-width:140px;}"
-    ".area-pair{flex-wrap:wrap;}}"
+    ".fb-line input[type=number]{width:64px;}}"
 )
 
 
@@ -1871,14 +1924,15 @@ const COLS=[
  {k:'area',l:'面積'},
  {k:'tsubo',l:'坪単価',f:'range'},
  {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
- {k:'rb',l:'再建築',f:'check',opts:['○','△','×','不明']},
+ {k:'rb',l:'建築可否',f:'check',opts:['○','△','×','不明']},
  {k:'loc',l:'所在地'},
  {k:'machi',l:'市町',f:'check',opts:MACHI},
  {k:'chimoku',l:'地目',f:'check',opts:CHIMOKU_OPTS},
  {k:'first_seen',l:'検出日'},
  {k:'info',l:'参考情報',nostat:true}
 ];
-const NCOL=COLS.length+2;
+// 先頭=お気に入り★、末尾=詳細リンク＋非表示ボタン の計3列を加える
+const NCOL=COLS.length+3;
 function esc(s){s=(s==null?'':String(s));return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function numOrNull(v){v=(''+(v==null?'':v)).trim();return v===''?null:parseFloat(v);}
 function hPrice(v){if(v==null)return'';if(v<=300)return'background:#1a7d36;color:#fff';if(v<=600)return'background:#66bb6a';if(v<=1000)return'background:#ffe082';if(v<=2000)return'background:#ffb74d';return'background:#ef9a9a';}
@@ -1893,7 +1947,8 @@ let S=defState();
 
 // ---- localStorage (akiyawatch_ プレフィックス) ----
 const LS_TAB='akiyawatch_tab', LS_PRICE='akiyawatch_price';
-const LS_AREA_FILTER='akiyawatch_area', LS_HIDDEN='akiyawatch_hidden', LS_EXAREAS='akiyawatch_exareas';
+const LS_AREA_FILTER='akiyawatch_area', LS_HIDDEN='akiyawatch_hidden';
+const LS_FAV='akiyawatch_fav', LS_EXAREAS='akiyawatch_exareas';
 const LS_OLD_EXAREAS='akiya.exareas.v2';
 function lsGet(k,def){try{const v=JSON.parse(localStorage.getItem(k));return v==null?def:v;}catch(e){return def;}}
 function lsSave(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
@@ -1906,15 +1961,48 @@ let EXAREAS=(()=>{
   if(ov!=null){try{const v=JSON.parse(ov);lsSave(LS_EXAREAS,v);return v;}catch(e){}}
   return (CONFIG.exareas||[]).map(n=>({name:n,on:true}));
 })();
-let HIDDEN=new Set(lsGet(LS_HIDDEN,[]));
+
+// 非表示／お気に入りは Map<bdk, snapshot>。物件が今日のデータから消えても
+// snapshot で表示し続け、物件自体が消滅するまでリストに残す。
+// 旧形式(bdk文字列の配列)は snapshot=null として移行読込する。
+function loadKV(key){
+  const raw=lsGet(key,[]); const m=new Map();
+  (raw||[]).forEach(e=>{
+    if(typeof e==='string')m.set(e,null);
+    else if(e&&e.bdk)m.set(e.bdk,e.snap||null);
+  });
+  return m;
+}
+function saveKV(key,map){lsSave(key,[...map.entries()].map(([bdk,snap])=>({bdk,snap})));}
+let HIDDEN=loadKV(LS_HIDDEN);
+let FAVOR=loadKV(LS_FAV);
 
 function saveState(){
   lsSave(LS_TAB,S.tab);
   lsSave(LS_PRICE,{min:S.priceMin,maxSarachi:S.priceMaxSarachi,maxIe:S.priceMaxIe});
   lsSave(LS_AREA_FILTER,{min:S.amin,max:S.amax});
 }
-function saveHidden(){lsSave(LS_HIDDEN,[...HIDDEN]);}
+function saveHidden(){saveKV(LS_HIDDEN,HIDDEN);}
+function saveFav(){saveKV(LS_FAV,FAVOR);}
 function saveAreas(){lsSave(LS_EXAREAS,EXAREAS);}
+
+// bdk から表示用スナップショットを作る（レコードを浅くコピー）
+function snapOf(rep){
+  const keys=['url','dk','loc','price','area','tsubo','shubetsu','shubetsu_reason',
+    'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin'];
+  const o={}; keys.forEach(k=>o[k]=rep[k]); return o;
+}
+function bdkOf(g){return g.rep.dk||g.dk;}
+// Map(bdk->snap) を描画用グループ配列に。現存グループがあれば最新を使い、無ければ snapshot を使う。
+function groupsFromMap(map){
+  const out=[];
+  map.forEach((snap,bdk)=>{
+    const live=GROUPS.find(g=>bdkOf(g)===bdk);
+    if(live)out.push(live);
+    else if(snap)out.push({dk:bdk,rep:snap,sites:[snap.site||'—'],added:false,gone:true});
+  });
+  return out;
+}
 
 function restoreState(){
   const tab=lsGet(LS_TAB,null);
@@ -1954,7 +2042,7 @@ function passFilters(d){
 
 // ---- テーブル描画 ----
 function buildHead(){
-  let h='<thead><tr>';
+  let h='<thead><tr><th class=favcell title="お気に入り">★</th>';
   COLS.forEach(c=>{
     if(c.nostat){h+="<th>"+esc(c.l)+"</th>";return;}
     const active=S.cf[c.k]?' filtered':'';
@@ -1962,7 +2050,7 @@ function buildHead(){
     const fi=(c.f&&S.cf[c.k])?' <span class=fi>⚑</span>':'';
     h+="<th class='col"+active+"' data-k='"+c.k+"'>"+esc(c.l)+" <span class=ar>"+ar+"</span>"+fi+"</th>";
   });
-  return h+'<th>詳細</th><th>操作</th></tr></thead>';
+  return h+'<th>詳細</th><th>非表示</th></tr></thead>';
 }
 function rowHtml(g,inHidden){
   const d=g.rep;
@@ -1979,8 +2067,11 @@ function rowHtml(g,inHidden){
   if(d.zokujin)info+="<span class=bz>属人性</span>";
   if(!info)info='<span class=muted>—</span>';
   const op=inHidden?("<button class=restorebtn data-bdk='"+esc(bdk)+"'>戻す</button>")
-                   :("<button class=hidebtn data-bdk='"+esc(bdk)+"'>×</button>");
+                   :("<button class=hidebtn data-bdk='"+esc(bdk)+"'>非表示</button>");
+  const isFav=FAVOR.has(bdk);
+  const fav="<td class=favcell><button class='favbtn"+(isFav?' on':'')+"' data-bdk='"+esc(bdk)+"' title='お気に入り'>"+(isFav?'★':'☆')+"</button></td>";
   return "<tr>"
+    +fav
     +"<td style='"+hPrice(d.price)+"'>"+price+"</td>"
     +"<td style='"+hArea(d.area)+"'>"+area+"</td>"
     +"<td style='"+hTsubo(d.tsubo)+"'>"+tsubo+"</td>"
@@ -1995,10 +2086,12 @@ function rowHtml(g,inHidden){
     +"<td>"+op+"</td></tr>";
 }
 function legendRow(){
-  return "<tfoot><tr class=legendrow><td colspan="+NCOL+" class=heatleg>"
-    +"ヒートマップ → 価格(安い濃緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b>　"
-    +"面積(広い濃緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b>　"
-    +"坪単価(安い濃緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b>　参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span></td></tr></tfoot>";
+  return "<tfoot><tr class=legendrow><td colspan="+NCOL+">"
+    +"<span class=lgline>価格(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b> 万円</span>"
+    +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b> ㎡</span>"
+    +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"
+    +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
+    +"</td></tr></tfoot>";
 }
 function sortGroups(list){
   if(S.sort.k){const k=S.sort.k,dir=S.sort.d;
@@ -2007,19 +2100,27 @@ function sortGroups(list){
   } else list.sort((A,B)=>(((A.rep.price==null)?1e12:A.rep.price)-((B.rep.price==null)?1e12:B.rep.price)));
   return list;
 }
-function tbl(list,inHidden){return buildHead()+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden)).join(''):"<tr><td colspan="+NCOL+" class=muted>該当なし</td></tr>")+'</tbody>'+legendRow();}
+function tbl(list,inHidden,showLegend){return buildHead()+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden)).join(''):"<tr><td colspan="+NCOL+" class=muted>該当なし</td></tr>")+'</tbody>'+(showLegend?legendRow():'');}
 function render(){
-  let vis=GROUPS.filter(g=>{const bdk=g.rep.dk||g.dk;return !HIDDEN.has(bdk)&&passFilters(g.rep);});
+  let vis=GROUPS.filter(g=>{const bdk=bdkOf(g);return !HIDDEN.has(bdk)&&passFilters(g.rep);});
   sortGroups(vis);
-  document.getElementById('mainTbl').innerHTML=tbl(vis,false);
+  // 物件ブラウザ（凡例つき）
+  document.getElementById('mainTbl').innerHTML=tbl(vis,false,true);
+  // 新着（凡例なし＝上と重複のため）
   const nv=vis.filter(g=>g.added);
-  document.getElementById('newTbl').innerHTML=tbl(nv,false);
-  const hid=GROUPS.filter(g=>{const bdk=g.rep.dk||g.dk;return HIDDEN.has(bdk);});
-  document.getElementById('hiddenTbl').innerHTML=tbl(sortGroups(hid),true);
+  document.getElementById('newTbl').innerHTML=tbl(nv,false,false);
+  // お気に入り（消滅まで残す。除外エリア等の絞り込みは無視して常に表示）
+  const fav=sortGroups(groupsFromMap(FAVOR));
+  document.getElementById('favTbl').innerHTML=tbl(fav,false,false);
+  const favC=document.getElementById('favCnt');if(favC)favC.textContent='('+fav.length+'件)';
+  // 非表示（消滅まで残す）
+  const hid=sortGroups(groupsFromMap(HIDDEN));
+  document.getElementById('hiddenTbl').innerHTML=tbl(hid,true,false);
   document.getElementById('hiddenCnt').textContent='('+hid.length+'件)';
-  const msg=vis.length+'件 / 全'+GROUPS.length+'グループ・新着'+nv.length;
+  // 件数表示（内部用語"グループ"を使わない）
+  const msg='該当 '+vis.length+'件（全'+GROUPS.length+'件中）・新着 '+nv.length+'件';
   document.getElementById('cnt').textContent=msg;
-  const ct=document.getElementById('cntTop');if(ct)ct.textContent=msg;
+  const ct=document.getElementById('cntTop');if(ct)ct.textContent='該当 '+vis.length+'件・新着 '+nv.length+'件';
   updateTabUI();
 }
 
@@ -2034,19 +2135,20 @@ function sqmToTsubo(v){return v==null?'':(v/TSUBO_PER_SQM).toFixed(1);}
 function tsuboToSqm(v){return v==null?'':(v*TSUBO_PER_SQM).toFixed(1);}
 
 // ---- コントロールへの状態反映 ----
+// 面積は坪を入力欄（編集可）、㎡は読取専用の参考表示（小数1桁）。内部Sはsqmで保持。
 function applyStateToControls(){
   const pmin=document.getElementById('priceMinInput');
   const pmax=document.getElementById('priceMaxInput');
   if(pmin)pmin.value=(S.priceMin==null||S.priceMin===0)?'':S.priceMin;
   if(pmax)pmax.value=(S.tab==='sarachi'?S.priceMaxSarachi:S.priceMaxIe)||'';
-  const aminSqm=document.getElementById('aminSqmInput');
   const aminTsubo=document.getElementById('aminTsuboInput');
-  const amaxSqm=document.getElementById('amaxSqmInput');
   const amaxTsubo=document.getElementById('amaxTsuboInput');
-  if(aminSqm)aminSqm.value=(S.amin==null?'':S.amin);
+  const aminSqmView=document.getElementById('aminSqmView');
+  const amaxSqmView=document.getElementById('amaxSqmView');
   if(aminTsubo)aminTsubo.value=(S.amin==null?'':sqmToTsubo(S.amin));
-  if(amaxSqm)amaxSqm.value=(S.amax==null?'':S.amax);
   if(amaxTsubo)amaxTsubo.value=(S.amax==null?'':sqmToTsubo(S.amax));
+  if(aminSqmView)aminSqmView.textContent=(S.amin==null?'—':(+S.amin).toFixed(1));
+  if(amaxSqmView)amaxSqmView.textContent=(S.amax==null?'—':(+S.amax).toFixed(1));
 }
 
 // ---- 除外エリアリスト描画 ----
@@ -2091,12 +2193,26 @@ document.getElementById('popup').addEventListener('click',e=>{
   render();
 });
 
-// ---- 非表示確認モーダル ----
-let _pendingHideBdk=null;
-function openHideModal(bdk){_pendingHideBdk=bdk;document.getElementById('hideModal').classList.add('open');}
-function closeHideModal(){document.getElementById('hideModal').classList.remove('open');_pendingHideBdk=null;}
+// ---- bdk から代表レコードを引く（現存→お気に入り→非表示の順）----
+function repByBdk(bdk){
+  const g=GROUPS.find(g=>bdkOf(g)===bdk);
+  if(g)return g.rep;
+  return FAVOR.get(bdk)||HIDDEN.get(bdk)||{dk:bdk,loc:'',price:null,area:null};
+}
+
+// ---- 非表示確認モーダル（対象の所在地を表示して押し間違いを防ぐ）----
+let _pendingHide=null;
+function openHideModal(rep){
+  _pendingHide={bdk:(rep.dk),snap:snapOf(rep)};
+  const loc=normLoc(rep.loc||'').slice(0,40)||'(所在地不明)';
+  const price=(rep.price==null)?'価格不明':rep.price.toLocaleString()+'万円';
+  const area=(rep.area==null)?'':(' / '+rep.area+'㎡');
+  document.getElementById('hideTarget').textContent=loc+'（'+price+area+'）';
+  document.getElementById('hideModal').classList.add('open');
+}
+function closeHideModal(){document.getElementById('hideModal').classList.remove('open');_pendingHide=null;}
 document.getElementById('hideConfirm').addEventListener('click',()=>{
-  if(_pendingHideBdk!=null){HIDDEN.add(_pendingHideBdk);saveHidden();render();}
+  if(_pendingHide){HIDDEN.set(_pendingHide.bdk,_pendingHide.snap);saveHidden();render();}
   closeHideModal();
 });
 document.getElementById('hideCancel').addEventListener('click',closeHideModal);
@@ -2118,21 +2234,14 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
     else S.priceMaxIe=numOrNull(e.target.value);
     saveState();render();});
 
-  document.getElementById('aminSqmInput').addEventListener('input',e=>{
-    S.amin=numOrNull(e.target.value);
-    const tb=document.getElementById('aminTsuboInput');if(tb)tb.value=(S.amin==null?'':sqmToTsubo(S.amin));
-    saveState();render();});
+  // 面積は坪で入力。㎡は読取専用の参考表示(span)を更新。内部Sはsqmで保持。
   document.getElementById('aminTsuboInput').addEventListener('input',e=>{
     const t=numOrNull(e.target.value);S.amin=(t==null?null:parseFloat(tsuboToSqm(t)));
-    const sm=document.getElementById('aminSqmInput');if(sm)sm.value=(S.amin==null?'':S.amin);
-    saveState();render();});
-  document.getElementById('amaxSqmInput').addEventListener('input',e=>{
-    S.amax=numOrNull(e.target.value);
-    const tb=document.getElementById('amaxTsuboInput');if(tb)tb.value=(S.amax==null?'':sqmToTsubo(S.amax));
+    const v=document.getElementById('aminSqmView');if(v)v.textContent=(S.amin==null?'—':(+S.amin).toFixed(1));
     saveState();render();});
   document.getElementById('amaxTsuboInput').addEventListener('input',e=>{
     const t=numOrNull(e.target.value);S.amax=(t==null?null:parseFloat(tsuboToSqm(t)));
-    const sm=document.getElementById('amaxSqmInput');if(sm)sm.value=(S.amax==null?'':S.amax);
+    const v=document.getElementById('amaxSqmView');if(v)v.textContent=(S.amax==null?'—':(+S.amax).toFixed(1));
     saveState();render();});
 
   document.getElementById('resetBtn').addEventListener('click',()=>{S=defState();saveState();applyStateToControls();render();});
@@ -2153,8 +2262,11 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
     const chk=e.target.closest('.areachk'); if(chk){const a=EXAREAS.find(a=>a.name===chk.dataset.name);if(a){a.on=chk.checked;saveAreas();render();}}});
 
   document.addEventListener('click',e=>{
+    const fb=e.target.closest('.favbtn'); if(fb){e.stopPropagation();const bdk=fb.dataset.bdk;
+      if(FAVOR.has(bdk))FAVOR.delete(bdk); else FAVOR.set(bdk,snapOf(repByBdk(bdk)));
+      saveFav();render();return;}
     const th=e.target.closest('th.col'); if(th){e.stopPropagation();openPopup(th);return;}
-    const hb=e.target.closest('.hidebtn'); if(hb){openHideModal(hb.dataset.bdk);return;}
+    const hb=e.target.closest('.hidebtn'); if(hb){e.stopPropagation();openHideModal(repByBdk(hb.dataset.bdk));return;}
     const rb=e.target.closest('.restorebtn'); if(rb){HIDDEN.delete(rb.dataset.bdk);saveHidden();render();return;}
     const sec=e.target.closest('h2.sec'); if(sec){const t=document.getElementById(sec.dataset.target);sec.classList.toggle('open');t.classList.toggle('open');return;}
     const pop=document.getElementById('popup'); if(pop.style.display==='block'&&!pop.contains(e.target))closePopup();
@@ -2210,7 +2322,7 @@ def write_csv_report(path: Path, results: list) -> None:
         w = csv.writer(f)
         w.writerow(["サイト", "市町", "種別", "種別根拠", "所在地", "価格(万円)", "土地面積(㎡)",
                     "坪単価(万円/坪)", "種別上限(万円)", "地目", "都市計画", "接道",
-                    "再建築可否", "再建築理由", "属人性", "検出日", "フラグ", "詳細URL", "判定"])
+                    "建築可否", "建築可否理由", "属人性", "検出日", "フラグ", "詳細URL", "判定"])
         for r in results:
             for p in r["props"]:
                 w.writerow([
