@@ -188,8 +188,13 @@ def fetch(url: str, session: requests.Session) -> tuple[int, str]:
             r = session.get(url, headers=HEADERS, timeout=(10, 15))  # 接続10s / 各読取15s
             # charset 未指定で requests が ISO-8859-1 を既定にした場合、UTF-8等へ補正
             # （空き家バンクしずおか等は実体UTF-8だが ISO-8859-1 と誤申告）。
-            if (r.encoding or "").lower() == "iso-8859-1":
+            enc = (r.encoding or "").lower()
+            if enc == "iso-8859-1":
                 r.encoding = r.apparent_encoding or "utf-8"
+            elif enc in ("shift_jis", "shift-jis", "sjis", "x-sjis"):
+                # ㎡・①・髙 等は CP932(Windows拡張)。strict shift_jis だと化けるため
+                # 上位互換の cp932 で復号する（家っち snjhkk 等）。
+                r.encoding = "cp932"
             box["v"] = (r.status_code, r.text)
         except Exception as e:
             box["v"] = (0, str(e))
@@ -1144,6 +1149,50 @@ def parse_izu_sougou(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# 新日本住建販売「家っち」 アダプタ（地場業者自社HP。snjhkk.com・Shift_JIS）
+#   市町別の土地一覧 /list/1-4/0-{コード}/（HTTPヘッダが Shift_JIS 申告のため
+#   requests が正しくデコード＝fetch側の追加対応は不要）。
+#   カード = div.list_row_border。価格 = span.list_kakaku（"値下がり"等を含まない）。
+#   所在地/土地面積 = div.list_row_right 内の th↔td テーブル（"所在地"/"土地面積"）。
+#   詳細URL = a[href*='/s_r_']（相対 ../../../s_r_XXXXX/index.html → 絶対化）。単一ページ。
+# ---------------------------------------------------------------------------
+
+def parse_snjhkk(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.list_row_border"):
+        raise BotBlocked(f"家っち ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for card in soup.select("div.list_row_border"):
+        rt = card.select_one("div.list_row_right")
+        if not rt:
+            continue
+        ths = [th.get_text(strip=True) for th in rt.find_all("th")]
+        tds = [td.get_text(" ", strip=True) for td in rt.find_all("td")]
+        specs = dict(zip(ths, tds))
+        pe = card.select_one("span.list_kakaku")
+        price = parse_price_man(pe.get_text(" ", strip=True)) if pe else parse_price_man(specs.get("価格", ""))
+        location = specs.get("所在地", "").strip()
+        area = _first_sqm(specs.get("土地面積", ""))
+        a = card.find("a", href=re.compile(r"/s_r_\d"))
+        url = normalize_url(a["href"], base_url) if a else ""
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        # 所在地(住所)で7市町判定。各URLは市町別だが念のため住所一致で絞る。
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[snjhkk] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -1157,6 +1206,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("mano_"), parse_mano),
     (lambda sid: sid.startswith("fudosoken_"), parse_fudosoken),
     (lambda sid: sid.startswith("izu_sougou_"), parse_izu_sougou),
+    (lambda sid: sid.startswith("snjhkk_"), parse_snjhkk),
 ]
 
 
