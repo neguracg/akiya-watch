@@ -1,21 +1,21 @@
 # akiya-watch 監視ソース一覧（SOURCES.md）
 
-最終更新: 2026-06-24 23:14（watch.py 実行時に自動更新）
+最終更新: 2026-06-25 23:27（watch.py 実行時に自動更新）
 
 | 区分 | ソース名 | 対象市町・種別 | URL | 状態 | 最終HTTP | 件数 |
 |---|---|---|---|---|---|---|
-| ① | SUUMO 土地 伊豆の国市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 37 |
+| ① | SUUMO 土地 伊豆の国市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 38 |
 | ① | SUUMO 土地 三島市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_mishima/ | 稼働(adapter) | 200 | 53 |
-| ① | SUUMO 土地 沼津市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 149 |
+| ① | SUUMO 土地 沼津市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 147 |
 | ① | SUUMO 土地 裾野市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_susono/ | 稼働(adapter) | 200 | 28 |
-| ① | SUUMO 土地 駿東郡（清水/長泉） | 土地 | https://suumo.jp/tochi/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 42 |
-| ① | SUUMO 土地 田方郡（函南） | 土地 | https://suumo.jp/tochi/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 29 |
-| ① | SUUMO 中古戸建 伊豆の国市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 48 |
+| ① | SUUMO 土地 駿東郡（清水/長泉） | 土地 | https://suumo.jp/tochi/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 43 |
+| ① | SUUMO 土地 田方郡（函南） | 土地 | https://suumo.jp/tochi/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 30 |
+| ① | SUUMO 中古戸建 伊豆の国市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 47 |
 | ① | SUUMO 中古戸建 三島市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/ | 稼働(adapter) | 200 | 128 |
-| ① | SUUMO 中古戸建 沼津市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 113 |
+| ① | SUUMO 中古戸建 沼津市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 112 |
 | ① | SUUMO 中古戸建 裾野市 | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_susono/ | 稼働(adapter) | 200 | 51 |
-| ① | SUUMO 中古戸建 駿東郡（清水/長泉） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 41 |
-| ① | SUUMO 中古戸建 田方郡（函南） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 68 |
+| ① | SUUMO 中古戸建 駿東郡（清水/長泉） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 42 |
+| ① | SUUMO 中古戸建 田方郡（函南） | 中古戸建 | https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 67 |
 | ① | LIFULL 土地 伊豆の国市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/izunokuni-city/list/ | 稼働(adapter) | 200 | 30 |
 | ① | LIFULL 土地 三島市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 30 |
 | ① | LIFULL 土地 沼津市 | 土地 | https://www.homes.co.jp/tochi/shizuoka/numazu-city/list/ | 稼働(adapter) | 200 | 30 |
@@ -27,17 +27,17 @@
 | ① | LIFULL 中古戸建 三島市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 30 |
 | ① | LIFULL 中古戸建 沼津市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/numazu-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 函南町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/tagata_kannami-city/list/ | 要確認(HTTP 202) | 202 | — |
-| ① | LIFULL 中古戸建 清水町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_shimizu-city/list/ | 稼働(adapter) | 200 | 18 |
+| ① | LIFULL 中古戸建 清水町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_shimizu-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 長泉町 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/sunto_nagaizumi-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ① | LIFULL 中古戸建 裾野市 | 中古戸建 | https://www.homes.co.jp/kodate/chuko/shizuoka/susono-city/list/ | 要確認(HTTP 202) | 202 | — |
 | ② | 空き家バンクしずおか 函南町 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/田方郡函南町/ | 稼働(adapter) | 200 | 43 |
 | ② | 空き家バンクしずおか 伊豆の国市 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/伊豆の国市/ | 稼働(adapter) | 200 | 39 |
 | ② | 空き家バンクしずおか 三島市 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/三島市/ | 稼働(adapter) | 200 | 51 |
-| ② | 空き家バンクしずおか 沼津市 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/沼津市/ | 稼働(adapter) | 200 | 170 |
+| ② | 空き家バンクしずおか 沼津市 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/沼津市/ | 稼働(adapter) | 200 | 166 |
 | ② | 空き家バンクしずおか 清水町 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡清水町/ | 稼働(adapter) | 200 | 19 |
-| ② | 空き家バンクしずおか 長泉町 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡長泉町/ | 稼働(adapter) | 200 | 12 |
+| ② | 空き家バンクしずおか 長泉町 | 空き家/売買 | https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡長泉町/ | 稼働(adapter) | 200 | 13 |
 | ② | LIFULL 空き家バンク 静岡県一覧 | 空き家バンク | https://www.homes.co.jp/akiyabank/tokai/shizuoka/ | 稼働(ハッシュ) | 200 | — |
-| ② | アットホーム空き家バンク ふじのくに（静岡県） | 空き家バンク | https://shizuoka22000.akiya-athome.jp/ | 要確認(HTTP 403) | 403 | — |
+| ② | アットホーム空き家バンク ふじのくに（静岡県） | 空き家バンク | https://shizuoka22000.akiya-athome.jp/ | 稼働(ハッシュ) | 200 | — |
 | ② | 住むなら三島 中古住宅情報 | 中古住宅 | https://www.city.mishima.shizuoka.jp/cp/house/index.html | 要確認(HTTP 404) | 404 | — |
 | ② | 長泉町空き家等情報バンク | 空き家バンク | https://www.town.nagaizumi.lg.jp/soshiki/kensetsu/akiya/9198.html | 稼働(ハッシュ) | 200 | — |
 | ④ | ジモティー 静岡県 土地 | 土地/個人 | https://jmty.jp/shizuoka/est-land | 稼働(ハッシュ) | 200 | — |
@@ -45,6 +45,12 @@
 | ③-B | 真野開発 売買物件一覧 | 地場業者/売地・中古戸建 | https://manokaihatsu.com/estate/ | 稼働(adapter) | 200 | 5 |
 | ③-B | 不動産創研 全物件一覧 | 地場業者/売地・中古戸建 | https://www.fudosansoken.jp/sp-allbukken/ | 稼働(adapter) | 200 | 20 |
 | ③-B | 伊豆総合企画 売買物件一覧 | 地場業者/売地 | https://izu-s-k.fudohsan.jp/menu/?bukken=jsearch&shu=1 | 稼働(adapter) | 200 | 10 |
+| ③-B | 家っち(新日本住建販売) 函南町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-208/ | 稼働(adapter) | 200 | 11 |
+| ③-B | 家っち(新日本住建販売) 伊豆の国市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-233/ | 稼働(adapter) | 200 | 13 |
+| ③-B | 家っち(新日本住建販売) 三島市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-241/ | 稼働(adapter) | 200 | 4 |
+| ③-B | 家っち(新日本住建販売) 沼津市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-230/ | 稼働(adapter) | 200 | 1 |
+| ③-B | 家っち(新日本住建販売) 清水町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-219/ | 稼働(adapter) | 200 | 14 |
+| ③-B | 家っち(新日本住建販売) 長泉町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-226/ | 稼働(adapter) | 200 | 15 |
 | ⑤ | BIT 沼津支部 売却スケジュール | 競売 | https://www.bit.courts.go.jp/app/schedule/pr005/h01?courtId=31831 | 稼働(ハッシュ) | 200 | — |
 | ⑤ | KSI官公庁オークション | 公売 | https://www.pages.kankocho.jp/ | 稼働(ハッシュ) | 200 | — |
 | ⑤ | 国税庁公売 不動産検索 | 公売 | https://www.koubai.nta.go.jp/auctionx/public/hp0241.php | 稼働(ハッシュ) | 200 | — |

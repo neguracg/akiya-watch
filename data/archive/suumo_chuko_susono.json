@@ -43,17 +43,6 @@
     "removed_on": "2026-06-17",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78155321/|須山 1280万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-17",
-    "location": "静岡県裾野市須山",
-    "price_man": 1280,
-    "area_sqm": 466.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78155321/",
-    "text": "須山 1280万円",
-    "removed_on": "2026-06-18",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76141171/|須山 1480万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-17",
@@ -184,6 +173,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77892969/",
     "text": "6/20(土) 21日(日)　１１時～１６時内見可能です! !　お気軽にお問い合わせくだ",
     "removed_on": "2026-06-23",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77892969/|6/27(土) 28日(日)　１１時～１６時内見可能です! !　お気軽にお問い合わせくだ": {
+    "first_seen": "2026-06-23",
+    "last_seen": "2026-06-24",
+    "location": "静岡県裾野市今里448-23",
+    "price_man": 3250,
+    "area_sqm": 190.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77892969/",
+    "text": "6/27(土) 28日(日)　１１時～１６時内見可能です! !　お気軽にお問い合わせくだ",
+    "removed_on": "2026-06-25",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }
