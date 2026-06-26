@@ -108,5 +108,27 @@
     "text": "売土地 沼津市平町１３番3",
     "removed_on": "2026-06-25",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173879/settle/1|新築売住宅 沼津市大岡": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-25",
+    "location": "沼津市大岡",
+    "price_man": 2480,
+    "area_sqm": 124.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173879/settle/1",
+    "text": "新築売住宅 沼津市大岡",
+    "removed_on": "2026-06-26",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1|売住宅 沼津市青野": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-25",
+    "location": "沼津市青野",
+    "price_man": 830,
+    "area_sqm": 311.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1",
+    "text": "売住宅 沼津市青野",
+    "removed_on": "2026-06-26",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

@@ -53,5 +53,16 @@
     "text": "売アパート 三島市大宮町２丁目",
     "removed_on": "2026-06-21",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173050/settle/1|新築売住宅 三島市青木": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-25",
+    "location": "三島市青木",
+    "price_man": 3080,
+    "area_sqm": 102.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173050/settle/1",
+    "text": "新築売住宅 三島市青木",
+    "removed_on": "2026-06-26",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

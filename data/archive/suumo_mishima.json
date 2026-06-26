@@ -31,5 +31,16 @@
     "text": "多呂 800万円",
     "removed_on": "2026-06-23",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20020041/|富士ビレッジ（三島駅） 930万円": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-25",
+    "location": "静岡県三島市富士ビレッジ12",
+    "price_man": 930,
+    "area_sqm": 99.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20020041/",
+    "text": "富士ビレッジ（三島駅） 930万円",
+    "removed_on": "2026-06-26",
+    "site_name": "SUUMO 土地 三島市"
   }
 }
