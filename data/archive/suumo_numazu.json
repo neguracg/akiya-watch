@@ -252,17 +252,6 @@
     "removed_on": "2026-06-25",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77612174/|解体更地渡し。敷地間口は約10mあり、駐車スペースは並列3台可能です。": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-06-24",
-    "location": "静岡県沼津市下香貫八重",
-    "price_man": 990,
-    "area_sqm": 147.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77612174/",
-    "text": "解体更地渡し。敷地間口は約10mあり、駐車スペースは並列3台可能です。",
-    "removed_on": "2026-06-25",
-    "site_name": "SUUMO 土地 沼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|建築条件なし＋敷地５０坪以上！国一まで車約3分♪スーパーまで徒歩約８分！": {
     "first_seen": "2026-06-24",
     "last_seen": "2026-06-24",
@@ -338,6 +327,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20905786/",
     "text": "原（原駅） 2310万円",
     "removed_on": "2026-06-26",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20966598/|沼津市志下土地！建築条件なし。お好きなハウスメーカー様での建築可能！": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "location": "静岡県沼津市志下287",
+    "price_man": 800,
+    "area_sqm": 226.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20966598/",
+    "text": "沼津市志下土地！建築条件なし。お好きなハウスメーカー様での建築可能！",
+    "removed_on": "2026-06-27",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20966521/|約59坪の広さ。建築条件なし。お好きなハウスメーカーで建築可能です！": {
+    "first_seen": "2026-06-26",
+    "last_seen": "2026-06-26",
+    "location": "静岡県沼津市大岡3230-9",
+    "price_man": 900,
+    "area_sqm": 197.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20966521/",
+    "text": "約59坪の広さ。建築条件なし。お好きなハウスメーカーで建築可能です！",
+    "removed_on": "2026-06-27",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141213/|中沢田（沼津駅） 1780万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-26",
+    "location": "静岡県沼津市中沢田",
+    "price_man": 1780,
+    "area_sqm": 198.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141213/",
+    "text": "中沢田（沼津駅） 1780万円",
+    "removed_on": "2026-06-27",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

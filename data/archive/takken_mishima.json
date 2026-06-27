@@ -64,5 +64,27 @@
     "text": "新築売住宅 三島市青木",
     "removed_on": "2026-06-26",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169320/settle/1|売住宅 三島市南二日町": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-26",
+    "location": "三島市南二日町",
+    "price_man": 1850,
+    "area_sqm": 167.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169320/settle/1",
+    "text": "売住宅 三島市南二日町",
+    "removed_on": "2026-06-27",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167996/settle/1|新築売住宅 三島市新谷": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-26",
+    "location": "三島市新谷",
+    "price_man": 3180,
+    "area_sqm": 201.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167996/settle/1",
+    "text": "新築売住宅 三島市新谷",
+    "removed_on": "2026-06-27",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }
