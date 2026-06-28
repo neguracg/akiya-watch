@@ -43,15 +43,48 @@
     "removed_on": "2026-06-27",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1500050000524/|売中古戸建　三島市徳倉3丁目": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-26",
-    "location": "売中古戸建　三島市徳倉3丁目",
+  "https://www.homes.co.jp/kodate/b-1540930000264/|中古戸建　三島市大場": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-27",
+    "location": "中古戸建　三島市大場",
+    "price_man": 3100,
+    "area_sqm": 159.3,
+    "url": "https://www.homes.co.jp/kodate/b-1540930000264/",
+    "text": "中古戸建　三島市大場",
+    "removed_on": "2026-06-28",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002547/|三島市富士見台中古住宅": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-27",
+    "location": "三島市富士見台中古住宅",
+    "price_man": 3680,
+    "area_sqm": 207.8,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002547/",
+    "text": "三島市富士見台中古住宅",
+    "removed_on": "2026-06-28",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002569/|三島市中中古住宅": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-27",
+    "location": "三島市中中古住宅",
+    "price_man": 4150,
+    "area_sqm": 210.1,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002569/",
+    "text": "三島市中中古住宅",
+    "removed_on": "2026-06-28",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1444230000394/|三島市徳倉三丁目ストックヘーベルハウス": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-06-27",
+    "location": "三島市徳倉三丁目ストックヘーベルハウス",
     "price_man": 4600,
     "area_sqm": 190.8,
-    "url": "https://www.homes.co.jp/kodate/b-1500050000524/",
-    "text": "売中古戸建　三島市徳倉3丁目",
-    "removed_on": "2026-06-27",
+    "url": "https://www.homes.co.jp/kodate/b-1444230000394/",
+    "text": "三島市徳倉三丁目ストックヘーベルハウス",
+    "removed_on": "2026-06-28",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }
