@@ -152,5 +152,16 @@
     "text": "売土地 沼津市内浦重寺197-20",
     "removed_on": "2026-06-28",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170101/settle/1|新築売住宅 沼津市東椎路": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-28",
+    "location": "沼津市東椎路",
+    "price_man": 3680,
+    "area_sqm": 301.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170101/settle/1",
+    "text": "新築売住宅 沼津市東椎路",
+    "removed_on": "2026-06-29",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

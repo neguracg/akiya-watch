@@ -42,5 +42,16 @@
     "text": "富士ビレッジ（三島駅） 930万円",
     "removed_on": "2026-06-26",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78741143/|東本町２（三島二日町駅） 680万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-28",
+    "location": "静岡県三島市東本町２",
+    "price_man": 680,
+    "area_sqm": 148.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78741143/",
+    "text": "東本町２（三島二日町駅） 680万円",
+    "removed_on": "2026-06-29",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

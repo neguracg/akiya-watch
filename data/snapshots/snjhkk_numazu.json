@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59042/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-06-28",
+      "last_seen": "2026-06-29",
       "location": "静岡県沼津市大岡",
       "price_man": 2480,
       "area_sqm": 143.9,
@@ -10,6 +10,6 @@
       "text": "静岡県沼津市大岡"
     }
   },
-  "hash": "b053d17672bd5f89",
-  "fetched_at": "2026-06-28T23:08:54.242319"
+  "hash": "ed371fa81fdbc313",
+  "fetched_at": "2026-06-29T23:03:14.164558"
 }

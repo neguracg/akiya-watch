@@ -10,17 +10,6 @@
     "removed_on": "2026-06-22",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1443010008854/|三島市谷田": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "location": "三島市谷田",
-    "price_man": 2550,
-    "area_sqm": 181.2,
-    "url": "https://www.homes.co.jp/kodate/b-1443010008854/",
-    "text": "三島市谷田",
-    "removed_on": "2026-06-22",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-33333520000073/|三島市谷田　暖炉のある洋風戸建": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-24",
@@ -85,6 +74,39 @@
     "url": "https://www.homes.co.jp/kodate/b-1444230000394/",
     "text": "三島市徳倉三丁目ストックヘーベルハウス",
     "removed_on": "2026-06-28",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-33326400000194/|JR東海道本線 三島駅 3.5km": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-28",
+    "location": "JR東海道本線 三島駅 3.5km",
+    "price_man": 2900,
+    "area_sqm": 160.6,
+    "url": "https://www.homes.co.jp/kodate/b-33326400000194/",
+    "text": "JR東海道本線 三島駅 3.5km",
+    "removed_on": "2026-06-29",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000660/|売中古戸建　三島市北沢": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-06-28",
+    "location": "売中古戸建　三島市北沢",
+    "price_man": 2780,
+    "area_sqm": 184.8,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000660/",
+    "text": "売中古戸建　三島市北沢",
+    "removed_on": "2026-06-29",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1475010001565/|三島市谷田　中古一戸建て": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-28",
+    "location": "三島市谷田　中古一戸建て",
+    "price_man": 2550,
+    "area_sqm": 181.2,
+    "url": "https://www.homes.co.jp/kodate/b-1475010001565/",
+    "text": "三島市谷田　中古一戸建て",
+    "removed_on": "2026-06-29",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }
