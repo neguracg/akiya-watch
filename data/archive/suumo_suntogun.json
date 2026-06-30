@@ -64,5 +64,16 @@
     "text": "南一色（長泉なめり駅） 2470万円",
     "removed_on": "2026-06-28",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77733545/|徳倉 1490万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-06-29",
+    "location": "静岡県駿東郡清水町徳倉891-8",
+    "price_man": 1490,
+    "area_sqm": 133.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77733545/",
+    "text": "徳倉 1490万円",
+    "removed_on": "2026-06-30",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }
