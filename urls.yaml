@@ -365,6 +365,14 @@ sites:
     kind: 地場業者/売地
     filter_keywords: [長泉]
     note: "静的HTML(Shift_JIS)。div.list_row_border。長泉町 約15件。"
+  - id: u2_land
+    name: U2JAPAN三島店 土地一覧
+    url: "https://www.u2japan-mishima-k.com/land/"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/売地
+    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 清水町, 長泉, 裾野]
+    note: "静的HTML。li.result-list__panel。result-list__address=所在地, result-list__price=価格, ㎡含むresult-list__text=面積。詳細/bkndetail/。?pg=2..ページャ追従(全4ページ規模)。"
 
   # ==== ⑤ 強制換価型（ハッシュ監視・動的） ====
   - id: bit_numazu

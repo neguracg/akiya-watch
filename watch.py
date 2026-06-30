@@ -1193,6 +1193,69 @@ def parse_snjhkk(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# U2JAPAN 三島店 アダプタ（地場業者自社HP・仲介専門。u2japan-mishima-k.com/land/）
+#   カード = li.result-list__panel。所在地 = p.result-list__address（"三島市 青木"）。
+#   価格 = p.result-list__price（"1,200 万円"）。面積 = ㎡を含む p.result-list__text。
+#   詳細URL = a[href*='/bkndetail/']（相対 /bkndetail/{id}/room{id}/ → 絶対化）。
+#   本文に「上物あり」等が出るので 種別/フラグは card_text から判定可。?pg=2.. ページャ追従。
+# ---------------------------------------------------------------------------
+
+def _u2_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("li.result-list__panel"):
+        ad = card.select_one("p.result-list__address")
+        location = ad.get_text(" ", strip=True) if ad else ""
+        pe = card.select_one("p.result-list__price") or card.select_one("span.price")
+        price = parse_price_man(pe.get_text(" ", strip=True)) if pe else None
+        area = None
+        for p in card.select("p.result-list__text"):
+            tx = p.get_text(" ", strip=True)
+            if "㎡" in tx:
+                area = _first_sqm(tx)
+                break
+        a = card.find("a", href=re.compile(r"/bkndetail/"))
+        url = normalize_url(a["href"], base_url) if a else ""
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_u2(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.result-list__panel"):
+        raise BotBlocked(f"U2JAPAN ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _u2_cards(soup, base_url, filter_keywords, filters)
+    seen_hashes = {page_hash(first_html)}
+    sep = "&" if "?" in base_url else "?"
+    # ?pg=2.. を順に追従（最大8ページ、同一ハッシュ/カード0で打ち切り）
+    for pg in range(2, 9):
+        if not _site_time_left():
+            break
+        next_url = f"{base_url}{sep}pg={pg}"
+        time.sleep(random.uniform(4, 8))
+        code, nhtml = fetch(next_url, session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        seen_hashes.add(page_hash(nhtml))
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        if not nsoup.select("li.result-list__panel"):
+            break
+        out.extend(_u2_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[u2] cards={len(dedup)} ({len(seen_hashes)}ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -1207,6 +1270,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("fudosoken_"), parse_fudosoken),
     (lambda sid: sid.startswith("izu_sougou_"), parse_izu_sougou),
     (lambda sid: sid.startswith("snjhkk_"), parse_snjhkk),
+    (lambda sid: sid.startswith("u2_"), parse_u2),
 ]
 
 
