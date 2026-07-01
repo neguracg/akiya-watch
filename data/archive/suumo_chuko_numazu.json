@@ -54,17 +54,6 @@
     "removed_on": "2026-06-19",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/|江原町（沼津駅） 6700万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-18",
-    "location": "静岡県沼津市江原町",
-    "price_man": 6700,
-    "area_sqm": 409.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/",
-    "text": "江原町（沼津駅） 6700万円",
-    "removed_on": "2026-06-19",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78529421/|＼沼津市高尾台／ 眺望◎でビルトインガレージな中古住宅です♪": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-19",
@@ -250,6 +239,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20966566/",
     "text": "沼津市共栄町中古戸建！気品漂う造りで、明るく開放感のある住居。",
     "removed_on": "2026-06-30",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21103031/|7月4日まで現況販売実施。": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-06-30",
+    "location": "静岡県沼津市大岡3287-25",
+    "price_man": 1799,
+    "area_sqm": 168.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21103031/",
+    "text": "7月4日まで現況販売実施。",
+    "removed_on": "2026-07-01",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

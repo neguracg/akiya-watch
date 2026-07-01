@@ -31,5 +31,27 @@
     "text": "新築売住宅 田方郡函南町仁田",
     "removed_on": "2026-06-30",
     "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171686/settle/1|売住宅 田方郡函南町仁田229-8": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-30",
+    "location": "田方郡函南町仁田229-8",
+    "price_man": 2490,
+    "area_sqm": 175.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171686/settle/1",
+    "text": "売住宅 田方郡函南町仁田229-8",
+    "removed_on": "2026-07-01",
+    "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148328/settle/1|売住宅付店舗 田方郡函南町柏谷938-9": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-30",
+    "location": "田方郡函南町柏谷938-9",
+    "price_man": 2390,
+    "area_sqm": 138.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148328/settle/1",
+    "text": "売住宅付店舗 田方郡函南町柏谷938-9",
+    "removed_on": "2026-07-01",
+    "site_name": "空き家バンクしずおか 函南町"
   }
 }

@@ -87,17 +87,6 @@
     "removed_on": "2026-06-29",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1540930000270/|中古戸建　三島市北沢": {
-    "first_seen": "2026-06-29",
-    "last_seen": "2026-06-29",
-    "location": "中古戸建　三島市北沢",
-    "price_man": 2780,
-    "area_sqm": 184.8,
-    "url": "https://www.homes.co.jp/kodate/b-1540930000270/",
-    "text": "中古戸建　三島市北沢",
-    "removed_on": "2026-06-30",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-1500050000524/|売中古戸建　三島市徳倉3丁目": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-29",
@@ -118,6 +107,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1540930000092/",
     "text": "三島市徳倉3丁目  2階建て",
     "removed_on": "2026-06-30",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001939/|三島市北沢　中古戸建": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-06-30",
+    "location": "三島市北沢　中古戸建",
+    "price_man": 2780,
+    "area_sqm": 184.8,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001939/",
+    "text": "三島市北沢　中古戸建",
+    "removed_on": "2026-07-01",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }
