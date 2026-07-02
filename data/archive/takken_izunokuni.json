@@ -42,5 +42,16 @@
     "text": "売住宅 伊豆の国市中島38-1",
     "removed_on": "2026-06-29",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164207/settle/1|売土地 伊豆の国市古奈": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-01",
+    "location": "伊豆の国市古奈",
+    "price_man": 780,
+    "area_sqm": 239.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164207/settle/1",
+    "text": "売土地 伊豆の国市古奈",
+    "removed_on": "2026-07-02",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }
