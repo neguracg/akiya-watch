@@ -312,10 +312,12 @@ def extract_toshikeikaku(text: str) -> str:
     return "—"
 
 
-# 前半7つ=住宅探索(home)の対象市町。以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2。
+# 前半7つ=住宅探索(home)の対象市町。以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、
+# 末尾3つ=Tier3（1h超だが広い山物件の在庫が豊富な伊豆最南部。現地訪問前提で監視だけ広げる）。
 _MACHI_NAMES = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
                 "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
-                "湯河原町", "箱根町", "富士市")
+                "湯河原町", "箱根町", "富士市",
+                "下田市", "東伊豆町", "南伊豆町")
 
 
 def extract_machi(text: str) -> str:
@@ -1442,6 +1444,82 @@ def parse_resort_estate(first_html, base_url, filter_keywords, filters, session)
 
 
 # ---------------------------------------------------------------------------
+# 東海ヤジマ アダプタ（伊豆最南部の地場業者。tokaiyajima.com/bukken/os2 tab=camp）
+#   カード = article.hentry。本文に "価格 XX万円 坪単価 Y万円 所在地:静岡県…市… 交通:…"
+#   が一続きのテキストで出る。詳細URL = a[href*='/fudo/']。
+#   ?bukken=os2&paged=N.. ページャ追従（実測は下田市中心・東伊豆町/南伊豆町=Tier3含む）。
+# ---------------------------------------------------------------------------
+
+_TOKAIYAJIMA_LOC_RE = re.compile(r"所在地:(.*?)(?:\s*交通:|$)")
+_TOKAIYAJIMA_PRICE_RE = re.compile(r"価格\s*([\d,]+\s*万円)")
+_TOKAIYAJIMA_TANKA_RE = re.compile(r"坪単価\s*([\d,]+(?:\.\d+)?)\s*万円")
+_TOKAIYAJIMA_TSUBO_RE = re.compile(r"([\d,]+(?:\.\d+)?)\s*坪(?!単価)")
+
+
+def _tokaiyajima_area(text, price):
+    """面積(㎡)。坪単価が併記されていれば「価格÷坪単価」の逆算を優先（誤差最小）。
+    無ければタイトルの "XX坪" 表記を㎡換算。取れなければ None。"""
+    mt = _TOKAIYAJIMA_TANKA_RE.search(text)
+    if mt and price:
+        tanka = float(mt.group(1).replace(",", ""))
+        if tanka > 0:
+            return round(price / tanka * TSUBO_TO_SQM, 1)
+    mt2 = _TOKAIYAJIMA_TSUBO_RE.search(text)
+    if mt2:
+        return round(float(mt2.group(1).replace(",", "")) * TSUBO_TO_SQM, 1)
+    return None
+
+
+def _tokaiyajima_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("article.hentry"):
+        a = card.find("a", href=re.compile(r"/fudo/"))
+        url = normalize_url(a["href"], base_url) if a else ""
+        if not url:
+            continue
+        card_text = card.get_text(" ", strip=True)
+        mloc = _TOKAIYAJIMA_LOC_RE.search(card_text)
+        location = mloc.group(1).strip() if mloc else ""
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        mp = _TOKAIYAJIMA_PRICE_RE.search(card_text)
+        price = parse_price_man(mp.group(1)) if mp else None
+        area = _tokaiyajima_area(card_text, price)
+        dtype = "中古戸建" if "戸建" in card_text[:60] else "更地"
+        title = card_text.split("【", 1)[0].strip()
+        out.append(_make_record(url, title[:60] or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_tokaiyajima(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "article.hentry"):
+        raise BotBlocked(f"東海ヤジマ ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _tokaiyajima_cards(soup, base_url, filter_keywords, filters)
+    seen_hashes = {page_hash(first_html)}
+    for pg in range(2, 13):
+        if not _site_time_left():
+            break
+        time.sleep(random.uniform(4, 8))
+        code, nhtml = fetch(f"https://tokaiyajima.com/?bukken=os2&paged={pg}&so=kak&ord=&s=", session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        seen_hashes.add(page_hash(nhtml))
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        if not nsoup.select("article.hentry"):
+            break
+        out.extend(_tokaiyajima_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[tokaiyajima] cards={len(dedup)} ({len(seen_hashes)}ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # 天城オートキャンプ アダプタ（キャンプ場用地譲渡。izuhighland.jp tab=camp）
 #   Wix で本文は遅延描画だが、物件詳細リンク（"〜用地詳細"/"〜不動産"）は HTML 内に
 #   存在する → リンク一覧を監視するライト方式。価格・面積は取得不可（None）。
@@ -1490,6 +1568,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("sanrinbank_"), parse_sanrinbank),
     (lambda sid: sid.startswith("resort_estate_"), parse_resort_estate),
     (lambda sid: sid.startswith("izuhighland_"), parse_izuhighland),
+    (lambda sid: sid.startswith("tokaiyajima_"), parse_tokaiyajima),
 ]
 
 
