@@ -240,5 +240,38 @@
     "text": "7月4日まで現況販売実施。",
     "removed_on": "2026-07-01",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79031120/|下香貫木ノ宮 1080万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-02",
+    "location": "静岡県沼津市下香貫木ノ宮",
+    "price_man": 1080,
+    "area_sqm": 165.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79031120/",
+    "text": "下香貫木ノ宮 1080万円",
+    "removed_on": "2026-07-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20667944/|駐車3台、ヘーベルハウス築の安心邸宅！庭付で広々ワイドバルコニーの開放感！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-02",
+    "location": "静岡県沼津市香貫が丘",
+    "price_man": 1980,
+    "area_sqm": 217.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20667944/",
+    "text": "駐車3台、ヘーベルハウス築の安心邸宅！庭付で広々ワイドバルコニーの開放感！",
+    "removed_on": "2026-07-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78883367/|ゆったり平屋♪内覧予約受付中■ 大岡和風平屋住宅 ■": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-02",
+    "location": "静岡県沼津市大岡",
+    "price_man": 1995,
+    "area_sqm": 164.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78883367/",
+    "text": "ゆったり平屋♪内覧予約受付中■ 大岡和風平屋住宅 ■",
+    "removed_on": "2026-07-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

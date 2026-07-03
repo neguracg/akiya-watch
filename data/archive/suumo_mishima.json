@@ -53,5 +53,16 @@
     "text": "谷田（三島駅） 3500万円",
     "removed_on": "2026-06-30",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/|谷田（三島二日町駅） 1380万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-02",
+    "location": "静岡県三島市谷田",
+    "price_man": 1380,
+    "area_sqm": 184.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/",
+    "text": "谷田（三島二日町駅） 1380万円",
+    "removed_on": "2026-07-03",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

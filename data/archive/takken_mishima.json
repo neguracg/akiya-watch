@@ -86,5 +86,16 @@
     "text": "新築売住宅 三島市新谷",
     "removed_on": "2026-06-27",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174748/settle/1|売土地 三島市壱町田": {
+    "first_seen": "2026-06-29",
+    "last_seen": "2026-07-02",
+    "location": "三島市壱町田",
+    "price_man": 2200,
+    "area_sqm": 219.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174748/settle/1",
+    "text": "売土地 三島市壱町田",
+    "removed_on": "2026-07-03",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }
