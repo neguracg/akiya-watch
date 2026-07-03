@@ -19,6 +19,16 @@
 filters:
   price_max_man: 1000
   area_min_sqm: 330
+  # ---- キャンプ場土地タブ（tab: camp のサイトに適用。ベース値を上書きマージ）----
+  #   2号店用の広い山物件。函南町役場から車1h圏。面積下限1,000㎡・価格上限3,000万。
+  camp:
+    price_max_man: 3000
+    area_min_sqm: 1000
+    price_ceiling_by_type:
+      更地: 3000
+      古家付き土地: 3000
+      中古戸建: 3000
+      空き家: 3000
   price_ceiling_by_type:
     更地: 1500
     古家付き土地: 1500
@@ -414,6 +424,55 @@ sites:
     status: verified
     channel: "⑥"
     kind: 国有地
+
+  # ==== ⑦ キャンプ場土地（tab: camp。2号店用の広い山物件・函南役場1h圏） ====
+  # filter_keywords = Tier1(30分圏)+Tier2(60分圏)の市町。判定はcampフィルタ(面積1000㎡/価格3000万)。
+  # robots実測: yamaichiba=WP管理のみ禁止 / sanrinbank=制限なし / resort-estate=robots無し / izuhighland=許可。
+  - id: yamaichiba_shizuoka
+    name: 山いちば 静岡県 山林物件
+    url: "https://yamaichiba.com/category/sanrin-shizuoka/"
+    status: verified
+    channel: "⑦"
+    kind: 山林専門
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市]
+    note: "静的WP。article.list-article。タイトル=物件No+所在地(【済】=売却済は除外)。面積はha表記→㎡換算。価格は一覧に無く販売中のみ詳細ページから取得。函南町2件/伊豆の国/熱海の取扱実績あり(全て済)。現在静岡在庫0=新着待ち監視。"
+  - id: sanrinbank_zenkoku
+    name: 山林バンク 全国 山林情報
+    url: "https://sanrinbank.jp/"
+    status: verified
+    channel: "⑦"
+    kind: 山林専門
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市]
+    note: "静的。トップページ ul.advise-list li に今月の全国在庫(物件No/所在地/地目/面積坪/価格)。全角数字混在→NFKC正規化。所在地キーワード一致のみ採用(現在静岡在庫0=新着待ち)。"
+  - id: resort_estate_shizuoka
+    name: 日本マウント 静岡県 リゾート・田舎物件
+    url: "https://resort-estate.com/select/mode:shizuoka"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし/別荘
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市]
+    note: "静的。div.bukken-items直下の<a>がカード(22件/頁)。.number/.price、所在地はカード本文の「静岡県…」。面積は一覧に無し。/page:2..9 ページャ追従。裾野・十里木/熱海など1h圏在庫多数。"
+  - id: izuhighland_yochi
+    name: 天城オートキャンプ キャンプ場用地一覧
+    url: "https://www.izuhighland.jp/ドックランとキャンプ場用地一覧"
+    status: verified
+    channel: "⑦"
+    kind: キャンプ場用地
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市]
+    note: "Wix(本文遅延描画)だが物件詳細リンク(〜用地詳細/〜不動産)はHTML内に存在→リンク監視型。価格/面積は取得不可(None)。現在は全国物件のみで1h圏0件=伊豆物件の新着待ち。伊豆キャンプ場運営会社の売地チャネル。"
+  - id: ieichiba_sanrin
+    name: 家いちば 山林カテゴリ
+    url: "https://www.ieichiba.com/category/%E5%B1%B1%E6%9E%97"
+    status: verified
+    channel: "⑦"
+    kind: 個人直/山林
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市]
+    note: "既存 parse_ieichiba を流用(a.property__list-item・所在地一致で判定・面積は一覧に無し)。全国の山林が個人直で出る。実測200・カード10件。"
 
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）

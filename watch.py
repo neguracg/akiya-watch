@@ -16,6 +16,7 @@ import re
 import sys
 import threading
 import time
+import unicodedata
 import urllib.parse
 import urllib.robotparser
 from datetime import date, datetime
@@ -311,7 +312,10 @@ def extract_toshikeikaku(text: str) -> str:
     return "—"
 
 
-_MACHI_NAMES = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市")
+# 前半7つ=住宅探索(home)の対象市町。以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2。
+_MACHI_NAMES = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
+                "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
+                "湯河原町", "箱根町", "富士市")
 
 
 def extract_machi(text: str) -> str:
@@ -1256,6 +1260,217 @@ def parse_u2(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# 山いちば アダプタ（山林売買専門。yamaichiba.com/category/sanrin-shizuoka/ tab=camp）
+#   カード = article.list-article。タイトル(h2 a) = "山林物件318　静岡県周智郡森町"。
+#   【済】= 売却済み → 除外。面積は "公簿面積 6.51ha（約19,700坪）" の ha 表記が主。
+#   価格は一覧に無い → キーワード一致した販売中物件のみ詳細ページから取得（少数想定）。
+# ---------------------------------------------------------------------------
+
+_HA_RE = re.compile(r"([\d,]+(?:\.\d+)?)\s*(?:ha|ヘクタール)", re.I)
+
+
+def _yamaichiba_sqm(text):
+    """ha 優先で㎡に正規化（山林は ha 表記が主）。無ければ ㎡/坪。"""
+    if not text:
+        return None
+    m = _HA_RE.search(text)
+    if m:
+        return round(float(m.group(1).replace(",", "")) * 10000, 1)
+    return _first_sqm(text)
+
+
+def parse_yamaichiba(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "article.list-article"):
+        raise BotBlocked(f"山いちば ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    detail_fetched = 0
+    for card in soup.select("article.list-article"):
+        h = card.find(["h2", "h3"])
+        title = h.get_text(" ", strip=True) if h else ""
+        if "物件" not in title:
+            continue
+        if "【済】" in title:
+            continue  # 売却済み
+        a = card.find("a", href=True)
+        url = normalize_url(a["href"], base_url) if a else ""
+        if not url:
+            continue
+        # 所在地 = タイトルから物件番号を除いた部分（"静岡県…" だが "静岡市…" 形式もある）
+        location = re.sub(r"^山林物件\s*\d+\s*", "", title).replace("【済】", "").strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        card_text = card.get_text(" ", strip=True)
+        area = _yamaichiba_sqm(card_text)
+        price = None
+        flag_text = card_text
+        # 販売中×対象エリアのみ詳細ページで価格・面積を補完（レア新着想定・最大6件）
+        if detail_fetched < 6 and _site_time_left():
+            time.sleep(random.uniform(3, 6))
+            code, dhtml = fetch(url, session)
+            detail_fetched += 1
+            if code == 200:
+                dsoup = BeautifulSoup(dhtml, "html.parser")
+                body = dsoup.select_one(".entry-content") or dsoup.find("article") or dsoup
+                dtext = body.get_text(" ", strip=True)
+                idx = dtext.find("価格")
+                if idx != -1:
+                    price = parse_price_man(dtext[idx: idx + 40])
+                if price is None:
+                    price = parse_price_man(dtext)
+                if area is None:
+                    area = _yamaichiba_sqm(dtext)
+                flag_text = dtext[:2000]
+        out.append(_make_record(url, title[:60], price, area, False,
+                                flag_text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[yamaichiba] cards={len(dedup)} (販売中のみ・詳細取得{detail_fetched}件)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 山林バンク アダプタ（山林売買専門。sanrinbank.jp トップ＝今月の全国在庫 tab=camp）
+#   カード = ul.advise-list li（"物件No"入りのみ）。ラベル "所在地/地   目/面   積/価   格"
+#   を正規表現で抽出。全角数字・全角スペース混在のため NFKC 正規化してから解析。
+#   面積は坪表記 → ㎡換算。価格は "3万7000円"/"130万円（応相談）" 等の揺れに対応。
+# ---------------------------------------------------------------------------
+
+def _sanrinbank_price(s):
+    """NFKC済み文字列から価格(万円)。"3万7000円"=3.7万 → 4万に丸め。取れなければ None。"""
+    m = re.search(r"([\d,]+)\s*万\s*([\d,]+)?", s)
+    if not m:
+        return None
+    man = float(m.group(1).replace(",", ""))
+    if m.group(2):
+        man += float(m.group(2).replace(",", "")) / 10000
+    return max(1, int(round(man)))
+
+
+def parse_sanrinbank(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "ul.advise-list li"):
+        raise BotBlocked(f"山林バンク ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for li in soup.select("ul.advise-list li"):
+        raw = li.get_text(" ", strip=True)
+        if "物件No" not in raw:
+            continue
+        text = unicodedata.normalize("NFKC", raw)
+        mloc = re.search(r"所在地\s*(.+?)\s*地\s*目", text)
+        location = mloc.group(1).strip() if mloc else ""
+        # 全国在庫なので所在地キーワード一致のみ採用（"全国各地"の案内行もここで落ちる）
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        marea = re.search(r"面\s*積\s*([\d,.]+)\s*坪", text)
+        area = round(float(marea.group(1).replace(",", "")) * TSUBO_TO_SQM, 1) if marea else None
+        mp = re.search(r"価\s*格\s*(\S{1,24})", text)
+        price = _sanrinbank_price(mp.group(1)) if mp else None
+        a = li.find("a", href=True)
+        url = normalize_url(a["href"], base_url) if a else base_url
+        out.append(_make_record(url, location or text[:60], price, area, False,
+                                text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[sanrinbank] cards={len(dedup)} (全国在庫から所在地一致のみ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 日本マウント アダプタ（田舎暮らし・リゾート専門。resort-estate.com tab=camp）
+#   カード = div.bukken-items 直下の <a href=/detail/{id}>（22件/頁）。
+#   価格 = .price。所在地 = カード本文の "静岡県…（「別荘地名」）"。面積は一覧に無し。
+#   ページャ = base_url + "/page:N"（N=2..、カード0/同一ハッシュで打ち切り）。
+# ---------------------------------------------------------------------------
+
+def _resort_estate_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("div.bukken-items > a[href]"):
+        href = card.get("href", "")
+        if "/detail/" not in href:
+            continue
+        url = normalize_url(href, base_url)
+        card_text = card.get_text(" ", strip=True)
+        mloc = re.search(r"静岡県\S*(?:「[^」]*」)?", card_text)
+        location = mloc.group(0) if mloc else ""
+        pe = card.select_one(".price")
+        price = parse_price_man(pe.get_text(" ", strip=True)) if pe else parse_price_man(card_text)
+        # 所在地優先で市町判定（説明文の近隣地名での誤検出を避ける）。所在地が
+        # 取れないカードのみ本文で判定する。
+        hay = location if location else card_text
+        if filter_keywords and not any(kw in hay for kw in filter_keywords):
+            continue
+        dtype = "中古戸建" if re.search(r"\d\s*[SLDK]{1,4}\b|\dLDK", card_text) else "更地"
+        out.append(_make_record(url, location or card_text[:60], price, None, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_resort_estate(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.bukken-items"):
+        raise BotBlocked(f"日本マウント ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _resort_estate_cards(soup, base_url, filter_keywords, filters)
+    seen_hashes = {page_hash(first_html)}
+    base = base_url.rstrip("/")
+    for pg in range(2, 13):
+        if not _site_time_left():
+            break
+        time.sleep(random.uniform(4, 8))
+        code, nhtml = fetch(f"{base}/page:{pg}", session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        seen_hashes.add(page_hash(nhtml))
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        if not nsoup.select("div.bukken-items > a[href]"):
+            break
+        out.extend(_resort_estate_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[resort_estate] cards={len(dedup)} ({len(seen_hashes)}ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 天城オートキャンプ アダプタ（キャンプ場用地譲渡。izuhighland.jp tab=camp）
+#   Wix で本文は遅延描画だが、物件詳細リンク（"〜用地詳細"/"〜不動産"）は HTML 内に
+#   存在する → リンク一覧を監視するライト方式。価格・面積は取得不可（None）。
+#   現在は全国物件のみ＝1h圏キーワードに一致せず0件。伊豆物件の新着待ち。
+# ---------------------------------------------------------------------------
+
+def parse_izuhighland(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    out = []
+    seen_urls = set()
+    for a in soup.find_all("a", href=True):
+        href = urllib.parse.unquote(a["href"]).rstrip("/")
+        if not re.search(r"(用地詳細|不動産)$", href):
+            continue
+        url = normalize_url(a["href"], base_url)
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        # リンクテキストは「詳細」等の定型のため、所在地はURLスラッグ（日本語）から取る
+        slug = href.rsplit("/", 1)[-1]
+        location = re.sub(r"(ドックラン|および|キャンプ場|用地|詳細|一覧|スキー)", "", slug).strip() or slug
+        if filter_keywords and not any(kw in slug for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, slug[:60], None, None, False, slug, filters,
+                                location=location, default_type="更地"))
+    log.info(f"[izuhighland] cards={len(out)} (リンク監視型・全{len(seen_urls)}物件中キーワード一致のみ)")
+    return out
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -1271,6 +1486,10 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("izu_sougou_"), parse_izu_sougou),
     (lambda sid: sid.startswith("snjhkk_"), parse_snjhkk),
     (lambda sid: sid.startswith("u2_"), parse_u2),
+    (lambda sid: sid.startswith("yamaichiba_"), parse_yamaichiba),
+    (lambda sid: sid.startswith("sanrinbank_"), parse_sanrinbank),
+    (lambda sid: sid.startswith("resort_estate_"), parse_resort_estate),
+    (lambda sid: sid.startswith("izuhighland_"), parse_izuhighland),
 ]
 
 
@@ -1380,6 +1599,8 @@ def run(dry_run: bool = False, only: str = "") -> int:
     config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
     sites = config["sites"]
     filters = config["filters"]
+    # tab: camp のサイトは filters.camp で閾値を上書きした判定を使う（定義元は urls.yaml）
+    camp_filters = {**filters, **(filters.get("camp") or {})}
     if only:
         sites = [s for s in sites if only in s["id"]]
         log.info(f"--only='{only}' で {len(sites)} サイトに絞り込み")
@@ -1399,6 +1620,8 @@ def run(dry_run: bool = False, only: str = "") -> int:
         url = site["url"]
         yaml_status = site.get("status", "")
         filter_kws = site.get("filter_keywords", [])
+        site_tab = site.get("tab", "home")
+        site_filters = camp_filters if site_tab == "camp" else filters
         # 実行全体のウォールクロック上限。超えたら残サイトを打ち切ってレポートへ。
         if time.time() - run_start > RUN_WALLCLOCK_LIMIT:
             log.warning(f"実行ウォールクロック上限 {RUN_WALLCLOCK_LIMIT}s 超過。残 {len(sites) - i} サイトを打ち切り")
@@ -1442,7 +1665,7 @@ def run(dry_run: bool = False, only: str = "") -> int:
             adapter = get_adapter(sid)
             if adapter:
                 try:
-                    props = adapter(html, url, filter_kws, filters, session)
+                    props = adapter(html, url, filter_kws, site_filters, session)
                     row["mode"] = "adapter"
                 except BotBlocked as e:
                     # bot対策ページ＝0件で上書きしない。前回スナップショットを保持し
@@ -1461,6 +1684,8 @@ def run(dry_run: bool = False, only: str = "") -> int:
                 # 物件テーブルの品質を adapter 済みサイトに揃えるため（C方針）。
                 props = []
                 row["mode"] = "hash"
+            for p in props:
+                p["tab"] = site_tab
             snapshot = load_snapshot(sid)
             row["raw"] = len(props)
             row["price_cnt"] = sum(1 for p in props if p["price_man"] is not None)
@@ -1684,6 +1909,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         for p in r["props"]:
             data.append({
                 "site": r["name"],
+                "tab": p.get("tab", "home"),
                 "added": p["key"] in added_keys,
                 "machi": p.get("machi", ""),
                 "shubetsu": p.get("shubetsu", "更地"),
@@ -1732,6 +1958,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                   "最終判断には役場確認が必要です。"
                   "市街化調整区域（△）は除外ではなく本命候補シグナルです。</p>")
 
+    camp_over = filters.get("camp") or {}
     config_js = json.dumps({
         "ceilings": {t: ceil_by_type.get(t, pmax_def) for t in types},
         "types": types,
@@ -1739,25 +1966,29 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         "cautions": filters.get("caution_keywords", []),
         "exareas": filters.get("exclude_areas", []),
         "amin": amin_def,
+        # キャンプ場土地タブ: 判定閾値(参考)。表示フィルタ既定は「絞らない」(null)
+        "campPmax": camp_over.get("price_max_man"),
+        "campAmin": camp_over.get("area_min_sqm"),
     }, ensure_ascii=False)
 
     H = ["<!DOCTYPE html><html lang='ja'><head><meta charset='utf-8'>",
          "<meta name='viewport' content='width=device-width, initial-scale=1'>",
          "<meta name='robots' content='noindex'>",
-         f"<title>akiya-watch {ts_label}</title><style>{css}</style></head><body>"]
+         f"<title>不動産情報収集ツール {ts_label}</title><style>{css}</style></head><body>"]
 
     # ---- トップバー（タイトル / 日付）----
     H.append("<div class='topbar'>")
-    H.append(f"<h1>akiya-watch <span class='muted'>{ts_label}</span></h1>")
+    H.append(f"<h1>不動産情報収集ツール <span class='muted'>{ts_label}</span></h1>")
     H.append("<div class='topctl'>日付 " + date_nav + "</div>")
     H.append("</div>")
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
 
-    # ---- タブ（更地 / 家付き土地）----
+    # ---- タブ（更地 / 家付き土地 / キャンプ場土地）----
     H.append("<div class='tabs'>")
     H.append("<button class='tab-btn' data-tab='sarachi'>更地</button>")
     H.append("<button class='tab-btn' data-tab='ie'>家付き土地</button>")
+    H.append("<button class='tab-btn' data-tab='camp'>キャンプ場土地</button>")
     H.append("</div>")
 
     # ---- パネル（検索条件）----
@@ -1916,7 +2147,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
 
 
 _REPORT_CSS = (
-    "body{font-family:'Segoe UI','Meiryo',sans-serif;margin:0 16px 40px;color:#222;font-size:13px;}"
+    # background 明示: 未指定だとダークモード端末で透過→黒背景になり表が読めない
+    "body{font-family:'Segoe UI','Meiryo',sans-serif;margin:0 16px 40px;color:#222;font-size:13px;"
+    "background:#fff;}"
     ".topbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;"
     "position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:6px 0;z-index:30;}"
     "h1{font-size:18px;margin:4px 0;}.topctl{font-size:13px;}.topctl>*{margin-left:8px;}"
@@ -1979,6 +2212,9 @@ _REPORT_CSS = (
     ".tab-btn[data-tab=ie]{border-color:#c07030;color:#c07030;}"
     ".tab-btn[data-tab=ie]:not(.active):hover{background:#fdf0e8;}"
     ".tab-btn[data-tab=ie].active{background:#c07030;color:#fff;}"
+    ".tab-btn[data-tab=camp]{border-color:#3a6ea5;color:#3a6ea5;}"
+    ".tab-btn[data-tab=camp]:not(.active):hover{background:#eaf1f8;}"
+    ".tab-btn[data-tab=camp].active{background:#3a6ea5;color:#fff;}"
     # ---- パネルタイトル & フィルタブロック ----
     ".panel-title{font-size:13px;margin-bottom:8px;"
     "display:flex;justify-content:space-between;align-items:center;}"
@@ -2056,7 +2292,8 @@ function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk
 function normLoc(s){return (s||'').replace('静岡県','').replace(/\s+/g,'');}
 
 // ---- 状態 ----
-function defState(){return{tab:'sarachi',priceMin:0,priceMaxSarachi:1500,priceMaxIe:3000,amin:CONFIG.amin,amax:null,cf:{},sort:{k:null,d:1}};}
+// キャンプ場土地(camp)タブは既定で価格・面積を絞らない（手広く構えて目で選ぶ方針）
+function defState(){return{tab:'sarachi',priceMin:0,priceMaxSarachi:1500,priceMaxIe:3000,priceMaxCamp:null,amin:CONFIG.amin,amax:null,aminCamp:null,amaxCamp:null,cf:{},sort:{k:null,d:1}};}
 let S=defState();
 
 // ---- localStorage (akiyawatch_ プレフィックス) ----
@@ -2093,8 +2330,8 @@ let FAVOR=loadKV(LS_FAV);
 
 function saveState(){
   lsSave(LS_TAB,S.tab);
-  lsSave(LS_PRICE,{min:S.priceMin,maxSarachi:S.priceMaxSarachi,maxIe:S.priceMaxIe});
-  lsSave(LS_AREA_FILTER,{min:S.amin,max:S.amax});
+  lsSave(LS_PRICE,{min:S.priceMin,maxSarachi:S.priceMaxSarachi,maxIe:S.priceMaxIe,maxCamp:S.priceMaxCamp});
+  lsSave(LS_AREA_FILTER,{min:S.amin,max:S.amax,minCamp:S.aminCamp,maxCamp:S.amaxCamp});
 }
 function saveHidden(){saveKV(LS_HIDDEN,HIDDEN);}
 function saveFav(){saveKV(LS_FAV,FAVOR);}
@@ -2103,7 +2340,7 @@ function saveAreas(){lsSave(LS_EXAREAS,EXAREAS);}
 // bdk から表示用スナップショットを作る（レコードを浅くコピー）
 function snapOf(rep){
   const keys=['url','dk','loc','price','area','tsubo','shubetsu','shubetsu_reason',
-    'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin'];
+    'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin','tab'];
   const o={}; keys.forEach(k=>o[k]=rep[k]); return o;
 }
 function bdkOf(g){return g.rep.dk||g.dk;}
@@ -2120,11 +2357,12 @@ function groupsFromMap(map){
 
 function restoreState(){
   const tab=lsGet(LS_TAB,null);
-  if(tab==='sarachi'||tab==='ie')S.tab=tab;
+  if(tab==='sarachi'||tab==='ie'||tab==='camp')S.tab=tab;
   const price=lsGet(LS_PRICE,null);
-  if(price){if(price.min!=null)S.priceMin=price.min;if(price.maxSarachi!=null)S.priceMaxSarachi=price.maxSarachi;if(price.maxIe!=null)S.priceMaxIe=price.maxIe;}
+  if(price){if(price.min!=null)S.priceMin=price.min;if(price.maxSarachi!=null)S.priceMaxSarachi=price.maxSarachi;if(price.maxIe!=null)S.priceMaxIe=price.maxIe;if(price.maxCamp!==undefined)S.priceMaxCamp=price.maxCamp;}
   const area=lsGet(LS_AREA_FILTER,null);
-  if(area){S.amin=(area.min!=null?area.min:S.amin);S.amax=(area.max!=null?area.max:S.amax);}
+  if(area){S.amin=(area.min!=null?area.min:S.amin);S.amax=(area.max!=null?area.max:S.amax);
+    if(area.minCamp!==undefined)S.aminCamp=area.minCamp;if(area.maxCamp!==undefined)S.amaxCamp=area.maxCamp;}
 }
 
 // ---- グループ化（JS側dedup: normLoc+面積+価格）----
@@ -2137,20 +2375,28 @@ DATA.forEach((d,i)=>{
 
 // ---- フィルタ ----
 function passFilters(d){
-  const isHouse=HOUSE_TYPES.has(d.shubetsu);
-  if(S.tab==='sarachi'&&isHouse)return false;
-  if(S.tab==='ie'&&!isHouse)return false;
+  // キャンプ場土地(camp)は独立タブ: campレコードはcampタブのみ、homeレコードは更地/家付きのみ
+  if(S.tab==='camp'){
+    if(d.tab!=='camp')return false;
+  }else{
+    if(d.tab==='camp')return false;
+    const isHouse=HOUSE_TYPES.has(d.shubetsu);
+    if(S.tab==='sarachi'&&isHouse)return false;
+    if(S.tab==='ie'&&!isHouse)return false;
+  }
   const loc=d.loc||'';
   if(EXAREAS.some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
   for(const k in S.cf){const cf=S.cf[k],v=d[k];
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
   }
-  const pmax=S.tab==='sarachi'?S.priceMaxSarachi:S.priceMaxIe;
+  const pmax=S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:S.priceMaxIe);
+  const amin=S.tab==='camp'?S.aminCamp:S.amin;
+  const amax=S.tab==='camp'?S.amaxCamp:S.amax;
   if(S.priceMin!=null&&S.priceMin>0&&(d.price==null||d.price<S.priceMin))return false;
   if(pmax!=null&&(d.price==null||d.price>pmax))return false;
-  if(S.amin!=null&&(d.area==null||d.area<S.amin))return false;
-  if(S.amax!=null&&(d.area==null||d.area>S.amax))return false;
+  if(amin!=null&&(d.area==null||d.area<amin))return false;
+  if(amax!=null&&(d.area==null||d.area>amax))return false;
   return true;
 }
 
@@ -2254,15 +2500,17 @@ function applyStateToControls(){
   const pmin=document.getElementById('priceMinInput');
   const pmax=document.getElementById('priceMaxInput');
   if(pmin)pmin.value=(S.priceMin==null||S.priceMin===0)?'':S.priceMin;
-  if(pmax)pmax.value=(S.tab==='sarachi'?S.priceMaxSarachi:S.priceMaxIe)||'';
+  if(pmax)pmax.value=(S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:S.priceMaxIe))||'';
+  const camp=(S.tab==='camp');
+  const amin=camp?S.aminCamp:S.amin, amax=camp?S.amaxCamp:S.amax;
   const aminTsubo=document.getElementById('aminTsuboInput');
   const amaxTsubo=document.getElementById('amaxTsuboInput');
   const aminSqmView=document.getElementById('aminSqmView');
   const amaxSqmView=document.getElementById('amaxSqmView');
-  if(aminTsubo)aminTsubo.value=(S.amin==null?'':sqmToTsubo(S.amin));
-  if(amaxTsubo)amaxTsubo.value=(S.amax==null?'':sqmToTsubo(S.amax));
-  if(aminSqmView)aminSqmView.textContent=(S.amin==null?'—':(+S.amin).toFixed(1));
-  if(amaxSqmView)amaxSqmView.textContent=(S.amax==null?'—':(+S.amax).toFixed(1));
+  if(aminTsubo)aminTsubo.value=(amin==null?'':sqmToTsubo(amin));
+  if(amaxTsubo)amaxTsubo.value=(amax==null?'':sqmToTsubo(amax));
+  if(aminSqmView)aminSqmView.textContent=(amin==null?'—':(+amin).toFixed(1));
+  if(amaxSqmView)amaxSqmView.textContent=(amax==null?'—':(+amax).toFixed(1));
 }
 
 // ---- 除外エリアリスト描画 ----
@@ -2345,17 +2593,21 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
   document.getElementById('priceMinInput').addEventListener('input',e=>{S.priceMin=numOrNull(e.target.value);saveState();render();});
   document.getElementById('priceMaxInput').addEventListener('input',e=>{
     if(S.tab==='sarachi')S.priceMaxSarachi=numOrNull(e.target.value);
+    else if(S.tab==='camp')S.priceMaxCamp=numOrNull(e.target.value);
     else S.priceMaxIe=numOrNull(e.target.value);
     saveState();render();});
 
   // 面積は坪で入力。㎡は読取専用の参考表示(span)を更新。内部Sはsqmで保持。
+  // campタブは独立の下限/上限（既定=絞らない）を編集する。
   document.getElementById('aminTsuboInput').addEventListener('input',e=>{
-    const t=numOrNull(e.target.value);S.amin=(t==null?null:parseFloat(tsuboToSqm(t)));
-    const v=document.getElementById('aminSqmView');if(v)v.textContent=(S.amin==null?'—':(+S.amin).toFixed(1));
+    const t=numOrNull(e.target.value);const v2=(t==null?null:parseFloat(tsuboToSqm(t)));
+    if(S.tab==='camp')S.aminCamp=v2; else S.amin=v2;
+    const v=document.getElementById('aminSqmView');if(v)v.textContent=(v2==null?'—':(+v2).toFixed(1));
     saveState();render();});
   document.getElementById('amaxTsuboInput').addEventListener('input',e=>{
-    const t=numOrNull(e.target.value);S.amax=(t==null?null:parseFloat(tsuboToSqm(t)));
-    const v=document.getElementById('amaxSqmView');if(v)v.textContent=(S.amax==null?'—':(+S.amax).toFixed(1));
+    const t=numOrNull(e.target.value);const v2=(t==null?null:parseFloat(tsuboToSqm(t)));
+    if(S.tab==='camp')S.amaxCamp=v2; else S.amax=v2;
+    const v=document.getElementById('amaxSqmView');if(v)v.textContent=(v2==null?'—':(+v2).toFixed(1));
     saveState();render();});
 
   document.getElementById('resetBtn').addEventListener('click',()=>{S=defState();saveState();applyStateToControls();render();});
