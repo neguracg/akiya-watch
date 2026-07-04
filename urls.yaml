@@ -482,6 +482,15 @@ sites:
     tab: camp
     filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
     note: "静的WP。article.hentry。価格/坪単価/所在地/交通がテキスト内に併記。詳細=a[href*='/fudo/']。?bukken=os2&paged=2.. ページャ追従。実測10件中下田市8/東伊豆1/南伊豆1(Tier3)。下田市中心の伊豆最南部地場業者。"
+  - id: resortbukken_izu
+    name: 田舎暮らし物件.com（いなかも家探し） 伊豆エリア
+    url: "https://resort-bukken.com/izu"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし/別荘（複数業者アグリゲータ）
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    note: "静的。resort-estate.com(日本マウント)と同系列テンプレート＝div.bukken-items>a[href*='/detail/']。所在地はカード先頭の市町名。/izu/page:2.. ページャ追従。実測24件/頁で複数業者(東拓建設/日本マウント/株式会社TSUKUBITO等)混在アグリゲータ。伊豆市冷川「富士山の眺望」等の掘り出し物あり。"
 
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
@@ -570,6 +579,20 @@ sources_extra:
     status: 保留
     http: 200
     note: "カードが汎用div構造で安定抽出が困難。TRANBIと同様に事業M&A中心で伊豆圏訴求薄い。"
+  - channel: "④"
+    name: ジモティー 静岡県「山林」キーワード検索
+    kind: 山林/個人
+    url: "https://jmty.jp/shizuoka/est-land-kw-%E5%B1%B1%E6%9E%97"
+    status: フェーズ2
+    http: 200
+    note: "既存jmty_land(ハッシュ監視)と同一サイト。キーワード検索結果ページは物件カードがJS/AJAX描画で静的HTMLには入らず(記事リンク0件、favoriteボタンの雛形のみ)。adapter化には別途API/ブラウザ自動化が必要。"
+  - channel: "⑦"
+    name: エンゼル不動産（伊東・熱海の別荘地）
+    kind: 別荘地(管理型)
+    url: "https://www.angel-f.com/ito/"
+    status: 保留
+    http: 200
+    note: "エンゼルフォレスト等の管理別荘地（隣家近接・管理費あり）が中心で、ユーザーが求める『人里離れた広い山物件』とは方向性が逆(既存exclude_areasの南箱根ダイヤランド等と同カテゴリ)。トップはハブページで一覧は/ito/besso/search_list等さらに1階層必要。優先度低のため見送り。"
   - channel: "⑤"
     name: BIT 不動産競売物件情報サイト（静岡地方裁判所沼津支部）
     kind: 競売/山林

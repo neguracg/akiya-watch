@@ -1520,6 +1520,60 @@ def parse_tokaiyajima(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
+# 田舎暮らし物件.com（いなかも家探し） アダプタ（複数業者アグリゲータ。
+#   resort-bukken.com/izu tab=camp。resort-estate.com(日本マウント)と同系列テンプレート。
+#   カード = div.bukken-items > a[href*='/detail/']。本文冒頭が "☆ 市町名 大字 種別 価格"
+#   の形（"静岡県"接頭辞なし）。所在地はカード先頭2トークンから抽出。/izu/page:N.. ページャ。
+# ---------------------------------------------------------------------------
+
+def _resort_bukken_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for card in soup.select("div.bukken-items > a[href]"):
+        href = card.get("href", "")
+        if "/detail/" not in href:
+            continue
+        url = normalize_url(href, base_url)
+        card_text = card.get_text(" ", strip=True).lstrip("☆").strip()
+        tokens = card_text.split(" ")
+        location = " ".join(tokens[:2]) if len(tokens) >= 2 else card_text[:20]
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        price = parse_price_man(card_text)
+        dtype = "中古戸建" if any(t in card_text for t in ("中古別荘", "中古住宅", "戸建て")) else "更地"
+        out.append(_make_record(url, card_text[:60], price, None, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_resort_bukken(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.bukken-items"):
+        raise BotBlocked(f"いなかも家探し ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _resort_bukken_cards(soup, base_url, filter_keywords, filters)
+    seen_hashes = {page_hash(first_html)}
+    base = base_url.rstrip("/")
+    for pg in range(2, 13):
+        if not _site_time_left():
+            break
+        time.sleep(random.uniform(4, 8))
+        code, nhtml = fetch(f"{base}/page:{pg}", session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        seen_hashes.add(page_hash(nhtml))
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        if not nsoup.select("div.bukken-items > a[href]"):
+            break
+        out.extend(_resort_bukken_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[resort_bukken] cards={len(dedup)} ({len(seen_hashes)}ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # 天城オートキャンプ アダプタ（キャンプ場用地譲渡。izuhighland.jp tab=camp）
 #   Wix で本文は遅延描画だが、物件詳細リンク（"〜用地詳細"/"〜不動産"）は HTML 内に
 #   存在する → リンク一覧を監視するライト方式。価格・面積は取得不可（None）。
@@ -1569,6 +1623,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("resort_estate_"), parse_resort_estate),
     (lambda sid: sid.startswith("izuhighland_"), parse_izuhighland),
     (lambda sid: sid.startswith("tokaiyajima_"), parse_tokaiyajima),
+    (lambda sid: sid.startswith("resortbukken_"), parse_resort_bukken),
 ]
 
 
