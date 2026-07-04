@@ -405,5 +405,27 @@
     "text": "小中学校が徒歩圏内+便利な立地☆建築条件なし！「沼津」駅まで徒歩約16分♪",
     "removed_on": "2026-07-03",
     "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_96934708/|戸田 680万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-03",
+    "location": "静岡県沼津市戸田",
+    "price_man": 680,
+    "area_sqm": 87.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_96934708/",
+    "text": "戸田 680万円",
+    "removed_on": "2026-07-04",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20438778/|根古屋（原駅） 850万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-03",
+    "location": "静岡県沼津市根古屋",
+    "price_man": 850,
+    "area_sqm": 200.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20438778/",
+    "text": "根古屋（原駅） 850万円",
+    "removed_on": "2026-07-04",
+    "site_name": "SUUMO 土地 沼津市"
   }
 }

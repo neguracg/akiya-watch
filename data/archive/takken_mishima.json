@@ -97,5 +97,16 @@
     "text": "売土地 三島市壱町田",
     "removed_on": "2026-07-03",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170629/settle/1|売住宅 三島市東町7-34": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-03",
+    "location": "三島市東町7-34",
+    "price_man": 1780,
+    "area_sqm": 120.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170629/settle/1",
+    "text": "売住宅 三島市東町7-34",
+    "removed_on": "2026-07-04",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

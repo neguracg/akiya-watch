@@ -318,17 +318,6 @@
     "removed_on": "2026-07-02",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_75922516/|【富士山が見える家】三井ホーム築3年！全館空調・太陽光発電！長期優良住宅！": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-02",
-    "location": "静岡県三島市千枚原",
-    "price_man": 4780,
-    "area_sqm": 208.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_75922516/",
-    "text": "【富士山が見える家】三井ホーム築3年！全館空調・太陽光発電！長期優良住宅！",
-    "removed_on": "2026-07-03",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78443616/|【リフォーム完成しました！】駐車並列2台可能、リフォーム済み再生住宅！": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-02",
@@ -371,6 +360,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20175873/",
     "text": "4/24価格改定■建物面積３９坪以上のオール電化住宅■ＬＤＫ広々２１帖以上",
     "removed_on": "2026-07-03",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20547172/|☆駐車並列2台可。スーパー・コンビニ・医療施設まで徒歩圏内、生活環境充実。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-03",
+    "location": "静岡県三島市川原ケ谷",
+    "price_man": 2499,
+    "area_sqm": 175.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20547172/",
+    "text": "☆駐車並列2台可。スーパー・コンビニ・医療施設まで徒歩圏内、生活環境充実。",
+    "removed_on": "2026-07-04",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20365405/|徳倉（三島駅） 1980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-03",
+    "location": "静岡県三島市徳倉",
+    "price_man": 1980,
+    "area_sqm": 196.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20365405/",
+    "text": "徳倉（三島駅） 1980万円",
+    "removed_on": "2026-07-04",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21206353/|萩（長泉なめり駅） 2649万円": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21206353/",
+    "text": "萩（長泉なめり駅） 2649万円",
+    "removed_on": "2026-07-04",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }
