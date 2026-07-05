@@ -427,5 +427,38 @@
     "text": "根古屋（原駅） 850万円",
     "removed_on": "2026-07-04",
     "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78859801/|◆残り2区画／全区画50坪以上／東名へのアクセス良好／「ぐるめ街道」至近": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-04",
+    "location": "静岡県沼津市岡宮",
+    "price_man": 1760,
+    "area_sqm": 177.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78859801/",
+    "text": "◆残り2区画／全区画50坪以上／東名へのアクセス良好／「ぐるめ街道」至近",
+    "removed_on": "2026-07-05",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78843511/|大塚 980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-04",
+    "location": "静岡県沼津市大塚",
+    "price_man": 980,
+    "area_sqm": 265.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78843511/",
+    "text": "大塚 980万円",
+    "removed_on": "2026-07-05",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78843510/|大塚 980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-04",
+    "location": "静岡県沼津市大塚",
+    "price_man": 980,
+    "area_sqm": 345.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78843510/",
+    "text": "大塚 980万円",
+    "removed_on": "2026-07-05",
+    "site_name": "SUUMO 土地 沼津市"
   }
 }

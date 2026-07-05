@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59095/index.html|静岡県田方郡函南町上沢": {
       "first_seen": "2026-06-27",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 1080,
       "area_sqm": 238.0,
@@ -11,7 +11,7 @@
     },
     "https://www.snjhkk.com/s_r_59045/index.html|静岡県田方郡函南町塚本": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 2330,
       "area_sqm": null,
@@ -20,7 +20,7 @@
     },
     "https://www.snjhkk.com/s_r_58974/index.html|静岡県田方郡函南町肥田": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町肥田",
       "price_man": 780,
       "area_sqm": 252.6,
@@ -29,7 +29,7 @@
     },
     "https://www.snjhkk.com/s_r_58969/index.html|静岡県田方郡函南町仁田": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 2390,
       "area_sqm": null,
@@ -38,7 +38,7 @@
     },
     "https://www.snjhkk.com/s_r_58899/index.html|静岡県田方郡函南町畑毛": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町畑毛",
       "price_man": 3600,
       "area_sqm": null,
@@ -47,7 +47,7 @@
     },
     "https://www.snjhkk.com/s_r_58896/index.html|静岡県田方郡函南町塚本": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 5600,
       "area_sqm": null,
@@ -56,7 +56,7 @@
     },
     "https://www.snjhkk.com/s_r_58736/index.html|静岡県田方郡函南町平井字向山1371番40": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町平井字向山1371番40",
       "price_man": 3498,
       "area_sqm": 187.7,
@@ -65,7 +65,7 @@
     },
     "https://www.snjhkk.com/s_r_58445/index.html|静岡県田方郡函南町上沢": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 954,
       "area_sqm": 258.0,
@@ -74,7 +74,7 @@
     },
     "https://www.snjhkk.com/s_r_58382/index.html|静岡県田方郡函南町平井": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町平井",
       "price_man": 1580,
       "area_sqm": 210.5,
@@ -83,7 +83,7 @@
     },
     "https://www.snjhkk.com/s_r_57999/index.html|静岡県田方郡函南町柏谷": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 2500,
       "area_sqm": 317.1,
@@ -92,7 +92,7 @@
     },
     "https://www.snjhkk.com/s_r_57424/index.html|静岡県田方郡函南町柏谷": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 1890,
       "area_sqm": 186.2,
@@ -101,7 +101,7 @@
     },
     "https://www.snjhkk.com/s_r_57099/index.html|静岡県田方郡函南町柏谷字前清水1156-9": {
       "first_seen": "2026-06-28",
-      "last_seen": "2026-07-04",
+      "last_seen": "2026-07-05",
       "location": "静岡県田方郡函南町柏谷字前清水1156-9",
       "price_man": 3198,
       "area_sqm": 123.3,
@@ -109,6 +109,6 @@
       "text": "静岡県田方郡函南町柏谷字前清水1156-9"
     }
   },
-  "hash": "dd96b8bd824811d9",
-  "fetched_at": "2026-07-04T22:55:56.898443"
+  "hash": "3a3cbb47b68c8b81",
+  "fetched_at": "2026-07-05T22:59:06.771318"
 }

@@ -2595,28 +2595,6 @@
     "removed_on": "2026-06-29",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-33329470000041/|三島市竹倉 (三島二日町駅)": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-30",
-    "location": "三島市竹倉 (三島二日町駅)",
-    "price_man": 2700,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33329470000041/",
-    "text": "三島市竹倉 (三島二日町駅)",
-    "removed_on": "2026-07-01",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33329470000014/|三島市谷田 (三島駅)": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-06-30",
-    "location": "三島市谷田 (三島駅)",
-    "price_man": 1500,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33329470000014/",
-    "text": "三島市谷田 (三島駅)",
-    "removed_on": "2026-07-01",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-33329470000040/|三島市竹倉 (三島二日町駅)": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-30",
@@ -2672,17 +2650,6 @@
     "removed_on": "2026-07-04",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-33333810000599/|三島市谷田 (三島二日町駅)": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-07-03",
-    "location": "三島市谷田 (三島二日町駅)",
-    "price_man": 480,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33333810000599/",
-    "text": "三島市谷田 (三島二日町駅)",
-    "removed_on": "2026-07-04",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-33309130000084/|三島市中 (三島二日町駅)": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-07-03",
@@ -2714,6 +2681,72 @@
     "url": "https://www.homes.co.jp/tochi/b-1265050001629/",
     "text": "三島市徳倉3丁目 (三島駅)",
     "removed_on": "2026-07-04",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33304960000030/|三島市大場 (大場駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-04",
+    "location": "三島市大場 (大場駅)",
+    "price_man": 2080,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33304960000030/",
+    "text": "三島市大場 (大場駅)",
+    "removed_on": "2026-07-05",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33304960000029/|三島市大場 (大場駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-04",
+    "location": "三島市大場 (大場駅)",
+    "price_man": 1990,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33304960000029/",
+    "text": "三島市大場 (大場駅)",
+    "removed_on": "2026-07-05",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33304960000031/|三島市大場 (大場駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-04",
+    "location": "三島市大場 (大場駅)",
+    "price_man": 2180,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33304960000031/",
+    "text": "三島市大場 (大場駅)",
+    "removed_on": "2026-07-05",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33333670000006/|三島市大場 (大場駅)": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-07-04",
+    "location": "三島市大場 (大場駅)",
+    "price_man": 100,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33333670000006/",
+    "text": "三島市大場 (大場駅)",
+    "removed_on": "2026-07-05",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33316480000092/|三島市谷田 (三島駅)": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-07-04",
+    "location": "三島市谷田 (三島駅)",
+    "price_man": 3500,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33316480000092/",
+    "text": "三島市谷田 (三島駅)",
+    "removed_on": "2026-07-05",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1569320000001/|三島市谷田 (三島二日町駅)": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-07-04",
+    "location": "三島市谷田 (三島二日町駅)",
+    "price_man": 998,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1569320000001/",
+    "text": "三島市谷田 (三島二日町駅)",
+    "removed_on": "2026-07-05",
     "site_name": "LIFULL 土地 三島市"
   }
 }
