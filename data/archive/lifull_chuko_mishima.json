@@ -87,17 +87,6 @@
     "removed_on": "2026-06-29",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001939/|三島市北沢　中古戸建": {
-    "first_seen": "2026-06-30",
-    "last_seen": "2026-06-30",
-    "location": "三島市北沢　中古戸建",
-    "price_man": 2780,
-    "area_sqm": 184.8,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001939/",
-    "text": "三島市北沢　中古戸建",
-    "removed_on": "2026-07-01",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-1444230000394/|三島市徳倉三丁目ストックヘーベルハウス": {
     "first_seen": "2026-06-30",
     "last_seen": "2026-07-01",
@@ -131,15 +120,26 @@
     "removed_on": "2026-07-04",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1475010001565/|三島市谷田　中古一戸建て": {
-    "first_seen": "2026-07-04",
-    "last_seen": "2026-07-04",
-    "location": "三島市谷田　中古一戸建て",
+  "https://www.homes.co.jp/kodate/b-1540930000270/|中古戸建　三島市北沢": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-05",
+    "location": "中古戸建　三島市北沢",
+    "price_man": 2780,
+    "area_sqm": 184.8,
+    "url": "https://www.homes.co.jp/kodate/b-1540930000270/",
+    "text": "中古戸建　三島市北沢",
+    "removed_on": "2026-07-06",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1443010008854/|三島市谷田": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "location": "三島市谷田",
     "price_man": 2600,
     "area_sqm": 181.2,
-    "url": "https://www.homes.co.jp/kodate/b-1475010001565/",
-    "text": "三島市谷田　中古一戸建て",
-    "removed_on": "2026-07-05",
+    "url": "https://www.homes.co.jp/kodate/b-1443010008854/",
+    "text": "三島市谷田",
+    "removed_on": "2026-07-06",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

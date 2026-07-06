@@ -1,1 +1,24 @@
-{}
+{
+  "https://www.homes.co.jp/kodate/b-33333810000657/|裾野市御宿　築3年　築浅中古住宅": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "location": "裾野市御宿　築3年　築浅中古住宅",
+    "price_man": 3680,
+    "area_sqm": 173.2,
+    "url": "https://www.homes.co.jp/kodate/b-33333810000657/",
+    "text": "裾野市御宿　築3年　築浅中古住宅",
+    "removed_on": "2026-07-06",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33333630000014/|JR御殿場線 岩波駅 9.1km": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-03",
+    "location": "JR御殿場線 岩波駅 9.1km",
+    "price_man": 1880,
+    "area_sqm": 212.2,
+    "url": "https://www.homes.co.jp/kodate/b-33333630000014/",
+    "text": "JR御殿場線 岩波駅 9.1km",
+    "removed_on": "2026-07-06",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  }
+}

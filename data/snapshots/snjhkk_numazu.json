@@ -1,5 +1,33 @@
 {
-  "keys": {},
-  "hash": "dd8e32ec214da9c3",
-  "fetched_at": "2026-07-05T23:10:45.105279"
+  "keys": {
+    "https://www.snjhkk.com/s_r_59161/index.html|静岡県沼津市岡宮": {
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "location": "静岡県沼津市岡宮",
+      "price_man": 4080,
+      "area_sqm": 165.7,
+      "url": "https://www.snjhkk.com/s_r_59161/index.html",
+      "text": "静岡県沼津市岡宮"
+    },
+    "https://www.snjhkk.com/s_r_59160/index.html|静岡県沼津市大岡": {
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "location": "静岡県沼津市大岡",
+      "price_man": 3980,
+      "area_sqm": 123.8,
+      "url": "https://www.snjhkk.com/s_r_59160/index.html",
+      "text": "静岡県沼津市大岡"
+    },
+    "https://www.snjhkk.com/s_r_59155/index.html|静岡県沼津市三枚橋": {
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "location": "静岡県沼津市三枚橋",
+      "price_man": 3880,
+      "area_sqm": 191.7,
+      "url": "https://www.snjhkk.com/s_r_59155/index.html",
+      "text": "静岡県沼津市三枚橋"
+    }
+  },
+  "hash": "4c867654cd584561",
+  "fetched_at": "2026-07-06T23:15:51.026490"
 }

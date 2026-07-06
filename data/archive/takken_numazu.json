@@ -174,5 +174,16 @@
     "text": "売土地 沼津市大岡1286-26、27、29",
     "removed_on": "2026-07-02",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157736/settle/1|売土地 沼津市青野68-27": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-05",
+    "location": "沼津市青野68-27",
+    "price_man": 650,
+    "area_sqm": 168.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157736/settle/1",
+    "text": "売土地 沼津市青野68-27",
+    "removed_on": "2026-07-06",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

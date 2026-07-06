@@ -1,8 +1,17 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59158/index.html|静岡県三島市徳倉5丁目": {
+      "first_seen": "2026-07-06",
+      "last_seen": "2026-07-06",
+      "location": "静岡県三島市徳倉5丁目",
+      "price_man": 3998,
+      "area_sqm": 205.9,
+      "url": "https://www.snjhkk.com/s_r_59158/index.html",
+      "text": "静岡県三島市徳倉5丁目"
+    },
     "https://www.snjhkk.com/s_r_59154/index.html|静岡県三島市萩": {
       "first_seen": "2026-07-03",
-      "last_seen": "2026-07-05",
+      "last_seen": "2026-07-06",
       "location": "静岡県三島市萩",
       "price_man": 1080,
       "area_sqm": null,
@@ -11,7 +20,7 @@
     },
     "https://www.snjhkk.com/s_r_59099/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-06-29",
-      "last_seen": "2026-07-05",
+      "last_seen": "2026-07-06",
       "location": "静岡県三島市藤代町",
       "price_man": 2880,
       "area_sqm": 106.6,
@@ -20,7 +29,7 @@
     },
     "https://www.snjhkk.com/s_r_59097/index.html|静岡県三島市西若町": {
       "first_seen": "2026-06-28",
-      "last_seen": "2026-07-05",
+      "last_seen": "2026-07-06",
       "location": "静岡県三島市西若町",
       "price_man": 1630,
       "area_sqm": null,
@@ -29,7 +38,7 @@
     },
     "https://www.snjhkk.com/s_r_59096/index.html|静岡県三島市大場": {
       "first_seen": "2026-06-28",
-      "last_seen": "2026-07-05",
+      "last_seen": "2026-07-06",
       "location": "静岡県三島市大場",
       "price_man": 3100,
       "area_sqm": 159.3,
@@ -37,6 +46,6 @@
       "text": "静岡県三島市大場"
     }
   },
-  "hash": "71c76e46dc2215da",
-  "fetched_at": "2026-07-05T23:03:01.473936"
+  "hash": "40eb1973981509f4",
+  "fetched_at": "2026-07-06T23:08:32.190686"
 }

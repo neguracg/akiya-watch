@@ -98,17 +98,6 @@
     "removed_on": "2026-06-23",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78332942/|◇内覧可能◇令和5年築！ホテルライクデザインの1棟です♪": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-06-26",
-    "location": "静岡県沼津市平沼",
-    "price_man": 4500,
-    "area_sqm": 335.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78332942/",
-    "text": "◇内覧可能◇令和5年築！ホテルライクデザインの1棟です♪",
-    "removed_on": "2026-06-27",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78022158/|☆コンパクト住宅☆お求めやすい価格で販売中。まだまだそのまま住めます！": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-06-27",
@@ -272,6 +261,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78883367/",
     "text": "ゆったり平屋♪内覧予約受付中■ 大岡和風平屋住宅 ■",
     "removed_on": "2026-07-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78824770/|原町中２（原駅） 1550万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-05",
+    "location": "静岡県沼津市原町中２",
+    "price_man": 1550,
+    "area_sqm": 122.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78824770/",
+    "text": "原町中２（原駅） 1550万円",
+    "removed_on": "2026-07-06",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

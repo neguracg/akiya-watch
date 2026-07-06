@@ -428,15 +428,37 @@
     "removed_on": "2026-07-05",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/|６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。": {
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_77123282/|梅名（大場駅） 1580万円": {
     "first_seen": "2026-06-17",
-    "last_seen": "2026-07-04",
-    "location": "静岡県三島市長伏",
-    "price_man": 15800,
-    "area_sqm": 2131.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/",
-    "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
-    "removed_on": "2026-07-05",
+    "last_seen": "2026-07-05",
+    "location": "静岡県三島市梅名",
+    "price_man": 1580,
+    "area_sqm": 133.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_77123282/",
+    "text": "梅名（大場駅） 1580万円",
+    "removed_on": "2026-07-06",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/|富士見台 2450万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-05",
+    "location": "静岡県三島市富士見台",
+    "price_man": 2450,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/",
+    "text": "富士見台 2450万円",
+    "removed_on": "2026-07-06",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21065142/|加茂（三島駅） 4580万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-05",
+    "location": "静岡県三島市加茂",
+    "price_man": 4580,
+    "area_sqm": 198.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21065142/",
+    "text": "加茂（三島駅） 4580万円",
+    "removed_on": "2026-07-06",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }
