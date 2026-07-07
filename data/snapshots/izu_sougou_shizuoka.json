@@ -2,7 +2,7 @@
   "keys": {
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=152585&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|伊豆の国市長岡1334-4": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "伊豆の国市長岡1334-4",
       "price_man": 288,
       "area_sqm": 43.0,
@@ -11,7 +11,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=21121&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|沼津市戸田907-5": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "沼津市戸田907-5",
       "price_man": 1300,
       "area_sqm": 165.0,
@@ -20,7 +20,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=118917&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|沼津市高島町22－18": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "沼津市高島町22－18",
       "price_man": 1350,
       "area_sqm": 117.2,
@@ -29,7 +29,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=20796&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|沼津市駿河台14-2": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "沼津市駿河台14-2",
       "price_man": 1480,
       "area_sqm": 155.0,
@@ -38,7 +38,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=172442&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|駿東郡清水町徳倉": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "駿東郡清水町徳倉",
       "price_man": 1520,
       "area_sqm": 165.3,
@@ -47,16 +47,16 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=169525&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|伊豆の国市大仁": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "伊豆の国市大仁",
-      "price_man": 1780,
+      "price_man": 1980,
       "area_sqm": 49.6,
       "url": "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=169525&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=",
       "text": "伊豆の国市大仁"
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=59401&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|田方郡函南町平井１２８４－１６、１２８４－２、": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "田方郡函南町平井１２８４－１６、１２８４－２、",
       "price_man": 2100,
       "area_sqm": 321.5,
@@ -65,7 +65,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=170946&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|伊豆の国市長岡": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "伊豆の国市長岡",
       "price_man": 2380,
       "area_sqm": 130.6,
@@ -74,7 +74,7 @@
     },
     "https://izu-s-k.fudohsan.jp/?post_type=fudo&menu=fudo&p=125787&shub=&shu=1&ros=&eki=&ken=&sik=&kalc=&kahc=&kalb=&kahb=&hof=&tik=&mel=&meh=|三島市若松町4402-1": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-06",
+      "last_seen": "2026-07-07",
       "location": "三島市若松町4402-1",
       "price_man": 11000,
       "area_sqm": 2855.2,
@@ -83,5 +83,5 @@
     }
   },
   "hash": "1173e85674844f41",
-  "fetched_at": "2026-07-06T23:10:33.458394"
+  "fetched_at": "2026-07-07T23:04:20.279471"
 }

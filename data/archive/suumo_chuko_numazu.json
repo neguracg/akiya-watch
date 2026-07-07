@@ -252,17 +252,6 @@
     "removed_on": "2026-07-03",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78883367/|ゆったり平屋♪内覧予約受付中■ 大岡和風平屋住宅 ■": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-02",
-    "location": "静岡県沼津市大岡",
-    "price_man": 1995,
-    "area_sqm": 164.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78883367/",
-    "text": "ゆったり平屋♪内覧予約受付中■ 大岡和風平屋住宅 ■",
-    "removed_on": "2026-07-03",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78824770/|原町中２（原駅） 1550万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-05",
@@ -272,6 +261,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78824770/",
     "text": "原町中２（原駅） 1550万円",
     "removed_on": "2026-07-06",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20978015/|【リフォーム完了・本日内見可能】広いお家が好みの方にお勧めです♪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-06",
+    "location": "静岡県沼津市豊町",
+    "price_man": 2648,
+    "area_sqm": 275.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20978015/",
+    "text": "【リフォーム完了・本日内見可能】広いお家が好みの方にお勧めです♪",
+    "removed_on": "2026-07-07",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79143561/|大岡（沼津駅） 3300万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-06",
+    "location": "静岡県沼津市大岡",
+    "price_man": 3300,
+    "area_sqm": 199.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79143561/",
+    "text": "大岡（沼津駅） 3300万円",
+    "removed_on": "2026-07-07",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

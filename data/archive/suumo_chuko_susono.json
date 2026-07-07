@@ -219,17 +219,6 @@
     "removed_on": "2026-07-01",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77146733/|石脇（裾野駅） 2550万円": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-07-01",
-    "location": "静岡県裾野市石脇",
-    "price_man": 2550,
-    "area_sqm": 165.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77146733/",
-    "text": "石脇（裾野駅） 2550万円",
-    "removed_on": "2026-07-02",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21117202/|裾野市立東小学校まで徒歩12分♪並列3台駐車可能な再生住宅が登場しました。": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-07-02",
@@ -283,6 +272,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79197926/",
     "text": "令和8年6月20日（土）・21日（日）オープンハウス予定",
     "removed_on": "2026-07-06",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20830502/|【見学会開催】閑静な住宅街にある3SLDK再生住宅。駐車並列2台可能。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-06",
+    "location": "静岡県裾野市金沢583-5",
+    "price_man": 1599,
+    "area_sqm": 166.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20830502/",
+    "text": "【見学会開催】閑静な住宅街にある3SLDK再生住宅。駐車並列2台可能。",
+    "removed_on": "2026-07-07",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76381157/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-06",
+    "location": "静岡県裾野市千福が丘１",
+    "price_man": 1498,
+    "area_sqm": 206.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76381157/",
+    "text": "【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪",
+    "removed_on": "2026-07-07",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }
