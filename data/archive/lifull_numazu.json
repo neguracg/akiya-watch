@@ -3650,5 +3650,16 @@
     "text": "沼津市平町 (沼津駅)",
     "removed_on": "2026-07-07",
     "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33334000000003/|沼津市岡宮 (大岡駅)": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-07-07",
+    "location": "沼津市岡宮 (大岡駅)",
+    "price_man": 1580,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33334000000003/",
+    "text": "沼津市岡宮 (大岡駅)",
+    "removed_on": "2026-07-08",
+    "site_name": "LIFULL 土地 沼津市"
   }
 }
