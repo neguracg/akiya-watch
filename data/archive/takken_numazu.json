@@ -207,5 +207,27 @@
     "text": "一括売マンション 沼津市下香貫2979-2",
     "removed_on": "2026-07-08",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152681/settle/1|売土地 沼津市大岡2223-16": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-08",
+    "location": "沼津市大岡2223-16",
+    "price_man": 1490,
+    "area_sqm": 123.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152681/settle/1",
+    "text": "売土地 沼津市大岡2223-16",
+    "removed_on": "2026-07-09",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145221/settle/1|売土地 沼津市今沢54": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-08",
+    "location": "沼津市今沢54",
+    "price_man": 1050,
+    "area_sqm": 160.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145221/settle/1",
+    "text": "売土地 沼津市今沢54",
+    "removed_on": "2026-07-09",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

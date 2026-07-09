@@ -64,5 +64,16 @@
     "text": "売住宅 伊豆の国市南江間",
     "removed_on": "2026-07-06",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163092/settle/1|売土地 伊豆の国市寺家": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-08",
+    "location": "伊豆の国市寺家",
+    "price_man": 1800,
+    "area_sqm": 330.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163092/settle/1",
+    "text": "売土地 伊豆の国市寺家",
+    "removed_on": "2026-07-09",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

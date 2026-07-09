@@ -10,15 +10,26 @@
     "removed_on": "2026-07-06",
     "site_name": "LIFULL 中古戸建 裾野市"
   },
-  "https://www.homes.co.jp/kodate/b-33333630000014/|JR御殿場線 岩波駅 9.1km": {
+  "https://www.homes.co.jp/kodate/b-33323730000473/|JR御殿場線 岩波駅 徒歩34分": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-03",
-    "location": "JR御殿場線 岩波駅 9.1km",
-    "price_man": 1880,
-    "area_sqm": 212.2,
-    "url": "https://www.homes.co.jp/kodate/b-33333630000014/",
-    "text": "JR御殿場線 岩波駅 9.1km",
-    "removed_on": "2026-07-06",
+    "last_seen": "2026-07-06",
+    "location": "JR御殿場線 岩波駅 徒歩34分",
+    "price_man": 3250,
+    "area_sqm": 190.3,
+    "url": "https://www.homes.co.jp/kodate/b-33323730000473/",
+    "text": "JR御殿場線 岩波駅 徒歩34分",
+    "removed_on": "2026-07-09",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002355/|裾野市富沢中古住宅": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-06",
+    "location": "裾野市富沢中古住宅",
+    "price_man": 2890,
+    "area_sqm": 160.2,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002355/",
+    "text": "裾野市富沢中古住宅",
+    "removed_on": "2026-07-09",
     "site_name": "LIFULL 中古戸建 裾野市"
   }
 }
