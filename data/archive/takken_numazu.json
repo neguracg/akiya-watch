@@ -229,5 +229,38 @@
     "text": "売土地 沼津市今沢54",
     "removed_on": "2026-07-09",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170313/settle/1|売土地 沼津市足高133-9": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-09",
+    "location": "沼津市足高133-9",
+    "price_man": 77,
+    "area_sqm": 127.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170313/settle/1",
+    "text": "売土地 沼津市足高133-9",
+    "removed_on": "2026-07-10",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162418/settle/1|売土地 沼津市西椎路1030-8": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-09",
+    "location": "沼津市西椎路1030-8",
+    "price_man": 2200,
+    "area_sqm": 7543.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162418/settle/1",
+    "text": "売土地 沼津市西椎路1030-8",
+    "removed_on": "2026-07-10",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172420/settle/1|売土地 沼津市五月町": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-09",
+    "location": "沼津市五月町",
+    "price_man": 2300,
+    "area_sqm": 144.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172420/settle/1",
+    "text": "売土地 沼津市五月町",
+    "removed_on": "2026-07-10",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

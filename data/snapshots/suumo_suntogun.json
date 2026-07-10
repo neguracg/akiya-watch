@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78453284/|【住友林業】敷地42坪～44坪超×全6区画子育て支援が魅力の長泉町": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町上土狩字上向395番4外",
       "price_man": 2403,
       "area_sqm": 141.9,
@@ -11,34 +11,34 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76592995/|【積水ハウス】長泉町納米里3区画。長泉なめり駅徒歩9分、長泉北小学校徒歩15分": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町納米里字下屋敷添234-7、234-4、234-5、234-8、234-10",
-      "price_man": 2780,
+      "price_man": 2480,
       "area_sqm": 145.4,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76592995/",
       "text": "【積水ハウス】長泉町納米里3区画。長泉なめり駅徒歩9分、長泉北小学校徒歩15分"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79044394/|【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-10",
+      "location": "静岡県駿東郡長泉町納米里字西耕地276番4",
+      "price_man": 2680,
+      "area_sqm": 165.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79044394/",
+      "text": "【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/|【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町伏見字堂之口850-2、43-14",
       "price_man": 2780,
       "area_sqm": 151.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/",
       "text": "【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79044394/|【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
-      "location": "静岡県駿東郡長泉町納米里字西耕地276番4",
-      "price_man": 2980,
-      "area_sqm": 165.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79044394/",
-      "text": "【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76388602/|【積水ハウス】三島駅徒歩21分。下土狩駅徒歩18分。長泉中央保育園徒歩8分。長": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町中土狩字中丸494-2他",
       "price_man": 2990,
       "area_sqm": 161.4,
@@ -47,34 +47,34 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78909887/|【積水ハウス】長泉町下土狩。全3区画。ドラッグストア徒歩7分。小学校徒歩6分": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下土狩字荻素950-5、950-13、950-31、950-32",
       "price_man": 3180,
       "area_sqm": 176.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78909887/",
       "text": "【積水ハウス】長泉町下土狩。全3区画。ドラッグストア徒歩7分。小学校徒歩6分"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/|【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
-      "location": "静岡県駿東郡長泉町下土狩字焼原891-5、891-25",
-      "price_man": 5980,
-      "area_sqm": 311.4,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/",
-      "text": "【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
       "price_man": 5980,
       "area_sqm": 275.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
       "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/|【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-10",
+      "location": "静岡県駿東郡長泉町下土狩字焼原891-5、891-25",
+      "price_man": 5980,
+      "area_sqm": 311.4,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/",
+      "text": "【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78719754/|●長泉町上長窪●売土地♪信頼と実績の【さくら不動産】にお任せ下さい♪": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町上長窪",
       "price_man": 1380,
       "area_sqm": 155.0,
@@ -83,25 +83,16 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20445599/|三島駅・下土狩駅まで通いやすい 長泉町下土狩！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 2980,
       "area_sqm": 169.8,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20445599/",
       "text": "三島駅・下土狩駅まで通いやすい 長泉町下土狩！"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79047270/|建築条件なし！閑静な住宅街にある平坦な整形地です！": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
-      "location": "静岡県駿東郡清水町徳倉",
-      "price_man": 700,
-      "area_sqm": 118.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79047270/",
-      "text": "建築条件なし！閑静な住宅街にある平坦な整形地です！"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77344884/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町長沢",
       "price_man": 700,
       "area_sqm": 83.9,
@@ -110,7 +101,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_94285170/|竹原（下土狩駅） 800万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町竹原179-20",
       "price_man": 800,
       "area_sqm": 91.5,
@@ -119,7 +110,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/|竹原（下土狩駅） 800万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町竹原",
       "price_man": 800,
       "area_sqm": 91.5,
@@ -128,7 +119,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79047271/|住宅用地  都市ガスエリア  即時引き渡し可": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町竹原",
       "price_man": 800,
       "area_sqm": 70.5,
@@ -137,7 +128,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76677460/|静かな住環境でありながら利便性も確保された、バランスの良い立地です！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1050,
       "area_sqm": 183.0,
@@ -146,7 +137,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79215406/|☆駿河平の自然豊かな住宅地、北東角地の384坪の広々敷地。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町東野",
       "price_man": 1100,
       "area_sqm": 1272.2,
@@ -155,7 +146,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77548585/|６／１５価格改定！【建築条件なし】■敷地面積５５坪以上■全３区画販売": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉854",
       "price_man": 1280,
       "area_sqm": 189.8,
@@ -164,7 +155,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20103659/|徳倉 1280万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1280,
       "area_sqm": 140.0,
@@ -173,7 +164,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76714076/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1390,
       "area_sqm": 254.0,
@@ -182,7 +173,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78716183/|☆建築条件なし！お好きな住宅会社で建築可能！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1390,
       "area_sqm": 254.0,
@@ -191,7 +182,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74409114/|長沢（大岡駅） 1400万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町長沢",
       "price_man": 1400,
       "area_sqm": 160.2,
@@ -200,7 +191,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21122747/|◇◆MIRAIE売主～サマーシーズン限定プライス◆◇主要道路アクセス良好♪": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町本宿642-1",
       "price_man": 1580,
       "area_sqm": 278.2,
@@ -209,7 +200,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21249269/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1580,
       "area_sqm": 367.5,
@@ -218,7 +209,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20699654/|長沢（大岡駅） 1600万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町長沢",
       "price_man": 1600,
       "area_sqm": 160.6,
@@ -227,7 +218,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20582088/|長沢（大岡駅） 1680万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町長沢",
       "price_man": 1680,
       "area_sqm": 185.3,
@@ -236,7 +227,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_75450316/|県道沿いでマイカー通勤に便利！静かで自然豊かな立地。日当たりも良好です。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1700,
       "area_sqm": 394.3,
@@ -245,7 +236,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069626/|柿田 1780万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町柿田",
       "price_man": 1780,
       "area_sqm": 247.2,
@@ -254,7 +245,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20847413/|☆【建築条件なし】お好きなハウスメーカーで自分らしさを形に": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町湯川",
       "price_man": 1840,
       "area_sqm": 143.5,
@@ -263,7 +254,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21139529/|徒歩圏内に商業施設多数！下土狩駅まで徒歩4分の人気エリアです♪": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 1980,
       "area_sqm": 103.3,
@@ -272,7 +263,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20864087/|☆170坪超の広さが叶える“自分らしい暮らし”": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1980,
       "area_sqm": 567.1,
@@ -281,7 +272,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78282556/|☆人気の清水町玉川！整形地×建築条件なし！理想の暮らしをカタチに！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町玉川",
       "price_man": 1980,
       "area_sqm": 165.3,
@@ -290,7 +281,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_75886069/|敷地約101坪": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 2200,
       "area_sqm": 337.0,
@@ -299,7 +290,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78818854/|☆　建築条件付きの物件です。　　　→お気軽にお問い合わせください。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町南一色",
       "price_man": 2200,
       "area_sqm": 181.0,
@@ -308,7 +299,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_78760593/|【ダイワハウス】50坪以上の整形地。利便性と穏やかな住環境を兼ね備えた街。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町堂庭字大宿54-1他",
       "price_man": 2680,
       "area_sqm": 165.6,
@@ -317,7 +308,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79192212/|下長窪（長泉なめり駅） 2790万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下長窪",
       "price_man": 2790,
       "area_sqm": 183.1,
@@ -326,7 +317,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20700854/|☆　陽光もたっぷり差し込む明るい住環境です。☆　緑豊かな場所にあります": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下長窪",
       "price_man": 2850,
       "area_sqm": 173.5,
@@ -335,7 +326,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20125614/|徳倉（三島二日町駅） 3150万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 3150,
       "area_sqm": 330.0,
@@ -344,7 +335,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069912/|桜堤３（長泉なめり駅） 3290万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町桜堤３",
       "price_man": 3290,
       "area_sqm": 180.9,
@@ -353,25 +344,25 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20634919/|下土狩（下土狩駅） 3400万円～4200万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町下土狩1048-2、1048-24",
       "price_man": 3400,
       "area_sqm": 225.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20634919/",
       "text": "下土狩（下土狩駅） 3400万円～4200万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76909210/|中土狩（三島駅） 3480万円": {
-      "first_seen": "2026-06-28",
-      "last_seen": "2026-07-09",
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76909210/|人気の長泉・ノジマ近く": {
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町中土狩",
       "price_man": 3480,
       "area_sqm": 190.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76909210/",
-      "text": "中土狩（三島駅） 3480万円"
+      "text": "人気の長泉・ノジマ近く"
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069918/|桜堤３（長泉なめり駅） 3580万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町桜堤３",
       "price_man": 3580,
       "area_sqm": 187.1,
@@ -380,7 +371,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069865/|桜堤３（長泉なめり駅） 3580万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町桜堤３",
       "price_man": 3580,
       "area_sqm": 187.2,
@@ -389,7 +380,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_75329167/|東野 4180万円": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡長泉町東野",
       "price_man": 4180,
       "area_sqm": 1678.2,
@@ -398,7 +389,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21202260/|◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪": {
       "first_seen": "2026-07-03",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "静岡県駿東郡清水町伏見756-1",
       "price_man": 11500,
       "area_sqm": 957.5,
@@ -406,6 +397,6 @@
       "text": "◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪"
     }
   },
-  "hash": "b044b0eaec9cda5c",
-  "fetched_at": "2026-07-09T23:21:22.059108"
+  "hash": "a3ef59fd5cc6f2b2",
+  "fetched_at": "2026-07-10T23:09:01.178194"
 }

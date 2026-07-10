@@ -1,449 +1,26 @@
 {
   "keys": {
-    "https://www.u2japan-mishima-k.com/bkndetail/2331365299/room105546706/|駿東郡清水町 徳倉": {
-      "first_seen": "2026-07-09",
-      "last_seen": "2026-07-09",
-      "location": "駿東郡清水町 徳倉",
-      "price_man": 1580,
-      "area_sqm": 367.5,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2331365299/room105546706/",
-      "text": "駿東郡清水町 徳倉"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/213390949/room91582348/|駿東郡清水町 徳倉": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "駿東郡清水町 徳倉",
-      "price_man": 1390,
-      "area_sqm": 254.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/213390949/room91582348/",
-      "text": "駿東郡清水町 徳倉"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/923994357/room104140949/|三島市 青木": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 青木",
-      "price_man": 1200,
-      "area_sqm": 113.9,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/923994357/room104140949/",
-      "text": "三島市 青木"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/296510614/room92985568/|沼津市 内浦重寺": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 内浦重寺",
-      "price_man": 800,
-      "area_sqm": 144.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/296510614/room92985568/",
-      "text": "沼津市 内浦重寺"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/104149097/room93107031/|沼津市 玉江町": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 玉江町",
-      "price_man": 2800,
-      "area_sqm": 513.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/104149097/room93107031/",
-      "text": "沼津市 玉江町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2165914938/room105322727/|沼津市 上香貫": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 上香貫",
-      "price_man": 700,
-      "area_sqm": 105.8,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2165914938/room105322727/",
-      "text": "沼津市 上香貫"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/192425462/room99880374/|伊豆の国市 韮山多田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "伊豆の国市 韮山多田",
-      "price_man": 148,
-      "area_sqm": 720.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/192425462/room99880374/",
-      "text": "伊豆の国市 韮山多田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2726648613/room99126052/|駿東郡長泉町 南一色": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "駿東郡長泉町 南一色",
-      "price_man": 2200,
-      "area_sqm": 181.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2726648613/room99126052/",
-      "text": "駿東郡長泉町 南一色"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2909601199/room103900228/|田方郡函南町 上沢": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "田方郡函南町 上沢",
-      "price_man": 2500,
-      "area_sqm": 1920.4,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2909601199/room103900228/",
-      "text": "田方郡函南町 上沢"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/4004211584/room100684300/|三島市 徳倉": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 徳倉",
-      "price_man": 430,
-      "area_sqm": 83.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/4004211584/room100684300/",
-      "text": "三島市 徳倉"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/254959881/room100854297/|田方郡函南町 軽井沢": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "田方郡函南町 軽井沢",
-      "price_man": 230,
-      "area_sqm": 1413.2,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/254959881/room100854297/",
-      "text": "田方郡函南町 軽井沢"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room102264996/|伊豆の国市 南條": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "伊豆の国市 南條",
-      "price_man": 680,
-      "area_sqm": 73.2,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room102264996/",
-      "text": "伊豆の国市 南條"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3915497177/room103563489/|田方郡函南町 柏谷": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "田方郡函南町 柏谷",
-      "price_man": 1500,
-      "area_sqm": 327.8,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3915497177/room103563489/",
-      "text": "田方郡函南町 柏谷"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2582121359/room100513447/|沼津市 下香貫": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 下香貫",
-      "price_man": 580,
-      "area_sqm": 113.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2582121359/room100513447/",
-      "text": "沼津市 下香貫"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2438754507/room101600146/|沼津市 西椎路": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 西椎路",
-      "price_man": 8200,
-      "area_sqm": 1358.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2438754507/room101600146/",
-      "text": "沼津市 西椎路"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/154205629/room102659940/|三島市 沢地": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 沢地",
-      "price_man": 2800,
-      "area_sqm": 360.9,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/154205629/room102659940/",
-      "text": "三島市 沢地"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room90654435/|三島市 大場": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 大場",
-      "price_man": 150,
-      "area_sqm": 275.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room90654435/",
-      "text": "三島市 大場"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97050871/|三島市 谷田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 谷田",
-      "price_man": 1780,
-      "area_sqm": 177.6,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97050871/",
-      "text": "三島市 谷田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room102463149/|沼津市 戸田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 戸田",
-      "price_man": 600,
-      "area_sqm": 156.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room102463149/",
-      "text": "沼津市 戸田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97430628/|三島市 谷田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 谷田",
-      "price_man": 800,
-      "area_sqm": 206.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97430628/",
-      "text": "三島市 谷田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/197037747/room98301047/|田方郡函南町 平井": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "田方郡函南町 平井",
-      "price_man": 480,
-      "area_sqm": 103.6,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/197037747/room98301047/",
-      "text": "田方郡函南町 平井"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/469124714/room98301067/|三島市 中島": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 中島",
-      "price_man": 1980,
-      "area_sqm": 177.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/469124714/room98301067/",
-      "text": "三島市 中島"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/696483938/room99673878/|沼津市 八幡町": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 八幡町",
-      "price_man": 2580,
-      "area_sqm": 178.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/696483938/room99673878/",
-      "text": "沼津市 八幡町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1702591900/room103209614/|駿東郡長泉町 下長窪": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "駿東郡長泉町 下長窪",
-      "price_man": 2850,
-      "area_sqm": 173.5,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1702591900/room103209614/",
-      "text": "駿東郡長泉町 下長窪"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/300975445/room103370291/|沼津市 小諏訪": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 小諏訪",
-      "price_man": 1480,
-      "area_sqm": 226.2,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/300975445/room103370291/",
-      "text": "沼津市 小諏訪"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room103892924/|沼津市 戸田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 戸田",
-      "price_man": 1400,
-      "area_sqm": 699.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room103892924/",
-      "text": "沼津市 戸田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1986572144/room103948302/|沼津市 高沢町": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 高沢町",
-      "price_man": 1380,
-      "area_sqm": 119.3,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1986572144/room103948302/",
-      "text": "沼津市 高沢町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room99406991/|伊豆の国市 中": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+    "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room105516391/|伊豆の国市 中": {
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-10",
       "location": "伊豆の国市 中",
-      "price_man": 330,
-      "area_sqm": 381.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room99406991/",
+      "price_man": 980,
+      "area_sqm": 1146.4,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room105516391/",
       "text": "伊豆の国市 中"
     },
-    "https://www.u2japan-mishima-k.com/bkndetail/1641170896/room104097358/|沼津市 下香貫": {
+    "https://www.u2japan-mishima-k.com/bkndetail/3353462164/room93598890/|沼津市 平町": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 下香貫",
-      "price_man": 1490,
-      "area_sqm": 222.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1641170896/room104097358/",
-      "text": "沼津市 下香貫"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room104143840/|三島市 光ケ丘": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 光ケ丘",
-      "price_man": 1880,
-      "area_sqm": 241.3,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room104143840/",
-      "text": "三島市 光ケ丘"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2838322457/room104215615/|沼津市 西間門": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 西間門",
-      "price_man": 680,
-      "area_sqm": 188.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2838322457/room104215615/",
-      "text": "沼津市 西間門"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3770659752/room104551854/|沼津市 西島町": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 西島町",
-      "price_man": 1100,
-      "area_sqm": 158.4,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3770659752/room104551854/",
-      "text": "沼津市 西島町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/562113537/room104563711/|沼津市 大門町": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 大門町",
-      "price_man": 1450,
-      "area_sqm": 147.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/562113537/room104563711/",
-      "text": "沼津市 大門町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room79467355/|三島市 光ケ丘": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 光ケ丘",
-      "price_man": 2100,
-      "area_sqm": 255.3,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room79467355/",
-      "text": "三島市 光ケ丘"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room83078555/|三島市 大場": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 大場",
-      "price_man": 1180,
-      "area_sqm": 84.3,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room83078555/",
-      "text": "三島市 大場"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room83900055/|三島市 谷田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 谷田",
-      "price_man": 750,
-      "area_sqm": 197.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room83900055/",
-      "text": "三島市 谷田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1008908065/room85178392/|三島市 市山新田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 市山新田",
-      "price_man": 650,
-      "area_sqm": 172.4,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1008908065/room85178392/",
-      "text": "三島市 市山新田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86149706/|沼津市 志下": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 志下",
-      "price_man": 380,
-      "area_sqm": 251.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86149706/",
-      "text": "沼津市 志下"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room86010003/|三島市 大場": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 大場",
-      "price_man": 150,
-      "area_sqm": 231.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room86010003/",
-      "text": "三島市 大場"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/267708437/room86406317/|田方郡函南町 平井": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "田方郡函南町 平井",
-      "price_man": 185,
-      "area_sqm": 312.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/267708437/room86406317/",
-      "text": "田方郡函南町 平井"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86433450/|沼津市 志下": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 志下",
-      "price_man": 1200,
-      "area_sqm": 396.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86433450/",
-      "text": "沼津市 志下"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/3502672767/room86898736/|三島市 山中新田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 山中新田",
-      "price_man": 1900,
-      "area_sqm": 472.6,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3502672767/room86898736/",
-      "text": "三島市 山中新田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/790035500/room91283580/|伊豆の国市 大仁": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "伊豆の国市 大仁",
-      "price_man": 1380,
-      "area_sqm": 342.3,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/790035500/room91283580/",
-      "text": "伊豆の国市 大仁"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/229814317/room90573340/|伊豆の国市 韮山山木": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "伊豆の国市 韮山山木",
-      "price_man": 400,
-      "area_sqm": 461.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/229814317/room90573340/",
-      "text": "伊豆の国市 韮山山木"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1605391170/room92141885/|三島市 谷田": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 谷田",
-      "price_man": 1080,
-      "area_sqm": 136.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1605391170/room92141885/",
-      "text": "三島市 谷田"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/1256505504/room92695731/|沼津市 内浦重寺": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 内浦重寺",
-      "price_man": 1200,
-      "area_sqm": 183.9,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/1256505504/room92695731/",
-      "text": "沼津市 内浦重寺"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/696483938/room92987928/|沼津市 八幡町": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 八幡町",
-      "price_man": 800,
-      "area_sqm": 72.6,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/696483938/room92987928/",
-      "text": "沼津市 八幡町"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/128503996/room93107029/|沼津市 原": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 原",
-      "price_man": 780,
-      "area_sqm": 300.2,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/128503996/room93107029/",
-      "text": "沼津市 原"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room93370233/|三島市 大場": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "三島市 大場",
-      "price_man": 2500,
-      "area_sqm": 169.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room93370233/",
-      "text": "三島市 大場"
+      "last_seen": "2026-07-10",
+      "location": "沼津市 平町",
+      "price_man": 1800,
+      "area_sqm": 137.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3353462164/room93598890/",
+      "text": "沼津市 平町"
     },
     "https://www.u2japan-mishima-k.com/bkndetail/68881733/room93610346/|田方郡函南町 柏谷": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "田方郡函南町 柏谷",
       "price_man": 1100,
       "area_sqm": 161.9,
@@ -452,16 +29,34 @@
     },
     "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room93779866/|伊豆の国市 南條": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "伊豆の国市 南條",
       "price_man": 300,
       "area_sqm": 300.7,
       "url": "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room93779866/",
       "text": "伊豆の国市 南條"
     },
+    "https://www.u2japan-mishima-k.com/bkndetail/229814317/room90573340/|伊豆の国市 韮山山木": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "伊豆の国市 韮山山木",
+      "price_man": 400,
+      "area_sqm": 461.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/229814317/room90573340/",
+      "text": "伊豆の国市 韮山山木"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1605391170/room92141885/|三島市 谷田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 谷田",
+      "price_man": 1080,
+      "area_sqm": 136.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1605391170/room92141885/",
+      "text": "三島市 谷田"
+    },
     "https://www.u2japan-mishima-k.com/bkndetail/991262729/room93783660/|駿東郡清水町 長沢": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "駿東郡清水町 長沢",
       "price_man": 700,
       "area_sqm": 83.9,
@@ -470,7 +65,7 @@
     },
     "https://www.u2japan-mishima-k.com/bkndetail/267708437/room93986949/|田方郡函南町 平井": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "田方郡函南町 平井",
       "price_man": 100,
       "area_sqm": 393.0,
@@ -479,23 +74,437 @@
     },
     "https://www.u2japan-mishima-k.com/bkndetail/267708437/room94300003/|田方郡函南町 平井": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
       "location": "田方郡函南町 平井",
       "price_man": 498,
       "area_sqm": 260.0,
       "url": "https://www.u2japan-mishima-k.com/bkndetail/267708437/room94300003/",
       "text": "田方郡函南町 平井"
     },
-    "https://www.u2japan-mishima-k.com/bkndetail/3353462164/room93598890/|沼津市 平町": {
+    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room86010003/|三島市 大場": {
       "first_seen": "2026-06-30",
-      "last_seen": "2026-07-09",
-      "location": "沼津市 平町",
-      "price_man": 1800,
-      "area_sqm": 137.1,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/3353462164/room93598890/",
-      "text": "沼津市 平町"
+      "last_seen": "2026-07-10",
+      "location": "三島市 大場",
+      "price_man": 150,
+      "area_sqm": 231.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room86010003/",
+      "text": "三島市 大場"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/267708437/room86406317/|田方郡函南町 平井": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "田方郡函南町 平井",
+      "price_man": 185,
+      "area_sqm": 312.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/267708437/room86406317/",
+      "text": "田方郡函南町 平井"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86433450/|沼津市 志下": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 志下",
+      "price_man": 1200,
+      "area_sqm": 396.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86433450/",
+      "text": "沼津市 志下"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1256505504/room92695731/|沼津市 内浦重寺": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 内浦重寺",
+      "price_man": 1200,
+      "area_sqm": 183.9,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1256505504/room92695731/",
+      "text": "沼津市 内浦重寺"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/696483938/room92987928/|沼津市 八幡町": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 八幡町",
+      "price_man": 800,
+      "area_sqm": 72.6,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/696483938/room92987928/",
+      "text": "沼津市 八幡町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/128503996/room93107029/|沼津市 原": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 原",
+      "price_man": 780,
+      "area_sqm": 300.2,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/128503996/room93107029/",
+      "text": "沼津市 原"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room93370233/|三島市 大場": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 大場",
+      "price_man": 2500,
+      "area_sqm": 169.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room93370233/",
+      "text": "三島市 大場"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room79467355/|三島市 光ケ丘": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 光ケ丘",
+      "price_man": 2100,
+      "area_sqm": 255.3,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room79467355/",
+      "text": "三島市 光ケ丘"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room83078555/|三島市 大場": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 大場",
+      "price_man": 1180,
+      "area_sqm": 84.3,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room83078555/",
+      "text": "三島市 大場"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86149706/|沼津市 志下": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 志下",
+      "price_man": 380,
+      "area_sqm": 251.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86149706/",
+      "text": "沼津市 志下"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3502672767/room86898736/|三島市 山中新田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 山中新田",
+      "price_man": 1900,
+      "area_sqm": 472.6,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3502672767/room86898736/",
+      "text": "三島市 山中新田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/790035500/room91283580/|伊豆の国市 大仁": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "伊豆の国市 大仁",
+      "price_man": 1380,
+      "area_sqm": 342.3,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/790035500/room91283580/",
+      "text": "伊豆の国市 大仁"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room83900055/|三島市 谷田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 谷田",
+      "price_man": 750,
+      "area_sqm": 197.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room83900055/",
+      "text": "三島市 谷田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1008908065/room85178392/|三島市 市山新田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 市山新田",
+      "price_man": 650,
+      "area_sqm": 172.4,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1008908065/room85178392/",
+      "text": "三島市 市山新田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room99406991/|伊豆の国市 中": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "伊豆の国市 中",
+      "price_man": 330,
+      "area_sqm": 381.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2194165148/room99406991/",
+      "text": "伊豆の国市 中"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1641170896/room104097358/|沼津市 下香貫": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 下香貫",
+      "price_man": 1490,
+      "area_sqm": 222.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1641170896/room104097358/",
+      "text": "沼津市 下香貫"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room104143840/|三島市 光ケ丘": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 光ケ丘",
+      "price_man": 1880,
+      "area_sqm": 241.3,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1763406252/room104143840/",
+      "text": "三島市 光ケ丘"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2838322457/room104215615/|沼津市 西間門": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 西間門",
+      "price_man": 680,
+      "area_sqm": 188.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2838322457/room104215615/",
+      "text": "沼津市 西間門"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3770659752/room104551854/|沼津市 西島町": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 西島町",
+      "price_man": 1100,
+      "area_sqm": 158.4,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3770659752/room104551854/",
+      "text": "沼津市 西島町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/562113537/room104563711/|沼津市 大門町": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 大門町",
+      "price_man": 1450,
+      "area_sqm": 147.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/562113537/room104563711/",
+      "text": "沼津市 大門町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1702591900/room103209614/|駿東郡長泉町 下長窪": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "駿東郡長泉町 下長窪",
+      "price_man": 2850,
+      "area_sqm": 173.5,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1702591900/room103209614/",
+      "text": "駿東郡長泉町 下長窪"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1986572144/room103948302/|沼津市 高沢町": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 高沢町",
+      "price_man": 1380,
+      "area_sqm": 119.3,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1986572144/room103948302/",
+      "text": "沼津市 高沢町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/696483938/room99673878/|沼津市 八幡町": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 八幡町",
+      "price_man": 2580,
+      "area_sqm": 178.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/696483938/room99673878/",
+      "text": "沼津市 八幡町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/300975445/room103370291/|沼津市 小諏訪": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 小諏訪",
+      "price_man": 1480,
+      "area_sqm": 226.2,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/300975445/room103370291/",
+      "text": "沼津市 小諏訪"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room103892924/|沼津市 戸田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 戸田",
+      "price_man": 1400,
+      "area_sqm": 699.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room103892924/",
+      "text": "沼津市 戸田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97430628/|三島市 谷田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 谷田",
+      "price_man": 800,
+      "area_sqm": 206.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97430628/",
+      "text": "三島市 谷田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/762526979/room90654435/|三島市 大場": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 大場",
+      "price_man": 150,
+      "area_sqm": 275.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/762526979/room90654435/",
+      "text": "三島市 大場"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/197037747/room98301047/|田方郡函南町 平井": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "田方郡函南町 平井",
+      "price_man": 480,
+      "area_sqm": 103.6,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/197037747/room98301047/",
+      "text": "田方郡函南町 平井"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/469124714/room98301067/|三島市 中島": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 中島",
+      "price_man": 1980,
+      "area_sqm": 177.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/469124714/room98301067/",
+      "text": "三島市 中島"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97050871/|三島市 谷田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 谷田",
+      "price_man": 1780,
+      "area_sqm": 177.6,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/1327525760/room97050871/",
+      "text": "三島市 谷田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room102463149/|沼津市 戸田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 戸田",
+      "price_man": 600,
+      "area_sqm": 156.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3691618925/room102463149/",
+      "text": "沼津市 戸田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2438754507/room101600146/|沼津市 西椎路": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 西椎路",
+      "price_man": 8200,
+      "area_sqm": 1358.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2438754507/room101600146/",
+      "text": "沼津市 西椎路"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/154205629/room102659940/|三島市 沢地": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 沢地",
+      "price_man": 2800,
+      "area_sqm": 360.9,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/154205629/room102659940/",
+      "text": "三島市 沢地"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2582121359/room100513447/|沼津市 下香貫": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 下香貫",
+      "price_man": 580,
+      "area_sqm": 113.1,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2582121359/room100513447/",
+      "text": "沼津市 下香貫"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/4004211584/room100684300/|三島市 徳倉": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 徳倉",
+      "price_man": 430,
+      "area_sqm": 83.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/4004211584/room100684300/",
+      "text": "三島市 徳倉"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/254959881/room100854297/|田方郡函南町 軽井沢": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "田方郡函南町 軽井沢",
+      "price_man": 230,
+      "area_sqm": 1413.2,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/254959881/room100854297/",
+      "text": "田方郡函南町 軽井沢"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3915497177/room103563489/|田方郡函南町 柏谷": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "田方郡函南町 柏谷",
+      "price_man": 1500,
+      "area_sqm": 327.8,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3915497177/room103563489/",
+      "text": "田方郡函南町 柏谷"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2726648613/room99126052/|駿東郡長泉町 南一色": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "駿東郡長泉町 南一色",
+      "price_man": 2200,
+      "area_sqm": 181.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2726648613/room99126052/",
+      "text": "駿東郡長泉町 南一色"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room102264996/|伊豆の国市 南條": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "伊豆の国市 南條",
+      "price_man": 680,
+      "area_sqm": 73.2,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/3256582678/room102264996/",
+      "text": "伊豆の国市 南條"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2909601199/room103900228/|田方郡函南町 上沢": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "田方郡函南町 上沢",
+      "price_man": 2500,
+      "area_sqm": 1920.4,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2909601199/room103900228/",
+      "text": "田方郡函南町 上沢"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/192425462/room99880374/|伊豆の国市 韮山多田": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "伊豆の国市 韮山多田",
+      "price_man": 148,
+      "area_sqm": 720.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/192425462/room99880374/",
+      "text": "伊豆の国市 韮山多田"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/296510614/room92985568/|沼津市 内浦重寺": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 内浦重寺",
+      "price_man": 800,
+      "area_sqm": 144.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/296510614/room92985568/",
+      "text": "沼津市 内浦重寺"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/104149097/room93107031/|沼津市 玉江町": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 玉江町",
+      "price_man": 2800,
+      "area_sqm": 513.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/104149097/room93107031/",
+      "text": "沼津市 玉江町"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2165914938/room105322727/|沼津市 上香貫": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-10",
+      "location": "沼津市 上香貫",
+      "price_man": 700,
+      "area_sqm": 105.8,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2165914938/room105322727/",
+      "text": "沼津市 上香貫"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/213390949/room91582348/|駿東郡清水町 徳倉": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "駿東郡清水町 徳倉",
+      "price_man": 1390,
+      "area_sqm": 254.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/213390949/room91582348/",
+      "text": "駿東郡清水町 徳倉"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/923994357/room104140949/|三島市 青木": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "location": "三島市 青木",
+      "price_man": 1200,
+      "area_sqm": 113.9,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/923994357/room104140949/",
+      "text": "三島市 青木"
+    },
+    "https://www.u2japan-mishima-k.com/bkndetail/2331365299/room105546706/|駿東郡清水町 徳倉": {
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-10",
+      "location": "駿東郡清水町 徳倉",
+      "price_man": 1580,
+      "area_sqm": 367.5,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/2331365299/room105546706/",
+      "text": "駿東郡清水町 徳倉"
     }
   },
-  "hash": "f8b171cfb453d003",
-  "fetched_at": "2026-07-09T23:15:29.899176"
+  "hash": "667022e2a7b22408",
+  "fetched_at": "2026-07-10T23:04:15.994761"
 }

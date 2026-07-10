@@ -1,13 +1,35 @@
 {
-  "https://www.homes.co.jp/kodate/b-1265050002583/|函南町上沢中古住宅": {
+  "https://www.homes.co.jp/kodate/b-1508430000123/|ヒューマンヒルズ函南１２２号地": {
     "first_seen": "2026-07-03",
-    "last_seen": "2026-07-08",
-    "location": "函南町上沢中古住宅",
-    "price_man": 954,
-    "area_sqm": 258.0,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002583/",
-    "text": "函南町上沢中古住宅",
-    "removed_on": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "ヒューマンヒルズ函南１２２号地",
+    "price_man": 1970,
+    "area_sqm": 307.7,
+    "url": "https://www.homes.co.jp/kodate/b-1508430000123/",
+    "text": "ヒューマンヒルズ函南１２２号地",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1508430000113/|ヒューマンヒルズ函南40号地": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "ヒューマンヒルズ函南40号地",
+    "price_man": 1780,
+    "area_sqm": 276.0,
+    "url": "https://www.homes.co.jp/kodate/b-1508430000113/",
+    "text": "ヒューマンヒルズ函南40号地",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "ヒューマンヒルズ函南77号地",
+    "price_man": 2150,
+    "area_sqm": 324.7,
+    "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
+    "text": "ヒューマンヒルズ函南77号地",
+    "removed_on": "2026-07-10",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

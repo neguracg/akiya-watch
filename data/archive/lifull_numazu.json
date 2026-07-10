@@ -2837,28 +2837,6 @@
     "removed_on": "2026-06-21",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-33313380000012/|沼津市西椎路 (片浜駅)": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "location": "沼津市西椎路 (片浜駅)",
-    "price_man": 1200,
-    "area_sqm": 237.7,
-    "url": "https://www.homes.co.jp/tochi/b-33313380000012/",
-    "text": "沼津市西椎路 (片浜駅)",
-    "removed_on": "2026-06-21",
-    "site_name": "LIFULL 土地 沼津市"
-  },
-  "https://www.homes.co.jp/tochi/b-33313380000007/|沼津市五月町 (沼津駅)": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-06-19",
-    "location": "沼津市五月町 (沼津駅)",
-    "price_man": 1250,
-    "area_sqm": 138.0,
-    "url": "https://www.homes.co.jp/tochi/b-33313380000007/",
-    "text": "沼津市五月町 (沼津駅)",
-    "removed_on": "2026-06-21",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33333670000003/|沼津市中瀬町 (沼津駅)": {
     "first_seen": "2026-06-19",
     "last_seen": "2026-06-21",
@@ -3299,28 +3277,6 @@
     "removed_on": "2026-07-01",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-33303030000167/|沼津市戸田 (修善寺駅)": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-30",
-    "location": "沼津市戸田 (修善寺駅)",
-    "price_man": 1300,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33303030000167/",
-    "text": "沼津市戸田 (修善寺駅)",
-    "removed_on": "2026-07-01",
-    "site_name": "LIFULL 土地 沼津市"
-  },
-  "https://www.homes.co.jp/tochi/b-33303030000166/|沼津市駿河台 (沼津駅)": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-06-30",
-    "location": "沼津市駿河台 (沼津駅)",
-    "price_man": 1480,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33303030000166/",
-    "text": "沼津市駿河台 (沼津駅)",
-    "removed_on": "2026-07-01",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33324720000035/|沼津市原 (原駅)": {
     "first_seen": "2026-06-28",
     "last_seen": "2026-06-30",
@@ -3715,6 +3671,138 @@
     "url": "https://www.homes.co.jp/tochi/b-33328870000032/",
     "text": "沼津市下香貫馬場 (沼津駅)",
     "removed_on": "2026-07-09",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33320520000030/|沼津市西椎路": {
+    "first_seen": "2026-07-05",
+    "last_seen": "2026-07-09",
+    "location": "沼津市西椎路",
+    "price_man": 2200,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33320520000030/",
+    "text": "沼津市西椎路",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1556780000017/|沼津市宮町 (沼津駅)": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "沼津市宮町 (沼津駅)",
+    "price_man": 2500,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1556780000017/",
+    "text": "沼津市宮町 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000131/|沼津市中瀬町 (沼津駅)": {
+    "first_seen": "2026-07-08",
+    "last_seen": "2026-07-09",
+    "location": "沼津市中瀬町 (沼津駅)",
+    "price_man": 1490,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000131/",
+    "text": "沼津市中瀬町 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000136/|沼津市下香貫藤井原 (沼津駅)": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "沼津市下香貫藤井原 (沼津駅)",
+    "price_man": 880,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000136/",
+    "text": "沼津市下香貫藤井原 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000141/|沼津市下香貫牛臥 (沼津駅)": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
+    "location": "沼津市下香貫牛臥 (沼津駅)",
+    "price_man": 750,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000141/",
+    "text": "沼津市下香貫牛臥 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000054/|沼津市原 (原駅)": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
+    "location": "沼津市原 (原駅)",
+    "price_man": 5100,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000054/",
+    "text": "沼津市原 (原駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000059/|沼津市本郷町 (沼津駅)": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "沼津市本郷町 (沼津駅)",
+    "price_man": 1950,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000059/",
+    "text": "沼津市本郷町 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000159/|沼津市足高 (沼津駅)": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "沼津市足高 (沼津駅)",
+    "price_man": 77,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000159/",
+    "text": "沼津市足高 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000156/|沼津市大岡 (大岡駅)": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
+    "location": "沼津市大岡 (大岡駅)",
+    "price_man": 1850,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000156/",
+    "text": "沼津市大岡 (大岡駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000147/|沼津市御幸町 (沼津駅)": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
+    "location": "沼津市御幸町 (沼津駅)",
+    "price_man": 3200,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000147/",
+    "text": "沼津市御幸町 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000046/|沼津市本字下一丁田 (沼津駅)": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-07-09",
+    "location": "沼津市本字下一丁田 (沼津駅)",
+    "price_man": 660,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000046/",
+    "text": "沼津市本字下一丁田 (沼津駅)",
+    "removed_on": "2026-07-10",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33328870000157/|沼津市本郷町 (沼津駅)": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "沼津市本郷町 (沼津駅)",
+    "price_man": 1300,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33328870000157/",
+    "text": "沼津市本郷町 (沼津駅)",
+    "removed_on": "2026-07-10",
     "site_name": "LIFULL 土地 沼津市"
   }
 }

@@ -130,5 +130,16 @@
     "text": "売土地 三島市富士ビレッジ",
     "removed_on": "2026-07-09",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134748/settle/1|売住宅 三島市谷田244-14，251-72": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-09",
+    "location": "三島市谷田244-14，251-72",
+    "price_man": 2480,
+    "area_sqm": 94.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134748/settle/1",
+    "text": "売住宅 三島市谷田244-14，251-72",
+    "removed_on": "2026-07-10",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }
