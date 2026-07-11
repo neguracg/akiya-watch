@@ -76,17 +76,6 @@
     "removed_on": "2026-06-26",
     "site_name": "空き家バンクしずおか 沼津市"
   },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1|売住宅 沼津市青野": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-25",
-    "location": "沼津市青野",
-    "price_man": 830,
-    "area_sqm": 311.4,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1",
-    "text": "売住宅 沼津市青野",
-    "removed_on": "2026-06-26",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
   "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168517/settle/1|売住宅 沼津市原": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-06-26",
@@ -128,17 +117,6 @@
     "area_sqm": 68.0,
     "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171371/settle/1",
     "text": "売土地 沼津市西条町",
-    "removed_on": "2026-07-01",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153918/settle/1|売土地 沼津市足高441-1759、-1760": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-06-30",
-    "location": "沼津市足高441-1759、-1760",
-    "price_man": 1200,
-    "area_sqm": 1850.3,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153918/settle/1",
-    "text": "売土地 沼津市足高441-1759、-1760",
     "removed_on": "2026-07-01",
     "site_name": "空き家バンクしずおか 沼津市"
   },
@@ -261,6 +239,17 @@
     "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172420/settle/1",
     "text": "売土地 沼津市五月町",
     "removed_on": "2026-07-10",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172379/settle/1|売マンション 沼津市岡一色270-1": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-10",
+    "location": "沼津市岡一色270-1",
+    "price_man": 1650,
+    "area_sqm": 70.7,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172379/settle/1",
+    "text": "売マンション 沼津市岡一色270-1",
+    "removed_on": "2026-07-11",
     "site_name": "空き家バンクしずおか 沼津市"
   }
 }

@@ -1,5 +1,24 @@
 {
-  "keys": {},
-  "hash": "fd398be812e17026",
-  "fetched_at": "2026-07-10T23:07:57.233386"
+  "keys": {
+    "https://www.snjhkk.com/s_r_59237/index.html|静岡県沼津市大岡": {
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "location": "静岡県沼津市大岡",
+      "price_man": 1450,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59237/index.html",
+      "text": "静岡県沼津市大岡"
+    },
+    "https://www.snjhkk.com/s_r_59236/index.html|静岡県沼津市原": {
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-07-11",
+      "location": "静岡県沼津市原",
+      "price_man": 5200,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59236/index.html",
+      "text": "静岡県沼津市原"
+    }
+  },
+  "hash": "fb8de0080ca25cee",
+  "fetched_at": "2026-07-11T22:56:09.867734"
 }
