@@ -1,8 +1,17 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59245/index.html|静岡県沼津市下香貫大久保": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "location": "静岡県沼津市下香貫大久保",
+      "price_man": 2998,
+      "area_sqm": 477.1,
+      "url": "https://www.snjhkk.com/s_r_59245/index.html",
+      "text": "静岡県沼津市下香貫大久保"
+    },
     "https://www.snjhkk.com/s_r_59237/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
+      "last_seen": "2026-07-12",
       "location": "静岡県沼津市大岡",
       "price_man": 1450,
       "area_sqm": null,
@@ -11,7 +20,7 @@
     },
     "https://www.snjhkk.com/s_r_59236/index.html|静岡県沼津市原": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-11",
+      "last_seen": "2026-07-12",
       "location": "静岡県沼津市原",
       "price_man": 5200,
       "area_sqm": null,
@@ -19,6 +28,6 @@
       "text": "静岡県沼津市原"
     }
   },
-  "hash": "fb8de0080ca25cee",
-  "fetched_at": "2026-07-11T22:56:09.867734"
+  "hash": "fffe8a559ddad534",
+  "fetched_at": "2026-07-12T22:57:12.287170"
 }
