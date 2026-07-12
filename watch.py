@@ -313,11 +313,12 @@ def extract_toshikeikaku(text: str) -> str:
 
 
 # 前半7つ=住宅探索(home)の対象市町。以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、
-# 末尾3つ=Tier3（1h超だが広い山物件の在庫が豊富な伊豆最南部。現地訪問前提で監視だけ広げる）。
+# 末尾5つ=Tier3（1h超だが広い山物件の在庫が豊富な伊豆最南部+賀茂郡。現地訪問前提で監視だけ
+# 広げる）。河津町/松崎町は suumo_camp_kamogun（賀茂郡ページ）の machi 判定用に追加。
 _MACHI_NAMES = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
                 "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
                 "湯河原町", "箱根町", "富士市",
-                "下田市", "東伊豆町", "南伊豆町")
+                "下田市", "東伊豆町", "南伊豆町", "河津町", "松崎町")
 
 
 def extract_machi(text: str) -> str:
@@ -1603,6 +1604,146 @@ def parse_izuhighland(first_html, base_url, filter_keywords, filters, session):
     return out
 
 
+# ---------------------------------------------------------------------------
+# 山林売買.net アダプタ（全国山林専門。sanrin.net トップ tab=camp）
+#   カード = div.floatleft / div.floatright のうち forest_detail へのリンクを持つもの
+#   （トップページに約9件）。各カードは <dl><dt>所在地:</dt><dd>…</dd>…</dl> 形式で
+#   所在地/地目/面積(ha主体)/価格を保持。ラベルは全角スペース混在のため NFKC 正規化＋
+#   空白/コロン除去してキー化（"地　目:"→"地目"）。詳細URL=a[href*='forest_detail']。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _sanrin_net_card_specs(card):
+    dl = card.find("dl")
+    if not dl:
+        return {}
+    keys = [re.sub(r"[\s:：]+", "", unicodedata.normalize("NFKC", dt.get_text(strip=True)))
+            for dt in dl.find_all("dt")]
+    vals = [dd.get_text(strip=True) for dd in dl.find_all("dd")]
+    return dict(zip(keys, vals))
+
+
+def parse_sanrin_net(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.floatleft, div.floatright"):
+        raise BotBlocked(f"山林売買.net ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for card in soup.select("div.floatleft, div.floatright"):
+        a = card.find("a", href=re.compile(r"forest_detail"))
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        specs = _sanrin_net_card_specs(card)
+        location = specs.get("所在地", "").strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        area = _yamaichiba_sqm(specs.get("面積", ""))
+        price = parse_price_man(specs.get("価格", ""))
+        card_text = card.get_text(" ", strip=True)
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[sanrin_net] cards={len(dedup)} (1ページ・全国在庫から所在地一致のみ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# ふるさと情報館 アダプタ（田舎暮らし専門・全国。furusato-net.co.jp/result tab=camp）
+#   カード = ul.comBukkenList > li（<a href="…/bukken/{id}">がliを丸ごと包む）。各カードは
+#   <p class="title"><span class="sub">ラベル</span><span class="rSpan…">値</span></p> の
+#   並びで 所在地/価格/土地面積/延床面積 を保持（sub→rSpan zip）。成約済等で価格が
+#   「ーーー万円」の場合は parse_price_man が None を返す想定（数値不明扱い）。単一ページ。
+# ---------------------------------------------------------------------------
+
+def _furusato_card_specs(li):
+    specs = {}
+    for p in li.select("p.title"):
+        sub = p.find("span", class_="sub")
+        val = p.find("span", class_="rSpan")
+        if sub and val:
+            specs[sub.get_text(strip=True)] = val.get_text(" ", strip=True)
+    return specs
+
+
+def parse_furusato(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "ul.comBukkenList"):
+        raise BotBlocked(f"ふるさと情報館 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = []
+    for li in soup.select("ul.comBukkenList > li"):
+        a = li.find("a", href=re.compile(r"/bukken/"))
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        specs = _furusato_card_specs(li)
+        location = specs.get("所在地", "").strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        price = parse_price_man(specs.get("価格", ""))
+        area = _first_sqm(specs.get("土地面積", ""))
+        card_text = li.get_text(" ", strip=True)
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[furusato] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 森林.net アダプタ（森林マッチング・東海地方。shin-rin.net/list/tokai tab=camp）
+#   カード = li.post_list（<a>がliを丸ごと包む）。div.new_tit="所在地：…"、div.kind_area
+#   （複数）の先頭が "面積：…㎡ 約…坪"、次が "ステータス：…"。価格は掲載が無く常に None。
+#   詳細URL = a[href*='/archives/']。単一ページ（東海地方のみ・数件規模。新着監視用）。
+# ---------------------------------------------------------------------------
+
+def _shinrin_cards(soup, base_url, filter_keywords, filters):
+    out = []
+    for li in soup.select("li.post_list"):
+        a = li.find("a", href=re.compile(r"/archives/\d"))
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        loc_el = li.select_one(".new_tit")
+        location = ""
+        if loc_el:
+            location = re.sub(r"^所在地[:：]\s*", "", loc_el.get_text(" ", strip=True)).strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        area = None
+        for ka in li.select(".kind_area"):
+            tx = ka.get_text(" ", strip=True)
+            if "面積" in tx:
+                area = _first_sqm(tx)
+                break
+        title_el = li.select_one(".bold")
+        title = title_el.get_text(" ", strip=True) if title_el else ""
+        card_text = li.get_text(" ", strip=True)
+        out.append(_make_record(url, title[:60] or location or card_text[:60], None, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_shinrin(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.post_list"):
+        raise BotBlocked(f"森林.net ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _shinrin_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[shinrin] cards={len(dedup)} (1ページ・東海のみ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -1624,6 +1765,9 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("izuhighland_"), parse_izuhighland),
     (lambda sid: sid.startswith("tokaiyajima_"), parse_tokaiyajima),
     (lambda sid: sid.startswith("resortbukken_"), parse_resort_bukken),
+    (lambda sid: sid.startswith("sanrin_net"), parse_sanrin_net),
+    (lambda sid: sid.startswith("furusato_"), parse_furusato),
+    (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
 ]
 
 

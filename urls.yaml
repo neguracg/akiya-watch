@@ -492,6 +492,95 @@ sites:
     filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
     note: "静的。resort-estate.com(日本マウント)と同系列テンプレート＝div.bukken-items>a[href*='/detail/']。所在地はカード先頭の市町名。/izu/page:2.. ページャ追従。実測24件/頁で複数業者(東拓建設/日本マウント/株式会社TSUKUBITO等)混在アグリゲータ。伊豆市冷川「富士山の眺望」等の掘り出し物あり。"
 
+  # ---- ⑦追加(激安土地系バッチ4): SUUMO camp圏（既存 parse_suumo を id prefix "suumo_" で共用） ----
+  - id: suumo_camp_izu
+    name: SUUMO 土地 伊豆市
+    url: "https://suumo.jp/tochi/shizuoka/sc_izu/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_atami
+    name: SUUMO 土地 熱海市
+    url: "https://suumo.jp/tochi/shizuoka/sc_atami/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_ito
+    name: SUUMO 土地 伊東市
+    url: "https://suumo.jp/tochi/shizuoka/sc_ito/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_gotemba
+    name: SUUMO 土地 御殿場市
+    url: "https://suumo.jp/tochi/shizuoka/sc_gotemba/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_shimoda
+    name: SUUMO 土地 下田市
+    url: "https://suumo.jp/tochi/shizuoka/sc_shimoda/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_fuji
+    name: SUUMO 土地 富士市
+    url: "https://suumo.jp/tochi/shizuoka/sc_fuji/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_kamogun
+    name: SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）
+    url: "https://suumo.jp/tochi/shizuoka/sc_kamogun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: [西伊豆, 東伊豆, 南伊豆, 河津, 松崎]
+  - id: suumo_camp_oyama
+    name: SUUMO 土地 駿東郡小山町
+    url: "https://suumo.jp/tochi/shizuoka/sc_suntogun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: [小山町]
+
+  # ---- ⑦追加(激安土地系バッチ4): 新規adapter（山林売買.net/ふるさと情報館/森林.net） ----
+  - id: sanrin_net_zenkoku
+    name: 山林売買.net 全国
+    url: "https://www.sanrin.net/"
+    status: verified
+    channel: "⑦"
+    kind: 山林専門
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    note: "実測9件(50〜600万円・ha表記・岐阜愛知静岡中心)。robots.txt=404(制限なし)"
+  - id: furusato_shizuoka
+    name: ふるさと情報館 静岡県
+    url: "https://furusato-net.co.jp/result?bpref=6335"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし専門
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    note: "実測6件(伊東3/南伊豆1/静岡2)。robots=WP管理のみ禁止"
+  - id: shinrin_tokai
+    name: 森林.net 東海 森林物件一覧
+    url: "https://www.shin-rin.net/list/tokai"
+    status: verified
+    channel: "⑦"
+    kind: 森林マッチング
+    tab: camp
+    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    note: "価格なし(所在地/面積のみ・ステータス表記あり)。新着監視用。robots=WP管理のみ禁止"
+
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
 # ============================================================================
@@ -565,6 +654,7 @@ sources_extra:
     url: "https://www.town.kannami.shizuoka.jp/gyosei/nyusatsu_keiyaku/"
     status: 未着手
     http: "—"
+    note: "函南/長泉の入札・契約ページを確認済。低頻度・個別公告。per-town精査要"
   - channel: "⑦"
     name: TRANBI（キャンプ場・アウトドア事業M&A）
     kind: 山林/キャンプ場(事業譲渡)
@@ -607,4 +697,10 @@ sources_extra:
     status: フェーズ2
     http: 200(JS)
     note: "React等のJS SPAで静的取得は0件。都道府県パラメータ(m_adr[]/pref)を変えても反応なし＝API化が必要。ブラウザ自動化候補。"
-    note: "函南/長泉の入札・契約ページを確認済。低頻度・個別公告。per-town精査要"
+  - channel: "④"
+    name: みんなの0円物件
+    kind: 0円譲渡
+    url: "https://zero.estate/category/zero/"
+    status: フェーズ2
+    http: 200(JS)
+    note: "React SPA(本文がJS描画・静的HTMLは空)。物件個別ページ/zero/{地域}/{slug}/は静的な可能性あり、sitemap.xml監視での実装余地。0円譲渡の山林・土地が出る本命チャネルなのでブラウザ自動化フェーズで再挑戦"
