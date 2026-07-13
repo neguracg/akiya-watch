@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_77740246/|加納 620万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県賀茂郡南伊豆町加納",
       "price_man": 620,
       "area_sqm": 256.0,
@@ -11,7 +11,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_79108111/|※松崎海水浴場まで約2.6km、車で約５分で行くことができます。": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県賀茂郡松崎町櫻田",
       "price_man": 990,
       "area_sqm": 548.7,
@@ -20,7 +20,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_66521056/|川津筏場 2500万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県賀茂郡河津町川津筏場",
       "price_man": 2500,
       "area_sqm": 811.0,
@@ -29,7 +29,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_72755666/|稲取（伊豆稲取駅） 1億800万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県賀茂郡東伊豆町稲取",
       "price_man": 10800,
       "area_sqm": 36898.3,
@@ -38,7 +38,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_20783171/|☆　約2000坪の広大な敷地です。　　→住宅用地や事業用地におすすめです。": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県賀茂郡西伊豆町仁科",
       "price_man": 11000,
       "area_sqm": 6593.3,
@@ -46,6 +46,6 @@
       "text": "☆　約2000坪の広大な敷地です。　　→住宅用地や事業用地におすすめです。"
     }
   },
-  "hash": "cc429a4d7b4d7329",
-  "fetched_at": "2026-07-12T23:01:09.157582"
+  "hash": "a547acab4c4afd19",
+  "fetched_at": "2026-07-13T23:10:48.450442"
 }

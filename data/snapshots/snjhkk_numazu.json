@@ -1,8 +1,44 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59258/index.html|静岡県沼津市西熊堂": {
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "location": "静岡県沼津市西熊堂",
+      "price_man": 1980,
+      "area_sqm": 303.7,
+      "url": "https://www.snjhkk.com/s_r_59258/index.html",
+      "text": "静岡県沼津市西熊堂"
+    },
+    "https://www.snjhkk.com/s_r_59257/index.html|静岡県沼津市小林台": {
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "location": "静岡県沼津市小林台",
+      "price_man": 3180,
+      "area_sqm": 106.0,
+      "url": "https://www.snjhkk.com/s_r_59257/index.html",
+      "text": "静岡県沼津市小林台"
+    },
+    "https://www.snjhkk.com/s_r_59256/index.html|静岡県沼津市下河原町": {
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "location": "静岡県沼津市下河原町",
+      "price_man": 2980,
+      "area_sqm": 180.4,
+      "url": "https://www.snjhkk.com/s_r_59256/index.html",
+      "text": "静岡県沼津市下河原町"
+    },
+    "https://www.snjhkk.com/s_r_59255/index.html|静岡県沼津市大塚": {
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "location": "静岡県沼津市大塚",
+      "price_man": 2680,
+      "area_sqm": 161.6,
+      "url": "https://www.snjhkk.com/s_r_59255/index.html",
+      "text": "静岡県沼津市大塚"
+    },
     "https://www.snjhkk.com/s_r_59245/index.html|静岡県沼津市下香貫大久保": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県沼津市下香貫大久保",
       "price_man": 2998,
       "area_sqm": 477.1,
@@ -11,7 +47,7 @@
     },
     "https://www.snjhkk.com/s_r_59237/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県沼津市大岡",
       "price_man": 1450,
       "area_sqm": null,
@@ -20,7 +56,7 @@
     },
     "https://www.snjhkk.com/s_r_59236/index.html|静岡県沼津市原": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-12",
+      "last_seen": "2026-07-13",
       "location": "静岡県沼津市原",
       "price_man": 5200,
       "area_sqm": null,
@@ -28,6 +64,6 @@
       "text": "静岡県沼津市原"
     }
   },
-  "hash": "fffe8a559ddad534",
-  "fetched_at": "2026-07-12T22:57:12.287170"
+  "hash": "a9213e434c7e774c",
+  "fetched_at": "2026-07-13T23:07:06.647067"
 }

@@ -1,15 +1,4 @@
 {
-  "https://www.homes.co.jp/kodate/b-1265050002583/|函南町上沢中古住宅": {
-    "first_seen": "2026-07-10",
-    "last_seen": "2026-07-10",
-    "location": "函南町上沢中古住宅",
-    "price_man": 954,
-    "area_sqm": 258.0,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002583/",
-    "text": "函南町上沢中古住宅",
-    "removed_on": "2026-07-11",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
   "https://www.homes.co.jp/kodate/b-33307660000173/|JR東海道本線 函南駅 徒歩35分": {
     "first_seen": "2026-07-10",
     "last_seen": "2026-07-10",
@@ -30,6 +19,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1490460002370/",
     "text": "函南町平井　中古戸建",
     "removed_on": "2026-07-11",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1111450005655/|南箱根ダイヤランド　売戸建": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-12",
+    "location": "南箱根ダイヤランド　売戸建",
+    "price_man": 1380,
+    "area_sqm": 539.1,
+    "url": "https://www.homes.co.jp/kodate/b-1111450005655/",
+    "text": "南箱根ダイヤランド　売戸建",
+    "removed_on": "2026-07-13",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

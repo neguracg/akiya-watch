@@ -527,15 +527,26 @@
     "removed_on": "2026-07-10",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/|６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。": {
-    "first_seen": "2026-07-06",
-    "last_seen": "2026-07-11",
-    "location": "静岡県三島市長伏",
-    "price_man": 15800,
-    "area_sqm": 2131.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/",
-    "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
-    "removed_on": "2026-07-12",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/|三恵台（三島二日町駅） 1980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-12",
+    "location": "静岡県三島市三恵台",
+    "price_man": 1980,
+    "area_sqm": 202.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/",
+    "text": "三恵台（三島二日町駅） 1980万円",
+    "removed_on": "2026-07-13",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21025584/|【売買も賃貸もShow不動産】三島市谷田　中古戸建【リフォーム済み】": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-12",
+    "location": "静岡県三島市谷田2005-7",
+    "price_man": 2600,
+    "area_sqm": 181.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21025584/",
+    "text": "【売買も賃貸もShow不動産】三島市谷田　中古戸建【リフォーム済み】",
+    "removed_on": "2026-07-13",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

@@ -86,5 +86,16 @@
     "text": "旭ヶ丘（三島駅） 2580万円",
     "removed_on": "2026-07-07",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/|南二日町（三島二日町駅） 販売価格未定": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-07-12",
+    "location": "静岡県三島市南二日町",
+    "price_man": null,
+    "area_sqm": 169.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/",
+    "text": "南二日町（三島二日町駅） 販売価格未定",
+    "removed_on": "2026-07-13",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

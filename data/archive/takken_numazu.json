@@ -251,5 +251,27 @@
     "text": "売マンション 沼津市岡一色270-1",
     "removed_on": "2026-07-11",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162011/settle/1|売土地 沼津市青野": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-12",
+    "location": "沼津市青野",
+    "price_man": 880,
+    "area_sqm": 186.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162011/settle/1",
+    "text": "売土地 沼津市青野",
+    "removed_on": "2026-07-13",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151517/settle/1|売土地 沼津市千本緑町１丁目23-3": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-12",
+    "location": "沼津市千本緑町１丁目23-3",
+    "price_man": 850,
+    "area_sqm": 132.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151517/settle/1",
+    "text": "売土地 沼津市千本緑町１丁目23-3",
+    "removed_on": "2026-07-13",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }
