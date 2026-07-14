@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76806211/|生活便利": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "location": "静岡県下田市高馬",
       "price_man": 325,
       "area_sqm": 223.6,
@@ -11,7 +11,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_79192897/|蓮台寺 400万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "location": "静岡県下田市蓮台寺",
       "price_man": 400,
       "area_sqm": 132.9,
@@ -20,7 +20,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/|白浜 880万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "location": "静岡県下田市白浜",
       "price_man": 880,
       "area_sqm": 232.0,
@@ -29,7 +29,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/|河内（蓮台寺駅） 880万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "location": "静岡県下田市河内",
       "price_man": 880,
       "area_sqm": 185.0,
@@ -38,7 +38,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110858/|須崎 4330万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-14",
       "location": "静岡県下田市須崎",
       "price_man": 4330,
       "area_sqm": 8193.0,
@@ -46,6 +46,6 @@
       "text": "須崎 4330万円"
     }
   },
-  "hash": "1be4b793bd01f046",
-  "fetched_at": "2026-07-13T23:09:11.619216"
+  "hash": "4e5b62fed32596ad",
+  "fetched_at": "2026-07-14T23:12:21.588797"
 }

@@ -9,5 +9,27 @@
     "text": "増川（神谷駅） 320万円",
     "removed_on": "2026-07-13",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20915048/|松岡（柚木駅） 1480万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-13",
+    "location": "静岡県富士市松岡1327-5",
+    "price_man": 1480,
+    "area_sqm": 219.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20915048/",
+    "text": "松岡（柚木駅） 1480万円",
+    "removed_on": "2026-07-14",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/|本町（富士駅） 2580万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-13",
+    "location": "静岡県富士市本町15-29",
+    "price_man": 2580,
+    "area_sqm": 235.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/",
+    "text": "本町（富士駅） 2580万円",
+    "removed_on": "2026-07-14",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

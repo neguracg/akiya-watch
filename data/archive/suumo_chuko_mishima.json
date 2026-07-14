@@ -516,17 +516,6 @@
     "removed_on": "2026-07-10",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20757963/|北田町（三島田町駅） 5200万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-09",
-    "location": "静岡県三島市北田町",
-    "price_man": 5200,
-    "area_sqm": 255.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20757963/",
-    "text": "北田町（三島田町駅） 5200万円",
-    "removed_on": "2026-07-10",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/|三恵台（三島二日町駅） 1980万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-12",
@@ -547,6 +536,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21025584/",
     "text": "【売買も賃貸もShow不動産】三島市谷田　中古戸建【リフォーム済み】",
     "removed_on": "2026-07-13",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21053156/|リフォーム済の綺麗な室内♪カウンターテーブルのある広々としたリビング！！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-13",
+    "location": "静岡県三島市徳倉２",
+    "price_man": 2480,
+    "area_sqm": 155.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21053156/",
+    "text": "リフォーム済の綺麗な室内♪カウンターテーブルのある広々としたリビング！！",
+    "removed_on": "2026-07-14",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/|株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23帖、全部屋6帖以": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-13",
+    "location": "静岡県三島市富士見台18-4",
+    "price_man": 2500,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/",
+    "text": "株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23帖、全部屋6帖以",
+    "removed_on": "2026-07-14",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851889/|駐車並列3台可能！築12年物件が月々7万円台から登場！各部屋に収納スペースを完": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-13",
+    "location": "静岡県三島市谷田2005-7",
+    "price_man": 2600,
+    "area_sqm": 181.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851889/",
+    "text": "駐車並列3台可能！築12年物件が月々7万円台から登場！各部屋に収納スペースを完",
+    "removed_on": "2026-07-14",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

@@ -120,17 +120,6 @@
     "removed_on": "2026-07-10",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪": {
-    "first_seen": "2026-07-09",
-    "last_seen": "2026-07-09",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪",
-    "removed_on": "2026-07-10",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/|二ツ屋（裾野駅） 1680万円": {
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-11",
@@ -139,17 +128,6 @@
     "area_sqm": 304.0,
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/",
     "text": "二ツ屋（裾野駅） 1680万円",
-    "removed_on": "2026-07-12",
-    "site_name": "SUUMO 土地 裾野市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_76414396/|事業用地として、２３５２㎡（７１１坪）の広さが魅力の土地。": {
-    "first_seen": "2026-06-24",
-    "last_seen": "2026-07-11",
-    "location": "静岡県裾野市金沢",
-    "price_man": 5000,
-    "area_sqm": 2353.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_76414396/",
-    "text": "事業用地として、２３５２㎡（７１１坪）の広さが魅力の土地。",
     "removed_on": "2026-07-12",
     "site_name": "SUUMO 土地 裾野市"
   },
@@ -162,6 +140,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "建築条件なし！富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪",
     "removed_on": "2026-07-13",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪建築条件なし！": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-13",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪建築条件なし！",
+    "removed_on": "2026-07-14",
     "site_name": "SUUMO 土地 裾野市"
   }
 }
