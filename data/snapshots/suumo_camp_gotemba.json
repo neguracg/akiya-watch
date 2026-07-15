@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73016982/|【ミサワホーム】御殿場市二の岡/土地残り2区画！分譲住宅見学可（予約制）": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市二の岡１",
       "price_man": 1750,
       "area_sqm": 182.1,
@@ -11,7 +11,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_77793448/|中畑（御殿場駅） 480万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市中畑",
       "price_man": 480,
       "area_sqm": 1156.4,
@@ -20,7 +20,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_76207702/|中畑 680万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市中畑1384-34",
       "price_man": 680,
       "area_sqm": 240.0,
@@ -29,7 +29,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73371293/|中畑 800万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市中畑1384番33",
       "price_man": 800,
       "area_sqm": 254.0,
@@ -38,25 +38,16 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21224497/|萩原 990万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市萩原３３９－１",
       "price_man": 990,
       "area_sqm": 254.4,
       "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21224497/",
       "text": "萩原 990万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_78935211/|西田中（御殿場駅） 1300万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
-      "location": "静岡県御殿場市西田中572番8",
-      "price_man": 1300,
-      "area_sqm": 205.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_78935211/",
-      "text": "西田中（御殿場駅） 1300万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20745623/|☆広々とした第２東名高速道路の側道沿い": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市川島田",
       "price_man": 1580,
       "area_sqm": 254.8,
@@ -65,7 +56,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_76529568/|この景色に、暮らすという贅沢～富士山のふもとで始める新しい日常～": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市塚原",
       "price_man": 1585,
       "area_sqm": 338.1,
@@ -74,7 +65,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20958950/|御殿場（御殿場駅） 1600万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市御殿場４３９－２",
       "price_man": 1600,
       "area_sqm": 169.6,
@@ -83,7 +74,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_72332638/|二の岡１（御殿場駅） 1780万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市二の岡１",
       "price_man": 1780,
       "area_sqm": 185.6,
@@ -92,7 +83,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20594958/|川島田（御殿場駅） 1800万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市川島田",
       "price_man": 1800,
       "area_sqm": 206.0,
@@ -101,7 +92,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20682350/|☆ゆとりある74坪の住宅用地☆　お好きなハウスメーカで建てて下さい！": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市萩原",
       "price_man": 2180,
       "area_sqm": 247.4,
@@ -110,7 +101,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20730422/|☆JAふじ伊豆ファーマーズ御殿場やカインズホーム徒歩圏内": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-14",
+      "last_seen": "2026-07-15",
       "location": "静岡県御殿場市茱萸沢",
       "price_man": 6800,
       "area_sqm": 1003.2,
@@ -118,6 +109,6 @@
       "text": "☆JAふじ伊豆ファーマーズ御殿場やカインズホーム徒歩圏内"
     }
   },
-  "hash": "7d8d2865d6a40c49",
-  "fetched_at": "2026-07-14T23:12:16.830680"
+  "hash": "2955dabed5a678f1",
+  "fetched_at": "2026-07-15T23:11:56.023037"
 }

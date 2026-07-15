@@ -273,5 +273,16 @@
     "text": "売土地 沼津市千本緑町１丁目23-3",
     "removed_on": "2026-07-13",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172532/settle/1|新築売住宅 沼津市岡一色": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-14",
+    "location": "沼津市岡一色",
+    "price_man": 3880,
+    "area_sqm": 141.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172532/settle/1",
+    "text": "新築売住宅 沼津市岡一色",
+    "removed_on": "2026-07-15",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }
