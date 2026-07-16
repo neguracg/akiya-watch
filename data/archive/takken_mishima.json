@@ -152,5 +152,49 @@
     "text": "売土地 三島市佐野57-1",
     "removed_on": "2026-07-13",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166515/settle/1|売土地 三島市若松町4298-7": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-15",
+    "location": "三島市若松町4298-7",
+    "price_man": 880,
+    "area_sqm": 106.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166515/settle/1",
+    "text": "売土地 三島市若松町4298-7",
+    "removed_on": "2026-07-16",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173654/settle/1|売マンション 三島市東町": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-15",
+    "location": "三島市東町",
+    "price_man": 2290,
+    "area_sqm": 72.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173654/settle/1",
+    "text": "売マンション 三島市東町",
+    "removed_on": "2026-07-16",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170941/settle/1|売住宅 三島市東本町１丁目": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-15",
+    "location": "三島市東本町１丁目",
+    "price_man": 4980,
+    "area_sqm": 264.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170941/settle/1",
+    "text": "売住宅 三島市東本町１丁目",
+    "removed_on": "2026-07-16",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170940/settle/1|売土地 三島市東本町１丁目": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-15",
+    "location": "三島市東本町１丁目",
+    "price_man": 4980,
+    "area_sqm": 264.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170940/settle/1",
+    "text": "売土地 三島市東本町１丁目",
+    "removed_on": "2026-07-16",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

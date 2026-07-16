@@ -10,37 +10,70 @@
     "removed_on": "2026-07-13",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20915048/|松岡（柚木駅） 1480万円": {
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069829/|横割４（富士駅） 1450万円": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "location": "静岡県富士市松岡1327-5",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
+    "price_man": 1450,
+    "area_sqm": 145.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069829/",
+    "text": "横割４（富士駅） 1450万円",
+    "removed_on": "2026-07-16",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069841/|横割４（富士駅） 1480万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
     "price_man": 1480,
-    "area_sqm": 219.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20915048/",
-    "text": "松岡（柚木駅） 1480万円",
-    "removed_on": "2026-07-14",
+    "area_sqm": 150.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069841/",
+    "text": "横割４（富士駅） 1480万円",
+    "removed_on": "2026-07-16",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/|本町（富士駅） 2580万円": {
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069859/|横割４（富士駅） 1530万円": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-13",
-    "location": "静岡県富士市本町15-29",
-    "price_man": 2580,
-    "area_sqm": 235.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/",
-    "text": "本町（富士駅） 2580万円",
-    "removed_on": "2026-07-14",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
+    "price_man": 1530,
+    "area_sqm": 154.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069859/",
+    "text": "横割４（富士駅） 1530万円",
+    "removed_on": "2026-07-16",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/|【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！": {
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069845/|横割４（富士駅） 1590万円": {
     "first_seen": "2026-07-12",
-    "last_seen": "2026-07-14",
-    "location": "静岡県富士市本市場",
-    "price_man": null,
-    "area_sqm": 157.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/",
-    "text": "【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！",
-    "removed_on": "2026-07-15",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
+    "price_man": 1590,
+    "area_sqm": 159.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069845/",
+    "text": "横割４（富士駅） 1590万円",
+    "removed_on": "2026-07-16",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069930/|横割４（富士駅） 1590万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
+    "price_man": 1590,
+    "area_sqm": 164.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069930/",
+    "text": "横割４（富士駅） 1590万円",
+    "removed_on": "2026-07-16",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069879/|横割４（富士駅） 1590万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-15",
+    "location": "静岡県富士市横割４",
+    "price_man": 1590,
+    "area_sqm": 163.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069879/",
+    "text": "横割４（富士駅） 1590万円",
+    "removed_on": "2026-07-16",
     "site_name": "SUUMO 土地 富士市"
   }
 }

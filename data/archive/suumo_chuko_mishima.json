@@ -516,17 +516,6 @@
     "removed_on": "2026-07-10",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/|三恵台（三島二日町駅） 1980万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-12",
-    "location": "静岡県三島市三恵台",
-    "price_man": 1980,
-    "area_sqm": 202.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/",
-    "text": "三恵台（三島二日町駅） 1980万円",
-    "removed_on": "2026-07-13",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21025584/|【売買も賃貸もShow不動産】三島市谷田　中古戸建【リフォーム済み】": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-12",
@@ -569,6 +558,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20851889/",
     "text": "駐車並列3台可能！築12年物件が月々7万円台から登場！各部屋に収納スペースを完",
     "removed_on": "2026-07-14",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78826287/|【リフォーム完成しました！】駐車並列3台可能！各部屋に収納スペースを完備！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-15",
+    "location": "静岡県三島市谷田",
+    "price_man": 2600,
+    "area_sqm": 181.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78826287/",
+    "text": "【リフォーム完成しました！】駐車並列3台可能！各部屋に収納スペースを完備！",
+    "removed_on": "2026-07-16",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|7/10写真更新●萩リフォーム住宅/9月完成●眺望良好♪現地案内受付中！": {
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-15",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
+    "text": "7/10写真更新●萩リフォーム住宅/9月完成●眺望良好♪現地案内受付中！",
+    "removed_on": "2026-07-16",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

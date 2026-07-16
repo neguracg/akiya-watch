@@ -2,7 +2,7 @@
   "keys": {
     "https://www.homes.co.jp/kodate/b-33307660000201/|JR御殿場線 下土狩駅 徒歩10分": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "JR御殿場線 下土狩駅 徒歩10分",
       "price_man": 2400,
       "area_sqm": 224.0,
@@ -11,16 +11,25 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002391/|長泉町本宿中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町本宿中古住宅",
       "price_man": 4180,
       "area_sqm": 196.9,
       "url": "https://www.homes.co.jp/kodate/b-1265050002391/",
       "text": "長泉町本宿中古住宅"
     },
+    "https://www.homes.co.jp/kodate/b-93060000081/|長泉町上土狩中古戸建": {
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-16",
+      "location": "長泉町上土狩中古戸建",
+      "price_man": 3980,
+      "area_sqm": 165.4,
+      "url": "https://www.homes.co.jp/kodate/b-93060000081/",
+      "text": "長泉町上土狩中古戸建"
+    },
     "https://www.homes.co.jp/kodate/b-1500050000354/|売中古戸建　駿東郡長泉町下土狩": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "売中古戸建　駿東郡長泉町下土狩",
       "price_man": 3200,
       "area_sqm": 132.5,
@@ -29,7 +38,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33320790000070/|JR御殿場線 長泉なめり駅 5.4km": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "JR御殿場線 長泉なめり駅 5.4km",
       "price_man": 2700,
       "area_sqm": 883.9,
@@ -38,7 +47,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050001830/|長泉町東野中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町東野中古住宅",
       "price_man": 1998,
       "area_sqm": 299.0,
@@ -47,7 +56,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002641/|長泉町上土狩中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町上土狩中古住宅",
       "price_man": 4180,
       "area_sqm": 219.6,
@@ -56,7 +65,7 @@
     },
     "https://www.homes.co.jp/kodate/b-89420000416/|長泉町東野中古戸建": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町東野中古戸建",
       "price_man": 2780,
       "area_sqm": 835.8,
@@ -65,7 +74,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002502/|長泉町東野中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町東野中古住宅",
       "price_man": 5800,
       "area_sqm": 830.6,
@@ -74,7 +83,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002500/|長泉町東野中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町東野中古住宅",
       "price_man": 6890,
       "area_sqm": 1058.3,
@@ -83,34 +92,34 @@
     },
     "https://www.homes.co.jp/kodate/b-1500050000369/|売中古戸建　駿東郡長泉町元長窪": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "売中古戸建　駿東郡長泉町元長窪",
       "price_man": 680,
       "area_sqm": 209.7,
       "url": "https://www.homes.co.jp/kodate/b-1500050000369/",
       "text": "売中古戸建　駿東郡長泉町元長窪"
     },
-    "https://www.homes.co.jp/kodate/b-1292700001103/|スルガ平　戸建て": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
-      "location": "スルガ平　戸建て",
-      "price_man": 12800,
-      "area_sqm": 631.6,
-      "url": "https://www.homes.co.jp/kodate/b-1292700001103/",
-      "text": "スルガ平　戸建て"
-    },
     "https://www.homes.co.jp/kodate/b-1265050002597/|長泉町東野中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "長泉町東野中古住宅",
       "price_man": 12800,
       "area_sqm": 631.6,
       "url": "https://www.homes.co.jp/kodate/b-1265050002597/",
       "text": "長泉町東野中古住宅"
     },
+    "https://www.homes.co.jp/kodate/b-1292700001103/|スルガ平　戸建て": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-16",
+      "location": "スルガ平　戸建て",
+      "price_man": 12800,
+      "area_sqm": 631.6,
+      "url": "https://www.homes.co.jp/kodate/b-1292700001103/",
+      "text": "スルガ平　戸建て"
+    },
     "https://www.homes.co.jp/kodate/b-1455260000537/|太陽工発電搭載デグチエステート駿東郡長泉町東野中古住宅": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "太陽工発電搭載デグチエステート駿東郡長泉町東野中古住宅",
       "price_man": 26000,
       "area_sqm": 4107.9,
@@ -119,7 +128,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1500050000513/|売中古戸建　駿東郡長泉町下長窪": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-15",
+      "last_seen": "2026-07-16",
       "location": "売中古戸建　駿東郡長泉町下長窪",
       "price_man": 24000,
       "area_sqm": 2000.2,
@@ -127,6 +136,6 @@
       "text": "売中古戸建　駿東郡長泉町下長窪"
     }
   },
-  "hash": "9f8a6ae1d24c1c97",
-  "fetched_at": "2026-07-15T23:12:15.598380"
+  "hash": "4a60f8a7725d059e",
+  "fetched_at": "2026-07-16T23:11:38.901659"
 }
