@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59259/index.html|静岡県三島市芙蓉台3丁目": {
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県三島市芙蓉台3丁目",
       "price_man": 1480,
       "area_sqm": 280.5,
@@ -11,7 +11,7 @@
     },
     "https://www.snjhkk.com/s_r_59235/index.html|静岡県三島市東町": {
       "first_seen": "2026-07-11",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県三島市東町",
       "price_man": 4500,
       "area_sqm": null,
@@ -20,7 +20,7 @@
     },
     "https://www.snjhkk.com/s_r_59162/index.html|静岡県三島市松が丘": {
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県三島市松が丘",
       "price_man": 2690,
       "area_sqm": null,
@@ -29,7 +29,7 @@
     },
     "https://www.snjhkk.com/s_r_59158/index.html|静岡県三島市徳倉5丁目": {
       "first_seen": "2026-07-06",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県三島市徳倉5丁目",
       "price_man": 3998,
       "area_sqm": 205.9,
@@ -38,14 +38,23 @@
     },
     "https://www.snjhkk.com/s_r_59154/index.html|静岡県三島市萩": {
       "first_seen": "2026-07-03",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県三島市萩",
       "price_man": 1080,
       "area_sqm": null,
       "url": "https://www.snjhkk.com/s_r_59154/index.html",
       "text": "静岡県三島市萩"
+    },
+    "https://www.snjhkk.com/s_r_59097/index.html|静岡県三島市西若町": {
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-07-17",
+      "location": "静岡県三島市西若町",
+      "price_man": 1630,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59097/index.html",
+      "text": "静岡県三島市西若町"
     }
   },
-  "hash": "8e5304e6f12c4b3f",
-  "fetched_at": "2026-07-16T23:00:04.235804"
+  "hash": "c60902c8e8acd1ed",
+  "fetched_at": "2026-07-17T22:50:09.136467"
 }

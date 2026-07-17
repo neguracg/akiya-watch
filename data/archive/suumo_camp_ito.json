@@ -9,5 +9,49 @@
     "text": "富戸（城ヶ崎海岸駅） 2億9500万円",
     "removed_on": "2026-07-13",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/|鎌田（南伊東駅） 540万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-16",
+    "location": "静岡県伊東市鎌田",
+    "price_man": 540,
+    "area_sqm": 119.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/",
+    "text": "鎌田（南伊東駅） 540万円",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181443/|富戸（富戸駅） 620万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-16",
+    "location": "静岡県伊東市富戸",
+    "price_man": 620,
+    "area_sqm": 230.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181443/",
+    "text": "富戸（富戸駅） 620万円",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74959047/|富戸（城ヶ崎海岸駅） 780万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-16",
+    "location": "静岡県伊東市富戸",
+    "price_man": 780,
+    "area_sqm": 660.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74959047/",
+    "text": "富戸（城ヶ崎海岸駅） 780万円",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/|川奈（川奈駅） 1880万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-16",
+    "location": "静岡県伊東市川奈",
+    "price_man": 1880,
+    "area_sqm": 879.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/",
+    "text": "川奈（川奈駅） 1880万円",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

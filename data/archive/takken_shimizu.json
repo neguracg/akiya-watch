@@ -42,5 +42,16 @@
     "text": "売土地 駿東郡清水町中徳倉",
     "removed_on": "2026-07-09",
     "site_name": "空き家バンクしずおか 清水町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174345/settle/1|新築売住宅 駿東郡清水町徳倉67-10": {
+    "first_seen": "2026-06-18",
+    "last_seen": "2026-07-16",
+    "location": "駿東郡清水町徳倉67-10",
+    "price_man": 2590,
+    "area_sqm": 128.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174345/settle/1",
+    "text": "新築売住宅 駿東郡清水町徳倉67-10",
+    "removed_on": "2026-07-17",
+    "site_name": "空き家バンクしずおか 清水町"
   }
 }

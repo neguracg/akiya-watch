@@ -207,5 +207,27 @@
     "text": "平井南箱根ダイヤランド 2950万円",
     "removed_on": "2026-07-04",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/|丹那 980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-16",
+    "location": "静岡県田方郡函南町丹那",
+    "price_man": 980,
+    "area_sqm": 342.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/",
+    "text": "丹那 980万円",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75024707/|富士山望む一戸建別荘　駐車場１台分。外装と一部内装リフォーム後にお引渡し。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-16",
+    "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
+    "price_man": 980,
+    "area_sqm": 379.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75024707/",
+    "text": "富士山望む一戸建別荘　駐車場１台分。外装と一部内装リフォーム後にお引渡し。",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

@@ -2,7 +2,7 @@
   "keys": {
     "https://manokaihatsu.com/estate/post-1608/|沼津市東椎路1493-5": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "沼津市東椎路1493-5",
       "price_man": 500,
       "area_sqm": 66.9,
@@ -11,7 +11,7 @@
     },
     "https://manokaihatsu.com/estate/post-1391/|裾野市金沢字中道251-1・他": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "裾野市金沢字中道251-1・他",
       "price_man": 1100,
       "area_sqm": 339.3,
@@ -20,7 +20,7 @@
     },
     "https://manokaihatsu.com/estate/post-1184/|駿東郡長泉町中土狩": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "駿東郡長泉町中土狩",
       "price_man": 3480,
       "area_sqm": 190.0,
@@ -29,7 +29,7 @@
     },
     "https://manokaihatsu.com/estate/post-1177/|沼津市東原": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "沼津市東原",
       "price_man": 580,
       "area_sqm": 175.7,
@@ -38,7 +38,7 @@
     },
     "https://manokaihatsu.com/estate/post-1175/|田方郡函南町仁田10-13": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "田方郡函南町仁田10-13",
       "price_man": 2300,
       "area_sqm": 187.0,
@@ -47,5 +47,5 @@
     }
   },
   "hash": "a58b15d7af3ae76c",
-  "fetched_at": "2026-07-16T23:01:23.942493"
+  "fetched_at": "2026-07-17T22:51:31.984932"
 }

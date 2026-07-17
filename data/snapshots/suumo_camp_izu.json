@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_20839983/|湯ケ島 300万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市湯ケ島",
       "price_man": 300,
       "area_sqm": 414.5,
@@ -11,7 +11,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_78232131/|湯ケ島 650万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市湯ケ島",
       "price_man": 650,
       "area_sqm": 1368.6,
@@ -20,7 +20,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_79002295/|柏久保（修善寺駅） 730万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市柏久保",
       "price_man": 730,
       "area_sqm": 153.4,
@@ -29,7 +29,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_78841131/|修善寺駅徒歩7分、電車利用の通勤・通学にも便利です。小中学校徒歩で通えます": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市柏久保",
       "price_man": 780,
       "area_sqm": 196.5,
@@ -38,7 +38,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_20069830/|柏久保（修善寺駅） 900万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市柏久保",
       "price_man": 900,
       "area_sqm": 257.2,
@@ -47,7 +47,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_20748163/|牧之郷（大仁駅） 970万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市牧之郷",
       "price_man": 970,
       "area_sqm": 188.2,
@@ -56,7 +56,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_76312170/|修善寺駅徒歩４分の更地！前面道路国道": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市修善寺",
       "price_man": 1080,
       "area_sqm": 217.0,
@@ -65,7 +65,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_76850124/|JA中伊豆温泉病院まで車で2分、アパートでも建てたくなる200坪の宅地です。ここ": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市下白岩",
       "price_man": 1200,
       "area_sqm": 670.4,
@@ -74,7 +74,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izu/nc_21208604/|熊坂（大仁駅） 3685万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆市熊坂",
       "price_man": 3685,
       "area_sqm": 1015.1,
@@ -82,6 +82,6 @@
       "text": "熊坂（大仁駅） 3685万円"
     }
   },
-  "hash": "a45f55772479cd02",
-  "fetched_at": "2026-07-16T23:09:14.483773"
+  "hash": "f02db288aefaaf4d",
+  "fetched_at": "2026-07-17T22:59:38.326630"
 }

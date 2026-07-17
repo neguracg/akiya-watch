@@ -329,28 +329,6 @@
     "removed_on": "2026-07-10",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77146733/|石脇（裾野駅） 2550万円": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-12",
-    "location": "静岡県裾野市石脇",
-    "price_man": 2550,
-    "area_sqm": 165.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77146733/",
-    "text": "石脇（裾野駅） 2550万円",
-    "removed_on": "2026-07-13",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-15",
-    "location": "静岡県裾野市深良",
-    "price_man": 850,
-    "area_sqm": 177.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
-    "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
-    "removed_on": "2026-07-16",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20974864/|◇◆＼オールフローリング＆並列3台駐車可／◆◇月々6万円台からの家♪": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-07-15",
@@ -360,6 +338,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20974864/",
     "text": "◇◆＼オールフローリング＆並列3台駐車可／◆◇月々6万円台からの家♪",
     "removed_on": "2026-07-16",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20388340/|富士山の雄姿と桜並木の彩り。四季の移ろいを感じる穏やかな環境。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-16",
+    "location": "静岡県裾野市深良",
+    "price_man": 3280,
+    "area_sqm": 322.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20388340/",
+    "text": "富士山の雄姿と桜並木の彩り。四季の移ろいを感じる穏やかな環境。",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20940913/|2025年3月建築の築浅物件。裾野駅、スーパーいずれも徒歩10分の好立地♪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-16",
+    "location": "静岡県裾野市佐野",
+    "price_man": 4498,
+    "area_sqm": 177.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20940913/",
+    "text": "2025年3月建築の築浅物件。裾野駅、スーパーいずれも徒歩10分の好立地♪",
+    "removed_on": "2026-07-17",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20674925/|呼子２ 1300万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-16",
+    "location": "静岡県裾野市呼子２",
+    "price_man": 1300,
+    "area_sqm": 227.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20674925/",
+    "text": "呼子２ 1300万円",
+    "removed_on": "2026-07-17",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

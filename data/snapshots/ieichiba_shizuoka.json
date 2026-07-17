@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202500691%E5%87%BD%E5%8D%97%E7%94%BA%E5%B9%B3%E4%BA%95A2|静岡県函南町": {
       "first_seen": "2026-07-07",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県函南町",
       "price_man": 222,
       "area_sqm": null,
@@ -11,7 +11,7 @@
     },
     "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K|静岡県伊豆の国市": {
       "first_seen": "2026-06-22",
-      "last_seen": "2026-07-16",
+      "last_seen": "2026-07-17",
       "location": "静岡県伊豆の国市",
       "price_man": 2680,
       "area_sqm": null,
@@ -19,6 +19,6 @@
       "text": "静岡県伊豆の国市"
     }
   },
-  "hash": "4fa1348697f3a62a",
-  "fetched_at": "2026-07-16T22:57:56.737143"
+  "hash": "7138dcf366f6f36b",
+  "fetched_at": "2026-07-17T22:47:57.064115"
 }
