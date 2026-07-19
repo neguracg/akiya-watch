@@ -1,15 +1,5 @@
 {
-  "keys": {
-    "https://www.ieichiba.com/project/P202300767%E4%BC%8A%E6%9D%B1%E5%B2%A1K|静岡県伊東市": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-18",
-      "location": "静岡県伊東市",
-      "price_man": 400,
-      "area_sqm": null,
-      "url": "https://www.ieichiba.com/project/P202300767%E4%BC%8A%E6%9D%B1%E5%B2%A1K",
-      "text": "静岡県伊東市"
-    }
-  },
-  "hash": "2fa861c091dbf3fa",
-  "fetched_at": "2026-07-18T22:59:44.136683"
+  "keys": {},
+  "hash": "173e3d585ffff2bd",
+  "fetched_at": "2026-07-19T23:02:20.237146"
 }

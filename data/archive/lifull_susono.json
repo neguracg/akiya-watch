@@ -43,39 +43,6 @@
     "removed_on": "2026-07-16",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1468010001208/|裾野市桃園 (裾野駅)": {
-    "first_seen": "2026-07-04",
-    "last_seen": "2026-07-16",
-    "location": "裾野市桃園 (裾野駅)",
-    "price_man": 580,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1468010001208/",
-    "text": "裾野市桃園 (裾野駅)",
-    "removed_on": "2026-07-17",
-    "site_name": "LIFULL 土地 裾野市"
-  },
-  "https://www.homes.co.jp/tochi/b-1316560003941/|裾野市須山 (御殿場駅)": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-16",
-    "location": "裾野市須山 (御殿場駅)",
-    "price_man": 100,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1316560003941/",
-    "text": "裾野市須山 (御殿場駅)",
-    "removed_on": "2026-07-17",
-    "site_name": "LIFULL 土地 裾野市"
-  },
-  "https://www.homes.co.jp/tochi/b-1316560004185/|裾野市須山 (御殿場駅)": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-16",
-    "location": "裾野市須山 (御殿場駅)",
-    "price_man": 150,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1316560004185/",
-    "text": "裾野市須山 (御殿場駅)",
-    "removed_on": "2026-07-17",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-1265050002122/|裾野市金沢 (岩波駅)": {
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-16",
@@ -109,17 +76,6 @@
     "removed_on": "2026-07-17",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-37070020003429/|裾野市須山 (御殿場駅)": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-07-17",
-    "location": "裾野市須山 (御殿場駅)",
-    "price_man": 150,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-37070020003429/",
-    "text": "裾野市須山 (御殿場駅)",
-    "removed_on": "2026-07-18",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-1564140000168/|裾野市須山 (南御殿場駅)": {
     "first_seen": "2026-07-17",
     "last_seen": "2026-07-17",
@@ -140,6 +96,50 @@
     "url": "https://www.homes.co.jp/tochi/b-1540930000131/",
     "text": "裾野市二ツ屋 (裾野駅)",
     "removed_on": "2026-07-18",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1366860000292/|裾野市千福が丘1丁目 (裾野駅)": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-18",
+    "location": "裾野市千福が丘1丁目 (裾野駅)",
+    "price_man": 850,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1366860000292/",
+    "text": "裾野市千福が丘1丁目 (裾野駅)",
+    "removed_on": "2026-07-19",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-33320560000008/|裾野市今里 (岩波駅)": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-07-18",
+    "location": "裾野市今里 (岩波駅)",
+    "price_man": 200,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33320560000008/",
+    "text": "裾野市今里 (岩波駅)",
+    "removed_on": "2026-07-19",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1401580003293/|裾野市須山 (御殿場駅)": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-07-18",
+    "location": "裾野市須山 (御殿場駅)",
+    "price_man": 480,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1401580003293/",
+    "text": "裾野市須山 (御殿場駅)",
+    "removed_on": "2026-07-19",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1265050002434/|裾野市茶畑 (裾野駅)": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-18",
+    "location": "裾野市茶畑 (裾野駅)",
+    "price_man": 1698,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1265050002434/",
+    "text": "裾野市茶畑 (裾野駅)",
+    "removed_on": "2026-07-19",
     "site_name": "LIFULL 土地 裾野市"
   }
 }

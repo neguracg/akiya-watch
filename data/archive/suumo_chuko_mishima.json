@@ -439,17 +439,6 @@
     "removed_on": "2026-07-06",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/|富士見台 2450万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-05",
-    "location": "静岡県三島市富士見台",
-    "price_man": 2450,
-    "area_sqm": 194.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/",
-    "text": "富士見台 2450万円",
-    "removed_on": "2026-07-06",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21065142/|加茂（三島駅） 4580万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-05",
@@ -613,6 +602,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78719236/",
     "text": "【リフォーム済み☆】●〇アトモ〇●いつでもご案内できます♪",
     "removed_on": "2026-07-18",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20859222/|佐野見晴台２（裾野駅） 1380万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-18",
+    "location": "静岡県三島市佐野見晴台２",
+    "price_man": 1380,
+    "area_sqm": 207.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20859222/",
+    "text": "佐野見晴台２（裾野駅） 1380万円",
+    "removed_on": "2026-07-19",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20396866/|徳倉（三島駅） 2050万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-18",
+    "location": "静岡県三島市徳倉",
+    "price_man": 2050,
+    "area_sqm": 168.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20396866/",
+    "text": "徳倉（三島駅） 2050万円",
+    "removed_on": "2026-07-19",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/|富士見台 2500万円": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-18",
+    "location": "静岡県三島市富士見台",
+    "price_man": 2500,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/",
+    "text": "富士見台 2500万円",
+    "removed_on": "2026-07-19",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

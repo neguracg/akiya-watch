@@ -53,5 +53,16 @@
     "text": "川奈（川奈駅） 1880万円",
     "removed_on": "2026-07-17",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/|玖須美元和田（川奈駅） 1100万円": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-07-18",
+    "location": "静岡県伊東市玖須美元和田716-839",
+    "price_man": 1100,
+    "area_sqm": 164.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/",
+    "text": "玖須美元和田（川奈駅） 1100万円",
+    "removed_on": "2026-07-19",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }
