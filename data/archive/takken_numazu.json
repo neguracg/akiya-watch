@@ -284,5 +284,16 @@
     "text": "売土地 沼津市大岡935-27",
     "removed_on": "2026-07-16",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128347/settle/1|売土地 沼津市足高441-1227": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-19",
+    "location": "沼津市足高441-1227",
+    "price_man": 600,
+    "area_sqm": 680.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128347/settle/1",
+    "text": "売土地 沼津市足高441-1227",
+    "removed_on": "2026-07-20",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

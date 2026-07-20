@@ -207,5 +207,27 @@
     "text": "売住宅 三島市佐野見晴台２丁目",
     "removed_on": "2026-07-19",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171665/settle/1|売住宅 三島市東大場２丁目": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-19",
+    "location": "三島市東大場２丁目",
+    "price_man": 1850,
+    "area_sqm": 261.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171665/settle/1",
+    "text": "売住宅 三島市東大場２丁目",
+    "removed_on": "2026-07-20",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1|売住宅 三島市青木381-16,15,14": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-19",
+    "location": "三島市青木381-16,15,14",
+    "price_man": 1300,
+    "area_sqm": 136.7,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1",
+    "text": "売住宅 三島市青木381-16,15,14",
+    "removed_on": "2026-07-20",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

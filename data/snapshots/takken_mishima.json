@@ -1,8 +1,26 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156680/settle/1|売土地 三島市文教町２丁目": {
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-07-20",
+      "location": "三島市文教町２丁目",
+      "price_man": 1800,
+      "area_sqm": 170.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156680/settle/1",
+      "text": "売土地 三島市文教町２丁目"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169641/settle/1|売土地 三島市旭ヶ丘": {
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-07-20",
+      "location": "三島市旭ヶ丘",
+      "price_man": 1480,
+      "area_sqm": 166.7,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169641/settle/1",
+      "text": "売土地 三島市旭ヶ丘"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173838/settle/1|売土地 三島市徳倉１丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉１丁目",
       "price_man": 4000,
       "area_sqm": 431.6,
@@ -11,7 +29,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173520/settle/1|売土地 三島市徳倉４丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉４丁目",
       "price_man": 1280,
       "area_sqm": 314.9,
@@ -20,7 +38,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175334/settle/1|売マンション 三島市松が丘": {
       "first_seen": "2026-07-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市松が丘",
       "price_man": 2690,
       "area_sqm": 73.8,
@@ -29,7 +47,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172666/settle/1|新築売住宅 三島市徳倉１丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉１丁目",
       "price_man": 3698,
       "area_sqm": 151.1,
@@ -38,7 +56,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175311/settle/1|売土地 三島市東本町１丁目": {
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市東本町１丁目",
       "price_man": 4980,
       "area_sqm": 264.5,
@@ -47,7 +65,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175310/settle/1|売住宅 三島市東本町１丁目": {
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市東本町１丁目",
       "price_man": 4980,
       "area_sqm": 264.5,
@@ -56,7 +74,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175308/settle/1|売土地 三島市若松町4298-7": {
       "first_seen": "2026-07-16",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市若松町4298-7",
       "price_man": 880,
       "area_sqm": 106.4,
@@ -65,7 +83,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173657/settle/1|売マンション 三島市加茂川町": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市加茂川町",
       "price_man": 2390,
       "area_sqm": 75.0,
@@ -74,7 +92,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171724/settle/1|売土地 三島市谷田1159-297": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市谷田1159-297",
       "price_man": 3500,
       "area_sqm": 490.1,
@@ -83,7 +101,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165606/settle/1|売タウンハウス 三島市若松町4624-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市若松町4624-1",
       "price_man": 1850,
       "area_sqm": 101.6,
@@ -92,7 +110,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172473/settle/1|売マンション 三島市若松町": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市若松町",
       "price_man": 1450,
       "area_sqm": 57.3,
@@ -101,7 +119,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/122539/settle/1|売住宅 三島市東本町２丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市東本町２丁目",
       "price_man": 3880,
       "area_sqm": 103.7,
@@ -110,7 +128,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168503/settle/1|売土地 三島市大場246-18": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市大場246-18",
       "price_man": 1990,
       "area_sqm": 172.4,
@@ -119,7 +137,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156884/settle/1|売土地 三島市幸原町２丁目": {
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市幸原町２丁目",
       "price_man": 1980,
       "area_sqm": 103.0,
@@ -128,7 +146,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139588/settle/1|売土地 三島市大場": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市大場",
       "price_man": 1050,
       "area_sqm": 286.8,
@@ -137,7 +155,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143019/settle/1|売事務所 三島市梅名608-4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市梅名608-4",
       "price_man": 8500,
       "area_sqm": 617.9,
@@ -146,7 +164,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148264/settle/1|売土地 三島市萩571": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市萩571",
       "price_man": 750,
       "area_sqm": 177.0,
@@ -155,7 +173,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56082/settle/1|売土地 三島市佐野見晴台１丁目1-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市佐野見晴台１丁目1-1",
       "price_man": 3800,
       "area_sqm": 680.5,
@@ -164,7 +182,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174999/settle/1|新築売住宅 三島市藤代町3-8": {
       "first_seen": "2026-07-06",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市藤代町3-8",
       "price_man": 2880,
       "area_sqm": 106.6,
@@ -173,7 +191,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170325/settle/1|売土地 三島市泉町": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市泉町",
       "price_man": 5180,
       "area_sqm": 197.6,
@@ -182,7 +200,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174903/settle/1|売住宅 三島市東町7-34": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市東町7-34",
       "price_man": 1780,
       "area_sqm": 120.5,
@@ -191,25 +209,16 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169694/settle/1|売住宅 三島市大場": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市大場",
       "price_man": 880,
       "area_sqm": 463.4,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169694/settle/1",
       "text": "売住宅 三島市大場"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171665/settle/1|売住宅 三島市東大場２丁目": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
-      "location": "三島市東大場２丁目",
-      "price_man": 1850,
-      "area_sqm": 261.5,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171665/settle/1",
-      "text": "売住宅 三島市東大場２丁目"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167349/settle/1|売住宅 三島市川原ケ谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市川原ケ谷",
       "price_man": 750,
       "area_sqm": 129.6,
@@ -218,7 +227,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171928/settle/1|売土地 三島市芙蓉台１丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市芙蓉台１丁目",
       "price_man": 900,
       "area_sqm": 225.0,
@@ -227,7 +236,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145097/settle/1|売土地 三島市徳倉４丁目20-28": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉４丁目20-28",
       "price_man": 780,
       "area_sqm": 110.2,
@@ -236,7 +245,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174695/settle/1|売住宅 三島市南二日町": {
       "first_seen": "2026-06-27",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市南二日町",
       "price_man": 1698,
       "area_sqm": 167.8,
@@ -245,7 +254,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125787/settle/1|売土地 三島市若松町4402-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市若松町4402-1",
       "price_man": 11000,
       "area_sqm": 2855.2,
@@ -254,7 +263,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163946/settle/1|売土地 三島市谷田1159-7": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市谷田1159-7",
       "price_man": 1580,
       "area_sqm": 243.5,
@@ -263,7 +272,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171479/settle/1|売住宅 三島市中": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市中",
       "price_man": 5480,
       "area_sqm": 311.1,
@@ -272,7 +281,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166629/settle/1|売土地 三島市徳倉747-123": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉747-123",
       "price_man": 300,
       "area_sqm": 585.0,
@@ -281,7 +290,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99913/settle/1|売土地 三島市芙蓉台１丁目7-2": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市芙蓉台１丁目7-2",
       "price_man": 1280,
       "area_sqm": 231.4,
@@ -290,25 +299,16 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171025/settle/1|売土地 三島市谷田": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市谷田",
       "price_man": 480,
       "area_sqm": 104.1,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171025/settle/1",
       "text": "売土地 三島市谷田"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169641/settle/1|売土地 三島市旭ヶ丘": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
-      "location": "三島市旭ヶ丘",
-      "price_man": 1480,
-      "area_sqm": 166.7,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169641/settle/1",
-      "text": "売土地 三島市旭ヶ丘"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114936/settle/1|売土地 三島市大場1086-314": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市大場1086-314",
       "price_man": 400,
       "area_sqm": 305.0,
@@ -317,7 +317,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/93876/settle/1|売土地 三島市谷田1345-50": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市谷田1345-50",
       "price_man": 1500,
       "area_sqm": 299.1,
@@ -326,7 +326,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144606/settle/1|売住宅 三島市芙蓉台２丁目6-7": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市芙蓉台２丁目6-7",
       "price_man": 2490,
       "area_sqm": 396.1,
@@ -335,7 +335,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165185/settle/1|売土地 三島市萩": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市萩",
       "price_man": 750,
       "area_sqm": 177.0,
@@ -344,7 +344,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173544/settle/1|売マンション 三島市南二日町27-20": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市南二日町27-20",
       "price_man": 2280,
       "area_sqm": 63.1,
@@ -353,7 +353,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154213/settle/1|売土地 三島市谷田251-17": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市谷田251-17",
       "price_man": 1530,
       "area_sqm": 142.4,
@@ -362,34 +362,16 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133995/settle/1|売土地 三島市徳倉３丁目500－3": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉３丁目500－3",
       "price_man": 780,
       "area_sqm": 200.0,
       "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133995/settle/1",
       "text": "売土地 三島市徳倉３丁目500－3"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156680/settle/1|売土地 三島市文教町２丁目": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
-      "location": "三島市文教町２丁目",
-      "price_man": 1800,
-      "area_sqm": 170.1,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156680/settle/1",
-      "text": "売土地 三島市文教町２丁目"
-    },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1|売住宅 三島市青木381-16,15,14": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-07-19",
-      "location": "三島市青木381-16,15,14",
-      "price_man": 1300,
-      "area_sqm": 136.7,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1",
-      "text": "売住宅 三島市青木381-16,15,14"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160683/settle/1|売住宅 三島市御園": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市御園",
       "price_man": 3480,
       "area_sqm": 220.2,
@@ -398,7 +380,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164209/settle/1|売土地 三島市大場": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市大場",
       "price_man": 1280,
       "area_sqm": 106.6,
@@ -407,7 +389,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162576/settle/1|売土地 三島市徳倉２丁目": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "location": "三島市徳倉２丁目",
       "price_man": 1300,
       "area_sqm": 203.0,
@@ -415,6 +397,6 @@
       "text": "売土地 三島市徳倉２丁目"
     }
   },
-  "hash": "e4a2c237aec946bf",
-  "fetched_at": "2026-07-19T22:51:53.685655"
+  "hash": "534dd64f7ead603d",
+  "fetched_at": "2026-07-20T23:00:57.354116"
 }

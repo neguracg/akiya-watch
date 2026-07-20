@@ -175,17 +175,6 @@
     "removed_on": "2026-07-18",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1500050000524/|売中古戸建　三島市徳倉3丁目": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-17",
-    "location": "売中古戸建　三島市徳倉3丁目",
-    "price_man": 4600,
-    "area_sqm": 190.8,
-    "url": "https://www.homes.co.jp/kodate/b-1500050000524/",
-    "text": "売中古戸建　三島市徳倉3丁目",
-    "removed_on": "2026-07-18",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-33327210001516/|三島市富士ビレッジ　中古戸建": {
     "first_seen": "2026-07-09",
     "last_seen": "2026-07-17",
@@ -197,15 +186,37 @@
     "removed_on": "2026-07-18",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1540930000092/|三島市徳倉3丁目  2階建て": {
-    "first_seen": "2026-07-02",
-    "last_seen": "2026-07-18",
-    "location": "三島市徳倉3丁目  2階建て",
-    "price_man": 4800,
+  "https://www.homes.co.jp/kodate/b-1265050002463/|三島市谷田中古住宅": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-19",
+    "location": "三島市谷田中古住宅",
+    "price_man": 2600,
+    "area_sqm": 181.2,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002463/",
+    "text": "三島市谷田中古住宅",
+    "removed_on": "2026-07-20",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1444230000394/|三島市徳倉三丁目ストックヘーベルハウス": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-07-19",
+    "location": "三島市徳倉三丁目ストックヘーベルハウス",
+    "price_man": 4600,
     "area_sqm": 190.8,
-    "url": "https://www.homes.co.jp/kodate/b-1540930000092/",
-    "text": "三島市徳倉3丁目  2階建て",
-    "removed_on": "2026-07-19",
+    "url": "https://www.homes.co.jp/kodate/b-1444230000394/",
+    "text": "三島市徳倉三丁目ストックヘーベルハウス",
+    "removed_on": "2026-07-20",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-33327580000130/|伊豆箱根鉄道駿豆線 大場駅 徒歩30分": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-07-19",
+    "location": "伊豆箱根鉄道駿豆線 大場駅 徒歩30分",
+    "price_man": 1850,
+    "area_sqm": 261.5,
+    "url": "https://www.homes.co.jp/kodate/b-33327580000130/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩30分",
+    "removed_on": "2026-07-20",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

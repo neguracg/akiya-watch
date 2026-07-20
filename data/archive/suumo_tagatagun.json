@@ -64,5 +64,16 @@
     "text": "桑原（函南駅） 4980万円",
     "removed_on": "2026-07-17",
     "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20816238/|上沢（大場駅） 2500万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-19",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 2500,
+    "area_sqm": 1920.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20816238/",
+    "text": "上沢（大場駅） 2500万円",
+    "removed_on": "2026-07-20",
+    "site_name": "SUUMO 土地 田方郡（函南）"
   }
 }
