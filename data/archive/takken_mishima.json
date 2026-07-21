@@ -229,5 +229,27 @@
     "text": "売住宅 三島市青木381-16,15,14",
     "removed_on": "2026-07-20",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175334/settle/1|売マンション 三島市松が丘": {
+    "first_seen": "2026-07-17",
+    "last_seen": "2026-07-20",
+    "location": "三島市松が丘",
+    "price_man": 2690,
+    "area_sqm": 73.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175334/settle/1",
+    "text": "売マンション 三島市松が丘",
+    "removed_on": "2026-07-21",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173657/settle/1|売マンション 三島市加茂川町": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-20",
+    "location": "三島市加茂川町",
+    "price_man": 2390,
+    "area_sqm": 75.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173657/settle/1",
+    "text": "売マンション 三島市加茂川町",
+    "removed_on": "2026-07-21",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

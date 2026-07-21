@@ -75,5 +75,16 @@
     "text": "売土地 伊豆の国市寺家",
     "removed_on": "2026-07-09",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175145/settle/1|売マンション 伊豆の国市長岡": {
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-20",
+    "location": "伊豆の国市長岡",
+    "price_man": 1080,
+    "area_sqm": 79.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175145/settle/1",
+    "text": "売マンション 伊豆の国市長岡",
+    "removed_on": "2026-07-21",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

@@ -75,5 +75,27 @@
     "text": "【積水ハウス】コモンステージ長泉なめりII【建築条件付土地】",
     "removed_on": "2026-07-11",
     "site_name": "LIFULL 土地 長泉町"
+  },
+  "https://www.homes.co.jp/tochi/b-33310000000109/|駿東郡長泉町中土狩 (長泉なめり駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-07-19",
+    "location": "駿東郡長泉町中土狩 (長泉なめり駅)",
+    "price_man": 1990,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33310000000109/",
+    "text": "駿東郡長泉町中土狩 (長泉なめり駅)",
+    "removed_on": "2026-07-21",
+    "site_name": "LIFULL 土地 長泉町"
+  },
+  "https://www.homes.co.jp/tochi/b-33327210001535/|駿東郡長泉町本宿 (大岡駅)": {
+    "first_seen": "2026-07-01",
+    "last_seen": "2026-07-19",
+    "location": "駿東郡長泉町本宿 (大岡駅)",
+    "price_man": 1580,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33327210001535/",
+    "text": "駿東郡長泉町本宿 (大岡駅)",
+    "removed_on": "2026-07-21",
+    "site_name": "LIFULL 土地 長泉町"
   }
 }
