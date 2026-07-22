@@ -142,17 +142,6 @@
     "removed_on": "2026-07-16",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|建築条件なし！富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪": {
-    "first_seen": "2026-07-15",
-    "last_seen": "2026-07-15",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "建築条件なし！富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪",
-    "removed_on": "2026-07-16",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆": {
     "first_seen": "2026-07-19",
     "last_seen": "2026-07-19",
@@ -173,6 +162,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪建築条件なし！",
     "removed_on": "2026-07-21",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-07-21",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪",
+    "removed_on": "2026-07-22",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

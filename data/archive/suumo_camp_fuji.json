@@ -174,5 +174,27 @@
     "text": "◇◆ＭＩＲＡＩＥ売主の限定1区画～商業施設が充実した地域◆◇☆建築条件なし",
     "removed_on": "2026-07-21",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21127143/|三ツ沢（岳南原田駅） 1080万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-21",
+    "location": "静岡県富士市三ツ沢",
+    "price_man": 1080,
+    "area_sqm": 184.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21127143/",
+    "text": "三ツ沢（岳南原田駅） 1080万円",
+    "removed_on": "2026-07-22",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78077483/|広見西本町（本吉原駅） 1443万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-21",
+    "location": "静岡県富士市広見西本町579番",
+    "price_man": 1443,
+    "area_sqm": 166.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78077483/",
+    "text": "広見西本町（本吉原駅） 1443万円",
+    "removed_on": "2026-07-22",
+    "site_name": "SUUMO 土地 富士市"
   }
 }
