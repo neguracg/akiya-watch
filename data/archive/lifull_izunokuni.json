@@ -2518,28 +2518,6 @@
     "removed_on": "2026-07-17",
     "site_name": "LIFULL 土地 伊豆の国市"
   },
-  "https://www.homes.co.jp/tochi/b-1546940000043/|伊豆の国市奈古谷 (函南駅)": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-20",
-    "location": "伊豆の国市奈古谷 (函南駅)",
-    "price_man": 50,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1546940000043/",
-    "text": "伊豆の国市奈古谷 (函南駅)",
-    "removed_on": "2026-07-21",
-    "site_name": "LIFULL 土地 伊豆の国市"
-  },
-  "https://www.homes.co.jp/tochi/b-1546940000015/|伊豆の国市韮山多田富士見ニュータウン (韮山駅)": {
-    "first_seen": "2026-07-08",
-    "last_seen": "2026-07-20",
-    "location": "伊豆の国市韮山多田富士見ニュータウン (韮山駅)",
-    "price_man": 100,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1546940000015/",
-    "text": "伊豆の国市韮山多田富士見ニュータウン (韮山駅)",
-    "removed_on": "2026-07-21",
-    "site_name": "LIFULL 土地 伊豆の国市"
-  },
   "https://www.homes.co.jp/tochi/b-33329030000095/|伊豆の国市長崎 (原木駅)": {
     "first_seen": "2026-07-16",
     "last_seen": "2026-07-20",
@@ -2582,6 +2560,39 @@
     "url": "https://www.homes.co.jp/tochi/b-33313200000024/",
     "text": "伊豆の国市大仁 (大仁駅)",
     "removed_on": "2026-07-22",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-1500050000639/|伊豆の国市南條 (伊豆長岡駅)": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-22",
+    "location": "伊豆の国市南條 (伊豆長岡駅)",
+    "price_man": 680,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1500050000639/",
+    "text": "伊豆の国市南條 (伊豆長岡駅)",
+    "removed_on": "2026-07-23",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-1500050000370/|伊豆の国市韮山山木 (韮山駅)": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-22",
+    "location": "伊豆の国市韮山山木 (韮山駅)",
+    "price_man": 400,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1500050000370/",
+    "text": "伊豆の国市韮山山木 (韮山駅)",
+    "removed_on": "2026-07-23",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-1500050000386/|伊豆の国市大仁 (大仁駅)": {
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-07-22",
+    "location": "伊豆の国市大仁 (大仁駅)",
+    "price_man": 1380,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1500050000386/",
+    "text": "伊豆の国市大仁 (大仁駅)",
+    "removed_on": "2026-07-23",
     "site_name": "LIFULL 土地 伊豆の国市"
   }
 }
