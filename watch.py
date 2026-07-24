@@ -103,6 +103,47 @@ def parse_price_man(text: str):
     return int(round(total))
 
 
+# ---- 賃貸・月額家賃正規化（rentタブ専用。売買用 parse_price_man は int 丸めのため使わない）----
+_YEN_RE = re.compile(r"([\d,]+)\s*円")
+
+
+def _first_yen(text: str):
+    """テキストから最初の「N円」を整数円で返す（管理費等の抽出に使用）。取れなければ None。"""
+    if not text:
+        return None
+    m = _YEN_RE.search(text)
+    if not m:
+        return None
+    try:
+        v = int(m.group(1).replace(",", ""))
+    except ValueError:
+        return None
+    return v if v > 0 else None
+
+
+def parse_rent_man(text: str):
+    """賃貸の月額家賃を「万円」float で返す（例 "4.9万円"→4.9, "6.25 万円"→6.25）。
+
+    取れなければ None。売買用 parse_price_man は int 丸めのため賃貸では使わない。
+    「万」表記が無い場合は「55,000円」等の円表記を円→万円換算する。ただし管理費等の
+    小額を誤って拾わないよう、10,000円以上のときだけ採用する。
+    """
+    if not text:
+        return None
+    m = _MAN_RE.search(text)
+    if m:
+        try:
+            v = float(m.group(1).replace(",", ""))
+        except ValueError:
+            v = None
+        if v is not None and v > 0:
+            return round(v, 2)
+    yen = _first_yen(text)
+    if yen is not None and yen >= 10000:
+        return round(yen / 10000, 2)
+    return None
+
+
 # ---- 面積正規化 ----
 _AREA_RE = re.compile(r"([\d,]+(?:\.\d+)?)\s*(㎡|m²|m2|平米|平方メートル|坪)")
 
@@ -312,17 +353,25 @@ def extract_toshikeikaku(text: str) -> str:
     return "—"
 
 
-# 前半7つ=住宅探索(home)の対象市町。以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、
-# 末尾5つ=Tier3（1h超だが広い山物件の在庫が豊富な伊豆最南部+賀茂郡。現地訪問前提で監視だけ
-# 広げる）。河津町/松崎町は suumo_camp_kamogun（賀茂郡ページ）の machi 判定用に追加。
-_MACHI_NAMES = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
+# 前半=静岡（home/camp タブ）、後半=鳥取（rent タブ）。前半7つ=住宅探索(home)の対象市町。
+# 以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、末尾5つ=Tier3（1h超だが広い山物件の
+# 在庫が豊富な伊豆最南部+賀茂郡。現地訪問前提で監視だけ広げる）。河津町/松崎町は
+# suumo_camp_kamogun（賀茂郡ページ）の machi 判定用に追加。
+_MACHI_NAMES_SHIZUOKA = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
                 "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
                 "湯河原町", "箱根町", "富士市",
                 "下田市", "東伊豆町", "南伊豆町", "河津町", "松崎町")
+# 鳥取県19市町村（賃貸タブ・山暮らし二拠点向け）。静岡側と地名の重複衝突なし（要確認済み）。
+# 衝突を避けるため必ず静岡側の後ろに連結する（_MACHI_NAMES は前方一致でなく部分一致だが、
+# 将来語の追加で衝突しないよう順序を固定しておく）。
+_MACHI_NAMES_TOTTORI = ("鳥取市", "米子市", "倉吉市", "境港市", "岩美町", "若桜町", "智頭町",
+                "八頭町", "三朝町", "湯梨浜町", "琴浦町", "北栄町", "日吉津村", "大山町",
+                "南部町", "伯耆町", "日南町", "日野町", "江府町")
+_MACHI_NAMES = _MACHI_NAMES_SHIZUOKA + _MACHI_NAMES_TOTTORI
 
 
 def extract_machi(text: str) -> str:
-    """所在地テキストから対象6市町を判定。無ければ空文字。"""
+    """所在地テキストから対象市町（静岡+鳥取）を判定。無ければ空文字。"""
     for m in _MACHI_NAMES:
         if m in text:
             return m
@@ -444,7 +493,8 @@ def ceiling_for(shubetsu: str, filters: dict) -> int:
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
-                 location="", default_type="更地") -> dict:
+                 location="", default_type="更地", shubetsu_override=None,
+                 madori=None, chikunen=None, kanrihi_yen=None) -> dict:
     """共通テーブルへの正規化レコードを作る。flag_text はフラグ・属性判定に使う範囲のテキスト。
 
     サーバ側ではハード除外しない（C方針）。判定は数値のみ:
@@ -453,13 +503,22 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
       不適合   = 上記以外
     NGエリア・キーワード・再建築不可は除外せず「フラグ」として保持し、絞り込みは
     クライアント側トグルで行う。
+
+    賃貸タブ用の引数（既定None＝従来の売買動作を変えない）:
+      shubetsu_override … 指定時は classify_shubetsu をバイパスしてこの値を種別に使う
+                          （"賃貸戸建"/"賃貸アパート"/"賃貸マンション"/"賃貸その他"）。
+      madori/chikunen/kanrihi_yen … 間取り/築年テキスト/管理費(円)。賃貸adapterのみ設定。
     """
     interest = [kw for kw in filters.get("interest_keywords", []) if kw in flag_text]
     caution = [kw for kw in filters.get("caution_keywords", []) if kw in flag_text]
     ng_hay = (location or "") + " " + flag_text
     ng_areas = [a for a in filters.get("exclude_areas", []) if a in ng_hay]
 
-    shubetsu, shubetsu_reason = classify_shubetsu(flag_text, default_type)
+    is_rent = shubetsu_override is not None
+    if is_rent:
+        shubetsu, shubetsu_reason = shubetsu_override, "賃貸カテゴリ（掲載種別）"
+    else:
+        shubetsu, shubetsu_reason = classify_shubetsu(flag_text, default_type)
     ceiling = ceiling_for(shubetsu, filters)
     area_min = filters.get("area_min_sqm", 330)
 
@@ -473,7 +532,11 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     zokujin = detect_zokujinsei(flag_text)
     toshikeikaku = extract_toshikeikaku(flag_text)
     chimoku = extract_chimoku(flag_text)
-    rb_mark, rb_reason = building_assessment(flag_text, toshikeikaku, zokujin, shubetsu)
+    if is_rent:
+        # 賃貸は「再建築/新築可否」の観点が無意味（借家であり土地取得ではないため）。
+        rb_mark, rb_reason = "—", "賃貸のため対象外"
+    else:
+        rb_mark, rb_reason = building_assessment(flag_text, toshikeikaku, zokujin, shubetsu)
 
     return {
         "url": url,
@@ -482,7 +545,7 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
         "price_man": price,
         "area_sqm": area,
         "area_estimated": area_est,
-        "tsubo_man": tsubo_unit_man(price, area),
+        "tsubo_man": None if is_rent else tsubo_unit_man(price, area),
         "shubetsu": shubetsu,
         "shubetsu_reason": shubetsu_reason,
         "ceiling_man": ceiling,
@@ -498,6 +561,9 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
         "ng_areas": ng_areas,
         "location": location,
         "machi": extract_machi(location or flag_text),
+        "madori": madori,
+        "chikunen": chikunen,
+        "kanrihi": kanrihi_yen,
         "first_seen": None,
         "last_seen": None,
     }
@@ -1744,10 +1810,475 @@ def parse_shinrin(first_html, base_url, filter_keywords, filters, session):
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# 賃貸タブ 共通ヘルパ（tab=rent。鳥取県の山暮らし二拠点向け・月額家賃で判定）
+# ---------------------------------------------------------------------------
+
+def _rent_type_from_label(label: str) -> str:
+    """建物種別ラベルを 賃貸戸建/賃貸アパート/賃貸マンション/賃貸その他 に正規化。"""
+    label = label or ""
+    if "戸建" in label:
+        return "賃貸戸建"
+    if "マンション" in label:
+        return "賃貸マンション"
+    if "アパート" in label:
+        return "賃貸アパート"
+    return "賃貸その他"
+
+
+# ---------------------------------------------------------------------------
+# SUUMO賃貸 アダプタ（鳥取県。suumo.jp/chintai/tottori/sc_*/ tab=rent・最重要チャネル）
+#   建物カード = div.cassetteitem。建物名 = .cassetteitem_content-title、所在地 =
+#   .cassetteitem_detail-col1、築年/階建 = .cassetteitem_detail-col3、建物種別ラベル =
+#   .cassetteitem_content-label（"賃貸アパート"/"賃貸一戸建て"/"賃貸マンション"）。
+#   部屋行 = table.cassetteitem_other tbody tr（1建物に複数部屋のことがある。部屋ごとに
+#   1レコード）。各行: .cassetteitem_price--rent=家賃 / --administration=管理費 /
+#   .cassetteitem_madori=間取り / .cassetteitem_menseki=専有面積。詳細URLは行内の
+#   a.cassetteitem_other-linktext[href]（"詳細を見る"）。実測で部屋ごとに異なる実URL
+#   （/chintai/jnc_.../）を持つことを確認済み（javascript:void(0) ではない）。
+#   ページャ = 既存 parse_suumo と同じ div.pagination_set-nav の「次へ」。
+# ---------------------------------------------------------------------------
+
+def _extract_suumo_rent_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.cassetteitem"):
+        label_el = card.select_one(".cassetteitem_content-label")
+        label = label_el.get_text(strip=True) if label_el else ""
+        dtype = _rent_type_from_label(label)
+        name_el = card.select_one(".cassetteitem_content-title")
+        bname = name_el.get_text(strip=True) if name_el else ""
+        loc_el = card.select_one(".cassetteitem_detail-col1")
+        location = loc_el.get_text(strip=True) if loc_el else ""
+        age_el = card.select_one(".cassetteitem_detail-col3")
+        chikunen = age_el.get_text(" ", strip=True) if age_el else None
+
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        for row in card.select("table.cassetteitem_other tbody tr"):
+            link = row.select_one("a.cassetteitem_other-linktext[href]")
+            if not link:
+                continue
+            url = normalize_url(link["href"], base_url)
+            rent_el = row.select_one(".cassetteitem_price--rent")
+            kanri_el = row.select_one(".cassetteitem_price--administration")
+            price = parse_rent_man(rent_el.get_text(strip=True)) if rent_el else None
+            kanrihi = _first_yen(kanri_el.get_text(strip=True)) if kanri_el else None
+            madori_el = row.select_one(".cassetteitem_madori")
+            menseki_el = row.select_one(".cassetteitem_menseki")
+            madori = madori_el.get_text(strip=True) if madori_el else None
+            area = _first_sqm(menseki_el.get_text(strip=True)) if menseki_el else None
+            row_text = row.get_text(" ", strip=True)
+            card_text = bname + " " + location + " " + row_text
+            out.append(_make_record(url, bname or location, price, area, False,
+                                    card_text, filters, location=location,
+                                    shubetsu_override=dtype, madori=madori,
+                                    chikunen=chikunen, kanrihi_yen=kanrihi))
+    return out
+
+
+def parse_suumo_rent(first_html, base_url, filter_keywords, filters, session) -> list:
+    """SUUMO賃貸アダプタ（鳥取県）。bot対策検出＋ページャ追従は既存parse_suumoと同じ流儀。
+
+    賃貸ページの正常判定カードは div.cassetteitem（売買の div.property_unit とは別クラス）
+    のため、汎用の _page_blocked() を使う（_suumo_looks_blocked は売買専用のため使わない）。
+    """
+    html = first_html
+    soup = BeautifulSoup(html, "html.parser")
+    for attempt in range(2):
+        if not _page_blocked(html, soup, "div.cassetteitem"):
+            break
+        wait = 8 + attempt * 8
+        log.warning(f"[suumo_rent] bot対策ページ検出（{len(html)}B）。{wait}秒待って再取得 {attempt + 1}/2: {base_url}")
+        time.sleep(wait)
+        code, html = fetch(base_url, session)
+        soup = BeautifulSoup(html, "html.parser")
+    if _page_blocked(html, soup, "div.cassetteitem"):
+        raise BotBlocked(f"SUUMO賃貸 bot対策ページが継続: {base_url}")
+
+    all_props = []
+    page_url = base_url
+    page = 1
+    seen_urls = {base_url}
+    seen_hashes = {page_hash(html)}
+    while True:
+        soup = BeautifulSoup(html, "html.parser")
+        all_props.extend(_extract_suumo_rent_cards(soup, page_url, filter_keywords, filters))
+        nxt = _suumo_next_url(soup, page_url)
+        if not nxt or page >= SUUMO_MAX_PAGES or not _site_time_left():
+            if not _site_time_left():
+                log.warning(f"[suumo_rent] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        if nxt in seen_urls:
+            log.warning(f"[suumo_rent] 次ページURLが既出（ループ）→打ち切り: {nxt}")
+            break
+        time.sleep(random.uniform(2, 5))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[suumo_rent] page {page + 1} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        h = page_hash(html)
+        if h in seen_hashes:
+            log.warning(f"[suumo_rent] 同一内容ページ（ループ）→打ち切り page={page + 1}")
+            break
+        seen_urls.add(nxt)
+        seen_hashes.add(h)
+        page_url = nxt
+        page += 1
+
+    seen = set()
+    out = []
+    for r in all_props:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            out.append(r)
+    log.info(f"[suumo_rent] pages={page} cards={len(out)}")
+    return out
+
+
+# ---------------------------------------------------------------------------
+# アットホーム空き家バンク 賃貸 アダプタ（akiya-athome.jp/rent/31/ 鳥取県 tab=rent）
+#   カード = section.propety（サイト側の実際のクラス名。"property" のtypoではない）。
+#   属性は dl(dt→dd) の並び: 賃料(管理費等)/間取/面積/敷金／保証金/礼金/物件種目/築年月/
+#   所在地/交通。詳細URL = a[href*='.akiya-athome.jp/bukken/detail/rent/']（自治体サブ
+#   ドメインの絶対URL、そのまま使える）。カテゴリ = .objectCategory（"貸戸建て"等）。
+#   単一ページ（実測10件）。
+# ---------------------------------------------------------------------------
+
+def _athome_rent_specs(card) -> dict:
+    specs = {}
+    for dl in card.find_all("dl"):
+        dt = dl.find("dt")
+        dd = dl.find("dd")
+        if dt and dd:
+            specs[dt.get_text(strip=True)] = dd.get_text(strip=True)
+    return specs
+
+
+def _extract_athome_rent_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("section.propety"):
+        a = card.select_one("a[href*='.akiya-athome.jp/bukken/detail/rent/']")
+        if not a or not a.get("href"):
+            continue
+        url = normalize_url(a["href"], base_url)
+        specs = _athome_rent_specs(card)
+
+        location = ""
+        for k, v in specs.items():
+            if "所在地" in k:
+                location = v.strip()
+                break
+        if not location:
+            gov = card.select_one(".governmentName")
+            location = gov.get_text(strip=True) if gov else ""
+
+        cat_el = card.select_one(".objectCategory")
+        cat_text = cat_el.get_text(strip=True) if cat_el else ""
+        buttype = ""
+        for k, v in specs.items():
+            if "物件種目" in k:
+                buttype = v
+                break
+        dtype = _rent_type_from_label(buttype or cat_text)
+
+        price = None
+        for k, v in specs.items():
+            if "賃料" in k:
+                price = parse_rent_man(v)
+                break
+        madori = None
+        for k, v in specs.items():
+            if k.strip() == "間取":
+                madori = v.strip()
+                break
+        area = None
+        for k, v in specs.items():
+            if "面積" in k:
+                area = _first_sqm(v)
+                break
+        chikunen = None
+        for k, v in specs.items():
+            if "築年" in k:
+                chikunen = v.strip()
+                break
+
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        title_el = card.select_one(".propetyTitle")
+        title = title_el.get_text(" ", strip=True) if title_el else ""
+        out.append(_make_record(url, title or location or card_text[:60], price, area, False,
+                                card_text, filters, location=location,
+                                shubetsu_override=dtype, madori=madori, chikunen=chikunen))
+    return out
+
+
+def parse_akiya_athome_rent(first_html, base_url, filter_keywords, filters, session) -> list:
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "section.propety"):
+        raise BotBlocked(f"アットホーム空き家バンク賃貸 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_athome_rent_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[akiya_athome_rent] cards={len(dedup)} (1ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# CHINTAI アダプタ（chintai.net/tottori/area/{code}/list/ tab=rent）
+#   建物カード = section.cassette_item。建物名/種別 = .cassette_ttl h2（種別は
+#   span.icn_typeB のみ。"新築"等の別バッジ span.icn_newBuilding と混同しないこと）。
+#   所在地/築年 = div.bukken_information table の th(住所/築年)→td。
+#   部屋 = div.cassette_detail table 内の tbody（1建物に複数部屋のことがある。tbody ごとに
+#   hidden input(input.chinRyo=家賃円 / input.madori / input.senMenseki=㎡ / input.bkName)
+#   を持ち、tbody[data-detailurl] に実詳細URLが直接入っている（実測で確認済み・
+#   javascript:void(0) 表示は「追加」ボタン等の別リンクで、行本体のURLは実URL）。
+#   管理費は hidden input が無いため td.price の表示テキストから抽出。
+#   ページャ = base+"/pageN/"（"次へ"相当）。508件/鳥取市のため time budget で自然に打ち切る。
+# ---------------------------------------------------------------------------
+
+def _chintai_building_specs(card):
+    """建物共通の所在地/築年を bukken_information テーブルから取得。"""
+    location, chikunen = "", None
+    tbl = card.select_one("div.bukken_information table")
+    if not tbl:
+        return location, chikunen
+    for tr in tbl.find_all("tr"):
+        ths = tr.find_all("th")
+        tds = tr.find_all("td")
+        for th, td in zip(ths, tds):
+            label = th.get_text(strip=True)
+            if label == "住所":
+                mp = td.find("p", class_="map")
+                if mp:
+                    mp.decompose()
+                location = td.get_text(strip=True)
+            elif label == "築年":
+                chikunen = td.get_text(strip=True)
+    return location, chikunen
+
+
+def _extract_chintai_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("section.cassette_item"):
+        h2 = card.select_one(".cassette_ttl h2")
+        cat_el = h2.select_one("span.icn_typeB") if h2 else None
+        cat_text = cat_el.get_text(strip=True) if cat_el else ""
+        dtype = _rent_type_from_label(cat_text)
+        location, chikunen = _chintai_building_specs(card)
+
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        for tb in card.select("div.cassette_detail table tbody"):
+            ci = tb.select_one("input.chinRyo")
+            mi = tb.select_one("input.madori")
+            si = tb.select_one("input.senMenseki")
+            bn = tb.select_one("input.bkName")
+            detail = tb.get("data-detailurl") or ""
+            if not detail:
+                a = tb.select_one("td.detail a[href^='/detail/']")
+                detail = a["href"] if a else ""
+            if not detail:
+                continue  # 実URLが取れないカードはスキップ
+            url = normalize_url(detail, base_url)
+            price = None
+            if ci and ci.get("value"):
+                price = parse_rent_man(ci["value"] + "円")
+            madori = mi["value"].strip() if mi and mi.get("value") else None
+            area = None
+            if si and si.get("value"):
+                try:
+                    area = round(float(si["value"]), 1)
+                except ValueError:
+                    area = None
+            bkname = bn["value"].strip() if bn and bn.get("value") else ""
+            price_td = tb.select_one("td.price")
+            kanrihi = _first_yen(price_td.get_text(" ", strip=True)) if price_td else None
+            room_text = tb.get_text(" ", strip=True)
+            title = bkname or (h2.get_text(" ", strip=True) if h2 else location)
+            out.append(_make_record(url, title[:60] or location, price, area, False,
+                                    room_text, filters, location=location,
+                                    shubetsu_override=dtype, madori=madori,
+                                    chikunen=chikunen, kanrihi_yen=kanrihi))
+    return out
+
+
+CHINTAI_MAX_PAGES = 30  # 508件/鳥取市規模。実際は SITE_TIME_BUDGET で自然に打ち切られる想定。
+
+
+def parse_chintai_net(first_html, base_url, filter_keywords, filters, session) -> list:
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "section.cassette_item"):
+        raise BotBlocked(f"CHINTAI ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_chintai_cards(soup, base_url, filter_keywords, filters)
+    seen_hashes = {page_hash(first_html)}
+    base = base_url.rstrip("/")
+    pages = 1
+    for pg in range(2, CHINTAI_MAX_PAGES + 1):
+        if not _site_time_left():
+            log.warning(f"[chintai_net] サイト時間予算超過でページ追従打ち切り page={pg - 1}")
+            break
+        time.sleep(random.uniform(3, 6))
+        code, nhtml = fetch(f"{base}/page{pg}/", session)
+        if code != 200 or page_hash(nhtml) in seen_hashes:
+            break
+        nsoup = BeautifulSoup(nhtml, "html.parser")
+        if not nsoup.select("section.cassette_item"):
+            break
+        seen_hashes.add(page_hash(nhtml))
+        pages = pg
+        out.extend(_extract_chintai_cards(nsoup, base_url, filter_keywords, filters))
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[chintai_net] cards={len(dedup)} ({pages}ページ)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# いい部屋ネット アダプタ（eheya.net/tottori/area/{code}/search/ tab=rent）
+#   一覧コンテナ = div.logs_bukken_list。建物 = 直下の div[class*=styles_buildingCassette
+#   Wrapper]（CSS Modulesのハッシュ付きクラス。class属性は複数トークンを持つ場合があり
+#   （例 "logs_dev_imp styles_buildingCassetteWrapper__xxxx"）先頭一致(^=)だと拾い漏れる
+#   ため、部分一致(*=)を使うこと（実測で20件中5件が拾い漏れると確認済み）。
+#   建物名/種別 = .styles_cassetteTitle*のh2（末尾のspan[class*=styles_buildingKindPicto]
+#   が種別バッジ）。所在地/築年 = data-testid="InfoContent_address"/"InfoContent_ageAndStory"
+#   （これは安定属性でハッシュではないので優先使用）。
+#   部屋 = building内の [data-testid="BuildingCassette_propertyCassette"]（安定属性）。
+#   家賃 = [class*=styles_rentPrice]+[class*=styles_rentUnit]。管理費 =
+#   data-testid="BuildingPropertyCassette_managementFee"。間取り/面積 =
+#   data-testid="BuildingPropertyCassette_roomDetail"（"2LDK / 59.55m2"形式）。
+#   詳細URL = a[href^='/detail/']。ページャ = リンクテキスト"次へ"を辿る（クラス名に
+#   依存しない）。ハッシュクラス変更で0件になった場合は BotBlocked にせず通常0件として
+#   ログに残す（サイト固有仕様どおり）。
+# ---------------------------------------------------------------------------
+
+def _eheya_room_madori_area(detail_text: str):
+    """detail_text は "2LDK/59.55m2" 形式（get_text(strip=True)がコメントノード区切りの
+    " / " を "/" に潰すため、区切りは半角スラッシュのみ・空白は入らない）。
+    面積は _first_sqm がこの詰まった形のまま正しく拾えるためテキストはそのまま渡す。"""
+    madori = None
+    if detail_text:
+        parts = detail_text.split("/")
+        madori = parts[0].strip() if parts and parts[0].strip() else None
+    area = _first_sqm(detail_text)
+    return madori, area
+
+
+def _extract_eheya_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    blist = soup.select_one("div.logs_bukken_list")
+    if not blist:
+        return out
+    for building in blist.select("div[class*=styles_buildingCassetteWrapper]"):
+        addr_el = building.select_one("[data-testid=InfoContent_address]")
+        location = addr_el.get_text(strip=True) if addr_el else ""
+        age_el = building.select_one("[data-testid=InfoContent_ageAndStory]")
+        # " " 区切りで取得（SUUMO側のchikunen表記"築19年 2階建"と見た目を揃える。
+        # 無指定だとコメントノード区切りの " / " が "/" に潰れて"築2年/2階建"になる）。
+        chikunen = age_el.get_text(" ", strip=True) if age_el else None
+
+        title_link = building.select_one("a[class*=styles_cassetteTitle]")
+        h2 = title_link.find("h2") if title_link else building.find("h2")
+        full_title = h2.get_text(strip=True) if h2 else ""
+        badge_el = h2.select_one("span[class*=styles_buildingKindPicto]") if h2 else None
+        badge_text = badge_el.get_text(strip=True) if badge_el else ""
+        bname = full_title
+        if badge_text and full_title.endswith(badge_text):
+            bname = full_title[:-len(badge_text)].strip()
+        dtype = _rent_type_from_label(badge_text)
+
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        for room in building.select("[data-testid=BuildingCassette_propertyCassette]"):
+            link = room.select_one("a[href^='/detail/']")
+            if not link or not link.get("href"):
+                continue
+            url = normalize_url(link["href"], base_url)
+            rp = room.select_one("[class*=styles_rentPrice]")
+            ru = room.select_one("[class*=styles_rentUnit]")
+            rent_text = (rp.get_text(strip=True) if rp else "") + (ru.get_text(strip=True) if ru else "")
+            price = parse_rent_man(rent_text) if rent_text else None
+            mgmt_el = room.select_one("[data-testid=BuildingPropertyCassette_managementFee]")
+            kanrihi = _first_yen(mgmt_el.get_text(" ", strip=True)) if mgmt_el else None
+            detail_el = room.select_one("[data-testid=BuildingPropertyCassette_roomDetail]")
+            detail_text = detail_el.get_text(strip=True) if detail_el else ""
+            madori, area = _eheya_room_madori_area(detail_text)
+            room_text = room.get_text(" ", strip=True)
+            card_text = bname + " " + location + " " + room_text
+            out.append(_make_record(url, bname or location, price, area, False,
+                                    card_text, filters, location=location,
+                                    shubetsu_override=dtype, madori=madori, chikunen=chikunen,
+                                    kanrihi_yen=kanrihi))
+    return out
+
+
+EHEYA_MAX_PAGES = 20
+
+
+def _eheya_next_url(soup, base_url):
+    """"次へ" リンクを絶対URLで返す（CSS Modulesのハッシュクラスに依存せずリンクテキストで判定）。"""
+    for a in soup.find_all("a", href=True):
+        if a.get_text(strip=True) == "次へ" and "page=" in a["href"]:
+            return urllib.parse.urljoin(base_url, a["href"])
+    return None
+
+
+def parse_eheya(first_html, base_url, filter_keywords, filters, session) -> list:
+    soup = BeautifulSoup(first_html, "html.parser")
+    out = _extract_eheya_cards(soup, base_url, filter_keywords, filters)
+    seen_urls = {base_url}
+    seen_hashes = {page_hash(first_html)}
+    page_url, html, page = base_url, first_html, 1
+    while True:
+        nxt = _eheya_next_url(BeautifulSoup(html, "html.parser"), page_url)
+        if not nxt or page >= EHEYA_MAX_PAGES or not _site_time_left():
+            if not _site_time_left():
+                log.warning(f"[eheya] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        if nxt in seen_urls:
+            break
+        time.sleep(random.uniform(3, 6))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            break
+        h = page_hash(html)
+        if h in seen_hashes:
+            break
+        seen_urls.add(nxt)
+        seen_hashes.add(h)
+        page_url = nxt
+        page += 1
+        out.extend(_extract_eheya_cards(BeautifulSoup(html, "html.parser"), page_url, filter_keywords, filters))
+
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    if not dedup:
+        log.warning(f"[eheya] cards=0 — CSS Modulesハッシュクラス変更等で構造が崩れた可能性あり"
+                    f"（BotBlocked にはせず通常0件として扱う）: {base_url}")
+    else:
+        log.info(f"[eheya] cards={len(dedup)} ({page}ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
 SITE_ADAPTERS = [
+    # suumo_rent_ は suumo_ の特殊化なので必ず先に置く（後だと suumo_ に食われて土地用
+    # パーサ(parse_suumo)が誤って呼ばれ、賃貸ページが0件になる）。
+    (lambda sid: sid.startswith("suumo_rent_"), parse_suumo_rent),
     (lambda sid: sid.startswith("suumo_"), parse_suumo),
     (lambda sid: sid.startswith("takken_"), parse_takken),
     # athome は現在持続的に bot対策でブロック中のため adapter 対象から外し、urls.yaml で
@@ -1768,6 +2299,9 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("sanrin_net"), parse_sanrin_net),
     (lambda sid: sid.startswith("furusato_"), parse_furusato),
     (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
+    (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
+    (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
+    (lambda sid: sid.startswith("eheya_"), parse_eheya),
 ]
 
 
@@ -1877,8 +2411,10 @@ def run(dry_run: bool = False, only: str = "") -> int:
     config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
     sites = config["sites"]
     filters = config["filters"]
-    # tab: camp のサイトは filters.camp で閾値を上書きした判定を使う（定義元は urls.yaml）
+    # tab: camp / rent のサイトはそれぞれ filters.camp / filters.rent で閾値を上書きした
+    # 判定を使う（定義元は urls.yaml。ハードコード禁止）。
     camp_filters = {**filters, **(filters.get("camp") or {})}
+    rent_filters = {**filters, **(filters.get("rent") or {})}
     if only:
         sites = [s for s in sites if only in s["id"]]
         log.info(f"--only='{only}' で {len(sites)} サイトに絞り込み")
@@ -1899,7 +2435,12 @@ def run(dry_run: bool = False, only: str = "") -> int:
         yaml_status = site.get("status", "")
         filter_kws = site.get("filter_keywords", [])
         site_tab = site.get("tab", "home")
-        site_filters = camp_filters if site_tab == "camp" else filters
+        if site_tab == "camp":
+            site_filters = camp_filters
+        elif site_tab == "rent":
+            site_filters = rent_filters
+        else:
+            site_filters = filters
         # 実行全体のウォールクロック上限。超えたら残サイトを打ち切ってレポートへ。
         if time.time() - run_start > RUN_WALLCLOCK_LIMIT:
             log.warning(f"実行ウォールクロック上限 {RUN_WALLCLOCK_LIMIT}s 超過。残 {len(sites) - i} サイトを打ち切り")
@@ -2206,6 +2747,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                 "interests": p.get("interest", []),
                 "zokujin": bool(p.get("zokujinsei")),
                 "first_seen": p.get("first_seen") or "",
+                "madori": p.get("madori") or "",
+                "chikunen": p.get("chikunen") or "",
+                "kanrihi": p.get("kanrihi"),
                 "url": p["url"],
                 "dk": p["key"],  # バックエンドdedupキー（url+"|"+text[:60]）。非表示永続化に使用
                 "ng": bool(p.get("ng_areas")),
@@ -2234,19 +2778,26 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     disclaimer = ("<p class='note'>※ 建築可否の ○△×／不明 は掲載情報からの<b>推定</b>であり、"
                   "法的確定ではありません（更地＝新規建築、家付き＝再建築の可否を表示）。"
                   "最終判断には役場確認が必要です。"
-                  "市街化調整区域（△）は除外ではなく本命候補シグナルです。</p>")
+                  "市街化調整区域（△）は除外ではなく本命候補シグナルです。"
+                  "賃貸タブは鳥取県の月額家賃です（他タブの万円表示＝売買価格とは意味が違います）。</p>")
 
     camp_over = filters.get("camp") or {}
+    rent_over = filters.get("rent") or {}
     config_js = json.dumps({
         "ceilings": {t: ceil_by_type.get(t, pmax_def) for t in types},
         "types": types,
-        "machi": list(_MACHI_NAMES),
+        # machi=静岡（更地/家付き/キャンプ場土地タブ共通、従来どおり）。machiRent=鳥取（賃貸タブ専用）。
+        "machi": list(_MACHI_NAMES_SHIZUOKA),
+        "machiRent": list(_MACHI_NAMES_TOTTORI),
         "cautions": filters.get("caution_keywords", []),
         "exareas": filters.get("exclude_areas", []),
         "amin": amin_def,
         # キャンプ場土地タブ: 判定閾値(参考)。表示フィルタ既定は「絞らない」(null)
         "campPmax": camp_over.get("price_max_man"),
         "campAmin": camp_over.get("area_min_sqm"),
+        # 賃貸タブ: 判定閾値(参考・月額家賃万円)。表示フィルタ既定は「絞らない」(null)
+        "rentPmax": rent_over.get("price_max_man"),
+        "rentAmin": rent_over.get("area_min_sqm"),
     }, ensure_ascii=False)
 
     H = ["<!DOCTYPE html><html lang='ja'><head><meta charset='utf-8'>",
@@ -2262,11 +2813,12 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
 
-    # ---- タブ（更地 / 家付き土地 / キャンプ場土地）----
+    # ---- タブ（更地 / 家付き土地 / キャンプ場土地 / 賃貸）----
     H.append("<div class='tabs'>")
     H.append("<button class='tab-btn' data-tab='sarachi'>更地</button>")
     H.append("<button class='tab-btn' data-tab='ie'>家付き土地</button>")
     H.append("<button class='tab-btn' data-tab='camp'>キャンプ場土地</button>")
+    H.append("<button class='tab-btn' data-tab='rent'>賃貸</button>")
     H.append("</div>")
 
     # ---- パネル（検索条件）----
@@ -2493,6 +3045,9 @@ _REPORT_CSS = (
     ".tab-btn[data-tab=camp]{border-color:#3a6ea5;color:#3a6ea5;}"
     ".tab-btn[data-tab=camp]:not(.active):hover{background:#eaf1f8;}"
     ".tab-btn[data-tab=camp].active{background:#3a6ea5;color:#fff;}"
+    ".tab-btn[data-tab=rent]{border-color:#7b52ab;color:#7b52ab;}"
+    ".tab-btn[data-tab=rent]:not(.active):hover{background:#f2ecf8;}"
+    ".tab-btn[data-tab=rent].active{background:#7b52ab;color:#fff;}"
     # ---- パネルタイトル & フィルタブロック ----
     ".panel-title{font-size:13px;margin-bottom:8px;"
     "display:flex;justify-content:space-between;align-items:center;}"
@@ -2544,34 +3099,54 @@ _REPORT_CSS = (
 
 
 _FILTER_JS = r"""
-const TYPES=CONFIG.types, MACHI=CONFIG.machi;
+const TYPES=CONFIG.types, MACHI=CONFIG.machi, MACHI_RENT=CONFIG.machiRent||[];
+const RENT_TYPES=['賃貸戸建','賃貸アパート','賃貸マンション','賃貸その他'];
 const CHIMOKU_OPTS=[...new Set(DATA.map(d=>d.chimoku||'—'))].sort();
 const HOUSE_TYPES=new Set(['空き家','古家付き土地','中古戸建']);
-const COLS=[
- {k:'price',l:'価格'},
- {k:'area',l:'面積'},
- {k:'tsubo',l:'坪単価',f:'range'},
- {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
- {k:'rb',l:'建築可否',f:'check',opts:['○','△','×','不明']},
- {k:'loc',l:'所在地'},
- {k:'machi',l:'市町',f:'check',opts:MACHI},
- {k:'chimoku',l:'地目',f:'check',opts:CHIMOKU_OPTS},
- {k:'first_seen',l:'検出日'},
- {k:'info',l:'参考情報',nostat:true}
-];
-// 先頭=お気に入り★、末尾=詳細リンク＋非表示ボタン の計3列を加える
-const NCOL=COLS.length+3;
+// タブ別の列定義。rentタブは坪単価・建築可否・地目を出さず、間取り・築年を出す。
+function colsFor(tab){
+  if(tab==='rent'){
+    return [
+      {k:'price',l:'家賃(月)'},
+      {k:'madori',l:'間取り'},
+      {k:'area',l:'面積'},
+      {k:'shubetsu',l:'種別',f:'check',opts:RENT_TYPES},
+      {k:'chikunen',l:'築年'},
+      {k:'loc',l:'所在地'},
+      {k:'machi',l:'市町',f:'check',opts:MACHI_RENT},
+      {k:'first_seen',l:'検出日'},
+      {k:'info',l:'参考情報',nostat:true}
+    ];
+  }
+  return [
+    {k:'price',l:'価格'},
+    {k:'area',l:'面積'},
+    {k:'tsubo',l:'坪単価',f:'range'},
+    {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
+    {k:'rb',l:'建築可否',f:'check',opts:['○','△','×','不明']},
+    {k:'loc',l:'所在地'},
+    {k:'machi',l:'市町',f:'check',opts:MACHI},
+    {k:'chimoku',l:'地目',f:'check',opts:CHIMOKU_OPTS},
+    {k:'first_seen',l:'検出日'},
+    {k:'info',l:'参考情報',nostat:true}
+  ];
+}
+// 現在表示中タブの列定義（列ポップアップ等、レンダリング経路の外から参照する箇所用）
+function currentCols(){return colsFor(S.tab);}
 function esc(s){s=(s==null?'':String(s));return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function numOrNull(v){v=(''+(v==null?'':v)).trim();return v===''?null:parseFloat(v);}
 function hPrice(v){if(v==null)return'';if(v<=300)return'background:#1a7d36;color:#fff';if(v<=600)return'background:#66bb6a';if(v<=1000)return'background:#ffe082';if(v<=2000)return'background:#ffb74d';return'background:#ef9a9a';}
 function hArea(v){if(v==null)return'';if(v>=990)return'background:#1a7d36;color:#fff';if(v>=660)return'background:#66bb6a';if(v>=495)return'background:#ffe082';if(v>=330)return'background:#ffb74d';return'background:#ef9a9a';}
 function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#fff';if(v<=5)return'background:#66bb6a';if(v<=10)return'background:#ffe082';if(v<=20)return'background:#ffb74d';return'background:#ef9a9a';}
+// 賃貸タブ専用ヒートマップ（家賃は万円/月・面積は建物専有面積なので売買の土地面積とは尺度が違う）
+function hRent(v){if(v==null)return'';if(v<=3)return'background:#1a7d36;color:#fff';if(v<=4)return'background:#66bb6a';if(v<=5)return'background:#ffe082';if(v<=7)return'background:#ffb74d';return'background:#ef9a9a';}
+function hAreaRent(v){if(v==null)return'';if(v>=90)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=25)return'background:#ffb74d';return'background:#ef9a9a';}
 function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk';}
 function normLoc(s){return (s||'').replace('静岡県','').replace(/\s+/g,'');}
 
 // ---- 状態 ----
-// キャンプ場土地(camp)タブは既定で価格・面積を絞らない（手広く構えて目で選ぶ方針）
-function defState(){return{tab:'sarachi',priceMin:0,priceMaxSarachi:1500,priceMaxIe:3000,priceMaxCamp:null,amin:CONFIG.amin,amax:null,aminCamp:null,amaxCamp:null,cf:{},sort:{k:null,d:1}};}
+// キャンプ場土地(camp)・賃貸(rent)タブは既定で価格・面積を絞らない（手広く構えて目で選ぶ方針）
+function defState(){return{tab:'sarachi',priceMin:0,priceMaxSarachi:1500,priceMaxIe:3000,priceMaxCamp:null,priceMaxRent:null,amin:CONFIG.amin,amax:null,aminCamp:null,amaxCamp:null,aminRent:null,amaxRent:null,cf:{},sort:{k:null,d:1}};}
 let S=defState();
 
 // ---- localStorage (akiyawatch_ プレフィックス) ----
@@ -2608,8 +3183,8 @@ let FAVOR=loadKV(LS_FAV);
 
 function saveState(){
   lsSave(LS_TAB,S.tab);
-  lsSave(LS_PRICE,{min:S.priceMin,maxSarachi:S.priceMaxSarachi,maxIe:S.priceMaxIe,maxCamp:S.priceMaxCamp});
-  lsSave(LS_AREA_FILTER,{min:S.amin,max:S.amax,minCamp:S.aminCamp,maxCamp:S.amaxCamp});
+  lsSave(LS_PRICE,{min:S.priceMin,maxSarachi:S.priceMaxSarachi,maxIe:S.priceMaxIe,maxCamp:S.priceMaxCamp,maxRent:S.priceMaxRent});
+  lsSave(LS_AREA_FILTER,{min:S.amin,max:S.amax,minCamp:S.aminCamp,maxCamp:S.amaxCamp,minRent:S.aminRent,maxRent:S.amaxRent});
 }
 function saveHidden(){saveKV(LS_HIDDEN,HIDDEN);}
 function saveFav(){saveKV(LS_FAV,FAVOR);}
@@ -2618,7 +3193,8 @@ function saveAreas(){lsSave(LS_EXAREAS,EXAREAS);}
 // bdk から表示用スナップショットを作る（レコードを浅くコピー）
 function snapOf(rep){
   const keys=['url','dk','loc','price','area','tsubo','shubetsu','shubetsu_reason',
-    'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin','tab'];
+    'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin','tab',
+    'madori','chikunen','kanrihi'];
   const o={}; keys.forEach(k=>o[k]=rep[k]); return o;
 }
 function bdkOf(g){return g.rep.dk||g.dk;}
@@ -2635,12 +3211,13 @@ function groupsFromMap(map){
 
 function restoreState(){
   const tab=lsGet(LS_TAB,null);
-  if(tab==='sarachi'||tab==='ie'||tab==='camp')S.tab=tab;
+  if(tab==='sarachi'||tab==='ie'||tab==='camp'||tab==='rent')S.tab=tab;
   const price=lsGet(LS_PRICE,null);
-  if(price){if(price.min!=null)S.priceMin=price.min;if(price.maxSarachi!=null)S.priceMaxSarachi=price.maxSarachi;if(price.maxIe!=null)S.priceMaxIe=price.maxIe;if(price.maxCamp!==undefined)S.priceMaxCamp=price.maxCamp;}
+  if(price){if(price.min!=null)S.priceMin=price.min;if(price.maxSarachi!=null)S.priceMaxSarachi=price.maxSarachi;if(price.maxIe!=null)S.priceMaxIe=price.maxIe;if(price.maxCamp!==undefined)S.priceMaxCamp=price.maxCamp;if(price.maxRent!==undefined)S.priceMaxRent=price.maxRent;}
   const area=lsGet(LS_AREA_FILTER,null);
   if(area){S.amin=(area.min!=null?area.min:S.amin);S.amax=(area.max!=null?area.max:S.amax);
-    if(area.minCamp!==undefined)S.aminCamp=area.minCamp;if(area.maxCamp!==undefined)S.amaxCamp=area.maxCamp;}
+    if(area.minCamp!==undefined)S.aminCamp=area.minCamp;if(area.maxCamp!==undefined)S.amaxCamp=area.maxCamp;
+    if(area.minRent!==undefined)S.aminRent=area.minRent;if(area.maxRent!==undefined)S.amaxRent=area.maxRent;}
 }
 
 // ---- グループ化（JS側dedup: normLoc+面積+価格）----
@@ -2653,11 +3230,14 @@ DATA.forEach((d,i)=>{
 
 // ---- フィルタ ----
 function passFilters(d){
-  // キャンプ場土地(camp)は独立タブ: campレコードはcampタブのみ、homeレコードは更地/家付きのみ
+  // キャンプ場土地(camp)・賃貸(rent)は独立タブ: 各タブは自分のtabのレコードのみ、
+  // homeレコードは更地/家付きのみ
   if(S.tab==='camp'){
     if(d.tab!=='camp')return false;
+  }else if(S.tab==='rent'){
+    if(d.tab!=='rent')return false;
   }else{
-    if(d.tab==='camp')return false;
+    if(d.tab==='camp'||d.tab==='rent')return false;
     const isHouse=HOUSE_TYPES.has(d.shubetsu);
     if(S.tab==='sarachi'&&isHouse)return false;
     if(S.tab==='ie'&&!isHouse)return false;
@@ -2668,9 +3248,9 @@ function passFilters(d){
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
   }
-  const pmax=S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:S.priceMaxIe);
-  const amin=S.tab==='camp'?S.aminCamp:S.amin;
-  const amax=S.tab==='camp'?S.amaxCamp:S.amax;
+  const pmax=S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:(S.tab==='rent'?S.priceMaxRent:S.priceMaxIe));
+  const amin=S.tab==='camp'?S.aminCamp:(S.tab==='rent'?S.aminRent:S.amin);
+  const amax=S.tab==='camp'?S.amaxCamp:(S.tab==='rent'?S.amaxRent:S.amax);
   if(S.priceMin!=null&&S.priceMin>0&&(d.price==null||d.price<S.priceMin))return false;
   if(pmax!=null&&(d.price==null||d.price>pmax))return false;
   if(amin!=null&&(d.area==null||d.area<amin))return false;
@@ -2678,10 +3258,10 @@ function passFilters(d){
   return true;
 }
 
-// ---- テーブル描画 ----
-function buildHead(){
+// ---- テーブル描画（列は colsFor(tab) を見て組み立てる。タブごとに列構成が違う）----
+function buildHead(cols){
   let h='<thead><tr><th class=favcell title="お気に入り">★</th>';
-  COLS.forEach(c=>{
+  cols.forEach(c=>{
     if(c.nostat){h+="<th>"+esc(c.l)+"</th>";return;}
     const active=S.cf[c.k]?' filtered':'';
     const ar=(S.sort.k===c.k)?(S.sort.d>0?'▲':'▼'):'';
@@ -2690,41 +3270,78 @@ function buildHead(){
   });
   return h+'<th>詳細</th><th>非表示</th></tr></thead>';
 }
-function rowHtml(g,inHidden){
+// 列キー1つぶんの <td> を組み立てる（rowHtmlから列定義ごとに呼ばれる）。
+// price/areaは売買(home/camp)と賃貸(rent)でヒートマップ関数が違う点にだけ注意。
+function cellHtml(k,d,g){
+  switch(k){
+    case 'price':{
+      const heat=(d.tab==='rent')?hRent(d.price):hPrice(d.price);
+      const label=(d.price==null)?'—':d.price.toLocaleString()+'万';
+      return "<td style='"+heat+"'>"+label+"</td>";
+    }
+    case 'area':{
+      const heat=(d.tab==='rent')?hAreaRent(d.area):hArea(d.area);
+      return "<td style='"+heat+"'>"+(d.area==null?'—':d.area+'㎡')+"</td>";
+    }
+    case 'tsubo':
+      return "<td style='"+hTsubo(d.tsubo)+"'>"+(d.tsubo==null?'—':d.tsubo)+"</td>";
+    case 'shubetsu':
+      return "<td title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>";
+    case 'rb':{
+      const rbTitle=d.rbreason+(d.setsudo?(' / 接道:'+d.setsudo):'');
+      return "<td class='"+rbClass(d.rb)+"' title='"+esc(rbTitle)+"'>"+esc(d.rb)+"</td>";
+    }
+    case 'loc':{
+      let loc=esc(normLoc(d.loc).slice(0,22)||'—');
+      if(g.sites.length>1){const o=g.sites.filter(x=>x!=d.site);loc+=" <span class=muted>他"+o.length+"件("+esc(o.join('/'))+")</span>";}
+      return "<td class='loccell'>"+loc+"</td>";
+    }
+    case 'machi':
+      return "<td>"+esc(d.machi||'—')+"</td>";
+    case 'chimoku':
+      return "<td>"+esc(d.chimoku)+"</td>";
+    case 'madori':
+      return "<td>"+esc(d.madori||'—')+"</td>";
+    case 'chikunen':
+      return "<td>"+esc(d.chikunen||'—')+"</td>";
+    case 'first_seen':
+      return "<td>"+esc(d.first_seen||'—')+"</td>";
+    case 'info':{
+      let info='';
+      (d.interests||[]).forEach(x=>info+="<span class=bi>"+esc(x)+"</span>");
+      (d.cautions||[]).forEach(x=>info+="<span class=bc>"+esc(x)+"</span>");
+      if(d.zokujin)info+="<span class=bz>属人性</span>";
+      if(!info)info='<span class=muted>—</span>';
+      return "<td class='infocell'>"+info+"</td>";
+    }
+    default:
+      return "<td>—</td>";
+  }
+}
+function rowHtml(g,inHidden,cols){
   const d=g.rep;
   const bdk=d.dk||g.dk;
-  const price=(d.price==null)?'—':d.price.toLocaleString()+'万';
-  const area=(d.area==null)?'—':d.area+'㎡';
-  const tsubo=(d.tsubo==null)?'—':d.tsubo;
-  const rbTitle=d.rbreason+(d.setsudo?(' / 接道:'+d.setsudo):'');
-  let loc=esc(normLoc(d.loc).slice(0,22)||'—');
-  if(g.sites.length>1){const o=g.sites.filter(x=>x!=d.site);loc+=" <span class=muted>他"+o.length+"件("+esc(o.join('/'))+")</span>";}
-  let info='';
-  (d.interests||[]).forEach(x=>info+="<span class=bi>"+esc(x)+"</span>");
-  (d.cautions||[]).forEach(x=>info+="<span class=bc>"+esc(x)+"</span>");
-  if(d.zokujin)info+="<span class=bz>属人性</span>";
-  if(!info)info='<span class=muted>—</span>';
   const op=inHidden?("<button class=restorebtn data-bdk='"+esc(bdk)+"'>戻す</button>")
                    :("<button class=hidebtn data-bdk='"+esc(bdk)+"'>非表示</button>");
   const isFav=FAVOR.has(bdk);
   const fav="<td class=favcell><button class='favbtn"+(isFav?' on':'')+"' data-bdk='"+esc(bdk)+"' title='お気に入り'>"+(isFav?'★':'☆')+"</button></td>";
+  let cells='';
+  cols.forEach(c=>{cells+=cellHtml(c.k,d,g);});
   return "<tr>"
     +fav
-    +"<td style='"+hPrice(d.price)+"'>"+price+"</td>"
-    +"<td style='"+hArea(d.area)+"'>"+area+"</td>"
-    +"<td style='"+hTsubo(d.tsubo)+"'>"+tsubo+"</td>"
-    +"<td title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>"
-    +"<td class='"+rbClass(d.rb)+"' title='"+esc(rbTitle)+"'>"+esc(d.rb)+"</td>"
-    +"<td class='loccell'>"+loc+"</td>"
-    +"<td>"+esc(d.machi||'—')+"</td>"
-    +"<td>"+esc(d.chimoku)+"</td>"
-    +"<td>"+esc(d.first_seen||'—')+"</td>"
-    +"<td class='infocell'>"+info+"</td>"
+    +cells
     +"<td><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
     +"<td>"+op+"</td></tr>";
 }
-function legendRow(){
-  return "<tfoot><tr class=legendrow><td colspan="+NCOL+">"
+function legendRow(ncol,tab){
+  if(tab==='rent'){
+    return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
+      +"<span class=lgline>家賃(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤3</b><b style='background:#66bb6a'>≤4</b><b style='background:#ffe082'>≤5</b><b style='background:#ffb74d'>≤7</b><b style='background:#ef9a9a'>&gt;7</b> 万円/月</span>"
+      +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥90</b><b style='background:#66bb6a'>≥60</b><b style='background:#ffe082'>≥40</b><b style='background:#ffb74d'>≥25</b> ㎡</span>"
+      +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
+      +"</td></tr></tfoot>";
+  }
+  return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
     +"<span class=lgline>価格(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b> 万円</span>"
     +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b> ㎡</span>"
     +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"
@@ -2738,22 +3355,23 @@ function sortGroups(list){
   } else list.sort((A,B)=>(((A.rep.price==null)?1e12:A.rep.price)-((B.rep.price==null)?1e12:B.rep.price)));
   return list;
 }
-function tbl(list,inHidden,showLegend){return buildHead()+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden)).join(''):"<tr><td colspan="+NCOL+" class=muted>該当なし</td></tr>")+'</tbody>'+(showLegend?legendRow():'');}
+function tbl(list,inHidden,showLegend,cols,ncol,tab){return buildHead(cols)+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden,cols)).join(''):"<tr><td colspan="+ncol+" class=muted>該当なし</td></tr>")+'</tbody>'+(showLegend?legendRow(ncol,tab):'');}
 function render(){
+  const tab=S.tab, cols=colsFor(tab), ncol=cols.length+3;  // +3 = お気に入り★/詳細/非表示
   let vis=GROUPS.filter(g=>{const bdk=bdkOf(g);return !HIDDEN.has(bdk)&&passFilters(g.rep);});
   sortGroups(vis);
   // 物件ブラウザ（凡例つき）
-  document.getElementById('mainTbl').innerHTML=tbl(vis,false,true);
+  document.getElementById('mainTbl').innerHTML=tbl(vis,false,true,cols,ncol,tab);
   // 新着（凡例なし＝上と重複のため）
   const nv=vis.filter(g=>g.added);
-  document.getElementById('newTbl').innerHTML=tbl(nv,false,false);
+  document.getElementById('newTbl').innerHTML=tbl(nv,false,false,cols,ncol,tab);
   // お気に入り（消滅まで残す。除外エリア等の絞り込みは無視して常に表示）
   const fav=sortGroups(groupsFromMap(FAVOR));
-  document.getElementById('favTbl').innerHTML=tbl(fav,false,false);
+  document.getElementById('favTbl').innerHTML=tbl(fav,false,false,cols,ncol,tab);
   const favC=document.getElementById('favCnt');if(favC)favC.textContent='('+fav.length+'件)';
   // 非表示（消滅まで残す）
   const hid=sortGroups(groupsFromMap(HIDDEN));
-  document.getElementById('hiddenTbl').innerHTML=tbl(hid,true,false);
+  document.getElementById('hiddenTbl').innerHTML=tbl(hid,true,false,cols,ncol,tab);
   document.getElementById('hiddenCnt').textContent='('+hid.length+'件)';
   // 件数表示（内部用語"グループ"を使わない）
   const msg='該当 '+vis.length+'件（全'+GROUPS.length+'件中）・新着 '+nv.length+'件';
@@ -2778,9 +3396,9 @@ function applyStateToControls(){
   const pmin=document.getElementById('priceMinInput');
   const pmax=document.getElementById('priceMaxInput');
   if(pmin)pmin.value=(S.priceMin==null||S.priceMin===0)?'':S.priceMin;
-  if(pmax)pmax.value=(S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:S.priceMaxIe))||'';
-  const camp=(S.tab==='camp');
-  const amin=camp?S.aminCamp:S.amin, amax=camp?S.amaxCamp:S.amax;
+  if(pmax)pmax.value=(S.tab==='sarachi'?S.priceMaxSarachi:(S.tab==='camp'?S.priceMaxCamp:(S.tab==='rent'?S.priceMaxRent:S.priceMaxIe)))||'';
+  const camp=(S.tab==='camp'), rent=(S.tab==='rent');
+  const amin=camp?S.aminCamp:(rent?S.aminRent:S.amin), amax=camp?S.amaxCamp:(rent?S.amaxRent:S.amax);
   const aminTsubo=document.getElementById('aminTsuboInput');
   const amaxTsubo=document.getElementById('amaxTsuboInput');
   const aminSqmView=document.getElementById('aminSqmView');
@@ -2802,7 +3420,7 @@ function renderAreaList(){
 // ---- 列ヘッダ ポップアップ ----
 function closePopup(){document.getElementById('popup').style.display='none';}
 function openPopup(th){
-  const k=th.dataset.k, col=COLS.find(c=>c.k===k), pop=document.getElementById('popup');
+  const k=th.dataset.k, col=currentCols().find(c=>c.k===k), pop=document.getElementById('popup');
   let h="<div class=pr><b>"+esc(col.l)+"</b></div>"
        +"<div class=pr><button data-act=sa>▲ 昇順</button><button data-act=sd>▼ 降順</button></div>";
   if(col.f==='range'){const cf=S.cf[k]||{};
@@ -2826,7 +3444,7 @@ document.getElementById('popup').addEventListener('click',e=>{
     if(f==='range'){const mn=numOrNull(document.getElementById('fmin').value),mx=numOrNull(document.getElementById('fmax').value);
       if(mn==null&&mx==null)delete S.cf[k]; else S.cf[k]={t:'range',min:mn,max:mx};}
     else if(f==='check'){const set=[...document.querySelectorAll('#popup .fchk:checked')].map(c=>c.value);
-      const all=COLS.find(c=>c.k===k).opts; if(set.length===all.length)delete S.cf[k]; else S.cf[k]={t:'check',set:set};}
+      const all=currentCols().find(c=>c.k===k).opts; if(set.length===all.length)delete S.cf[k]; else S.cf[k]={t:'check',set:set};}
     closePopup();
   } else if(act==='clear'){delete S.cf[k]; if(S.sort.k===k)S.sort={k:null,d:1}; closePopup();}
   else if(act==='close'){closePopup(); return;}
@@ -2872,19 +3490,20 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
   document.getElementById('priceMaxInput').addEventListener('input',e=>{
     if(S.tab==='sarachi')S.priceMaxSarachi=numOrNull(e.target.value);
     else if(S.tab==='camp')S.priceMaxCamp=numOrNull(e.target.value);
+    else if(S.tab==='rent')S.priceMaxRent=numOrNull(e.target.value);
     else S.priceMaxIe=numOrNull(e.target.value);
     saveState();render();});
 
   // 面積は坪で入力。㎡は読取専用の参考表示(span)を更新。内部Sはsqmで保持。
-  // campタブは独立の下限/上限（既定=絞らない）を編集する。
+  // camp/rentタブは独立の下限/上限（既定=絞らない）を編集する。
   document.getElementById('aminTsuboInput').addEventListener('input',e=>{
     const t=numOrNull(e.target.value);const v2=(t==null?null:parseFloat(tsuboToSqm(t)));
-    if(S.tab==='camp')S.aminCamp=v2; else S.amin=v2;
+    if(S.tab==='camp')S.aminCamp=v2; else if(S.tab==='rent')S.aminRent=v2; else S.amin=v2;
     const v=document.getElementById('aminSqmView');if(v)v.textContent=(v2==null?'—':(+v2).toFixed(1));
     saveState();render();});
   document.getElementById('amaxTsuboInput').addEventListener('input',e=>{
     const t=numOrNull(e.target.value);const v2=(t==null?null:parseFloat(tsuboToSqm(t)));
-    if(S.tab==='camp')S.amaxCamp=v2; else S.amax=v2;
+    if(S.tab==='camp')S.amaxCamp=v2; else if(S.tab==='rent')S.amaxRent=v2; else S.amax=v2;
     const v=document.getElementById('amaxSqmView');if(v)v.textContent=(v2==null?'—':(+v2).toFixed(1));
     saveState();render();});
 

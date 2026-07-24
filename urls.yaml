@@ -29,6 +29,16 @@ filters:
       古家付き土地: 3000
       中古戸建: 3000
       空き家: 3000
+  # ---- 賃貸タブ（tab: rent のサイトに適用。ベース値を上書きマージ）----
+  #   鳥取県での山暮らし二拠点向け。月額家賃の上限で判定する（面積は問わない）。
+  rent:
+    price_max_man: 5          # 月額家賃の上限（万円）。適合＝これ以下
+    area_min_sqm: 0           # 賃貸は面積下限なし
+    price_ceiling_by_type:
+      賃貸戸建: 5
+      賃貸アパート: 5
+      賃貸マンション: 5
+      賃貸その他: 5
   price_ceiling_by_type:
     更地: 1500
     古家付き土地: 1500
@@ -581,6 +591,100 @@ sites:
     filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
     note: "価格なし(所在地/面積のみ・ステータス表記あり)。新着監視用。robots=WP管理のみ禁止"
 
+  # ==== ⑧ 賃貸（鳥取。tab: rent。鳥取県で山暮らし二拠点したい友人向け・月2〜3万円級の激安賃貸監視）====
+  # filter_keywords は付けない（市町村別・郡別URLなのでページの中身は全部対象。県単位の
+  # akiya_athome_rent_tottori も元から鳥取県のみ）。判定はrentフィルタ(月額家賃5万円以下)。
+  # SUUMO賃貸: div.cassetteitem=建物、table.cassetteitem_other tbody tr=部屋（1建物に複数
+  # 部屋のことがある）。郡部が山暮らし本命（八頭郡27件/日野郡2件/東伯郡149件）。実測200。
+  - id: suumo_rent_tottori
+    name: SUUMO 賃貸 鳥取市
+    url: "https://suumo.jp/chintai/tottori/sc_tottori/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_yonago
+    name: SUUMO 賃貸 米子市
+    url: "https://suumo.jp/chintai/tottori/sc_yonago/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_kurayoshi
+    name: SUUMO 賃貸 倉吉市
+    url: "https://suumo.jp/chintai/tottori/sc_kurayoshi/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_sakaiminato
+    name: SUUMO 賃貸 境港市
+    url: "https://suumo.jp/chintai/tottori/sc_sakaiminato/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_iwamigun
+    name: SUUMO 賃貸 岩美郡（岩美町）
+    url: "https://suumo.jp/chintai/tottori/sc_iwamigun/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_yazugun
+    name: SUUMO 賃貸 八頭郡（若桜/智頭/八頭）
+    url: "https://suumo.jp/chintai/tottori/sc_yazugun/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_tohakugun
+    name: SUUMO 賃貸 東伯郡（三朝/湯梨浜/琴浦/北栄）
+    url: "https://suumo.jp/chintai/tottori/sc_tohakugun/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_saihakugun
+    name: SUUMO 賃貸 西伯郡（日吉津/大山/南部/伯耆）
+    url: "https://suumo.jp/chintai/tottori/sc_saihakugun/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: suumo_rent_hinogun
+    name: SUUMO 賃貸 日野郡（日南/日野/江府）
+    url: "https://suumo.jp/chintai/tottori/sc_hinogun/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+
+  - id: akiya_athome_rent_tottori
+    name: アットホーム空き家バンク 賃貸 鳥取県
+    url: "https://www.akiya-athome.jp/rent/31/"
+    status: verified
+    channel: "⑧"
+    kind: 空き家バンク/賃貸
+    tab: rent
+    note: "実測200・10件。自治体サブドメインの詳細URL(https://{市町}-{コード}.akiya-athome.jp/bukken/detail/rent/{id})が一覧HTML内に静的に存在。月2〜3万の古民家風物件が出る本命チャネル。robots.txt=404(制限なし)"
+  - id: chintai_net_tottori
+    name: CHINTAI 鳥取市
+    url: "https://www.chintai.net/tottori/area/31201/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+    note: "実測200・div.bukken_information=20件/頁(鳥取市508件)。robots=/info//display//api/のみ禁止で一覧は許可"
+  - id: eheya_tottori
+    name: いい部屋ネット 鳥取市
+    url: "https://www.eheya.net/tottori/area/31201/search/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+    note: "実測200。CSS Modulesのハッシュ付きクラス名(styles_propertyCassetteWrapper__xxxx)のためビルド変更で壊れる可能性→前方一致セレクタを使う。robots=/mypage//map/等のみ禁止"
+
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
 # ============================================================================
@@ -704,3 +808,24 @@ sources_extra:
     status: フェーズ2
     http: 200(JS)
     note: "React SPA(本文がJS描画・静的HTMLは空)。物件個別ページ/zero/{地域}/{slug}/は静的な可能性あり、sitemap.xml監視での実装余地。0円譲渡の山林・土地が出る本命チャネルなのでブラウザ自動化フェーズで再挑戦"
+  - channel: "⑧"
+    name: アパマンショップ 鳥取市
+    kind: 賃貸
+    url: "https://www.apamanshop.com/tottori/201/"
+    status: フェーズ2
+    http: 200(JS)
+    note: "本文が完全JS描画(静的HTMLのテキスト51文字)。robots.txtもGooglebot等を個別許可する方式で汎用UAへの明示許可がない。ブラウザ自動化フェーズで再検討"
+  - channel: "⑧"
+    name: エイブル 鳥取市
+    kind: 賃貸
+    url: "https://www.able.co.jp/tottori/area/31201/"
+    status: 要確認
+    http: 取得エラー
+    note: "Invoke-WebRequestが2回とも「Operation is not valid due to the current state of the object」で失敗。URLは変更せず要再測（CLAUDE.md恒久ルール）"
+  - channel: "⑧"
+    name: イエとち鳥取（鳥取県宅建協会 住宅バンク）
+    kind: 空き家バンク/賃貸
+    url: "https://www.ietoti.jp/IJU/"
+    status: フェーズ2
+    http: 200
+    note: "トップはPOST検索フォームのみで一覧が無い。地区別ページ(toubu.html/chubu.html/seibu.html)経由の多段ハブ。「山暮らし」ロケーション絞り込みがあり相性は良いので後日再挑戦。robots.txtはGooglebot指定のみ"
