@@ -1,0 +1,726 @@
+{
+  "keys": {
+    "https://suumo.jp/chintai/jnc_000108651395/|フォーチュネイトハウス　Ａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡大山町所子",
+      "price_man": 5.4,
+      "area_sqm": 57.6,
+      "url": "https://suumo.jp/chintai/jnc_000108651395/",
+      "text": "フォーチュネイトハウス　Ａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108706284/|ＪＲ山陰本線 大山口駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡大山町所子",
+      "price_man": 5.4,
+      "area_sqm": 57.6,
+      "url": "https://suumo.jp/chintai/jnc_000108706284/",
+      "text": "ＪＲ山陰本線 大山口駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000106859299/|セレッソ　Ｃ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町阿賀",
+      "price_man": 5.0,
+      "area_sqm": 57.2,
+      "url": "https://suumo.jp/chintai/jnc_000106859299/",
+      "text": "セレッソ　Ｃ"
+    },
+    "https://suumo.jp/chintai/jnc_000106886554/|ＪＲ山陰本線 米子駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町阿賀",
+      "price_man": 5.0,
+      "area_sqm": 57.2,
+      "url": "https://suumo.jp/chintai/jnc_000106886554/",
+      "text": "ＪＲ山陰本線 米子駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000107266727/|モイルミール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 5.15,
+      "area_sqm": 50.2,
+      "url": "https://suumo.jp/chintai/jnc_000107266727/",
+      "text": "モイルミール"
+    },
+    "https://suumo.jp/chintai/jnc_000107462861/|モイルミール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 5.95,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000107462861/",
+      "text": "モイルミール"
+    },
+    "https://suumo.jp/chintai/jnc_000107273974/|ＪＲ山陰本線 米子駅 2階建 築4年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 5.15,
+      "area_sqm": 50.2,
+      "url": "https://suumo.jp/chintai/jnc_000107273974/",
+      "text": "ＪＲ山陰本線 米子駅 2階建 築4年"
+    },
+    "https://suumo.jp/chintai/jnc_000108016135/|ＪＲ山陰本線 米子駅 2階建 築4年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 5.95,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000108016135/",
+      "text": "ＪＲ山陰本線 米子駅 2階建 築4年"
+    },
+    "https://suumo.jp/chintai/jnc_000108475234/|ヌーベル　ピアッツァI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 5.2,
+      "area_sqm": 59.8,
+      "url": "https://suumo.jp/chintai/jnc_000108475234/",
+      "text": "ヌーベル　ピアッツァI"
+    },
+    "https://suumo.jp/chintai/jnc_000108211181/|ノイエラント": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.6,
+      "area_sqm": 42.2,
+      "url": "https://suumo.jp/chintai/jnc_000108211181/",
+      "text": "ノイエラント"
+    },
+    "https://suumo.jp/chintai/jnc_000107260156/|ノイエラント": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000107260156/",
+      "text": "ノイエラント"
+    },
+    "https://suumo.jp/chintai/jnc_000107786961/|フォーチュネイトハウスＣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡大山町所子",
+      "price_man": 5.45,
+      "area_sqm": 58.2,
+      "url": "https://suumo.jp/chintai/jnc_000107786961/",
+      "text": "フォーチュネイトハウスＣ"
+    },
+    "https://suumo.jp/chintai/jnc_000107896470/|フォーチュネイトハウスＤ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡大山町所子",
+      "price_man": 5.45,
+      "area_sqm": 58.2,
+      "url": "https://suumo.jp/chintai/jnc_000107896470/",
+      "text": "フォーチュネイトハウスＤ"
+    },
+    "https://suumo.jp/chintai/jnc_000106231495/|サンファルジェ　II": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 4.7,
+      "area_sqm": 50.2,
+      "url": "https://suumo.jp/chintai/jnc_000106231495/",
+      "text": "サンファルジェ　II"
+    },
+    "https://suumo.jp/chintai/jnc_000107576045/|アメージングI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 5.45,
+      "area_sqm": 51.0,
+      "url": "https://suumo.jp/chintai/jnc_000107576045/",
+      "text": "アメージングI"
+    },
+    "https://suumo.jp/chintai/jnc_000108075788/|グランシャリオ　アルファ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町倭",
+      "price_man": 6.3,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000108075788/",
+      "text": "グランシャリオ　アルファ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000108179000/|アメージングIII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町法勝寺",
+      "price_man": 6.45,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108179000/",
+      "text": "アメージングIII"
+    },
+    "https://suumo.jp/chintai/jnc_000105324367/|メゾン　ド　グラティア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.5,
+      "area_sqm": 30.9,
+      "url": "https://suumo.jp/chintai/jnc_000105324367/",
+      "text": "メゾン　ド　グラティア"
+    },
+    "https://suumo.jp/chintai/jnc_000099009527/|メゾン　ド　グラティア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.9,
+      "area_sqm": 30.9,
+      "url": "https://suumo.jp/chintai/jnc_000099009527/",
+      "text": "メゾン　ド　グラティア"
+    },
+    "https://suumo.jp/chintai/jnc_000105347653/|ＪＲ山陰本線 伯耆大山駅 2階建 築10年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.5,
+      "area_sqm": 30.9,
+      "url": "https://suumo.jp/chintai/jnc_000105347653/",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築10年"
+    },
+    "https://suumo.jp/chintai/jnc_000099018708/|ＪＲ山陰本線 伯耆大山駅 2階建 築10年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.9,
+      "area_sqm": 30.9,
+      "url": "https://suumo.jp/chintai/jnc_000099018708/",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築10年"
+    },
+    "https://suumo.jp/chintai/jnc_000098358031/|南部町永井貸家": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町東町",
+      "price_man": 5.8,
+      "area_sqm": 82.4,
+      "url": "https://suumo.jp/chintai/jnc_000098358031/",
+      "text": "南部町永井貸家"
+    },
+    "https://suumo.jp/chintai/jnc_000107707354/|レジェンドオブＧ　Ａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.9,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000107707354/",
+      "text": "レジェンドオブＧ　Ａ"
+    },
+    "https://suumo.jp/chintai/jnc_000107731265/|ＪＲ山陰本線 伯耆大山駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.9,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000107731265/",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000104396052/|北野アパート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町東町",
+      "price_man": 4.5,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000104396052/",
+      "text": "北野アパート"
+    },
+    "https://suumo.jp/chintai/jnc_000108276125/?bc=100515178942|ＪＲ山陰本線 伯耆大山駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.6,
+      "area_sqm": 42.2,
+      "url": "https://suumo.jp/chintai/jnc_000108276125/?bc=100515178942",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000107816434/?bc=100510800090|ＪＲ山陰本線 伯耆大山駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000107816434/?bc=100510800090",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000108582806/?bc=100516944249|ＪＲ山陰本線 伯耆大山駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 5.2,
+      "area_sqm": 59.8,
+      "url": "https://suumo.jp/chintai/jnc_000108582806/?bc=100516944249",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000106983496/?bc=100505474636|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.2,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000106983496/?bc=100505474636",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000106955820/?bc=100505229774|Ｓｏｕｌ　ｔｏ　Ｓｏｕｌ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.2,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000106955820/?bc=100505229774",
+      "text": "Ｓｏｕｌ　ｔｏ　Ｓｏｕｌ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000107492263/?bc=100509814553|カーサ・オランジュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000107492263/?bc=100509814553",
+      "text": "カーサ・オランジュ"
+    },
+    "https://suumo.jp/chintai/jnc_000107660569/?bc=100504177122|カーサ・オランジュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000107660569/?bc=100504177122",
+      "text": "カーサ・オランジュ"
+    },
+    "https://suumo.jp/chintai/jnc_000090431460/?bc=100506166963|カーサ・オランジュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000090431460/?bc=100506166963",
+      "text": "カーサ・オランジュ"
+    },
+    "https://suumo.jp/chintai/jnc_000106898959/?bc=100505443321|カーサ・オランジュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000106898959/?bc=100505443321",
+      "text": "カーサ・オランジュ"
+    },
+    "https://suumo.jp/chintai/jnc_000091770726/?bc=100503391772|カーサ・オランジュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 6.0,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000091770726/?bc=100503391772",
+      "text": "カーサ・オランジュ"
+    },
+    "https://suumo.jp/chintai/jnc_000079097611/?bc=100496813520|フォレスト・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.2,
+      "area_sqm": 45.6,
+      "url": "https://suumo.jp/chintai/jnc_000079097611/?bc=100496813520",
+      "text": "フォレスト・ヴィラ"
+    },
+    "https://suumo.jp/chintai/jnc_000107989596/?bc=100513761139|フォレスト・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.3,
+      "area_sqm": 45.6,
+      "url": "https://suumo.jp/chintai/jnc_000107989596/?bc=100513761139",
+      "text": "フォレスト・ヴィラ"
+    },
+    "https://suumo.jp/chintai/jnc_000106041478/?bc=100464032979|フォレスト・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.3,
+      "area_sqm": 51.6,
+      "url": "https://suumo.jp/chintai/jnc_000106041478/?bc=100464032979",
+      "text": "フォレスト・ヴィラ"
+    },
+    "https://suumo.jp/chintai/jnc_000098458814/?bc=100236287477|コーポ北野": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町東町",
+      "price_man": 4.0,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000098458814/?bc=100236287477",
+      "text": "コーポ北野"
+    },
+    "https://suumo.jp/chintai/jnc_000079117939/?bc=100496669940|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.2,
+      "area_sqm": 45.6,
+      "url": "https://suumo.jp/chintai/jnc_000079117939/?bc=100496669940",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000107995824/?bc=100513001419|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.3,
+      "area_sqm": 45.6,
+      "url": "https://suumo.jp/chintai/jnc_000107995824/?bc=100513001419",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000106095002/?bc=100498281795|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.3,
+      "area_sqm": 45.6,
+      "url": "https://suumo.jp/chintai/jnc_000106095002/?bc=100498281795",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000083873820/?bc=100507009815|ルミエールひえづ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 43.4,
+      "url": "https://suumo.jp/chintai/jnc_000083873820/?bc=100507009815",
+      "text": "ルミエールひえづ"
+    },
+    "https://suumo.jp/chintai/jnc_000107660570/?bc=100503315096|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000107660570/?bc=100503315096",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000090407847/?bc=100505035728|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000090407847/?bc=100505035728",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000107477256/?bc=100508998263|ＪＲ山陰本線 伯耆大山駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.75,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000107477256/?bc=100508998263",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000107666693/?bc=100514989216|サニーメゾン　Ｃ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.55,
+      "area_sqm": 58.8,
+      "url": "https://suumo.jp/chintai/jnc_000107666693/?bc=100514989216",
+      "text": "サニーメゾン　Ｃ"
+    },
+    "https://suumo.jp/chintai/jnc_000108218685/?bc=100514542350|ＪＲ山陰本線 伯耆大山駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.55,
+      "area_sqm": 58.8,
+      "url": "https://suumo.jp/chintai/jnc_000108218685/?bc=100514542350",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000100799515/?bc=100464189921|アメニティーハウス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.9,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000100799515/?bc=100464189921",
+      "text": "アメニティーハウス"
+    },
+    "https://suumo.jp/chintai/jnc_000068634597/?bc=100486550524|アメニティーハウス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.9,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000068634597/?bc=100486550524",
+      "text": "アメニティーハウス"
+    },
+    "https://suumo.jp/chintai/jnc_000108344471/?bc=100499079221|アズール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字今吉",
+      "price_man": 6.75,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108344471/?bc=100499079221",
+      "text": "アズール"
+    },
+    "https://suumo.jp/chintai/jnc_000108344470/?bc=100515316783|アズール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字今吉",
+      "price_man": 6.75,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108344470/?bc=100515316783",
+      "text": "アズール"
+    },
+    "https://suumo.jp/chintai/jnc_000108344472/?bc=100499094182|ＪＲ山陰本線 伯耆大山駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字今吉",
+      "price_man": 6.75,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108344472/?bc=100499094182",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000108370334/?bc=100512721397|ＪＲ山陰本線 伯耆大山駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字今吉",
+      "price_man": 6.75,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108370334/?bc=100512721397",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000083878959/?bc=100506962889|ＪＲ山陰本線 伯耆大山駅 2階建 築26年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 43.4,
+      "url": "https://suumo.jp/chintai/jnc_000083878959/?bc=100506962889",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築26年"
+    },
+    "https://suumo.jp/chintai/jnc_000075157630/?bc=100286748204|若竹荘": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡南部町東町",
+      "price_man": 3.0,
+      "area_sqm": 30.5,
+      "url": "https://suumo.jp/chintai/jnc_000075157630/?bc=100286748204",
+      "text": "若竹荘"
+    },
+    "https://suumo.jp/chintai/jnc_000061563592/?bc=100476153904|ＪＲ山陰本線 伯耆大山駅 2階建 築27年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.9,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000061563592/?bc=100476153904",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築27年"
+    },
+    "https://suumo.jp/chintai/jnc_000101083174/?bc=100454382857|ＪＲ山陰本線 伯耆大山駅 2階建 築27年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 5.9,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000101083174/?bc=100454382857",
+      "text": "ＪＲ山陰本線 伯耆大山駅 2階建 築27年"
+    },
+    "https://suumo.jp/chintai/jnc_000045934048/?bc=100473990578|グランシティ　Ｃ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 4.9,
+      "area_sqm": 43.2,
+      "url": "https://suumo.jp/chintai/jnc_000045934048/?bc=100473990578",
+      "text": "グランシティ　Ｃ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000055910375/?bc=100431785505|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000055910375/?bc=100431785505",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000081067553/?bc=100495188102|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000081067553/?bc=100495188102",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000032648250/?bc=100516641298|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000032648250/?bc=100516641298",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000063637436/?bc=100506939934|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000063637436/?bc=100506939934",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000039079089/?bc=100396240058|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000039079089/?bc=100396240058",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000021376425/?bc=100471957794|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000021376425/?bc=100471957794",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000104322319/?bc=100484675241|エコーマンション１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000104322319/?bc=100484675241",
+      "text": "エコーマンション１"
+    },
+    "https://suumo.jp/chintai/jnc_000104322318/?bc=100484675239|エコーマンション２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町溝口",
+      "price_man": 5.0,
+      "area_sqm": 53.1,
+      "url": "https://suumo.jp/chintai/jnc_000104322318/?bc=100484675239",
+      "text": "エコーマンション２"
+    },
+    "https://suumo.jp/chintai/jnc_000052496693/?bc=100509304279|グランシティ　Ａ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 4.6,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000052496693/?bc=100509304279",
+      "text": "グランシティ　Ａ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000058639102/?bc=100509485955|ＪＲ山陰本線 米子駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 4.6,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000058639102/?bc=100509485955",
+      "text": "ＪＲ山陰本線 米子駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000032496959/?bc=100421354922|グランシティ　Ｄ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 4.5,
+      "area_sqm": 44.2,
+      "url": "https://suumo.jp/chintai/jnc_000032496959/?bc=100421354922",
+      "text": "グランシティ　Ｄ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000103002732/?bc=100494584431|ＪＲ伯備線 伯耆大山駅 2階建 築26年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 41.4,
+      "url": "https://suumo.jp/chintai/jnc_000103002732/?bc=100494584431",
+      "text": "ＪＲ伯備線 伯耆大山駅 2階建 築26年"
+    },
+    "https://suumo.jp/chintai/jnc_000103246774/?bc=100296952028|ＪＲ伯備線 伯耆大山駅 2階建 築26年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字日吉津",
+      "price_man": 4.8,
+      "area_sqm": 41.4,
+      "url": "https://suumo.jp/chintai/jnc_000103246774/?bc=100296952028",
+      "text": "ＪＲ伯備線 伯耆大山駅 2階建 築26年"
+    },
+    "https://suumo.jp/chintai/jnc_000014570129/?bc=100497477761|シティハイム　ホワイトリバー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町大殿",
+      "price_man": 3.9,
+      "area_sqm": 27.7,
+      "url": "https://suumo.jp/chintai/jnc_000014570129/?bc=100497477761",
+      "text": "シティハイム　ホワイトリバー"
+    },
+    "https://suumo.jp/chintai/jnc_000054150034/?bc=100497477791|シティハイム　ホワイトリバー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町大殿",
+      "price_man": 3.9,
+      "area_sqm": 27.7,
+      "url": "https://suumo.jp/chintai/jnc_000054150034/?bc=100497477791",
+      "text": "シティハイム　ホワイトリバー"
+    },
+    "https://suumo.jp/chintai/jnc_000108307182/?bc=100464058376|レオパレスＡｒｃａｄｉａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 6.0,
+      "area_sqm": 21.8,
+      "url": "https://suumo.jp/chintai/jnc_000108307182/?bc=100464058376",
+      "text": "レオパレスＡｒｃａｄｉａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108466460/?bc=100470401337|レオパレスＡｒｃａｄｉａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 6.0,
+      "area_sqm": 21.8,
+      "url": "https://suumo.jp/chintai/jnc_000108466460/?bc=100470401337",
+      "text": "レオパレスＡｒｃａｄｉａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307181/?bc=100425383748|レオパレスＡｒｃａｄｉａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 6.0,
+      "area_sqm": 21.8,
+      "url": "https://suumo.jp/chintai/jnc_000108307181/?bc=100425383748",
+      "text": "レオパレスＡｒｃａｄｉａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307183/?bc=100371603736|レオパレスＡｒｃａｄｉａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 6.1,
+      "area_sqm": 21.8,
+      "url": "https://suumo.jp/chintai/jnc_000108307183/?bc=100371603736",
+      "text": "レオパレスＡｒｃａｄｉａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108466459/?bc=100514869639|レオパレスＡｒｃａｄｉａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡日吉津村大字富吉",
+      "price_man": 6.1,
+      "area_sqm": 21.8,
+      "url": "https://suumo.jp/chintai/jnc_000108466459/?bc=100514869639",
+      "text": "レオパレスＡｒｃａｄｉａ"
+    },
+    "https://suumo.jp/chintai/jnc_000106580758/?bc=100502435120|ロイヤルシティ大山リゾートD22": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県西伯郡伯耆町丸山",
+      "price_man": 20.0,
+      "area_sqm": 115.1,
+      "url": "https://suumo.jp/chintai/jnc_000106580758/?bc=100502435120",
+      "text": "ロイヤルシティ大山リゾートD22"
+    }
+  },
+  "hash": "c52521ab1ab305aa",
+  "fetched_at": "2026-07-24T23:20:01.718645"
+}

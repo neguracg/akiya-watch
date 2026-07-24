@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "https://suumo.jp/chintai/jnc_000086669135/|佐川第2団地": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県日野郡江府町大字佐川",
+      "price_man": 8.7,
+      "area_sqm": 107.8,
+      "url": "https://suumo.jp/chintai/jnc_000086669135/",
+      "text": "佐川第2団地"
+    },
+    "https://suumo.jp/chintai/jnc_000086669133/|佐川第2団地": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県日野郡江府町大字佐川",
+      "price_man": 6.7,
+      "area_sqm": 83.3,
+      "url": "https://suumo.jp/chintai/jnc_000086669133/",
+      "text": "佐川第2団地"
+    }
+  },
+  "hash": "30ad07f5fdeb1f1f",
+  "fetched_at": "2026-07-24T23:21:08.551909"
+}

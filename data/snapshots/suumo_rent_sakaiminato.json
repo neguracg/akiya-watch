@@ -1,0 +1,2958 @@
+{
+  "keys": {
+    "https://suumo.jp/chintai/jnc_000108719910/|ミモザハウス　１号館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.55,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108719910/",
+      "text": "ミモザハウス　１号館"
+    },
+    "https://suumo.jp/chintai/jnc_000078092182/|ＪＲ境線 中浜駅 2階建 築5年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 5.6,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000078092182/",
+      "text": "ＪＲ境線 中浜駅 2階建 築5年"
+    },
+    "https://suumo.jp/chintai/jnc_000106295741/|ＪＲ境線 中浜駅 2階建 築5年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 5.9,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000106295741/",
+      "text": "ＪＲ境線 中浜駅 2階建 築5年"
+    },
+    "https://suumo.jp/chintai/jnc_000108394682/|ヴェルメゾンＫ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 4.65,
+      "area_sqm": 55.4,
+      "url": "https://suumo.jp/chintai/jnc_000108394682/",
+      "text": "ヴェルメゾンＫ"
+    },
+    "https://suumo.jp/chintai/jnc_000107634127/|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.85,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107634127/",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000107408203/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408203/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408205/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408205/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408204/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408204/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408206/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.6,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408206/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408202/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.6,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408202/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408209/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107408209/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408208/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107408208/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408210/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107408210/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408211/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.45,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107408211/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107408207/|グラース・ソレイユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.45,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107408207/",
+      "text": "グラース・ソレイユ"
+    },
+    "https://suumo.jp/chintai/jnc_000107468942/|グレースコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.0,
+      "area_sqm": 44.9,
+      "url": "https://suumo.jp/chintai/jnc_000107468942/",
+      "text": "グレースコート"
+    },
+    "https://suumo.jp/chintai/jnc_000104915341/|グレースコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.3,
+      "area_sqm": 44.9,
+      "url": "https://suumo.jp/chintai/jnc_000104915341/",
+      "text": "グレースコート"
+    },
+    "https://suumo.jp/chintai/jnc_000108444781/|ドルチェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 4.35,
+      "area_sqm": 54.9,
+      "url": "https://suumo.jp/chintai/jnc_000108444781/",
+      "text": "ドルチェ"
+    },
+    "https://suumo.jp/chintai/jnc_000108728829/|レオパレスカーム　Ｓ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市福定町",
+      "price_man": 5.4,
+      "area_sqm": 23.6,
+      "url": "https://suumo.jp/chintai/jnc_000108728829/",
+      "text": "レオパレスカーム　Ｓ"
+    },
+    "https://suumo.jp/chintai/jnc_000108593578/|レオパレスカーム　Ｓ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市福定町",
+      "price_man": 5.7,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108593578/",
+      "text": "レオパレスカーム　Ｓ"
+    },
+    "https://suumo.jp/chintai/jnc_000108593577/|レオパレスカーム　Ｓ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市福定町",
+      "price_man": 5.7,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108593577/",
+      "text": "レオパレスカーム　Ｓ"
+    },
+    "https://suumo.jp/chintai/jnc_000082583011/|クリーンハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.7,
+      "area_sqm": 40.5,
+      "url": "https://suumo.jp/chintai/jnc_000082583011/",
+      "text": "クリーンハイツ"
+    },
+    "https://suumo.jp/chintai/jnc_000108394683/|エレガントヴィラIII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 2.9,
+      "area_sqm": 20.8,
+      "url": "https://suumo.jp/chintai/jnc_000108394683/",
+      "text": "エレガントヴィラIII"
+    },
+    "https://suumo.jp/chintai/jnc_000108276124/|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.81,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108276124/",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000108637599/|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.87,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108637599/",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000108205259/|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.9,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108205259/",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000108486308/|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.9,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108486308/",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000108337559/|フォレストパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.0,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108337559/",
+      "text": "フォレストパレス"
+    },
+    "https://suumo.jp/chintai/jnc_000108337560/|フォレストパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108337560/",
+      "text": "フォレストパレス"
+    },
+    "https://suumo.jp/chintai/jnc_000108363333/|ＪＲ境線 馬場崎町駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.0,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108363333/",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000108363334/|ＪＲ境線 馬場崎町駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108363334/",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000057790811/|アイリス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.9,
+      "area_sqm": 42.8,
+      "url": "https://suumo.jp/chintai/jnc_000057790811/",
+      "text": "アイリス"
+    },
+    "https://suumo.jp/chintai/jnc_000058755212/|ＪＲ境線 馬場崎町駅 2階建 築6年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.9,
+      "area_sqm": 42.8,
+      "url": "https://suumo.jp/chintai/jnc_000058755212/",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築6年"
+    },
+    "https://suumo.jp/chintai/jnc_000107251631/|アヴニール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.9,
+      "area_sqm": 40.4,
+      "url": "https://suumo.jp/chintai/jnc_000107251631/",
+      "text": "アヴニール"
+    },
+    "https://suumo.jp/chintai/jnc_000107273972/|ＪＲ境線 馬場崎町駅 2階建 築10年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.9,
+      "area_sqm": 40.4,
+      "url": "https://suumo.jp/chintai/jnc_000107273972/",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築10年"
+    },
+    "https://suumo.jp/chintai/jnc_000106544452/|ヴェルデ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.6,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000106544452/",
+      "text": "ヴェルデ"
+    },
+    "https://suumo.jp/chintai/jnc_000099713575/|ＪＲ境線 馬場崎町駅 2階建 築11年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 56.4,
+      "url": "https://suumo.jp/chintai/jnc_000099713575/",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築11年"
+    },
+    "https://suumo.jp/chintai/jnc_000108228444/?bc=100515390037|サンビジウム　I": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市財ノ木町",
+      "price_man": 4.75,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000108228444/?bc=100515390037",
+      "text": "サンビジウム　I"
+    },
+    "https://suumo.jp/chintai/jnc_000108228445/?bc=100514716184|ＪＲ境線 米子空港駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市財ノ木町",
+      "price_man": 4.75,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000108228445/?bc=100514716184",
+      "text": "ＪＲ境線 米子空港駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000091288359/?bc=100513150381|レリビィ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.9,
+      "area_sqm": 47.6,
+      "url": "https://suumo.jp/chintai/jnc_000091288359/?bc=100513150381",
+      "text": "レリビィ"
+    },
+    "https://suumo.jp/chintai/jnc_000091326544/?bc=100513001418|ＪＲ境線 馬場崎町駅 2階建 築10年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.9,
+      "area_sqm": 47.6,
+      "url": "https://suumo.jp/chintai/jnc_000091326544/?bc=100513001418",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築10年"
+    },
+    "https://suumo.jp/chintai/jnc_000106580754/?bc=100502414678|ＪＲ境線 馬場崎町駅 2階建 築5年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.6,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000106580754/?bc=100502414678",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築5年"
+    },
+    "https://suumo.jp/chintai/jnc_000104606034/?bc=100476003747|エクセレント・ヴェル　I": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.3,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000104606034/?bc=100476003747",
+      "text": "エクセレント・ヴェル　I"
+    },
+    "https://suumo.jp/chintai/jnc_000104606036/?bc=100474018457|エクセレント・ヴェル　I": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.3,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000104606036/?bc=100474018457",
+      "text": "エクセレント・ヴェル　I"
+    },
+    "https://suumo.jp/chintai/jnc_000107628942/?bc=100386459054|レスポアール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107628942/?bc=100386459054",
+      "text": "レスポアール"
+    },
+    "https://suumo.jp/chintai/jnc_000107628943/?bc=100506032426|レスポアール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.8,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107628943/?bc=100506032426",
+      "text": "レスポアール"
+    },
+    "https://suumo.jp/chintai/jnc_000107786958/?bc=100512684748|レスポアール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.0,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107786958/?bc=100512684748",
+      "text": "レスポアール"
+    },
+    "https://suumo.jp/chintai/jnc_000108689523/?bc=100514943574|ミモザハウス　２号館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.35,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108689523/?bc=100514943574",
+      "text": "ミモザハウス　２号館"
+    },
+    "https://suumo.jp/chintai/jnc_000108692949/?bc=100514542351|ＪＲ境線 馬場崎町駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.35,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108692949/?bc=100514542351",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000107513755/?bc=100486449362|メゾン・ド・ウミライ　元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 34.0,
+      "url": "https://suumo.jp/chintai/jnc_000107513755/?bc=100486449362",
+      "text": "メゾン・ド・ウミライ　元町"
+    },
+    "https://suumo.jp/chintai/jnc_000107513756/?bc=100498811828|メゾン・ド・ウミライ　元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 33.8,
+      "url": "https://suumo.jp/chintai/jnc_000107513756/?bc=100498811828",
+      "text": "メゾン・ド・ウミライ　元町"
+    },
+    "https://suumo.jp/chintai/jnc_000106207702/?bc=100420501942|メゾン・ド・ウミライ　元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.4,
+      "area_sqm": 34.0,
+      "url": "https://suumo.jp/chintai/jnc_000106207702/?bc=100420501942",
+      "text": "メゾン・ド・ウミライ　元町"
+    },
+    "https://suumo.jp/chintai/jnc_000106217013/?bc=100511829493|メゾン・ド・ウミライ　元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.5,
+      "area_sqm": 33.8,
+      "url": "https://suumo.jp/chintai/jnc_000106217013/?bc=100511829493",
+      "text": "メゾン・ド・ウミライ　元町"
+    },
+    "https://suumo.jp/chintai/jnc_000107660566/?bc=100510473763|メゾン・ド・ウミライ　元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 6.7,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000107660566/?bc=100510473763",
+      "text": "メゾン・ド・ウミライ　元町"
+    },
+    "https://suumo.jp/chintai/jnc_000108040505/?bc=100508931264|ミモザハウス　３号館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.5,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108040505/?bc=100508931264",
+      "text": "ミモザハウス　３号館"
+    },
+    "https://suumo.jp/chintai/jnc_000107628941/?bc=100496761335|ミモザハウス　３号館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.5,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107628941/?bc=100496761335",
+      "text": "ミモザハウス　３号館"
+    },
+    "https://suumo.jp/chintai/jnc_000107634132/?bc=100503315084|ＪＲ境線 馬場崎町駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107634132/?bc=100503315084",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000107634133/?bc=100505902745|ＪＲ境線 馬場崎町駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.8,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107634133/?bc=100505902745",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000107816433/?bc=100511521634|ＪＲ境線 馬場崎町駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.0,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107816433/?bc=100511521634",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000108218679/?bc=100497908992|ＪＲ境線 馬場崎町駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.15,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000108218679/?bc=100497908992",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000108196124/?bc=100498131056|サンパティオII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.15,
+      "area_sqm": 57.1,
+      "url": "https://suumo.jp/chintai/jnc_000108196124/?bc=100498131056",
+      "text": "サンパティオII"
+    },
+    "https://suumo.jp/chintai/jnc_000107513757/?bc=100420475467|ＪＲ境線 馬場崎町駅 3階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 34.0,
+      "url": "https://suumo.jp/chintai/jnc_000107513757/?bc=100420475467",
+      "text": "ＪＲ境線 馬場崎町駅 3階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000107513758/?bc=100498587073|ＪＲ境線 馬場崎町駅 3階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 33.8,
+      "url": "https://suumo.jp/chintai/jnc_000107513758/?bc=100498587073",
+      "text": "ＪＲ境線 馬場崎町駅 3階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000107614604/?bc=100510092541|ＪＲ境線 馬場崎町駅 3階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 6.7,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000107614604/?bc=100510092541",
+      "text": "ＪＲ境線 馬場崎町駅 3階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000108363335/?bc=100504432895|ＪＲ境線 馬場崎町駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.5,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108363335/?bc=100504432895",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000108068298/?bc=100508383463|ＪＲ境線 馬場崎町駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.5,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108068298/?bc=100508383463",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104650758/?bc=100496323389|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.3,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000104650758/?bc=100496323389",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000104650760/?bc=100476004355|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 5.3,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000104650760/?bc=100476004355",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000108331417/?bc=100494007640|サンパティオI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.7,
+      "area_sqm": 45.3,
+      "url": "https://suumo.jp/chintai/jnc_000108331417/?bc=100494007640",
+      "text": "サンパティオI"
+    },
+    "https://suumo.jp/chintai/jnc_000107917270/?bc=100386459121|サンパティオI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.7,
+      "area_sqm": 45.3,
+      "url": "https://suumo.jp/chintai/jnc_000107917270/?bc=100386459121",
+      "text": "サンパティオI"
+    },
+    "https://suumo.jp/chintai/jnc_000107917271/?bc=100512723948|サンパティオI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.35,
+      "area_sqm": 58.5,
+      "url": "https://suumo.jp/chintai/jnc_000107917271/?bc=100512723948",
+      "text": "サンパティオI"
+    },
+    "https://suumo.jp/chintai/jnc_000107961597/?bc=100512721405|ＪＲ境線 馬場崎町駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.7,
+      "area_sqm": 45.3,
+      "url": "https://suumo.jp/chintai/jnc_000107961597/?bc=100512721405",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000107961598/?bc=100512721396|ＪＲ境線 馬場崎町駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.35,
+      "area_sqm": 58.5,
+      "url": "https://suumo.jp/chintai/jnc_000107961598/?bc=100512721396",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000108363329/?bc=100493051834|ＪＲ境線 上道駅 2階建 築4年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.55,
+      "area_sqm": 58.7,
+      "url": "https://suumo.jp/chintai/jnc_000108363329/?bc=100493051834",
+      "text": "ＪＲ境線 上道駅 2階建 築4年"
+    },
+    "https://suumo.jp/chintai/jnc_000108558599/?bc=100495371148|ベル　シェリルＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.35,
+      "area_sqm": 56.4,
+      "url": "https://suumo.jp/chintai/jnc_000108558599/?bc=100495371148",
+      "text": "ベル　シェリルＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108337555/?bc=100493978610|ヒラスズキII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.55,
+      "area_sqm": 58.7,
+      "url": "https://suumo.jp/chintai/jnc_000108337555/?bc=100493978610",
+      "text": "ヒラスズキII"
+    },
+    "https://suumo.jp/chintai/jnc_000108602269/?bc=100495152316|ＪＲ境線 馬場崎町駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.35,
+      "area_sqm": 56.4,
+      "url": "https://suumo.jp/chintai/jnc_000108602269/?bc=100495152316",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000104694893/?bc=100490319292|ソヴ－ル　佑": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 5.3,
+      "area_sqm": 59.0,
+      "url": "https://suumo.jp/chintai/jnc_000104694893/?bc=100490319292",
+      "text": "ソヴ－ル　佑"
+    },
+    "https://suumo.jp/chintai/jnc_000106681922/?bc=100507009672|ソヴ－ル　佑": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 5.4,
+      "area_sqm": 59.0,
+      "url": "https://suumo.jp/chintai/jnc_000106681922/?bc=100507009672",
+      "text": "ソヴ－ル　佑"
+    },
+    "https://suumo.jp/chintai/jnc_000104756317/?bc=100500970340|ＪＲ境線 上道駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 5.3,
+      "area_sqm": 59.0,
+      "url": "https://suumo.jp/chintai/jnc_000104756317/?bc=100500970340",
+      "text": "ＪＲ境線 上道駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000106701374/?bc=100503315091|ＪＲ境線 上道駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 5.4,
+      "area_sqm": 59.0,
+      "url": "https://suumo.jp/chintai/jnc_000106701374/?bc=100503315091",
+      "text": "ＪＲ境線 上道駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000108554731/?bc=100502652811|ブリッサ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.6,
+      "area_sqm": 53.4,
+      "url": "https://suumo.jp/chintai/jnc_000108554731/?bc=100502652811",
+      "text": "ブリッサ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000108750869/?bc=100504447924|テルヌーラ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.45,
+      "area_sqm": 52.5,
+      "url": "https://suumo.jp/chintai/jnc_000108750869/?bc=100504447924",
+      "text": "テルヌーラ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000106859295/?bc=100505950685|テルヌーラ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.45,
+      "area_sqm": 51.2,
+      "url": "https://suumo.jp/chintai/jnc_000106859295/?bc=100505950685",
+      "text": "テルヌーラ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000108750868/?bc=100515877323|テルヌーラ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.65,
+      "area_sqm": 51.2,
+      "url": "https://suumo.jp/chintai/jnc_000108750868/?bc=100515877323",
+      "text": "テルヌーラ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000108381415/?bc=100516272730|テルヌーラ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.65,
+      "area_sqm": 51.2,
+      "url": "https://suumo.jp/chintai/jnc_000108381415/?bc=100516272730",
+      "text": "テルヌーラ　Ｂ"
+    },
+    "https://suumo.jp/chintai/jnc_000106946655/?bc=100505213309|ＪＲ境線 馬場崎町駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.45,
+      "area_sqm": 52.5,
+      "url": "https://suumo.jp/chintai/jnc_000106946655/?bc=100505213309",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000108387419/?bc=100515867296|ＪＲ境線 馬場崎町駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.65,
+      "area_sqm": 51.2,
+      "url": "https://suumo.jp/chintai/jnc_000108387419/?bc=100515867296",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000038399212/?bc=100473313488|アース・カラー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000038399212/?bc=100473313488",
+      "text": "アース・カラー"
+    },
+    "https://suumo.jp/chintai/jnc_000068803834/?bc=100477806003|アース・カラー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.8,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000068803834/?bc=100477806003",
+      "text": "アース・カラー"
+    },
+    "https://suumo.jp/chintai/jnc_000102903844/?bc=100473314643|ＪＲ境線 馬場崎町駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000102903844/?bc=100473314643",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000068947739/?bc=100477671853|ＪＲ境線 馬場崎町駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.8,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000068947739/?bc=100477671853",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000108602265/?bc=100502414698|ＪＲ境線 上道駅 2階建 築12年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.6,
+      "area_sqm": 53.4,
+      "url": "https://suumo.jp/chintai/jnc_000108602265/?bc=100502414698",
+      "text": "ＪＲ境線 上道駅 2階建 築12年"
+    },
+    "https://suumo.jp/chintai/jnc_000106835009/?bc=100506396607|サニー・レジデンスＣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 5.5,
+      "area_sqm": 67.5,
+      "url": "https://suumo.jp/chintai/jnc_000106835009/?bc=100506396607",
+      "text": "サニー・レジデンスＣ"
+    },
+    "https://suumo.jp/chintai/jnc_000108405024/?bc=100516012582|ＪＲ境線 境港駅 2階建 築17年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 4.65,
+      "area_sqm": 55.4,
+      "url": "https://suumo.jp/chintai/jnc_000108405024/?bc=100516012582",
+      "text": "ＪＲ境線 境港駅 2階建 築17年"
+    },
+    "https://suumo.jp/chintai/jnc_000108554732/?bc=100501840351|サン・アージュ　II": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市財ノ木町",
+      "price_man": 4.3,
+      "area_sqm": 42.5,
+      "url": "https://suumo.jp/chintai/jnc_000108554732/?bc=100501840351",
+      "text": "サン・アージュ　II"
+    },
+    "https://suumo.jp/chintai/jnc_000108575083/?bc=100501716290|ＪＲ境線 米子空港駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市財ノ木町",
+      "price_man": 4.3,
+      "area_sqm": 42.5,
+      "url": "https://suumo.jp/chintai/jnc_000108575083/?bc=100501716290",
+      "text": "ＪＲ境線 米子空港駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000108558600/?bc=100492618283|ベル　シェリルＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.15,
+      "area_sqm": 57.2,
+      "url": "https://suumo.jp/chintai/jnc_000108558600/?bc=100492618283",
+      "text": "ベル　シェリルＢ"
+    },
+    "https://suumo.jp/chintai/jnc_000108602270/?bc=100492411663|ＪＲ境線 馬場崎町駅 2階建 築14年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.15,
+      "area_sqm": 57.2,
+      "url": "https://suumo.jp/chintai/jnc_000108602270/?bc=100492411663",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築14年"
+    },
+    "https://suumo.jp/chintai/jnc_000106859292/?bc=100504432902|ＪＲ境線 馬場崎町駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 5.5,
+      "area_sqm": 67.5,
+      "url": "https://suumo.jp/chintai/jnc_000106859292/?bc=100504432902",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000107786956/?bc=100511460506|ＪＲ境線 馬場崎町駅 2階建 築12年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.1,
+      "url": "https://suumo.jp/chintai/jnc_000107786956/?bc=100511460506",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築12年"
+    },
+    "https://suumo.jp/chintai/jnc_000106835010/?bc=100505434333|ヴィラ・クレメント": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.25,
+      "area_sqm": 45.3,
+      "url": "https://suumo.jp/chintai/jnc_000106835010/?bc=100505434333",
+      "text": "ヴィラ・クレメント"
+    },
+    "https://suumo.jp/chintai/jnc_000106859293/?bc=100504432898|ＪＲ境線 馬場崎町駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.25,
+      "area_sqm": 45.3,
+      "url": "https://suumo.jp/chintai/jnc_000106859293/?bc=100504432898",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000107628940/?bc=100503529609|アクシアII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.85,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107628940/?bc=100503529609",
+      "text": "アクシアII"
+    },
+    "https://suumo.jp/chintai/jnc_000108178996/?bc=100506570865|アーモンドアイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108178996/?bc=100506570865",
+      "text": "アーモンドアイ"
+    },
+    "https://suumo.jp/chintai/jnc_000108218678/?bc=100506187765|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108218678/?bc=100506187765",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000108750867/?bc=100513458248|ブルーオーシャン・レジデンスＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.6,
+      "area_sqm": 62.6,
+      "url": "https://suumo.jp/chintai/jnc_000108750867/?bc=100513458248",
+      "text": "ブルーオーシャン・レジデンスＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108043843/?bc=100499600506|ブルーオーシャン・レジデンスＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.55,
+      "area_sqm": 62.6,
+      "url": "https://suumo.jp/chintai/jnc_000108043843/?bc=100499600506",
+      "text": "ブルーオーシャン・レジデンスＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000091962278/?bc=100515683409|ブルーオーシャン・レジデンスＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.9,
+      "area_sqm": 62.6,
+      "url": "https://suumo.jp/chintai/jnc_000091962278/?bc=100515683409",
+      "text": "ブルーオーシャン・レジデンスＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000107765863/?bc=100512684831|ル・サンII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.1,
+      "url": "https://suumo.jp/chintai/jnc_000107765863/?bc=100512684831",
+      "text": "ル・サンII"
+    },
+    "https://suumo.jp/chintai/jnc_000108337557/?bc=100491900457|フローラーリア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市花町",
+      "price_man": 4.0,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000108337557/?bc=100491900457",
+      "text": "フローラーリア"
+    },
+    "https://suumo.jp/chintai/jnc_000108363331/?bc=100490338623|ＪＲ境線 馬場崎町駅 2階建 築11年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市花町",
+      "price_man": 4.0,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000108363331/?bc=100490338623",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築11年"
+    },
+    "https://suumo.jp/chintai/jnc_000058487210/?bc=100504941599|サンクレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.6,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000058487210/?bc=100504941599",
+      "text": "サンクレール"
+    },
+    "https://suumo.jp/chintai/jnc_000066196795/?bc=100507353161|サンクレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.0,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000066196795/?bc=100507353161",
+      "text": "サンクレール"
+    },
+    "https://suumo.jp/chintai/jnc_000037453306/?bc=100484426668|サンクレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 58.4,
+      "url": "https://suumo.jp/chintai/jnc_000037453306/?bc=100484426668",
+      "text": "サンクレール"
+    },
+    "https://suumo.jp/chintai/jnc_000058487213/?bc=100504931397|ＪＲ境線 馬場崎町駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.6,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000058487213/?bc=100504931397",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000066280122/?bc=100507265755|ＪＲ境線 馬場崎町駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.0,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000066280122/?bc=100507265755",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000037641332/?bc=100474875147|ＪＲ境線 馬場崎町駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 58.4,
+      "url": "https://suumo.jp/chintai/jnc_000037641332/?bc=100474875147",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000094010062/?bc=100400741190|ファミーユ中野Ａ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000094010062/?bc=100400741190",
+      "text": "ファミーユ中野Ａ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000088982888/?bc=100469080091|ファミーユ中野Ａ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000088982888/?bc=100469080091",
+      "text": "ファミーユ中野Ａ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000044094010/?bc=100507679727|ファミーユ中野　Ｂ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000044094010/?bc=100507679727",
+      "text": "ファミーユ中野　Ｂ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000047630923/?bc=100509268552|サンフラワー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 48.0,
+      "url": "https://suumo.jp/chintai/jnc_000047630923/?bc=100509268552",
+      "text": "サンフラワー"
+    },
+    "https://suumo.jp/chintai/jnc_000057228249/?bc=100508702041|ＪＲ境線 馬場崎町駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.5,
+      "area_sqm": 48.0,
+      "url": "https://suumo.jp/chintai/jnc_000057228249/?bc=100508702041",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000092714169/?bc=100507679608|サンソリエス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 6.1,
+      "area_sqm": 57.7,
+      "url": "https://suumo.jp/chintai/jnc_000092714169/?bc=100507679608",
+      "text": "サンソリエス"
+    },
+    "https://suumo.jp/chintai/jnc_000108040502/?bc=100512684509|アクシアI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.4,
+      "area_sqm": 50.9,
+      "url": "https://suumo.jp/chintai/jnc_000108040502/?bc=100512684509",
+      "text": "アクシアI"
+    },
+    "https://suumo.jp/chintai/jnc_000108068295/?bc=100512221920|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.4,
+      "area_sqm": 50.9,
+      "url": "https://suumo.jp/chintai/jnc_000108068295/?bc=100512221920",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000067223938/?bc=100507375876|サンディアス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 5.1,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000067223938/?bc=100507375876",
+      "text": "サンディアス"
+    },
+    "https://suumo.jp/chintai/jnc_000092723305/?bc=100485509974|ＪＲ境線 上道駅 2階建 築17年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 6.1,
+      "area_sqm": 57.7,
+      "url": "https://suumo.jp/chintai/jnc_000092723305/?bc=100485509974",
+      "text": "ＪＲ境線 上道駅 2階建 築17年"
+    },
+    "https://suumo.jp/chintai/jnc_000105694208/?bc=100496761268|サニー・レジデンスＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.5,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000105694208/?bc=100496761268",
+      "text": "サニー・レジデンスＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000105706772/?bc=100495152348|ＪＲ境線 馬場崎町駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.5,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000105706772/?bc=100495152348",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000089193363/?bc=100297975884|ＪＲ境線 上道駅 2階建 築24年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000089193363/?bc=100297975884",
+      "text": "ＪＲ境線 上道駅 2階建 築24年"
+    },
+    "https://suumo.jp/chintai/jnc_000102073636/?bc=100466241385|ＪＲ境線 上道駅 2階建 築24年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000102073636/?bc=100466241385",
+      "text": "ＪＲ境線 上道駅 2階建 築24年"
+    },
+    "https://suumo.jp/chintai/jnc_000094120265/?bc=100400385326|ＪＲ境線 上道駅 2階建 築24年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.9,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000094120265/?bc=100400385326",
+      "text": "ＪＲ境線 上道駅 2階建 築24年"
+    },
+    "https://suumo.jp/chintai/jnc_000105269491/?bc=100492009865|ローブレＴ・Ｋ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.4,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000105269491/?bc=100492009865",
+      "text": "ローブレＴ・Ｋ"
+    },
+    "https://suumo.jp/chintai/jnc_000104103823/?bc=100507039191|メイプルガーデン　Ｂ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 4.9,
+      "area_sqm": 43.1,
+      "url": "https://suumo.jp/chintai/jnc_000104103823/?bc=100507039191",
+      "text": "メイプルガーデン　Ｂ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108582804/?bc=100495371205|ピュール　ジャンＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108582804/?bc=100495371205",
+      "text": "ピュール　ジャンＢ"
+    },
+    "https://suumo.jp/chintai/jnc_000107483571/?bc=100489155365|ＪＲ境線 上道駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.0,
+      "area_sqm": 44.9,
+      "url": "https://suumo.jp/chintai/jnc_000107483571/?bc=100489155365",
+      "text": "ＪＲ境線 上道駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000104915342/?bc=100490329633|ＪＲ境線 上道駅 2階建 築3年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.3,
+      "area_sqm": 44.9,
+      "url": "https://suumo.jp/chintai/jnc_000104915342/?bc=100490329633",
+      "text": "ＪＲ境線 上道駅 2階建 築3年"
+    },
+    "https://suumo.jp/chintai/jnc_000067235309/?bc=100506962886|ＪＲ境線 中浜駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 5.1,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000067235309/?bc=100506962886",
+      "text": "ＪＲ境線 中浜駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000108349885/?bc=100516272696|ピュールジャンＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108349885/?bc=100516272696",
+      "text": "ピュールジャンＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108582805/?bc=100493803728|ピュール　ジャンＣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108582805/?bc=100493803728",
+      "text": "ピュール　ジャンＣ"
+    },
+    "https://suumo.jp/chintai/jnc_000108602267/?bc=100495112999|ＪＲ境線 上道駅 2階建 築21年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108602267/?bc=100495112999",
+      "text": "ＪＲ境線 上道駅 2階建 築21年"
+    },
+    "https://suumo.jp/chintai/jnc_000108602268/?bc=100493051828|ＪＲ境線 上道駅 2階建 築21年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108602268/?bc=100493051828",
+      "text": "ＪＲ境線 上道駅 2階建 築21年"
+    },
+    "https://suumo.jp/chintai/jnc_000108444782/?bc=100515867308|ＪＲ境線 上道駅 2階建 築21年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 4.45,
+      "area_sqm": 46.5,
+      "url": "https://suumo.jp/chintai/jnc_000108444782/?bc=100515867308",
+      "text": "ＪＲ境線 上道駅 2階建 築21年"
+    },
+    "https://suumo.jp/chintai/jnc_000107408213/?bc=100516944245|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408213/?bc=100516944245",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107408214/?bc=100508383465|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408214/?bc=100508383465",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107408215/?bc=100508383472|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.4,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408215/?bc=100508383472",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107552390/?bc=100508383478|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.6,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107552390/?bc=100508383478",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107408212/?bc=100508383461|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 6.6,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000107408212/?bc=100508383461",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107690662/?bc=100508383480|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107690662/?bc=100508383480",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107408216/?bc=100508383482|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000107408216/?bc=100508383482",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107690663/?bc=100508383484|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.25,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107690663/?bc=100508383484",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000108534804/?bc=100516944243|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.45,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000108534804/?bc=100516944243",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000107690664/?bc=100508383483|ＪＲ境線 馬場崎町駅 2階建 新築": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 7.45,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000107690664/?bc=100508383483",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 新築"
+    },
+    "https://suumo.jp/chintai/jnc_000105275740/?bc=100491839197|ＪＲ境線 境港駅 2階建 築25年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.4,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000105275740/?bc=100491839197",
+      "text": "ＪＲ境線 境港駅 2階建 築25年"
+    },
+    "https://suumo.jp/chintai/jnc_000100783494/?bc=100507755367|ポルタブランシェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000100783494/?bc=100507755367",
+      "text": "ポルタブランシェ"
+    },
+    "https://suumo.jp/chintai/jnc_000107103399/?bc=100507039193|ポルタブランシェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000107103399/?bc=100507039193",
+      "text": "ポルタブランシェ"
+    },
+    "https://suumo.jp/chintai/jnc_000040752098/?bc=100491900449|ポルタブランシェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.6,
+      "area_sqm": 61.6,
+      "url": "https://suumo.jp/chintai/jnc_000040752098/?bc=100491900449",
+      "text": "ポルタブランシェ"
+    },
+    "https://suumo.jp/chintai/jnc_000105434514/?bc=100493604114|デフィ・チョーＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.5,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000105434514/?bc=100493604114",
+      "text": "デフィ・チョーＢ"
+    },
+    "https://suumo.jp/chintai/jnc_000105500638/?bc=100493287084|ＪＲ境線 上道駅 2階建 築22年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.5,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000105500638/?bc=100493287084",
+      "text": "ＪＲ境線 上道駅 2階建 築22年"
+    },
+    "https://suumo.jp/chintai/jnc_000033739895/?bc=100493595597|プログレスＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.1,
+      "area_sqm": 48.7,
+      "url": "https://suumo.jp/chintai/jnc_000033739895/?bc=100493595597",
+      "text": "プログレスＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000107439932/?bc=100400051474|プログレスＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.1,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000107439932/?bc=100400051474",
+      "text": "プログレスＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000037935676/?bc=100507755289|プログレスＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.2,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000037935676/?bc=100507755289",
+      "text": "プログレスＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000027409549/?bc=100507755356|プログレスＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.3,
+      "area_sqm": 48.7,
+      "url": "https://suumo.jp/chintai/jnc_000027409549/?bc=100507755356",
+      "text": "プログレスＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000107614603/?bc=100507039190|プログレスＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.5,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000107614603/?bc=100507039190",
+      "text": "プログレスＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000105716676/?bc=100496489565|デフィ・チョーＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.3,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000105716676/?bc=100496489565",
+      "text": "デフィ・チョーＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000106846214/?bc=100506522600|デフィ・チョーＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.4,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000106846214/?bc=100506522600",
+      "text": "デフィ・チョーＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000105822586/?bc=100496323386|ＪＲ境線 上道駅 2階建 築22年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.3,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000105822586/?bc=100496323386",
+      "text": "ＪＲ境線 上道駅 2階建 築22年"
+    },
+    "https://suumo.jp/chintai/jnc_000106886552/?bc=100504655588|ＪＲ境線 上道駅 2階建 築22年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.4,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000106886552/?bc=100504655588",
+      "text": "ＪＲ境線 上道駅 2階建 築22年"
+    },
+    "https://suumo.jp/chintai/jnc_000104523051/?bc=100513555828|ハイドランジア　２番館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 3.85,
+      "area_sqm": 41.2,
+      "url": "https://suumo.jp/chintai/jnc_000104523051/?bc=100513555828",
+      "text": "ハイドランジア　２番館"
+    },
+    "https://suumo.jp/chintai/jnc_000107901749/?bc=100423039702|ハイドランジア　２番館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.05,
+      "area_sqm": 41.2,
+      "url": "https://suumo.jp/chintai/jnc_000107901749/?bc=100423039702",
+      "text": "ハイドランジア　２番館"
+    },
+    "https://suumo.jp/chintai/jnc_000104528717/?bc=100513442002|ＪＲ境線 境港駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 3.85,
+      "area_sqm": 41.2,
+      "url": "https://suumo.jp/chintai/jnc_000104528717/?bc=100513442002",
+      "text": "ＪＲ境線 境港駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000107917269/?bc=100512221914|ＪＲ境線 境港駅 2階建 築19年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.05,
+      "area_sqm": 41.2,
+      "url": "https://suumo.jp/chintai/jnc_000107917269/?bc=100512221914",
+      "text": "ＪＲ境線 境港駅 2階建 築19年"
+    },
+    "https://suumo.jp/chintai/jnc_000052029963/?bc=100497548642|ジュエル　ガーネット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.8,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000052029963/?bc=100497548642",
+      "text": "ジュエル　ガーネット"
+    },
+    "https://suumo.jp/chintai/jnc_000108040503/?bc=100513766085|ジュエル　ガーネット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.9,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000108040503/?bc=100513766085",
+      "text": "ジュエル　ガーネット"
+    },
+    "https://suumo.jp/chintai/jnc_000108122690/?bc=100514716651|ジュエル　ガーネット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.9,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000108122690/?bc=100514716651",
+      "text": "ジュエル　ガーネット"
+    },
+    "https://suumo.jp/chintai/jnc_000105624843/?bc=100494743129|ジュエル　ガーネット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.5,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000105624843/?bc=100494743129",
+      "text": "ジュエル　ガーネット"
+    },
+    "https://suumo.jp/chintai/jnc_000108051422/?bc=100513441999|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.55,
+      "area_sqm": 62.6,
+      "url": "https://suumo.jp/chintai/jnc_000108051422/?bc=100513441999",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000103257657/?bc=100480665304|ハイドランジア　１番館": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 4.0,
+      "area_sqm": 41.2,
+      "url": "https://suumo.jp/chintai/jnc_000103257657/?bc=100480665304",
+      "text": "ハイドランジア　１番館"
+    },
+    "https://suumo.jp/chintai/jnc_000108475233/?bc=100516477815|ＪＲ境線 中浜駅 2階建 築30年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 4.35,
+      "area_sqm": 54.9,
+      "url": "https://suumo.jp/chintai/jnc_000108475233/?bc=100516477815",
+      "text": "ＪＲ境線 中浜駅 2階建 築30年"
+    },
+    "https://suumo.jp/chintai/jnc_000107349626/?bc=100471423495|富谷マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市東本町",
+      "price_man": 4.5,
+      "area_sqm": 52.2,
+      "url": "https://suumo.jp/chintai/jnc_000107349626/?bc=100471423495",
+      "text": "富谷マンション"
+    },
+    "https://suumo.jp/chintai/jnc_000108034083/?bc=100513277920|富谷マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市東本町",
+      "price_man": 4.5,
+      "area_sqm": 52.2,
+      "url": "https://suumo.jp/chintai/jnc_000108034083/?bc=100513277920",
+      "text": "富谷マンション"
+    },
+    "https://suumo.jp/chintai/jnc_000092197488/?bc=100495700704|プログレス　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.7,
+      "area_sqm": 48.7,
+      "url": "https://suumo.jp/chintai/jnc_000092197488/?bc=100495700704",
+      "text": "プログレス　B棟"
+    },
+    "https://suumo.jp/chintai/jnc_000101341835/?bc=100464036804|プラージュベル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市明治町",
+      "price_man": 4.1,
+      "area_sqm": 32.9,
+      "url": "https://suumo.jp/chintai/jnc_000101341835/?bc=100464036804",
+      "text": "プラージュベル"
+    },
+    "https://suumo.jp/chintai/jnc_000106245975/?bc=100500003942|パークサイドしみず": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.6,
+      "area_sqm": 25.6,
+      "url": "https://suumo.jp/chintai/jnc_000106245975/?bc=100500003942",
+      "text": "パークサイドしみず"
+    },
+    "https://suumo.jp/chintai/jnc_000106253457/?bc=100500000211|ＪＲ境線 馬場崎町駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.6,
+      "area_sqm": 25.6,
+      "url": "https://suumo.jp/chintai/jnc_000106253457/?bc=100500000211",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000106165940/?bc=100499329171|オークシティA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.3,
+      "area_sqm": 51.7,
+      "url": "https://suumo.jp/chintai/jnc_000106165940/?bc=100499329171",
+      "text": "オークシティA"
+    },
+    "https://suumo.jp/chintai/jnc_000107827238/?bc=100492562613|ドリームメジャー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.3,
+      "area_sqm": 29.8,
+      "url": "https://suumo.jp/chintai/jnc_000107827238/?bc=100492562613",
+      "text": "ドリームメジャー"
+    },
+    "https://suumo.jp/chintai/jnc_000107887753/?bc=100511704824|ＪＲ境線 馬場崎町駅 2階建 築21年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 4.3,
+      "area_sqm": 29.8,
+      "url": "https://suumo.jp/chintai/jnc_000107887753/?bc=100511704824",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築21年"
+    },
+    "https://suumo.jp/chintai/jnc_000102656745/?bc=100512221915|ＪＲ境線 境港駅 2階建 築16年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市明治町",
+      "price_man": 4.1,
+      "area_sqm": 32.9,
+      "url": "https://suumo.jp/chintai/jnc_000102656745/?bc=100512221915",
+      "text": "ＪＲ境線 境港駅 2階建 築16年"
+    },
+    "https://suumo.jp/chintai/jnc_000108243556/?bc=100504052134|フレーシア３": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 3.7,
+      "area_sqm": 37.6,
+      "url": "https://suumo.jp/chintai/jnc_000108243556/?bc=100504052134",
+      "text": "フレーシア３"
+    },
+    "https://suumo.jp/chintai/jnc_000108444783/?bc=100516272721|ブライトスクエアＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘２",
+      "price_man": 4.4,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000108444783/?bc=100516272721",
+      "text": "ブライトスクエアＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108444784/?bc=100515867306|ＪＲ境線 高松町駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘２",
+      "price_man": 4.4,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000108444784/?bc=100515867306",
+      "text": "ＪＲ境線 高松町駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000079294543/?bc=100435385652|ＪＲ境線 上道駅 2階建 築25年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.2,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000079294543/?bc=100435385652",
+      "text": "ＪＲ境線 上道駅 2階建 築25年"
+    },
+    "https://suumo.jp/chintai/jnc_000027952643/?bc=100493639673|ＪＲ境線 上道駅 2階建 築25年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.3,
+      "area_sqm": 48.7,
+      "url": "https://suumo.jp/chintai/jnc_000027952643/?bc=100493639673",
+      "text": "ＪＲ境線 上道駅 2階建 築25年"
+    },
+    "https://suumo.jp/chintai/jnc_000107714459/?bc=100397783392|ＪＲ境線 上道駅 2階建 築25年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.5,
+      "area_sqm": 44.3,
+      "url": "https://suumo.jp/chintai/jnc_000107714459/?bc=100397783392",
+      "text": "ＪＲ境線 上道駅 2階建 築25年"
+    },
+    "https://suumo.jp/chintai/jnc_000108433985/?bc=100325882788|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.3,
+      "area_sqm": 23.7,
+      "url": "https://suumo.jp/chintai/jnc_000108433985/?bc=100325882788",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108593579/?bc=100266849413|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.3,
+      "area_sqm": 23.7,
+      "url": "https://suumo.jp/chintai/jnc_000108593579/?bc=100266849413",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307174/?bc=100414094665|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.4,
+      "area_sqm": 23.7,
+      "url": "https://suumo.jp/chintai/jnc_000108307174/?bc=100414094665",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307176/?bc=100495671115|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108307176/?bc=100495671115",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307177/?bc=100324941310|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108307177/?bc=100324941310",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307175/?bc=100429322676|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108307175/?bc=100429322676",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108646225/?bc=100408849639|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108646225/?bc=100408849639",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000108646224/?bc=100510955651|レオパレスＫ－ＳＥＶＥＮ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.7,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108646224/?bc=100510955651",
+      "text": "レオパレスＫ－ＳＥＶＥＮ"
+    },
+    "https://suumo.jp/chintai/jnc_000102656722/?bc=100304403874|ＪＲ境線 上道駅 2階建 築23年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000102656722/?bc=100304403874",
+      "text": "ＪＲ境線 上道駅 2階建 築23年"
+    },
+    "https://suumo.jp/chintai/jnc_000107134289/?bc=100506187761|ＪＲ境線 上道駅 2階建 築23年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.5,
+      "area_sqm": 46.7,
+      "url": "https://suumo.jp/chintai/jnc_000107134289/?bc=100506187761",
+      "text": "ＪＲ境線 上道駅 2階建 築23年"
+    },
+    "https://suumo.jp/chintai/jnc_000105067306/?bc=100490303128|ＪＲ境線 上道駅 2階建 築23年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.6,
+      "area_sqm": 61.6,
+      "url": "https://suumo.jp/chintai/jnc_000105067306/?bc=100490303128",
+      "text": "ＪＲ境線 上道駅 2階建 築23年"
+    },
+    "https://suumo.jp/chintai/jnc_000105782684/?bc=100497682644|オークシティD": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 4.0,
+      "area_sqm": 42.7,
+      "url": "https://suumo.jp/chintai/jnc_000105782684/?bc=100497682644",
+      "text": "オークシティD"
+    },
+    "https://suumo.jp/chintai/jnc_000103965812/?bc=100457385530|ヒカルサ境港渡町ウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000103965812/?bc=100457385530",
+      "text": "ヒカルサ境港渡町ウエスト"
+    },
+    "https://suumo.jp/chintai/jnc_000103965813/?bc=100457385532|ヒカルサ境港渡町ウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000103965813/?bc=100457385532",
+      "text": "ヒカルサ境港渡町ウエスト"
+    },
+    "https://suumo.jp/chintai/jnc_000105434522/?bc=100457385503|ヒカルサ境港渡町ウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.55,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105434522/?bc=100457385503",
+      "text": "ヒカルサ境港渡町ウエスト"
+    },
+    "https://suumo.jp/chintai/jnc_000105434523/?bc=100457385504|ヒカルサ境港渡町ウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.55,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105434523/?bc=100457385504",
+      "text": "ヒカルサ境港渡町ウエスト"
+    },
+    "https://suumo.jp/chintai/jnc_000105434521/?bc=100457385534|ヒカルサ境港渡町ウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.75,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105434521/?bc=100457385534",
+      "text": "ヒカルサ境港渡町ウエスト"
+    },
+    "https://suumo.jp/chintai/jnc_000104113014/?bc=100482882587|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000104113014/?bc=100482882587",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104113013/?bc=100482882586|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000104113013/?bc=100482882586",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105500652/?bc=100493287078|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.55,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105500652/?bc=100493287078",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105500651/?bc=100493287077|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.55,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105500651/?bc=100493287077",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105500650/?bc=100493287096|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.75,
+      "area_sqm": 58.6,
+      "url": "https://suumo.jp/chintai/jnc_000105500650/?bc=100493287096",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105473620/?bc=100424188109|ヒカルサ境港渡町イースト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000105473620/?bc=100424188109",
+      "text": "ヒカルサ境港渡町イースト"
+    },
+    "https://suumo.jp/chintai/jnc_000105473619/?bc=100424188146|ヒカルサ境港渡町イースト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000105473619/?bc=100424188146",
+      "text": "ヒカルサ境港渡町イースト"
+    },
+    "https://suumo.jp/chintai/jnc_000103965811/?bc=100424188263|ヒカルサ境港渡町イースト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.1,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000103965811/?bc=100424188263",
+      "text": "ヒカルサ境港渡町イースト"
+    },
+    "https://suumo.jp/chintai/jnc_000105539942/?bc=100493773227|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000105539942/?bc=100493773227",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105539943/?bc=100493773236|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 6.9,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000105539943/?bc=100493773236",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104113012/?bc=100482882585|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 7.1,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000104113012/?bc=100482882585",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000108554734/?bc=100500314746|ＪＲ境線 上道駅 2階建 築20年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.0,
+      "area_sqm": 58.8,
+      "url": "https://suumo.jp/chintai/jnc_000108554734/?bc=100500314746",
+      "text": "ＪＲ境線 上道駅 2階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000108554733/?bc=100499922076|ｉ．ｍｏｄｅＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.0,
+      "area_sqm": 58.8,
+      "url": "https://suumo.jp/chintai/jnc_000108554733/?bc=100499922076",
+      "text": "ｉ．ｍｏｄｅＡ棟"
+    },
+    "https://suumo.jp/chintai/jnc_000103965809/?bc=100457385411|ヒカルサ境港外江町イーストII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000103965809/?bc=100457385411",
+      "text": "ヒカルサ境港外江町イーストII"
+    },
+    "https://suumo.jp/chintai/jnc_000105434517/?bc=100457385413|ヒカルサ境港外江町イーストII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000105434517/?bc=100457385413",
+      "text": "ヒカルサ境港外江町イーストII"
+    },
+    "https://suumo.jp/chintai/jnc_000106544447/?bc=100398689631|ヒカルサ境港外江町イーストII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000106544447/?bc=100398689631",
+      "text": "ヒカルサ境港外江町イーストII"
+    },
+    "https://suumo.jp/chintai/jnc_000105434519/?bc=100398798841|ヒカルサ境港外江町イーストII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.9,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000105434519/?bc=100398798841",
+      "text": "ヒカルサ境港外江町イーストII"
+    },
+    "https://suumo.jp/chintai/jnc_000103965806/?bc=100457385544|ヒカルサ境港外江町イーストI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000103965806/?bc=100457385544",
+      "text": "ヒカルサ境港外江町イーストI"
+    },
+    "https://suumo.jp/chintai/jnc_000103965807/?bc=100398665434|ヒカルサ境港外江町イーストI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000103965807/?bc=100398665434",
+      "text": "ヒカルサ境港外江町イーストI"
+    },
+    "https://suumo.jp/chintai/jnc_000105434516/?bc=100493638521|ヒカルサ境港外江町イーストI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.9,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000105434516/?bc=100493638521",
+      "text": "ヒカルサ境港外江町イーストI"
+    },
+    "https://suumo.jp/chintai/jnc_000105500642/?bc=100493287103|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000105500642/?bc=100493287103",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104113009/?bc=100497717546|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000104113009/?bc=100497717546",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000106580751/?bc=100502414683|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.15,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000106580751/?bc=100502414683",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105500644/?bc=100493287098|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.9,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000105500644/?bc=100493287098",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104175603/?bc=100482882576|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000104175603/?bc=100482882576",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000104113007/?bc=100482882579|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000104113007/?bc=100482882579",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000105500641/?bc=100493287105|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.9,
+      "area_sqm": 59.5,
+      "url": "https://suumo.jp/chintai/jnc_000105500641/?bc=100493287105",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000107917273/?bc=100508595363|ルミエール松本": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.6,
+      "area_sqm": 34.8,
+      "url": "https://suumo.jp/chintai/jnc_000107917273/?bc=100508595363",
+      "text": "ルミエール松本"
+    },
+    "https://suumo.jp/chintai/jnc_000103965804/?bc=100393430735|ヒカルサ境港外江町ウエストI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.0,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000103965804/?bc=100393430735",
+      "text": "ヒカルサ境港外江町ウエストI"
+    },
+    "https://suumo.jp/chintai/jnc_000104113005/?bc=100482882574|ＪＲ境線 上道駅 2階建 築2年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.0,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000104113005/?bc=100482882574",
+      "text": "ＪＲ境線 上道駅 2階建 築2年"
+    },
+    "https://suumo.jp/chintai/jnc_000107143608/?bc=100506898189|マイルドオーク": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.7,
+      "area_sqm": 40.6,
+      "url": "https://suumo.jp/chintai/jnc_000107143608/?bc=100506898189",
+      "text": "マイルドオーク"
+    },
+    "https://suumo.jp/chintai/jnc_000107126271/?bc=100506898171|マイルドオーク": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.9,
+      "area_sqm": 40.6,
+      "url": "https://suumo.jp/chintai/jnc_000107126271/?bc=100506898171",
+      "text": "マイルドオーク"
+    },
+    "https://suumo.jp/chintai/jnc_000040752097/?bc=100507009703|サンフレグランス　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 4.0,
+      "area_sqm": 35.3,
+      "url": "https://suumo.jp/chintai/jnc_000040752097/?bc=100507009703",
+      "text": "サンフレグランス　B棟"
+    },
+    "https://suumo.jp/chintai/jnc_000107192203/?bc=100506633554|ＪＲ境線 境港駅 2階建 築29年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.7,
+      "area_sqm": 40.6,
+      "url": "https://suumo.jp/chintai/jnc_000107192203/?bc=100506633554",
+      "text": "ＪＲ境線 境港駅 2階建 築29年"
+    },
+    "https://suumo.jp/chintai/jnc_000107143609/?bc=100506371659|ＪＲ境線 境港駅 2階建 築29年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.9,
+      "area_sqm": 40.6,
+      "url": "https://suumo.jp/chintai/jnc_000107143609/?bc=100506371659",
+      "text": "ＪＲ境線 境港駅 2階建 築29年"
+    },
+    "https://suumo.jp/chintai/jnc_000108646222/?bc=100426553790|レオネクストアガリミチ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 7.1,
+      "area_sqm": 46.9,
+      "url": "https://suumo.jp/chintai/jnc_000108646222/?bc=100426553790",
+      "text": "レオネクストアガリミチ"
+    },
+    "https://suumo.jp/chintai/jnc_000052894786/?bc=100494811913|ＪＲ境線 上道駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.8,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000052894786/?bc=100494811913",
+      "text": "ＪＲ境線 上道駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000108098793/?bc=100513876549|ＪＲ境線 上道駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.9,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000108098793/?bc=100513876549",
+      "text": "ＪＲ境線 上道駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000108068296/?bc=100513419261|ＪＲ境線 上道駅 2階建 築18年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 6.9,
+      "area_sqm": 72.9,
+      "url": "https://suumo.jp/chintai/jnc_000108068296/?bc=100513419261",
+      "text": "ＪＲ境線 上道駅 2階建 築18年"
+    },
+    "https://suumo.jp/chintai/jnc_000108256570/?bc=100503990365|ＪＲ境線 馬場崎町駅 2階建 築15年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 3.7,
+      "area_sqm": 37.6,
+      "url": "https://suumo.jp/chintai/jnc_000108256570/?bc=100503990365",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築15年"
+    },
+    "https://suumo.jp/chintai/jnc_000106378306/?bc=100501323344|マイルドオークII": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 3.6,
+      "area_sqm": 46.9,
+      "url": "https://suumo.jp/chintai/jnc_000106378306/?bc=100501323344",
+      "text": "マイルドオークII"
+    },
+    "https://suumo.jp/chintai/jnc_000106398780/?bc=100500970338|ＪＲ境線 馬場崎町駅 2階建 築28年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 3.6,
+      "area_sqm": 46.9,
+      "url": "https://suumo.jp/chintai/jnc_000106398780/?bc=100500970338",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築28年"
+    },
+    "https://suumo.jp/chintai/jnc_000082587326/?bc=100514842500|ＪＲ境線 境港駅 2階建 築39年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市清水町",
+      "price_man": 3.7,
+      "area_sqm": 40.5,
+      "url": "https://suumo.jp/chintai/jnc_000082587326/?bc=100514842500",
+      "text": "ＪＲ境線 境港駅 2階建 築39年"
+    },
+    "https://suumo.jp/chintai/jnc_000108196125/?bc=100513655132|ビレッジハウス境港第三1号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 4.25,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000108196125/?bc=100513655132",
+      "text": "ビレッジハウス境港第三1号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108187159/?bc=100509813663|ビレッジハウス境港第三1号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 4.55,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000108187159/?bc=100509813663",
+      "text": "ビレッジハウス境港第三1号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108205257/?bc=100513926933|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 4.25,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000108205257/?bc=100513926933",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000108205256/?bc=100509406395|ＪＲ境線 余子駅 5階建 築49年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 4.55,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000108205256/?bc=100509406395",
+      "text": "ＪＲ境線 余子駅 5階建 築49年"
+    },
+    "https://suumo.jp/chintai/jnc_000047561717/?bc=100502954072|ＪＲ境線 中浜駅 2階建 築32年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市三軒屋町",
+      "price_man": 4.0,
+      "area_sqm": 35.3,
+      "url": "https://suumo.jp/chintai/jnc_000047561717/?bc=100502954072",
+      "text": "ＪＲ境線 中浜駅 2階建 築32年"
+    },
+    "https://suumo.jp/chintai/jnc_000092221250/?bc=100493639680|ＪＲ境線 上道駅 2階建 築25年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 5.7,
+      "area_sqm": 48.7,
+      "url": "https://suumo.jp/chintai/jnc_000092221250/?bc=100493639680",
+      "text": "ＪＲ境線 上道駅 2階建 築25年"
+    },
+    "https://suumo.jp/chintai/jnc_000105878480/?bc=100497824093|ヴィラグランツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 4.05,
+      "area_sqm": 35.2,
+      "url": "https://suumo.jp/chintai/jnc_000105878480/?bc=100497824093",
+      "text": "ヴィラグランツ"
+    },
+    "https://suumo.jp/chintai/jnc_000105980959/?bc=100497717542|ＪＲ境線 中浜駅 2階建 築22年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 4.05,
+      "area_sqm": 35.2,
+      "url": "https://suumo.jp/chintai/jnc_000105980959/?bc=100497717542",
+      "text": "ＪＲ境線 中浜駅 2階建 築22年"
+    },
+    "https://suumo.jp/chintai/jnc_000107666690/?bc=100510473896|ビレッジハウス境港第二1号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 2.95,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000107666690/?bc=100510473896",
+      "text": "ビレッジハウス境港第二1号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108550705/?bc=100517398467|ビレッジハウス境港第二1号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 2.96,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108550705/?bc=100517398467",
+      "text": "ビレッジハウス境港第二1号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108228446/?bc=100515065850|ビレッジハウス境港第二1号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 3.23,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108228446/?bc=100515065850",
+      "text": "ビレッジハウス境港第二1号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108068293/?bc=100513636066|ビレッジハウス境港第二2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 3.15,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108068293/?bc=100513636066",
+      "text": "ビレッジハウス境港第二2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000104833246/?bc=100510285339|ビレッジハウス境港第二2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 3.37,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000104833246/?bc=100510285339",
+      "text": "ビレッジハウス境港第二2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000107653623/?bc=100510402881|ＪＲ境線 高松町駅 5階建 築52年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 2.95,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000107653623/?bc=100510402881",
+      "text": "ＪＲ境線 高松町駅 5階建 築52年"
+    },
+    "https://suumo.jp/chintai/jnc_000108602266/?bc=100517434587|ＪＲ境線 高松町駅 5階建 築52年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 2.96,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108602266/?bc=100517434587",
+      "text": "ＪＲ境線 高松町駅 5階建 築52年"
+    },
+    "https://suumo.jp/chintai/jnc_000108237752/?bc=100515015373|ＪＲ境線 高松町駅 5階建 築52年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 3.23,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108237752/?bc=100515015373",
+      "text": "ＪＲ境線 高松町駅 5階建 築52年"
+    },
+    "https://suumo.jp/chintai/jnc_000108105108/?bc=100513926929|ＪＲ境線 高松町駅 5階建 築52年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市誠道町",
+      "price_man": 3.15,
+      "area_sqm": 33.6,
+      "url": "https://suumo.jp/chintai/jnc_000108105108/?bc=100513926929",
+      "text": "ＪＲ境線 高松町駅 5階建 築52年"
+    },
+    "https://suumo.jp/chintai/jnc_000108218682/?bc=100514654937|ビレッジハウス境港第三2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.81,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108218682/?bc=100514654937",
+      "text": "ビレッジハウス境港第三2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108218680/?bc=100517778514|ビレッジハウス境港第三2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.87,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108218680/?bc=100517778514",
+      "text": "ビレッジハウス境港第三2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108187162/?bc=100512665155|ビレッジハウス境港第三2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.9,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108187162/?bc=100512665155",
+      "text": "ビレッジハウス境港第三2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000108466458/?bc=100514654935|ビレッジハウス境港第三2号棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 2.9,
+      "area_sqm": 39.8,
+      "url": "https://suumo.jp/chintai/jnc_000108466458/?bc=100514654935",
+      "text": "ビレッジハウス境港第三2号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000102975700/?bc=100439524398|ガーデンスクウェア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 2.45,
+      "area_sqm": 20.8,
+      "url": "https://suumo.jp/chintai/jnc_000102975700/?bc=100439524398",
+      "text": "ガーデンスクウェア"
+    },
+    "https://suumo.jp/chintai/jnc_000103235971/?bc=100493287083|ＪＲ境線 馬場崎町駅 2階建 築26年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 2.45,
+      "area_sqm": 20.8,
+      "url": "https://suumo.jp/chintai/jnc_000103235971/?bc=100493287083",
+      "text": "ＪＲ境線 馬場崎町駅 2階建 築26年"
+    },
+    "https://suumo.jp/chintai/jnc_000108413616/?bc=100516012587|ＪＲ境線 中浜駅 2階建 築27年": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘１",
+      "price_man": 2.9,
+      "area_sqm": 20.8,
+      "url": "https://suumo.jp/chintai/jnc_000108413616/?bc=100516012587",
+      "text": "ＪＲ境線 中浜駅 2階建 築27年"
+    },
+    "https://suumo.jp/chintai/jnc_000099672262/?bc=100481316071|ラ．ヴェリタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.3,
+      "area_sqm": 56.4,
+      "url": "https://suumo.jp/chintai/jnc_000099672262/?bc=100481316071",
+      "text": "ラ．ヴェリタ"
+    },
+    "https://suumo.jp/chintai/jnc_000106617557/?bc=100464030873|ラ．ヴェリタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市元町",
+      "price_man": 5.5,
+      "area_sqm": 56.4,
+      "url": "https://suumo.jp/chintai/jnc_000106617557/?bc=100464030873",
+      "text": "ラ．ヴェリタ"
+    },
+    "https://suumo.jp/chintai/jnc_000107642285/?bc=100510268749|ハウスメイト７": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市芝町",
+      "price_man": 4.5,
+      "area_sqm": 53.0,
+      "url": "https://suumo.jp/chintai/jnc_000107642285/?bc=100510268749",
+      "text": "ハウスメイト７"
+    },
+    "https://suumo.jp/chintai/jnc_000107758784/?bc=100510251885|鳥取県境港市竹内町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 4.0,
+      "area_sqm": 104.5,
+      "url": "https://suumo.jp/chintai/jnc_000107758784/?bc=100510251885",
+      "text": "鳥取県境港市竹内町"
+    },
+    "https://suumo.jp/chintai/jnc_000088877735/?bc=100494819339|輝洋ハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市中野町",
+      "price_man": 5.5,
+      "area_sqm": 59.4,
+      "url": "https://suumo.jp/chintai/jnc_000088877735/?bc=100494819339",
+      "text": "輝洋ハイツ"
+    },
+    "https://suumo.jp/chintai/jnc_000108051423/?bc=100513458321|グリーンパーク　Ｅ・Ｉ　Ａ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市夕日ヶ丘２",
+      "price_man": 5.2,
+      "area_sqm": 52.6,
+      "url": "https://suumo.jp/chintai/jnc_000108051423/?bc=100513458321",
+      "text": "グリーンパーク　Ｅ・Ｉ　Ａ"
+    },
+    "https://suumo.jp/chintai/jnc_000108413614/?bc=100515385790|ＰＬＵＭ（プラム）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 7.2,
+      "area_sqm": 70.1,
+      "url": "https://suumo.jp/chintai/jnc_000108413614/?bc=100515385790",
+      "text": "ＰＬＵＭ（プラム）"
+    },
+    "https://suumo.jp/chintai/jnc_000086010264/?bc=100510268875|WAVY": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市渡町",
+      "price_man": 4.0,
+      "area_sqm": 33.3,
+      "url": "https://suumo.jp/chintai/jnc_000086010264/?bc=100510268875",
+      "text": "WAVY"
+    },
+    "https://suumo.jp/chintai/jnc_000108593580/?bc=100317435345|レオパレスｗｅｓｔ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.3,
+      "area_sqm": 23.7,
+      "url": "https://suumo.jp/chintai/jnc_000108593580/?bc=100317435345",
+      "text": "レオパレスｗｅｓｔ"
+    },
+    "https://suumo.jp/chintai/jnc_000108307178/?bc=100464646363|レオパレスｗｅｓｔ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108307178/?bc=100464646363",
+      "text": "レオパレスｗｅｓｔ"
+    },
+    "https://suumo.jp/chintai/jnc_000108433986/?bc=100397211746|レオパレスｗｅｓｔ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108433986/?bc=100397211746",
+      "text": "レオパレスｗｅｓｔ"
+    },
+    "https://suumo.jp/chintai/jnc_000108593581/?bc=100271901678|レオパレスｗｅｓｔ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.6,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108593581/?bc=100271901678",
+      "text": "レオパレスｗｅｓｔ"
+    },
+    "https://suumo.jp/chintai/jnc_000108492224/?bc=100480312459|レオパレスｗｅｓｔ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 5.7,
+      "area_sqm": 26.1,
+      "url": "https://suumo.jp/chintai/jnc_000108492224/?bc=100480312459",
+      "text": "レオパレスｗｅｓｔ"
+    },
+    "https://suumo.jp/chintai/jnc_000108492223/?bc=100508685046|レオパレスヴァンキャトル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 5.6,
+      "area_sqm": 23.6,
+      "url": "https://suumo.jp/chintai/jnc_000108492223/?bc=100508685046",
+      "text": "レオパレスヴァンキャトル"
+    },
+    "https://suumo.jp/chintai/jnc_000108567054/?bc=100366990837|レオパレスヴァンキャトル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 5.9,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567054/?bc=100366990837",
+      "text": "レオパレスヴァンキャトル"
+    },
+    "https://suumo.jp/chintai/jnc_000108567055/?bc=100413436024|レオパレスヴァンキャトル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 5.9,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567055/?bc=100413436024",
+      "text": "レオパレスヴァンキャトル"
+    },
+    "https://suumo.jp/chintai/jnc_000108567056/?bc=100353550120|レオパレスヴァンキャトル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市竹内町",
+      "price_man": 5.9,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567056/?bc=100353550120",
+      "text": "レオパレスヴァンキャトル"
+    },
+    "https://suumo.jp/chintai/jnc_000108567051/?bc=100516398921|レオパレス境中央": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市末広町",
+      "price_man": 5.5,
+      "area_sqm": 23.6,
+      "url": "https://suumo.jp/chintai/jnc_000108567051/?bc=100516398921",
+      "text": "レオパレス境中央"
+    },
+    "https://suumo.jp/chintai/jnc_000108646223/?bc=100468736131|レオパレス境中央": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市末広町",
+      "price_man": 5.9,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108646223/?bc=100468736131",
+      "text": "レオパレス境中央"
+    },
+    "https://suumo.jp/chintai/jnc_000108567053/?bc=100495671202|レオパレス境中央": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市末広町",
+      "price_man": 5.9,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567053/?bc=100495671202",
+      "text": "レオパレス境中央"
+    },
+    "https://suumo.jp/chintai/jnc_000108567052/?bc=100252787490|レオパレス境中央": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市末広町",
+      "price_man": 6.0,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567052/?bc=100252787490",
+      "text": "レオパレス境中央"
+    },
+    "https://suumo.jp/chintai/jnc_000090609555/?bc=100484736970|フロール１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市日ノ出町",
+      "price_man": 4.0,
+      "area_sqm": 28.2,
+      "url": "https://suumo.jp/chintai/jnc_000090609555/?bc=100484736970",
+      "text": "フロール１"
+    },
+    "https://suumo.jp/chintai/jnc_000017384897/?bc=100446302497|フロール１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市日ノ出町",
+      "price_man": 4.0,
+      "area_sqm": 28.2,
+      "url": "https://suumo.jp/chintai/jnc_000017384897/?bc=100446302497",
+      "text": "フロール１"
+    },
+    "https://suumo.jp/chintai/jnc_000108610568/?bc=100178299027|境港市上道町貸家D": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 6.3,
+      "area_sqm": 69.6,
+      "url": "https://suumo.jp/chintai/jnc_000108610568/?bc=100178299027",
+      "text": "境港市上道町貸家D"
+    },
+    "https://suumo.jp/chintai/jnc_000095547947/?bc=100416122324|フロール２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市栄町",
+      "price_man": 4.0,
+      "area_sqm": 28.2,
+      "url": "https://suumo.jp/chintai/jnc_000095547947/?bc=100416122324",
+      "text": "フロール２"
+    },
+    "https://suumo.jp/chintai/jnc_000077433075/?bc=100483315165|フロール２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市栄町",
+      "price_man": 4.0,
+      "area_sqm": 28.2,
+      "url": "https://suumo.jp/chintai/jnc_000077433075/?bc=100483315165",
+      "text": "フロール２"
+    },
+    "https://suumo.jp/chintai/jnc_000108087254/?bc=100468959481|プリティハウスＹ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 4.1,
+      "area_sqm": 51.8,
+      "url": "https://suumo.jp/chintai/jnc_000108087254/?bc=100468959481",
+      "text": "プリティハウスＹ"
+    },
+    "https://suumo.jp/chintai/jnc_000039529784/?bc=100490559160|クリーンポートハウス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市外江町",
+      "price_man": 3.7,
+      "area_sqm": 39.7,
+      "url": "https://suumo.jp/chintai/jnc_000039529784/?bc=100490559160",
+      "text": "クリーンポートハウス"
+    },
+    "https://suumo.jp/chintai/jnc_000108610569/?bc=100483933826|日ノ出シャルマン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市日ノ出町",
+      "price_man": 3.1,
+      "area_sqm": 35.0,
+      "url": "https://suumo.jp/chintai/jnc_000108610569/?bc=100483933826",
+      "text": "日ノ出シャルマン"
+    },
+    "https://suumo.jp/chintai/jnc_000105127625/?bc=100490731246|ルミエール３": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市相生町",
+      "price_man": 2.5,
+      "area_sqm": 17.0,
+      "url": "https://suumo.jp/chintai/jnc_000105127625/?bc=100490731246",
+      "text": "ルミエール３"
+    },
+    "https://suumo.jp/chintai/jnc_000108098792/?bc=100446286175|ルミエール３": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市相生町",
+      "price_man": 3.2,
+      "area_sqm": 33.1,
+      "url": "https://suumo.jp/chintai/jnc_000108098792/?bc=100446286175",
+      "text": "ルミエール３"
+    },
+    "https://suumo.jp/chintai/jnc_000105127624/?bc=100490731244|ルミエール３": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市相生町",
+      "price_man": 3.5,
+      "area_sqm": 35.9,
+      "url": "https://suumo.jp/chintai/jnc_000105127624/?bc=100490731244",
+      "text": "ルミエール３"
+    },
+    "https://suumo.jp/chintai/jnc_000108610570/?bc=100217277024|コーポ竹本": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市米川町",
+      "price_man": 3.2,
+      "area_sqm": 21.1,
+      "url": "https://suumo.jp/chintai/jnc_000108610570/?bc=100217277024",
+      "text": "コーポ竹本"
+    },
+    "https://suumo.jp/chintai/jnc_000107213242/?bc=100506939932|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000107213242/?bc=100506939932",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000102291367/?bc=100468079488|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000102291367/?bc=100468079488",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000102737459/?bc=100471957793|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000102737459/?bc=100471957793",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000102229202/?bc=100467609523|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000102229202/?bc=100467609523",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000105428994/?bc=100476686116|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000105428994/?bc=100476686116",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000100470407/?bc=100451601983|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000100470407/?bc=100451601983",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000100467115/?bc=100451538848|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000100467115/?bc=100451538848",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000095313551/?bc=100493209294|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000095313551/?bc=100493209294",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000100470408/?bc=100451601980|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000100470408/?bc=100451601980",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000104505072/?bc=100486079900|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000104505072/?bc=100486079900",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000100467114/?bc=100451538847|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000100467114/?bc=100451538847",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000095313547/?bc=100502665725|メゾン・ド・フオレ境港": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市上道町",
+      "price_man": 2.38,
+      "area_sqm": 17.7,
+      "url": "https://suumo.jp/chintai/jnc_000095313547/?bc=100502665725",
+      "text": "メゾン・ド・フオレ境港"
+    },
+    "https://suumo.jp/chintai/jnc_000108593575/?bc=100425383808|レオパレスＨＡＮＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市花町",
+      "price_man": 5.4,
+      "area_sqm": 23.6,
+      "url": "https://suumo.jp/chintai/jnc_000108593575/?bc=100425383808",
+      "text": "レオパレスＨＡＮＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108593576/?bc=100260191972|レオパレスＨＡＮＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市花町",
+      "price_man": 5.6,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108593576/?bc=100260191972",
+      "text": "レオパレスＨＡＮＡ"
+    },
+    "https://suumo.jp/chintai/jnc_000108567057/?bc=100515666249|レオパレスＨＡＮＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県境港市花町",
+      "price_man": 5.6,
+      "area_sqm": 28.0,
+      "url": "https://suumo.jp/chintai/jnc_000108567057/?bc=100515666249",
+      "text": "レオパレスＨＡＮＡ"
+    }
+  },
+  "hash": "f5d6f673636aa307",
+  "fetched_at": "2026-07-24T23:07:24.297319"
+}

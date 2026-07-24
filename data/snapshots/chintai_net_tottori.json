@@ -1,0 +1,4236 @@
+{
+  "keys": {
+    "https://www.chintai.net/detail/bk-C030000200000000000009770002/|シュプレイムA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市賀露町北3丁目",
+      "price_man": 5.3,
+      "area_sqm": 48.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009770002/",
+      "text": "シュプレイムA"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011970002/|セント　ルラーシュ　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南2丁目",
+      "price_man": 6.6,
+      "area_sqm": 54.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011970002/",
+      "text": "セント　ルラーシュ　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009210002/|コヤマバックス616": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 4.5,
+      "area_sqm": 30.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009210002/",
+      "text": "コヤマバックス616"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007020004/|レーヴ吉成B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町2丁目",
+      "price_man": 4.3,
+      "area_sqm": 28.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007020004/",
+      "text": "レーヴ吉成B"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012580001/|フロールドメゾン　Ｃ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.1,
+      "area_sqm": 52.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012580001/",
+      "text": "フロールドメゾン　Ｃ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006450001/|シャーメゾン高矢倉": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 3.9,
+      "area_sqm": 35.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006450001/",
+      "text": "シャーメゾン高矢倉"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006450003/|シャーメゾン高矢倉": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006450003/",
+      "text": "シャーメゾン高矢倉"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012900001/|シャーメゾン高矢倉": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012900001/",
+      "text": "シャーメゾン高矢倉"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015930004/|エーデルⅠ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 4.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015930004/",
+      "text": "エーデルⅠ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015930003/|エーデルⅠ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 5.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015930003/",
+      "text": "エーデルⅠ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013340001/|モンシャトーコトブキ　Ｂ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市寿町",
+      "price_man": 5.6,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013340001/",
+      "text": "モンシャトーコトブキ　Ｂ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012130002/|シャロン　Ⅰ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方",
+      "price_man": 5.7,
+      "area_sqm": 43.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012130002/",
+      "text": "シャロン　Ⅰ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019820006/|第二グリーンコーポN　A棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 3.6,
+      "area_sqm": 28.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019820006/",
+      "text": "第二グリーンコーポN　A棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015890002/|ラ・ファミーユ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市卯垣1丁目",
+      "price_man": 6.7,
+      "area_sqm": 65.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015890002/",
+      "text": "ラ・ファミーユ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014180005/|オーチャードＤ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町稲葉丘3丁目",
+      "price_man": 5.5,
+      "area_sqm": 40.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014180005/",
+      "text": "オーチャードＤ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012410003/|カナート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.6,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012410003/",
+      "text": "カナート"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018880008/|カナート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.6,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018880008/",
+      "text": "カナート"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018880009/|カナート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.7,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018880009/",
+      "text": "カナート"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010310005/|コリーヌ　ベルビュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 6.6,
+      "area_sqm": 40.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010310005/",
+      "text": "コリーヌ　ベルビュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011150004/|クレールニシヤマⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 6.9,
+      "area_sqm": 70.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011150004/",
+      "text": "クレールニシヤマⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007710008/|PoPoベルグ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 5.45,
+      "area_sqm": 40.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007710008/",
+      "text": "PoPoベルグ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015490001/|PoPoベルグ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 5.45,
+      "area_sqm": 40.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015490001/",
+      "text": "PoPoベルグ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020450005/|クレール・リードⅡ　A": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.35,
+      "area_sqm": 59.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020450005/",
+      "text": "クレール・リードⅡ　A"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022130001/|グリーンゲーブルズA1": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 5.3,
+      "area_sqm": 54.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022130001/",
+      "text": "グリーンゲーブルズA1"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020260001/|コリーヌ　ベルビュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂1丁目",
+      "price_man": 6.6,
+      "area_sqm": 40.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020260001/",
+      "text": "コリーヌ　ベルビュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014890004/|リバーヒルズ浜坂": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 8.7,
+      "area_sqm": 52.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014890004/",
+      "text": "リバーヒルズ浜坂"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014890003/|リバーヒルズ浜坂": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 8.9,
+      "area_sqm": 52.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014890003/",
+      "text": "リバーヒルズ浜坂"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014890002/|リバーヒルズ浜坂": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 7.45,
+      "area_sqm": 43.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014890002/",
+      "text": "リバーヒルズ浜坂"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061620102060206/|ビレッジハウス岩倉Ⅱ1号棟 (206号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩倉467-15",
+      "price_man": 4.42,
+      "area_sqm": 53.1,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061620102060206/",
+      "text": "ビレッジハウス岩倉Ⅱ1号棟 (206号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014040004/|ハイツＫ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桜谷",
+      "price_man": 5.4,
+      "area_sqm": 50.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014040004/",
+      "text": "ハイツＫ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014880001/|レジデンス興南": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市興南町",
+      "price_man": 4.0,
+      "area_sqm": 26.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014880001/",
+      "text": "レジデンス興南"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014880024/|レジデンス興南": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市興南町",
+      "price_man": 4.1,
+      "area_sqm": 26.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014880024/",
+      "text": "レジデンス興南"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014880033/|レジデンス興南": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市興南町",
+      "price_man": 4.1,
+      "area_sqm": 26.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014880033/",
+      "text": "レジデンス興南"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003250010/|グランコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩倉",
+      "price_man": 6.4,
+      "area_sqm": 63.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003250010/",
+      "text": "グランコート"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002210013/|コーポヨネザワ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 4.6,
+      "area_sqm": 35.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002210013/",
+      "text": "コーポヨネザワ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009850005/|メゾンポルテ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市覚寺",
+      "price_man": 5.8,
+      "area_sqm": 53.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009850005/",
+      "text": "メゾンポルテ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010230007/|クレールニシヤマⅢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 6.1,
+      "area_sqm": 35.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010230007/",
+      "text": "クレールニシヤマⅢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015920004/|ハイカムールアダチ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.2,
+      "area_sqm": 55.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015920004/",
+      "text": "ハイカムールアダチ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012210003/|ハイカムールアダチ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.4,
+      "area_sqm": 55.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012210003/",
+      "text": "ハイカムールアダチ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015920005/|ハイカムールアダチ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.4,
+      "area_sqm": 55.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015920005/",
+      "text": "ハイカムールアダチ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018890018/|コスモス天神": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市天神町",
+      "price_man": 4.2,
+      "area_sqm": 25.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018890018/",
+      "text": "コスモス天神"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018890004/|コスモス天神": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市天神町",
+      "price_man": 4.1,
+      "area_sqm": 25.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018890004/",
+      "text": "コスモス天神"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018890042/|コスモス天神": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市天神町",
+      "price_man": 4.2,
+      "area_sqm": 25.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018890042/",
+      "text": "コスモス天神"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006230003/|メゾン　フォーエバー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町新通り2丁目",
+      "price_man": 6.8,
+      "area_sqm": 89.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006230003/",
+      "text": "メゾン　フォーエバー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006230001/|メゾン　フォーエバー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町新通り2丁目",
+      "price_man": 6.9,
+      "area_sqm": 89.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006230001/",
+      "text": "メゾン　フォーエバー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005060004/|シティハイムホリイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市松並町2丁目",
+      "price_man": 3.6,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005060004/",
+      "text": "シティハイムホリイ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004800004/|マ・メゾン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市寿町",
+      "price_man": 4.0,
+      "area_sqm": 32.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004800004/",
+      "text": "マ・メゾン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008680002/|ももさきA棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.3,
+      "area_sqm": 48.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008680002/",
+      "text": "ももさきA棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012560001/|コムグランデA棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 5.8,
+      "area_sqm": 40.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012560001/",
+      "text": "コムグランデA棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013250013/|Misora": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.2,
+      "area_sqm": 38.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013250013/",
+      "text": "Misora"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022590004/|Misora": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.2,
+      "area_sqm": 38.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022590004/",
+      "text": "Misora"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013000002/|プランドール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南3丁目",
+      "price_man": 5.6,
+      "area_sqm": 43.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013000002/",
+      "text": "プランドール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012180007/|Ｇｒａｎｄ・Ｃａｌｍｅ（グラン・カルム）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.15,
+      "area_sqm": 32.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012180007/",
+      "text": "Ｇｒａｎｄ・Ｃａｌｍｅ（グラン・カルム）"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014880011/|スターテラス安長（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 7.9,
+      "area_sqm": 42.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014880011/",
+      "text": "スターテラス安長（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014880010/|スターテラス安長（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 7.7,
+      "area_sqm": 42.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014880010/",
+      "text": "スターテラス安長（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014880008/|スターテラス安長（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 7.7,
+      "area_sqm": 42.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014880008/",
+      "text": "スターテラス安長（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021020004/|ペイジブルフルール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.15,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021020004/",
+      "text": "ペイジブルフルール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010580005/|ペイジブルフルール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.15,
+      "area_sqm": 45.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010580005/",
+      "text": "ペイジブルフルール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017800010/|ヴェール・ムース南安長": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長2丁目",
+      "price_man": 6.65,
+      "area_sqm": 41.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017800010/",
+      "text": "ヴェール・ムース南安長"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008920006/|ヴェール・ムース南安長": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長2丁目",
+      "price_man": 6.65,
+      "area_sqm": 41.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008920006/",
+      "text": "ヴェール・ムース南安長"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002180028/|ベルエア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 6.8,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002180028/",
+      "text": "ベルエア"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014200001/|シャーメゾン グリーンヒルB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市緑ケ丘2丁目",
+      "price_man": 4.2,
+      "area_sqm": 38.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014200001/",
+      "text": "シャーメゾン グリーンヒルB"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008530008/|スーパーアスリート21": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市緑ケ丘2丁目",
+      "price_man": 3.6,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008530008/",
+      "text": "スーパーアスリート21"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014070002/|パルクマンション２棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 4.6,
+      "area_sqm": 43.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014070002/",
+      "text": "パルクマンション２棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013320004/|パルクマンション２棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 4.6,
+      "area_sqm": 43.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013320004/",
+      "text": "パルクマンション２棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009820004/|シュウフレグランス　C棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 2.5,
+      "area_sqm": 24.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009820004/",
+      "text": "シュウフレグランス　C棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007140006/|シャルマン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南2丁目",
+      "price_man": 5.7,
+      "area_sqm": 57.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007140006/",
+      "text": "シャルマン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002330007/|ムーンレイク": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 4.2,
+      "area_sqm": 40.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002330007/",
+      "text": "ムーンレイク"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003320015/|メゾンプレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 6.1,
+      "area_sqm": 68.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003320015/",
+      "text": "メゾンプレール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003320008/|メゾンプレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 5.6,
+      "area_sqm": 68.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003320008/",
+      "text": "メゾンプレール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003320020/|メゾンプレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 6.2,
+      "area_sqm": 68.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003320020/",
+      "text": "メゾンプレール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019990005/|サンキューブ鳥取": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市幸町",
+      "price_man": 6.0,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019990005/",
+      "text": "サンキューブ鳥取"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008770004/|ウイング美咲A": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.4,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008770004/",
+      "text": "ウイング美咲A"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012980009/|メゾン・シャルマン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市東今在家",
+      "price_man": 4.25,
+      "area_sqm": 42.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012980009/",
+      "text": "メゾン・シャルマン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008760012/|アレグリア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 6.1,
+      "area_sqm": 45.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008760012/",
+      "text": "アレグリア"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008760008/|アレグリア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 5.1,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008760008/",
+      "text": "アレグリア"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003160004/|ミルキー・ウェイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 53.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003160004/",
+      "text": "ミルキー・ウェイ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003160001/|ミルキー・ウェイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 55.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003160001/",
+      "text": "ミルキー・ウェイ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003160007/|ミルキー・ウェイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 55.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003160007/",
+      "text": "ミルキー・ウェイ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000000970002/|ボナールヴィラⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 5.0,
+      "area_sqm": 35.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000000970002/",
+      "text": "ボナールヴィラⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000000970007/|ボナールヴィラⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 4.95,
+      "area_sqm": 35.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000000970007/",
+      "text": "ボナールヴィラⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000000970002/|ボナールヴィラⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 5.0,
+      "area_sqm": 35.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000000970002/",
+      "text": "ボナールヴィラⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018180004/|アウスレーゼTN": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 7.6,
+      "area_sqm": 63.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018180004/",
+      "text": "アウスレーゼTN"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018270002/|アイビー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大杙",
+      "price_man": 7.1,
+      "area_sqm": 42.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018270002/",
+      "text": "アイビー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012250001/|Ｌｅ・Ｓｅｎａｔ　B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.1,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012250001/",
+      "text": "Ｌｅ・Ｓｅｎａｔ　B"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014680002/|Lang　ravin": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町1丁目",
+      "price_man": 5.45,
+      "area_sqm": 52.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014680002/",
+      "text": "Lang　ravin"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016060004/|Lang　ravin": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町1丁目",
+      "price_man": 5.45,
+      "area_sqm": 52.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016060004/",
+      "text": "Lang　ravin"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012370003/|ロザージュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 56.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012370003/",
+      "text": "ロザージュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012370002/|ロザージュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 56.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012370002/",
+      "text": "ロザージュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004350004/|ロザージュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 56.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004350004/",
+      "text": "ロザージュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012840001/|リード・ブライト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町北浜3丁目",
+      "price_man": 4.7,
+      "area_sqm": 46.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012840001/",
+      "text": "リード・ブライト"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008740011/|リード・アヴェニュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東2丁目",
+      "price_man": 5.9,
+      "area_sqm": 52.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008740011/",
+      "text": "リード・アヴェニュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014850006/|リードハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 4.5,
+      "area_sqm": 34.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014850006/",
+      "text": "リードハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014850004/|リードハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 4.6,
+      "area_sqm": 34.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014850004/",
+      "text": "リードハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014850005/|リードハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 4.7,
+      "area_sqm": 34.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014850005/",
+      "text": "リードハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000011860027/|リジェワタナベ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方温泉3丁目",
+      "price_man": 4.4,
+      "area_sqm": 30.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000011860027/",
+      "text": "リジェワタナベ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012510004/|セントアイランドD": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 7.4,
+      "area_sqm": 56.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012510004/",
+      "text": "セントアイランドD"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000001400012/|マーヴェラス・ヴュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 4.15,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000001400012/",
+      "text": "マーヴェラス・ヴュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001400009/|マーヴェラス・ヴュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 4.15,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001400009/",
+      "text": "マーヴェラス・ヴュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000001400004/|マーヴェラス・ヴュー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 3.95,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000001400004/",
+      "text": "マーヴェラス・ヴュー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002670004/|グレースコートⅢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 5.1,
+      "area_sqm": 45.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002670004/",
+      "text": "グレースコートⅢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010810022/|スタディオ・フラット田島": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 4.7,
+      "area_sqm": 31.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010810022/",
+      "text": "スタディオ・フラット田島"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022040003/|ルミナーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 5.95,
+      "area_sqm": 60.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022040003/",
+      "text": "ルミナーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011580003/|ルミナーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 5.95,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011580003/",
+      "text": "ルミナーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023910004/|フォレスト・パレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 7.2,
+      "area_sqm": 42.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023910004/",
+      "text": "フォレスト・パレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023910002/|フォレスト・パレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 7.2,
+      "area_sqm": 42.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023910002/",
+      "text": "フォレスト・パレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023910001/|フォレスト・パレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 6.2,
+      "area_sqm": 33.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023910001/",
+      "text": "フォレスト・パレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022870008/|ゼルコバ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.8,
+      "area_sqm": 38.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022870008/",
+      "text": "ゼルコバ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012020016/|ゼルコバ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.8,
+      "area_sqm": 38.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012020016/",
+      "text": "ゼルコバ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012390005/|クレール・リードⅡ　Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 4.8,
+      "area_sqm": 50.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012390005/",
+      "text": "クレール・リードⅡ　Ｂ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022620002/|グラディートⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市本町4丁目",
+      "price_man": 7.9,
+      "area_sqm": 40.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022620002/",
+      "text": "グラディートⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022620007/|グラディートⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市本町4丁目",
+      "price_man": 8.2,
+      "area_sqm": 40.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022620007/",
+      "text": "グラディートⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022620009/|グラディートⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市本町4丁目",
+      "price_man": 8.0,
+      "area_sqm": 40.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022620009/",
+      "text": "グラディートⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018860004/|サンパレス アリエス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市河原町長瀬",
+      "price_man": 5.95,
+      "area_sqm": 46.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018860004/",
+      "text": "サンパレス アリエス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021080007/|ティアクラウン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長3丁目",
+      "price_man": 7.4,
+      "area_sqm": 54.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021080007/",
+      "text": "ティアクラウン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010330011/|ティアクラウン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長3丁目",
+      "price_man": 7.4,
+      "area_sqm": 54.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010330011/",
+      "text": "ティアクラウン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009310033/|ノースフラット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 2.4,
+      "area_sqm": 19.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009310033/",
+      "text": "ノースフラット"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009310037/|ノースフラット": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 2.4,
+      "area_sqm": 19.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009310037/",
+      "text": "ノースフラット"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000000400038/|カサフェスタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.5,
+      "area_sqm": 21.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000000400038/",
+      "text": "カサフェスタ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000000400035/|カサフェスタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.7,
+      "area_sqm": 24.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000000400035/",
+      "text": "カサフェスタ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000000400034/|カサフェスタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.7,
+      "area_sqm": 21.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000000400034/",
+      "text": "カサフェスタ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004870006/|ハイツ平成　Ｂ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市寿町",
+      "price_man": 3.7,
+      "area_sqm": 24.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004870006/",
+      "text": "ハイツ平成　Ｂ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007490002/|グッド・アベニール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 3.7,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007490002/",
+      "text": "グッド・アベニール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006290012/|ラック・ヴィラⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市三津",
+      "price_man": 3.95,
+      "area_sqm": 36.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006290012/",
+      "text": "ラック・ヴィラⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006290007/|ラック・ヴィラⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市三津",
+      "price_man": 4.75,
+      "area_sqm": 46.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006290007/",
+      "text": "ラック・ヴィラⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012610001/|ミルキー・ウェイB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 53.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012610001/",
+      "text": "ミルキー・ウェイB"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012140002/|ミルキー・ウェイＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 55.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012140002/",
+      "text": "ミルキー・ウェイＡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012140001/|ミルキー・ウェイＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 5.2,
+      "area_sqm": 55.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012140001/",
+      "text": "ミルキー・ウェイＡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014000003/|ヒカルサ鳥取浜村Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町新町1丁目",
+      "price_man": 6.45,
+      "area_sqm": 50.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014000003/",
+      "text": "ヒカルサ鳥取浜村Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013060004/|デァ・マーサ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市河原町長瀬",
+      "price_man": 5.4,
+      "area_sqm": 56.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013060004/",
+      "text": "デァ・マーサ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018420006/|デァ・マーサ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市河原町長瀬",
+      "price_man": 5.4,
+      "area_sqm": 56.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018420006/",
+      "text": "デァ・マーサ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011570001/|セーリオB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市晩稲",
+      "price_man": 5.5,
+      "area_sqm": 49.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011570001/",
+      "text": "セーリオB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016850003/|いちごハウスα": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町三代寺",
+      "price_man": 4.1,
+      "area_sqm": 44.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016850003/",
+      "text": "いちごハウスα"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000005890002/|ピエ・デル・モンテ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南３丁目",
+      "price_man": 6.0,
+      "area_sqm": 68.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000005890002/",
+      "text": "ピエ・デル・モンテ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012260004/|シュクセ・ベージョⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 4.8,
+      "area_sqm": 44.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012260004/",
+      "text": "シュクセ・ベージョⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001830008/|ピースミリオン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市東今在家",
+      "price_man": 3.55,
+      "area_sqm": 28.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001830008/",
+      "text": "ピースミリオン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022790003/|グラン　サージュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂7丁目",
+      "price_man": 5.95,
+      "area_sqm": 44.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022790003/",
+      "text": "グラン　サージュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017060001/|ヴィラージュ桂Ⅰ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 5.0,
+      "area_sqm": 48.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017060001/",
+      "text": "ヴィラージュ桂Ⅰ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017060004/|ヴィラージュ桂Ⅰ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 5.0,
+      "area_sqm": 48.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017060004/",
+      "text": "ヴィラージュ桂Ⅰ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022140006/|シェーンハイト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大杙",
+      "price_man": 6.25,
+      "area_sqm": 42.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022140006/",
+      "text": "シェーンハイト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018370002/|モンテリブロ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湯所町1丁目",
+      "price_man": 6.5,
+      "area_sqm": 37.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018370002/",
+      "text": "モンテリブロ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002880002/|ミーティスN": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 4.2,
+      "area_sqm": 45.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002880002/",
+      "text": "ミーティスN"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002200010/|ワイフラットＡ・Ｂ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成1丁目",
+      "price_man": 5.25,
+      "area_sqm": 51.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002200010/",
+      "text": "ワイフラットＡ・Ｂ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013850002/|アルコイーリスＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 5.0,
+      "area_sqm": 49.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013850002/",
+      "text": "アルコイーリスＡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009970008/|ファーストヒストリーC": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町奥谷3丁目",
+      "price_man": 4.8,
+      "area_sqm": 42.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009970008/",
+      "text": "ファーストヒストリーC"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001960007/|ソレアードコヤマ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 5.0,
+      "area_sqm": 60.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001960007/",
+      "text": "ソレアードコヤマ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013030004/|コスモス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 4.15,
+      "area_sqm": 47.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013030004/",
+      "text": "コスモス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010820002/|コスモス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市円護寺",
+      "price_man": 4.15,
+      "area_sqm": 47.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010820002/",
+      "text": "コスモス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012040004/|グレースコートⅣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂8丁目",
+      "price_man": 4.7,
+      "area_sqm": 44.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012040004/",
+      "text": "グレースコートⅣ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001420001/|グレースコートⅣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂8丁目",
+      "price_man": 4.7,
+      "area_sqm": 44.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001420001/",
+      "text": "グレースコートⅣ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002600015/|グレイスベル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西3丁目",
+      "price_man": 5.5,
+      "area_sqm": 57.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002600015/",
+      "text": "グレイスベル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002600002/|グレイスベル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西3丁目",
+      "price_man": 4.9,
+      "area_sqm": 46.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002600002/",
+      "text": "グレイスベル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013190002/|グレイス　ワン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 5.2,
+      "area_sqm": 46.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013190002/",
+      "text": "グレイス　ワン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010830004/|グレイス　ワン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 5.2,
+      "area_sqm": 46.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010830004/",
+      "text": "グレイス　ワン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022210001/|ハイツ万葉　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町新町1丁目",
+      "price_man": 4.9,
+      "area_sqm": 52.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022210001/",
+      "text": "ハイツ万葉　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011740002/|カーサドルチェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市行徳2丁目",
+      "price_man": 4.85,
+      "area_sqm": 29.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011740002/",
+      "text": "カーサドルチェ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018720005/|カーサドルチェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市行徳2丁目",
+      "price_man": 4.85,
+      "area_sqm": 29.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018720005/",
+      "text": "カーサドルチェ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013620002/|シャーメゾン・レーヴ叶　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 7.5,
+      "area_sqm": 52.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013620002/",
+      "text": "シャーメゾン・レーヴ叶　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013820001/|シャーメゾン・レーヴ叶　Ｄ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 7.2,
+      "area_sqm": 54.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013820001/",
+      "text": "シャーメゾン・レーヴ叶　Ｄ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013350003/|シャーメゾン・レーヴ叶　Ｄ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 7.2,
+      "area_sqm": 54.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013350003/",
+      "text": "シャーメゾン・レーヴ叶　Ｄ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011730002/|サンパレス　アリエス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市河原町長瀬",
+      "price_man": 6.15,
+      "area_sqm": 59.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011730002/",
+      "text": "サンパレス　アリエス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014460002/|オーパスワン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市覚寺",
+      "price_man": 6.4,
+      "area_sqm": 58.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014460002/",
+      "text": "オーパスワン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006400004/|オーパスワン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市覚寺",
+      "price_man": 6.4,
+      "area_sqm": 58.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006400004/",
+      "text": "オーパスワン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014870001/|クラージュＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市覚寺",
+      "price_man": 6.4,
+      "area_sqm": 54.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014870001/",
+      "text": "クラージュＢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008990005/|クラージュＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市覚寺",
+      "price_man": 6.4,
+      "area_sqm": 54.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008990005/",
+      "text": "クラージュＢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020460001/|クレール・リードⅡ　B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 4.8,
+      "area_sqm": 50.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020460001/",
+      "text": "クレール・リードⅡ　B"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002000004/|アルバⅠ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南吉方1丁目",
+      "price_man": 6.1,
+      "area_sqm": 62.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002000004/",
+      "text": "アルバⅠ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013290006/|マリーゴールド": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 5.7,
+      "area_sqm": 33.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013290006/",
+      "text": "マリーゴールド"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001790010/|セジュールラピス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桜谷",
+      "price_man": 5.2,
+      "area_sqm": 53.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001790010/",
+      "text": "セジュールラピス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010330005/|ロイヤルガーデンＡ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方",
+      "price_man": 7.2,
+      "area_sqm": 55.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010330005/",
+      "text": "ロイヤルガーデンＡ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013370011/|Kikumomo": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 7.2,
+      "area_sqm": 54.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013370011/",
+      "text": "Kikumomo"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003410006/|サウスフラッツ1": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市若葉台南1丁目",
+      "price_man": 4.8,
+      "area_sqm": 29.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003410006/",
+      "text": "サウスフラッツ1"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008370006/|リーブライツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 7.6,
+      "area_sqm": 61.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008370006/",
+      "text": "リーブライツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007940008/|ショーカル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.9,
+      "area_sqm": 51.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007940008/",
+      "text": "ショーカル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007940007/|ショーカル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 6.9,
+      "area_sqm": 51.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007940007/",
+      "text": "ショーカル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008010011/|アルブル・ブランシュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 7.4,
+      "area_sqm": 58.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008010011/",
+      "text": "アルブル・ブランシュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013130006/|アイネクライネ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.7,
+      "area_sqm": 44.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013130006/",
+      "text": "アイネクライネ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023930001/|ジョイフル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江崎町",
+      "price_man": 2.7,
+      "area_sqm": 17.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023930001/",
+      "text": "ジョイフル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010570006/|メゾン　ド　マルシェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市賀露町南1丁目",
+      "price_man": 6.2,
+      "area_sqm": 59.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010570006/",
+      "text": "メゾン　ド　マルシェ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009240007/|クレシアⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 4.8,
+      "area_sqm": 31.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009240007/",
+      "text": "クレシアⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016970005/|ヴィルヌーブ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 5.1,
+      "area_sqm": 45.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016970005/",
+      "text": "ヴィルヌーブ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019450008/|コーポ八幡面影54": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影1丁目",
+      "price_man": 3.2,
+      "area_sqm": 24.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019450008/",
+      "text": "コーポ八幡面影54"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021610005/|コーポ八幡面影12": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影1丁目",
+      "price_man": 3.1,
+      "area_sqm": 24.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021610005/",
+      "text": "コーポ八幡面影12"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018770046/|グランドハイツ末広311": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市末広温泉町",
+      "price_man": 4.4,
+      "area_sqm": 23.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018770046/",
+      "text": "グランドハイツ末広311"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018770026/|グランドハイツ末広311": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市末広温泉町",
+      "price_man": 4.2,
+      "area_sqm": 23.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018770026/",
+      "text": "グランドハイツ末広311"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011770006/|グラン　サージュ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂7丁目",
+      "price_man": 5.95,
+      "area_sqm": 44.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011770006/",
+      "text": "グラン　サージュ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019650004/|ハーベスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市中町",
+      "price_man": 6.1,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019650004/",
+      "text": "ハーベスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012190001/|フレスコK　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.6,
+      "area_sqm": 56.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012190001/",
+      "text": "フレスコK　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014670018/|ハイツ　Ｙｏｕ－ｗａ　A棟B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.0,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014670018/",
+      "text": "ハイツ　Ｙｏｕ－ｗａ　A棟B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004780014/|メゾン・ド・ナリヤ　A棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方温泉4丁目",
+      "price_man": 4.8,
+      "area_sqm": 30.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004780014/",
+      "text": "メゾン・ド・ナリヤ　A棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004790016/|メゾン・ド・ナリヤ　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方温泉4丁目",
+      "price_man": 4.8,
+      "area_sqm": 30.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004790016/",
+      "text": "メゾン・ド・ナリヤ　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004790034/|メゾン・ド・ナリヤ　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方温泉4丁目",
+      "price_man": 7.3,
+      "area_sqm": 61.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004790034/",
+      "text": "メゾン・ド・ナリヤ　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008860001/|シャーメゾンウエスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 3.7,
+      "area_sqm": 24.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008860001/",
+      "text": "シャーメゾンウエスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017260007/|アーバンツインピア2棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 4.3,
+      "area_sqm": 40.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017260007/",
+      "text": "アーバンツインピア2棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019180007/|グリーン・ガーデン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市青葉町1丁目",
+      "price_man": 6.45,
+      "area_sqm": 53.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019180007/",
+      "text": "グリーン・ガーデン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010650002/|昭和ハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.2,
+      "area_sqm": 17.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010650002/",
+      "text": "昭和ハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010650005/|昭和ハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.1,
+      "area_sqm": 17.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010650005/",
+      "text": "昭和ハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010650004/|昭和ハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.2,
+      "area_sqm": 17.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010650004/",
+      "text": "昭和ハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008140003/|グランブリーズ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西1丁目",
+      "price_man": 5.5,
+      "area_sqm": 57.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008140003/",
+      "text": "グランブリーズ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000011520005/|コーポラス吉村": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 4.2,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000011520005/",
+      "text": "コーポラス吉村"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014780003/|ファミリーコーポ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶",
+      "price_man": 5.6,
+      "area_sqm": 45.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014780003/",
+      "text": "ファミリーコーポ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022170008/|富士マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市行徳1丁目",
+      "price_man": 6.2,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022170008/",
+      "text": "富士マンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022170012/|富士マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市行徳1丁目",
+      "price_man": 6.3,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022170012/",
+      "text": "富士マンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011000002/|メゾンドグレープC棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 5.1,
+      "area_sqm": 48.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011000002/",
+      "text": "メゾンドグレープC棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006100003/|第7ダイカクハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市賀露町北2丁目",
+      "price_man": 4.8,
+      "area_sqm": 43.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006100003/",
+      "text": "第7ダイカクハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000001970003/|アルカディア　Ⅰ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市晩稲",
+      "price_man": 3.8,
+      "area_sqm": 24.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000001970003/",
+      "text": "アルカディア　Ⅰ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009960005/|メゾンリアルⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 3.5,
+      "area_sqm": 30.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009960005/",
+      "text": "メゾンリアルⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023820001/|グリーンゲーブルズC2": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 7.0,
+      "area_sqm": 73.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023820001/",
+      "text": "グリーンゲーブルズC2"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018110002/|カーサ・フィオーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湯所町2丁目",
+      "price_man": 7.4,
+      "area_sqm": 57.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018110002/",
+      "text": "カーサ・フィオーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021450004/|セントアイランドB棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 6.8,
+      "area_sqm": 62.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021450004/",
+      "text": "セントアイランドB棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005950009/|グリーンコーポN": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 4.3,
+      "area_sqm": 35.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005950009/",
+      "text": "グリーンコーポN"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006910075/|湖山ヒルズ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北1丁目",
+      "price_man": 4.0,
+      "area_sqm": 24.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006910075/",
+      "text": "湖山ヒルズ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003820002/|メゾングランディール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.6,
+      "area_sqm": 33.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003820002/",
+      "text": "メゾングランディール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003820022/|メゾングランディール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.4,
+      "area_sqm": 33.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003820022/",
+      "text": "メゾングランディール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014860001/|ハーモニー　Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町北浜2丁目",
+      "price_man": 6.45,
+      "area_sqm": 50.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014860001/",
+      "text": "ハーモニー　Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022990001/|Ｄ-ｒｏｏｍ桂木戸建借家": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 13.0,
+      "area_sqm": 104.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022990001/",
+      "text": "Ｄ-ｒｏｏｍ桂木戸建借家"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014790008/|カサ・デル・シエロ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 7.1,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014790008/",
+      "text": "カサ・デル・シエロ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014790007/|カサ・デル・シエロ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 7.3,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014790007/",
+      "text": "カサ・デル・シエロ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014790006/|カサ・デル・シエロ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 7.1,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014790006/",
+      "text": "カサ・デル・シエロ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011440002/|エメリー・パレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町勝見新町",
+      "price_man": 5.5,
+      "area_sqm": 60.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011440002/",
+      "text": "エメリー・パレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018590001/|セルカ・デル・リオＤ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.5,
+      "area_sqm": 53.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018590001/",
+      "text": "セルカ・デル・リオＤ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000005150004/|エトワールモーリ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩吉",
+      "price_man": 4.9,
+      "area_sqm": 48.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000005150004/",
+      "text": "エトワールモーリ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014760004/|Enne": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南2丁目",
+      "price_man": 7.3,
+      "area_sqm": 35.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014760004/",
+      "text": "Enne"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014760010/|Enne": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南2丁目",
+      "price_man": 7.4,
+      "area_sqm": 44.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014760010/",
+      "text": "Enne"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014760009/|Enne": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南2丁目",
+      "price_man": 7.3,
+      "area_sqm": 44.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014760009/",
+      "text": "Enne"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020500004/|ラヴィアンローズ　A": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 4.7,
+      "area_sqm": 48.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020500004/",
+      "text": "ラヴィアンローズ　A"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022050001/|リビングタウン吉成A棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 7.3,
+      "area_sqm": 50.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022050001/",
+      "text": "リビングタウン吉成A棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013520004/|グランフルール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 5.7,
+      "area_sqm": 43.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013520004/",
+      "text": "グランフルール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019550010/|ラルジェ　Ａ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湯所町2丁目",
+      "price_man": 7.5,
+      "area_sqm": 40.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019550010/",
+      "text": "ラルジェ　Ａ棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002190003/|コーポフィレンツェ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 6.5,
+      "area_sqm": 42.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002190003/",
+      "text": "コーポフィレンツェ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006850001/|グランチェスタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.9,
+      "area_sqm": 34.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006850001/",
+      "text": "グランチェスタ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012270001/|雅（ミヤビ）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.9,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012270001/",
+      "text": "雅（ミヤビ）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021570002/|COZY House　B棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 7.2,
+      "area_sqm": 55.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021570002/",
+      "text": "COZY House　B棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013550001/|メゾンはなみずき": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市西品治",
+      "price_man": 6.8,
+      "area_sqm": 55.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013550001/",
+      "text": "メゾンはなみずき"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007910005/|メゾンはなみずき": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市西品治",
+      "price_man": 6.8,
+      "area_sqm": 58.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007910005/",
+      "text": "メゾンはなみずき"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014260003/|グリーン・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 5.8,
+      "area_sqm": 56.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014260003/",
+      "text": "グリーン・ヴィラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000011550003/|グリーン・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 5.8,
+      "area_sqm": 56.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000011550003/",
+      "text": "グリーン・ヴィラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000002120001/|センターストリーム": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市緑ケ丘3丁目",
+      "price_man": 3.6,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000002120001/",
+      "text": "センターストリーム"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008420007/|コーポブルークラウド": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北1丁目",
+      "price_man": 2.8,
+      "area_sqm": 21.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008420007/",
+      "text": "コーポブルークラウド"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003070002/|アベニールK B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 4.95,
+      "area_sqm": 49.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003070002/",
+      "text": "アベニールK B"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014830001/|アベニールK B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 4.95,
+      "area_sqm": 49.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014830001/",
+      "text": "アベニールK B"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020380005/|サザンメトロ554": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市立川町5丁目",
+      "price_man": 6.7,
+      "area_sqm": 40.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020380005/",
+      "text": "サザンメトロ554"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003370016/|メゾンドプランタン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 4.3,
+      "area_sqm": 30.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003370016/",
+      "text": "メゾンドプランタン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007710002/|アネックスK": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 5.3,
+      "area_sqm": 48.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007710002/",
+      "text": "アネックスK"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014840006/|ハーモニー　Ⅰ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町北浜2丁目",
+      "price_man": 6.5,
+      "area_sqm": 50.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014840006/",
+      "text": "ハーモニー　Ⅰ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014840005/|ハーモニー　Ⅰ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町北浜2丁目",
+      "price_man": 6.9,
+      "area_sqm": 62.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014840005/",
+      "text": "ハーモニー　Ⅰ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014840004/|ハーモニー　Ⅰ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町北浜2丁目",
+      "price_man": 6.9,
+      "area_sqm": 62.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014840004/",
+      "text": "ハーモニー　Ⅰ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013990005/|ヒカルサ鳥取浜村Ⅰ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町新町1丁目",
+      "price_man": 6.25,
+      "area_sqm": 59.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013990005/",
+      "text": "ヒカルサ鳥取浜村Ⅰ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006280011/|ラック・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市三津",
+      "price_man": 4.95,
+      "area_sqm": 45.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006280011/",
+      "text": "ラック・ヴィラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006280002/|ラック・ヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市三津",
+      "price_man": 4.9,
+      "area_sqm": 44.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006280002/",
+      "text": "ラック・ヴィラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009990002/|マンションＡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市元大工町",
+      "price_man": 3.9,
+      "area_sqm": 27.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009990002/",
+      "text": "マンションＡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008310007/|セピアパロス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市晩稲",
+      "price_man": 5.8,
+      "area_sqm": 56.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008310007/",
+      "text": "セピアパロス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007520023/|メゾンJ-Lee": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 3.4,
+      "area_sqm": 20.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007520023/",
+      "text": "メゾンJ-Lee"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007520019/|メゾンJ-Lee": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 3.4,
+      "area_sqm": 20.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007520019/",
+      "text": "メゾンJ-Lee"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011080004/|オーシャン・ニシカワ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 3.7,
+      "area_sqm": 31.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011080004/",
+      "text": "オーシャン・ニシカワ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011080002/|オーシャン・ニシカワ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 3.7,
+      "area_sqm": 29.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011080002/",
+      "text": "オーシャン・ニシカワ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011080007/|オーシャン・ニシカワ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 3.7,
+      "area_sqm": 29.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011080007/",
+      "text": "オーシャン・ニシカワ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005960003/|ニューヒルズA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 5.4,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005960003/",
+      "text": "ニューヒルズA"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010850006/|ベレオ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市相生町1丁目",
+      "price_man": 4.4,
+      "area_sqm": 28.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010850006/",
+      "text": "ベレオ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015060011/|nfビレッジ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 7.9,
+      "area_sqm": 86.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015060011/",
+      "text": "nfビレッジ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020120002/|ベクエームMI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩倉",
+      "price_man": 5.4,
+      "area_sqm": 46.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020120002/",
+      "text": "ベクエームMI"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023920001/|エメリー・パレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町新町1丁目",
+      "price_man": 5.5,
+      "area_sqm": 46.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023920001/",
+      "text": "エメリー・パレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014800002/|コアコート徳尾": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市徳尾",
+      "price_man": 4.9,
+      "area_sqm": 63.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014800002/",
+      "text": "コアコート徳尾"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014090004/|ウイング美咲": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.4,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014090004/",
+      "text": "ウイング美咲"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011010001/|パストラル91": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 6.1,
+      "area_sqm": 54.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011010001/",
+      "text": "パストラル91"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006390001/|パストラル91": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 6.1,
+      "area_sqm": 54.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006390001/",
+      "text": "パストラル91"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009900004/|サンホープ２１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 3.8,
+      "area_sqm": 24.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009900004/",
+      "text": "サンホープ２１"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014820001/|ハイツニュー南": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 4.8,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014820001/",
+      "text": "ハイツニュー南"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007520003/|ハイツニュー南": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 4.8,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007520003/",
+      "text": "ハイツニュー南"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011560002/|ゲット　バーディー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 4.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011560002/",
+      "text": "ゲット　バーディー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005030005/|ゲット　バーディー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 4.5,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005030005/",
+      "text": "ゲット　バーディー"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009050005/|メゾン・リアル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市緑ケ丘1丁目",
+      "price_man": 3.3,
+      "area_sqm": 30.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009050005/",
+      "text": "メゾン・リアル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009720005/|メゾン亜里奈Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市行徳3丁目",
+      "price_man": 3.4,
+      "area_sqm": 23.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009720005/",
+      "text": "メゾン亜里奈Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004880004/|メゾンヌーベル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影2丁目",
+      "price_man": 3.5,
+      "area_sqm": 24.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004880004/",
+      "text": "メゾンヌーベル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020650002/|G　HOUSE": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 3.6,
+      "area_sqm": 28.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020650002/",
+      "text": "G　HOUSE"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006110001/|チェリーコートB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町稲葉丘3丁目",
+      "price_man": 3.9,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006110001/",
+      "text": "チェリーコートB"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000004440009/|リビングタウン湖山": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南3丁目",
+      "price_man": 6.9,
+      "area_sqm": 54.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000004440009/",
+      "text": "リビングタウン湖山"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009610017/|セレスト・パレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 8.5,
+      "area_sqm": 67.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009610017/",
+      "text": "セレスト・パレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008710002/|ガーデンスクエア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 6.5,
+      "area_sqm": 62.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008710002/",
+      "text": "ガーデンスクエア"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008710005/|ガーデンスクエア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 6.5,
+      "area_sqm": 62.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008710005/",
+      "text": "ガーデンスクエア"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005210003/|ハイツトレンディⅠ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市興南町",
+      "price_man": 5.6,
+      "area_sqm": 58.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005210003/",
+      "text": "ハイツトレンディⅠ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023900006/|ブライトンハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.8,
+      "area_sqm": 46.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023900006/",
+      "text": "ブライトンハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023900003/|ブライトンハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.7,
+      "area_sqm": 46.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023900003/",
+      "text": "ブライトンハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010170006/|セーリオA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市晩稲",
+      "price_man": 6.2,
+      "area_sqm": 67.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010170006/",
+      "text": "セーリオA"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010470002/|ウェアーハウスA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 6.1,
+      "area_sqm": 68.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010470002/",
+      "text": "ウェアーハウスA"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008020001/|クリアースカイ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長1丁目",
+      "price_man": 5.4,
+      "area_sqm": 59.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008020001/",
+      "text": "クリアースカイ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016270007/|クレージュあさひ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.1,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016270007/",
+      "text": "クレージュあさひ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016270005/|クレージュあさひ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.1,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016270005/",
+      "text": "クレージュあさひ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016270017/|クレージュあさひ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.1,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016270017/",
+      "text": "クレージュあさひ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014540004/|グランチェスタ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 4.9,
+      "area_sqm": 34.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014540004/",
+      "text": "グランチェスタ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017330001/|サザンメトロ233": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.6,
+      "area_sqm": 56.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017330001/",
+      "text": "サザンメトロ233"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017330002/|サザンメトロ233": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.6,
+      "area_sqm": 56.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017330002/",
+      "text": "サザンメトロ233"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017330003/|サザンメトロ233": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.6,
+      "area_sqm": 56.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017330003/",
+      "text": "サザンメトロ233"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000011910003/|レグルスタガ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.5,
+      "area_sqm": 50.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000011910003/",
+      "text": "レグルスタガ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019340010/|フリージア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町新通り3丁目",
+      "price_man": 4.95,
+      "area_sqm": 30.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019340010/",
+      "text": "フリージア"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007540012/|メゾンドSEIMON": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 3.5,
+      "area_sqm": 22.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007540012/",
+      "text": "メゾンドSEIMON"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017190008/|Le・Senat": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.1,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017190008/",
+      "text": "Le・Senat"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007540004/|ハイツトレンディⅢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 3.7,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007540004/",
+      "text": "ハイツトレンディⅢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002800003/|トマト＆サンライズ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桜谷",
+      "price_man": 4.9,
+      "area_sqm": 51.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002800003/",
+      "text": "トマト＆サンライズ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019370002/|ボニート・ブリッサⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 5.2,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019370002/",
+      "text": "ボニート・ブリッサⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004660012/|サザンコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南吉方2丁目",
+      "price_man": 4.2,
+      "area_sqm": 30.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004660012/",
+      "text": "サザンコート"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014810001/|Woodyマンション2": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南3丁目",
+      "price_man": 3.4,
+      "area_sqm": 22.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014810001/",
+      "text": "Woodyマンション2"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018960003/|フロンティア彩": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 6.0,
+      "area_sqm": 58.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018960003/",
+      "text": "フロンティア彩"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009190003/|ルミナス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 7.5,
+      "area_sqm": 68.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009190003/",
+      "text": "ルミナス"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061340204020402/|ビレッジハウス津の井2号棟 (402号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南栄町36",
+      "price_man": 3.65,
+      "area_sqm": 54.0,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061340204020402/",
+      "text": "ビレッジハウス津の井2号棟 (402号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008430005/|メゾンフォレスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長2丁目",
+      "price_man": 4.7,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008430005/",
+      "text": "メゾンフォレスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008430014/|メゾンフォレスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長2丁目",
+      "price_man": 4.7,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008430014/",
+      "text": "メゾンフォレスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001820002/|ルピナJ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 8.0,
+      "area_sqm": 72.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001820002/",
+      "text": "ルピナJ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022260001/|サン　フォレスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 8.5,
+      "area_sqm": 79.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022260001/",
+      "text": "サン　フォレスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018450001/|カーサ　みらい": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市気高町勝見",
+      "price_man": 5.3,
+      "area_sqm": 40.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018450001/",
+      "text": "カーサ　みらい"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000020150001/|サウスウイングB棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 4.6,
+      "area_sqm": 24.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000020150001/",
+      "text": "サウスウイングB棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009260004/|リバティヴィラＫ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 5.1,
+      "area_sqm": 55.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009260004/",
+      "text": "リバティヴィラＫ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022970002/|富士マンションⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市布勢",
+      "price_man": 5.85,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022970002/",
+      "text": "富士マンションⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007600008/|セントラルヴィレッジB棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大杙",
+      "price_man": 4.9,
+      "area_sqm": 30.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007600008/",
+      "text": "セントラルヴィレッジB棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022180007/|サンパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大杙",
+      "price_man": 3.5,
+      "area_sqm": 29.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022180007/",
+      "text": "サンパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019360001/|セルカ・デル・リオＣ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.3,
+      "area_sqm": 53.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019360001/",
+      "text": "セルカ・デル・リオＣ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000015940002/|ルームティファニー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町分上3丁目",
+      "price_man": 5.8,
+      "area_sqm": 42.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000015940002/",
+      "text": "ルームティファニー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005260003/|コンチェルトAB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 5.2,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005260003/",
+      "text": "コンチェルトAB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005260004/|コンチェルトAB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.8,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005260004/",
+      "text": "コンチェルトAB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005260006/|コンチェルトAB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 5.2,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005260006/",
+      "text": "コンチェルトAB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000016220002/|エスベランサ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 9.2,
+      "area_sqm": 75.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000016220002/",
+      "text": "エスベランサ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007190024/|パークマンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市布勢",
+      "price_man": 2.9,
+      "area_sqm": 20.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007190024/",
+      "text": "パークマンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021040004/|雅": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂",
+      "price_man": 5.9,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021040004/",
+      "text": "雅"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009830011/|ル・ヴァン・クレール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 5.0,
+      "area_sqm": 34.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009830011/",
+      "text": "ル・ヴァン・クレール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010740004/|ボナールヴィラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶1丁目",
+      "price_man": 5.8,
+      "area_sqm": 45.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010740004/",
+      "text": "ボナールヴィラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014500004/|アル・ソーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 6.9,
+      "area_sqm": 40.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014500004/",
+      "text": "アル・ソーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022330007/|アル・ソーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 6.9,
+      "area_sqm": 40.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022330007/",
+      "text": "アル・ソーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008960009/|アルトピアーノⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市賀露町北3丁目",
+      "price_man": 3.5,
+      "area_sqm": 26.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008960009/",
+      "text": "アルトピアーノⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000004550002/|ウェアーハウスC": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 5.3,
+      "area_sqm": 51.9,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000004550002/",
+      "text": "ウェアーハウスC"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018680003/|セルカ・デル・リオB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.3,
+      "area_sqm": 53.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018680003/",
+      "text": "セルカ・デル・リオB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018680005/|セルカ・デル・リオB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成",
+      "price_man": 5.3,
+      "area_sqm": 53.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018680005/",
+      "text": "セルカ・デル・リオB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000013690003/|エル・アール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 4.9,
+      "area_sqm": 34.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000013690003/",
+      "text": "エル・アール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010410008/|エル・アール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 4.9,
+      "area_sqm": 34.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010410008/",
+      "text": "エル・アール"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021280008/|グラン・カルム": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.15,
+      "area_sqm": 32.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021280008/",
+      "text": "グラン・カルム"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008100004/|コーポドエル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.3,
+      "area_sqm": 21.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008100004/",
+      "text": "コーポドエル"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008100003/|コーポドエル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.4,
+      "area_sqm": 21.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008100003/",
+      "text": "コーポドエル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021920007/|エトワール・バーグA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市叶",
+      "price_man": 4.9,
+      "area_sqm": 43.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021920007/",
+      "text": "エトワール・バーグA"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009080011/|プランドール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 4.5,
+      "area_sqm": 26.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009080011/",
+      "text": "プランドール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009100007/|ラ・クラルテ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市安長",
+      "price_man": 4.1,
+      "area_sqm": 28.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009100007/",
+      "text": "ラ・クラルテ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009470007/|レンタルボックスくん": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 1.5,
+      "area_sqm": 12.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009470007/",
+      "text": "レンタルボックスくん"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000060480102070207/|ビレッジハウス滝山1号棟 (207号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市滝山422-6",
+      "price_man": 2.55,
+      "area_sqm": 29.0,
+      "url": "https://www.chintai.net/detail/bk-C010099500000060480102070207/",
+      "text": "ビレッジハウス滝山1号棟 (207号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014430005/|ヌックレジデンス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 6.1,
+      "area_sqm": 36.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014430005/",
+      "text": "ヌックレジデンス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023450004/|ヌックレジデンス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南隈",
+      "price_man": 6.1,
+      "area_sqm": 43.9,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023450004/",
+      "text": "ヌックレジデンス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008170002/|アルエット・シエル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町1丁目",
+      "price_man": 5.4,
+      "area_sqm": 54.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008170002/",
+      "text": "アルエット・シエル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008170003/|アルエット・シエル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町1丁目",
+      "price_man": 4.8,
+      "area_sqm": 43.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008170003/",
+      "text": "アルエット・シエル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008170004/|アルエット・シエル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成南町1丁目",
+      "price_man": 5.4,
+      "area_sqm": 54.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008170004/",
+      "text": "アルエット・シエル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023550002/|メゾンM1": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影2丁目",
+      "price_man": 6.2,
+      "area_sqm": 71.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023550002/",
+      "text": "メゾンM1"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002890018/|アイコンフォート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市桂木",
+      "price_man": 4.5,
+      "area_sqm": 29.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002890018/",
+      "text": "アイコンフォート"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011590002/|サニーポート　エル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 5.85,
+      "area_sqm": 45.1,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011590002/",
+      "text": "サニーポート　エル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017280003/|サニーポート　エル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 5.85,
+      "area_sqm": 45.1,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017280003/",
+      "text": "サニーポート　エル"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000060480102060206/|ビレッジハウス滝山1号棟 (206号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市滝山422-6",
+      "price_man": 2.92,
+      "area_sqm": 29.0,
+      "url": "https://www.chintai.net/detail/bk-C010099500000060480102060206/",
+      "text": "ビレッジハウス滝山1号棟 (206号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013380014/|アローンパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.6,
+      "area_sqm": 25.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013380014/",
+      "text": "アローンパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013380027/|アローンパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.6,
+      "area_sqm": 25.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013380027/",
+      "text": "アローンパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013380025/|アローンパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.6,
+      "area_sqm": 25.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013380025/",
+      "text": "アローンパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000005880005/|サウスリードB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南４丁目",
+      "price_man": 4.6,
+      "area_sqm": 40.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000005880005/",
+      "text": "サウスリードB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014270001/|アルファステイツさくら元町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市元町",
+      "price_man": 11.7,
+      "area_sqm": 68.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014270001/",
+      "text": "アルファステイツさくら元町"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001510017/|タウンアローズ86": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 3.8,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001510017/",
+      "text": "タウンアローズ86"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001510008/|タウンアローズ86": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 3.8,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001510008/",
+      "text": "タウンアローズ86"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000001510012/|タウンアローズ86": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 3.8,
+      "area_sqm": 27.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000001510012/",
+      "text": "タウンアローズ86"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061080405030503/|ビレッジハウス湖山4号棟 (503号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北5丁目",
+      "price_man": 2.97,
+      "area_sqm": 38.1,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061080405030503/",
+      "text": "ビレッジハウス湖山4号棟 (503号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014780001/|イーストコートK": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 8.0,
+      "area_sqm": 169.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014780001/",
+      "text": "イーストコートK"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005110001/|プリムリゼール　A棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市田島",
+      "price_man": 6.0,
+      "area_sqm": 63.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005110001/",
+      "text": "プリムリゼール　A棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009620001/|セレッソ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 5.6,
+      "area_sqm": 40.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009620001/",
+      "text": "セレッソ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006640003/|セレッソ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西1丁目",
+      "price_man": 9.1,
+      "area_sqm": 79.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006640003/",
+      "text": "セレッソ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006980010/|エスト・パレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古海",
+      "price_man": 5.5,
+      "area_sqm": 32.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006980010/",
+      "text": "エスト・パレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004190006/|ファーストヒストリーA・B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 4.6,
+      "area_sqm": 43.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004190006/",
+      "text": "ファーストヒストリーA・B"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010500011/|ころぽっくる": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市若葉台北６丁目",
+      "price_man": 4.45,
+      "area_sqm": 29.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010500011/",
+      "text": "ころぽっくる"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007820001/|スターブルS": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 3.1,
+      "area_sqm": 23.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007820001/",
+      "text": "スターブルS"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007400003/|テッラ・プロメッサ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市布勢",
+      "price_man": 4.2,
+      "area_sqm": 43.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007400003/",
+      "text": "テッラ・プロメッサ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007880004/|アトムシティ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長3丁目",
+      "price_man": 3.3,
+      "area_sqm": 23.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007880004/",
+      "text": "アトムシティ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007880006/|アトムシティ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長3丁目",
+      "price_man": 3.0,
+      "area_sqm": 23.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007880006/",
+      "text": "アトムシティ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007880005/|アトムシティ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長3丁目",
+      "price_man": 3.0,
+      "area_sqm": 23.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007880005/",
+      "text": "アトムシティ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010510003/|Ｍａｉｓｏｎ　Ｄｅｕｘ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 5.0,
+      "area_sqm": 59.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010510003/",
+      "text": "Ｍａｉｓｏｎ　Ｄｅｕｘ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017490004/|Ｍａｉｓｏｎ　Ｄｅｕｘ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂3丁目",
+      "price_man": 5.0,
+      "area_sqm": 59.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017490004/",
+      "text": "Ｍａｉｓｏｎ　Ｄｅｕｘ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000011890004/|Ｃｅｎｔｕｒｙ２１": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 5.4,
+      "area_sqm": 44.3,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000011890004/",
+      "text": "Ｃｅｎｔｕｒｙ２１"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008500013/|ハッピーリブ２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西1丁目",
+      "price_man": 2.5,
+      "area_sqm": 20.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008500013/",
+      "text": "ハッピーリブ２"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008500003/|ハッピーリブ２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西1丁目",
+      "price_man": 2.5,
+      "area_sqm": 20.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008500003/",
+      "text": "ハッピーリブ２"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008500012/|ハッピーリブ２": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町西1丁目",
+      "price_man": 2.5,
+      "area_sqm": 20.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008500012/",
+      "text": "ハッピーリブ２"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013210006/|ハイシティー湖山　Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 2.6,
+      "area_sqm": 22.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013210006/",
+      "text": "ハイシティー湖山　Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008220007/|トーブマンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南4丁目",
+      "price_man": 3.0,
+      "area_sqm": 25.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008220007/",
+      "text": "トーブマンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008220006/|トーブマンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南4丁目",
+      "price_man": 3.0,
+      "area_sqm": 25.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008220006/",
+      "text": "トーブマンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022570001/|ベルビューコバヤシⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市卯垣2丁目",
+      "price_man": 6.6,
+      "area_sqm": 43.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022570001/",
+      "text": "ベルビューコバヤシⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000004920001/|パンション安長": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市緑ケ丘1丁目",
+      "price_man": 3.2,
+      "area_sqm": 30.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000004920001/",
+      "text": "パンション安長"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023880008/|ボナ ベレッザ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市御弓町",
+      "price_man": 6.5,
+      "area_sqm": 27.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023880008/",
+      "text": "ボナ ベレッザ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023880005/|ボナ ベレッザ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市御弓町",
+      "price_man": 6.5,
+      "area_sqm": 27.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023880005/",
+      "text": "ボナ ベレッザ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023880004/|ボナ ベレッザ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市御弓町",
+      "price_man": 6.4,
+      "area_sqm": 27.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023880004/",
+      "text": "ボナ ベレッザ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007780003/|コーポUNI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 2.7,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007780003/",
+      "text": "コーポUNI"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007780006/|コーポUNI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 2.7,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007780006/",
+      "text": "コーポUNI"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007780011/|コーポUNI": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 2.7,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007780011/",
+      "text": "コーポUNI"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061080204060406/|ビレッジハウス湖山2号棟 (406号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北5丁目",
+      "price_man": 3.07,
+      "area_sqm": 38.1,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061080204060406/",
+      "text": "ビレッジハウス湖山2号棟 (406号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000007990004/|プチメゾン寺町": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市寺町",
+      "price_man": 3.1,
+      "area_sqm": 17.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000007990004/",
+      "text": "プチメゾン寺町"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023220002/|ストークパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.0,
+      "area_sqm": 49.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023220002/",
+      "text": "ストークパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023220001/|ストークパレス": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 4.0,
+      "area_sqm": 49.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023220001/",
+      "text": "ストークパレス"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017930017/|コーポ八幡面影Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影1丁目",
+      "price_man": 5.5,
+      "area_sqm": 57.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017930017/",
+      "text": "コーポ八幡面影Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000017930019/|コーポ八幡面影Ⅱ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影1丁目",
+      "price_man": 5.5,
+      "area_sqm": 57.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000017930019/",
+      "text": "コーポ八幡面影Ⅱ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000010360003/|セジュール ソシア": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 6.0,
+      "area_sqm": 47.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000010360003/",
+      "text": "セジュール ソシア"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000019930002/|コーポアルファーⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町奥谷3丁目",
+      "price_man": 4.9,
+      "area_sqm": 48.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000019930002/",
+      "text": "コーポアルファーⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002690001/|シャン・ド・フルールA": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影2丁目",
+      "price_man": 5.0,
+      "area_sqm": 60.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002690001/",
+      "text": "シャン・ド・フルールA"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009210003/|セイ・フィオーレ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市新",
+      "price_man": 5.5,
+      "area_sqm": 60.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009210003/",
+      "text": "セイ・フィオーレ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000003060002/|フィオーレB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.0,
+      "area_sqm": 67.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000003060002/",
+      "text": "フィオーレB"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009410002/|メゾンM21": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.2,
+      "area_sqm": 18.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009410002/",
+      "text": "メゾンM21"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009410006/|メゾンM21": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.2,
+      "area_sqm": 18.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009410006/",
+      "text": "メゾンM21"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009410003/|メゾンM21": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 2.1,
+      "area_sqm": 18.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009410003/",
+      "text": "メゾンM21"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005050001/|シャーメゾン湯所": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湯所町2丁目",
+      "price_man": 6.1,
+      "area_sqm": 61.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005050001/",
+      "text": "シャーメゾン湯所"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008600002/|ボレロ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 2.8,
+      "area_sqm": 18.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008600002/",
+      "text": "ボレロ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007870005/|メゾニティいなば": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南安長1丁目",
+      "price_man": 3.6,
+      "area_sqm": 42.8,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007870005/",
+      "text": "メゾニティいなば"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007110004/|コンフォート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 4.3,
+      "area_sqm": 35.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007110004/",
+      "text": "コンフォート"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000009930001/|ゲーブルアン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂4丁目",
+      "price_man": 4.1,
+      "area_sqm": 42.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000009930001/",
+      "text": "ゲーブルアン"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006500003/|ゲーブルアン": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市浜坂4丁目",
+      "price_man": 4.1,
+      "area_sqm": 42.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006500003/",
+      "text": "ゲーブルアン"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007480003/|こやまハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東1丁目",
+      "price_man": 3.3,
+      "area_sqm": 36.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007480003/",
+      "text": "こやまハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004670013/|ハイツトレンディⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成3丁目",
+      "price_man": 3.4,
+      "area_sqm": 22.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004670013/",
+      "text": "ハイツトレンディⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009250004/|コーポカトレヤⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 4.9,
+      "area_sqm": 52.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009250004/",
+      "text": "コーポカトレヤⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006560004/|ハイツボナベンチャー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 4.5,
+      "area_sqm": 35.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006560004/",
+      "text": "ハイツボナベンチャー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014190001/|カーサ・エスペランサ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湯所町2丁目",
+      "price_man": 6.6,
+      "area_sqm": 57.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014190001/",
+      "text": "カーサ・エスペランサ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012650003/|グランフルール": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 5.7,
+      "area_sqm": 43.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012650003/",
+      "text": "グランフルール"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013860005/|カプリス・ノヴァB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市賀露町西3丁目",
+      "price_man": 5.4,
+      "area_sqm": 57.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013860005/",
+      "text": "カプリス・ノヴァB"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000012380001/|フィオーレＢ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市秋里",
+      "price_man": 6.0,
+      "area_sqm": 67.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000012380001/",
+      "text": "フィオーレＢ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010160003/|メゾン・エスポワールⅡ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 4.9,
+      "area_sqm": 49.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010160003/",
+      "text": "メゾン・エスポワールⅡ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010140002/|ウェアーハウスB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市商栄町",
+      "price_man": 5.9,
+      "area_sqm": 68.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010140002/",
+      "text": "ウェアーハウスB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022490001/|メゾンアクルックスB棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市宮長",
+      "price_man": 5.3,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022490001/",
+      "text": "メゾンアクルックスB棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000009130017/|タウンアローズ70A": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場2丁目",
+      "price_man": 4.6,
+      "area_sqm": 44.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000009130017/",
+      "text": "タウンアローズ70A"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000002320003/|コーポカトレヤⅠ（１R）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南吉方1丁目",
+      "price_man": 5.4,
+      "area_sqm": 61.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000002320003/",
+      "text": "コーポカトレヤⅠ（１R）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014570007/|アメニティハイムＬＲ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 5.75,
+      "area_sqm": 51.7,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014570007/",
+      "text": "アメニティハイムＬＲ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007330058/|リシェシャトーイナバ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 2.7,
+      "area_sqm": 21.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007330058/",
+      "text": "リシェシャトーイナバ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000014740001/|石黒ビル": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町東2丁目",
+      "price_man": 14.3,
+      "area_sqm": 89.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000014740001/",
+      "text": "石黒ビル"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006290001/|ノスタルジーハイツB": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 4.8,
+      "area_sqm": 50.8,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006290001/",
+      "text": "ノスタルジーハイツB"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006280002/|ノスタルジーハイツC": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町宮下",
+      "price_man": 4.9,
+      "area_sqm": 35.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006280002/",
+      "text": "ノスタルジーハイツC"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004810005/|アシストコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市職人町",
+      "price_man": 4.2,
+      "area_sqm": 15.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004810005/",
+      "text": "アシストコート"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004810004/|アシストコート": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市職人町",
+      "price_man": 2.7,
+      "area_sqm": 15.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004810004/",
+      "text": "アシストコート"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008580004/|コーポラス松本": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 2.9,
+      "area_sqm": 28.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008580004/",
+      "text": "コーポラス松本"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007970004/|ＮＣハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市晩稲",
+      "price_man": 3.1,
+      "area_sqm": 26.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007970004/",
+      "text": "ＮＣハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008490016/|ハッピーリブ1": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南１丁目",
+      "price_man": 2.5,
+      "area_sqm": 24.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008490016/",
+      "text": "ハッピーリブ1"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008490009/|ハッピーリブ1": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南１丁目",
+      "price_man": 2.5,
+      "area_sqm": 24.2,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008490009/",
+      "text": "ハッピーリブ1"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000013400001/|ハイシティー湖山　Ⅰ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 2.95,
+      "area_sqm": 26.5,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000013400001/",
+      "text": "ハイシティー湖山　Ⅰ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006340004/|新通りコーポ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市国府町新通り2丁目",
+      "price_man": 2.6,
+      "area_sqm": 30.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006340004/",
+      "text": "新通りコーポ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007840004/|シンフォニー": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 1.9,
+      "area_sqm": 17.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007840004/",
+      "text": "シンフォニー"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018220001/|グッディーハウス立川": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市立川町５丁目",
+      "price_man": 5.6,
+      "area_sqm": 76.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018220001/",
+      "text": "グッディーハウス立川"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023840003/|カサ・デル・シエロ（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 7.1,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023840003/",
+      "text": "カサ・デル・シエロ（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023840002/|カサ・デル・シエロ（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 6.7,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023840002/",
+      "text": "カサ・デル・シエロ（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023840001/|カサ・デル・シエロ（仮）": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市江津",
+      "price_man": 6.7,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023840001/",
+      "text": "カサ・デル・シエロ（仮）"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000005320011/|ツインマークウエスト　A棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市的場4丁目",
+      "price_man": 5.4,
+      "area_sqm": 55.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000005320011/",
+      "text": "ツインマークウエスト　A棟"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000021000003/|フレグランスK　B": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市古市",
+      "price_man": 5.0,
+      "area_sqm": 48.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000021000003/",
+      "text": "フレグランスK　B"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000011970003/|コーポ南吉方": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市南吉方３丁目",
+      "price_man": 3.5,
+      "area_sqm": 28.4,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000011970003/",
+      "text": "コーポ南吉方"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000023100002/|セジュールU": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市大覚寺",
+      "price_man": 4.5,
+      "area_sqm": 52.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000023100002/",
+      "text": "セジュールU"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008190005/|ブレインマイライフⅡＢ棟": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 6.2,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008190005/",
+      "text": "ブレインマイライフⅡＢ棟"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061620204020402/|ビレッジハウス岩倉Ⅱ2号棟 (402号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩倉467-15",
+      "price_man": 3.95,
+      "area_sqm": 53.1,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061620204020402/",
+      "text": "ビレッジハウス岩倉Ⅱ2号棟 (402号室)"
+    },
+    "https://www.chintai.net/detail/bk-C010099500000061620105060506/|ビレッジハウス岩倉Ⅱ1号棟 (506号室)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市岩倉467-15",
+      "price_man": 4.06,
+      "area_sqm": 53.1,
+      "url": "https://www.chintai.net/detail/bk-C010099500000061620105060506/",
+      "text": "ビレッジハウス岩倉Ⅱ1号棟 (506号室)"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014400004/|カーサプリメーラ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市雲山",
+      "price_man": 5.2,
+      "area_sqm": 50.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014400004/",
+      "text": "カーサプリメーラ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007860002/|湖山小路": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南1丁目",
+      "price_man": 1.8,
+      "area_sqm": 12.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007860002/",
+      "text": "湖山小路"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000001620018/|メゾニティＭ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 3.0,
+      "area_sqm": 21.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000001620018/",
+      "text": "メゾニティＭ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000001620012/|メゾニティＭ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 3.0,
+      "area_sqm": 21.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000001620012/",
+      "text": "メゾニティＭ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010430013/|星見マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北2丁目",
+      "price_man": 1.7,
+      "area_sqm": 17.4,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010430013/",
+      "text": "星見マンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010550006/|サンフラワーハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北5丁目",
+      "price_man": 2.4,
+      "area_sqm": 19.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010550006/",
+      "text": "サンフラワーハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000010550003/|サンフラワーハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北5丁目",
+      "price_man": 2.4,
+      "area_sqm": 19.6,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000010550003/",
+      "text": "サンフラワーハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008130004/|大西マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北6丁目",
+      "price_man": 2.8,
+      "area_sqm": 25.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008130004/",
+      "text": "大西マンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000008130002/|大西マンション": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北6丁目",
+      "price_man": 2.7,
+      "area_sqm": 25.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000008130002/",
+      "text": "大西マンション"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000000360007/|ヴァルトリーベもりあい": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町北4丁目",
+      "price_man": 3.7,
+      "area_sqm": 31.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000000360007/",
+      "text": "ヴァルトリーベもりあい"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007670042/|アメニティFK": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 3.1,
+      "area_sqm": 21.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007670042/",
+      "text": "アメニティFK"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007670038/|アメニティFK": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 3.0,
+      "area_sqm": 21.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007670038/",
+      "text": "アメニティFK"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000007670039/|アメニティFK": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 3.0,
+      "area_sqm": 21.7,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000007670039/",
+      "text": "アメニティFK"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000014360010/|ファミリーハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市興南町",
+      "price_man": 5.2,
+      "area_sqm": 49.3,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000014360010/",
+      "text": "ファミリーハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018780015/|グランドハイツ正蓮寺61": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 3.6,
+      "area_sqm": 24.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018780015/",
+      "text": "グランドハイツ正蓮寺61"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018780014/|グランドハイツ正蓮寺61": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 3.6,
+      "area_sqm": 24.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018780014/",
+      "text": "グランドハイツ正蓮寺61"
+    },
+    "https://www.chintai.net/detail/bk-C030000200000000000006790001/|上田ハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市湖山町南5丁目",
+      "price_man": 2.3,
+      "area_sqm": 20.0,
+      "url": "https://www.chintai.net/detail/bk-C030000200000000000006790001/",
+      "text": "上田ハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000012080002/|コーポクレスト": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市面影1丁目",
+      "price_man": 5.3,
+      "area_sqm": 42.5,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000012080002/",
+      "text": "コーポクレスト"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000004860004/|コンパクトハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉方温泉4丁目",
+      "price_man": 3.8,
+      "area_sqm": 16.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000004860004/",
+      "text": "コンパクトハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000018550002/|テラスハウス美保": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市吉成2丁目",
+      "price_man": 5.3,
+      "area_sqm": 67.2,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000018550002/",
+      "text": "テラスハウス美保"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000006620013/|パークボナベンチャーハイツ": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市正蓮寺",
+      "price_man": 4.8,
+      "area_sqm": 41.6,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000006620013/",
+      "text": "パークボナベンチャーハイツ"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000008800005/|ぴのきお": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市相生町2丁目",
+      "price_man": 3.0,
+      "area_sqm": 17.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000008800005/",
+      "text": "ぴのきお"
+    },
+    "https://www.chintai.net/detail/bk-C030000980000000000022860001/|二階町本郷借家": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-24",
+      "location": "鳥取県鳥取市二階町4丁目",
+      "price_man": 5.0,
+      "area_sqm": 45.0,
+      "url": "https://www.chintai.net/detail/bk-C030000980000000000022860001/",
+      "text": "二階町本郷借家"
+    }
+  },
+  "hash": "bd65c51cf9d190fb",
+  "fetched_at": "2026-07-24T23:16:15.936176"
+}

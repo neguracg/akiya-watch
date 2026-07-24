@@ -109,17 +109,6 @@
     "removed_on": "2026-07-14",
     "site_name": "SUUMO 土地 三島市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/|都心アクセスと三島の自然を享受する二日町、家族のゆとり育む新街区。": {
-    "first_seen": "2026-07-14",
-    "last_seen": "2026-07-21",
-    "location": "静岡県三島市南二日町",
-    "price_man": null,
-    "area_sqm": 169.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/",
-    "text": "都心アクセスと三島の自然を享受する二日町、家族のゆとり育む新街区。",
-    "removed_on": "2026-07-22",
-    "site_name": "SUUMO 土地 三島市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21181101/|谷田（三島二日町駅） 1580万円": {
     "first_seen": "2026-07-14",
     "last_seen": "2026-07-21",
@@ -129,6 +118,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21181101/",
     "text": "谷田（三島二日町駅） 1580万円",
     "removed_on": "2026-07-22",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254830/|萩（長泉なめり駅） 1880万円～2280万円": {
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-23",
+    "location": "静岡県三島市萩50-1",
+    "price_man": 1880,
+    "area_sqm": 128.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254830/",
+    "text": "萩（長泉なめり駅） 1880万円～2280万円",
+    "removed_on": "2026-07-24",
     "site_name": "SUUMO 土地 三島市"
   }
 }
