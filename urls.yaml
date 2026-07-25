@@ -41,6 +41,12 @@ filters:
       賃貸アパート: 5
       賃貸マンション: 5
       賃貸その他: 5
+    # 売買用の注意/本命キーワードとNGエリアは賃貸に持ち込まない（意味が違う）:
+    #   管理費・別荘地・温泉は賃貸では当たり前 or 狙い目。市街化調整区域等は賃貸で無意味。
+    #   別荘地(エメラルドタウン/南箱根ダイヤランド等)は賃貸では除外対象ではなく本命。
+    exclude_areas: []
+    caution_keywords: [事務所, 店舗, 事業用, 駐車場のみ, 高齢者専用, women, 女性限定, 学生限定, 法人契約のみ]
+    interest_keywords: [敷金なし, 敷金無, 礼金なし, 礼金無, ペット可, 駐車場付, 駐車場2台, 庭付, 平屋, 古民家, 戸建, DIY可, 事務所可]
   price_ceiling_by_type:
     更地: 1500
     古家付き土地: 1500
@@ -711,6 +717,73 @@ sites:
     tab: rent
     note: "実測200・県全体で3件(東伊豆1/西伊豆1/静岡市葵区1)と少ないが、月2〜3万の掘り出し物が出る新着待ちチャネル。応答15秒級で遅い"
 
+  # ---- スマイミー静岡（宅建サポートセンター）賃貸。静岡県宅建協会システム(空き家バンク
+  #   しずおかと同基盤)。全9市町とも実測200で物件リンク70〜80件。敷金/礼金が一覧に
+  #   載る唯一のソース。filter_keywords は不要（市町別URLのため）----
+  - id: sumaimy_rent_kannami
+    name: スマイミー静岡 賃貸 田方郡函南町
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%94%B0%E6%96%B9%E9%83%A1%E5%87%BD%E5%8D%97%E7%94%BA/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_izunokuni
+    name: スマイミー静岡 賃貸 伊豆の国市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_mishima
+    name: スマイミー静岡 賃貸 三島市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%B8%89%E5%B3%B6%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_numazu
+    name: スマイミー静岡 賃貸 沼津市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E6%B2%BC%E6%B4%A5%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_atami
+    name: スマイミー静岡 賃貸 熱海市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%86%B1%E6%B5%B7%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_nagaizumi
+    name: スマイミー静岡 賃貸 駿東郡長泉町
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E9%95%B7%E6%B3%89%E7%94%BA/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_shimizu
+    name: スマイミー静岡 賃貸 駿東郡清水町
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E6%B8%85%E6%B0%B4%E7%94%BA/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_susono
+    name: スマイミー静岡 賃貸 裾野市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E8%A3%BE%E9%87%8E%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: sumaimy_rent_izu
+    name: スマイミー静岡 賃貸 伊豆市
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E5%B8%82/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
 # ============================================================================
@@ -756,7 +829,9 @@ sources_extra:
     url: "https://shizuoka.fudohsan.jp/"
     status: 対象外
     http: 200
-    note: "ログインゲートで公開一覧なし。takkenの akiya-bank.shizuoka.fudohsan.jp とは別サブドメイン"
+    note: "このトップページ(非www)はログインゲートで公開一覧なし。takkenの akiya-bank.shizuoka.fudohsan.jp とは別サブドメイン。
+      ただし www.shizuoka.fudohsan.jp 配下の賃貸カテゴリ深部URL(一覧/借りる/地域/{市町}/)は
+      ログイン不要で公開一覧あり＝sites の sumaimy_rent_* として2026-07-25に採用（本エントリとは別URL）"
   - channel: "①"
     name: アットホーム 中古戸建 清水町/長泉町
     kind: 中古戸建
