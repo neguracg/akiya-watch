@@ -2578,6 +2578,279 @@ def parse_jmty(first_html, base_url, filter_keywords, filters, session) -> list:
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# LIFULL HOME'S 賃貸 アダプタ（homes.co.jp/chintai/... tab=rent。売買用 parse_lifull とは
+#   別関数・別のDOM構造。homes.co.jp は累積202レート制限の実績があるため urls.yaml 側で
+#   3URLに限定し、ページャは追わない（1ページのみ・レート制限配慮。回避策は取らない）。
+#   建物カード = div[class*=mergeBuilding]（複数部屋が同一建物にマージされた表示）。
+#   建物名/種別 = .bukkenName / .icon-bukkenType .bType（建物見出し内）。建物spec表
+#   （所在地/交通/築年数・階数）= .moduleInner.prg-building 内 table の th/td。
+#   部屋行 = 建物カード内 tr.prg-room[data-href]（実データ行）。data-href の無い
+#   tr.prg-room は仲介業者コメント行（class memberDataRow）であり物件データではないため
+#   除外する（実測で必須。無視すると空セルの偽レコードが混ざる）。各行:
+#   td.price（例 "7.1万円/7,700円<br>無/1ヶ月/-/-" = 賃料/管理費等の後に
+#   敷金/礼金/保証/敷引・償却が続く。一覧ヘッダの表記どおり）・td.layout（間取り<br>
+#   専有面積）。詳細URL = tr[data-href] 属性値。
+#   なお同ページに「PR」広告カード（div.moduleInner.prg-kksSictClickInfo、adlads等の
+#   広告トラッキング属性付き）が数件混在するが対象外とした。実測(函南町・2件)では
+#   1件は建物カード内の部屋と完全重複（data-bid一致・URLスキームのみ異なる）だったが、
+#   もう1件（レオパレスサン平井）は30建物カードのどこにも現れない、PR経由でのみ見える
+#   固有物件だった。二重計上の回避を優先しPRカードは全件対象外としたため、この種の
+#   PR限定物件は本アダプタでは拾えない（既知の残課題。将来PR経由の固有物件を拾いたく
+#   なったら、建物カード側のdata-bid集合との突き合わせで重複判定してから採用する）。
+# ---------------------------------------------------------------------------
+
+_LIFULL_RENT_PRICE_RE = re.compile(
+    r"^([\d,]+(?:\.\d+)?)\s*万円\s*/\s*(\S+)\s+(\S*)/(\S*)/(\S*)/(\S*)$"
+)
+
+
+def _lifull_rent_price_fields(text: str):
+    """HOME'S賃貸 部屋行の td.price テキスト（例 "7.1 万円 /7,700円 無/1ヶ月/-/-"）を
+    (rent_man, kanrihi_yen, shikikin, reikin) に分解。"-" は不明(None)。"無"は契約上の
+    表記としてそのまま保持（0円と混同しない）。パターン不一致時は家賃のみ
+    parse_rent_man でフォールバック抽出。"""
+    m = _LIFULL_RENT_PRICE_RE.match(text or "")
+    if not m:
+        return parse_rent_man(text), None, None, None
+    rent = parse_rent_man(m.group(1) + "万円")
+    kanrihi = _first_yen(m.group(2))
+    shikikin = m.group(3) if m.group(3) and m.group(3) != "-" else None
+    reikin = m.group(4) if m.group(4) and m.group(4) != "-" else None
+    return rent, kanrihi, shikikin, reikin
+
+
+def _lifull_rent_madori_area(text: str):
+    """td.layout テキスト（例 "2LDK 62.81m²"）を (madori, area_sqm) に分解。"""
+    area = _first_sqm(text)
+    madori = re.sub(r"[\d,.]+\s*(?:㎡|m²|m2).*$", "", text or "").strip() or None
+    return madori, area
+
+
+def _lifull_rent_building_specs(building_header) -> dict:
+    """建物カード内 .moduleInner.prg-building の spec table（所在地/交通/築年数・階数）
+    を th→td dict に。"""
+    specs = {}
+    tbl = building_header.select_one("table")
+    if not tbl:
+        return specs
+    for tr in tbl.select("tr"):
+        th, td = tr.find("th"), tr.find("td")
+        if th and td:
+            specs[th.get_text(strip=True)] = td.get_text(" ", strip=True)
+    return specs
+
+
+def _extract_lifull_rent_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div[class*=mergeBuilding]"):
+        header = card.select_one(".moduleInner.prg-building")
+        if not header:
+            continue
+        label_el = header.select_one(".icon-bukkenType .bType")
+        dtype = _rent_type_from_label(label_el.get_text(strip=True) if label_el else "")
+        name_el = header.select_one(".bukkenName")
+        bname = name_el.get_text(strip=True) if name_el else ""
+        specs = _lifull_rent_building_specs(header)
+        location = specs.get("所在地", "").strip()
+        chikunen = specs.get("築年数/階数")
+
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        for row in card.select("tr.prg-room[data-href]"):
+            url = normalize_url(row["data-href"], base_url)
+            price_td = row.select_one("td.price")
+            layout_td = row.select_one("td.layout")
+            price, kanrihi, shikikin, reikin = _lifull_rent_price_fields(
+                price_td.get_text(" ", strip=True) if price_td else "")
+            madori, area = _lifull_rent_madori_area(
+                layout_td.get_text(" ", strip=True) if layout_td else "")
+            row_text = row.get_text(" ", strip=True)
+            card_text = bname + " " + location + " " + row_text
+            out.append(_make_record(url, bname or location, price, area, False,
+                                    card_text, filters, location=location,
+                                    shubetsu_override=dtype, madori=madori,
+                                    chikunen=chikunen, kanrihi_yen=kanrihi,
+                                    shikikin=shikikin, reikin=reikin))
+    return out
+
+
+def parse_lifull_rent(first_html, base_url, filter_keywords, filters, session):
+    """HOME'S賃貸アダプタ。202レート制限の実績があるため urls.yaml 側で3URLに限定済み。
+    ページャは追わない（1ページのみ・レート制限配慮）。売買用 parse_lifull とは別関数・
+    別DOM構造（registry では lifull_rent_ を lifull_ より必ず先に置くこと）。
+    """
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div[class*=mergeBuilding]"):
+        raise BotBlocked(f"HOME'S賃貸 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_lifull_rent_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[lifull_rent] cards={len(dedup)} (1ページ・ページャ追従なし)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 静岡県営住宅 アダプタ（sjkk.or.jp/kenei/list.php。tab=rent。抽選制・所得制限あり、
+#   月1〜2万円台も出る最安チャネル。カード = div.search_result_box。dl(dt→dd)に
+#   所在地/家賃(円)/間取り(専有面積)/竣工年度 が直接載っており、詳細ページ
+#   （syosai.php）の取得は不要（実測で確認済み・サーバ負荷配慮に合致）。
+#   家賃は「13,900～64,100円」のような幅表記のため下限を採用（安い物件を見つけるのが
+#   目的のため）。一覧は POST専用フォーム（form name=main, action=list.php）による
+#   ページング（次へ＝hidden PGを進めてsubmit）・絞り込みで、GETのクエリパラメータは
+#   一切効かない（実測: ?PG=1 / ?f1=熱海市 / ?display_num=50 のいずれも既定と同一内容
+#   を返すことを確認済み）。POSTフォーム追従は実装せず、既定（無フィルタ・1ページ目・
+#   20件)のみをGET取得し、ページャは追わない（サーバ負荷配慮。全団地の走査はしない）。
+#   なお既定順は熱海市→伊東市→駿東郡→沼津市→三島市→裾野市→御殿場市という地理順で、
+#   1ページ目20件だけで対象の東部団地の大半をカバーできる（実測18/20。残る2件は
+#   伊東市で対象キーワード外のため意図的に非該当）。
+#   間取り欄は複数の部屋タイプ（例 3DK･3K･2LDK･1LDK）を1本の面積レンジ(44.5～50.8㎡)に
+#   まとめた表記で、最安家賃の部屋タイプと一対一に対応しないため area は None のままとし
+#   （無理に数値化しない）、レンジ文字列は madori にそのまま残す。
+# ---------------------------------------------------------------------------
+
+_SJKK_RENT_LOW_RE = re.compile(r"([\d,]+)")
+
+
+def _sjkk_rent_man(text: str):
+    """県営住宅の家賃(円)欄（例 "13,900～64,100円"）の下限を万円floatで返す。
+    幅表記の下限を採用（安い物件を見つけるのが目的のため）。取れなければNone。"""
+    if not text:
+        return None
+    m = _SJKK_RENT_LOW_RE.search(text)
+    if not m:
+        return None
+    try:
+        yen = int(m.group(1).replace(",", ""))
+    except ValueError:
+        return None
+    return round(yen / 10000, 2) if yen > 0 else None
+
+
+def _sjkk_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.search_result_box"):
+        a = card.select_one("a[href*='syosai.php']")
+        if not a or not a.get("href"):
+            continue
+        url = normalize_url(a["href"], base_url)
+        name_el = card.select_one(".apartment_name")
+        name = name_el.get_text(strip=True) if name_el else ""
+        specs = {}
+        for dl in card.select("dl"):
+            dt, dd = dl.find("dt"), dl.find("dd")
+            if dt and dd:
+                specs[dt.get_text(strip=True)] = dd.get_text(" ", strip=True)
+        location, rent_text, madori, chikunen = "", "", None, None
+        for k, v in specs.items():
+            if "所在地" in k:
+                location = v
+            elif "家賃" in k:
+                rent_text = v
+            elif "間取り" in k:
+                madori = v
+            elif "竣工" in k:
+                chikunen = v
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        price = _sjkk_rent_man(rent_text)
+        card_text = name + " " + location + " " + (madori or "")
+        out.append(_make_record(url, name or location, price, None, False,
+                                card_text, filters, location=location,
+                                shubetsu_override="賃貸その他", madori=madori,
+                                chikunen=chikunen))
+    return out
+
+
+def parse_sjkk(first_html, base_url, filter_keywords, filters, session):
+    """静岡県営住宅アダプタ。list.php はPOST専用フォームのためページング・絞り込みの
+    GETクエリは効かない（実測確認済み）。既定の1ページ目のみ取得しページャは追わない。
+    """
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.search_result_box"):
+        raise BotBlocked(f"静岡県営住宅 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _sjkk_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[sjkk] cards={len(dedup)} (1ページのみ・ページャ追従なし)")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# ビレッジハウス アダプタ（villagehouse.jp。旧雇用促進住宅。tab=rent。東部の在庫は
+#   沼津2棟・伊豆の国1棟と少数だが敷金礼金ゼロの独自在庫。家賃は静的HTMLに出ない
+#   （JS描画）ためリンク監視型で実装（価格None・面積None）。物件が増えたときに気づける
+#   ことが目的。建物カード = li.container-search-cards-community。建物名 =
+#   .container-search-cards-community-title。所在地（番地まで）=
+#   .container-search-cards-community-area（実測で駅・交通情報とは別要素に分離されて
+#   おり、番地までの住所のみをクリーンに取得できる）。詳細URL = a[href] のうち
+#   /chintai/tokai/shizuoka/{市}/{団地}-{id}/ にマッチするもの（# を含むアンカー
+#   （例 "#photos"）は正規表現の $ 終端一致により自然に除外される）。
+#   敷金/礼金はサイト全体の謳い文句（title="…✔️敷金なし✔️"・meta description=
+#   "礼金なし✔️仲介手数料無料の安いアパート…"）どおり無で確定。個別一覧に敷礼の表示は
+#   無いが、事実として敷金礼金ゼロが同社の売りであるため shikikin/reikin="無" を
+#   ハードコードする（指示書で事前承認済み）。空室状況（.container-search-cards-
+#   community-status＝"空室あり"/"空室なし"/"N 残り部屋"）はカード内に存在するが、
+#   専用の表示列が無く madori/chikunen 等に載せると項目名と意味が食い違うため、
+#   レコードのタイトル/キーには含めずflag_text（キーワード判定用のみ）に留める
+#   （タイトルに含めると状態変化のたびにkeyが変わり「消滅→新規」を誤って繰り返すため）。
+#   単一ページ（市町別URLのためページャなし）。
+# ---------------------------------------------------------------------------
+
+_VHOUSE_LINK_RE = re.compile(r"/chintai/tokai/shizuoka/[^/]+/[^/#]+-\d+/?$")
+
+
+def _extract_vhouse_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    seen_urls = set()
+    for card in soup.select("li.container-search-cards-community"):
+        a = card.find("a", href=_VHOUSE_LINK_RE)
+        if not a or "#" in a.get("href", ""):
+            continue
+        url = normalize_url(a["href"], base_url)
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        name_el = card.select_one(".container-search-cards-community-title")
+        bname = name_el.get_text(strip=True) if name_el else ""
+        addr_el = card.select_one(".container-search-cards-community-area")
+        location = addr_el.get_text(strip=True) if addr_el else ""
+        status_el = card.select_one(".container-search-cards-community-status")
+        status = status_el.get_text(strip=True) if status_el else ""
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+        card_text = bname + " " + location + " " + status + " 敷金なし 礼金なし"
+        out.append(_make_record(url, bname or location, None, None, False,
+                                card_text, filters, location=location,
+                                shubetsu_override="賃貸アパート",
+                                shikikin="無", reikin="無"))
+    return out
+
+
+def parse_vhouse(first_html, base_url, filter_keywords, filters, session):
+    """ビレッジハウスアダプタ。JS描画で家賃が静的HTMLに出ないためリンク監視型
+    （価格None）。単一ページ（市町別URLのためページャなし）。
+    """
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.container-search-cards-community"):
+        raise BotBlocked(f"ビレッジハウス ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_vhouse_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[vhouse] cards={len(dedup)} (リンク監視型・価格None・1ページ)")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -2588,6 +2861,9 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("suumo_"), parse_suumo),
     (lambda sid: sid.startswith("takken_"), parse_takken),
     (lambda sid: sid.startswith("sumaimy_"), parse_sumaimy_rent),
+    # lifull_rent_ は lifull_ の特殊化なので必ず先に置く（後だと lifull_ に食われて
+    # 売買用パーサ(parse_lifull)が誤って呼ばれる。suumo_rent_/suumo_ と同じ理由）。
+    (lambda sid: sid.startswith("lifull_rent_"), parse_lifull_rent),
     # athome は現在持続的に bot対策でブロック中のため adapter 対象から外し、urls.yaml で
     # sources_extra(フェーズ2) へ退避済み（リトライストーム回避）。parse_athome は将来用に残置。
     (lambda sid: sid.startswith("lifull_") and sid != "lifull_akiyabank", parse_lifull),
@@ -2610,6 +2886,8 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
     (lambda sid: sid.startswith("jmty_"), parse_jmty),
+    (lambda sid: sid.startswith("sjkk_"), parse_sjkk),
+    (lambda sid: sid.startswith("vhouse_"), parse_vhouse),
 ]
 
 

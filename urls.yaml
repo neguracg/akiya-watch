@@ -784,6 +784,62 @@ sites:
     kind: 賃貸
     tab: rent
 
+  # ---- LIFULL HOME'S 賃貸（homes.co.jp）。202累積レート制限の実績があるドメインの
+  #   ため3URLに限定。robots.txtは一覧ページを許可。取得間隔を長めに取り、202が返っ
+  #   たら要確認扱いで諦める（回避策は取らない）。伊豆の国市/三島市URLは
+  #   cv_homes_rent_kannami.html内の実リンク（近隣エリア家賃相場表・グルーピング
+  #   リンク一覧）で確認のうえ Invoke-WebRequest で200を実測して採用 ----
+  - id: lifull_rent_kannami
+    name: LIFULL 賃貸 田方郡函南町
+    url: "https://www.homes.co.jp/chintai/shizuoka/tagata_kannami-city/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: lifull_rent_izunokuni
+    name: LIFULL 賃貸 伊豆の国市
+    url: "https://www.homes.co.jp/chintai/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: lifull_rent_mishima
+    name: LIFULL 賃貸 三島市
+    url: "https://www.homes.co.jp/chintai/shizuoka/mishima-city/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+
+  - id: sjkk_kenei
+    name: 静岡県営住宅（抽選・所得制限あり）
+    url: "https://www.sjkk.or.jp/kenei/list.php"
+    status: verified
+    channel: "⑧"
+    kind: 公営住宅/賃貸
+    tab: rent
+    filter_keywords: [三島, 沼津, 函南, 熱海, 裾野, 長泉, 清水, 御殿場, 伊豆の国, 田方, 駿東]
+    note: "抽選制・所得制限あり。空家募集は毎月10日公示・14〜18日受付。すぐには入居できない。list.phpはPOST専用フォームでページング・絞り込みのGETクエリは効かない(実測確認済み)。既定の1ページ目のみ取得しページャは追わない(サーバ負荷配慮)。既定順が熱海市→伊東市→駿東郡→沼津市→三島市→裾野市→御殿場市の地理順のため1ページ目20件で東部団地の大半(実測18/20)をカバー"
+
+  # ---- ビレッジハウス（旧雇用促進住宅。villagehouse.jp）。敷金礼金ゼロが独自在庫だが、
+  #   東部の在庫は非常に少ない（沼津2棟・伊豆の国1棟）。家賃はJS描画のため静的HTMLに
+  #   出ずリンク監視型（価格None・面積None）で実装。物件が増えたときに気づけることが
+  #   目的。建物リンク=/chintai/tokai/shizuoka/{市}/{団地名}-{id}/ ----
+  - id: vhouse_numazu
+    name: ビレッジハウス 沼津市（敷金礼金0円）
+    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸/敷礼0
+    tab: rent
+  - id: vhouse_izunokuni
+    name: ビレッジハウス 伊豆の国市（敷金礼金0円）
+    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸/敷礼0
+    tab: rent
+
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
 # ============================================================================
