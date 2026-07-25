@@ -1,0 +1,33 @@
+{
+  "keys": {
+    "https://higashiizu-t22301.akiya-athome.jp/bukken/detail/rent/8508|伊豆急行 伊豆大川駅/車5分": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県賀茂郡東伊豆町大川",
+      "price_man": 6.0,
+      "area_sqm": 88.6,
+      "url": "https://higashiizu-t22301.akiya-athome.jp/bukken/detail/rent/8508",
+      "text": "伊豆急行 伊豆大川駅/車5分"
+    },
+    "https://nishiizu-t22306.akiya-athome.jp/bukken/detail/rent/6527|貸戸建住宅【仁科R6-5】": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県賀茂郡西伊豆町仁科",
+      "price_man": 5.0,
+      "area_sqm": null,
+      "url": "https://nishiizu-t22306.akiya-athome.jp/bukken/detail/rent/6527",
+      "text": "貸戸建住宅【仁科R6-5】"
+    },
+    "https://shizuoka-c22100.akiya-athome.jp/bukken/detail/rent/144|千代田3望月貸家": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県静岡市葵区千代田３丁目",
+      "price_man": 6.0,
+      "area_sqm": 71.2,
+      "url": "https://shizuoka-c22100.akiya-athome.jp/bukken/detail/rent/144",
+      "text": "千代田3望月貸家"
+    }
+  },
+  "hash": "62c7dadaa319d29f",
+  "fetched_at": "2026-07-25T16:21:20.951842"
+}

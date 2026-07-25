@@ -1,0 +1,24 @@
+{
+  "keys": {
+    "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/imazawa-4103/|ビレッジハウス今沢": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市今沢字水上443-1",
+      "price_man": null,
+      "area_sqm": null,
+      "url": "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/imazawa-4103/",
+      "text": "ビレッジハウス今沢"
+    },
+    "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/hara-4259/|ビレッジハウス原": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市原1418-12",
+      "price_man": null,
+      "area_sqm": null,
+      "url": "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/hara-4259/",
+      "text": "ビレッジハウス原"
+    }
+  },
+  "hash": "c9f67b88e0cce32e",
+  "fetched_at": "2026-07-25T16:09:16.046040"
+}
