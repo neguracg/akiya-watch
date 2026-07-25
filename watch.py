@@ -1828,8 +1828,14 @@ def _suumo_shikirei_val(text: str):
 
 
 def _rent_type_from_label(label: str) -> str:
-    """建物種別ラベルを 賃貸戸建/賃貸アパート/賃貸マンション/賃貸その他 に正規化。"""
+    """建物種別ラベルを 賃貸戸建/賃貸アパート/賃貸マンション/駐車場/賃貸その他 に正規化。
+
+    駐車場は住居ではないが月額数千円のため、混ぜると「安い順」の上位を占めて
+    住む物件が埋もれる。独立した種別にして画面側で既定非表示にする。
+    """
     label = label or ""
+    if "駐車場" in label:
+        return "駐車場"
     if "戸建" in label:
         return "賃貸戸建"
     if "マンション" in label:
@@ -3706,7 +3712,8 @@ _REPORT_CSS = (
 
 _FILTER_JS = r"""
 const TYPES=CONFIG.types, MACHI=CONFIG.machi;
-const RENT_TYPES=['賃貸戸建','賃貸アパート','賃貸マンション','賃貸その他'];
+// 駐車場は住居ではないので既定非表示（種別フィルタで明示的にチェックすれば出る）
+const RENT_TYPES=['賃貸戸建','賃貸アパート','賃貸マンション','賃貸その他','駐車場'];
 const CHIMOKU_OPTS=[...new Set(DATA.map(d=>d.chimoku||'—'))].sort();
 const HOUSE_TYPES=new Set(['空き家','古家付き土地','中古戸建']);
 // タブ別の列定義。rentタブは坪単価・建築可否・地目を出さず、間取り・築年を出す。
@@ -3851,6 +3858,12 @@ function passFilters(d){
     const isHouse=HOUSE_TYPES.has(d.shubetsu);
     if(S.tab==='sarachi'&&isHouse)return false;
     if(S.tab==='ie'&&!isHouse)return false;
+  }
+  // 駐車場は住居ではなく月額数千円のため、混ぜると「安い順」の上位を占めて
+  // 住む物件が埋もれる。既定で隠し、種別フィルタで明示的にチェックすれば出す。
+  if(S.tab==='rent'&&d.shubetsu==='駐車場'){
+    const cf=S.cf['shubetsu'];
+    if(!(cf&&cf.set&&cf.set.includes('駐車場')))return false;
   }
   const loc=d.loc||'';
   // 賃貸タブ(rent)は除外エリアを適用しない（別荘地の激安賃貸が狙い目のため）。
