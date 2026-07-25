@@ -353,7 +353,7 @@ def extract_toshikeikaku(text: str) -> str:
     return "—"
 
 
-# 前半=静岡（home/camp タブ）、後半=鳥取（rent タブ）。前半7つ=住宅探索(home)の対象市町。
+# 住宅探索(home/camp/rentタブ共通)の対象市町。前半7つ=住宅探索(home)の対象市町。
 # 以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、末尾5つ=Tier3（1h超だが広い山物件の
 # 在庫が豊富な伊豆最南部+賀茂郡。現地訪問前提で監視だけ広げる）。河津町/松崎町は
 # suumo_camp_kamogun（賀茂郡ページ）の machi 判定用に追加。
@@ -361,17 +361,12 @@ _MACHI_NAMES_SHIZUOKA = ("函南町", "伊豆の国市", "三島市", "沼津市
                 "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
                 "湯河原町", "箱根町", "富士市",
                 "下田市", "東伊豆町", "南伊豆町", "河津町", "松崎町")
-# 鳥取県19市町村（賃貸タブ・山暮らし二拠点向け）。静岡側と地名の重複衝突なし（要確認済み）。
-# 衝突を避けるため必ず静岡側の後ろに連結する（_MACHI_NAMES は前方一致でなく部分一致だが、
-# 将来語の追加で衝突しないよう順序を固定しておく）。
-_MACHI_NAMES_TOTTORI = ("鳥取市", "米子市", "倉吉市", "境港市", "岩美町", "若桜町", "智頭町",
-                "八頭町", "三朝町", "湯梨浜町", "琴浦町", "北栄町", "日吉津村", "大山町",
-                "南部町", "伯耆町", "日南町", "日野町", "江府町")
-_MACHI_NAMES = _MACHI_NAMES_SHIZUOKA + _MACHI_NAMES_TOTTORI
+# 賃貸タブ(rent)も静岡県東部が対象のため、_MACHI_NAMES は静岡側と等価。
+_MACHI_NAMES = _MACHI_NAMES_SHIZUOKA
 
 
 def extract_machi(text: str) -> str:
-    """所在地テキストから対象市町（静岡+鳥取）を判定。無ければ空文字。"""
+    """所在地テキストから対象市町（静岡県）を判定。無ければ空文字。"""
     for m in _MACHI_NAMES:
         if m in text:
             return m
@@ -1811,7 +1806,8 @@ def parse_shinrin(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
-# 賃貸タブ 共通ヘルパ（tab=rent。鳥取県の山暮らし二拠点向け・月額家賃で判定）
+# 賃貸タブ 共通ヘルパ（tab=rent。静岡県東部（函南町の友人拠点=丹那から通える範囲）の
+# 激安賃貸監視向け・月額家賃で判定）
 # ---------------------------------------------------------------------------
 
 def _rent_type_from_label(label: str) -> str:
@@ -1827,7 +1823,8 @@ def _rent_type_from_label(label: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# SUUMO賃貸 アダプタ（鳥取県。suumo.jp/chintai/tottori/sc_*/ tab=rent・最重要チャネル）
+# SUUMO賃貸 アダプタ（suumo.jp/chintai/{都道府県}/sc_*/ tab=rent・最重要チャネル。
+#   現在は静岡県東部が対象。id prefix "suumo_rent_" で県を問わず共用）
 #   建物カード = div.cassetteitem。建物名 = .cassetteitem_content-title、所在地 =
 #   .cassetteitem_detail-col1、築年/階建 = .cassetteitem_detail-col3、建物種別ラベル =
 #   .cassetteitem_content-label（"賃貸アパート"/"賃貸一戸建て"/"賃貸マンション"）。
@@ -1878,7 +1875,7 @@ def _extract_suumo_rent_cards(soup, base_url, filter_keywords, filters) -> list:
 
 
 def parse_suumo_rent(first_html, base_url, filter_keywords, filters, session) -> list:
-    """SUUMO賃貸アダプタ（鳥取県）。bot対策検出＋ページャ追従は既存parse_suumoと同じ流儀。
+    """SUUMO賃貸アダプタ。bot対策検出＋ページャ追従は既存parse_suumoと同じ流儀。
 
     賃貸ページの正常判定カードは div.cassetteitem（売買の div.property_unit とは別クラス）
     のため、汎用の _page_blocked() を使う（_suumo_looks_blocked は売買専用のため使わない）。
@@ -1937,12 +1934,13 @@ def parse_suumo_rent(first_html, base_url, filter_keywords, filters, session) ->
 
 
 # ---------------------------------------------------------------------------
-# アットホーム空き家バンク 賃貸 アダプタ（akiya-athome.jp/rent/31/ 鳥取県 tab=rent）
+# アットホーム空き家バンク 賃貸 アダプタ（akiya-athome.jp/rent/{都道府県コード}/ tab=rent。
+#   現在は22=静岡県が対象）
 #   カード = section.propety（サイト側の実際のクラス名。"property" のtypoではない）。
 #   属性は dl(dt→dd) の並び: 賃料(管理費等)/間取/面積/敷金／保証金/礼金/物件種目/築年月/
 #   所在地/交通。詳細URL = a[href*='.akiya-athome.jp/bukken/detail/rent/']（自治体サブ
 #   ドメインの絶対URL、そのまま使える）。カテゴリ = .objectCategory（"貸戸建て"等）。
-#   単一ページ（実測10件）。
+#   単一ページ（件数は都道府県により変動。urls.yaml の note 参照）。
 # ---------------------------------------------------------------------------
 
 def _athome_rent_specs(card) -> dict:
@@ -2029,7 +2027,8 @@ def parse_akiya_athome_rent(first_html, base_url, filter_keywords, filters, sess
 
 
 # ---------------------------------------------------------------------------
-# CHINTAI アダプタ（chintai.net/tottori/area/{code}/list/ tab=rent）
+# CHINTAI アダプタ（chintai.net/{都道府県slug}/area/{code}/list/ tab=rent。
+#   slugは先方サイトの表記そのまま（例: 静岡は"sizuoka"）
 #   建物カード = section.cassette_item。建物名/種別 = .cassette_ttl h2（種別は
 #   span.icn_typeB のみ。"新築"等の別バッジ span.icn_newBuilding と混同しないこと）。
 #   所在地/築年 = div.bukken_information table の th(住所/築年)→td。
@@ -2038,7 +2037,8 @@ def parse_akiya_athome_rent(first_html, base_url, filter_keywords, filters, sess
 #   を持ち、tbody[data-detailurl] に実詳細URLが直接入っている（実測で確認済み・
 #   javascript:void(0) 表示は「追加」ボタン等の別リンクで、行本体のURLは実URL）。
 #   管理費は hidden input が無いため td.price の表示テキストから抽出。
-#   ページャ = base+"/pageN/"（"次へ"相当）。508件/鳥取市のため time budget で自然に打ち切る。
+#   ページャ = base+"/pageN/"（"次へ"相当）。大規模市だと数百件規模になるため
+#   time budget で自然に打ち切る。
 # ---------------------------------------------------------------------------
 
 def _chintai_building_specs(card):
@@ -2108,7 +2108,7 @@ def _extract_chintai_cards(soup, base_url, filter_keywords, filters) -> list:
     return out
 
 
-CHINTAI_MAX_PAGES = 30  # 508件/鳥取市規模。実際は SITE_TIME_BUDGET で自然に打ち切られる想定。
+CHINTAI_MAX_PAGES = 30  # 大規模市(数百件規模)を想定した上限。実際は SITE_TIME_BUDGET で自然に打ち切られる想定。
 
 
 def parse_chintai_net(first_html, base_url, filter_keywords, filters, session) -> list:
@@ -2143,7 +2143,8 @@ def parse_chintai_net(first_html, base_url, filter_keywords, filters, session) -
 
 
 # ---------------------------------------------------------------------------
-# いい部屋ネット アダプタ（eheya.net/tottori/area/{code}/search/ tab=rent）
+# いい部屋ネット アダプタ（eheya.net/{都道府県slug}/area/{code}/search/ tab=rent。
+#   現在は shizuoka が対象）
 #   一覧コンテナ = div.logs_bukken_list。建物 = 直下の div[class*=styles_buildingCassette
 #   Wrapper]（CSS Modulesのハッシュ付きクラス。class属性は複数トークンを持つ場合があり
 #   （例 "logs_dev_imp styles_buildingCassetteWrapper__xxxx"）先頭一致(^=)だと拾い漏れる
@@ -2272,6 +2273,74 @@ def parse_eheya(first_html, base_url, filter_keywords, filters, session) -> list
     return dedup
 
 
+# ---------------------------------------------------------------------------
+# ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
+#   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
+#   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
+#   なので単純に "li.p-articles-list-item" で両方拾える（複合セレクタにする必要はない）。
+#   詳細URL = カード内の a[href*='/article-']（ジモティー自身の投稿のみ）。"alliance-"で
+#   始まる提携サイト転載カードは対象外＝a[href*='/article-']が無いので自然にスキップされる。
+#   ?from=pr 等のクエリは normalize_url が TRACKING_PARAMS で自動除去するため重複しない。
+#   価格 = .p-item-most-important（例 "3.48万円"）。est-hou(賃貸)は月額家賃なので
+#   parse_rent_man、est-land(土地)は総額なので parse_price_man。判定は base_url に
+#   "est-hou" を含むかどうかで行う。
+#   所在地 = .p-item-secondary-important（都道府県="静岡"）+ 先頭の
+#   .p-item-supplementary-info（市町名/駅名/カテゴリ。2つ目以降の.p-item-supplementary-info
+#   はキーワードタグ("初期"等)なので使わない）。
+#   種別(est-houのみ) = 所在地テキストに含まれる「戸建/マンション/アパート」を
+#   _rent_type_from_label で 賃貸戸建/賃貸マンション/賃貸アパート/賃貸その他 に正規化。
+#   面積 = カード全文から _first_sqm（取れなければ None）。単一ページ（新着順のため）。
+# ---------------------------------------------------------------------------
+
+def _extract_jmty_cards(soup, base_url, filter_keywords, filters) -> list:
+    is_rent = "est-hou" in base_url
+    out = []
+    for card in soup.select("li.p-articles-list-item"):
+        a = card.select_one("a[href*='/article-']")
+        if not a or not a.get("href"):
+            continue  # 提携サイト転載カード(alliance-)等は対象外
+        url = normalize_url(a["href"], base_url)
+
+        price_el = card.select_one(".p-item-most-important")
+        price_text = price_el.get_text(strip=True) if price_el else ""
+        price = parse_rent_man(price_text) if is_rent else parse_price_man(price_text)
+
+        pref_el = card.select_one(".p-item-secondary-important")
+        pref = pref_el.get_text(strip=True) if pref_el else ""
+        loc_el = card.select_one(".p-item-supplementary-info")
+        loc_text = loc_el.get_text(" ", strip=True) if loc_el else ""
+        location = (pref + " " + loc_text).strip()
+
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        title_el = card.select_one(".p-item-title")
+        title = title_el.get_text(strip=True) if title_el else ""
+        card_text = title + " " + location + " " + card.get_text(" ", strip=True)
+        area = _first_sqm(card_text)
+
+        dtype = _rent_type_from_label(loc_text) if is_rent else None
+        out.append(_make_record(url, title or location, price, area, False,
+                                card_text, filters, location=location,
+                                default_type="更地", shubetsu_override=dtype))
+    return out
+
+
+def parse_jmty(first_html, base_url, filter_keywords, filters, session) -> list:
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.p-articles-list-item"):
+        raise BotBlocked(f"ジモティー ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_jmty_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    kind = "賃貸" if "est-hou" in base_url else "土地"
+    log.info(f"[jmty] cards={len(dedup)} (1ページ・{kind})")
+    return dedup
+
+
 # (述語, パーサ) の順に評価。最初に一致したものを使う。
 # アダプタは (first_html, base_url, filter_keywords, filters, session) を取り、
 # 正規化レコードのリストを返す（ページャ追従はアダプタ内で行う）。
@@ -2302,6 +2371,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
+    (lambda sid: sid.startswith("jmty_"), parse_jmty),
 ]
 
 
@@ -2779,16 +2849,16 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                   "法的確定ではありません（更地＝新規建築、家付き＝再建築の可否を表示）。"
                   "最終判断には役場確認が必要です。"
                   "市街化調整区域（△）は除外ではなく本命候補シグナルです。"
-                  "賃貸タブは鳥取県の月額家賃です（他タブの万円表示＝売買価格とは意味が違います）。</p>")
+                  "賃貸タブは月額家賃です（他タブの万円表示＝売買価格とは意味が違います）。"
+                  "また賃貸タブでは除外エリアを適用しません（別荘地の激安賃貸が狙い目のため）。</p>")
 
     camp_over = filters.get("camp") or {}
     rent_over = filters.get("rent") or {}
     config_js = json.dumps({
         "ceilings": {t: ceil_by_type.get(t, pmax_def) for t in types},
         "types": types,
-        # machi=静岡（更地/家付き/キャンプ場土地タブ共通、従来どおり）。machiRent=鳥取（賃貸タブ専用）。
+        # machi=静岡（更地/家付き/キャンプ場土地/賃貸の全タブ共通）。
         "machi": list(_MACHI_NAMES_SHIZUOKA),
-        "machiRent": list(_MACHI_NAMES_TOTTORI),
         "cautions": filters.get("caution_keywords", []),
         "exareas": filters.get("exclude_areas", []),
         "amin": amin_def,
@@ -2861,6 +2931,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<div id='areaPop'>"
              + "<div class='pr'><b>除外エリア</b>（所在地に含む地名で隠す）"
              + _help("所在地にこの地名を含む物件を一覧から隠します。") + "</div>"
+             + "<div id='areaRentNote' class='pr' style='display:none;color:#b5651d;font-weight:bold;"
+             + "white-space:normal;max-width:220px'>賃貸タブでは除外しません"
+             + "（別荘地の激安物件を見逃さないため）</div>"
              + "<div id='areaList'></div>"
              + "<div class='pr' style='border-top:1px solid #ddd;padding-top:5px'>追加: "
              + "<input id='areaInput' type='text' style='width:120px' placeholder='例: 別荘地名'>"
@@ -3099,7 +3172,7 @@ _REPORT_CSS = (
 
 
 _FILTER_JS = r"""
-const TYPES=CONFIG.types, MACHI=CONFIG.machi, MACHI_RENT=CONFIG.machiRent||[];
+const TYPES=CONFIG.types, MACHI=CONFIG.machi;
 const RENT_TYPES=['賃貸戸建','賃貸アパート','賃貸マンション','賃貸その他'];
 const CHIMOKU_OPTS=[...new Set(DATA.map(d=>d.chimoku||'—'))].sort();
 const HOUSE_TYPES=new Set(['空き家','古家付き土地','中古戸建']);
@@ -3113,7 +3186,7 @@ function colsFor(tab){
       {k:'shubetsu',l:'種別',f:'check',opts:RENT_TYPES},
       {k:'chikunen',l:'築年'},
       {k:'loc',l:'所在地'},
-      {k:'machi',l:'市町',f:'check',opts:MACHI_RENT},
+      {k:'machi',l:'市町',f:'check',opts:MACHI},
       {k:'first_seen',l:'検出日'},
       {k:'info',l:'参考情報',nostat:true}
     ];
@@ -3243,7 +3316,9 @@ function passFilters(d){
     if(S.tab==='ie'&&!isHouse)return false;
   }
   const loc=d.loc||'';
-  if(EXAREAS.some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
+  // 賃貸タブ(rent)は除外エリアを適用しない（別荘地の激安賃貸が狙い目のため）。
+  // camp/sarachi/ie は従来どおり適用する。
+  if(S.tab!=='rent'&&EXAREAS.some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
   for(const k in S.cf){const cf=S.cf[k],v=d[k];
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
@@ -3383,6 +3458,7 @@ function render(){
 // ---- タブ ----
 function updateTabUI(){
   document.querySelectorAll('.tab-btn').forEach(btn=>{btn.classList.toggle('active',btn.dataset.tab===S.tab);});
+  const note=document.getElementById('areaRentNote'); if(note)note.style.display=(S.tab==='rent'?'block':'none');
 }
 
 // ---- 坪㎡ 双方向換算 ----
