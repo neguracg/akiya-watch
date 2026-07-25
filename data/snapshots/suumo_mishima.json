@@ -216,15 +216,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/",
       "text": "☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/|文教町２（三島駅） 1500万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県三島市文教町２",
-      "price_man": 1500,
-      "area_sqm": 170.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/",
-      "text": "文教町２（三島駅） 1500万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/|☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -233,6 +224,15 @@
       "area_sqm": 175.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/",
       "text": "☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/|文教町２（三島駅） 1500万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県三島市文教町２",
+      "price_man": 1500,
+      "area_sqm": 170.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/",
+      "text": "文教町２（三島駅） 1500万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21189978/|≪≪建築条件無し！お好みのハウスメーカーにて建築可能です♪≫≫": {
       "first_seen": "2026-07-02",
@@ -243,15 +243,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21189978/",
       "text": "≪≪建築条件無し！お好みのハウスメーカーにて建築可能です♪≫≫"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/|＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県三島市谷田1296",
-      "price_man": 1680,
-      "area_sqm": 151.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/",
-      "text": "＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/|＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -261,14 +252,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21034695/",
       "text": "＼本日ご案内ＯＫ／●三島市萩●～多方面にアクセス良好な立地×建築条件なし～"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254536/|三島萩ＩＣが近く車移動も快適長泉なめり駅徒歩１７分の利便性豊かな全５区画": {
-      "first_seen": "2026-07-10",
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/|＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●": {
+      "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
-      "location": "静岡県三島市萩50-1",
+      "location": "静岡県三島市谷田1296",
       "price_man": 1680,
-      "area_sqm": 113.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254536/",
-      "text": "三島萩ＩＣが近く車移動も快適長泉なめり駅徒歩１７分の利便性豊かな全５区画"
+      "area_sqm": 151.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20353254/",
+      "text": "＼＼三島市谷田　敷地４５坪！／／●スーパーもドラックストアも徒歩圏内♪●"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21216432/|萩（長泉なめり駅） 1680万円": {
       "first_seen": "2026-07-04",
@@ -279,15 +270,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21216432/",
       "text": "萩（長泉なめり駅） 1680万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/|【建築条件なし！】■敷地面積６０坪以上■全３区画販売": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県三島市谷田1349-1",
-      "price_man": 1780,
-      "area_sqm": 201.9,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
-      "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -296,6 +278,15 @@
       "area_sqm": 177.6,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/|【建築条件なし！】■敷地面積６０坪以上■全３区画販売": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県三島市谷田1349-1",
+      "price_man": 1780,
+      "area_sqm": 201.9,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
+      "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78043370/|谷田（三島二日町駅） 1840万円・2040万円": {
       "first_seen": "2026-06-17",
@@ -315,15 +306,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20224942/",
       "text": "利便性と閑静な住環境を兼ね備えた3区画分譲地建築条件付　造成工事中"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県三島市光ケ丘",
-      "price_man": 1880,
-      "area_sqm": 241.3,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/",
-      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/|【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》": {
       "first_seen": "2026-07-21",
       "last_seen": "2026-07-25",
@@ -333,6 +315,15 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/",
       "text": "【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県三島市光ケ丘",
+      "price_man": 1880,
+      "area_sqm": 241.3,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/",
+      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20556749/|松本 1880万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -341,15 +332,6 @@
       "area_sqm": 180.7,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20556749/",
       "text": "松本 1880万円"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254830/|三島萩ＩＣが近く車移動も快適長泉なめり駅徒歩１７分の利便性豊かな全５区画": {
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-25",
-      "location": "静岡県三島市萩50-1",
-      "price_man": 1880,
-      "area_sqm": 128.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21254830/",
-      "text": "三島萩ＩＣが近く車移動も快適長泉なめり駅徒歩１７分の利便性豊かな全５区画"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_75287975/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
@@ -541,6 +523,6 @@
       "text": "若松町（三島駅） 1億1000万円"
     }
   },
-  "hash": "7b407077a2ee7413",
-  "fetched_at": "2026-07-25T16:05:04.873183"
+  "hash": "651c4225d7bc9b49",
+  "fetched_at": "2026-07-25T22:53:56.023390"
 }

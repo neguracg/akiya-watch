@@ -54,14 +54,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76712265/",
       "text": "泉元宮上分 250万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_81706953/|上多賀 300万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20482670/|上多賀（伊豆多賀駅） 300万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
       "location": "静岡県熱海市上多賀",
       "price_man": 300,
-      "area_sqm": 500.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_81706953/",
-      "text": "上多賀 300万円"
+      "area_sqm": 233.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20482670/",
+      "text": "上多賀（伊豆多賀駅） 300万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76658805/|下多賀（伊豆多賀駅） 300万円": {
       "first_seen": "2026-07-12",
@@ -72,14 +72,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76658805/",
       "text": "下多賀（伊豆多賀駅） 300万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20482670/|上多賀（伊豆多賀駅） 300万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_81706953/|上多賀 300万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
       "location": "静岡県熱海市上多賀",
       "price_man": 300,
-      "area_sqm": 233.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20482670/",
-      "text": "上多賀（伊豆多賀駅） 300万円"
+      "area_sqm": 500.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_81706953/",
+      "text": "上多賀 300万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_21357428/|山手町 400万円": {
       "first_seen": "2026-07-24",
@@ -225,15 +225,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_91191475/",
       "text": "伊豆山 880万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78377781/|泉 880万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市泉",
-      "price_man": 880,
-      "area_sqm": 229.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78377781/",
-      "text": "泉 880万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_91955874/|上多賀 930万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -242,6 +233,24 @@
       "area_sqm": 152.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_91955874/",
       "text": "上多賀 930万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/|泉 980万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県熱海市泉",
+      "price_man": 980,
+      "area_sqm": 3175.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/",
+      "text": "泉 980万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76994429/|海、花火を望む古家付土地。徒歩4分に別途駐車場・建築用地含む": {
+      "first_seen": "2026-07-14",
+      "last_seen": "2026-07-25",
+      "location": "静岡県熱海市水口町２",
+      "price_man": 980,
+      "area_sqm": 505.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76994429/",
+      "text": "海、花火を望む古家付土地。徒歩4分に別途駐車場・建築用地含む"
     },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_77237376/|上多賀 980万円": {
       "first_seen": "2026-07-12",
@@ -261,33 +270,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_21080821/",
       "text": "道路から階段を上った地勢。視線を遮るプライベート感溢れる空間が広がります"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_96028955/|伊豆山 980万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市伊豆山",
-      "price_man": 980,
-      "area_sqm": 906.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_96028955/",
-      "text": "伊豆山 980万円"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76994429/|海、花火を望む古家付土地。徒歩4分に別途駐車場・建築用地含む": {
-      "first_seen": "2026-07-14",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市水口町２",
-      "price_man": 980,
-      "area_sqm": 505.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76994429/",
-      "text": "海、花火を望む古家付土地。徒歩4分に別途駐車場・建築用地含む"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/|泉 980万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市泉",
-      "price_man": 980,
-      "area_sqm": 3175.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/",
-      "text": "泉 980万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_82452757/|網代（網代駅） 980万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -296,6 +278,15 @@
       "area_sqm": 331.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_82452757/",
       "text": "網代（網代駅） 980万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_96028955/|伊豆山 980万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県熱海市伊豆山",
+      "price_man": 980,
+      "area_sqm": 906.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_96028955/",
+      "text": "伊豆山 980万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_73824414/|西熱海町１ 1000万円": {
       "first_seen": "2026-07-12",
@@ -360,15 +351,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78527799/",
       "text": "土地100坪以上、建築条件なし、海まで2km以内"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_74429020/|上多賀 1500万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市上多賀",
-      "price_man": 1500,
-      "area_sqm": 1775.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_74429020/",
-      "text": "上多賀 1500万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_75275505/|上多賀 1500万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -376,6 +358,15 @@
       "price_man": 1500,
       "area_sqm": 1775.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_75275505/",
+      "text": "上多賀 1500万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_74429020/|上多賀 1500万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県熱海市上多賀",
+      "price_man": 1500,
+      "area_sqm": 1775.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_74429020/",
       "text": "上多賀 1500万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78503826/|爽やかな緑と海を感じる、心地よいロケーション。陽当たりと生活便が魅力です": {
@@ -513,15 +504,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_92974316/",
       "text": "福道町 3500万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20956979/|熱海 3880万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県熱海市熱海",
-      "price_man": 3880,
-      "area_sqm": 269.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20956979/",
-      "text": "熱海 3880万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20586625/|桜木町 4350万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -577,6 +559,6 @@
       "text": "泉元門川分 1億8000万円"
     }
   },
-  "hash": "ff1069f23e827143",
-  "fetched_at": "2026-07-25T16:26:49.118424"
+  "hash": "c6ff7311ebd70212",
+  "fetched_at": "2026-07-25T23:16:28.601348"
 }

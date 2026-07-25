@@ -99,15 +99,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_94285170/",
       "text": "竹原（下土狩駅） 800万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/|竹原（下土狩駅） 800万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県駿東郡長泉町竹原",
-      "price_man": 800,
-      "area_sqm": 91.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/",
-      "text": "竹原（下土狩駅） 800万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79047271/|住宅用地  都市ガスエリア  即時引き渡し可": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -116,6 +107,15 @@
       "area_sqm": 70.5,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_79047271/",
       "text": "住宅用地  都市ガスエリア  即時引き渡し可"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/|竹原（下土狩駅） 800万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県駿東郡長泉町竹原",
+      "price_man": 800,
+      "area_sqm": 91.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/",
+      "text": "竹原（下土狩駅） 800万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76677460/|静かな住環境でありながら利便性も確保された、バランスの良い立地です！": {
       "first_seen": "2026-06-21",
@@ -388,6 +388,6 @@
       "text": "◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪"
     }
   },
-  "hash": "f7c5f2dd3ddeb2ac",
-  "fetched_at": "2026-07-25T16:15:12.417176"
+  "hash": "22378c8fa4368381",
+  "fetched_at": "2026-07-25T23:04:16.219531"
 }

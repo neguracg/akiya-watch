@@ -117,15 +117,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20346154/",
       "text": "大仁（大仁駅） 1080万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|原木駅まで徒歩約１７分！車通勤にも◎生活圏内にスーパーあり☆建築条件なし♪": {
-      "first_seen": "2026-07-23",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長崎350-4",
-      "price_man": 1150,
-      "area_sqm": 201.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-      "text": "原木駅まで徒歩約１７分！車通勤にも◎生活圏内にスーパーあり☆建築条件なし♪"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|「原木駅」まで徒歩約１７分！車の便も良いので通勤通学にも◎建築条件なし☆": {
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-25",
@@ -134,6 +125,15 @@
       "area_sqm": 201.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
       "text": "「原木駅」まで徒歩約１７分！車の便も良いので通勤通学にも◎建築条件なし☆"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|原木駅まで徒歩約１７分！車通勤にも◎生活圏内にスーパーあり☆建築条件なし♪": {
+      "first_seen": "2026-07-23",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長崎350-4",
+      "price_man": 1150,
+      "area_sqm": 201.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+      "text": "原木駅まで徒歩約１７分！車通勤にも◎生活圏内にスーパーあり☆建築条件なし♪"
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|車の便も良いので通勤通学にも◎原木駅まで徒歩約１７分！建築条件なし！": {
       "first_seen": "2026-07-23",
@@ -316,6 +316,6 @@
       "text": "南江間（韮山駅） 1億円"
     }
   },
-  "hash": "fc3fd47146e7bf4e",
-  "fetched_at": "2026-07-25T16:02:34.147328"
+  "hash": "e884609e5214ef07",
+  "fetched_at": "2026-07-25T22:51:09.636128"
 }

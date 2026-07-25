@@ -1,41 +1,5 @@
 {
   "keys": {
-    "https://www.homes.co.jp/tochi/b-1265050002648/|伊豆の国市長岡 (伊豆長岡駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "伊豆の国市長岡 (伊豆長岡駅)",
-      "price_man": 1400,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002648/",
-      "text": "伊豆の国市長岡 (伊豆長岡駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1265050002638/|伊豆の国市原木 (原木駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "伊豆の国市原木 (原木駅)",
-      "price_man": 1500,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002638/",
-      "text": "伊豆の国市原木 (原木駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1265050002546/|伊豆の国市寺家 (伊豆長岡駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "伊豆の国市寺家 (伊豆長岡駅)",
-      "price_man": 1290,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002546/",
-      "text": "伊豆の国市寺家 (伊豆長岡駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-1490460002306/|伊豆の国市古奈 (伊豆長岡駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "伊豆の国市古奈 (伊豆長岡駅)",
-      "price_man": 750,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1490460002306/",
-      "text": "伊豆の国市古奈 (伊豆長岡駅)"
-    },
     "https://www.homes.co.jp/tochi/b-1546940000043/|伊豆の国市奈古谷 (函南駅)": {
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-25",
@@ -134,15 +98,6 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-1546940000015/",
       "text": "伊豆の国市韮山多田富士見ニュータウン (韮山駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33329470000034/|伊豆の国市四日町 (韮山駅)": {
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-25",
-      "location": "伊豆の国市四日町 (韮山駅)",
-      "price_man": 1300,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33329470000034/",
-      "text": "伊豆の国市四日町 (韮山駅)"
     },
     "https://www.homes.co.jp/tochi/b-33319390000005/|伊豆の国市四日町 (韮山駅)": {
       "first_seen": "2026-07-21",
@@ -269,8 +224,53 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-1500050000603/",
       "text": "伊豆の国市韮山多田 (原木駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1500050000370/|伊豆の国市韮山山木 (韮山駅)": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "伊豆の国市韮山山木 (韮山駅)",
+      "price_man": 400,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1500050000370/",
+      "text": "伊豆の国市韮山山木 (韮山駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1500050000472/|伊豆の国市南條 (伊豆長岡駅)": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "伊豆の国市南條 (伊豆長岡駅)",
+      "price_man": 300,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1500050000472/",
+      "text": "伊豆の国市南條 (伊豆長岡駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1500050000601/|伊豆の国市中 (伊豆長岡駅)": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "伊豆の国市中 (伊豆長岡駅)",
+      "price_man": 330,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1500050000601/",
+      "text": "伊豆の国市中 (伊豆長岡駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33316480000096/|伊豆の国市原木 (原木駅)": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "伊豆の国市原木 (原木駅)",
+      "price_man": 980,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33316480000096/",
+      "text": "伊豆の国市原木 (原木駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-33301530000065/|伊豆の国市古奈 (伊豆長岡駅)": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "伊豆の国市古奈 (伊豆長岡駅)",
+      "price_man": 2480,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33301530000065/",
+      "text": "伊豆の国市古奈 (伊豆長岡駅)"
     }
   },
-  "hash": "8ece8ca90e941b74",
-  "fetched_at": "2026-07-25T16:02:54.455455"
+  "hash": "9b4963490048693b",
+  "fetched_at": "2026-07-25T22:51:29.188081"
 }

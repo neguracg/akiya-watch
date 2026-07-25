@@ -225,15 +225,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20772933/",
       "text": "【内覧可能＊ご予約受付中】お気軽にお問合せください"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75057063/|☆　2025年12月沼津市の耐震補強工事を実施済みです。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市大平",
-      "price_man": 1200,
-      "area_sqm": 287.7,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75057063/",
-      "text": "☆　2025年12月沼津市の耐震補強工事を実施済みです。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_77187020/|新価格！大きな倉庫付きの2階建て住宅。１階はリフォーム済み。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -242,6 +233,15 @@
       "area_sqm": 148.5,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_77187020/",
       "text": "新価格！大きな倉庫付きの2階建て住宅。１階はリフォーム済み。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75057063/|☆　2025年12月沼津市の耐震補強工事を実施済みです。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市大平",
+      "price_man": 1200,
+      "area_sqm": 287.7,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75057063/",
+      "text": "☆　2025年12月沼津市の耐震補強工事を実施済みです。"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20512805/|興国寺城通り沿い！国1バイパス至近でアクセス良好、商業施設充実の好立地！": {
       "first_seen": "2026-06-17",
@@ -278,15 +278,6 @@
       "area_sqm": 166.9,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76886749/",
       "text": "東椎路（片浜駅） 1340万円"
-    },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21297839/|【内覧可能＊ご予約受付中】お気軽にお問合せください": {
-      "first_seen": "2026-07-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市植田",
-      "price_man": 1350,
-      "area_sqm": 213.4,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21297839/",
-      "text": "【内覧可能＊ご予約受付中】お気軽にお問合せください"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20898482/|【見学会開催】平屋／沼津市立大岡小学校徒歩10分／閑静な住宅地": {
       "first_seen": "2026-06-17",
@@ -441,6 +432,15 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20904647/",
       "text": "【見学会開催】リフォーム工事にて3LDKへ改装予定。"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21263157/|【内覧可能＊ご予約受付中】お気軽にお問合せください": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市原町中３",
+      "price_man": 1800,
+      "area_sqm": 259.2,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21263157/",
+      "text": "【内覧可能＊ご予約受付中】お気軽にお問合せください"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76096839/|今沢（片浜駅） 1800万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -459,15 +459,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78435984/",
       "text": "【大手ハウスメーカー施工】二世帯住宅向きで閑静な住宅街に立地！"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79172006/|耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市西椎路",
-      "price_man": 1890,
-      "area_sqm": 157.4,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79172006/",
-      "text": "耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20121290/|旭化成施工の安心二世帯。キッチン・風呂等も各階に、独立性と絆を育む家！": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -476,6 +467,15 @@
       "area_sqm": 157.4,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20121290/",
       "text": "旭化成施工の安心二世帯。キッチン・風呂等も各階に、独立性と絆を育む家！"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79172006/|耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市西椎路",
+      "price_man": 1890,
+      "area_sqm": 157.4,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79172006/",
+      "text": "耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21276339/|☆90坪以上の広々とした敷地！2世帯住宅としてもご利用できます！": {
       "first_seen": "2026-07-13",
@@ -531,15 +531,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78732420/",
       "text": "2018年築、駐車場4台可！玄関スマートキー等設備充実の快適なお家！"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20637819/|沼津高専近くの閑静な住宅街！オール電化住宅☆駐車3台可能です！": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市小林台",
-      "price_man": 2280,
-      "area_sqm": 132.3,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20637819/",
-      "text": "沼津高専近くの閑静な住宅街！オール電化住宅☆駐車3台可能です！"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20580116/|☆四季を感じる「門池公園」徒歩圏内！閑静な住宅街で叶える心地よい毎日。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -548,6 +539,15 @@
       "area_sqm": 132.3,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20580116/",
       "text": "☆四季を感じる「門池公園」徒歩圏内！閑静な住宅街で叶える心地よい毎日。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20637819/|沼津高専近くの閑静な住宅街！オール電化住宅☆駐車3台可能です！": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市小林台",
+      "price_man": 2280,
+      "area_sqm": 132.3,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20637819/",
+      "text": "沼津高専近くの閑静な住宅街！オール電化住宅☆駐車3台可能です！"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20507900/|☆　庭付き４LDK・吹き抜けもあり、ファミリー層にピッタリです！": {
       "first_seen": "2026-06-17",
@@ -612,15 +612,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20898491/",
       "text": "【見学会開催】平成15年新築の４LDK。一部リフォームを行いました。"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20610370/|アイダ設計の注文住宅！太陽光＆オール電化、庭付きで駐車場3台の邸宅": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市西椎路",
-      "price_man": 2480,
-      "area_sqm": 181.8,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20610370/",
-      "text": "アイダ設計の注文住宅！太陽光＆オール電化、庭付きで駐車場3台の邸宅"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79222272/|■耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -629,6 +620,15 @@
       "area_sqm": 244.5,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79222272/",
       "text": "■耐震・耐火に優れた旭化成ホームズのヘーベルハウスの中古住宅"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20610370/|アイダ設計の注文住宅！太陽光＆オール電化、庭付きで駐車場3台の邸宅": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市西椎路",
+      "price_man": 2480,
+      "area_sqm": 181.8,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20610370/",
+      "text": "アイダ設計の注文住宅！太陽光＆オール電化、庭付きで駐車場3台の邸宅"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_77639940/|エアコン3台付◆我入道東町モダンガレージハウス・リフォーム済◆内覧可能！": {
       "first_seen": "2026-06-28",
@@ -720,15 +720,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20354275/",
       "text": "【内覧可能＊ご予約受付中】お気軽にお問合せください"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/|囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市東間門２",
-      "price_man": 2980,
-      "area_sqm": 113.2,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/",
-      "text": "囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20905151/|東間門２（沼津駅） 2980万円": {
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-25",
@@ -746,6 +737,15 @@
       "area_sqm": 706.6,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78724665/",
       "text": "ゴルフ場隣接！広大な庭と四季の自然を楽しむ優雅な足高別邸！"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/|囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市東間門２",
+      "price_man": 2980,
+      "area_sqm": 113.2,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/",
+      "text": "囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21237979/|大諏訪（片浜駅） 2980万円": {
       "first_seen": "2026-07-07",
@@ -882,15 +882,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20920566/",
       "text": "岡一色（大岡駅） 3880万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/|大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。": {
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-07-25",
-      "location": "静岡県沼津市大岡",
-      "price_man": 4000,
-      "area_sqm": 150.1,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/",
-      "text": "大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20375685/|【見学予約受付中】「駅近×築浅×生活便利、全部揃った一棟」": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -899,6 +890,15 @@
       "area_sqm": 130.2,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20375685/",
       "text": "【見学予約受付中】「駅近×築浅×生活便利、全部揃った一棟」"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/|大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-25",
+      "location": "静岡県沼津市大岡",
+      "price_man": 4000,
+      "area_sqm": 150.1,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/",
+      "text": "大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20113753/|☆158坪の広々とした土地で、お庭も広々！": {
       "first_seen": "2026-06-17",
@@ -1027,6 +1027,6 @@
       "text": "徒歩圏内にス－パ－、ドラッグストア、コンビニ等が各2店舗ずつ有り充実！！"
     }
   },
-  "hash": "13519b142763ad18",
-  "fetched_at": "2026-07-25T16:09:41.382181"
+  "hash": "b5575a5f3511d73c",
+  "fetched_at": "2026-07-25T22:58:44.420252"
 }

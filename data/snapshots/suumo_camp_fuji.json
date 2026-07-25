@@ -144,15 +144,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21156019/",
       "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市川成島",
-      "price_man": 1433,
-      "area_sqm": 165.4,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/",
-      "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168972/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -160,6 +151,15 @@
       "price_man": 1433,
       "area_sqm": 166.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168972/",
+      "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市川成島",
+      "price_man": 1433,
+      "area_sqm": 165.4,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/",
       "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168974/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
@@ -288,15 +288,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20223608/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20110302/|富士岡（岳南富士岡駅） 390万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市富士岡",
-      "price_man": 390,
-      "area_sqm": 479.3,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20110302/",
-      "text": "富士岡（岳南富士岡駅） 390万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20867908/|木島（富士川駅） 450万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -333,15 +324,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20508202/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/|中野（本吉原駅） 500万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市中野",
-      "price_man": 500,
-      "area_sqm": 198.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/",
-      "text": "中野（本吉原駅） 500万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78121390/|富士岡（須津駅） 500万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -350,6 +332,15 @@
       "area_sqm": 788.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78121390/",
       "text": "富士岡（須津駅） 500万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/|中野（本吉原駅） 500万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市中野",
+      "price_man": 500,
+      "area_sqm": 198.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/",
+      "text": "中野（本吉原駅） 500万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20907852/|生活環境良好！ＭＥＧＡドン・キホーテＵＮＹ富士吉原店近く！": {
       "first_seen": "2026-07-12",
@@ -369,15 +360,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_79053967/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21335184/|さんどまき（比奈駅） 600万円": {
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市さんどまき",
-      "price_man": 600,
-      "area_sqm": 187.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21335184/",
-      "text": "さんどまき（比奈駅） 600万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21346400/|大淵（富士根駅） 600万円": {
       "first_seen": "2026-07-23",
       "last_seen": "2026-07-25",
@@ -386,6 +368,15 @@
       "area_sqm": 214.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21346400/",
       "text": "大淵（富士根駅） 600万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21335184/|さんどまき（比奈駅） 600万円": {
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市さんどまき",
+      "price_man": 600,
+      "area_sqm": 187.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21335184/",
+      "text": "さんどまき（比奈駅） 600万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78514367/|4LDKの古屋付き土地です！": {
       "first_seen": "2026-07-12",
@@ -431,6 +422,15 @@
       "area_sqm": 126.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77219479/",
       "text": "今泉（吉原駅） 660万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21362523/|【デグチエステート】A　富士市中野土地": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市中野527-14",
+      "price_man": 685,
+      "area_sqm": 129.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21362523/",
+      "text": "【デグチエステート】A　富士市中野土地"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_79053964/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-07-12",
@@ -576,15 +576,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21237220/",
       "text": "厚原（入山瀬駅） 978万7000円～1327万2000円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/|伝法（吉原本町駅） 980万円": {
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市伝法",
-      "price_man": 980,
-      "area_sqm": 258.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/",
-      "text": "伝法（吉原本町駅） 980万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334445/|◇◆＼駅近♪角地♪敷地面積50坪以上♪生活便利な住環境／◆◇": {
       "first_seen": "2026-07-21",
       "last_seen": "2026-07-25",
@@ -594,14 +585,23 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334445/",
       "text": "◇◆＼駅近♪角地♪敷地面積50坪以上♪生活便利な住環境／◆◇"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20900793/|【デグチエステート】三ツ沢治郎畑土地※B区画ご成約となりました！": {
-      "first_seen": "2026-07-12",
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/|伝法（吉原本町駅） 980万円": {
+      "first_seen": "2026-07-24",
       "last_seen": "2026-07-25",
-      "location": "静岡県富士市三ツ沢659-4　外",
+      "location": "静岡県富士市伝法",
       "price_man": 980,
-      "area_sqm": 184.9,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20900793/",
-      "text": "【デグチエステート】三ツ沢治郎畑土地※B区画ご成約となりました！"
+      "area_sqm": 258.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/",
+      "text": "伝法（吉原本町駅） 980万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334389/|◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪": {
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市比奈1007-1",
+      "price_man": 980,
+      "area_sqm": 168.2,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334389/",
+      "text": "◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/|富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！": {
       "first_seen": "2026-07-12",
@@ -621,14 +621,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76483794/",
       "text": "【解体更地後のイメージ写真追加しました！】分譲地内の整形地物件です！"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334389/|◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪": {
-      "first_seen": "2026-07-21",
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20900793/|【デグチエステート】三ツ沢治郎畑土地※B区画ご成約となりました！": {
+      "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県富士市比奈1007-1",
+      "location": "静岡県富士市三ツ沢659-4　外",
       "price_man": 980,
-      "area_sqm": 168.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334389/",
-      "text": "◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪"
+      "area_sqm": 184.9,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20900793/",
+      "text": "【デグチエステート】三ツ沢治郎畑土地※B区画ご成約となりました！"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_75378861/|敷地広々約９８坪！": {
       "first_seen": "2026-07-12",
@@ -693,15 +693,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20778071/",
       "text": "伝法（入山瀬駅） 1100万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/|富士見台５（岳南原田駅） 1120万円": {
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市富士見台５-2-90",
-      "price_man": 1120,
-      "area_sqm": 173.3,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/",
-      "text": "富士見台５（岳南原田駅） 1120万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_90125671/|一色（岳南原田駅） 1120万円": {
       "first_seen": "2026-07-16",
       "last_seen": "2026-07-25",
@@ -710,6 +701,15 @@
       "area_sqm": 203.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_90125671/",
       "text": "一色（岳南原田駅） 1120万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/|富士見台５（岳南原田駅） 1120万円": {
+      "first_seen": "2026-07-16",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市富士見台５-2-90",
+      "price_man": 1120,
+      "area_sqm": 173.3,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/",
+      "text": "富士見台５（岳南原田駅） 1120万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334412/|◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪": {
       "first_seen": "2026-07-21",
@@ -747,15 +747,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20867909/",
       "text": "宮島（富士駅） 1150万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21100559/|久沢（入山瀬駅） 1180万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市久沢",
-      "price_man": 1180,
-      "area_sqm": 213.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21100559/",
-      "text": "久沢（入山瀬駅） 1180万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20556703/|松岡（柚木駅） 1190万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -774,15 +765,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78451350/",
       "text": "全3区画分譲地　/　建築条件付きスーパーやドラッグストアが近くにあります♪"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20767559/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市中之郷",
-      "price_man": 1200,
-      "area_sqm": 257.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20767559/",
-      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78624294/|敷地広々１０５坪！身延線「入山瀬駅」徒歩圏内！鷹岡小学校近く！": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -799,6 +781,15 @@
       "price_man": 1200,
       "area_sqm": 462.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_79178912/",
+      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20767559/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市中之郷",
+      "price_man": 1200,
+      "area_sqm": 257.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20767559/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21215769/|森島（富士駅） 1200万円": {
@@ -819,15 +810,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78236731/",
       "text": "石坂（岳南原田駅） 1200万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77108605/|松岡（竪堀駅） 1240万1000円～1241万3000円": {
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市松岡381-1",
-      "price_man": 1240,
-      "area_sqm": 178.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77108605/",
-      "text": "松岡（竪堀駅） 1240万1000円～1241万3000円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78100655/|松岡（竪堀駅） 1240万1000円～1241万3000円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -835,6 +817,15 @@
       "price_man": 1240,
       "area_sqm": 178.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78100655/",
+      "text": "松岡（竪堀駅） 1240万1000円～1241万3000円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77108605/|松岡（竪堀駅） 1240万1000円～1241万3000円": {
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市松岡381-1",
+      "price_man": 1240,
+      "area_sqm": 178.2,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77108605/",
       "text": "松岡（竪堀駅） 1240万1000円～1241万3000円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20213563/|約７３坪の広々とした敷地！南側道路で日当たり良好！": {
@@ -1134,15 +1125,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78705557/",
       "text": "中島（竪堀駅） 1915万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/|今泉（富士駅） 1950万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市今泉",
-      "price_man": 1950,
-      "area_sqm": 318.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/",
-      "text": "今泉（富士駅） 1950万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77775191/|クリエイト木の宮店まで約100ｍ！生活便利な立地です": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -1151,6 +1133,15 @@
       "area_sqm": 318.8,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77775191/",
       "text": "クリエイト木の宮店まで約100ｍ！生活便利な立地です"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/|今泉（富士駅） 1950万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市今泉",
+      "price_man": 1950,
+      "area_sqm": 318.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/",
+      "text": "今泉（富士駅） 1950万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_97810106/|【価格変更しました！】敷地広々約１７２坪！南側道路で日当たり良好です！": {
       "first_seen": "2026-07-12",
@@ -1350,15 +1341,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78665845/",
       "text": "周辺に商業施設が充実しています！ファミリー層の多い閑静な住宅街です！"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78286380/|【デグチエステート】青葉町土地　全8区画": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県富士市青葉町507",
-      "price_man": 3890,
-      "area_sqm": 214.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78286380/",
-      "text": "【デグチエステート】青葉町土地　全8区画"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21030844/|全８区画！周辺に商業施設多数で生活利便性良好です！全区画ゆとりの約６５坪！": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -1367,6 +1349,15 @@
       "area_sqm": 214.7,
       "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21030844/",
       "text": "全８区画！周辺に商業施設多数で生活利便性良好です！全区画ゆとりの約６５坪！"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78286380/|【デグチエステート】青葉町土地　全8区画": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県富士市青葉町507",
+      "price_man": 3890,
+      "area_sqm": 214.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78286380/",
+      "text": "【デグチエステート】青葉町土地　全8区画"
     },
     "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20682560/|今泉８（吉原本町駅） 3900万円": {
       "first_seen": "2026-07-12",
@@ -1432,6 +1423,6 @@
       "text": "【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！"
     }
   },
-  "hash": "bd65f379b2893961",
-  "fetched_at": "2026-07-25T16:31:29.303349"
+  "hash": "fe2635064c49cff3",
+  "fetched_at": "2026-07-25T23:21:15.736887"
 }

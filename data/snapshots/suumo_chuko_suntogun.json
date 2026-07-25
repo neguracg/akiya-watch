@@ -324,15 +324,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20990760/",
       "text": "東野 7480万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/|☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県駿東郡長泉町東野",
-      "price_man": 12800,
-      "area_sqm": 631.6,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/",
-      "text": "☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20709828/|東野 1億2800万円": {
       "first_seen": "2026-07-10",
       "last_seen": "2026-07-25",
@@ -351,6 +342,15 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20516724/",
       "text": "耐震・耐火に優れた旭化成ホームズのヘーベルハウス中古住宅　５ＬＤＫ＋ＷＩＣ"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/|☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県駿東郡長泉町東野",
+      "price_man": 12800,
+      "area_sqm": 631.6,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20817399/",
+      "text": "☆R5年12月完成の邸宅は定住用、別荘、保養所等、様々な用途にご利用可能。"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_78661703/|太陽光発電・床暖房設置！【デグチエステート】駿東郡長泉町東野中古住宅": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -361,6 +361,6 @@
       "text": "太陽光発電・床暖房設置！【デグチエステート】駿東郡長泉町東野中古住宅"
     }
   },
-  "hash": "5558bee933979b5f",
-  "fetched_at": "2026-07-25T16:15:37.899100"
+  "hash": "d9a1701170ef9006",
+  "fetched_at": "2026-07-25T23:04:49.681618"
 }

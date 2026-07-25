@@ -54,15 +54,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78958580/",
       "text": "パナソニック ホームズ株式会社 施工（軽量鉄骨造２階建）一戸建中古住宅！"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75010726/|☆桧家住宅の家♪全館空調、屋上バルコニー約20帖！令和3年築、オール電化。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町畑毛",
-      "price_man": 3880,
-      "area_sqm": 222.5,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75010726/",
-      "text": "☆桧家住宅の家♪全館空調、屋上バルコニー約20帖！令和3年築、オール電化。"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76546345/|一条工務店の家（太陽光発電10.8kW搭載・全館床暖房・ロスガード90）♪": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -71,6 +62,15 @@
       "area_sqm": 166.8,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76546345/",
       "text": "一条工務店の家（太陽光発電10.8kW搭載・全館床暖房・ロスガード90）♪"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75010726/|☆桧家住宅の家♪全館空調、屋上バルコニー約20帖！令和3年築、オール電化。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町畑毛",
+      "price_man": 3880,
+      "area_sqm": 222.5,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_75010726/",
+      "text": "☆桧家住宅の家♪全館空調、屋上バルコニー約20帖！令和3年築、オール電化。"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78707691/|広々土地88坪！R7、7月末リフォーム完成予定！緑の多い静かな住環境♪": {
       "first_seen": "2026-06-17",
@@ -198,15 +198,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77895218/",
       "text": "耐震・耐火・耐久に優れた旭化成ホームズのヘーベルハウス2LDK"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78377780/|上沢（函南駅） 750万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町上沢",
-      "price_man": 750,
-      "area_sqm": 339.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78377780/",
-      "text": "上沢（函南駅） 750万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20783172/|☆　平屋建てなので効率よい生活動線が確保出来ます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -215,6 +206,15 @@
       "area_sqm": 194.0,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20783172/",
       "text": "☆　平屋建てなので効率よい生活動線が確保出来ます。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78377780/|上沢（函南駅） 750万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町上沢",
+      "price_man": 750,
+      "area_sqm": 339.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78377780/",
+      "text": "上沢（函南駅） 750万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_96627575/|平井 780万円": {
       "first_seen": "2026-06-17",
@@ -252,15 +252,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_97678859/",
       "text": "畑毛 970万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_96943289/|平井南箱根ダイヤランド 980万円": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
-      "price_man": 980,
-      "area_sqm": 363.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_96943289/",
-      "text": "平井南箱根ダイヤランド 980万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/|丹那 980万円": {
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-25",
@@ -269,6 +260,15 @@
       "area_sqm": 342.0,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/",
       "text": "丹那 980万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_96943289/|平井南箱根ダイヤランド 980万円": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
+      "price_man": 980,
+      "area_sqm": 363.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_96943289/",
+      "text": "平井南箱根ダイヤランド 980万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_74221259/|☆R2年、水回りリフォーム済（システムキッチン・UB・トイレ・洗面台）。": {
       "first_seen": "2026-06-17",
@@ -531,15 +531,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20820491/",
       "text": "平井南箱根ダイヤランド 2580万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77331650/|丹那 2650万円": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町丹那",
-      "price_man": 2650,
-      "area_sqm": 370.5,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77331650/",
-      "text": "丹那 2650万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77497223/|☆　緑豊かな場所にあります。　　→自然を身近に感じる事が出来ます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -548,6 +539,15 @@
       "area_sqm": 370.5,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77497223/",
       "text": "☆　緑豊かな場所にあります。　　→自然を身近に感じる事が出来ます。"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77331650/|丹那 2650万円": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町丹那",
+      "price_man": 2650,
+      "area_sqm": 370.5,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77331650/",
+      "text": "丹那 2650万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20560462/|平井 2980万円": {
       "first_seen": "2026-06-17",
@@ -567,15 +567,6 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78444298/",
       "text": "平井 3280万円"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21275560/|平井南箱根ダイヤランド 3500万円": {
-      "first_seen": "2026-07-13",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
-      "price_man": 3500,
-      "area_sqm": 355.4,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21275560/",
-      "text": "平井南箱根ダイヤランド 3500万円"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78444299/|平井 3500万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-25",
@@ -584,6 +575,15 @@
       "area_sqm": 319.6,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_78444299/",
       "text": "平井 3500万円"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21275560/|平井南箱根ダイヤランド 3500万円": {
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
+      "price_man": 3500,
+      "area_sqm": 355.4,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21275560/",
+      "text": "平井南箱根ダイヤランド 3500万円"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21230712/|ゆったり贅沢な平屋の住まい。住友林業施工、バリアフリーで快適安心。": {
       "first_seen": "2026-07-06",
@@ -631,6 +631,6 @@
       "text": "丹那 4600万円"
     }
   },
-  "hash": "1fa15096422d7397",
-  "fetched_at": "2026-07-25T16:24:27.123198"
+  "hash": "fece78e3ba5a38ce",
+  "fetched_at": "2026-07-25T23:13:54.070131"
 }

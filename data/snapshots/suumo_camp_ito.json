@@ -36,14 +36,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79175938/",
       "text": "富戸の別荘地内、100万円の古屋付き戸建。伊豆ぐらんぱる公園近く。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828181/|池 100万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20874664/|八幡野（伊豆高原駅） 100万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊東市池",
+      "location": "静岡県伊東市八幡野",
       "price_man": 100,
-      "area_sqm": 1028.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828181/",
-      "text": "池 100万円"
+      "area_sqm": 495.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20874664/",
+      "text": "八幡野（伊豆高原駅） 100万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752795/|八幡野 100万円": {
       "first_seen": "2026-07-12",
@@ -63,14 +63,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771151/",
       "text": "伊豆高原・八幡野の自然に囲まれたリゾート物件"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20874664/|八幡野（伊豆高原駅） 100万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828181/|池 100万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊東市八幡野",
+      "location": "静岡県伊東市池",
       "price_man": 100,
-      "area_sqm": 495.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20874664/",
-      "text": "八幡野（伊豆高原駅） 100万円"
+      "area_sqm": 1028.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828181/",
+      "text": "池 100万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20944609/|八幡野 140万円": {
       "first_seen": "2026-07-12",
@@ -90,15 +90,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771153/",
       "text": "80万円で120坪の広さ！自然豊かな静かな住環境"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771141/|自然豊かな十足、595平米(179.98坪)の広々売地です": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市十足",
-      "price_man": 180,
-      "area_sqm": 595.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771141/",
-      "text": "自然豊かな十足、595平米(179.98坪)の広々売地です"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75422733/|温泉付き更地　※自社物件につき仲介料無料。": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -107,6 +98,15 @@
       "area_sqm": 343.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75422733/",
       "text": "温泉付き更地　※自社物件につき仲介料無料。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771141/|自然豊かな十足、595平米(179.98坪)の広々売地です": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市十足",
+      "price_man": 180,
+      "area_sqm": 595.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771141/",
+      "text": "自然豊かな十足、595平米(179.98坪)の広々売地です"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78684923/|閑静でよく整備されて住環境": {
       "first_seen": "2026-07-12",
@@ -126,15 +126,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752778/",
       "text": "池 200万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752781/|荻 200万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市荻",
-      "price_man": 200,
-      "area_sqm": 235.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752781/",
-      "text": "荻 200万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771143/|八幡野の自然に囲まれた約129坪の広々土地、200万円の魅力価格": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -144,6 +135,15 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771143/",
       "text": "八幡野の自然に囲まれた約129坪の広々土地、200万円の魅力価格"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752781/|荻 200万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市荻",
+      "price_man": 200,
+      "area_sqm": 235.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752781/",
+      "text": "荻 200万円"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752773/|八幡野（伊豆高原駅） 250万円": {
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-25",
@@ -152,6 +152,15 @@
       "area_sqm": 219.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752773/",
       "text": "八幡野（伊豆高原駅） 250万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/|鎌田 300万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市鎌田",
+      "price_man": 300,
+      "area_sqm": 168.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/",
+      "text": "鎌田 300万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77949274/|富戸 300万円": {
       "first_seen": "2026-07-12",
@@ -171,14 +180,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78683220/",
       "text": "富戸（富戸駅） 300万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/|鎌田 300万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72490119/|十足 300万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊東市鎌田",
+      "location": "静岡県伊東市十足",
       "price_man": 300,
-      "area_sqm": 168.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/",
-      "text": "鎌田 300万円"
+      "area_sqm": 1315.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72490119/",
+      "text": "十足 300万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/|富戸（富戸駅） 300万円": {
       "first_seen": "2026-07-12",
@@ -188,15 +197,6 @@
       "area_sqm": 1090.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/",
       "text": "富戸（富戸駅） 300万円"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72490119/|十足 300万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市十足",
-      "price_man": 300,
-      "area_sqm": 1315.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72490119/",
-      "text": "十足 300万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78665689/|富戸（富戸駅） 300万円": {
       "first_seen": "2026-07-12",
@@ -234,15 +234,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79052523/",
       "text": "富戸（伊豆高原駅） 400万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/|池 400万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市池615-63",
-      "price_man": 400,
-      "area_sqm": 414.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/",
-      "text": "池 400万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752790/|富戸（城ヶ崎海岸駅） 400万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -251,6 +242,15 @@
       "area_sqm": 745.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752790/",
       "text": "富戸（城ヶ崎海岸駅） 400万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_73639440/|富戸 400万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市富戸",
+      "price_man": 400,
+      "area_sqm": 530.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_73639440/",
+      "text": "富戸 400万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20762543/|荻 400万円": {
       "first_seen": "2026-07-12",
@@ -261,14 +261,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20762543/",
       "text": "荻 400万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_73639440/|富戸 400万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/|池 400万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊東市富戸",
+      "location": "静岡県伊東市池615-63",
       "price_man": 400,
-      "area_sqm": 530.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_73639440/",
-      "text": "富戸 400万円"
+      "area_sqm": 414.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/",
+      "text": "池 400万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20877557/|八幡野 400万円": {
       "first_seen": "2026-07-12",
@@ -342,15 +342,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752788/",
       "text": "鎌田 450万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/|十足 480万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市十足",
-      "price_man": 480,
-      "area_sqm": 563.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/",
-      "text": "十足 480万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20438119/|宇佐美（宇佐美駅） 480万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -359,6 +350,15 @@
       "area_sqm": 208.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20438119/",
       "text": "宇佐美（宇佐美駅） 480万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/|十足 480万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市十足",
+      "price_man": 480,
+      "area_sqm": 563.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/",
+      "text": "十足 480万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21193733/|馬場町２（伊東駅） 480万円": {
       "first_seen": "2026-07-12",
@@ -387,15 +387,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20198016/",
       "text": "富戸 500万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74345425/|富戸 500万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市富戸",
-      "price_man": 500,
-      "area_sqm": 486.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74345425/",
-      "text": "富戸 500万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20063799/|八幡野（伊豆高原駅） 500万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -405,14 +396,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20063799/",
       "text": "八幡野（伊豆高原駅） 500万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76308290/|十足 500万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74345425/|富戸 500万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊東市十足",
+      "location": "静岡県伊東市富戸",
       "price_man": 500,
-      "area_sqm": 470.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76308290/",
-      "text": "十足 500万円"
+      "area_sqm": 486.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74345425/",
+      "text": "富戸 500万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771154/|駅徒歩圏×生活便利。自由設計可能な静海町の売地": {
       "first_seen": "2026-07-12",
@@ -423,15 +414,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771154/",
       "text": "駅徒歩圏×生活便利。自由設計可能な静海町の売地"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_84391595/|八幡野 500万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市八幡野",
-      "price_man": 500,
-      "area_sqm": 436.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_84391595/",
-      "text": "八幡野 500万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752894/|富戸（城ヶ崎海岸駅） 500万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -440,6 +422,24 @@
       "area_sqm": 615.6,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752894/",
       "text": "富戸（城ヶ崎海岸駅） 500万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76308290/|十足 500万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市十足",
+      "price_man": 500,
+      "area_sqm": 470.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76308290/",
+      "text": "十足 500万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_84391595/|八幡野 500万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市八幡野",
+      "price_man": 500,
+      "area_sqm": 436.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_84391595/",
+      "text": "八幡野 500万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/|鎌田（南伊東駅） 540万円": {
       "first_seen": "2026-07-24",
@@ -639,15 +639,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21341840/",
       "text": "富戸（城ヶ崎海岸駅） 950万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771150/|約50～65坪、全6区画の好条件分譲地！": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市玖須美元和田",
-      "price_man": 950,
-      "area_sqm": 205.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771150/",
-      "text": "約50～65坪、全6区画の好条件分譲地！"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21322989/|川奈（川奈駅） 950万円": {
       "first_seen": "2026-07-19",
       "last_seen": "2026-07-25",
@@ -656,6 +647,15 @@
       "area_sqm": 254.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21322989/",
       "text": "川奈（川奈駅） 950万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771150/|約50～65坪、全6区画の好条件分譲地！": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市玖須美元和田",
+      "price_man": 950,
+      "area_sqm": 205.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771150/",
+      "text": "約50～65坪、全6区画の好条件分譲地！"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20607113/|【お気軽にお問合せください♪】": {
       "first_seen": "2026-07-12",
@@ -684,15 +684,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78778290/",
       "text": "約21000平米の広大用地。リゾート開発向き"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_97159100/|富戸（城ヶ崎海岸駅） 980万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市富戸",
-      "price_man": 980,
-      "area_sqm": 407.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_97159100/",
-      "text": "富戸（城ヶ崎海岸駅） 980万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771147/|約50～65坪、全6区画の好条件分譲地！": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -710,6 +701,15 @@
       "area_sqm": 198.2,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771148/",
       "text": "約50～65坪、全6区画の好条件分譲地！"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_97159100/|富戸（城ヶ崎海岸駅） 980万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市富戸",
+      "price_man": 980,
+      "area_sqm": 407.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_97159100/",
+      "text": "富戸（城ヶ崎海岸駅） 980万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_66521179/|吉田 1000万円": {
       "first_seen": "2026-07-12",
@@ -729,15 +729,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20752792/",
       "text": "八幡野（伊豆高原駅） 1000万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72536148/|富戸 1000万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市富戸",
-      "price_man": 1000,
-      "area_sqm": 514.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72536148/",
-      "text": "富戸 1000万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21002063/|八幡野（伊豆高原駅） 1000万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -746,6 +737,15 @@
       "area_sqm": 218.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21002063/",
       "text": "八幡野（伊豆高原駅） 1000万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72536148/|富戸 1000万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市富戸",
+      "price_man": 1000,
+      "area_sqm": 514.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_72536148/",
+      "text": "富戸 1000万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21001998/|八幡野（伊豆高原駅） 1100万円": {
       "first_seen": "2026-07-12",
@@ -936,15 +936,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77713425/",
       "text": "玖須美元和田（川奈駅） 6500万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21189774/|海風と森の息吹に満ちる楽園、二万坪が叶える唯一無二の未来": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊東市富戸",
-      "price_man": 29500,
-      "area_sqm": 6634.9,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21189774/",
-      "text": "海風と森の息吹に満ちる楽園、二万坪が叶える唯一無二の未来"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/|【デグチエステート】伊東市城ケ崎土地": {
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-25",
@@ -953,6 +944,15 @@
       "area_sqm": 66341.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/",
       "text": "【デグチエステート】伊東市城ケ崎土地"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21189774/|海風と森の息吹に満ちる楽園、二万坪が叶える唯一無二の未来": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊東市富戸",
+      "price_man": 29500,
+      "area_sqm": 6634.9,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21189774/",
+      "text": "海風と森の息吹に満ちる楽園、二万坪が叶える唯一無二の未来"
     },
     "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75865708/|富戸 3億円": {
       "first_seen": "2026-07-12",
@@ -964,6 +964,6 @@
       "text": "富戸 3億円"
     }
   },
-  "hash": "6ea81492fb5539d9",
-  "fetched_at": "2026-07-25T16:29:43.125078"
+  "hash": "d4edf6e1af910611",
+  "fetched_at": "2026-07-25T23:19:10.660941"
 }

@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://suumo.jp/chintai/jnc_000108761166/|クレストール　イイダ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市南條",
+      "price_man": 4.1,
+      "area_sqm": 47.1,
+      "url": "https://suumo.jp/chintai/jnc_000108761166/",
+      "text": "クレストール　イイダ"
+    },
     "https://suumo.jp/chintai/jnc_000108711613/|メゾン　秀光　Ａ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -8,87 +17,6 @@
       "area_sqm": 45.8,
       "url": "https://suumo.jp/chintai/jnc_000108711613/",
       "text": "メゾン　秀光　Ａ"
-    },
-    "https://suumo.jp/chintai/jnc_000108629092/|ドルチェ伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市寺家",
-      "price_man": 6.4,
-      "area_sqm": 50.8,
-      "url": "https://suumo.jp/chintai/jnc_000108629092/",
-      "text": "ドルチェ伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000105876035/|ドルチェ伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市寺家",
-      "price_man": 6.7,
-      "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000105876035/",
-      "text": "ドルチェ伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000107705059/|メゾン四日町": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 5.4,
-      "area_sqm": 33.2,
-      "url": "https://suumo.jp/chintai/jnc_000107705059/",
-      "text": "メゾン四日町"
-    },
-    "https://suumo.jp/chintai/jnc_000107590958/|メゾン四日町": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 5.6,
-      "area_sqm": 42.4,
-      "url": "https://suumo.jp/chintai/jnc_000107590958/",
-      "text": "メゾン四日町"
-    },
-    "https://suumo.jp/chintai/jnc_000090446037/|メゾン四日町": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 6.8,
-      "area_sqm": 75.6,
-      "url": "https://suumo.jp/chintai/jnc_000090446037/",
-      "text": "メゾン四日町"
-    },
-    "https://suumo.jp/chintai/jnc_000029259406/|YEBISU（エビス）　I": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市大仁",
-      "price_man": 6.4,
-      "area_sqm": 50.1,
-      "url": "https://suumo.jp/chintai/jnc_000029259406/",
-      "text": "YEBISU（エビス）　I"
-    },
-    "https://suumo.jp/chintai/jnc_000108141564/|メゾンＹ０４": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市中條",
-      "price_man": 5.0,
-      "area_sqm": 42.0,
-      "url": "https://suumo.jp/chintai/jnc_000108141564/",
-      "text": "メゾンＹ０４"
-    },
-    "https://suumo.jp/chintai/jnc_000108379507/|エテルナメンテ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市北江間",
-      "price_man": 6.3,
-      "area_sqm": 60.9,
-      "url": "https://suumo.jp/chintai/jnc_000108379507/",
-      "text": "エテルナメンテ"
-    },
-    "https://suumo.jp/chintai/jnc_000108511481/|さくら": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市田京",
-      "price_man": 8.35,
-      "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000108511481/",
-      "text": "さくら"
     },
     "https://suumo.jp/chintai/jnc_000091747440/|レオパレスＹＡＭＡＭＯＴＯ": {
       "first_seen": "2026-07-25",
@@ -126,15 +54,6 @@
       "url": "https://suumo.jp/chintai/jnc_000108691972/",
       "text": "レオパレスＫＡＪＩＹＡＭＡ"
     },
-    "https://suumo.jp/chintai/jnc_000108216397/|レオパレスＫＡＪＩＹＡＭＡ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市三福",
-      "price_man": 5.3,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000108216397/",
-      "text": "レオパレスＫＡＪＩＹＡＭＡ"
-    },
     "https://suumo.jp/chintai/jnc_000108432166/|レオパレスＫＡＪＩＹＡＭＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -144,13 +63,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108432166/",
       "text": "レオパレスＫＡＪＩＹＡＭＡ"
     },
-    "https://suumo.jp/chintai/jnc_000108691974/|レオパレスＫＡＪＩＹＡＭＡ": {
+    "https://suumo.jp/chintai/jnc_000108216397/|レオパレスＫＡＪＩＹＡＭＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
-      "price_man": 5.5,
+      "price_man": 5.3,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000108691974/",
+      "url": "https://suumo.jp/chintai/jnc_000108216397/",
       "text": "レオパレスＫＡＪＩＹＡＭＡ"
     },
     "https://suumo.jp/chintai/jnc_000108691973/|レオパレスＫＡＪＩＹＡＭＡ": {
@@ -162,6 +81,15 @@
       "url": "https://suumo.jp/chintai/jnc_000108691973/",
       "text": "レオパレスＫＡＪＩＹＡＭＡ"
     },
+    "https://suumo.jp/chintai/jnc_000108691974/|レオパレスＫＡＪＩＹＡＭＡ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市三福",
+      "price_man": 5.5,
+      "area_sqm": 23.2,
+      "url": "https://suumo.jp/chintai/jnc_000108691974/",
+      "text": "レオパレスＫＡＪＩＹＡＭＡ"
+    },
     "https://suumo.jp/chintai/jnc_000107131471/|レオパレスＫＡＪＩＹＡＭＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -170,15 +98,6 @@
       "area_sqm": 23.2,
       "url": "https://suumo.jp/chintai/jnc_000107131471/",
       "text": "レオパレスＫＡＪＩＹＡＭＡ"
-    },
-    "https://suumo.jp/chintai/jnc_000108742949/|長岡ファミールマンション": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.1,
-      "area_sqm": 61.9,
-      "url": "https://suumo.jp/chintai/jnc_000108742949/",
-      "text": "長岡ファミールマンション"
     },
     "https://suumo.jp/chintai/jnc_000108705051/|クレイノＹＡＭＡＭＯＴＯII": {
       "first_seen": "2026-07-25",
@@ -189,50 +108,23 @@
       "url": "https://suumo.jp/chintai/jnc_000108705051/",
       "text": "クレイノＹＡＭＡＭＯＴＯII"
     },
-    "https://suumo.jp/chintai/jnc_000108298322/|伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 4.3,
-      "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000108298322/",
-      "text": "伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年"
-    },
-    "https://suumo.jp/chintai/jnc_000108298323/|伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 4.4,
-      "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000108298323/",
-      "text": "伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年"
-    },
-    "https://suumo.jp/chintai/jnc_000108464386/|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築37年": {
+    "https://suumo.jp/chintai/jnc_000108111986/|La・Casa": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
-      "price_man": 4.0,
-      "area_sqm": 45.9,
-      "url": "https://suumo.jp/chintai/jnc_000108464386/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築37年"
+      "price_man": 12.2,
+      "area_sqm": 86.1,
+      "url": "https://suumo.jp/chintai/jnc_000108111986/",
+      "text": "La・Casa"
     },
-    "https://suumo.jp/chintai/jnc_000108640508/|ロイヤルキャビン１８": {
+    "https://suumo.jp/chintai/jnc_000083288943/|ハーベイカッツハイム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 3.48,
-      "area_sqm": 27.4,
-      "url": "https://suumo.jp/chintai/jnc_000108640508/",
-      "text": "ロイヤルキャビン１８"
-    },
-    "https://suumo.jp/chintai/jnc_000084206129/|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築30年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.8,
-      "area_sqm": 54.6,
-      "url": "https://suumo.jp/chintai/jnc_000084206129/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築30年"
+      "location": "静岡県伊豆の国市古奈",
+      "price_man": 3.9,
+      "area_sqm": 32.2,
+      "url": "https://suumo.jp/chintai/jnc_000083288943/",
+      "text": "ハーベイカッツハイム"
     },
     "https://suumo.jp/chintai/jnc_000108553632/|グラン・メゾン　ＨＡＳＡＭＡ": {
       "first_seen": "2026-07-25",
@@ -270,130 +162,184 @@
       "url": "https://suumo.jp/chintai/jnc_000108451968/",
       "text": "グランテラス"
     },
-    "https://suumo.jp/chintai/jnc_000107016810/?bc=100474697352|ベイグル": {
+    "https://suumo.jp/chintai/jnc_000107016810/|ベイグル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 5.5,
       "area_sqm": 39.8,
-      "url": "https://suumo.jp/chintai/jnc_000107016810/?bc=100474697352",
+      "url": "https://suumo.jp/chintai/jnc_000107016810/",
       "text": "ベイグル"
     },
-    "https://suumo.jp/chintai/jnc_000106968108/?bc=100453994658|ベイグル": {
+    "https://suumo.jp/chintai/jnc_000106968108/|ベイグル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 5.5,
       "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000106968108/?bc=100453994658",
+      "url": "https://suumo.jp/chintai/jnc_000106968108/",
       "text": "ベイグル"
     },
-    "https://suumo.jp/chintai/jnc_000108354213/?bc=100515877337|ＹＥＢＩＳＵ（エビス）　ＩＩ": {
+    "https://suumo.jp/chintai/jnc_000108629092/|ドルチェ伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市寺家",
+      "price_man": 6.4,
+      "area_sqm": 50.8,
+      "url": "https://suumo.jp/chintai/jnc_000108629092/",
+      "text": "ドルチェ伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000105876035/|ドルチェ伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市寺家",
+      "price_man": 6.7,
+      "area_sqm": 59.2,
+      "url": "https://suumo.jp/chintai/jnc_000105876035/",
+      "text": "ドルチェ伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000108354213/|ＹＥＢＩＳＵ　II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 5.9,
       "area_sqm": 41.2,
-      "url": "https://suumo.jp/chintai/jnc_000108354213/?bc=100515877337",
-      "text": "ＹＥＢＩＳＵ（エビス）　ＩＩ"
+      "url": "https://suumo.jp/chintai/jnc_000108354213/",
+      "text": "ＹＥＢＩＳＵ　II"
     },
-    "https://suumo.jp/chintai/jnc_000106243009/?bc=100511281829|ＹＥＢＩＳＵ（エビス）　ＩＩ": {
+    "https://suumo.jp/chintai/jnc_000106243009/|ＹＥＢＩＳＵ　II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 6.0,
       "area_sqm": 41.2,
-      "url": "https://suumo.jp/chintai/jnc_000106243009/?bc=100511281829",
-      "text": "ＹＥＢＩＳＵ（エビス）　ＩＩ"
+      "url": "https://suumo.jp/chintai/jnc_000106243009/",
+      "text": "ＹＥＢＩＳＵ　II"
     },
-    "https://suumo.jp/chintai/jnc_000108136859/?bc=100514537555|ＤＯＭＵＳ　ＲＩＰＡ　II": {
+    "https://suumo.jp/chintai/jnc_000107705059/|メゾン四日町": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 5.4,
+      "area_sqm": 33.2,
+      "url": "https://suumo.jp/chintai/jnc_000107705059/",
+      "text": "メゾン四日町"
+    },
+    "https://suumo.jp/chintai/jnc_000107590958/|メゾン四日町": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 5.6,
+      "area_sqm": 42.4,
+      "url": "https://suumo.jp/chintai/jnc_000107590958/",
+      "text": "メゾン四日町"
+    },
+    "https://suumo.jp/chintai/jnc_000090446037/|メゾン四日町": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 6.8,
+      "area_sqm": 75.6,
+      "url": "https://suumo.jp/chintai/jnc_000090446037/",
+      "text": "メゾン四日町"
+    },
+    "https://suumo.jp/chintai/jnc_000108136859/|ＤＯＭＵＳ　ＲＩＰＡ　II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 5.9,
       "area_sqm": 44.5,
-      "url": "https://suumo.jp/chintai/jnc_000108136859/?bc=100514537555",
+      "url": "https://suumo.jp/chintai/jnc_000108136859/",
       "text": "ＤＯＭＵＳ　ＲＩＰＡ　II"
     },
-    "https://suumo.jp/chintai/jnc_000107611855/?bc=100512811933|サンモール山下": {
+    "https://suumo.jp/chintai/jnc_000107611855/|サンモール山下": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 6.2,
       "area_sqm": 63.2,
-      "url": "https://suumo.jp/chintai/jnc_000107611855/?bc=100512811933",
+      "url": "https://suumo.jp/chintai/jnc_000107611855/",
       "text": "サンモール山下"
     },
-    "https://suumo.jp/chintai/jnc_000107611853/?bc=100506069518|サニーテラス": {
+    "https://suumo.jp/chintai/jnc_000029259406/|YEBISU（エビス）　I": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市大仁",
+      "price_man": 6.4,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000029259406/",
+      "text": "YEBISU（エビス）　I"
+    },
+    "https://suumo.jp/chintai/jnc_000107611853/|サニーテラス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 5.25,
       "area_sqm": 40.8,
-      "url": "https://suumo.jp/chintai/jnc_000107611853/?bc=100506069518",
+      "url": "https://suumo.jp/chintai/jnc_000107611853/",
       "text": "サニーテラス"
     },
-    "https://suumo.jp/chintai/jnc_000107566348/?bc=100509812354|グランデＣ": {
+    "https://suumo.jp/chintai/jnc_000107566348/|グランデＣ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 6.8,
       "area_sqm": 50.1,
-      "url": "https://suumo.jp/chintai/jnc_000107566348/?bc=100509812354",
+      "url": "https://suumo.jp/chintai/jnc_000107566348/",
       "text": "グランデＣ"
     },
-    "https://suumo.jp/chintai/jnc_000107932993/?bc=100507736276|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
+    "https://suumo.jp/chintai/jnc_000107932993/?bc=100513134282|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 5.7,
       "area_sqm": 46.8,
-      "url": "https://suumo.jp/chintai/jnc_000107932993/?bc=100507736276",
+      "url": "https://suumo.jp/chintai/jnc_000107932993/?bc=100513134282",
       "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ"
     },
-    "https://suumo.jp/chintai/jnc_000107793223/?bc=100506399422|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
+    "https://suumo.jp/chintai/jnc_000107793223/?bc=100514526454|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 6.5,
       "area_sqm": 58.5,
-      "url": "https://suumo.jp/chintai/jnc_000107793223/?bc=100506399422",
+      "url": "https://suumo.jp/chintai/jnc_000107793223/?bc=100514526454",
       "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ"
     },
-    "https://suumo.jp/chintai/jnc_000107411010/?bc=100508509507|サニーハウス微笑II": {
+    "https://suumo.jp/chintai/jnc_000107411010/?bc=100514526410|サニーハウス微笑II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 5.9,
       "area_sqm": 44.2,
-      "url": "https://suumo.jp/chintai/jnc_000107411010/?bc=100508509507",
+      "url": "https://suumo.jp/chintai/jnc_000107411010/?bc=100514526410",
       "text": "サニーハウス微笑II"
     },
-    "https://suumo.jp/chintai/jnc_000102320153/?bc=100465683525|グランメール": {
+    "https://suumo.jp/chintai/jnc_000102320153/?bc=100390214987|グランメール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 5.5,
       "area_sqm": 53.8,
-      "url": "https://suumo.jp/chintai/jnc_000102320153/?bc=100465683525",
+      "url": "https://suumo.jp/chintai/jnc_000102320153/?bc=100390214987",
       "text": "グランメール"
     },
-    "https://suumo.jp/chintai/jnc_000107814138/?bc=100512378597|ニューメゾン": {
+    "https://suumo.jp/chintai/jnc_000107814138/?bc=100513826286|ニューメゾン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 5.2,
       "area_sqm": 42.8,
-      "url": "https://suumo.jp/chintai/jnc_000107814138/?bc=100512378597",
+      "url": "https://suumo.jp/chintai/jnc_000107814138/?bc=100513826286",
       "text": "ニューメゾン"
     },
-    "https://suumo.jp/chintai/jnc_000099909539/?bc=100436369334|champ de fraises（シャンドフレーズ）": {
+    "https://suumo.jp/chintai/jnc_000099909539/?bc=100458837600|champ de fraises（シャンドフレーズ）": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長崎",
       "price_man": 5.8,
       "area_sqm": 37.0,
-      "url": "https://suumo.jp/chintai/jnc_000099909539/?bc=100436369334",
+      "url": "https://suumo.jp/chintai/jnc_000099909539/?bc=100458837600",
       "text": "champ de fraises（シャンドフレーズ）"
     },
     "https://suumo.jp/chintai/jnc_000099909542/?bc=100458837800|champ de fraises（シャンドフレーズ）": {
@@ -405,292 +351,319 @@
       "url": "https://suumo.jp/chintai/jnc_000099909542/?bc=100458837800",
       "text": "champ de fraises（シャンドフレーズ）"
     },
-    "https://suumo.jp/chintai/jnc_000099909541/?bc=100436369321|champ de fraises（シャンドフレーズ）": {
+    "https://suumo.jp/chintai/jnc_000099909541/?bc=100458837798|champ de fraises（シャンドフレーズ）": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長崎",
       "price_man": 6.1,
       "area_sqm": 46.5,
-      "url": "https://suumo.jp/chintai/jnc_000099909541/?bc=100436369321",
+      "url": "https://suumo.jp/chintai/jnc_000099909541/?bc=100458837798",
       "text": "champ de fraises（シャンドフレーズ）"
     },
-    "https://suumo.jp/chintai/jnc_000107688858/?bc=100510970895|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688858/?bc=100510703927|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 6.8,
       "area_sqm": 51.7,
-      "url": "https://suumo.jp/chintai/jnc_000107688858/?bc=100510970895",
+      "url": "https://suumo.jp/chintai/jnc_000107688858/?bc=100510703927",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000107688857/?bc=100510971004|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688857/?bc=100510703964|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 7.0,
       "area_sqm": 51.7,
-      "url": "https://suumo.jp/chintai/jnc_000107688857/?bc=100510971004",
+      "url": "https://suumo.jp/chintai/jnc_000107688857/?bc=100510703964",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000107688859/?bc=100510970920|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688859/?bc=100510703932|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 7.0,
       "area_sqm": 51.7,
-      "url": "https://suumo.jp/chintai/jnc_000107688859/?bc=100510970920",
+      "url": "https://suumo.jp/chintai/jnc_000107688859/?bc=100510703932",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000107688861/?bc=100510971009|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688861/?bc=100510703930|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 7.55,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000107688861/?bc=100510971009",
+      "url": "https://suumo.jp/chintai/jnc_000107688861/?bc=100510703930",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000107688862/?bc=100510970888|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688862/?bc=100510703921|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 7.75,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000107688862/?bc=100510970888",
+      "url": "https://suumo.jp/chintai/jnc_000107688862/?bc=100510703921",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000107688860/?bc=100510970962|カーサ・ラッフィナート": {
+    "https://suumo.jp/chintai/jnc_000107688860/?bc=100510703934|カーサ・ラッフィナート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 7.75,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000107688860/?bc=100510970962",
+      "url": "https://suumo.jp/chintai/jnc_000107688860/?bc=100510703934",
       "text": "カーサ・ラッフィナート"
     },
-    "https://suumo.jp/chintai/jnc_000105985877/?bc=100498986452|パーシモンスクエア": {
+    "https://suumo.jp/chintai/jnc_000105985877/?bc=100516659861|パーシモンスクエア": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 6.9,
       "area_sqm": 62.8,
-      "url": "https://suumo.jp/chintai/jnc_000105985877/?bc=100498986452",
+      "url": "https://suumo.jp/chintai/jnc_000105985877/?bc=100516659861",
       "text": "パーシモンスクエア"
     },
-    "https://suumo.jp/chintai/jnc_000107386057/?bc=100508618108|ララ・花いち": {
+    "https://suumo.jp/chintai/jnc_000107386057/?bc=100517767674|ララ・花いち": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 5.3,
       "area_sqm": 35.3,
-      "url": "https://suumo.jp/chintai/jnc_000107386057/?bc=100508618108",
+      "url": "https://suumo.jp/chintai/jnc_000107386057/?bc=100517767674",
       "text": "ララ・花いち"
     },
-    "https://suumo.jp/chintai/jnc_000107652181/?bc=100510664899|プランシェバラキ（Ａ・Ｂ）": {
+    "https://suumo.jp/chintai/jnc_000107652181/?bc=100511730514|プランシェバラキ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.7,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000107652181/?bc=100510664899",
-      "text": "プランシェバラキ（Ａ・Ｂ）"
+      "url": "https://suumo.jp/chintai/jnc_000107652181/?bc=100511730514",
+      "text": "プランシェバラキ"
     },
-    "https://suumo.jp/chintai/jnc_000086808801/?bc=100470289610|プランシェバラキ（Ａ・Ｂ）": {
+    "https://suumo.jp/chintai/jnc_000086808801/?bc=100470298714|プランシェバラキ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 5.2,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000086808801/?bc=100470289610",
-      "text": "プランシェバラキ（Ａ・Ｂ）"
+      "url": "https://suumo.jp/chintai/jnc_000086808801/?bc=100470298714",
+      "text": "プランシェバラキ"
     },
-    "https://suumo.jp/chintai/jnc_000027377595/?bc=100510783614|シャンボール": {
+    "https://suumo.jp/chintai/jnc_000027377595/?bc=100510273827|シャンボール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 6.15,
       "area_sqm": 45.4,
-      "url": "https://suumo.jp/chintai/jnc_000027377595/?bc=100510783614",
+      "url": "https://suumo.jp/chintai/jnc_000027377595/?bc=100510273827",
       "text": "シャンボール"
     },
-    "https://suumo.jp/chintai/jnc_000068337350/?bc=100497441699|ハイフィールド": {
+    "https://suumo.jp/chintai/jnc_000068337350/?bc=100506811838|ハイフィールド": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 7.4,
       "area_sqm": 60.3,
-      "url": "https://suumo.jp/chintai/jnc_000068337350/?bc=100497441699",
+      "url": "https://suumo.jp/chintai/jnc_000068337350/?bc=100506811838",
       "text": "ハイフィールド"
     },
-    "https://suumo.jp/chintai/jnc_000107343966/?bc=100507931410|エクセル松下　A": {
+    "https://suumo.jp/chintai/jnc_000107343966/?bc=100508528717|エクセル松下　A": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 5.8,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000107343966/?bc=100507931410",
+      "url": "https://suumo.jp/chintai/jnc_000107343966/?bc=100508528717",
       "text": "エクセル松下　A"
     },
-    "https://suumo.jp/chintai/jnc_000108193492/?bc=100498445463|ニュー　エクセル": {
+    "https://suumo.jp/chintai/jnc_000108193492/?bc=100499308036|ニュー　エクセル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 6.4,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000108193492/?bc=100498445463",
+      "url": "https://suumo.jp/chintai/jnc_000108193492/?bc=100499308036",
       "text": "ニュー　エクセル"
     },
-    "https://suumo.jp/chintai/jnc_000108193493/?bc=100502673694|ニュー　エクセル": {
+    "https://suumo.jp/chintai/jnc_000108193493/?bc=100516372149|ニュー　エクセル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 6.5,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000108193493/?bc=100502673694",
+      "url": "https://suumo.jp/chintai/jnc_000108193493/?bc=100516372149",
       "text": "ニュー　エクセル"
     },
-    "https://suumo.jp/chintai/jnc_000107204552/?bc=100466182695|プランシェバラキＢ": {
+    "https://suumo.jp/chintai/jnc_000107204552/?bc=100503596528|プランシェバラキ Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.9,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000107204552/?bc=100466182695",
-      "text": "プランシェバラキＢ"
+      "url": "https://suumo.jp/chintai/jnc_000107204552/?bc=100503596528",
+      "text": "プランシェバラキ Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000107474237/?bc=100514526414|グランシャリオ松井": {
+    "https://suumo.jp/chintai/jnc_000107474237/?bc=100514529033|グランシャリオ松井": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 7.4,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000107474237/?bc=100514526414",
+      "url": "https://suumo.jp/chintai/jnc_000107474237/?bc=100514529033",
       "text": "グランシャリオ松井"
     },
-    "https://suumo.jp/chintai/jnc_000108020364/?bc=100508509484|グランベール壱番館": {
+    "https://suumo.jp/chintai/jnc_000108141564/?bc=100514849333|メゾンＹ０４": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市中條",
+      "price_man": 5.0,
+      "area_sqm": 42.0,
+      "url": "https://suumo.jp/chintai/jnc_000108141564/?bc=100514849333",
+      "text": "メゾンＹ０４"
+    },
+    "https://suumo.jp/chintai/jnc_000108020364/?bc=100516841035|グランベール壱番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.75,
       "area_sqm": 58.6,
-      "url": "https://suumo.jp/chintai/jnc_000108020364/?bc=100508509484",
+      "url": "https://suumo.jp/chintai/jnc_000108020364/?bc=100516841035",
       "text": "グランベール壱番館"
     },
-    "https://suumo.jp/chintai/jnc_000106757816/?bc=100503794970|ガーデンコート21": {
+    "https://suumo.jp/chintai/jnc_000106757816/?bc=100504467915|ガーデンコート21": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 7.0,
       "area_sqm": 58.4,
-      "url": "https://suumo.jp/chintai/jnc_000106757816/?bc=100503794970",
+      "url": "https://suumo.jp/chintai/jnc_000106757816/?bc=100504467915",
       "text": "ガーデンコート21"
     },
-    "https://suumo.jp/chintai/jnc_000105713896/?bc=100510531051|ガーデンコート21": {
+    "https://suumo.jp/chintai/jnc_000105713896/?bc=100517823584|ガーデンコート21": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 7.0,
       "area_sqm": 58.4,
-      "url": "https://suumo.jp/chintai/jnc_000105713896/?bc=100510531051",
+      "url": "https://suumo.jp/chintai/jnc_000105713896/?bc=100517823584",
       "text": "ガーデンコート21"
     },
-    "https://suumo.jp/chintai/jnc_000108527669/?bc=100503094759|ララ守山": {
+    "https://suumo.jp/chintai/jnc_000108527669/?bc=100503304141|ララ守山": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市中條",
       "price_man": 5.8,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000108527669/?bc=100503094759",
+      "url": "https://suumo.jp/chintai/jnc_000108527669/?bc=100503304141",
       "text": "ララ守山"
     },
-    "https://suumo.jp/chintai/jnc_000106659767/?bc=100515530557|ララ守山": {
+    "https://suumo.jp/chintai/jnc_000106659767/?bc=100504467952|ララ守山": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市中條",
       "price_man": 5.9,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000106659767/?bc=100515530557",
+      "url": "https://suumo.jp/chintai/jnc_000106659767/?bc=100504467952",
       "text": "ララ守山"
     },
-    "https://suumo.jp/chintai/jnc_000107172226/?bc=100457844468|シャルム　マーメゾン": {
+    "https://suumo.jp/chintai/jnc_000107172226/?bc=100397453139|シャルム　マーメゾン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 5.1,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000107172226/?bc=100457844468",
+      "url": "https://suumo.jp/chintai/jnc_000107172226/?bc=100397453139",
       "text": "シャルム　マーメゾン"
     },
-    "https://suumo.jp/chintai/jnc_000108711614/?bc=100518460973|リベーレ": {
+    "https://suumo.jp/chintai/jnc_000108379507/?bc=100516309137|エテルナメンテ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.95,
-      "area_sqm": 50.0,
-      "url": "https://suumo.jp/chintai/jnc_000108711614/?bc=100518460973",
-      "text": "リベーレ"
+      "location": "静岡県伊豆の国市北江間",
+      "price_man": 6.3,
+      "area_sqm": 60.9,
+      "url": "https://suumo.jp/chintai/jnc_000108379507/?bc=100516309137",
+      "text": "エテルナメンテ"
     },
-    "https://suumo.jp/chintai/jnc_000089721377/?bc=100505312199|パストラル　Ｂ": {
+    "https://suumo.jp/chintai/jnc_000108511481/?bc=100439852465|さくら": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市田京",
+      "price_man": 8.35,
+      "area_sqm": 59.2,
+      "url": "https://suumo.jp/chintai/jnc_000108511481/?bc=100439852465",
+      "text": "さくら"
+    },
+    "https://suumo.jp/chintai/jnc_000089721377/?bc=100516614269|パストラル　Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 5.5,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000089721377/?bc=100505312199",
+      "url": "https://suumo.jp/chintai/jnc_000089721377/?bc=100516614269",
       "text": "パストラル　Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000107404406/?bc=100514444496|メゾン　ド　クオーレ　II": {
+    "https://suumo.jp/chintai/jnc_000107404406/?bc=100514682991|メゾン　ド　クオーレ　II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 8.65,
       "area_sqm": 59.7,
-      "url": "https://suumo.jp/chintai/jnc_000107404406/?bc=100514444496",
+      "url": "https://suumo.jp/chintai/jnc_000107404406/?bc=100514682991",
       "text": "メゾン　ド　クオーレ　II"
     },
-    "https://suumo.jp/chintai/jnc_000108527670/?bc=100516240358|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000108527670/?bc=100516225207|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 7.5,
       "area_sqm": 61.7,
-      "url": "https://suumo.jp/chintai/jnc_000108527670/?bc=100516240358",
+      "url": "https://suumo.jp/chintai/jnc_000108527670/?bc=100516225207",
       "text": "プリマヴェーラ"
     },
-    "https://suumo.jp/chintai/jnc_000108117310/?bc=100514818385|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000108117310/?bc=100514040273|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 8.0,
       "area_sqm": 74.2,
-      "url": "https://suumo.jp/chintai/jnc_000108117310/?bc=100514818385",
+      "url": "https://suumo.jp/chintai/jnc_000108117310/?bc=100514040273",
       "text": "プリマヴェーラ"
     },
-    "https://suumo.jp/chintai/jnc_000098544014/?bc=100488509628|セントラルレジデンス": {
+    "https://suumo.jp/chintai/jnc_000108711614/?bc=100518300132|リベーレ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 6.95,
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108711614/?bc=100518300132",
+      "text": "リベーレ"
+    },
+    "https://suumo.jp/chintai/jnc_000098544014/?bc=100465638217|セントラルレジデンス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 6.0,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000098544014/?bc=100488509628",
+      "url": "https://suumo.jp/chintai/jnc_000098544014/?bc=100465638217",
       "text": "セントラルレジデンス"
     },
-    "https://suumo.jp/chintai/jnc_000066686617/?bc=100488509629|セントラルレジデンス": {
+    "https://suumo.jp/chintai/jnc_000066686617/?bc=100465638120|セントラルレジデンス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 6.1,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000066686617/?bc=100488509629",
+      "url": "https://suumo.jp/chintai/jnc_000066686617/?bc=100465638120",
       "text": "セントラルレジデンス"
     },
-    "https://suumo.jp/chintai/jnc_000108354221/?bc=100515671810|レアールＭ大川": {
+    "https://suumo.jp/chintai/jnc_000108354221/?bc=100515671760|レアールＭ大川": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市富士見",
       "price_man": 6.9,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000108354221/?bc=100515671810",
+      "url": "https://suumo.jp/chintai/jnc_000108354221/?bc=100515671760",
       "text": "レアールＭ大川"
     },
     "https://suumo.jp/chintai/jnc_000104958934/?bc=100489474028|レアールＭ大川": {
@@ -711,22 +684,31 @@
       "url": "https://suumo.jp/chintai/jnc_000106933601/?bc=100505091504",
       "text": "レアールＭ大川"
     },
-    "https://suumo.jp/chintai/jnc_000031058905/?bc=100514997715|グラン　ソフィア": {
+    "https://suumo.jp/chintai/jnc_000031058905/?bc=100516104715|グラン　ソフィア": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.7,
       "area_sqm": 30.0,
-      "url": "https://suumo.jp/chintai/jnc_000031058905/?bc=100514997715",
+      "url": "https://suumo.jp/chintai/jnc_000031058905/?bc=100516104715",
       "text": "グラン　ソフィア"
     },
-    "https://suumo.jp/chintai/jnc_000105939097/?bc=100466291638|セジュールIII": {
+    "https://suumo.jp/chintai/jnc_000108742949/?bc=100518537743|長岡ファミールマンション": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 6.1,
+      "area_sqm": 61.9,
+      "url": "https://suumo.jp/chintai/jnc_000108742949/?bc=100518537743",
+      "text": "長岡ファミールマンション"
+    },
+    "https://suumo.jp/chintai/jnc_000105939097/?bc=100466483582|セジュールIII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 6.7,
       "area_sqm": 64.6,
-      "url": "https://suumo.jp/chintai/jnc_000105939097/?bc=100466291638",
+      "url": "https://suumo.jp/chintai/jnc_000105939097/?bc=100466483582",
       "text": "セジュールIII"
     },
     "https://suumo.jp/chintai/jnc_000102097816/?bc=100465638181|アンビシャス": {
@@ -747,42 +729,6 @@
       "url": "https://suumo.jp/chintai/jnc_000107597501/?bc=100516888235",
       "text": "ヴィラグレースＵ"
     },
-    "https://suumo.jp/chintai/jnc_000074538700/?bc=100516185383|レオパレス伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.2,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000074538700/?bc=100516185383",
-      "text": "レオパレス伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000094870626/?bc=100411703100|レオパレス伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.2,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000094870626/?bc=100411703100",
-      "text": "レオパレス伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000092524170/?bc=100518178613|レオパレス伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.2,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000092524170/?bc=100518178613",
-      "text": "レオパレス伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000092401564/?bc=100465720788|レオパレス伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.6,
-      "area_sqm": 43.5,
-      "url": "https://suumo.jp/chintai/jnc_000092401564/?bc=100465720788",
-      "text": "レオパレス伊豆長岡"
-    },
     "https://suumo.jp/chintai/jnc_000097540995/?bc=100517406853|メゾン・ド・ジェミニポルックス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -801,23 +747,41 @@
       "url": "https://suumo.jp/chintai/jnc_000108711615/?bc=100518302924",
       "text": "メゾン・ド・ジェミニポルックス"
     },
-    "https://suumo.jp/chintai/jnc_000107379885/?bc=100508509521|セジュールカミ": {
+    "https://suumo.jp/chintai/jnc_000107379885/?bc=100508618058|セジュールカミ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.1,
       "area_sqm": 33.4,
-      "url": "https://suumo.jp/chintai/jnc_000107379885/?bc=100508509521",
+      "url": "https://suumo.jp/chintai/jnc_000107379885/?bc=100508618058",
       "text": "セジュールカミ"
     },
-    "https://suumo.jp/chintai/jnc_000106933599/?bc=100505312213|オーレ日吉": {
+    "https://suumo.jp/chintai/jnc_000106933599/?bc=100517823711|オーレ日吉": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 5.9,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000106933599/?bc=100505312213",
+      "url": "https://suumo.jp/chintai/jnc_000106933599/?bc=100517823711",
       "text": "オーレ日吉"
+    },
+    "https://suumo.jp/chintai/jnc_000108298322/?bc=100515431529|伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 4.3,
+      "area_sqm": 38.8,
+      "url": "https://suumo.jp/chintai/jnc_000108298322/?bc=100515431529",
+      "text": "伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年"
+    },
+    "https://suumo.jp/chintai/jnc_000108298323/?bc=100515431723|伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 4.4,
+      "area_sqm": 38.8,
+      "url": "https://suumo.jp/chintai/jnc_000108298323/?bc=100515431723",
+      "text": "伊豆箱根鉄道駿豆線 韮山駅 2階建 築29年"
     },
     "https://suumo.jp/chintai/jnc_000108671451/?bc=100518020399|ＳＴビル": {
       "first_seen": "2026-07-25",
@@ -828,22 +792,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108671451/?bc=100518020399",
       "text": "ＳＴビル"
     },
-    "https://suumo.jp/chintai/jnc_000101841871/?bc=100448753637|コーポハウス花": {
+    "https://suumo.jp/chintai/jnc_000101841871/?bc=100465639285|コーポハウス花": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.1,
       "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000101841871/?bc=100448753637",
+      "url": "https://suumo.jp/chintai/jnc_000101841871/?bc=100465639285",
       "text": "コーポハウス花"
     },
-    "https://suumo.jp/chintai/jnc_000107952572/?bc=100516567988|レオパレスあおぞら": {
+    "https://suumo.jp/chintai/jnc_000107952572/?bc=100434169112|レオパレスあおぞら": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.3,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000107952572/?bc=100516567988",
+      "url": "https://suumo.jp/chintai/jnc_000107952572/?bc=100434169112",
       "text": "レオパレスあおぞら"
     },
     "https://suumo.jp/chintai/jnc_000107886547/?bc=100516567977|レオパレスあおぞら": {
@@ -882,59 +846,41 @@
       "url": "https://suumo.jp/chintai/jnc_000108401836/?bc=100516567971",
       "text": "レオパレスあおぞら"
     },
-    "https://suumo.jp/chintai/jnc_000083877615/?bc=100514825627|グランセジュール": {
+    "https://suumo.jp/chintai/jnc_000083877615/?bc=100514757967|グランセジュール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 4.5,
       "area_sqm": 29.2,
-      "url": "https://suumo.jp/chintai/jnc_000083877615/?bc=100514825627",
+      "url": "https://suumo.jp/chintai/jnc_000083877615/?bc=100514757967",
       "text": "グランセジュール"
     },
-    "https://suumo.jp/chintai/jnc_000106214202/?bc=100516711279|グランセジュール": {
+    "https://suumo.jp/chintai/jnc_000106214202/?bc=100500451879|グランセジュール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 4.5,
       "area_sqm": 29.2,
-      "url": "https://suumo.jp/chintai/jnc_000106214202/?bc=100516711279",
+      "url": "https://suumo.jp/chintai/jnc_000106214202/?bc=100500451879",
       "text": "グランセジュール"
     },
-    "https://suumo.jp/chintai/jnc_000080035960/?bc=100518515809|サンライズ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市天野",
-      "price_man": 4.6,
-      "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000080035960/?bc=100518515809",
-      "text": "サンライズ"
-    },
-    "https://suumo.jp/chintai/jnc_000084538577/?bc=100509648977|セジュール杉山": {
+    "https://suumo.jp/chintai/jnc_000084538577/?bc=100508858212|セジュール杉山": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市富士見",
       "price_man": 4.5,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000084538577/?bc=100509648977",
+      "url": "https://suumo.jp/chintai/jnc_000084538577/?bc=100508858212",
       "text": "セジュール杉山"
     },
-    "https://suumo.jp/chintai/jnc_000108024776/?bc=100515530638|フォーデイズ（Ａ・Ｂ）": {
+    "https://suumo.jp/chintai/jnc_000108024776/?bc=100513715960|フォーデイズ Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.4,
       "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000108024776/?bc=100515530638",
-      "text": "フォーデイズ（Ａ・Ｂ）"
-    },
-    "https://suumo.jp/chintai/jnc_000108401824/?bc=100516567913|レオパレスＰｕｒｅＴｗｉｎｓ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市韮山土手和田",
-      "price_man": 4.7,
-      "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108401824/?bc=100516567913",
-      "text": "レオパレスＰｕｒｅＴｗｉｎｓ"
+      "url": "https://suumo.jp/chintai/jnc_000108024776/?bc=100513715960",
+      "text": "フォーデイズ Ｂ"
     },
     "https://suumo.jp/chintai/jnc_000108401825/?bc=100516568051|レオパレスＰｕｒｅＴｗｉｎｓ": {
       "first_seen": "2026-07-25",
@@ -954,6 +900,15 @@
       "url": "https://suumo.jp/chintai/jnc_000103297479/?bc=100516567961",
       "text": "レオパレスＰｕｒｅＴｗｉｎｓ"
     },
+    "https://suumo.jp/chintai/jnc_000108401824/?bc=100513617363|レオパレスＰｕｒｅＴｗｉｎｓ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市韮山土手和田",
+      "price_man": 4.7,
+      "area_sqm": 22.4,
+      "url": "https://suumo.jp/chintai/jnc_000108401824/?bc=100513617363",
+      "text": "レオパレスＰｕｒｅＴｗｉｎｓ"
+    },
     "https://suumo.jp/chintai/jnc_000103326100/?bc=100518155623|レオパレスＰｕｒｅＴｗｉｎｓ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -963,139 +918,139 @@
       "url": "https://suumo.jp/chintai/jnc_000103326100/?bc=100518155623",
       "text": "レオパレスＰｕｒｅＴｗｉｎｓ"
     },
-    "https://suumo.jp/chintai/jnc_000107891101/?bc=100512133676|フォーデイズＡＢ": {
+    "https://suumo.jp/chintai/jnc_000107891101/?bc=100513622119|フォーデイズＡＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.3,
       "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000107891101/?bc=100512133676",
+      "url": "https://suumo.jp/chintai/jnc_000107891101/?bc=100513622119",
       "text": "フォーデイズＡＢ"
     },
-    "https://suumo.jp/chintai/jnc_000107775575/?bc=100511295959|メープルファームI": {
+    "https://suumo.jp/chintai/jnc_000107775575/?bc=100511263673|メープルファームI": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市守木",
       "price_man": 3.9,
       "area_sqm": 40.0,
-      "url": "https://suumo.jp/chintai/jnc_000107775575/?bc=100511295959",
+      "url": "https://suumo.jp/chintai/jnc_000107775575/?bc=100511263673",
       "text": "メープルファームI"
     },
-    "https://suumo.jp/chintai/jnc_000104891897/?bc=100479538702|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891897/?bc=100479609829|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.8,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891897/?bc=100479538702",
+      "url": "https://suumo.jp/chintai/jnc_000104891897/?bc=100479609829",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891893/?bc=100475754680|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891893/?bc=100515260414|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.8,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891893/?bc=100475754680",
+      "url": "https://suumo.jp/chintai/jnc_000104891893/?bc=100515260414",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891904/?bc=100515393401|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891904/?bc=100481952752|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.9,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891904/?bc=100515393401",
+      "url": "https://suumo.jp/chintai/jnc_000104891904/?bc=100481952752",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891913/?bc=100479538660|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891913/?bc=100487946645|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.0,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891913/?bc=100479538660",
+      "url": "https://suumo.jp/chintai/jnc_000104891913/?bc=100487946645",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891911/?bc=100515393413|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891911/?bc=100479538663|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.0,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891911/?bc=100515393413",
+      "url": "https://suumo.jp/chintai/jnc_000104891911/?bc=100479538663",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891909/?bc=100479538701|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891909/?bc=100483720286|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.0,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891909/?bc=100479538701",
+      "url": "https://suumo.jp/chintai/jnc_000104891909/?bc=100483720286",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891919/?bc=100475607133|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891907/?bc=100493954803|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891919/?bc=100475607133",
+      "url": "https://suumo.jp/chintai/jnc_000104891907/?bc=100493954803",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891907/?bc=100475607125|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891921/?bc=100483720354|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891907/?bc=100475607125",
+      "url": "https://suumo.jp/chintai/jnc_000104891921/?bc=100483720354",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891921/?bc=100479609826|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891919/?bc=100483720319|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891921/?bc=100479609826",
+      "url": "https://suumo.jp/chintai/jnc_000104891919/?bc=100483720319",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891926/?bc=100515393405|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891926/?bc=100475754754|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.2,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891926/?bc=100515393405",
+      "url": "https://suumo.jp/chintai/jnc_000104891926/?bc=100475754754",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891917/?bc=100479538651|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891917/?bc=100483720337|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.2,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891917/?bc=100479538651",
+      "url": "https://suumo.jp/chintai/jnc_000104891917/?bc=100483720337",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000104891925/?bc=100483720357|ポルトフィーノ長岡": {
+    "https://suumo.jp/chintai/jnc_000104891925/?bc=100516357339|ポルトフィーノ長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.3,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891925/?bc=100483720357",
+      "url": "https://suumo.jp/chintai/jnc_000104891925/?bc=100516357339",
       "text": "ポルトフィーノ長岡"
     },
-    "https://suumo.jp/chintai/jnc_000082071566/?bc=100515879331|コーポ旭台II": {
+    "https://suumo.jp/chintai/jnc_000082071566/?bc=100516271714|コーポ旭台II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 3.8,
       "area_sqm": 38.0,
-      "url": "https://suumo.jp/chintai/jnc_000082071566/?bc=100515879331",
+      "url": "https://suumo.jp/chintai/jnc_000082071566/?bc=100516271714",
       "text": "コーポ旭台II"
     },
     "https://suumo.jp/chintai/jnc_000108657699/?bc=100517874147|メゾンフジミ": {
@@ -1107,49 +1062,49 @@
       "url": "https://suumo.jp/chintai/jnc_000108657699/?bc=100517874147",
       "text": "メゾンフジミ"
     },
-    "https://suumo.jp/chintai/jnc_000107417860/?bc=100508528763|ルミエールB": {
+    "https://suumo.jp/chintai/jnc_000107417860/?bc=100508572196|ルミエールＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市神島",
       "price_man": 4.8,
       "area_sqm": 40.5,
-      "url": "https://suumo.jp/chintai/jnc_000107417860/?bc=100508528763",
-      "text": "ルミエールB"
+      "url": "https://suumo.jp/chintai/jnc_000107417860/?bc=100508572196",
+      "text": "ルミエールＢ"
     },
-    "https://suumo.jp/chintai/jnc_000108742951/?bc=100512319945|フレグランスにらやま Ａ": {
+    "https://suumo.jp/chintai/jnc_000108742951/?bc=100512752910|フレグランスにらやまＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.9,
       "area_sqm": 40.0,
-      "url": "https://suumo.jp/chintai/jnc_000108742951/?bc=100512319945",
-      "text": "フレグランスにらやま Ａ"
+      "url": "https://suumo.jp/chintai/jnc_000108742951/?bc=100512752910",
+      "text": "フレグランスにらやまＡ"
     },
-    "https://suumo.jp/chintai/jnc_000108441652/?bc=100513036946|フレグランスにらやま Ａ": {
+    "https://suumo.jp/chintai/jnc_000108441652/?bc=100513036946|フレグランスにらやまＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 5.0,
       "area_sqm": 40.0,
       "url": "https://suumo.jp/chintai/jnc_000108441652/?bc=100513036946",
-      "text": "フレグランスにらやま Ａ"
+      "text": "フレグランスにらやまＡ"
     },
-    "https://suumo.jp/chintai/jnc_000107891102/?bc=100515249106|フレグランスにらやま Ａ": {
+    "https://suumo.jp/chintai/jnc_000107891102/?bc=100515249106|フレグランスにらやまＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 5.2,
       "area_sqm": 40.1,
       "url": "https://suumo.jp/chintai/jnc_000107891102/?bc=100515249106",
-      "text": "フレグランスにらやま Ａ"
+      "text": "フレグランスにらやまＡ"
     },
-    "https://suumo.jp/chintai/jnc_000107574515/?bc=100509973559|ニューシティ　イイダ": {
+    "https://suumo.jp/chintai/jnc_000107574515/?bc=100509839399|ニューシティ　イイダ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.0,
       "area_sqm": 40.6,
-      "url": "https://suumo.jp/chintai/jnc_000107574515/?bc=100509973559",
+      "url": "https://suumo.jp/chintai/jnc_000107574515/?bc=100509839399",
       "text": "ニューシティ　イイダ"
     },
     "https://suumo.jp/chintai/jnc_000101664525/?bc=100444024936|グリッタ芹澤": {
@@ -1161,13 +1116,58 @@
       "url": "https://suumo.jp/chintai/jnc_000101664525/?bc=100444024936",
       "text": "グリッタ芹澤"
     },
-    "https://suumo.jp/chintai/jnc_000108441649/?bc=100513767567|フォーブルタカギII": {
+    "https://suumo.jp/chintai/jnc_000074538700/?bc=100516185383|レオパレス伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.2,
+      "area_sqm": 23.2,
+      "url": "https://suumo.jp/chintai/jnc_000074538700/?bc=100516185383",
+      "text": "レオパレス伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000094870626/?bc=100411703100|レオパレス伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.2,
+      "area_sqm": 23.2,
+      "url": "https://suumo.jp/chintai/jnc_000094870626/?bc=100411703100",
+      "text": "レオパレス伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000092524170/?bc=100518178613|レオパレス伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.2,
+      "area_sqm": 23.2,
+      "url": "https://suumo.jp/chintai/jnc_000092524170/?bc=100518178613",
+      "text": "レオパレス伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000092401564/?bc=100465720788|レオパレス伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 6.6,
+      "area_sqm": 43.5,
+      "url": "https://suumo.jp/chintai/jnc_000092401564/?bc=100465720788",
+      "text": "レオパレス伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000108464386/?bc=100518496504|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築37年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 4.0,
       "area_sqm": 45.9,
-      "url": "https://suumo.jp/chintai/jnc_000108441649/?bc=100513767567",
+      "url": "https://suumo.jp/chintai/jnc_000108464386/?bc=100518496504",
+      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築37年"
+    },
+    "https://suumo.jp/chintai/jnc_000108441649/?bc=100513624733|フォーブルタカギII": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市寺家",
+      "price_man": 4.0,
+      "area_sqm": 45.9,
+      "url": "https://suumo.jp/chintai/jnc_000108441649/?bc=100513624733",
       "text": "フォーブルタカギII"
     },
     "https://suumo.jp/chintai/jnc_000108067167/?bc=100514251333|フォーブルタカギII": {
@@ -1179,31 +1179,40 @@
       "url": "https://suumo.jp/chintai/jnc_000108067167/?bc=100514251333",
       "text": "フォーブルタカギII"
     },
-    "https://suumo.jp/chintai/jnc_000104970034/?bc=100508499981|和光　ビル": {
+    "https://suumo.jp/chintai/jnc_000108640508/?bc=100518447105|ロイヤルキャビン１８": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 3.48,
+      "area_sqm": 27.4,
+      "url": "https://suumo.jp/chintai/jnc_000108640508/?bc=100518447105",
+      "text": "ロイヤルキャビン１８"
+    },
+    "https://suumo.jp/chintai/jnc_000104970034/?bc=100465639216|和光　ビル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 8.0,
-      "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000104970034/?bc=100508499981",
+      "area_sqm": 55.0,
+      "url": "https://suumo.jp/chintai/jnc_000104970034/?bc=100465639216",
       "text": "和光　ビル"
     },
-    "https://suumo.jp/chintai/jnc_000079405518/?bc=100508499984|和光　ビル": {
+    "https://suumo.jp/chintai/jnc_000079405518/?bc=100503953521|和光　ビル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 8.5,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000079405518/?bc=100508499984",
+      "url": "https://suumo.jp/chintai/jnc_000079405518/?bc=100503953521",
       "text": "和光　ビル"
     },
-    "https://suumo.jp/chintai/jnc_000096456677/?bc=100492518347|和光　ビル": {
+    "https://suumo.jp/chintai/jnc_000096456677/?bc=100515298156|和光　ビル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 9.0,
       "area_sqm": 58.0,
-      "url": "https://suumo.jp/chintai/jnc_000096456677/?bc=100492518347",
+      "url": "https://suumo.jp/chintai/jnc_000096456677/?bc=100515298156",
       "text": "和光　ビル"
     },
     "https://suumo.jp/chintai/jnc_000106362733/?bc=100516888219|和光　ビル": {
@@ -1215,68 +1224,59 @@
       "url": "https://suumo.jp/chintai/jnc_000106362733/?bc=100516888219",
       "text": "和光　ビル"
     },
-    "https://suumo.jp/chintai/jnc_000083288943/?bc=100483720325|ハーベイカッツハイム": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市古奈",
-      "price_man": 3.9,
-      "area_sqm": 32.2,
-      "url": "https://suumo.jp/chintai/jnc_000083288943/?bc=100483720325",
-      "text": "ハーベイカッツハイム"
-    },
-    "https://suumo.jp/chintai/jnc_000105141092/?bc=100491273619|晃ハイツ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市南條",
-      "price_man": 4.1,
-      "area_sqm": 33.5,
-      "url": "https://suumo.jp/chintai/jnc_000105141092/?bc=100491273619",
-      "text": "晃ハイツ"
-    },
-    "https://suumo.jp/chintai/jnc_000084293549/?bc=100505438663|サンモール牧野Ｂ": {
+    "https://suumo.jp/chintai/jnc_000084206129/?bc=100508048104|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築30年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.8,
       "area_sqm": 54.6,
-      "url": "https://suumo.jp/chintai/jnc_000084293549/?bc=100505438663",
+      "url": "https://suumo.jp/chintai/jnc_000084206129/?bc=100508048104",
+      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築30年"
+    },
+    "https://suumo.jp/chintai/jnc_000105141092/?bc=100277055644|晃ハイツ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市南條",
+      "price_man": 4.1,
+      "area_sqm": 33.5,
+      "url": "https://suumo.jp/chintai/jnc_000105141092/?bc=100277055644",
+      "text": "晃ハイツ"
+    },
+    "https://suumo.jp/chintai/jnc_000084293549/?bc=100506666060|サンモール牧野Ｂ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.8,
+      "area_sqm": 54.6,
+      "url": "https://suumo.jp/chintai/jnc_000084293549/?bc=100506666060",
       "text": "サンモール牧野Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000106933600/?bc=100515530911|サンモール牧野Ｂ": {
+    "https://suumo.jp/chintai/jnc_000106933600/?bc=100506273701|サンモール牧野Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.0,
       "area_sqm": 54.6,
-      "url": "https://suumo.jp/chintai/jnc_000106933600/?bc=100515530911",
+      "url": "https://suumo.jp/chintai/jnc_000106933600/?bc=100506273701",
       "text": "サンモール牧野Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000105201608/?bc=100512630092|ユーハイツ": {
+    "https://suumo.jp/chintai/jnc_000105201608/?bc=100491416409|ユーハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 3.4,
       "area_sqm": 25.0,
-      "url": "https://suumo.jp/chintai/jnc_000105201608/?bc=100512630092",
+      "url": "https://suumo.jp/chintai/jnc_000105201608/?bc=100491416409",
       "text": "ユーハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000087115835/?bc=100512929830|ユーハイツ": {
+    "https://suumo.jp/chintai/jnc_000087115835/?bc=100515530960|ユーハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 3.7,
       "area_sqm": 39.9,
-      "url": "https://suumo.jp/chintai/jnc_000087115835/?bc=100512929830",
+      "url": "https://suumo.jp/chintai/jnc_000087115835/?bc=100515530960",
       "text": "ユーハイツ"
-    },
-    "https://suumo.jp/chintai/jnc_000108111986/?bc=100516692022|La・Casa": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市寺家",
-      "price_man": 12.2,
-      "area_sqm": 86.1,
-      "url": "https://suumo.jp/chintai/jnc_000108111986/?bc=100516692022",
-      "text": "La・Casa"
     },
     "https://suumo.jp/chintai/jnc_000108000206/?bc=100513037047|セフィラオオムラＡ": {
       "first_seen": "2026-07-25",
@@ -1296,41 +1296,41 @@
       "url": "https://suumo.jp/chintai/jnc_000108742950/?bc=100517982998",
       "text": "セフィラオオムラＡ"
     },
-    "https://suumo.jp/chintai/jnc_000106367753/?bc=100508155894|ビレッジハウス大仁１号棟": {
+    "https://suumo.jp/chintai/jnc_000106367753/?bc=100508155894|ビレッジハウス大仁1号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市御門",
       "price_man": 2.88,
       "area_sqm": 39.8,
       "url": "https://suumo.jp/chintai/jnc_000106367753/?bc=100508155894",
-      "text": "ビレッジハウス大仁１号棟"
+      "text": "ビレッジハウス大仁1号棟"
     },
-    "https://suumo.jp/chintai/jnc_000106636885/?bc=100502936446|ビレッジハウス大仁１号棟": {
+    "https://suumo.jp/chintai/jnc_000106636885/?bc=100503115725|ビレッジハウス大仁1号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市御門",
       "price_man": 3.09,
       "area_sqm": 39.8,
-      "url": "https://suumo.jp/chintai/jnc_000106636885/?bc=100502936446",
-      "text": "ビレッジハウス大仁１号棟"
+      "url": "https://suumo.jp/chintai/jnc_000106636885/?bc=100503115725",
+      "text": "ビレッジハウス大仁1号棟"
     },
-    "https://suumo.jp/chintai/jnc_000106206127/?bc=100508155896|ビレッジハウス大仁１号棟": {
+    "https://suumo.jp/chintai/jnc_000106206127/?bc=100488823296|ビレッジハウス大仁1号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市御門",
       "price_man": 3.74,
       "area_sqm": 39.8,
-      "url": "https://suumo.jp/chintai/jnc_000106206127/?bc=100508155896",
-      "text": "ビレッジハウス大仁１号棟"
+      "url": "https://suumo.jp/chintai/jnc_000106206127/?bc=100488823296",
+      "text": "ビレッジハウス大仁1号棟"
     },
-    "https://suumo.jp/chintai/jnc_000107369455/?bc=100508155927|ビレッジハウス大仁１号棟": {
+    "https://suumo.jp/chintai/jnc_000107369455/?bc=100508155927|ビレッジハウス大仁1号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市御門",
       "price_man": 3.74,
       "area_sqm": 39.8,
       "url": "https://suumo.jp/chintai/jnc_000107369455/?bc=100508155927",
-      "text": "ビレッジハウス大仁１号棟"
+      "text": "ビレッジハウス大仁1号棟"
     },
     "https://suumo.jp/chintai/jnc_000108668112/?bc=100512629465|伊豆箱根鉄道駿豆線 大仁駅 3階建 築9年": {
       "first_seen": "2026-07-25",
@@ -1341,49 +1341,49 @@
       "url": "https://suumo.jp/chintai/jnc_000108668112/?bc=100512629465",
       "text": "伊豆箱根鉄道駿豆線 大仁駅 3階建 築9年"
     },
-    "https://suumo.jp/chintai/jnc_000105538015/?bc=100207184007|レオパレスサン": {
+    "https://suumo.jp/chintai/jnc_000105538015/?bc=100516567938|レオパレスサン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 5.3,
       "area_sqm": 54.5,
-      "url": "https://suumo.jp/chintai/jnc_000105538015/?bc=100207184007",
+      "url": "https://suumo.jp/chintai/jnc_000105538015/?bc=100516567938",
       "text": "レオパレスサン"
     },
-    "https://suumo.jp/chintai/jnc_000107072691/?bc=100288632130|レオパレスサン": {
+    "https://suumo.jp/chintai/jnc_000107072692/?bc=100516567962|レオパレスサン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 8.2,
       "area_sqm": 54.5,
-      "url": "https://suumo.jp/chintai/jnc_000107072691/?bc=100288632130",
+      "url": "https://suumo.jp/chintai/jnc_000107072692/?bc=100516567962",
       "text": "レオパレスサン"
     },
-    "https://suumo.jp/chintai/jnc_000107072692/?bc=100288632298|レオパレスサン": {
+    "https://suumo.jp/chintai/jnc_000107072693/?bc=100499275785|レオパレスサン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 8.2,
       "area_sqm": 54.5,
-      "url": "https://suumo.jp/chintai/jnc_000107072692/?bc=100288632298",
+      "url": "https://suumo.jp/chintai/jnc_000107072693/?bc=100499275785",
       "text": "レオパレスサン"
     },
-    "https://suumo.jp/chintai/jnc_000107072693/?bc=100516567987|レオパレスサン": {
+    "https://suumo.jp/chintai/jnc_000107072691/?bc=100516568036|レオパレスサン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 8.2,
       "area_sqm": 54.5,
-      "url": "https://suumo.jp/chintai/jnc_000107072693/?bc=100516567987",
+      "url": "https://suumo.jp/chintai/jnc_000107072691/?bc=100516568036",
       "text": "レオパレスサン"
     },
-    "https://suumo.jp/chintai/jnc_000108298319/?bc=100515432531|伊豆箱根鉄道駿豆線 原木駅 3階建 築22年": {
+    "https://suumo.jp/chintai/jnc_000108298319/?bc=100515431754|伊豆箱根鉄道駿豆線 原木駅 3階建 築22年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 6.2,
       "area_sqm": 63.2,
-      "url": "https://suumo.jp/chintai/jnc_000108298319/?bc=100515432531",
+      "url": "https://suumo.jp/chintai/jnc_000108298319/?bc=100515431754",
       "text": "伊豆箱根鉄道駿豆線 原木駅 3階建 築22年"
     },
     "https://suumo.jp/chintai/jnc_000077813971/?bc=100511757934|サンシャイン　ハイツ": {
@@ -1404,15 +1404,6 @@
       "url": "https://suumo.jp/chintai/jnc_000108511480/?bc=100508284730",
       "text": "Ｋ・ＩコーポII"
     },
-    "https://suumo.jp/chintai/jnc_000097030480/?bc=100516567955|レオネクストレジデンス田京": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市田京",
-      "price_man": 6.0,
-      "area_sqm": 44.9,
-      "url": "https://suumo.jp/chintai/jnc_000097030480/?bc=100516567955",
-      "text": "レオネクストレジデンス田京"
-    },
     "https://suumo.jp/chintai/jnc_000107886541/?bc=100516567948|レオネクストレジデンス田京": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1420,6 +1411,15 @@
       "price_man": 6.0,
       "area_sqm": 44.9,
       "url": "https://suumo.jp/chintai/jnc_000107886541/?bc=100516567948",
+      "text": "レオネクストレジデンス田京"
+    },
+    "https://suumo.jp/chintai/jnc_000097030480/?bc=100516567955|レオネクストレジデンス田京": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市田京",
+      "price_man": 6.0,
+      "area_sqm": 44.9,
+      "url": "https://suumo.jp/chintai/jnc_000097030480/?bc=100516567955",
       "text": "レオネクストレジデンス田京"
     },
     "https://suumo.jp/chintai/jnc_000108401823/?bc=100471046799|レオネクストレジデンス田京": {
@@ -1431,13 +1431,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108401823/?bc=100471046799",
       "text": "レオネクストレジデンス田京"
     },
-    "https://suumo.jp/chintai/jnc_000029259418/?bc=100509381772|エル・クリノキ": {
+    "https://suumo.jp/chintai/jnc_000029259418/?bc=100505587401|エル・クリノキ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 5.6,
-      "area_sqm": 51.1,
-      "url": "https://suumo.jp/chintai/jnc_000029259418/?bc=100509381772",
+      "area_sqm": 51.0,
+      "url": "https://suumo.jp/chintai/jnc_000029259418/?bc=100505587401",
       "text": "エル・クリノキ"
     },
     "https://suumo.jp/chintai/jnc_000107369454/?bc=100508155908|山田ハイツ": {
@@ -1458,22 +1458,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108325963/?bc=100515431795",
       "text": "伊豆箱根鉄道駿豆線 原木駅 2階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000086932089/?bc=100491319264|伊豆箱根鉄道駿豆線 原木駅 2階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000086932089/?bc=100470364936|伊豆箱根鉄道駿豆線 原木駅 2階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 5.2,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000086932089/?bc=100491319264",
+      "url": "https://suumo.jp/chintai/jnc_000086932089/?bc=100470364936",
       "text": "伊豆箱根鉄道駿豆線 原木駅 2階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000106243010/?bc=100500410292|ルミエールカミ": {
+    "https://suumo.jp/chintai/jnc_000106243010/?bc=100499971318|ルミエールカミ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 7.0,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000106243010/?bc=100500410292",
+      "url": "https://suumo.jp/chintai/jnc_000106243010/?bc=100499971318",
       "text": "ルミエールカミ"
     },
     "https://suumo.jp/chintai/jnc_000107886540/?bc=100389941713|レオネクストＦＲＥＥＤＯＭ": {
@@ -1494,6 +1494,15 @@
       "url": "https://suumo.jp/chintai/jnc_000107886539/?bc=100424252368",
       "text": "レオネクストＦＲＥＥＤＯＭ"
     },
+    "https://suumo.jp/chintai/jnc_000108565425/?bc=100517177290|レオネクストＦＲＥＥＤＯＭ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市田京",
+      "price_man": 6.7,
+      "area_sqm": 46.9,
+      "url": "https://suumo.jp/chintai/jnc_000108565425/?bc=100517177290",
+      "text": "レオネクストＦＲＥＥＤＯＭ"
+    },
     "https://suumo.jp/chintai/jnc_000107100001/?bc=100498767354|レオネクストＦＲＥＥＤＯＭ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1501,15 +1510,6 @@
       "price_man": 6.7,
       "area_sqm": 46.9,
       "url": "https://suumo.jp/chintai/jnc_000107100001/?bc=100498767354",
-      "text": "レオネクストＦＲＥＥＤＯＭ"
-    },
-    "https://suumo.jp/chintai/jnc_000107100000/?bc=100516567925|レオネクストＦＲＥＥＤＯＭ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市田京",
-      "price_man": 6.7,
-      "area_sqm": 46.9,
-      "url": "https://suumo.jp/chintai/jnc_000107100000/?bc=100516567925",
       "text": "レオネクストＦＲＥＥＤＯＭ"
     },
     "https://suumo.jp/chintai/jnc_000107099999/?bc=100409995109|レオネクストＦＲＥＥＤＯＭ": {
@@ -1521,13 +1521,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107099999/?bc=100409995109",
       "text": "レオネクストＦＲＥＥＤＯＭ"
     },
-    "https://suumo.jp/chintai/jnc_000108565425/?bc=100517177290|レオネクストＦＲＥＥＤＯＭ": {
+    "https://suumo.jp/chintai/jnc_000107100000/?bc=100516567925|レオネクストＦＲＥＥＤＯＭ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 6.7,
       "area_sqm": 46.9,
-      "url": "https://suumo.jp/chintai/jnc_000108565425/?bc=100517177290",
+      "url": "https://suumo.jp/chintai/jnc_000107100000/?bc=100516567925",
       "text": "レオネクストＦＲＥＥＤＯＭ"
     },
     "https://suumo.jp/chintai/jnc_000107099998/?bc=100335321931|レオネクストＦＲＥＥＤＯＭ": {
@@ -1548,13 +1548,13 @@
       "url": "https://suumo.jp/chintai/jnc_000099315037/?bc=100511467244",
       "text": "ラヴィエールかつらぎ"
     },
-    "https://suumo.jp/chintai/jnc_000098534933/?bc=100511467198|ラヴィエールかつらぎ": {
+    "https://suumo.jp/chintai/jnc_000098534933/?bc=100511292390|ラヴィエールかつらぎ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.6,
       "area_sqm": 46.1,
-      "url": "https://suumo.jp/chintai/jnc_000098534933/?bc=100511467198",
+      "url": "https://suumo.jp/chintai/jnc_000098534933/?bc=100511292390",
       "text": "ラヴィエールかつらぎ"
     },
     "https://suumo.jp/chintai/jnc_000106602358/?bc=100502670160|セニョーラウチダ": {
@@ -1575,22 +1575,22 @@
       "url": "https://suumo.jp/chintai/jnc_000107524841/?bc=100509434810",
       "text": "セニョーラウチダ"
     },
-    "https://suumo.jp/chintai/jnc_000019522233/?bc=100494210294|スティルヒル大仁": {
+    "https://suumo.jp/chintai/jnc_000019522233/?bc=100512742500|ステイルヒル大仁": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市吉田",
       "price_man": 5.5,
-      "area_sqm": 56.7,
-      "url": "https://suumo.jp/chintai/jnc_000019522233/?bc=100494210294",
-      "text": "スティルヒル大仁"
+      "area_sqm": 56.0,
+      "url": "https://suumo.jp/chintai/jnc_000019522233/?bc=100512742500",
+      "text": "ステイルヒル大仁"
     },
-    "https://suumo.jp/chintai/jnc_000030105227/?bc=100515432527|伊豆箱根鉄道駿豆線 伊豆長岡駅 4階建 築21年": {
+    "https://suumo.jp/chintai/jnc_000030105227/?bc=100515431696|伊豆箱根鉄道駿豆線 伊豆長岡駅 4階建 築21年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 6.15,
       "area_sqm": 45.4,
-      "url": "https://suumo.jp/chintai/jnc_000030105227/?bc=100515432527",
+      "url": "https://suumo.jp/chintai/jnc_000030105227/?bc=100515431696",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 4階建 築21年"
     },
     "https://suumo.jp/chintai/jnc_000106598858/?bc=100465483868|サンパティーク　Ｍ": {
@@ -1620,13 +1620,13 @@
       "url": "https://suumo.jp/chintai/jnc_000068354968/?bc=100512630262",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築12年"
     },
-    "https://suumo.jp/chintai/jnc_000105850100/?bc=100496847062|フレーズ・マリー": {
+    "https://suumo.jp/chintai/jnc_000105850100/?bc=100496576136|フレーズ・マリー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 5.35,
       "area_sqm": 45.4,
-      "url": "https://suumo.jp/chintai/jnc_000105850100/?bc=100496847062",
+      "url": "https://suumo.jp/chintai/jnc_000105850100/?bc=100496576136",
       "text": "フレーズ・マリー"
     },
     "https://suumo.jp/chintai/jnc_000107947111/?bc=100512629472|伊豆箱根鉄道駿豆線 韮山駅 2階建 築13年": {
@@ -1656,22 +1656,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108216398/?bc=100516567928",
       "text": "レオパレスＫＡＪＩＹＡＭＡII"
     },
-    "https://suumo.jp/chintai/jnc_000108298320/?bc=100515471793|伊豆箱根鉄道駿豆線 大仁駅 2階建 築24年": {
+    "https://suumo.jp/chintai/jnc_000108298320/?bc=100515298162|伊豆箱根鉄道駿豆線 大仁駅 2階建 築24年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市吉田",
       "price_man": 5.5,
       "area_sqm": 56.0,
-      "url": "https://suumo.jp/chintai/jnc_000108298320/?bc=100515471793",
+      "url": "https://suumo.jp/chintai/jnc_000108298320/?bc=100515298162",
       "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築24年"
     },
-    "https://suumo.jp/chintai/jnc_000107204553/?bc=100494682646|伊豆箱根鉄道駿豆線 原木駅 2階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000107204553/?bc=100475334254|伊豆箱根鉄道駿豆線 原木駅 2階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.9,
       "area_sqm": 61.2,
-      "url": "https://suumo.jp/chintai/jnc_000107204553/?bc=100494682646",
+      "url": "https://suumo.jp/chintai/jnc_000107204553/?bc=100475334254",
       "text": "伊豆箱根鉄道駿豆線 原木駅 2階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000107369450/?bc=100508155899|セジュール矢田　Ａ棟": {
@@ -1728,22 +1728,22 @@
       "url": "https://suumo.jp/chintai/jnc_000107369453/?bc=100508155875",
       "text": "セジュール萩"
     },
-    "https://suumo.jp/chintai/jnc_000091842864/?bc=100390820207|アンソレイユルーナ宮下": {
+    "https://suumo.jp/chintai/jnc_000091842864/?bc=100513826102|アンソレイユルーナ宮下": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.6,
       "area_sqm": 52.8,
-      "url": "https://suumo.jp/chintai/jnc_000091842864/?bc=100390820207",
+      "url": "https://suumo.jp/chintai/jnc_000091842864/?bc=100513826102",
       "text": "アンソレイユルーナ宮下"
     },
-    "https://suumo.jp/chintai/jnc_000094422937/?bc=100465483818|伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000094422937/?bc=100507028050|伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 5.9,
       "area_sqm": 50.0,
-      "url": "https://suumo.jp/chintai/jnc_000094422937/?bc=100465483818",
+      "url": "https://suumo.jp/chintai/jnc_000094422937/?bc=100507028050",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000107369451/?bc=100508155893|サンローズ石井　Ｓ": {
@@ -1782,22 +1782,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108330035/?bc=100515470593",
       "text": "伊豆箱根鉄道駿豆線 韮山駅 4階建 築39年"
     },
-    "https://suumo.jp/chintai/jnc_000083388358/?bc=100501314044|ライフシティ・ネオ": {
+    "https://suumo.jp/chintai/jnc_000083388358/?bc=100501317319|ライフシティ・ネオ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.5,
       "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000083388358/?bc=100501314044",
-      "text": "ライフシティ・ネオ"
-    },
-    "https://suumo.jp/chintai/jnc_000071557814/?bc=100336158158|ライフシティ・ネオ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 4.5,
-      "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000071557814/?bc=100336158158",
+      "url": "https://suumo.jp/chintai/jnc_000083388358/?bc=100501317319",
       "text": "ライフシティ・ネオ"
     },
     "https://suumo.jp/chintai/jnc_000071107136/?bc=100480256154|ライフシティ・ネオ": {
@@ -1809,6 +1800,15 @@
       "url": "https://suumo.jp/chintai/jnc_000071107136/?bc=100480256154",
       "text": "ライフシティ・ネオ"
     },
+    "https://suumo.jp/chintai/jnc_000071557814/?bc=100336158158|ライフシティ・ネオ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 4.5,
+      "area_sqm": 29.8,
+      "url": "https://suumo.jp/chintai/jnc_000071557814/?bc=100336158158",
+      "text": "ライフシティ・ネオ"
+    },
     "https://suumo.jp/chintai/jnc_000085385358/?bc=100336158066|ライフシティ・ネオ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1818,13 +1818,13 @@
       "url": "https://suumo.jp/chintai/jnc_000085385358/?bc=100336158066",
       "text": "ライフシティ・ネオ"
     },
-    "https://suumo.jp/chintai/jnc_000066426110/?bc=100516567985|レオパレス田京": {
+    "https://suumo.jp/chintai/jnc_000066426110/?bc=100503295208|レオパレス田京": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市田京",
       "price_man": 4.8,
       "area_sqm": 21.8,
-      "url": "https://suumo.jp/chintai/jnc_000066426110/?bc=100516567985",
+      "url": "https://suumo.jp/chintai/jnc_000066426110/?bc=100503295208",
       "text": "レオパレス田京"
     },
     "https://suumo.jp/chintai/jnc_000107825652/?bc=100511601808|ガーデンヒル韮山": {
@@ -1836,13 +1836,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107825652/?bc=100511601808",
       "text": "ガーデンヒル韮山"
     },
-    "https://suumo.jp/chintai/jnc_000105538016/?bc=100515470578|伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築28年": {
+    "https://suumo.jp/chintai/jnc_000105538016/?bc=100515297977|伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築28年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 6.3,
       "area_sqm": 53.5,
-      "url": "https://suumo.jp/chintai/jnc_000105538016/?bc=100515470578",
+      "url": "https://suumo.jp/chintai/jnc_000105538016/?bc=100515297977",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 3階建 築28年"
     },
     "https://suumo.jp/chintai/jnc_000095058228/?bc=100516147505|メゾン雅": {
@@ -1863,6 +1863,33 @@
       "url": "https://suumo.jp/chintai/jnc_000106656243/?bc=100503064586",
       "text": "メゾン雅"
     },
+    "https://suumo.jp/chintai/jnc_000070031757/?bc=100259912377|セピアム２１": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 6.5,
+      "area_sqm": 61.0,
+      "url": "https://suumo.jp/chintai/jnc_000070031757/?bc=100259912377",
+      "text": "セピアム２１"
+    },
+    "https://suumo.jp/chintai/jnc_000038054093/?bc=100507028048|セピアム２１": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 6.5,
+      "area_sqm": 65.6,
+      "url": "https://suumo.jp/chintai/jnc_000038054093/?bc=100507028048",
+      "text": "セピアム２１"
+    },
+    "https://suumo.jp/chintai/jnc_000106912254/?bc=100504915121|セピアム２１": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 6.5,
+      "area_sqm": 65.6,
+      "url": "https://suumo.jp/chintai/jnc_000106912254/?bc=100504915121",
+      "text": "セピアム２１"
+    },
     "https://suumo.jp/chintai/jnc_000038054097/?bc=100515298126|セピアム２１": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1872,22 +1899,13 @@
       "url": "https://suumo.jp/chintai/jnc_000038054097/?bc=100515298126",
       "text": "セピアム２１"
     },
-    "https://suumo.jp/chintai/jnc_000038054095/?bc=100515297882|セピアム２１": {
+    "https://suumo.jp/chintai/jnc_000038054095/?bc=100512958882|セピアム２１": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 6.5,
       "area_sqm": 65.0,
-      "url": "https://suumo.jp/chintai/jnc_000038054095/?bc=100515297882",
-      "text": "セピアム２１"
-    },
-    "https://suumo.jp/chintai/jnc_000106912254/?bc=100515297839|セピアム２１": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 6.5,
-      "area_sqm": 61.0,
-      "url": "https://suumo.jp/chintai/jnc_000106912254/?bc=100515297839",
+      "url": "https://suumo.jp/chintai/jnc_000038054095/?bc=100512958882",
       "text": "セピアム２１"
     },
     "https://suumo.jp/chintai/jnc_000047387963/?bc=100504929182|セピアム２１": {
@@ -1899,24 +1917,6 @@
       "url": "https://suumo.jp/chintai/jnc_000047387963/?bc=100504929182",
       "text": "セピアム２１"
     },
-    "https://suumo.jp/chintai/jnc_000038054093/?bc=100504881745|セピアム２１": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 6.5,
-      "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000038054093/?bc=100504881745",
-      "text": "セピアム２１"
-    },
-    "https://suumo.jp/chintai/jnc_000070031757/?bc=100504929181|セピアム２１": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 6.5,
-      "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000070031757/?bc=100504929181",
-      "text": "セピアム２１"
-    },
     "https://suumo.jp/chintai/jnc_000038073203/?bc=100515470620|伊豆箱根鉄道駿豆線 原木駅 6階建 築36年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1924,6 +1924,15 @@
       "price_man": 6.5,
       "area_sqm": 65.0,
       "url": "https://suumo.jp/chintai/jnc_000038073203/?bc=100515470620",
+      "text": "伊豆箱根鉄道駿豆線 原木駅 6階建 築36年"
+    },
+    "https://suumo.jp/chintai/jnc_000108330032/?bc=100515470600|伊豆箱根鉄道駿豆線 原木駅 6階建 築36年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 6.5,
+      "area_sqm": 61.0,
+      "url": "https://suumo.jp/chintai/jnc_000108330032/?bc=100515470600",
       "text": "伊豆箱根鉄道駿豆線 原木駅 6階建 築36年"
     },
     "https://suumo.jp/chintai/jnc_000108330031/?bc=100515470586|伊豆箱根鉄道駿豆線 原木駅 6階建 築36年": {
@@ -1942,15 +1951,6 @@
       "price_man": 6.5,
       "area_sqm": 61.0,
       "url": "https://suumo.jp/chintai/jnc_000038073204/?bc=100515470588",
-      "text": "伊豆箱根鉄道駿豆線 原木駅 6階建 築36年"
-    },
-    "https://suumo.jp/chintai/jnc_000108330032/?bc=100515470600|伊豆箱根鉄道駿豆線 原木駅 6階建 築36年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 6.5,
-      "area_sqm": 61.0,
-      "url": "https://suumo.jp/chintai/jnc_000108330032/?bc=100515470600",
       "text": "伊豆箱根鉄道駿豆線 原木駅 6階建 築36年"
     },
     "https://suumo.jp/chintai/jnc_000108124724/?bc=100514109781|グリーンヒルズ": {
@@ -1998,13 +1998,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108090297/?bc=100513810630",
       "text": "メルヴィーユイズミ"
     },
-    "https://suumo.jp/chintai/jnc_000108330033/?bc=100515471792|伊豆箱根鉄道駿豆線 韮山駅 3階建 築29年": {
+    "https://suumo.jp/chintai/jnc_000108330033/?bc=100515470571|伊豆箱根鉄道駿豆線 韮山駅 3階建 築29年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南江間",
       "price_man": 6.5,
       "area_sqm": 65.8,
-      "url": "https://suumo.jp/chintai/jnc_000108330033/?bc=100515471792",
+      "url": "https://suumo.jp/chintai/jnc_000108330033/?bc=100515470571",
       "text": "伊豆箱根鉄道駿豆線 韮山駅 3階建 築29年"
     },
     "https://suumo.jp/chintai/jnc_000108354216/?bc=100516567964|レオパレスシャトー": {
@@ -2043,15 +2043,6 @@
       "url": "https://suumo.jp/chintai/jnc_000071582403/?bc=100268313623",
       "text": "ストークハウス白萩"
     },
-    "https://suumo.jp/chintai/jnc_000071293170/?bc=100465483800|ベルローズ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市寺家",
-      "price_man": 5.8,
-      "area_sqm": 55.9,
-      "url": "https://suumo.jp/chintai/jnc_000071293170/?bc=100465483800",
-      "text": "ベルローズ"
-    },
     "https://suumo.jp/chintai/jnc_000107369449/?bc=100508155877|ベルローズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2059,6 +2050,15 @@
       "price_man": 5.8,
       "area_sqm": 55.9,
       "url": "https://suumo.jp/chintai/jnc_000107369449/?bc=100508155877",
+      "text": "ベルローズ"
+    },
+    "https://suumo.jp/chintai/jnc_000071293170/?bc=100465483800|ベルローズ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市寺家",
+      "price_man": 5.8,
+      "area_sqm": 55.9,
+      "url": "https://suumo.jp/chintai/jnc_000071293170/?bc=100465483800",
       "text": "ベルローズ"
     },
     "https://suumo.jp/chintai/jnc_000064414159/?bc=100516567993|レオパレス翔賢": {
@@ -2070,13 +2070,13 @@
       "url": "https://suumo.jp/chintai/jnc_000064414159/?bc=100516567993",
       "text": "レオパレス翔賢"
     },
-    "https://suumo.jp/chintai/jnc_000107900357/?bc=100516567899|レオパレス翔賢": {
+    "https://suumo.jp/chintai/jnc_000107900357/?bc=100512205122|レオパレス翔賢": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.9,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000107900357/?bc=100516567899",
+      "url": "https://suumo.jp/chintai/jnc_000107900357/?bc=100512205122",
       "text": "レオパレス翔賢"
     },
     "https://suumo.jp/chintai/jnc_000083383420/?bc=100512629776|伊豆箱根鉄道駿豆線 原木駅 2階建 築21年": {
@@ -2088,13 +2088,13 @@
       "url": "https://suumo.jp/chintai/jnc_000083383420/?bc=100512629776",
       "text": "伊豆箱根鉄道駿豆線 原木駅 2階建 築21年"
     },
-    "https://suumo.jp/chintai/jnc_000106642039/?bc=100505551657|アンソレイユ　ルーナ": {
+    "https://suumo.jp/chintai/jnc_000106642039/?bc=100503006578|アンソレイユ　ルーナ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.6,
       "area_sqm": 51.7,
-      "url": "https://suumo.jp/chintai/jnc_000106642039/?bc=100505551657",
+      "url": "https://suumo.jp/chintai/jnc_000106642039/?bc=100503006578",
       "text": "アンソレイユ　ルーナ"
     },
     "https://suumo.jp/chintai/jnc_000097321793/?bc=100483207997|アンソレイユ　ルーナ": {
@@ -2151,31 +2151,31 @@
       "url": "https://suumo.jp/chintai/jnc_000070042743/?bc=100486192037",
       "text": "ファンタジーＫII"
     },
-    "https://suumo.jp/chintai/jnc_000108432164/?bc=100223598445|レオパレスアスティー": {
+    "https://suumo.jp/chintai/jnc_000108432164/?bc=100516567970|レオパレスアスティー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.7,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108432164/?bc=100223598445",
+      "url": "https://suumo.jp/chintai/jnc_000108432164/?bc=100516567970",
       "text": "レオパレスアスティー"
     },
-    "https://suumo.jp/chintai/jnc_000108490779/?bc=100345441719|レオパレスアスティー": {
+    "https://suumo.jp/chintai/jnc_000108490779/?bc=100516790522|レオパレスアスティー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.7,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108490779/?bc=100345441719",
+      "url": "https://suumo.jp/chintai/jnc_000108490779/?bc=100516790522",
       "text": "レオパレスアスティー"
     },
-    "https://suumo.jp/chintai/jnc_000108432165/?bc=100516568013|レオパレスアスティー": {
+    "https://suumo.jp/chintai/jnc_000108432165/?bc=100514869626|レオパレスアスティー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.9,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108432165/?bc=100516568013",
+      "url": "https://suumo.jp/chintai/jnc_000108432165/?bc=100514869626",
       "text": "レオパレスアスティー"
     },
     "https://suumo.jp/chintai/jnc_000105895765/?bc=100486483575|アジュール２": {
@@ -2205,13 +2205,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108080951/?bc=100513703827",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築36年"
     },
-    "https://suumo.jp/chintai/jnc_000096043046/?bc=100372375692|高野マンション": {
+    "https://suumo.jp/chintai/jnc_000096043046/?bc=100492524032|高野マンション": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 6.1,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000096043046/?bc=100372375692",
+      "url": "https://suumo.jp/chintai/jnc_000096043046/?bc=100492524032",
       "text": "高野マンション"
     },
     "https://suumo.jp/chintai/jnc_000108354218/?bc=100516568046|レオパレス大仁": {
@@ -2277,6 +2277,15 @@
       "url": "https://suumo.jp/chintai/jnc_000107886546/?bc=100516568026",
       "text": "レオパレスかりん"
     },
+    "https://suumo.jp/chintai/jnc_000078521229/?bc=100516567981|レオパレスプリマベーラ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 4.3,
+      "area_sqm": 26.5,
+      "url": "https://suumo.jp/chintai/jnc_000078521229/?bc=100516567981",
+      "text": "レオパレスプリマベーラ"
+    },
     "https://suumo.jp/chintai/jnc_000106814367/?bc=100468736031|レオパレスプリマベーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2286,31 +2295,13 @@
       "url": "https://suumo.jp/chintai/jnc_000106814367/?bc=100468736031",
       "text": "レオパレスプリマベーラ"
     },
-    "https://suumo.jp/chintai/jnc_000078521229/?bc=100468736033|レオパレスプリマベーラ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 4.3,
-      "area_sqm": 26.5,
-      "url": "https://suumo.jp/chintai/jnc_000078521229/?bc=100468736033",
-      "text": "レオパレスプリマベーラ"
-    },
-    "https://suumo.jp/chintai/jnc_000108401829/?bc=100468736027|レオパレスプリマベーラ": {
+    "https://suumo.jp/chintai/jnc_000108401829/?bc=100516567918|レオパレスプリマベーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.5,
       "area_sqm": 26.5,
-      "url": "https://suumo.jp/chintai/jnc_000108401829/?bc=100468736027",
-      "text": "レオパレスプリマベーラ"
-    },
-    "https://suumo.jp/chintai/jnc_000108401832/?bc=100468735936|レオパレスプリマベーラ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 4.6,
-      "area_sqm": 26.5,
-      "url": "https://suumo.jp/chintai/jnc_000108401832/?bc=100468735936",
+      "url": "https://suumo.jp/chintai/jnc_000108401829/?bc=100516567918",
       "text": "レオパレスプリマベーラ"
     },
     "https://suumo.jp/chintai/jnc_000108401828/?bc=100468736025|レオパレスプリマベーラ": {
@@ -2320,6 +2311,15 @@
       "price_man": 4.6,
       "area_sqm": 26.5,
       "url": "https://suumo.jp/chintai/jnc_000108401828/?bc=100468736025",
+      "text": "レオパレスプリマベーラ"
+    },
+    "https://suumo.jp/chintai/jnc_000108401832/?bc=100516567930|レオパレスプリマベーラ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 4.6,
+      "area_sqm": 26.5,
+      "url": "https://suumo.jp/chintai/jnc_000108401832/?bc=100516567930",
       "text": "レオパレスプリマベーラ"
     },
     "https://suumo.jp/chintai/jnc_000108401831/?bc=100468735938|レオパレスプリマベーラ": {
@@ -2367,6 +2367,15 @@
       "url": "https://suumo.jp/chintai/jnc_000104846797/?bc=100488563081",
       "text": "スイートローズ杉山"
     },
+    "https://suumo.jp/chintai/jnc_000080035960/?bc=100518155607|サンライズ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市天野",
+      "price_man": 4.6,
+      "area_sqm": 29.8,
+      "url": "https://suumo.jp/chintai/jnc_000080035960/?bc=100518155607",
+      "text": "サンライズ"
+    },
     "https://suumo.jp/chintai/jnc_000029814798/?bc=100470139401|レアールカロン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2376,41 +2385,32 @@
       "url": "https://suumo.jp/chintai/jnc_000029814798/?bc=100470139401",
       "text": "レアールカロン"
     },
-    "https://suumo.jp/chintai/jnc_000105352799/?bc=100512629673|エステーム杉山": {
+    "https://suumo.jp/chintai/jnc_000105352799/?bc=100492557166|エステーム杉山": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 5.0,
       "area_sqm": 46.4,
-      "url": "https://suumo.jp/chintai/jnc_000105352799/?bc=100512629673",
+      "url": "https://suumo.jp/chintai/jnc_000105352799/?bc=100492557166",
       "text": "エステーム杉山"
     },
-    "https://suumo.jp/chintai/jnc_000108279358/?bc=100465483752|ネオステージ原木": {
+    "https://suumo.jp/chintai/jnc_000108279358/?bc=100507028034|ネオステージ原木": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.2,
       "area_sqm": 49.0,
-      "url": "https://suumo.jp/chintai/jnc_000108279358/?bc=100465483752",
+      "url": "https://suumo.jp/chintai/jnc_000108279358/?bc=100507028034",
       "text": "ネオステージ原木"
     },
-    "https://suumo.jp/chintai/jnc_000108749210/?bc=100515432416|東海バス 神戸 2階建 築29年": {
+    "https://suumo.jp/chintai/jnc_000108749210/?bc=100515431620|東海バス 神戸 2階建 築29年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.0,
       "area_sqm": 36.4,
-      "url": "https://suumo.jp/chintai/jnc_000108749210/?bc=100515432416",
+      "url": "https://suumo.jp/chintai/jnc_000108749210/?bc=100515431620",
       "text": "東海バス 神戸 2階建 築29年"
-    },
-    "https://suumo.jp/chintai/jnc_000107947106/?bc=100508155925|伊豆箱根鉄道駿豆線 田京駅 3階建 築39年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市三福",
-      "price_man": 5.0,
-      "area_sqm": 46.4,
-      "url": "https://suumo.jp/chintai/jnc_000107947106/?bc=100508155925",
-      "text": "伊豆箱根鉄道駿豆線 田京駅 3階建 築39年"
     },
     "https://suumo.jp/chintai/jnc_000107947105/?bc=100508155931|伊豆箱根鉄道駿豆線 田京駅 3階建 築39年": {
       "first_seen": "2026-07-25",
@@ -2419,6 +2419,15 @@
       "price_man": 5.0,
       "area_sqm": 46.4,
       "url": "https://suumo.jp/chintai/jnc_000107947105/?bc=100508155931",
+      "text": "伊豆箱根鉄道駿豆線 田京駅 3階建 築39年"
+    },
+    "https://suumo.jp/chintai/jnc_000107947106/?bc=100508155925|伊豆箱根鉄道駿豆線 田京駅 3階建 築39年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市三福",
+      "price_man": 5.0,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000107947106/?bc=100508155925",
       "text": "伊豆箱根鉄道駿豆線 田京駅 3階建 築39年"
     },
     "https://suumo.jp/chintai/jnc_000108599884/?bc=100517425846|伊豆箱根鉄道駿豆線 田京駅 2階建 築31年": {
@@ -2430,13 +2439,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108599884/?bc=100517425846",
       "text": "伊豆箱根鉄道駿豆線 田京駅 2階建 築31年"
     },
-    "https://suumo.jp/chintai/jnc_000104891931/?bc=100508047282|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891931/?bc=100512630146|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.8,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891931/?bc=100508047282",
+      "url": "https://suumo.jp/chintai/jnc_000104891931/?bc=100512630146",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
     "https://suumo.jp/chintai/jnc_000104891929/?bc=100515469347|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
@@ -2448,22 +2457,13 @@
       "url": "https://suumo.jp/chintai/jnc_000104891929/?bc=100515469347",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891934/?bc=100508047300|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891934/?bc=100512630034|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 5.9,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891934/?bc=100508047300",
-      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
-    },
-    "https://suumo.jp/chintai/jnc_000104891936/?bc=100508047280|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.0,
-      "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891936/?bc=100508047280",
+      "url": "https://suumo.jp/chintai/jnc_000104891934/?bc=100512630034",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
     "https://suumo.jp/chintai/jnc_000104891938/?bc=100515469329|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
@@ -2475,6 +2475,15 @@
       "url": "https://suumo.jp/chintai/jnc_000104891938/?bc=100515469329",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
+    "https://suumo.jp/chintai/jnc_000104891936/?bc=100512630063|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 6.0,
+      "area_sqm": 27.9,
+      "url": "https://suumo.jp/chintai/jnc_000104891936/?bc=100512630063",
+      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
+    },
     "https://suumo.jp/chintai/jnc_000104891937/?bc=100515469491|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2484,49 +2493,49 @@
       "url": "https://suumo.jp/chintai/jnc_000104891937/?bc=100515469491",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891935/?bc=100508047308|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891935/?bc=100512629616|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891935/?bc=100508047308",
+      "url": "https://suumo.jp/chintai/jnc_000104891935/?bc=100512629616",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891941/?bc=100508047283|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891941/?bc=100512630055|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891941/?bc=100508047283",
+      "url": "https://suumo.jp/chintai/jnc_000104891941/?bc=100512630055",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891940/?bc=100508047286|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891940/?bc=100512629797|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.1,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891940/?bc=100508047286",
+      "url": "https://suumo.jp/chintai/jnc_000104891940/?bc=100512629797",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891939/?bc=100508047288|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891939/?bc=100512630277|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.2,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891939/?bc=100508047288",
+      "url": "https://suumo.jp/chintai/jnc_000104891939/?bc=100512630277",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
-    "https://suumo.jp/chintai/jnc_000104891944/?bc=100515431789|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
+    "https://suumo.jp/chintai/jnc_000104891944/?bc=100501495471|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 6.2,
       "area_sqm": 27.9,
-      "url": "https://suumo.jp/chintai/jnc_000104891944/?bc=100515431789",
+      "url": "https://suumo.jp/chintai/jnc_000104891944/?bc=100501495471",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築"
     },
     "https://suumo.jp/chintai/jnc_000104891943/?bc=100512629526|伊豆箱根鉄道駿豆線 伊豆長岡駅 5階建 新築": {
@@ -2583,14 +2592,23 @@
       "url": "https://suumo.jp/chintai/jnc_000108354215/?bc=100509476810",
       "text": "レオパレス微笑"
     },
-    "https://suumo.jp/chintai/jnc_000108749211/?bc=100515432520|伊豆箱根鉄道駿豆線 韮山駅 2階建 築36年": {
+    "https://suumo.jp/chintai/jnc_000108749211/?bc=100515431803|伊豆箱根鉄道駿豆線 韮山駅 2階建 築36年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 4.9,
       "area_sqm": 40.0,
-      "url": "https://suumo.jp/chintai/jnc_000108749211/?bc=100515432520",
+      "url": "https://suumo.jp/chintai/jnc_000108749211/?bc=100515431803",
       "text": "伊豆箱根鉄道駿豆線 韮山駅 2階建 築36年"
+    },
+    "https://suumo.jp/chintai/jnc_000107524839/?bc=100405557805|サンライズ江間": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市北江間",
+      "price_man": 5.5,
+      "area_sqm": 54.1,
+      "url": "https://suumo.jp/chintai/jnc_000107524839/?bc=100405557805",
+      "text": "サンライズ江間"
     },
     "https://suumo.jp/chintai/jnc_000107581928/?bc=100509875366|伊豆箱根鉄道駿豆線 韮山駅 3階建 築35年": {
       "first_seen": "2026-07-25",
@@ -2610,15 +2628,6 @@
       "url": "https://suumo.jp/chintai/jnc_000107524840/?bc=100406248453",
       "text": "伊豆箱根鉄道駿豆線 韮山駅 3階建 築35年"
     },
-    "https://suumo.jp/chintai/jnc_000107524839/?bc=100405557805|サンライズ江間": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市北江間",
-      "price_man": 5.5,
-      "area_sqm": 54.1,
-      "url": "https://suumo.jp/chintai/jnc_000107524839/?bc=100405557805",
-      "text": "サンライズ江間"
-    },
     "https://suumo.jp/chintai/jnc_000107369452/?bc=100508155916|カームパレス　Ｂ棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2628,13 +2637,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107369452/?bc=100508155916",
       "text": "カームパレス　Ｂ棟"
     },
-    "https://suumo.jp/chintai/jnc_000108298293/?bc=100515470589|伊豆箱根鉄道駿豆線 田京駅 2階建 築26年": {
+    "https://suumo.jp/chintai/jnc_000108298293/?bc=100515470573|伊豆箱根鉄道駿豆線 田京駅 2階建 築26年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市神島",
       "price_man": 4.8,
       "area_sqm": 40.5,
-      "url": "https://suumo.jp/chintai/jnc_000108298293/?bc=100515470589",
+      "url": "https://suumo.jp/chintai/jnc_000108298293/?bc=100515470573",
       "text": "伊豆箱根鉄道駿豆線 田京駅 2階建 築26年"
     },
     "https://suumo.jp/chintai/jnc_000095323918/?bc=100465483770|静岡県伊豆の国市四日町 平屋 築41年": {
@@ -2655,13 +2664,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108385080/?bc=100515875723",
       "text": "長岡アパートメントハウスII"
     },
-    "https://suumo.jp/chintai/jnc_000108385078/?bc=100515875724|長岡アパートメントハウスII": {
+    "https://suumo.jp/chintai/jnc_000108385079/?bc=100515875691|長岡アパートメントハウスII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 4.8,
       "area_sqm": 41.4,
-      "url": "https://suumo.jp/chintai/jnc_000108385078/?bc=100515875724",
+      "url": "https://suumo.jp/chintai/jnc_000108385079/?bc=100515875691",
       "text": "長岡アパートメントハウスII"
     },
     "https://suumo.jp/chintai/jnc_000094658700/?bc=100410323270|長岡アパートメントハウスII": {
@@ -2673,31 +2682,31 @@
       "url": "https://suumo.jp/chintai/jnc_000094658700/?bc=100410323270",
       "text": "長岡アパートメントハウスII"
     },
-    "https://suumo.jp/chintai/jnc_000108385079/?bc=100515875691|長岡アパートメントハウスII": {
+    "https://suumo.jp/chintai/jnc_000108385078/?bc=100515875724|長岡アパートメントハウスII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 4.8,
       "area_sqm": 41.4,
-      "url": "https://suumo.jp/chintai/jnc_000108385079/?bc=100515875691",
+      "url": "https://suumo.jp/chintai/jnc_000108385078/?bc=100515875724",
       "text": "長岡アパートメントハウスII"
     },
-    "https://suumo.jp/chintai/jnc_000096476335/?bc=100422055364|内野マンション　１号棟": {
+    "https://suumo.jp/chintai/jnc_000096503572/?bc=100396146132|内野マンション　１号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.5,
       "area_sqm": 50.1,
-      "url": "https://suumo.jp/chintai/jnc_000096476335/?bc=100422055364",
+      "url": "https://suumo.jp/chintai/jnc_000096503572/?bc=100396146132",
       "text": "内野マンション　１号棟"
     },
-    "https://suumo.jp/chintai/jnc_000096503572/?bc=100396146127|内野マンション　１号棟": {
+    "https://suumo.jp/chintai/jnc_000096476335/?bc=100422055369|内野マンション　１号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.5,
       "area_sqm": 50.1,
-      "url": "https://suumo.jp/chintai/jnc_000096503572/?bc=100396146127",
+      "url": "https://suumo.jp/chintai/jnc_000096476335/?bc=100422055369",
       "text": "内野マンション　１号棟"
     },
     "https://suumo.jp/chintai/jnc_000102308413/?bc=100477962550|二枚橋コーポ": {
@@ -2709,15 +2718,6 @@
       "url": "https://suumo.jp/chintai/jnc_000102308413/?bc=100477962550",
       "text": "二枚橋コーポ"
     },
-    "https://suumo.jp/chintai/jnc_000071909014/?bc=100465483775|ミキハイツ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市古奈",
-      "price_man": 4.9,
-      "area_sqm": 40.1,
-      "url": "https://suumo.jp/chintai/jnc_000071909014/?bc=100465483775",
-      "text": "ミキハイツ"
-    },
     "https://suumo.jp/chintai/jnc_000071909015/?bc=100465483875|ミキハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2727,22 +2727,31 @@
       "url": "https://suumo.jp/chintai/jnc_000071909015/?bc=100465483875",
       "text": "ミキハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000108330029/?bc=100507028049|エクセル": {
+    "https://suumo.jp/chintai/jnc_000071909014/?bc=100507028031|ミキハイツ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市古奈",
+      "price_man": 4.9,
+      "area_sqm": 40.1,
+      "url": "https://suumo.jp/chintai/jnc_000071909014/?bc=100507028031",
+      "text": "ミキハイツ"
+    },
+    "https://suumo.jp/chintai/jnc_000108330029/?bc=100497597716|エクセル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.0,
       "area_sqm": 22.9,
-      "url": "https://suumo.jp/chintai/jnc_000108330029/?bc=100507028049",
+      "url": "https://suumo.jp/chintai/jnc_000108330029/?bc=100497597716",
       "text": "エクセル"
     },
-    "https://suumo.jp/chintai/jnc_000108330030/?bc=100515470595|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年": {
+    "https://suumo.jp/chintai/jnc_000108330030/?bc=100515470500|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.0,
       "area_sqm": 22.9,
-      "url": "https://suumo.jp/chintai/jnc_000108330030/?bc=100515470595",
+      "url": "https://suumo.jp/chintai/jnc_000108330030/?bc=100515470500",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年"
     },
     "https://suumo.jp/chintai/jnc_000094267188/?bc=100465483819|伊豆箱根鉄道駿豆線 田京駅 平屋 築64年": {
@@ -2754,13 +2763,13 @@
       "url": "https://suumo.jp/chintai/jnc_000094267188/?bc=100465483819",
       "text": "伊豆箱根鉄道駿豆線 田京駅 平屋 築64年"
     },
-    "https://suumo.jp/chintai/jnc_000090508722/?bc=100500609869|クレセントハイム": {
+    "https://suumo.jp/chintai/jnc_000090508722/?bc=100500610183|クレセントハイム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 4.0,
       "area_sqm": 44.7,
-      "url": "https://suumo.jp/chintai/jnc_000090508722/?bc=100500609869",
+      "url": "https://suumo.jp/chintai/jnc_000090508722/?bc=100500610183",
       "text": "クレセントハイム"
     },
     "https://suumo.jp/chintai/jnc_000102000389/?bc=100465483823|森戸建": {
@@ -2808,15 +2817,6 @@
       "url": "https://suumo.jp/chintai/jnc_000108484468/?bc=100516567942",
       "text": "レオパレスＰＲＯＶＡＮＣＥ"
     },
-    "https://suumo.jp/chintai/jnc_000100667316/?bc=100453270377|ヴァンベール": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.6,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000100667316/?bc=100453270377",
-      "text": "ヴァンベール"
-    },
     "https://suumo.jp/chintai/jnc_000105345564/?bc=100492594519|ヴァンベール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2824,6 +2824,15 @@
       "price_man": 6.6,
       "area_sqm": 53.3,
       "url": "https://suumo.jp/chintai/jnc_000105345564/?bc=100492594519",
+      "text": "ヴァンベール"
+    },
+    "https://suumo.jp/chintai/jnc_000100667316/?bc=100453270377|ヴァンベール": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 6.6,
+      "area_sqm": 53.3,
+      "url": "https://suumo.jp/chintai/jnc_000100667316/?bc=100453270377",
       "text": "ヴァンベール"
     },
     "https://suumo.jp/chintai/jnc_000106481494/?bc=100501886298|ヴァンベール": {
@@ -2853,22 +2862,22 @@
       "url": "https://suumo.jp/chintai/jnc_000092856884/?bc=100451726305",
       "text": "セジュール土屋　Ａ棟"
     },
-    "https://suumo.jp/chintai/jnc_000108330028/?bc=100515470560|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
+    "https://suumo.jp/chintai/jnc_000108330028/?bc=100515470545|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 8.0,
       "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000108330028/?bc=100515470560",
+      "url": "https://suumo.jp/chintai/jnc_000108330028/?bc=100515470545",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年"
     },
-    "https://suumo.jp/chintai/jnc_000108330027/?bc=100515470625|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
+    "https://suumo.jp/chintai/jnc_000108330027/?bc=100515470479|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 8.5,
       "area_sqm": 59.2,
-      "url": "https://suumo.jp/chintai/jnc_000108330027/?bc=100515470625",
+      "url": "https://suumo.jp/chintai/jnc_000108330027/?bc=100515470479",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年"
     },
     "https://suumo.jp/chintai/jnc_000106762884/?bc=100515470615|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
@@ -2880,22 +2889,22 @@
       "url": "https://suumo.jp/chintai/jnc_000106762884/?bc=100515470615",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年"
     },
-    "https://suumo.jp/chintai/jnc_000106762883/?bc=100515470536|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
+    "https://suumo.jp/chintai/jnc_000106762883/?bc=100515470534|伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 9.5,
       "area_sqm": 64.8,
-      "url": "https://suumo.jp/chintai/jnc_000106762883/?bc=100515470536",
+      "url": "https://suumo.jp/chintai/jnc_000106762883/?bc=100515470534",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 10階建 築36年"
     },
-    "https://suumo.jp/chintai/jnc_000104647506/?bc=100487163467|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築38年": {
+    "https://suumo.jp/chintai/jnc_000104647506/?bc=100516888249|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築38年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市中",
       "price_man": 4.9,
       "area_sqm": 52.8,
-      "url": "https://suumo.jp/chintai/jnc_000104647506/?bc=100487163467",
+      "url": "https://suumo.jp/chintai/jnc_000104647506/?bc=100516888249",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築38年"
     },
     "https://suumo.jp/chintai/jnc_000096043043/?bc=100511766503|高野コーポ": {
@@ -2925,13 +2934,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108385081/?bc=100515875741",
       "text": "松下アパート（借家）"
     },
-    "https://suumo.jp/chintai/jnc_000045450425/?bc=100141187018|菊地貸家": {
+    "https://suumo.jp/chintai/jnc_000045450425/?bc=100507028011|菊地貸家": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南江間",
       "price_man": 5.8,
       "area_sqm": 49.6,
-      "url": "https://suumo.jp/chintai/jnc_000045450425/?bc=100141187018",
+      "url": "https://suumo.jp/chintai/jnc_000045450425/?bc=100507028011",
       "text": "菊地貸家"
     },
     "https://suumo.jp/chintai/jnc_000106741782/?bc=100503594600|菊地貸家": {
@@ -2943,13 +2952,13 @@
       "url": "https://suumo.jp/chintai/jnc_000106741782/?bc=100503594600",
       "text": "菊地貸家"
     },
-    "https://suumo.jp/chintai/jnc_000029259420/?bc=100516888234|シティハイムカルテット": {
+    "https://suumo.jp/chintai/jnc_000029259420/?bc=100397759310|シティハイムカルテット": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市中條",
       "price_man": 3.7,
-      "area_sqm": 27.7,
-      "url": "https://suumo.jp/chintai/jnc_000029259420/?bc=100516888234",
+      "area_sqm": 29.8,
+      "url": "https://suumo.jp/chintai/jnc_000029259420/?bc=100397759310",
       "text": "シティハイムカルテット"
     },
     "https://suumo.jp/chintai/jnc_000037832815/?bc=100513825918|シティハイムエステートＢ": {
@@ -2970,15 +2979,6 @@
       "url": "https://suumo.jp/chintai/jnc_000099909553/?bc=100443068627",
       "text": "シティハイムエステートＢ"
     },
-    "https://suumo.jp/chintai/jnc_000108036674/?bc=100513385006|シティハイムエステートＢ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市四日町",
-      "price_man": 4.3,
-      "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000108036674/?bc=100513385006",
-      "text": "シティハイムエステートＢ"
-    },
     "https://suumo.jp/chintai/jnc_000099909552/?bc=100443068618|シティハイムエステートＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2986,6 +2986,15 @@
       "price_man": 4.3,
       "area_sqm": 39.7,
       "url": "https://suumo.jp/chintai/jnc_000099909552/?bc=100443068618",
+      "text": "シティハイムエステートＢ"
+    },
+    "https://suumo.jp/chintai/jnc_000108036674/?bc=100513385006|シティハイムエステートＢ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市四日町",
+      "price_man": 4.3,
+      "area_sqm": 39.7,
+      "url": "https://suumo.jp/chintai/jnc_000108036674/?bc=100513385006",
       "text": "シティハイムエステートＢ"
     },
     "https://suumo.jp/chintai/jnc_000097795233/?bc=100513826020|シティハイムエステート": {
@@ -2997,13 +3006,13 @@
       "url": "https://suumo.jp/chintai/jnc_000097795233/?bc=100513826020",
       "text": "シティハイムエステート"
     },
-    "https://suumo.jp/chintai/jnc_000049095272/?bc=100515470567|伊豆箱根鉄道駿豆線 大仁駅 2階建 築39年": {
+    "https://suumo.jp/chintai/jnc_000049095272/?bc=100515470518|伊豆箱根鉄道駿豆線 大仁駅 2階建 築39年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 4.5,
       "area_sqm": 35.3,
-      "url": "https://suumo.jp/chintai/jnc_000049095272/?bc=100515470567",
+      "url": "https://suumo.jp/chintai/jnc_000049095272/?bc=100515470518",
       "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築39年"
     },
     "https://suumo.jp/chintai/jnc_000013975274/?bc=100368772547|レセーナ": {
@@ -3024,13 +3033,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108640507/?bc=100517375088",
       "text": "コーポ和光"
     },
-    "https://suumo.jp/chintai/jnc_000056877982/?bc=100465639434|高野パーキングハイツ": {
+    "https://suumo.jp/chintai/jnc_000056877982/?bc=100492524031|高野パーキングハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 4.3,
       "area_sqm": 28.4,
-      "url": "https://suumo.jp/chintai/jnc_000056877982/?bc=100465639434",
+      "url": "https://suumo.jp/chintai/jnc_000056877982/?bc=100492524031",
       "text": "高野パーキングハイツ"
     },
     "https://suumo.jp/chintai/jnc_000108385082/?bc=100515875737|根本アパート": {
@@ -3051,22 +3060,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108298303/?bc=100515471811",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 地上2階建 築2年"
     },
-    "https://suumo.jp/chintai/jnc_000108342637/?bc=100515557449|内野マンション　２号棟": {
+    "https://suumo.jp/chintai/jnc_000108342637/?bc=100515557450|内野マンション　２号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.0,
       "area_sqm": 39.8,
-      "url": "https://suumo.jp/chintai/jnc_000108342637/?bc=100515557449",
-      "text": "内野マンション　２号棟"
-    },
-    "https://suumo.jp/chintai/jnc_000096503574/?bc=100358392998|内野マンション　２号棟": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市原木",
-      "price_man": 4.0,
-      "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000096503574/?bc=100358392998",
+      "url": "https://suumo.jp/chintai/jnc_000108342637/?bc=100515557450",
       "text": "内野マンション　２号棟"
     },
     "https://suumo.jp/chintai/jnc_000096503573/?bc=100358393003|内野マンション　２号棟": {
@@ -3078,13 +3078,22 @@
       "url": "https://suumo.jp/chintai/jnc_000096503573/?bc=100358393003",
       "text": "内野マンション　２号棟"
     },
-    "https://suumo.jp/chintai/jnc_000105909753/?bc=100497078613|内野マンション　２号棟": {
+    "https://suumo.jp/chintai/jnc_000096503574/?bc=100358392998|内野マンション　２号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.0,
       "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000105909753/?bc=100497078613",
+      "url": "https://suumo.jp/chintai/jnc_000096503574/?bc=100358392998",
+      "text": "内野マンション　２号棟"
+    },
+    "https://suumo.jp/chintai/jnc_000105909753/?bc=100497078614|内野マンション　２号棟": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市原木",
+      "price_man": 4.0,
+      "area_sqm": 39.7,
+      "url": "https://suumo.jp/chintai/jnc_000105909753/?bc=100497078614",
       "text": "内野マンション　２号棟"
     },
     "https://suumo.jp/chintai/jnc_000106945244/?bc=100465483735|静岡県伊豆の国市古奈 2階建 築46年": {
@@ -3114,15 +3123,6 @@
       "url": "https://suumo.jp/chintai/jnc_000105724571/?bc=100495520259",
       "text": "ロワイムクリサンセーム"
     },
-    "https://suumo.jp/chintai/jnc_000031500465/?bc=100499603929|フェニックスピュア": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 5.3,
-      "area_sqm": 59.0,
-      "url": "https://suumo.jp/chintai/jnc_000031500465/?bc=100499603929",
-      "text": "フェニックスピュア"
-    },
     "https://suumo.jp/chintai/jnc_000029479921/?bc=100516301727|フェニックスピュア": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -3131,6 +3131,24 @@
       "area_sqm": 59.0,
       "url": "https://suumo.jp/chintai/jnc_000029479921/?bc=100516301727",
       "text": "フェニックスピュア"
+    },
+    "https://suumo.jp/chintai/jnc_000031500465/?bc=100501317263|フェニックスピュア": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 5.3,
+      "area_sqm": 59.0,
+      "url": "https://suumo.jp/chintai/jnc_000031500465/?bc=100501317263",
+      "text": "フェニックスピュア"
+    },
+    "https://suumo.jp/chintai/jnc_000063262546/?bc=100493215784|ル・メルベイユ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.5,
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000063262546/?bc=100493215784",
+      "text": "ル・メルベイユ"
     },
     "https://suumo.jp/chintai/jnc_000107354442/?bc=100508048059|ル・メルベイユ": {
       "first_seen": "2026-07-25",
@@ -3141,14 +3159,14 @@
       "url": "https://suumo.jp/chintai/jnc_000107354442/?bc=100508048059",
       "text": "ル・メルベイユ"
     },
-    "https://suumo.jp/chintai/jnc_000063262546/?bc=100493143631|ル・メルベイユ": {
+    "https://suumo.jp/chintai/jnc_000108385077/?bc=100515875721|長岡アパートメントハウスＩ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.5,
-      "area_sqm": 43.0,
-      "url": "https://suumo.jp/chintai/jnc_000063262546/?bc=100493143631",
-      "text": "ル・メルベイユ"
+      "location": "静岡県伊豆の国市古奈",
+      "price_man": 3.8,
+      "area_sqm": 20.2,
+      "url": "https://suumo.jp/chintai/jnc_000108385077/?bc=100515875721",
+      "text": "長岡アパートメントハウスＩ"
     },
     "https://suumo.jp/chintai/jnc_000108506801/?bc=100516770324|長岡アパートメントハウスＩ": {
       "first_seen": "2026-07-25",
@@ -3157,15 +3175,6 @@
       "price_man": 3.8,
       "area_sqm": 20.2,
       "url": "https://suumo.jp/chintai/jnc_000108506801/?bc=100516770324",
-      "text": "長岡アパートメントハウスＩ"
-    },
-    "https://suumo.jp/chintai/jnc_000108385077/?bc=100515875721|長岡アパートメントハウスＩ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市古奈",
-      "price_man": 3.8,
-      "area_sqm": 20.2,
-      "url": "https://suumo.jp/chintai/jnc_000108385077/?bc=100515875721",
       "text": "長岡アパートメントハウスＩ"
     },
     "https://suumo.jp/chintai/jnc_000101201208/?bc=100465483821|長岡アパートメントハウスＩ": {
@@ -3231,22 +3240,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108024775/?bc=100513292441",
       "text": "レジデンスカミ"
     },
-    "https://suumo.jp/chintai/jnc_000018282194/?bc=100465638508|サニーハイツ": {
+    "https://suumo.jp/chintai/jnc_000094244323/?bc=100492523999|サニーハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 3.2,
       "area_sqm": 23.5,
-      "url": "https://suumo.jp/chintai/jnc_000018282194/?bc=100465638508",
+      "url": "https://suumo.jp/chintai/jnc_000094244323/?bc=100492523999",
       "text": "サニーハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000094244323/?bc=100407569547|サニーハイツ": {
+    "https://suumo.jp/chintai/jnc_000018282194/?bc=100492523912|サニーハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 3.2,
       "area_sqm": 23.5,
-      "url": "https://suumo.jp/chintai/jnc_000094244323/?bc=100407569547",
+      "url": "https://suumo.jp/chintai/jnc_000018282194/?bc=100492523912",
       "text": "サニーハイツ"
     },
     "https://suumo.jp/chintai/jnc_000107965831/?bc=100512739453|ヒルズフェニックス": {
@@ -3258,22 +3267,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107965831/?bc=100512739453",
       "text": "ヒルズフェニックス"
     },
-    "https://suumo.jp/chintai/jnc_000107830212/?bc=100511654963|高野ハイツ": {
+    "https://suumo.jp/chintai/jnc_000107830212/?bc=100517032210|高野ハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市南條",
       "price_man": 3.7,
       "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000107830212/?bc=100511654963",
-      "text": "高野ハイツ"
-    },
-    "https://suumo.jp/chintai/jnc_000096565121/?bc=100517032206|高野ハイツ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市南條",
-      "price_man": 3.7,
-      "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000096565121/?bc=100517032206",
+      "url": "https://suumo.jp/chintai/jnc_000107830212/?bc=100517032210",
       "text": "高野ハイツ"
     },
     "https://suumo.jp/chintai/jnc_000053031408/?bc=100517032208|高野ハイツ": {
@@ -3294,31 +3294,22 @@
       "url": "https://suumo.jp/chintai/jnc_000093004579/?bc=100398001178",
       "text": "高野ハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000080372494/?bc=100465638933|ウィングラッシア伊豆長岡": {
+    "https://suumo.jp/chintai/jnc_000096565121/?bc=100517032206|高野ハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.8,
-      "area_sqm": 54.0,
-      "url": "https://suumo.jp/chintai/jnc_000080372494/?bc=100465638933",
-      "text": "ウィングラッシア伊豆長岡"
+      "location": "静岡県伊豆の国市南條",
+      "price_man": 3.7,
+      "area_sqm": 24.8,
+      "url": "https://suumo.jp/chintai/jnc_000096565121/?bc=100517032206",
+      "text": "高野ハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000017067181/?bc=100470887693|ウィングラッシア伊豆長岡": {
+    "https://suumo.jp/chintai/jnc_000040883682/?bc=100505733836|ウィングラッシア伊豆長岡": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.8,
       "area_sqm": 54.0,
-      "url": "https://suumo.jp/chintai/jnc_000017067181/?bc=100470887693",
-      "text": "ウィングラッシア伊豆長岡"
-    },
-    "https://suumo.jp/chintai/jnc_000040883682/?bc=100407321889|ウィングラッシア伊豆長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.8,
-      "area_sqm": 54.0,
-      "url": "https://suumo.jp/chintai/jnc_000040883682/?bc=100407321889",
+      "url": "https://suumo.jp/chintai/jnc_000040883682/?bc=100505733836",
       "text": "ウィングラッシア伊豆長岡"
     },
     "https://suumo.jp/chintai/jnc_000062512406/?bc=100425963158|ウィングラッシア伊豆長岡": {
@@ -3339,23 +3330,41 @@
       "url": "https://suumo.jp/chintai/jnc_000017176136/?bc=100317594948",
       "text": "ウィングラッシア伊豆長岡"
     },
-    "https://suumo.jp/chintai/jnc_000051258031/?bc=100505363518|ラ・フィーヌB": {
+    "https://suumo.jp/chintai/jnc_000080372494/?bc=100465638933|ウィングラッシア伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.8,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000080372494/?bc=100465638933",
+      "text": "ウィングラッシア伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000017067181/?bc=100470887693|ウィングラッシア伊豆長岡": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.8,
+      "area_sqm": 54.0,
+      "url": "https://suumo.jp/chintai/jnc_000017067181/?bc=100470887693",
+      "text": "ウィングラッシア伊豆長岡"
+    },
+    "https://suumo.jp/chintai/jnc_000051258031/?bc=100500610182|ラ・フィーヌＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 2.9,
       "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000051258031/?bc=100505363518",
-      "text": "ラ・フィーヌB"
+      "url": "https://suumo.jp/chintai/jnc_000051258031/?bc=100500610182",
+      "text": "ラ・フィーヌＢ"
     },
-    "https://suumo.jp/chintai/jnc_000058809705/?bc=100503208337|ラ・フィーヌB": {
+    "https://suumo.jp/chintai/jnc_000058809705/?bc=100503208337|ラ・フィーヌＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 2.9,
       "area_sqm": 24.8,
       "url": "https://suumo.jp/chintai/jnc_000058809705/?bc=100503208337",
-      "text": "ラ・フィーヌB"
+      "text": "ラ・フィーヌＢ"
     },
     "https://suumo.jp/chintai/jnc_000102097814/?bc=100466449291|小坂コーポ": {
       "first_seen": "2026-07-25",
@@ -3402,13 +3411,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108124726/?bc=100514109785",
       "text": "仲道マンション"
     },
-    "https://suumo.jp/chintai/jnc_000103066540/?bc=100516888256|仲道マンション": {
+    "https://suumo.jp/chintai/jnc_000103066540/?bc=100474653603|仲道マンション": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市三福",
       "price_man": 3.5,
       "area_sqm": 45.9,
-      "url": "https://suumo.jp/chintai/jnc_000103066540/?bc=100516888256",
+      "url": "https://suumo.jp/chintai/jnc_000103066540/?bc=100474653603",
       "text": "仲道マンション"
     },
     "https://suumo.jp/chintai/jnc_000052772541/?bc=100508499992|仲道マンション": {
@@ -3438,14 +3447,14 @@
       "url": "https://suumo.jp/chintai/jnc_000099542627/?bc=100465483845",
       "text": "グリーンピア　２１Ａ"
     },
-    "https://suumo.jp/chintai/jnc_000095641000/?bc=100506806695|伊豆長岡エステートII": {
+    "https://suumo.jp/chintai/jnc_000104493252/?bc=100486025714|田京駅前アパート": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 2.5,
-      "area_sqm": 18.2,
-      "url": "https://suumo.jp/chintai/jnc_000095641000/?bc=100506806695",
-      "text": "伊豆長岡エステートII"
+      "location": "静岡県伊豆の国市田京",
+      "price_man": 3.0,
+      "area_sqm": 18.5,
+      "url": "https://suumo.jp/chintai/jnc_000104493252/?bc=100486025714",
+      "text": "田京駅前アパート"
     },
     "https://suumo.jp/chintai/jnc_000104493251/?bc=100465483771|田京駅前アパート": {
       "first_seen": "2026-07-25",
@@ -3454,15 +3463,6 @@
       "price_man": 3.0,
       "area_sqm": 18.5,
       "url": "https://suumo.jp/chintai/jnc_000104493251/?bc=100465483771",
-      "text": "田京駅前アパート"
-    },
-    "https://suumo.jp/chintai/jnc_000104493252/?bc=100486025714|田京駅前アパート": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市田京",
-      "price_man": 3.0,
-      "area_sqm": 18.5,
-      "url": "https://suumo.jp/chintai/jnc_000104493252/?bc=100486025714",
       "text": "田京駅前アパート"
     },
     "https://suumo.jp/chintai/jnc_000088114034/?bc=100497597712|ベルシオン長岡": {
@@ -3537,14 +3537,14 @@
       "url": "https://suumo.jp/chintai/jnc_000102000386/?bc=100465483776",
       "text": "富士見コーポ"
     },
-    "https://suumo.jp/chintai/jnc_000106177906/?bc=100493289806|ビレッジハウス大仁2号棟": {
+    "https://suumo.jp/chintai/jnc_000106177906/?bc=100493415547|ビレッジハウス大仁２号棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市御門",
       "price_man": 2.67,
       "area_sqm": 39.8,
-      "url": "https://suumo.jp/chintai/jnc_000106177906/?bc=100493289806",
-      "text": "ビレッジハウス大仁2号棟"
+      "url": "https://suumo.jp/chintai/jnc_000106177906/?bc=100493415547",
+      "text": "ビレッジハウス大仁２号棟"
     },
     "https://suumo.jp/chintai/jnc_000084440967/?bc=100475466252|伊豆エメラルドタウン15": {
       "first_seen": "2026-07-25",
@@ -3591,15 +3591,6 @@
       "url": "https://suumo.jp/chintai/jnc_000108298311/?bc=100515470521",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年"
     },
-    "https://suumo.jp/chintai/jnc_000108298310/?bc=100515470562|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 5.1,
-      "area_sqm": 50.1,
-      "url": "https://suumo.jp/chintai/jnc_000108298310/?bc=100515470562",
-      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年"
-    },
     "https://suumo.jp/chintai/jnc_000108298312/?bc=100515470501|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -3607,6 +3598,15 @@
       "price_man": 5.1,
       "area_sqm": 50.1,
       "url": "https://suumo.jp/chintai/jnc_000108298312/?bc=100515470501",
+      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年"
+    },
+    "https://suumo.jp/chintai/jnc_000108298310/?bc=100515470562|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 5.1,
+      "area_sqm": 50.1,
+      "url": "https://suumo.jp/chintai/jnc_000108298310/?bc=100515470562",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築23年"
     },
     "https://suumo.jp/chintai/jnc_000108298308/?bc=100514109771|グレイスコート": {
@@ -3636,32 +3636,23 @@
       "url": "https://suumo.jp/chintai/jnc_000108298309/?bc=100515471789",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築19年"
     },
-    "https://suumo.jp/chintai/jnc_000015224191/?bc=100436139938|レオパレス伊豆長岡２": {
+    "https://suumo.jp/chintai/jnc_000015224191/?bc=100517265267|レオパレス伊豆長岡２": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.4,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000015224191/?bc=100436139938",
+      "url": "https://suumo.jp/chintai/jnc_000015224191/?bc=100517265267",
       "text": "レオパレス伊豆長岡２"
     },
-    "https://suumo.jp/chintai/jnc_000024568215/?bc=100474965210|レオパレス伊豆長岡２": {
+    "https://suumo.jp/chintai/jnc_000024568215/?bc=100516567965|レオパレス伊豆長岡２": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.6,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000024568215/?bc=100474965210",
+      "url": "https://suumo.jp/chintai/jnc_000024568215/?bc=100516567965",
       "text": "レオパレス伊豆長岡２"
-    },
-    "https://suumo.jp/chintai/jnc_000065244478/?bc=100465483837|レジデンス白石": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市北江間",
-      "price_man": 4.5,
-      "area_sqm": 46.4,
-      "url": "https://suumo.jp/chintai/jnc_000065244478/?bc=100465483837",
-      "text": "レジデンス白石"
     },
     "https://suumo.jp/chintai/jnc_000068387095/?bc=100465483841|レジデンス白石": {
       "first_seen": "2026-07-25",
@@ -3670,6 +3661,15 @@
       "price_man": 4.5,
       "area_sqm": 46.4,
       "url": "https://suumo.jp/chintai/jnc_000068387095/?bc=100465483841",
+      "text": "レジデンス白石"
+    },
+    "https://suumo.jp/chintai/jnc_000065244478/?bc=100465483837|レジデンス白石": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市北江間",
+      "price_man": 4.5,
+      "area_sqm": 46.4,
+      "url": "https://suumo.jp/chintai/jnc_000065244478/?bc=100465483837",
       "text": "レジデンス白石"
     },
     "https://suumo.jp/chintai/jnc_000013975334/?bc=100486192035|グリーンハイム千草": {
@@ -3681,15 +3681,6 @@
       "url": "https://suumo.jp/chintai/jnc_000013975334/?bc=100486192035",
       "text": "グリーンハイム千草"
     },
-    "https://suumo.jp/chintai/jnc_000107491064/?bc=100509128017|エステートピア伊藤": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 4.5,
-      "area_sqm": 35.0,
-      "url": "https://suumo.jp/chintai/jnc_000107491064/?bc=100509128017",
-      "text": "エステートピア伊藤"
-    },
     "https://suumo.jp/chintai/jnc_000107491065/?bc=100509128052|エステートピア伊藤": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -3699,22 +3690,31 @@
       "url": "https://suumo.jp/chintai/jnc_000107491065/?bc=100509128052",
       "text": "エステートピア伊藤"
     },
-    "https://suumo.jp/chintai/jnc_000108298314/?bc=100515470587|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年": {
+    "https://suumo.jp/chintai/jnc_000107491064/?bc=100509128017|エステートピア伊藤": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.5,
       "area_sqm": 35.0,
-      "url": "https://suumo.jp/chintai/jnc_000108298314/?bc=100515470587",
+      "url": "https://suumo.jp/chintai/jnc_000107491064/?bc=100509128017",
+      "text": "エステートピア伊藤"
+    },
+    "https://suumo.jp/chintai/jnc_000108298315/?bc=100515470569|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県伊豆の国市長岡",
+      "price_man": 4.5,
+      "area_sqm": 35.0,
+      "url": "https://suumo.jp/chintai/jnc_000108298315/?bc=100515470569",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年"
     },
-    "https://suumo.jp/chintai/jnc_000108298315/?bc=100515470582|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年": {
+    "https://suumo.jp/chintai/jnc_000108298314/?bc=100515470577|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 4.5,
       "area_sqm": 35.0,
-      "url": "https://suumo.jp/chintai/jnc_000108298315/?bc=100515470582",
+      "url": "https://suumo.jp/chintai/jnc_000108298314/?bc=100515470577",
       "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築34年"
     },
     "https://suumo.jp/chintai/jnc_000049708032/?bc=100352820998|ローゼ・アヴィ": {
@@ -3727,6 +3727,6 @@
       "text": "ローゼ・アヴィ"
     }
   },
-  "hash": "d6541817bd499386",
-  "fetched_at": "2026-07-25T16:07:50.123984"
+  "hash": "9f42b3802a24761c",
+  "fetched_at": "2026-07-25T22:56:40.418212"
 }

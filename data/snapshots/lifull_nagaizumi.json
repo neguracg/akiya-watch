@@ -27,15 +27,6 @@
       "url": "https://www.homes.co.jp/tochi/b-17069030000018/",
       "text": "長泉町竹原分譲地"
     },
-    "https://www.homes.co.jp/tochi/b-1265050002682/|駿東郡長泉町中土狩 (長泉なめり駅)": {
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-25",
-      "location": "駿東郡長泉町中土狩 (長泉なめり駅)",
-      "price_man": 1990,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002682/",
-      "text": "駿東郡長泉町中土狩 (長泉なめり駅)"
-    },
     "https://www.homes.co.jp/tochi/b-1504400000779/|駿東郡長泉町下土狩 (下土狩駅)": {
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-25",
@@ -135,15 +126,6 @@
       "url": "https://www.homes.co.jp/tochi/b-33318160000130/",
       "text": "駿東郡長泉町上土狩 (長泉なめり駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1265050002513/|駿東郡長泉町東野 (長泉なめり駅)": {
-      "first_seen": "2026-06-19",
-      "last_seen": "2026-07-25",
-      "location": "駿東郡長泉町東野 (長泉なめり駅)",
-      "price_man": 1100,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002513/",
-      "text": "駿東郡長泉町東野 (長泉なめり駅)"
-    },
     "https://www.homes.co.jp/tochi/b-1540930000250/|駿東郡長泉町納米里 (長泉なめり駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-07-25",
@@ -152,6 +134,24 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-1540930000250/",
       "text": "駿東郡長泉町納米里 (長泉なめり駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002682/|駿東郡長泉町中土狩 (長泉なめり駅)": {
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-07-25",
+      "location": "駿東郡長泉町中土狩 (長泉なめり駅)",
+      "price_man": 1990,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002682/",
+      "text": "駿東郡長泉町中土狩 (長泉なめり駅)"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002513/|駿東郡長泉町東野 (長泉なめり駅)": {
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-25",
+      "location": "駿東郡長泉町東野 (長泉なめり駅)",
+      "price_man": 1100,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002513/",
+      "text": "駿東郡長泉町東野 (長泉なめり駅)"
     },
     "https://www.homes.co.jp/tochi/b-33323360001004/|駿東郡長泉町東野 (裾野駅)": {
       "first_seen": "2026-06-19",
@@ -199,6 +199,6 @@
       "text": "駿東郡長泉町竹原 (下土狩駅)"
     }
   },
-  "hash": "84740d933114116b",
-  "fetched_at": "2026-07-25T16:29:59.949223"
+  "hash": "cea99a2ea8e980cd",
+  "fetched_at": "2026-07-25T23:19:31.261725"
 }

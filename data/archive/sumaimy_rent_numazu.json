@@ -1,1 +1,24 @@
-{}
+{
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/45213|貸マンション 沼津市西椎路": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "沼津市西椎路",
+    "price_man": 8.5,
+    "area_sqm": 92.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/45213",
+    "text": "貸マンション 沼津市西椎路",
+    "removed_on": "2026-07-25",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31866|貸マンション 沼津市白銀町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "沼津市白銀町",
+    "price_man": 4.0,
+    "area_sqm": 22.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31866",
+    "text": "貸マンション 沼津市白銀町",
+    "removed_on": "2026-07-25",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  }
+}

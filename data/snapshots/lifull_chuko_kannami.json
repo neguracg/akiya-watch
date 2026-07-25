@@ -108,15 +108,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1111450005466/",
       "text": "南箱根ダイヤランド　売戸建"
     },
-    "https://www.homes.co.jp/kodate/b-1341600001772/|南箱根ダイヤランド戸建": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-25",
-      "location": "南箱根ダイヤランド戸建",
-      "price_man": 3150,
-      "area_sqm": 337.0,
-      "url": "https://www.homes.co.jp/kodate/b-1341600001772/",
-      "text": "南箱根ダイヤランド戸建"
-    },
     "https://www.homes.co.jp/kodate/b-1265050002142/|函南町間宮中古住宅": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-25",
@@ -125,6 +116,15 @@
       "area_sqm": 166.8,
       "url": "https://www.homes.co.jp/kodate/b-1265050002142/",
       "text": "函南町間宮中古住宅"
+    },
+    "https://www.homes.co.jp/kodate/b-1341600001772/|南箱根ダイヤランド戸建": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-25",
+      "location": "南箱根ダイヤランド戸建",
+      "price_man": 3150,
+      "area_sqm": 337.0,
+      "url": "https://www.homes.co.jp/kodate/b-1341600001772/",
+      "text": "南箱根ダイヤランド戸建"
     },
     "https://www.homes.co.jp/kodate/b-1490460002405/|函南町平井　中古戸建": {
       "first_seen": "2026-07-03",
@@ -144,15 +144,6 @@
       "url": "https://www.homes.co.jp/kodate/b-33313200000050/",
       "text": "バス 切透し下車 徒歩2分"
     },
-    "https://www.homes.co.jp/kodate/b-1341600001836/|南箱根ダイヤランド戸建": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-25",
-      "location": "南箱根ダイヤランド戸建",
-      "price_man": 2580,
-      "area_sqm": 356.2,
-      "url": "https://www.homes.co.jp/kodate/b-1341600001836/",
-      "text": "南箱根ダイヤランド戸建"
-    },
     "https://www.homes.co.jp/kodate/b-1508430000123/|ヒューマンヒルズ函南１２２号地": {
       "first_seen": "2026-07-11",
       "last_seen": "2026-07-25",
@@ -161,6 +152,15 @@
       "area_sqm": 307.7,
       "url": "https://www.homes.co.jp/kodate/b-1508430000123/",
       "text": "ヒューマンヒルズ函南１２２号地"
+    },
+    "https://www.homes.co.jp/kodate/b-1341600001836/|南箱根ダイヤランド戸建": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-25",
+      "location": "南箱根ダイヤランド戸建",
+      "price_man": 2580,
+      "area_sqm": 356.2,
+      "url": "https://www.homes.co.jp/kodate/b-1341600001836/",
+      "text": "南箱根ダイヤランド戸建"
     },
     "https://www.homes.co.jp/kodate/b-93060000056/|函南町柏谷中古戸建": {
       "first_seen": "2026-07-03",
@@ -216,15 +216,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
       "text": "ヒューマンヒルズ函南77号地"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002649/|函南町上沢中古住宅 離れ付": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-25",
-      "location": "函南町上沢中古住宅 離れ付",
-      "price_man": 1080,
-      "area_sqm": 238.0,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002649/",
-      "text": "函南町上沢中古住宅 離れ付"
-    },
     "https://www.homes.co.jp/kodate/b-1111450005487/|南箱根ダイヤランド　売戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-25",
@@ -242,6 +233,15 @@
       "area_sqm": 307.5,
       "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
       "text": "南箱根ダイヤランド　売戸建"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002649/|函南町上沢中古住宅 離れ付": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-25",
+      "location": "函南町上沢中古住宅 離れ付",
+      "price_man": 1080,
+      "area_sqm": 238.0,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002649/",
+      "text": "函南町上沢中古住宅 離れ付"
     },
     "https://www.homes.co.jp/kodate/b-1265050002583/|函南町上沢中古住宅": {
       "first_seen": "2026-07-13",
@@ -271,6 +271,6 @@
       "text": "JR東海道本線 熱海駅 15km"
     }
   },
-  "hash": "52b08f6d43bfcaaf",
-  "fetched_at": "2026-07-25T16:25:48.480674"
+  "hash": "ff29b0b1fd0f1e4e",
+  "fetched_at": "2026-07-25T23:15:19.107145"
 }

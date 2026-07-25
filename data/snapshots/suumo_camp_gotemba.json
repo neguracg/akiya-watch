@@ -72,15 +72,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_72332638/",
       "text": "二の岡１（御殿場駅） 1780万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21322168/|【本日内覧可】庭と富士山。家で過ごす時間が変わる": {
-      "first_seen": "2026-07-19",
-      "last_seen": "2026-07-25",
-      "location": "静岡県御殿場市新橋",
-      "price_man": 1800,
-      "area_sqm": 205.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21322168/",
-      "text": "【本日内覧可】庭と富士山。家で過ごす時間が変わる"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20594958/|川島田（御殿場駅） 1800万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-25",
@@ -89,6 +80,15 @@
       "area_sqm": 206.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20594958/",
       "text": "川島田（御殿場駅） 1800万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21322168/|【本日内覧可】庭と富士山。家で過ごす時間が変わる": {
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-25",
+      "location": "静岡県御殿場市新橋",
+      "price_man": 1800,
+      "area_sqm": 205.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21322168/",
+      "text": "【本日内覧可】庭と富士山。家で過ごす時間が変わる"
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20682350/|☆ゆとりある74坪の住宅用地☆　お好きなハウスメーカで建てて下さい！": {
       "first_seen": "2026-07-12",
@@ -109,6 +109,6 @@
       "text": "☆JAふじ伊豆ファーマーズ御殿場やカインズホーム徒歩圏内"
     }
   },
-  "hash": "8d0c4f568f08f0f8",
-  "fetched_at": "2026-07-25T16:30:38.109773"
+  "hash": "94e7a8df47c7f5f7",
+  "fetched_at": "2026-07-25T23:20:17.427157"
 }

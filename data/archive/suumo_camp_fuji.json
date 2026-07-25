@@ -284,5 +284,27 @@
     "text": "広々とした宅地☆建築条件なし東田子の浦駅まで徒歩7分。",
     "removed_on": "2026-07-25",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20110302/|富士岡（岳南富士岡駅） 390万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-25",
+    "location": "静岡県富士市富士岡",
+    "price_man": 390,
+    "area_sqm": 479.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20110302/",
+    "text": "富士岡（岳南富士岡駅） 390万円",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21100559/|久沢（入山瀬駅） 1180万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-25",
+    "location": "静岡県富士市久沢",
+    "price_man": 1180,
+    "area_sqm": 213.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21100559/",
+    "text": "久沢（入山瀬駅） 1180万円",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

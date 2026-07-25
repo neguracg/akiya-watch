@@ -9,15 +9,6 @@
       "url": "https://jmty.jp/shizuoka/est-hou/article-1lj41s",
       "text": "初期費用0円♪9/10入居可♪ﾘﾉﾍﾞ済1K/28㎡♪WiFi..."
     },
-    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡 沼津市 原駅 マンション",
-      "price_man": 2.0,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
-      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分..."
-    },
     "https://jmty.jp/shizuoka/est-hou/article-a79x6|初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -26,6 +17,15 @@
       "area_sqm": null,
       "url": "https://jmty.jp/shizuoka/est-hou/article-a79x6",
       "text": "初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7..."
+    },
+    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡 沼津市 原駅 マンション",
+      "price_man": 2.0,
+      "area_sqm": null,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
+      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分..."
     },
     "https://jmty.jp/shizuoka/est-hou/article-est_vh_4241020507|【敷金・礼金・手数料・更新料０円！】ビレッジハウス大仁2号棟 (...": {
       "first_seen": "2026-07-25",
@@ -90,15 +90,6 @@
       "url": "https://jmty.jp/shizuoka/est-hou/article-1qigu4",
       "text": "🉐🉐沼津市🉐🉐🌠オンライン手続きで楽々🌠初期費用18030円🎀F..."
     },
-    "https://jmty.jp/shizuoka/est-hou/article-1bykk2|🉐初期費用無料プランあり　家賃のみで御入居可　オーシャンビュー戸建": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡 熱海市 熱海駅 一戸建て",
-      "price_man": 4.8,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-1bykk2",
-      "text": "🉐初期費用無料プランあり　家賃のみで御入居可　オーシャンビュー戸建"
-    },
     "https://jmty.jp/shizuoka/est-hou/article-1qiemo|🉐🉐伊豆の国市🉐🉐🌠オンライン手続きで楽々🌠初期費用37590円...": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -118,6 +109,6 @@
       "text": "✨サンハイム102✨2LDK✨静岡県沼津市⭕敷金・礼金無料✨イン..."
     }
   },
-  "hash": "7d2c059f58871f90",
-  "fetched_at": "2026-07-25T16:30:21.652769"
+  "hash": "fe95ecddb4a1796d",
+  "fetched_at": "2026-07-25T23:19:50.241873"
 }

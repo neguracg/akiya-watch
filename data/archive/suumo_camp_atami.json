@@ -20,5 +20,27 @@
     "text": "桜木町 2800万円",
     "removed_on": "2026-07-24",
     "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78377781/|泉 880万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市泉",
+    "price_man": 880,
+    "area_sqm": 229.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78377781/",
+    "text": "泉 880万円",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20956979/|熱海 3880万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市熱海",
+    "price_man": 3880,
+    "area_sqm": 269.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_20956979/",
+    "text": "熱海 3880万円",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 土地 熱海市"
   }
 }

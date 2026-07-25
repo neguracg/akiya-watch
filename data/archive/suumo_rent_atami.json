@@ -1,15 +1,4 @@
 {
-  "https://suumo.jp/chintai/jnc_000108216283/|プラムハイツ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県熱海市梅花町",
-    "price_man": 5.0,
-    "area_sqm": 33.1,
-    "url": "https://suumo.jp/chintai/jnc_000108216283/",
-    "text": "プラムハイツ",
-    "removed_on": "2026-07-25",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000106642020/|デュピア熱海": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -29,6 +18,83 @@
     "area_sqm": 30.8,
     "url": "https://suumo.jp/chintai/jnc_000093375144/?bc=100515575644",
     "text": "咲見町ハイツ",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107544710/|東海マンション": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市中央町",
+    "price_man": 8.8,
+    "area_sqm": 25.2,
+    "url": "https://suumo.jp/chintai/jnc_000107544710/",
+    "text": "東海マンション",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107932915/|ソフィア熱海デイサス": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市咲見町",
+    "price_man": 18.0,
+    "area_sqm": 69.1,
+    "url": "https://suumo.jp/chintai/jnc_000107932915/",
+    "text": "ソフィア熱海デイサス",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188|プラムハイツ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市梅花町",
+    "price_man": 5.0,
+    "area_sqm": 33.1,
+    "url": "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188",
+    "text": "プラムハイツ",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107851412/?bc=100511824595|熱海プラザ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市春日町",
+    "price_man": 19.8,
+    "area_sqm": 95.7,
+    "url": "https://suumo.jp/chintai/jnc_000107851412/?bc=100511824595",
+    "text": "熱海プラザ",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000105691634/?bc=100495244371|熱海プラザ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市春日町",
+    "price_man": 23.5,
+    "area_sqm": 106.7,
+    "url": "https://suumo.jp/chintai/jnc_000105691634/?bc=100495244371",
+    "text": "熱海プラザ",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427|ビレッジハウス熱海１号棟": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市山手町",
+    "price_man": 3.67,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427",
+    "text": "ビレッジハウス熱海１号棟",
+    "removed_on": "2026-07-25",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107881410/?bc=100512076981|ビレッジハウス熱海2号棟": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "静岡県熱海市山手町",
+    "price_man": 3.18,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000107881410/?bc=100512076981",
+    "text": "ビレッジハウス熱海2号棟",
     "removed_on": "2026-07-25",
     "site_name": "SUUMO 賃貸 熱海市"
   }

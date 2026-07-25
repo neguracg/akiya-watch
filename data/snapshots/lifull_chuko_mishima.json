@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.homes.co.jp/kodate/b-1556780000227/|中古戸建　三島市萩　再生住宅": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "中古戸建　三島市萩　再生住宅",
+      "price_man": 2649,
+      "area_sqm": 197.9,
+      "url": "https://www.homes.co.jp/kodate/b-1556780000227/",
+      "text": "中古戸建　三島市萩　再生住宅"
+    },
     "https://www.homes.co.jp/kodate/b-1265050002580/|三島市梅名中古住宅": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-07-25",
@@ -63,24 +72,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1265050002139/",
       "text": "三島市東大場二丁目中古住宅"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002560/|三島市徳倉中古住宅": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-07-25",
-      "location": "三島市徳倉中古住宅",
-      "price_man": 3480,
-      "area_sqm": 105.6,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002560/",
-      "text": "三島市徳倉中古住宅"
-    },
-    "https://www.homes.co.jp/kodate/b-1490460002333/|三島市富士ビレッジ　中古戸建": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-07-25",
-      "location": "三島市富士ビレッジ　中古戸建",
-      "price_man": 3499,
-      "area_sqm": 178.0,
-      "url": "https://www.homes.co.jp/kodate/b-1490460002333/",
-      "text": "三島市富士ビレッジ　中古戸建"
-    },
     "https://www.homes.co.jp/kodate/b-1500050000625/|売中古戸建　三島市富士ビレッジ": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-07-25",
@@ -98,6 +89,24 @@
       "area_sqm": 153.1,
       "url": "https://www.homes.co.jp/kodate/b-1500050000683/",
       "text": "売中古戸建　三島市安久"
+    },
+    "https://www.homes.co.jp/kodate/b-1490460002333/|三島市富士ビレッジ　中古戸建": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-07-25",
+      "location": "三島市富士ビレッジ　中古戸建",
+      "price_man": 3499,
+      "area_sqm": 178.0,
+      "url": "https://www.homes.co.jp/kodate/b-1490460002333/",
+      "text": "三島市富士ビレッジ　中古戸建"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002560/|三島市徳倉中古住宅": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-07-25",
+      "location": "三島市徳倉中古住宅",
+      "price_man": 3480,
+      "area_sqm": 105.6,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002560/",
+      "text": "三島市徳倉中古住宅"
     },
     "https://www.homes.co.jp/kodate/b-1500050000501/|売中古戸建　三島市御園": {
       "first_seen": "2026-06-21",
@@ -117,15 +126,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1490460001877/",
       "text": "三島市御園　中古戸建"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002470/|三島市佐野見晴台1丁目中古住宅": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-07-25",
-      "location": "三島市佐野見晴台1丁目中古住宅",
-      "price_man": 4700,
-      "area_sqm": 252.3,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002470/",
-      "text": "三島市佐野見晴台1丁目中古住宅"
-    },
     "https://www.homes.co.jp/kodate/b-33333630000001/|JR東海道本線 三島駅 徒歩22分": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-07-25",
@@ -134,6 +134,15 @@
       "area_sqm": 103.7,
       "url": "https://www.homes.co.jp/kodate/b-33333630000001/",
       "text": "JR東海道本線 三島駅 徒歩22分"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002470/|三島市佐野見晴台1丁目中古住宅": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-07-25",
+      "location": "三島市佐野見晴台1丁目中古住宅",
+      "price_man": 4700,
+      "area_sqm": 252.3,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002470/",
+      "text": "三島市佐野見晴台1丁目中古住宅"
     },
     "https://www.homes.co.jp/kodate/b-1265050002679/|三島市新谷中古住宅": {
       "first_seen": "2026-07-19",
@@ -225,15 +234,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1500050000524/",
       "text": "売中古戸建　三島市徳倉3丁目"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002639/|三島市佐野見晴台中古住宅": {
-      "first_seen": "2026-06-25",
-      "last_seen": "2026-07-25",
-      "location": "三島市佐野見晴台中古住宅",
-      "price_man": 1380,
-      "area_sqm": 207.1,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002639/",
-      "text": "三島市佐野見晴台中古住宅"
-    },
     "https://www.homes.co.jp/kodate/b-1265050002374/|三島市徳倉三丁目中古住宅": {
       "first_seen": "2026-06-27",
       "last_seen": "2026-07-25",
@@ -243,14 +243,14 @@
       "url": "https://www.homes.co.jp/kodate/b-1265050002374/",
       "text": "三島市徳倉三丁目中古住宅"
     },
-    "https://www.homes.co.jp/kodate/b-1531160000030/|三島市川原ケ谷（三島駅）　木造二階建住宅": {
-      "first_seen": "2026-07-11",
+    "https://www.homes.co.jp/kodate/b-1265050002639/|三島市佐野見晴台中古住宅": {
+      "first_seen": "2026-06-25",
       "last_seen": "2026-07-25",
-      "location": "三島市川原ケ谷（三島駅）　木造二階建住宅",
-      "price_man": 980,
-      "area_sqm": 122.5,
-      "url": "https://www.homes.co.jp/kodate/b-1531160000030/",
-      "text": "三島市川原ケ谷（三島駅）　木造二階建住宅"
+      "location": "三島市佐野見晴台中古住宅",
+      "price_man": 1380,
+      "area_sqm": 207.1,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002639/",
+      "text": "三島市佐野見晴台中古住宅"
     },
     "https://www.homes.co.jp/kodate/b-1475010001832/|三島市錦が丘　中古一戸建て": {
       "first_seen": "2026-07-20",
@@ -271,6 +271,6 @@
       "text": "三島市錦が丘　中古戸建"
     }
   },
-  "hash": "913f2f812e9a2cc8",
-  "fetched_at": "2026-07-25T16:11:42.560068"
+  "hash": "6b353069d9866308",
+  "fetched_at": "2026-07-25T23:00:42.993981"
 }

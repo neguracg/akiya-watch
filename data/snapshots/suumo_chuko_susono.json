@@ -297,6 +297,15 @@
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21034120/",
       "text": "徒歩圏内で生活に必要な施設が揃う高い利便性。駐車３台可能です。"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77543535/|☆長期優良住宅・「耐震等級３」取得、ソーラーサーキット搭載で快適生活！": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-07-25",
+      "location": "静岡県裾野市平松",
+      "price_man": 3398,
+      "area_sqm": 144.1,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77543535/",
+      "text": "☆長期優良住宅・「耐震等級３」取得、ソーラーサーキット搭載で快適生活！"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76635360/|平松（裾野駅） 3398万円": {
       "first_seen": "2026-06-21",
       "last_seen": "2026-07-25",
@@ -314,15 +323,6 @@
       "area_sqm": 144.1,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77531009/",
       "text": "『裾野』駅まで徒歩約7分！平成建設施工！長期優良住宅！"
-    },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77543535/|☆長期優良住宅・「耐震等級３」取得、ソーラーサーキット搭載で快適生活！": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-07-25",
-      "location": "静岡県裾野市平松",
-      "price_man": 3398,
-      "area_sqm": 144.1,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77543535/",
-      "text": "☆長期優良住宅・「耐震等級３」取得、ソーラーサーキット搭載で快適生活！"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20522890/|【築浅物件】吹抜があるリビングで陽当りと風通しが良く、開放感あるお家です！": {
       "first_seen": "2026-06-21",
@@ -406,6 +406,6 @@
       "text": "アトリエ、作業室有"
     }
   },
-  "hash": "de98211fff53e40e",
-  "fetched_at": "2026-07-25T16:12:18.898627"
+  "hash": "efda856a9f348a04",
+  "fetched_at": "2026-07-25T23:01:22.759649"
 }

@@ -1,13 +1,40 @@
 {
   "keys": {
-    "https://suumo.jp/chintai/jnc_000107566350/|サニーガーデン間宮II": {
+    "https://suumo.jp/chintai/jnc_000108761167/|ＷＩＴ（ウィット）": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 5.7,
-      "area_sqm": 34.0,
-      "url": "https://suumo.jp/chintai/jnc_000107566350/",
-      "text": "サニーガーデン間宮II"
+      "location": "静岡県田方郡函南町上沢",
+      "price_man": 6.4,
+      "area_sqm": 47.9,
+      "url": "https://suumo.jp/chintai/jnc_000108761167/",
+      "text": "ＷＩＴ（ウィット）"
+    },
+    "https://suumo.jp/chintai/jnc_000096610258/|ラ・メーグII": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 4.8,
+      "area_sqm": 35.1,
+      "url": "https://suumo.jp/chintai/jnc_000096610258/",
+      "text": "ラ・メーグII"
+    },
+    "https://suumo.jp/chintai/jnc_000108761168/|ラ・メーグII": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 4.8,
+      "area_sqm": 29.4,
+      "url": "https://suumo.jp/chintai/jnc_000108761168/",
+      "text": "ラ・メーグII"
+    },
+    "https://suumo.jp/chintai/jnc_000055106300/|ラ・メーグII": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 4.9,
+      "area_sqm": 29.4,
+      "url": "https://suumo.jp/chintai/jnc_000055106300/",
+      "text": "ラ・メーグII"
     },
     "https://suumo.jp/chintai/jnc_000108136862/|サニーガーデン間宮II": {
       "first_seen": "2026-07-25",
@@ -18,68 +45,32 @@
       "url": "https://suumo.jp/chintai/jnc_000108136862/",
       "text": "サニーガーデン間宮II"
     },
-    "https://suumo.jp/chintai/jnc_000108735243/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+    "https://suumo.jp/chintai/jnc_000107566350/|サニーガーデン間宮II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.3,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000108735243/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
-    },
-    "https://suumo.jp/chintai/jnc_000107250023/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
+      "location": "静岡県田方郡函南町間宮",
       "price_man": 5.7,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000107250023/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
+      "area_sqm": 34.0,
+      "url": "https://suumo.jp/chintai/jnc_000107566350/",
+      "text": "サニーガーデン間宮II"
     },
-    "https://suumo.jp/chintai/jnc_000108735244/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000108735244/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
-    },
-    "https://suumo.jp/chintai/jnc_000106564382/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000106564382/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
-    },
-    "https://suumo.jp/chintai/jnc_000108735242/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000108735242/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
-    },
-    "https://suumo.jp/chintai/jnc_000108749212/|伊豆箱根鉄道駿豆線 大場駅 3階建 築13年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 6.7,
-      "area_sqm": 50.3,
-      "url": "https://suumo.jp/chintai/jnc_000108749212/",
-      "text": "伊豆箱根鉄道駿豆線 大場駅 3階建 築13年"
-    },
-    "https://suumo.jp/chintai/jnc_000084638065/|レーベン": {
+    "https://suumo.jp/chintai/jnc_000017979452/|レイ・スプリングII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
-      "price_man": 6.0,
-      "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000084638065/",
-      "text": "レーベン"
+      "price_man": 6.3,
+      "area_sqm": 51.2,
+      "url": "https://suumo.jp/chintai/jnc_000017979452/",
+      "text": "レイ・スプリングII"
+    },
+    "https://suumo.jp/chintai/jnc_000108225491/|ラ・エトワール": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 4.9,
+      "area_sqm": 33.0,
+      "url": "https://suumo.jp/chintai/jnc_000108225491/",
+      "text": "ラ・エトワール"
     },
     "https://suumo.jp/chintai/jnc_000108711617/|プランドールＭ": {
       "first_seen": "2026-07-25",
@@ -90,59 +81,14 @@
       "url": "https://suumo.jp/chintai/jnc_000108711617/",
       "text": "プランドールＭ"
     },
-    "https://suumo.jp/chintai/jnc_000093238312/|伊豆箱根鉄道駿豆線 大場駅 2階建 築34年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 5.7,
-      "area_sqm": 54.6,
-      "url": "https://suumo.jp/chintai/jnc_000093238312/",
-      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築34年"
-    },
-    "https://suumo.jp/chintai/jnc_000108735245/|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築26年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 5.2,
-      "area_sqm": 42.8,
-      "url": "https://suumo.jp/chintai/jnc_000108735245/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築26年"
-    },
-    "https://suumo.jp/chintai/jnc_000108167711/|レサージュＡＯＮＯ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 7.0,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000108167711/",
-      "text": "レサージュＡＯＮＯ"
-    },
-    "https://suumo.jp/chintai/jnc_000072964855/|レサージュＡＯＮＯ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 7.0,
-      "area_sqm": 67.7,
-      "url": "https://suumo.jp/chintai/jnc_000072964855/",
-      "text": "レサージュＡＯＮＯ"
-    },
-    "https://suumo.jp/chintai/jnc_000108500547/|プランドール": {
+    "https://suumo.jp/chintai/jnc_000108767576/|プランドール": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.8,
       "area_sqm": 52.2,
-      "url": "https://suumo.jp/chintai/jnc_000108500547/",
+      "url": "https://suumo.jp/chintai/jnc_000108767576/",
       "text": "プランドール"
-    },
-    "https://suumo.jp/chintai/jnc_000107438718/|KMT沙稀（ケイエムティサキ）": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.1,
-      "area_sqm": 45.8,
-      "url": "https://suumo.jp/chintai/jnc_000107438718/",
-      "text": "KMT沙稀（ケイエムティサキ）"
     },
     "https://suumo.jp/chintai/jnc_000107438717/|KMT沙稀（ケイエムティサキ）": {
       "first_seen": "2026-07-25",
@@ -151,6 +97,15 @@
       "price_man": 7.1,
       "area_sqm": 45.8,
       "url": "https://suumo.jp/chintai/jnc_000107438717/",
+      "text": "KMT沙稀（ケイエムティサキ）"
+    },
+    "https://suumo.jp/chintai/jnc_000107438718/|KMT沙稀（ケイエムティサキ）": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 7.1,
+      "area_sqm": 45.8,
+      "url": "https://suumo.jp/chintai/jnc_000107438718/",
       "text": "KMT沙稀（ケイエムティサキ）"
     },
     "https://suumo.jp/chintai/jnc_000107438719/|KMT沙稀（ケイエムティサキ）": {
@@ -171,15 +126,6 @@
       "url": "https://suumo.jp/chintai/jnc_000048999299/",
       "text": "KMT沙稀（ケイエムティサキ）"
     },
-    "https://suumo.jp/chintai/jnc_000107639655/|ラ・メーグ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 4.9,
-      "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000107639655/",
-      "text": "ラ・メーグ"
-    },
     "https://suumo.jp/chintai/jnc_000104467406/|ロイヤルレジデンス　C": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -198,23 +144,59 @@
       "url": "https://suumo.jp/chintai/jnc_000108650061/",
       "text": "ロイヤルレジデンス　C"
     },
-    "https://suumo.jp/chintai/jnc_000107866593/|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築29年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 3.8,
-      "area_sqm": 40.9,
-      "url": "https://suumo.jp/chintai/jnc_000107866593/",
-      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築29年"
-    },
-    "https://suumo.jp/chintai/jnc_000082753646/|メゾン来光　Ａ": {
+    "https://suumo.jp/chintai/jnc_000082753646/|メゾン来光A": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 3.26,
       "area_sqm": 20.0,
       "url": "https://suumo.jp/chintai/jnc_000082753646/",
-      "text": "メゾン来光　Ａ"
+      "text": "メゾン来光A"
+    },
+    "https://suumo.jp/chintai/jnc_000108735243/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.3,
+      "area_sqm": 47.4,
+      "url": "https://suumo.jp/chintai/jnc_000108735243/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000108735244/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 47.4,
+      "url": "https://suumo.jp/chintai/jnc_000108735244/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000107250023/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 53.3,
+      "url": "https://suumo.jp/chintai/jnc_000107250023/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000108735242/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 47.4,
+      "url": "https://suumo.jp/chintai/jnc_000108735242/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
+    },
+    "https://suumo.jp/chintai/jnc_000106564382/|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 47.4,
+      "url": "https://suumo.jp/chintai/jnc_000106564382/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築20年"
     },
     "https://suumo.jp/chintai/jnc_000108330036/|リバレイン": {
       "first_seen": "2026-07-25",
@@ -224,6 +206,24 @@
       "area_sqm": 50.3,
       "url": "https://suumo.jp/chintai/jnc_000108330036/",
       "text": "リバレイン"
+    },
+    "https://suumo.jp/chintai/jnc_000108749212/|伊豆箱根鉄道駿豆線 大場駅 3階建 築13年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 6.7,
+      "area_sqm": 50.3,
+      "url": "https://suumo.jp/chintai/jnc_000108749212/",
+      "text": "伊豆箱根鉄道駿豆線 大場駅 3階建 築13年"
+    },
+    "https://suumo.jp/chintai/jnc_000084638065/|レーベン": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 6.0,
+      "area_sqm": 44.1,
+      "url": "https://suumo.jp/chintai/jnc_000084638065/",
+      "text": "レーベン"
     },
     "https://suumo.jp/chintai/jnc_000107871141/|ビヴァシティ函南": {
       "first_seen": "2026-07-25",
@@ -270,130 +270,130 @@
       "url": "https://suumo.jp/chintai/jnc_000107307362/",
       "text": "ヘレスブルク"
     },
-    "https://suumo.jp/chintai/jnc_000092929464/|ファミールミタ": {
+    "https://suumo.jp/chintai/jnc_000092929464/|ファミールミタ Ｃ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.7,
       "area_sqm": 54.6,
       "url": "https://suumo.jp/chintai/jnc_000092929464/",
-      "text": "ファミールミタ"
+      "text": "ファミールミタ Ｃ"
     },
-    "https://suumo.jp/chintai/jnc_000108742953/?bc=100495005854|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000108742953/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.3,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000108742953/?bc=100495005854",
+      "url": "https://suumo.jp/chintai/jnc_000108742953/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000106510638/?bc=100508066601|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000106510637/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.7,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000106510638/?bc=100508066601",
+      "url": "https://suumo.jp/chintai/jnc_000106510637/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000106510637/?bc=100508557709|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000106510638/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.7,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000106510637/?bc=100508557709",
+      "url": "https://suumo.jp/chintai/jnc_000106510638/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000108742952/?bc=100510136197|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000108742952/|サンロード伊豆": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 53.3,
+      "url": "https://suumo.jp/chintai/jnc_000108742952/",
+      "text": "サンロード伊豆"
+    },
+    "https://suumo.jp/chintai/jnc_000107245063/|サンロード伊豆": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 53.3,
+      "url": "https://suumo.jp/chintai/jnc_000107245063/",
+      "text": "サンロード伊豆"
+    },
+    "https://suumo.jp/chintai/jnc_000108742954/|サンロード伊豆": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.7,
+      "area_sqm": 53.3,
+      "url": "https://suumo.jp/chintai/jnc_000108742954/",
+      "text": "サンロード伊豆"
+    },
+    "https://suumo.jp/chintai/jnc_000106557800/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.7,
       "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000108742952/?bc=100510136197",
+      "url": "https://suumo.jp/chintai/jnc_000106557800/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000108742954/?bc=100507495390|サンロード伊豆": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000108742954/?bc=100507495390",
-      "text": "サンロード伊豆"
-    },
-    "https://suumo.jp/chintai/jnc_000107245063/?bc=100500569404|サンロード伊豆": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000107245063/?bc=100500569404",
-      "text": "サンロード伊豆"
-    },
-    "https://suumo.jp/chintai/jnc_000106557800/?bc=100496312271|サンロード伊豆": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.7,
-      "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000106557800/?bc=100496312271",
-      "text": "サンロード伊豆"
-    },
-    "https://suumo.jp/chintai/jnc_000063353914/?bc=100510484418|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000063353914/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.9,
       "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000063353914/?bc=100510484418",
+      "url": "https://suumo.jp/chintai/jnc_000063353914/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000101018653/?bc=100510484432|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000101018653/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 6.0,
       "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000101018653/?bc=100510484432",
+      "url": "https://suumo.jp/chintai/jnc_000101018653/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000107259022/?bc=100506666082|サンロード伊豆": {
+    "https://suumo.jp/chintai/jnc_000107259022/|サンロード伊豆": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 6.0,
       "area_sqm": 47.4,
-      "url": "https://suumo.jp/chintai/jnc_000107259022/?bc=100506666082",
+      "url": "https://suumo.jp/chintai/jnc_000107259022/",
       "text": "サンロード伊豆"
     },
-    "https://suumo.jp/chintai/jnc_000108457790/?bc=100516938296|ブロッサム": {
+    "https://suumo.jp/chintai/jnc_000108457790/?bc=100516377852|ブロッサム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.35,
       "area_sqm": 34.1,
-      "url": "https://suumo.jp/chintai/jnc_000108457790/?bc=100516938296",
+      "url": "https://suumo.jp/chintai/jnc_000108457790/?bc=100516377852",
       "text": "ブロッサム"
     },
-    "https://suumo.jp/chintai/jnc_000108263927/?bc=100515319605|ブロッサム": {
+    "https://suumo.jp/chintai/jnc_000108263927/?bc=100515145796|ブロッサム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.35,
       "area_sqm": 34.1,
-      "url": "https://suumo.jp/chintai/jnc_000108263927/?bc=100515319605",
+      "url": "https://suumo.jp/chintai/jnc_000108263927/?bc=100515145796",
       "text": "ブロッサム"
     },
-    "https://suumo.jp/chintai/jnc_000108185513/?bc=100514680194|ブロッサム": {
+    "https://suumo.jp/chintai/jnc_000108185513/?bc=100514648700|ブロッサム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.1,
       "area_sqm": 44.7,
-      "url": "https://suumo.jp/chintai/jnc_000108185513/?bc=100514680194",
+      "url": "https://suumo.jp/chintai/jnc_000108185513/?bc=100514648700",
       "text": "ブロッサム"
     },
     "https://suumo.jp/chintai/jnc_000082250713/?bc=100410725599|セレーノｕ．": {
@@ -405,13 +405,13 @@
       "url": "https://suumo.jp/chintai/jnc_000082250713/?bc=100410725599",
       "text": "セレーノｕ．"
     },
-    "https://suumo.jp/chintai/jnc_000105564739/?bc=100494466406|セレーノｕ．": {
+    "https://suumo.jp/chintai/jnc_000105564739/?bc=100505843871|セレーノｕ．": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 6.2,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000105564739/?bc=100494466406",
+      "url": "https://suumo.jp/chintai/jnc_000105564739/?bc=100505843871",
       "text": "セレーノｕ．"
     },
     "https://suumo.jp/chintai/jnc_000107061132/?bc=100513826160|セレーノｕ．": {
@@ -432,13 +432,13 @@
       "url": "https://suumo.jp/chintai/jnc_000093849876/?bc=100410725597",
       "text": "セレーノｕ．"
     },
-    "https://suumo.jp/chintai/jnc_000108523330/?bc=100517455448|バロール道越": {
+    "https://suumo.jp/chintai/jnc_000108523330/?bc=100517129163|バロール道越": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.7,
-      "area_sqm": 64.3,
-      "url": "https://suumo.jp/chintai/jnc_000108523330/?bc=100517455448",
+      "area_sqm": 67.0,
+      "url": "https://suumo.jp/chintai/jnc_000108523330/?bc=100517129163",
       "text": "バロール道越"
     },
     "https://suumo.jp/chintai/jnc_000108209528/?bc=100514838495|リヴェール?Ｂ": {
@@ -459,23 +459,59 @@
       "url": "https://suumo.jp/chintai/jnc_000105813844/?bc=100496312254",
       "text": "リヴェール?Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000093846486/?bc=100504567766|エクセレンスハイム仁田駅前": {
+    "https://suumo.jp/chintai/jnc_000093238312/?bc=100406614751|伊豆箱根鉄道駿豆線 大場駅 2階建 築34年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 5.7,
+      "area_sqm": 54.6,
+      "url": "https://suumo.jp/chintai/jnc_000093238312/?bc=100406614751",
+      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築34年"
+    },
+    "https://suumo.jp/chintai/jnc_000108735245/?bc=100518487209|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築26年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 5.2,
+      "area_sqm": 42.8,
+      "url": "https://suumo.jp/chintai/jnc_000108735245/?bc=100518487209",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築26年"
+    },
+    "https://suumo.jp/chintai/jnc_000108167711/?bc=100514530438|レサージュＡＯＮＯ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 7.0,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000108167711/?bc=100514530438",
+      "text": "レサージュＡＯＮＯ"
+    },
+    "https://suumo.jp/chintai/jnc_000072964855/?bc=100514530350|レサージュＡＯＮＯ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 7.0,
+      "area_sqm": 67.7,
+      "url": "https://suumo.jp/chintai/jnc_000072964855/?bc=100514530350",
+      "text": "レサージュＡＯＮＯ"
+    },
+    "https://suumo.jp/chintai/jnc_000093846486/?bc=100517823697|エクセレンスハイム仁田駅前": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.3,
       "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000093846486/?bc=100504567766",
+      "url": "https://suumo.jp/chintai/jnc_000093846486/?bc=100517823697",
       "text": "エクセレンスハイム仁田駅前"
     },
-    "https://suumo.jp/chintai/jnc_000107674086/?bc=100509266740|メゾン来光Ｃ棟": {
+    "https://suumo.jp/chintai/jnc_000107674086/?bc=100510638617|メゾン来光C": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 5.9,
       "area_sqm": 53.6,
-      "url": "https://suumo.jp/chintai/jnc_000107674086/?bc=100509266740",
-      "text": "メゾン来光Ｃ棟"
+      "url": "https://suumo.jp/chintai/jnc_000107674086/?bc=100510638617",
+      "text": "メゾン来光C"
     },
     "https://suumo.jp/chintai/jnc_000072704650/?bc=100510575844|セジュール函南": {
       "first_seen": "2026-07-25",
@@ -486,31 +522,31 @@
       "url": "https://suumo.jp/chintai/jnc_000072704650/?bc=100510575844",
       "text": "セジュール函南"
     },
-    "https://suumo.jp/chintai/jnc_000107196273/?bc=100506798832|セジュール函南": {
+    "https://suumo.jp/chintai/jnc_000107196273/?bc=100507033850|セジュール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 5.9,
       "area_sqm": 53.5,
-      "url": "https://suumo.jp/chintai/jnc_000107196273/?bc=100506798832",
+      "url": "https://suumo.jp/chintai/jnc_000107196273/?bc=100507033850",
       "text": "セジュール函南"
     },
-    "https://suumo.jp/chintai/jnc_000105969494/?bc=100492059576|アルソールＡ": {
+    "https://suumo.jp/chintai/jnc_000105969494/?bc=100498491169|アルソールＡ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 6.35,
       "area_sqm": 47.8,
-      "url": "https://suumo.jp/chintai/jnc_000105969494/?bc=100492059576",
+      "url": "https://suumo.jp/chintai/jnc_000105969494/?bc=100498491169",
       "text": "アルソールＡ"
     },
-    "https://suumo.jp/chintai/jnc_000107118878/?bc=100501921286|アルソールＢ": {
+    "https://suumo.jp/chintai/jnc_000107118878/?bc=100506708400|アルソールＢ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 6.35,
       "area_sqm": 47.8,
-      "url": "https://suumo.jp/chintai/jnc_000107118878/?bc=100501921286",
+      "url": "https://suumo.jp/chintai/jnc_000107118878/?bc=100506708400",
       "text": "アルソールＢ"
     },
     "https://suumo.jp/chintai/jnc_000102264215/?bc=100467847083|コーポリバーサイド": {
@@ -522,95 +558,86 @@
       "url": "https://suumo.jp/chintai/jnc_000102264215/?bc=100467847083",
       "text": "コーポリバーサイド"
     },
-    "https://suumo.jp/chintai/jnc_000097384051/?bc=100511489420|パライソ": {
+    "https://suumo.jp/chintai/jnc_000097384051/?bc=100513003541|パライソ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 7.9,
       "area_sqm": 68.8,
-      "url": "https://suumo.jp/chintai/jnc_000097384051/?bc=100511489420",
+      "url": "https://suumo.jp/chintai/jnc_000097384051/?bc=100513003541",
       "text": "パライソ"
     },
-    "https://suumo.jp/chintai/jnc_000107639656/?bc=100510262885|メルベーユＳ　/　プロシードＳ　プロシードＳ": {
+    "https://suumo.jp/chintai/jnc_000107639656/?bc=100510538703|メルベーユＳ　　プロシードＳ　プロシードＳ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 7.5,
       "area_sqm": 58.4,
-      "url": "https://suumo.jp/chintai/jnc_000107639656/?bc=100510262885",
-      "text": "メルベーユＳ　/　プロシードＳ　プロシードＳ"
+      "url": "https://suumo.jp/chintai/jnc_000107639656/?bc=100510538703",
+      "text": "メルベーユＳ　　プロシードＳ　プロシードＳ"
     },
-    "https://suumo.jp/chintai/jnc_000093628778/?bc=100408629394|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000093628778/?bc=100408629394|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.6,
       "area_sqm": 62.8,
       "url": "https://suumo.jp/chintai/jnc_000093628778/?bc=100408629394",
-      "text": "オーポン　スクエア"
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000093628781/?bc=100408630819|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000093628781/?bc=100408630819|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.8,
       "area_sqm": 62.8,
       "url": "https://suumo.jp/chintai/jnc_000093628781/?bc=100408630819",
-      "text": "オーポン　スクエア"
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000093628780/?bc=100410044030|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000093628780/?bc=100410044030|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.9,
       "area_sqm": 62.8,
       "url": "https://suumo.jp/chintai/jnc_000093628780/?bc=100410044030",
-      "text": "オーポン　スクエア"
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000107118877/?bc=100506679287|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000107118877/?bc=100506894156|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 7.1,
       "area_sqm": 62.8,
-      "url": "https://suumo.jp/chintai/jnc_000107118877/?bc=100506679287",
-      "text": "オーポン　スクエア"
+      "url": "https://suumo.jp/chintai/jnc_000107118877/?bc=100506894156",
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000108263925/?bc=100515136558|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000108263925/?bc=100515136558|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 7.4,
       "area_sqm": 62.8,
       "url": "https://suumo.jp/chintai/jnc_000108263925/?bc=100515136558",
-      "text": "オーポン　スクエア"
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000108263926/?bc=100009155761|オーポン　スクエア": {
+    "https://suumo.jp/chintai/jnc_000108263926/?bc=100516415984|オーポン　ヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 7.4,
       "area_sqm": 62.8,
-      "url": "https://suumo.jp/chintai/jnc_000108263926/?bc=100009155761",
-      "text": "オーポン　スクエア"
+      "url": "https://suumo.jp/chintai/jnc_000108263926/?bc=100516415984",
+      "text": "オーポン　ヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000096610258/?bc=100419473609|ラ・メーグII": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 4.8,
-      "area_sqm": 35.1,
-      "url": "https://suumo.jp/chintai/jnc_000096610258/?bc=100419473609",
-      "text": "ラ・メーグII"
-    },
-    "https://suumo.jp/chintai/jnc_000055106300/?bc=100498445563|ラ・メーグII": {
+    "https://suumo.jp/chintai/jnc_000107639655/?bc=100510265262|ラ・メーグ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 4.9,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000055106300/?bc=100498445563",
-      "text": "ラ・メーグII"
+      "url": "https://suumo.jp/chintai/jnc_000107639655/?bc=100510265262",
+      "text": "ラ・メーグ"
     },
     "https://suumo.jp/chintai/jnc_000040502694/?bc=100508155928|Ａ－フラッツ": {
       "first_seen": "2026-07-25",
@@ -666,85 +693,40 @@
       "url": "https://suumo.jp/chintai/jnc_000079156504/?bc=100517874116",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築34年"
     },
-    "https://suumo.jp/chintai/jnc_000108225491/?bc=100514688202|ラ・エトワール": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 4.9,
-      "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000108225491/?bc=100514688202",
-      "text": "ラ・エトワール"
-    },
-    "https://suumo.jp/chintai/jnc_000056527397/?bc=100509129639|エトワールマリン": {
+    "https://suumo.jp/chintai/jnc_000056527397/?bc=100508857584|エトワールマリン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.5,
       "area_sqm": 38.7,
-      "url": "https://suumo.jp/chintai/jnc_000056527397/?bc=100509129639",
+      "url": "https://suumo.jp/chintai/jnc_000056527397/?bc=100508857584",
       "text": "エトワールマリン"
     },
-    "https://suumo.jp/chintai/jnc_000108451970/?bc=100510710744|エトワールマリン": {
+    "https://suumo.jp/chintai/jnc_000108451970/?bc=100515531159|エトワールマリン": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.7,
       "area_sqm": 38.7,
-      "url": "https://suumo.jp/chintai/jnc_000108451970/?bc=100510710744",
+      "url": "https://suumo.jp/chintai/jnc_000108451970/?bc=100515531159",
       "text": "エトワールマリン"
     },
-    "https://suumo.jp/chintai/jnc_000105384924/?bc=100497774970|エヴァーグリーン": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 4.7,
-      "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000105384924/?bc=100497774970",
-      "text": "エヴァーグリーン"
-    },
-    "https://suumo.jp/chintai/jnc_000106828677/?bc=100492904003|エヴァーグリーン": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 4.7,
-      "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000106828677/?bc=100492904003",
-      "text": "エヴァーグリーン"
-    },
-    "https://suumo.jp/chintai/jnc_000098135415/?bc=100434442460|エヴァーグリーン": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 4.7,
-      "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000098135415/?bc=100434442460",
-      "text": "エヴァーグリーン"
-    },
-    "https://suumo.jp/chintai/jnc_000101523777/?bc=100486192038|エヴァーグリーン": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 4.7,
-      "area_sqm": 24.8,
-      "url": "https://suumo.jp/chintai/jnc_000101523777/?bc=100486192038",
-      "text": "エヴァーグリーン"
-    },
-    "https://suumo.jp/chintai/jnc_000108298325/?bc=100515671805|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000108640510/?bc=100517712045|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.4,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000108298325/?bc=100515671805",
+      "url": "https://suumo.jp/chintai/jnc_000108640510/?bc=100517712045",
       "text": "プリマヴェーラ"
     },
-    "https://suumo.jp/chintai/jnc_000108640510/?bc=100517874153|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000108298325/?bc=100515297820|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.4,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000108640510/?bc=100517874153",
+      "url": "https://suumo.jp/chintai/jnc_000108298325/?bc=100515297820",
       "text": "プリマヴェーラ"
     },
     "https://suumo.jp/chintai/jnc_000108073592/?bc=100513763669|プリマヴェーラ": {
@@ -756,22 +738,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108073592/?bc=100513763669",
       "text": "プリマヴェーラ"
     },
-    "https://suumo.jp/chintai/jnc_000088538083/?bc=100488421191|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000096626105/?bc=100502493453|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.4,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000088538083/?bc=100488421191",
+      "url": "https://suumo.jp/chintai/jnc_000096626105/?bc=100502493453",
       "text": "プリマヴェーラ"
     },
-    "https://suumo.jp/chintai/jnc_000096626105/?bc=100488421189|プリマヴェーラ": {
+    "https://suumo.jp/chintai/jnc_000088538083/?bc=100502493454|プリマヴェーラ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.4,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000096626105/?bc=100488421189",
+      "url": "https://suumo.jp/chintai/jnc_000088538083/?bc=100502493454",
       "text": "プリマヴェーラ"
     },
     "https://suumo.jp/chintai/jnc_000099916509/?bc=100419811254|シティパレス柿島": {
@@ -783,13 +765,13 @@
       "url": "https://suumo.jp/chintai/jnc_000099916509/?bc=100419811254",
       "text": "シティパレス柿島"
     },
-    "https://suumo.jp/chintai/jnc_000098995127/?bc=100465618882|シティパレス柿島": {
+    "https://suumo.jp/chintai/jnc_000098995127/?bc=100465638853|シティパレス柿島": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.2,
       "area_sqm": 52.0,
-      "url": "https://suumo.jp/chintai/jnc_000098995127/?bc=100465618882",
+      "url": "https://suumo.jp/chintai/jnc_000098995127/?bc=100465638853",
       "text": "シティパレス柿島"
     },
     "https://suumo.jp/chintai/jnc_000097450086/?bc=100440470480|シティパレス柿島": {
@@ -801,22 +783,31 @@
       "url": "https://suumo.jp/chintai/jnc_000097450086/?bc=100440470480",
       "text": "シティパレス柿島"
     },
-    "https://suumo.jp/chintai/jnc_000092209644/?bc=100392224786|シティパレス柿島": {
+    "https://suumo.jp/chintai/jnc_000092209644/?bc=100392142966|シティパレス柿島": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.3,
       "area_sqm": 52.0,
-      "url": "https://suumo.jp/chintai/jnc_000092209644/?bc=100392224786",
+      "url": "https://suumo.jp/chintai/jnc_000092209644/?bc=100392142966",
       "text": "シティパレス柿島"
     },
-    "https://suumo.jp/chintai/jnc_000039353621/?bc=100465618326|アプローズ": {
+    "https://suumo.jp/chintai/jnc_000039353621/?bc=100465639412|アプローズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.5,
       "area_sqm": 22.0,
-      "url": "https://suumo.jp/chintai/jnc_000039353621/?bc=100465618326",
+      "url": "https://suumo.jp/chintai/jnc_000039353621/?bc=100465639412",
+      "text": "アプローズ"
+    },
+    "https://suumo.jp/chintai/jnc_000083094646/?bc=100514251915|アプローズ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 4.6,
+      "area_sqm": 22.0,
+      "url": "https://suumo.jp/chintai/jnc_000083094646/?bc=100514251915",
       "text": "アプローズ"
     },
     "https://suumo.jp/chintai/jnc_000063227677/?bc=100465617640|アプローズ": {
@@ -828,40 +819,31 @@
       "url": "https://suumo.jp/chintai/jnc_000063227677/?bc=100465617640",
       "text": "アプローズ"
     },
-    "https://suumo.jp/chintai/jnc_000083094646/?bc=100465638817|アプローズ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 4.6,
-      "area_sqm": 22.0,
-      "url": "https://suumo.jp/chintai/jnc_000083094646/?bc=100465638817",
-      "text": "アプローズ"
-    },
-    "https://suumo.jp/chintai/jnc_000073279860/?bc=100516512620|アプローズ": {
+    "https://suumo.jp/chintai/jnc_000073279860/?bc=100516613765|アプローズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.9,
       "area_sqm": 30.0,
-      "url": "https://suumo.jp/chintai/jnc_000073279860/?bc=100516512620",
+      "url": "https://suumo.jp/chintai/jnc_000073279860/?bc=100516613765",
       "text": "アプローズ"
     },
-    "https://suumo.jp/chintai/jnc_000090338827/?bc=100515621704|アプローズ": {
+    "https://suumo.jp/chintai/jnc_000090338827/?bc=100514109765|アプローズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.7,
       "area_sqm": 22.0,
-      "url": "https://suumo.jp/chintai/jnc_000090338827/?bc=100515621704",
+      "url": "https://suumo.jp/chintai/jnc_000090338827/?bc=100514109765",
       "text": "アプローズ"
     },
-    "https://suumo.jp/chintai/jnc_000059358227/?bc=100344154646|アプローズ": {
+    "https://suumo.jp/chintai/jnc_000059358227/?bc=100465483768|アプローズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 5.3,
       "area_sqm": 22.0,
-      "url": "https://suumo.jp/chintai/jnc_000059358227/?bc=100344154646",
+      "url": "https://suumo.jp/chintai/jnc_000059358227/?bc=100465483768",
       "text": "アプローズ"
     },
     "https://suumo.jp/chintai/jnc_000062946536/?bc=100240202917|アプローズ": {
@@ -882,68 +864,113 @@
       "url": "https://suumo.jp/chintai/jnc_000105206261/?bc=100491470032",
       "text": "ＪＲ東海道本線 函南駅 地上2階建 築54年"
     },
-    "https://suumo.jp/chintai/jnc_000107921168/?bc=100513826145|ルーチェ": {
+    "https://suumo.jp/chintai/jnc_000105384924/?bc=100497774970|エヴァーグリーン": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 4.7,
+      "area_sqm": 24.8,
+      "url": "https://suumo.jp/chintai/jnc_000105384924/?bc=100497774970",
+      "text": "エヴァーグリーン"
+    },
+    "https://suumo.jp/chintai/jnc_000098135415/?bc=100504379759|エヴァーグリーン": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 4.7,
+      "area_sqm": 24.8,
+      "url": "https://suumo.jp/chintai/jnc_000098135415/?bc=100504379759",
+      "text": "エヴァーグリーン"
+    },
+    "https://suumo.jp/chintai/jnc_000106828677/?bc=100496065707|エヴァーグリーン": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 4.7,
+      "area_sqm": 24.8,
+      "url": "https://suumo.jp/chintai/jnc_000106828677/?bc=100496065707",
+      "text": "エヴァーグリーン"
+    },
+    "https://suumo.jp/chintai/jnc_000101523777/?bc=100498432688|エヴァーグリーン": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 4.7,
+      "area_sqm": 24.8,
+      "url": "https://suumo.jp/chintai/jnc_000101523777/?bc=100498432688",
+      "text": "エヴァーグリーン"
+    },
+    "https://suumo.jp/chintai/jnc_000107921168/?bc=100508483438|ルーチェ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 8.05,
       "area_sqm": 56.1,
-      "url": "https://suumo.jp/chintai/jnc_000107921168/?bc=100513826145",
+      "url": "https://suumo.jp/chintai/jnc_000107921168/?bc=100508483438",
       "text": "ルーチェ"
     },
-    "https://suumo.jp/chintai/jnc_000106602359/?bc=100507197546|シャトーヴェルツ": {
+    "https://suumo.jp/chintai/jnc_000106602359/?bc=100502673516|シャトーヴェルツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.4,
-      "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000106602359/?bc=100507197546",
+      "area_sqm": 57.3,
+      "url": "https://suumo.jp/chintai/jnc_000106602359/?bc=100502673516",
       "text": "シャトーヴェルツ"
     },
-    "https://suumo.jp/chintai/jnc_000107799727/?bc=100511793939|タウニーくわはら": {
+    "https://suumo.jp/chintai/jnc_000107799727/?bc=100515531022|タウニーくわはら": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町桑原",
       "price_man": 3.8,
       "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000107799727/?bc=100511793939",
+      "url": "https://suumo.jp/chintai/jnc_000107799727/?bc=100515531022",
       "text": "タウニーくわはら"
     },
-    "https://suumo.jp/chintai/jnc_000106468892/?bc=100478255396|セジュールＳ・函南": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 5.8,
-      "area_sqm": 40.0,
-      "url": "https://suumo.jp/chintai/jnc_000106468892/?bc=100478255396",
-      "text": "セジュールＳ・函南"
-    },
-    "https://suumo.jp/chintai/jnc_000106468891/?bc=100501926238|セジュールＳ・函南": {
+    "https://suumo.jp/chintai/jnc_000106468892/?bc=100501314069|セジュールＳ・函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 39.1,
-      "url": "https://suumo.jp/chintai/jnc_000106468891/?bc=100501926238",
+      "url": "https://suumo.jp/chintai/jnc_000106468892/?bc=100501314069",
       "text": "セジュールＳ・函南"
     },
-    "https://suumo.jp/chintai/jnc_000101304465/?bc=100467281561|メゾン函南": {
+    "https://suumo.jp/chintai/jnc_000106468891/?bc=100501783156|セジュールＳ・函南": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 5.8,
+      "area_sqm": 39.1,
+      "url": "https://suumo.jp/chintai/jnc_000106468891/?bc=100501783156",
+      "text": "セジュールＳ・函南"
+    },
+    "https://suumo.jp/chintai/jnc_000101304465/?bc=100467301611|メゾン函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 4.8,
       "area_sqm": 35.9,
-      "url": "https://suumo.jp/chintai/jnc_000101304465/?bc=100467281561",
+      "url": "https://suumo.jp/chintai/jnc_000101304465/?bc=100467301611",
       "text": "メゾン函南"
     },
-    "https://suumo.jp/chintai/jnc_000087763093/?bc=100497405660|楠の台ハイツ": {
+    "https://suumo.jp/chintai/jnc_000087763093/?bc=100503455560|楠の台ハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.7,
       "area_sqm": 44.8,
-      "url": "https://suumo.jp/chintai/jnc_000087763093/?bc=100497405660",
+      "url": "https://suumo.jp/chintai/jnc_000087763093/?bc=100503455560",
       "text": "楠の台ハイツ"
+    },
+    "https://suumo.jp/chintai/jnc_000107866593/?bc=100518476863|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築29年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 3.8,
+      "area_sqm": 40.9,
+      "url": "https://suumo.jp/chintai/jnc_000107866593/?bc=100518476863",
+      "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築29年"
     },
     "https://suumo.jp/chintai/jnc_000108511482/?bc=100516782432|タウンヒル芹沢’９０": {
       "first_seen": "2026-07-25",
@@ -954,31 +981,31 @@
       "url": "https://suumo.jp/chintai/jnc_000108511482/?bc=100516782432",
       "text": "タウンヒル芹沢’９０"
     },
-    "https://suumo.jp/chintai/jnc_000107806195/?bc=100511728679|像利居": {
+    "https://suumo.jp/chintai/jnc_000107806195/?bc=100517866477|像利居": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 3.8,
       "area_sqm": 40.9,
-      "url": "https://suumo.jp/chintai/jnc_000107806195/?bc=100511728679",
+      "url": "https://suumo.jp/chintai/jnc_000107806195/?bc=100517866477",
       "text": "像利居"
     },
-    "https://suumo.jp/chintai/jnc_000107369460/?bc=100508155923|ＪＲ東海道本線 函南駅 2階建 築38年": {
+    "https://suumo.jp/chintai/jnc_000107369460/?bc=100517866459|ＪＲ東海道本線 函南駅 2階建 築38年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大竹",
       "price_man": 4.5,
       "area_sqm": 34.8,
-      "url": "https://suumo.jp/chintai/jnc_000107369460/?bc=100508155923",
+      "url": "https://suumo.jp/chintai/jnc_000107369460/?bc=100517866459",
       "text": "ＪＲ東海道本線 函南駅 2階建 築38年"
     },
-    "https://suumo.jp/chintai/jnc_000013976647/?bc=100465617905|Ｗｉｎｇ　Ｖｉｅｗ": {
+    "https://suumo.jp/chintai/jnc_000013976647/?bc=100514109783|Ｗｉｎｇ　Ｖｉｅｗ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 3.9,
       "area_sqm": 20.9,
-      "url": "https://suumo.jp/chintai/jnc_000013976647/?bc=100465617905",
+      "url": "https://suumo.jp/chintai/jnc_000013976647/?bc=100514109783",
       "text": "Ｗｉｎｇ　Ｖｉｅｗ"
     },
     "https://suumo.jp/chintai/jnc_000013976648/?bc=000089487291|Ｗｉｎｇ　Ｖｉｅｗ": {
@@ -990,13 +1017,13 @@
       "url": "https://suumo.jp/chintai/jnc_000013976648/?bc=000089487291",
       "text": "Ｗｉｎｇ　Ｖｉｅｗ"
     },
-    "https://suumo.jp/chintai/jnc_000013976650/?bc=100429867066|Ｗｉｎｇ　Ｖｉｅｗ": {
+    "https://suumo.jp/chintai/jnc_000013976650/?bc=100514109775|Ｗｉｎｇ　Ｖｉｅｗ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 4.1,
       "area_sqm": 21.4,
-      "url": "https://suumo.jp/chintai/jnc_000013976650/?bc=100429867066",
+      "url": "https://suumo.jp/chintai/jnc_000013976650/?bc=100514109775",
       "text": "Ｗｉｎｇ　Ｖｉｅｗ"
     },
     "https://suumo.jp/chintai/jnc_000092361506/?bc=100215246144|Ｗｉｎｇ　Ｖｉｅｗ": {
@@ -1017,14 +1044,23 @@
       "url": "https://suumo.jp/chintai/jnc_000016082705/?bc=100459299844",
       "text": "コーポ遠藤"
     },
-    "https://suumo.jp/chintai/jnc_000105580082/?bc=100494560328|セジュール９５２": {
+    "https://suumo.jp/chintai/jnc_000105580082/?bc=100496065710|セジュール９５２": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 4.5,
       "area_sqm": 26.7,
-      "url": "https://suumo.jp/chintai/jnc_000105580082/?bc=100494560328",
+      "url": "https://suumo.jp/chintai/jnc_000105580082/?bc=100496065710",
       "text": "セジュール９５２"
+    },
+    "https://suumo.jp/chintai/jnc_000016670814/?bc=100509919514|シンフォニー": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 12.0,
+      "area_sqm": 91.2,
+      "url": "https://suumo.jp/chintai/jnc_000016670814/?bc=100509919514",
+      "text": "シンフォニー"
     },
     "https://suumo.jp/chintai/jnc_000107597502/?bc=100509982502|シンフォニー": {
       "first_seen": "2026-07-25",
@@ -1035,49 +1071,31 @@
       "url": "https://suumo.jp/chintai/jnc_000107597502/?bc=100509982502",
       "text": "シンフォニー"
     },
-    "https://suumo.jp/chintai/jnc_000013976441/?bc=100510224918|シンフォニー": {
+    "https://suumo.jp/chintai/jnc_000013976441/?bc=100510020975|シンフォニー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 12.0,
       "area_sqm": 91.2,
-      "url": "https://suumo.jp/chintai/jnc_000013976441/?bc=100510224918",
+      "url": "https://suumo.jp/chintai/jnc_000013976441/?bc=100510020975",
       "text": "シンフォニー"
     },
-    "https://suumo.jp/chintai/jnc_000016670814/?bc=100509845522|シンフォニー": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 12.0,
-      "area_sqm": 91.2,
-      "url": "https://suumo.jp/chintai/jnc_000016670814/?bc=100509845522",
-      "text": "シンフォニー"
-    },
-    "https://suumo.jp/chintai/jnc_000017979452/?bc=100514818677|レイ・スプリングII": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 6.3,
-      "area_sqm": 51.2,
-      "url": "https://suumo.jp/chintai/jnc_000017979452/?bc=100514818677",
-      "text": "レイ・スプリングII"
-    },
-    "https://suumo.jp/chintai/jnc_000104702581/?bc=100481589015|プロムナード": {
+    "https://suumo.jp/chintai/jnc_000104702581/?bc=100481554006|プロムナード": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.8,
       "area_sqm": 56.5,
-      "url": "https://suumo.jp/chintai/jnc_000104702581/?bc=100481589015",
+      "url": "https://suumo.jp/chintai/jnc_000104702581/?bc=100481554006",
       "text": "プロムナード"
     },
-    "https://suumo.jp/chintai/jnc_000108177394/?bc=100514648692|プロムナード": {
+    "https://suumo.jp/chintai/jnc_000108177394/?bc=100514585432|プロムナード": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 6.1,
       "area_sqm": 56.5,
-      "url": "https://suumo.jp/chintai/jnc_000108177394/?bc=100514648692",
+      "url": "https://suumo.jp/chintai/jnc_000108177394/?bc=100514585432",
       "text": "プロムナード"
     },
     "https://suumo.jp/chintai/jnc_000067397054/?bc=100465639400|メゾンドマーベリー": {
@@ -1089,15 +1107,6 @@
       "url": "https://suumo.jp/chintai/jnc_000067397054/?bc=100465639400",
       "text": "メゾンドマーベリー"
     },
-    "https://suumo.jp/chintai/jnc_000099295529/?bc=100440401422|メゾンドマーベリー": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町桑原",
-      "price_man": 5.7,
-      "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000099295529/?bc=100440401422",
-      "text": "メゾンドマーベリー"
-    },
     "https://suumo.jp/chintai/jnc_000046057672/?bc=100455356761|メゾンドマーベリー": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1105,6 +1114,15 @@
       "price_man": 5.7,
       "area_sqm": 55.0,
       "url": "https://suumo.jp/chintai/jnc_000046057672/?bc=100455356761",
+      "text": "メゾンドマーベリー"
+    },
+    "https://suumo.jp/chintai/jnc_000099295529/?bc=100440401422|メゾンドマーベリー": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町桑原",
+      "price_man": 5.7,
+      "area_sqm": 55.0,
+      "url": "https://suumo.jp/chintai/jnc_000099295529/?bc=100440401422",
       "text": "メゾンドマーベリー"
     },
     "https://suumo.jp/chintai/jnc_000101414661/?bc=100465483840|メゾンドマーベリー": {
@@ -1125,41 +1143,41 @@
       "url": "https://suumo.jp/chintai/jnc_000105036915/?bc=100498432661",
       "text": "バロールＫ＆Ｙ"
     },
-    "https://suumo.jp/chintai/jnc_000107921169/?bc=100511519686|サン　レジデンス": {
+    "https://suumo.jp/chintai/jnc_000107921169/?bc=100499278826|サン　レジデンス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 5.05,
       "area_sqm": 45.8,
-      "url": "https://suumo.jp/chintai/jnc_000107921169/?bc=100511519686",
+      "url": "https://suumo.jp/chintai/jnc_000107921169/?bc=100499278826",
       "text": "サン　レジデンス"
     },
-    "https://suumo.jp/chintai/jnc_000108263928/?bc=100515471782|コンフォースコートI": {
+    "https://suumo.jp/chintai/jnc_000108263928/?bc=100515297862|コンフォースコートＩ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 5.3,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000108263928/?bc=100515471782",
-      "text": "コンフォースコートI"
+      "url": "https://suumo.jp/chintai/jnc_000108263928/?bc=100515297862",
+      "text": "コンフォースコートＩ"
     },
-    "https://suumo.jp/chintai/jnc_000106416445/?bc=100501209591|コンフォースコートI": {
+    "https://suumo.jp/chintai/jnc_000106416445/?bc=100513826219|コンフォースコートＩ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 5.7,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000106416445/?bc=100501209591",
-      "text": "コンフォースコートI"
+      "url": "https://suumo.jp/chintai/jnc_000106416445/?bc=100513826219",
+      "text": "コンフォースコートＩ"
     },
-    "https://suumo.jp/chintai/jnc_000108067171/?bc=100516888218|バロールＫ＆Ｙ": {
+    "https://suumo.jp/chintai/jnc_000108067171/?bc=100513624739|バロールＫ＆Ｙ　Ｃ棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.7,
-      "area_sqm": 80.0,
-      "url": "https://suumo.jp/chintai/jnc_000108067171/?bc=100516888218",
-      "text": "バロールＫ＆Ｙ"
+      "area_sqm": 55.7,
+      "url": "https://suumo.jp/chintai/jnc_000108067171/?bc=100513624739",
+      "text": "バロールＫ＆Ｙ　Ｃ棟"
     },
     "https://suumo.jp/chintai/jnc_000108067172/?bc=100513622130|伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築26年": {
       "first_seen": "2026-07-25",
@@ -1170,13 +1188,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108067172/?bc=100513622130",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 4階建 築26年"
     },
-    "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884|バロールＫ＆Ｙ　Ｂ棟": {
+    "https://suumo.jp/chintai/jnc_000108073591/?bc=100513577434|バロールＫ＆Ｙ　Ｂ棟": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.8,
       "area_sqm": 79.6,
-      "url": "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884",
+      "url": "https://suumo.jp/chintai/jnc_000108073591/?bc=100513577434",
       "text": "バロールＫ＆Ｙ　Ｂ棟"
     },
     "https://suumo.jp/chintai/jnc_000107632570/?bc=100512958881|バロールＫ＆Ｙ　Ｂ棟": {
@@ -1233,13 +1251,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107784360/?bc=100511721121",
       "text": "バロールＫ＆Ｙ"
     },
-    "https://suumo.jp/chintai/jnc_000078859438/?bc=100308114092|ヴィヴレ仁田": {
+    "https://suumo.jp/chintai/jnc_000078859438/?bc=100308140290|ヴィヴレ仁田": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.0,
       "area_sqm": 52.0,
-      "url": "https://suumo.jp/chintai/jnc_000078859438/?bc=100308114092",
+      "url": "https://suumo.jp/chintai/jnc_000078859438/?bc=100308140290",
       "text": "ヴィヴレ仁田"
     },
     "https://suumo.jp/chintai/jnc_000107793226/?bc=100511344614|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築23年": {
@@ -1260,13 +1278,13 @@
       "url": "https://suumo.jp/chintai/jnc_000063532954/?bc=100224382946",
       "text": "レジデンス加藤"
     },
-    "https://suumo.jp/chintai/jnc_000106767050/?bc=100516770320|レジデンス加藤": {
+    "https://suumo.jp/chintai/jnc_000106767050/?bc=100395742285|レジデンス加藤": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 6.0,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000106767050/?bc=100516770320",
+      "url": "https://suumo.jp/chintai/jnc_000106767050/?bc=100395742285",
       "text": "レジデンス加藤"
     },
     "https://suumo.jp/chintai/jnc_000106411126/?bc=100503454452|アンビシオン函南": {
@@ -1278,31 +1296,31 @@
       "url": "https://suumo.jp/chintai/jnc_000106411126/?bc=100503454452",
       "text": "アンビシオン函南"
     },
-    "https://suumo.jp/chintai/jnc_000089658847/?bc=100489606438|アンビシオン函南": {
+    "https://suumo.jp/chintai/jnc_000104181327/?bc=100483718838|アンビシオン函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 6.2,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000089658847/?bc=100489606438",
+      "url": "https://suumo.jp/chintai/jnc_000104181327/?bc=100483718838",
       "text": "アンビシオン函南"
     },
-    "https://suumo.jp/chintai/jnc_000104181327/?bc=100483541975|アンビシオン函南": {
+    "https://suumo.jp/chintai/jnc_000089658847/?bc=100489535327|アンビシオン函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 6.2,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000104181327/?bc=100483541975",
+      "url": "https://suumo.jp/chintai/jnc_000089658847/?bc=100489535327",
       "text": "アンビシオン函南"
     },
-    "https://suumo.jp/chintai/jnc_000107190446/?bc=100501445547|アンビシオン函南": {
+    "https://suumo.jp/chintai/jnc_000107190446/?bc=100501257308|アンビシオン函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 6.2,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000107190446/?bc=100501445547",
+      "url": "https://suumo.jp/chintai/jnc_000107190446/?bc=100501257308",
       "text": "アンビシオン函南"
     },
     "https://suumo.jp/chintai/jnc_000085117392/?bc=100354720429|伊豆箱根鉄道駿豆線 大場駅 3階建 築27年": {
@@ -1350,15 +1368,6 @@
       "url": "https://suumo.jp/chintai/jnc_000104198063/?bc=100508048191",
       "text": "伊豆箱根鉄道駿豆線 大場駅 3階建 築27年"
     },
-    "https://suumo.jp/chintai/jnc_000107343970/?bc=100507918877|ホゥルサム　８": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町塚本",
-      "price_man": 6.5,
-      "area_sqm": 46.0,
-      "url": "https://suumo.jp/chintai/jnc_000107343970/?bc=100507918877",
-      "text": "ホゥルサム　８"
-    },
     "https://suumo.jp/chintai/jnc_000098648730/?bc=100465483762|ホゥルサム　８": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1366,6 +1375,15 @@
       "price_man": 6.5,
       "area_sqm": 46.0,
       "url": "https://suumo.jp/chintai/jnc_000098648730/?bc=100465483762",
+      "text": "ホゥルサム　８"
+    },
+    "https://suumo.jp/chintai/jnc_000107343970/?bc=100507918877|ホゥルサム　８": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町塚本",
+      "price_man": 6.5,
+      "area_sqm": 46.0,
+      "url": "https://suumo.jp/chintai/jnc_000107343970/?bc=100507918877",
       "text": "ホゥルサム　８"
     },
     "https://suumo.jp/chintai/jnc_000107351872/?bc=100508007025|ホゥルサム　８": {
@@ -1377,22 +1395,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107351872/?bc=100508007025",
       "text": "ホゥルサム　８"
     },
-    "https://suumo.jp/chintai/jnc_000108490780/?bc=100516684127|フォンティーヌ小高壱番館": {
+    "https://suumo.jp/chintai/jnc_000108490780/?bc=100516613786|フォンティーヌ小高壱番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 6.6,
       "area_sqm": 71.7,
-      "url": "https://suumo.jp/chintai/jnc_000108490780/?bc=100516684127",
-      "text": "フォンティーヌ小高壱番館"
-    },
-    "https://suumo.jp/chintai/jnc_000108500546/?bc=100516684139|フォンティーヌ小高壱番館": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 6.6,
-      "area_sqm": 71.7,
-      "url": "https://suumo.jp/chintai/jnc_000108500546/?bc=100516684139",
+      "url": "https://suumo.jp/chintai/jnc_000108490780/?bc=100516613786",
       "text": "フォンティーヌ小高壱番館"
     },
     "https://suumo.jp/chintai/jnc_000108500545/?bc=100516684105|フォンティーヌ小高壱番館": {
@@ -1404,31 +1413,40 @@
       "url": "https://suumo.jp/chintai/jnc_000108500545/?bc=100516684105",
       "text": "フォンティーヌ小高壱番館"
     },
-    "https://suumo.jp/chintai/jnc_000107652184/?bc=100358413350|フォンティーヌ小高壱番館": {
+    "https://suumo.jp/chintai/jnc_000108500546/?bc=100516684139|フォンティーヌ小高壱番館": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 6.6,
+      "area_sqm": 71.7,
+      "url": "https://suumo.jp/chintai/jnc_000108500546/?bc=100516684139",
+      "text": "フォンティーヌ小高壱番館"
+    },
+    "https://suumo.jp/chintai/jnc_000107652184/?bc=100358491606|フォンティーヌ小高壱番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 6.8,
       "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000107652184/?bc=100358413350",
+      "url": "https://suumo.jp/chintai/jnc_000107652184/?bc=100358491606",
       "text": "フォンティーヌ小高壱番館"
     },
-    "https://suumo.jp/chintai/jnc_000107399597/?bc=100386235571|フォンティーヌ小高壱番館": {
+    "https://suumo.jp/chintai/jnc_000107399597/?bc=100386253779|フォンティーヌ小高壱番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.0,
       "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000107399597/?bc=100386235571",
+      "url": "https://suumo.jp/chintai/jnc_000107399597/?bc=100386253779",
       "text": "フォンティーヌ小高壱番館"
     },
-    "https://suumo.jp/chintai/jnc_000108490781/?bc=100516684129|フォンティーヌ小高壱番館": {
+    "https://suumo.jp/chintai/jnc_000108490781/?bc=100516613782|フォンティーヌ小高壱番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.2,
       "area_sqm": 76.0,
-      "url": "https://suumo.jp/chintai/jnc_000108490781/?bc=100516684129",
+      "url": "https://suumo.jp/chintai/jnc_000108490781/?bc=100516613782",
       "text": "フォンティーヌ小高壱番館"
     },
     "https://suumo.jp/chintai/jnc_000086012948/?bc=100516787189|フォンティーヌ小高壱番館": {
@@ -1476,15 +1494,6 @@
       "url": "https://suumo.jp/chintai/jnc_000102727372/?bc=100207184017",
       "text": "レオパレスドヴォール函南"
     },
-    "https://suumo.jp/chintai/jnc_000104679046/?bc=100207183846|レオパレスドヴォール函南": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町肥田",
-      "price_man": 5.1,
-      "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000104679046/?bc=100207183846",
-      "text": "レオパレスドヴォール函南"
-    },
     "https://suumo.jp/chintai/jnc_000104679047/?bc=100406645901|レオパレスドヴォール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1492,6 +1501,15 @@
       "price_man": 5.1,
       "area_sqm": 22.4,
       "url": "https://suumo.jp/chintai/jnc_000104679047/?bc=100406645901",
+      "text": "レオパレスドヴォール函南"
+    },
+    "https://suumo.jp/chintai/jnc_000104679046/?bc=100207183846|レオパレスドヴォール函南": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町肥田",
+      "price_man": 5.1,
+      "area_sqm": 22.4,
+      "url": "https://suumo.jp/chintai/jnc_000104679046/?bc=100207183846",
       "text": "レオパレスドヴォール函南"
     },
     "https://suumo.jp/chintai/jnc_000104679056/?bc=100207183467|レオパレスドヴォール函南": {
@@ -1512,15 +1530,6 @@
       "url": "https://suumo.jp/chintai/jnc_000104679050/?bc=100373146933",
       "text": "レオパレスドヴォール函南"
     },
-    "https://suumo.jp/chintai/jnc_000107425887/?bc=100322641944|エクレール友野": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 5.5,
-      "area_sqm": 48.7,
-      "url": "https://suumo.jp/chintai/jnc_000107425887/?bc=100322641944",
-      "text": "エクレール友野"
-    },
     "https://suumo.jp/chintai/jnc_000107425888/?bc=100508557700|エクレール友野": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1530,32 +1539,32 @@
       "url": "https://suumo.jp/chintai/jnc_000107425888/?bc=100508557700",
       "text": "エクレール友野"
     },
-    "https://suumo.jp/chintai/jnc_000102575211/?bc=100484408050|フォーレスト　Ｂ": {
+    "https://suumo.jp/chintai/jnc_000107425887/?bc=100516888245|エクレール友野": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 5.5,
+      "area_sqm": 49.7,
+      "url": "https://suumo.jp/chintai/jnc_000107425887/?bc=100516888245",
+      "text": "エクレール友野"
+    },
+    "https://suumo.jp/chintai/jnc_000102575211/?bc=100498432734|フォーレスト　Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 5.0,
       "area_sqm": 42.6,
-      "url": "https://suumo.jp/chintai/jnc_000102575211/?bc=100484408050",
+      "url": "https://suumo.jp/chintai/jnc_000102575211/?bc=100498432734",
       "text": "フォーレスト　Ｂ"
     },
-    "https://suumo.jp/chintai/jnc_000099574399/?bc=100482641109|フォーレスト　Ｂ": {
+    "https://suumo.jp/chintai/jnc_000099574399/?bc=100498432740|フォーレスト　Ｂ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 5.2,
       "area_sqm": 42.6,
-      "url": "https://suumo.jp/chintai/jnc_000099574399/?bc=100482641109",
+      "url": "https://suumo.jp/chintai/jnc_000099574399/?bc=100498432740",
       "text": "フォーレスト　Ｂ"
-    },
-    "https://suumo.jp/chintai/jnc_000108503894/?bc=100516726917|大塚マンション　Ｂ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 5.5,
-      "area_sqm": 53.9,
-      "url": "https://suumo.jp/chintai/jnc_000108503894/?bc=100516726917",
-      "text": "大塚マンション　Ｂ"
     },
     "https://suumo.jp/chintai/jnc_000108401838/?bc=100515996427|レオパレスセリバテール": {
       "first_seen": "2026-07-25",
@@ -1575,22 +1584,22 @@
       "url": "https://suumo.jp/chintai/jnc_000105547537/?bc=100512230735",
       "text": "ヴィガラスＳ"
     },
-    "https://suumo.jp/chintai/jnc_000040420547/?bc=100372020289|フォンティーヌ小高弐番館": {
+    "https://suumo.jp/chintai/jnc_000040420547/?bc=100371920550|フォンティーヌ小高弐番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.0,
       "area_sqm": 55.2,
-      "url": "https://suumo.jp/chintai/jnc_000040420547/?bc=100372020289",
+      "url": "https://suumo.jp/chintai/jnc_000040420547/?bc=100371920550",
       "text": "フォンティーヌ小高弐番館"
     },
-    "https://suumo.jp/chintai/jnc_000013976478/?bc=100372020291|フォンティーヌ小高弐番館": {
+    "https://suumo.jp/chintai/jnc_000013976478/?bc=100371920557|フォンティーヌ小高弐番館": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.0,
       "area_sqm": 55.2,
-      "url": "https://suumo.jp/chintai/jnc_000013976478/?bc=100372020291",
+      "url": "https://suumo.jp/chintai/jnc_000013976478/?bc=100371920557",
       "text": "フォンティーヌ小高弐番館"
     },
     "https://suumo.jp/chintai/jnc_000105530031/?bc=100493952690|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築28年": {
@@ -1674,67 +1683,67 @@
       "url": "https://suumo.jp/chintai/jnc_000094979451/?bc=100412374276",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築34年"
     },
-    "https://suumo.jp/chintai/jnc_000096297448/?bc=100514294399|サンモール・カーサ": {
+    "https://suumo.jp/chintai/jnc_000096297448/?bc=100498372157|サンモール・カーサ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.0,
       "area_sqm": 50.8,
-      "url": "https://suumo.jp/chintai/jnc_000096297448/?bc=100514294399",
+      "url": "https://suumo.jp/chintai/jnc_000096297448/?bc=100498372157",
       "text": "サンモール・カーサ"
     },
-    "https://suumo.jp/chintai/jnc_000108020366/?bc=100099196348|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築15年": {
+    "https://suumo.jp/chintai/jnc_000108767577/?bc=100099196348|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築15年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.8,
       "area_sqm": 52.2,
-      "url": "https://suumo.jp/chintai/jnc_000108020366/?bc=100099196348",
+      "url": "https://suumo.jp/chintai/jnc_000108767577/?bc=100099196348",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築15年"
     },
-    "https://suumo.jp/chintai/jnc_000077596194/?bc=100301481689|グランペール函南": {
+    "https://suumo.jp/chintai/jnc_000068652933/?bc=100507889398|グランペール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.4,
       "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000077596194/?bc=100301481689",
+      "url": "https://suumo.jp/chintai/jnc_000068652933/?bc=100507889398",
       "text": "グランペール函南"
     },
-    "https://suumo.jp/chintai/jnc_000068652933/?bc=100478255402|グランペール函南": {
+    "https://suumo.jp/chintai/jnc_000077596194/?bc=100511726765|グランペール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.4,
       "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000068652933/?bc=100478255402",
+      "url": "https://suumo.jp/chintai/jnc_000077596194/?bc=100511726765",
       "text": "グランペール函南"
     },
-    "https://suumo.jp/chintai/jnc_000033569736/?bc=100121692323|グランペール函南": {
+    "https://suumo.jp/chintai/jnc_000018312592/?bc=100279516476|グランペール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.6,
       "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000033569736/?bc=100121692323",
+      "url": "https://suumo.jp/chintai/jnc_000018312592/?bc=100279516476",
       "text": "グランペール函南"
     },
-    "https://suumo.jp/chintai/jnc_000018312592/?bc=100279626877|グランペール函南": {
+    "https://suumo.jp/chintai/jnc_000033569736/?bc=100465483715|グランペール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.6,
       "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000018312592/?bc=100279626877",
+      "url": "https://suumo.jp/chintai/jnc_000033569736/?bc=100465483715",
       "text": "グランペール函南"
     },
-    "https://suumo.jp/chintai/jnc_000059646507/?bc=100205290849|グランペール函南": {
+    "https://suumo.jp/chintai/jnc_000059646507/?bc=100465483704|グランペール函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 7.8,
       "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000059646507/?bc=100205290849",
+      "url": "https://suumo.jp/chintai/jnc_000059646507/?bc=100465483704",
       "text": "グランペール函南"
     },
     "https://suumo.jp/chintai/jnc_000104891945/?bc=100488951520|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築37年": {
@@ -1746,13 +1755,13 @@
       "url": "https://suumo.jp/chintai/jnc_000104891945/?bc=100488951520",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築37年"
     },
-    "https://suumo.jp/chintai/jnc_000105909760/?bc=100488570022|マンハッタンパレス": {
+    "https://suumo.jp/chintai/jnc_000105909760/?bc=100501602423|マンハッタンパレス": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.9,
       "area_sqm": 33.1,
-      "url": "https://suumo.jp/chintai/jnc_000105909760/?bc=100488570022",
+      "url": "https://suumo.jp/chintai/jnc_000105909760/?bc=100501602423",
       "text": "マンハッタンパレス"
     },
     "https://suumo.jp/chintai/jnc_000106528174/?bc=100491583481|レオパレスＬｏｖｅ　Ｓｅａ": {
@@ -1764,15 +1773,6 @@
       "url": "https://suumo.jp/chintai/jnc_000106528174/?bc=100491583481",
       "text": "レオパレスＬｏｖｅ　Ｓｅａ"
     },
-    "https://suumo.jp/chintai/jnc_000013976281/?bc=100484180750|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 7.6,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976281/?bc=100484180750",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
     "https://suumo.jp/chintai/jnc_000013976284/?bc=100176576913|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1780,24 +1780,6 @@
       "price_man": 7.6,
       "area_sqm": 68.7,
       "url": "https://suumo.jp/chintai/jnc_000013976284/?bc=100176576913",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
-    "https://suumo.jp/chintai/jnc_000013976286/?bc=100484180755|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 7.6,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976286/?bc=100484180755",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
-    "https://suumo.jp/chintai/jnc_000013976282/?bc=100176576920|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 7.6,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976282/?bc=100176576920",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000013976289/?bc=100484180752|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
@@ -1809,6 +1791,24 @@
       "url": "https://suumo.jp/chintai/jnc_000013976289/?bc=100484180752",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
+    "https://suumo.jp/chintai/jnc_000013976282/?bc=100176576920|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 7.6,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000013976282/?bc=100176576920",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
+    "https://suumo.jp/chintai/jnc_000013976281/?bc=100484180750|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 7.6,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000013976281/?bc=100484180750",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
     "https://suumo.jp/chintai/jnc_000042654627/?bc=100176576905|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1818,13 +1818,22 @@
       "url": "https://suumo.jp/chintai/jnc_000042654627/?bc=100176576905",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000053945316/?bc=100176941872|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000013976286/?bc=100484180755|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.6,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000053945316/?bc=100176941872",
+      "url": "https://suumo.jp/chintai/jnc_000013976286/?bc=100484180755",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
+    "https://suumo.jp/chintai/jnc_000013976285/?bc=100484180761|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 7.6,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000013976285/?bc=100484180761",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000013976277/?bc=100484180765|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
@@ -1836,13 +1845,13 @@
       "url": "https://suumo.jp/chintai/jnc_000013976277/?bc=100484180765",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000013976285/?bc=100484180761|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000013976280/?bc=100484180760|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.6,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976285/?bc=100484180761",
+      "url": "https://suumo.jp/chintai/jnc_000013976280/?bc=100484180760",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000013976288/?bc=100484180751|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
@@ -1863,13 +1872,13 @@
       "url": "https://suumo.jp/chintai/jnc_000013976290/?bc=100484180758",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000013976280/?bc=100484180760|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+    "https://suumo.jp/chintai/jnc_000053945316/?bc=100176941872|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.6,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976280/?bc=100484180760",
+      "url": "https://suumo.jp/chintai/jnc_000053945316/?bc=100176941872",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000033598113/?bc=100484180759|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
@@ -1890,15 +1899,6 @@
       "url": "https://suumo.jp/chintai/jnc_000033598114/?bc=100176941879",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000033598111/?bc=100176941839|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 8.0,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000033598111/?bc=100176941839",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
     "https://suumo.jp/chintai/jnc_000033598110/?bc=100484180757|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1906,24 +1906,6 @@
       "price_man": 8.0,
       "area_sqm": 68.7,
       "url": "https://suumo.jp/chintai/jnc_000033598110/?bc=100484180757",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
-    "https://suumo.jp/chintai/jnc_000033598109/?bc=100176576923|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 8.0,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000033598109/?bc=100176576923",
-      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
-    },
-    "https://suumo.jp/chintai/jnc_000042654626/?bc=100484180754|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 8.0,
-      "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000042654626/?bc=100484180754",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
     "https://suumo.jp/chintai/jnc_000033598112/?bc=100484180762|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
@@ -1935,6 +1917,33 @@
       "url": "https://suumo.jp/chintai/jnc_000033598112/?bc=100484180762",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
+    "https://suumo.jp/chintai/jnc_000042654626/?bc=100484180754|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 8.0,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000042654626/?bc=100484180754",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
+    "https://suumo.jp/chintai/jnc_000033598111/?bc=100176941839|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 8.0,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000033598111/?bc=100176941839",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
+    "https://suumo.jp/chintai/jnc_000033598109/?bc=100176576923|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 8.0,
+      "area_sqm": 68.7,
+      "url": "https://suumo.jp/chintai/jnc_000033598109/?bc=100176576923",
+      "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
+    },
     "https://suumo.jp/chintai/jnc_000033598115/?bc=100484180756|伊豆箱根鉄道駿豆線 三島駅 5階建 築33年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1944,22 +1953,13 @@
       "url": "https://suumo.jp/chintai/jnc_000033598115/?bc=100484180756",
       "text": "伊豆箱根鉄道駿豆線 三島駅 5階建 築33年"
     },
-    "https://suumo.jp/chintai/jnc_000081971751/?bc=100492440604|ストークハウスいづみ": {
+    "https://suumo.jp/chintai/jnc_000081971751/?bc=100492623075|ストークハウスいづみ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 6.5,
       "area_sqm": 53.7,
-      "url": "https://suumo.jp/chintai/jnc_000081971751/?bc=100492440604",
-      "text": "ストークハウスいづみ"
-    },
-    "https://suumo.jp/chintai/jnc_000099807616/?bc=100485273295|ストークハウスいづみ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町仁田",
-      "price_man": 6.7,
-      "area_sqm": 53.7,
-      "url": "https://suumo.jp/chintai/jnc_000099807616/?bc=100485273295",
+      "url": "https://suumo.jp/chintai/jnc_000081971751/?bc=100492623075",
       "text": "ストークハウスいづみ"
     },
     "https://suumo.jp/chintai/jnc_000013976408/?bc=100139931547|ストークハウスいづみ": {
@@ -1971,6 +1971,15 @@
       "url": "https://suumo.jp/chintai/jnc_000013976408/?bc=100139931547",
       "text": "ストークハウスいづみ"
     },
+    "https://suumo.jp/chintai/jnc_000099807616/?bc=100494827509|ストークハウスいづみ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 6.7,
+      "area_sqm": 53.7,
+      "url": "https://suumo.jp/chintai/jnc_000099807616/?bc=100494827509",
+      "text": "ストークハウスいづみ"
+    },
     "https://suumo.jp/chintai/jnc_000073991820/?bc=100495671179|レオパレスシャ　ティグレ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -1980,13 +1989,13 @@
       "url": "https://suumo.jp/chintai/jnc_000073991820/?bc=100495671179",
       "text": "レオパレスシャ　ティグレ"
     },
-    "https://suumo.jp/chintai/jnc_000082490303/?bc=100516372141|フォレスト　A": {
+    "https://suumo.jp/chintai/jnc_000082490303/?bc=100516225187|フォレスト　A": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 6.5,
       "area_sqm": 50.3,
-      "url": "https://suumo.jp/chintai/jnc_000082490303/?bc=100516372141",
+      "url": "https://suumo.jp/chintai/jnc_000082490303/?bc=100516225187",
       "text": "フォレスト　A"
     },
     "https://suumo.jp/chintai/jnc_000107395034/?bc=100508374377|コーポ塚本": {
@@ -1998,13 +2007,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107395034/?bc=100508374377",
       "text": "コーポ塚本"
     },
-    "https://suumo.jp/chintai/jnc_000059973868/?bc=100508155926|大隅マンション": {
+    "https://suumo.jp/chintai/jnc_000107670793/?bc=100510531055|大隅マンション": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 7.5,
       "area_sqm": 75.0,
-      "url": "https://suumo.jp/chintai/jnc_000059973868/?bc=100508155926",
+      "url": "https://suumo.jp/chintai/jnc_000107670793/?bc=100510531055",
       "text": "大隅マンション"
     },
     "https://suumo.jp/chintai/jnc_000094658705/?bc=100508155929|大隅マンション": {
@@ -2016,6 +2025,15 @@
       "url": "https://suumo.jp/chintai/jnc_000094658705/?bc=100508155929",
       "text": "大隅マンション"
     },
+    "https://suumo.jp/chintai/jnc_000059973868/?bc=100508155926|大隅マンション": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 7.5,
+      "area_sqm": 75.0,
+      "url": "https://suumo.jp/chintai/jnc_000059973868/?bc=100508155926",
+      "text": "大隅マンション"
+    },
     "https://suumo.jp/chintai/jnc_000071996239/?bc=100510531056|大隅マンション": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2023,15 +2041,6 @@
       "price_man": 7.5,
       "area_sqm": 75.0,
       "url": "https://suumo.jp/chintai/jnc_000071996239/?bc=100510531056",
-      "text": "大隅マンション"
-    },
-    "https://suumo.jp/chintai/jnc_000107670793/?bc=100510531055|大隅マンション": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.5,
-      "area_sqm": 75.0,
-      "url": "https://suumo.jp/chintai/jnc_000107670793/?bc=100510531055",
       "text": "大隅マンション"
     },
     "https://suumo.jp/chintai/jnc_000029479930/?bc=100288137268|伊豆箱根鉄道駿豆線 大場駅 3階建 築30年": {
@@ -2070,13 +2079,13 @@
       "url": "https://suumo.jp/chintai/jnc_000108315112/?bc=100516827227",
       "text": "ハーモニーガーデン"
     },
-    "https://suumo.jp/chintai/jnc_000013976258/?bc=100507919044|メゾンミタ": {
+    "https://suumo.jp/chintai/jnc_000013976258/?bc=100465483777|メゾンミタ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.6,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000013976258/?bc=100507919044",
+      "url": "https://suumo.jp/chintai/jnc_000013976258/?bc=100465483777",
       "text": "メゾンミタ"
     },
     "https://suumo.jp/chintai/jnc_000013976259/?bc=100352820867|メゾンミタ": {
@@ -2088,31 +2097,31 @@
       "url": "https://suumo.jp/chintai/jnc_000013976259/?bc=100352820867",
       "text": "メゾンミタ"
     },
-    "https://suumo.jp/chintai/jnc_000039395862/?bc=100507919043|メゾンミタ": {
+    "https://suumo.jp/chintai/jnc_000039395862/?bc=100484180764|メゾンミタ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.8,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000039395862/?bc=100507919043",
+      "url": "https://suumo.jp/chintai/jnc_000039395862/?bc=100484180764",
       "text": "メゾンミタ"
     },
-    "https://suumo.jp/chintai/jnc_000033342267/?bc=100507919082|メゾンミタ": {
+    "https://suumo.jp/chintai/jnc_000033342267/?bc=100465483790|メゾンミタ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 8.0,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000033342267/?bc=100507919082",
+      "url": "https://suumo.jp/chintai/jnc_000033342267/?bc=100465483790",
       "text": "メゾンミタ"
     },
-    "https://suumo.jp/chintai/jnc_000042418539/?bc=100507919042|メゾンミタ": {
+    "https://suumo.jp/chintai/jnc_000042418539/?bc=100465483791|メゾンミタ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 8.0,
       "area_sqm": 68.7,
-      "url": "https://suumo.jp/chintai/jnc_000042418539/?bc=100507919042",
+      "url": "https://suumo.jp/chintai/jnc_000042418539/?bc=100465483791",
       "text": "メゾンミタ"
     },
     "https://suumo.jp/chintai/jnc_000099605241/?bc=100288137198|メゾンミタ": {
@@ -2124,22 +2133,22 @@
       "url": "https://suumo.jp/chintai/jnc_000099605241/?bc=100288137198",
       "text": "メゾンミタ"
     },
-    "https://suumo.jp/chintai/jnc_000098431732/?bc=100435900239|増島ハイツ": {
+    "https://suumo.jp/chintai/jnc_000098431732/?bc=100498432745|増島ハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 5.5,
-      "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000098431732/?bc=100435900239",
+      "area_sqm": 52.0,
+      "url": "https://suumo.jp/chintai/jnc_000098431732/?bc=100498432745",
       "text": "増島ハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000013976718/?bc=100492623010|白井マンション": {
+    "https://suumo.jp/chintai/jnc_000013976718/?bc=100492440545|白井マンション": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 6.0,
       "area_sqm": 57.2,
-      "url": "https://suumo.jp/chintai/jnc_000013976718/?bc=100492623010",
+      "url": "https://suumo.jp/chintai/jnc_000013976718/?bc=100492440545",
       "text": "白井マンション"
     },
     "https://suumo.jp/chintai/jnc_000104922462/?bc=100477820366|メルベーユ": {
@@ -2214,13 +2223,13 @@
       "url": "https://suumo.jp/chintai/jnc_000105426509/?bc=100492825055",
       "text": "柏木一戸建"
     },
-    "https://suumo.jp/chintai/jnc_000039733968/?bc=100500393818|エクセラン梅原I・II": {
+    "https://suumo.jp/chintai/jnc_000039733968/?bc=100500273465|エクセラン梅原I・II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町大土肥",
       "price_man": 4.9,
       "area_sqm": 42.2,
-      "url": "https://suumo.jp/chintai/jnc_000039733968/?bc=100500393818",
+      "url": "https://suumo.jp/chintai/jnc_000039733968/?bc=100500273465",
       "text": "エクセラン梅原I・II"
     },
     "https://suumo.jp/chintai/jnc_000107432703/?bc=100508612435|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
@@ -2232,13 +2241,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107432703/?bc=100508612435",
       "text": "伊豆箱根鉄道駿豆線 大場駅 4階建 築32年"
     },
-    "https://suumo.jp/chintai/jnc_000032446776/?bc=100465483722|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
+    "https://suumo.jp/chintai/jnc_000032446774/?bc=100465483863|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 7.5,
       "area_sqm": 65.1,
-      "url": "https://suumo.jp/chintai/jnc_000032446776/?bc=100465483722",
+      "url": "https://suumo.jp/chintai/jnc_000032446774/?bc=100465483863",
       "text": "伊豆箱根鉄道駿豆線 大場駅 4階建 築32年"
     },
     "https://suumo.jp/chintai/jnc_000107379886/?bc=100508223247|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
@@ -2250,14 +2259,23 @@
       "url": "https://suumo.jp/chintai/jnc_000107379886/?bc=100508223247",
       "text": "伊豆箱根鉄道駿豆線 大場駅 4階建 築32年"
     },
-    "https://suumo.jp/chintai/jnc_000032446774/?bc=100498432730|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
+    "https://suumo.jp/chintai/jnc_000032446776/?bc=100498432765|伊豆箱根鉄道駿豆線 大場駅 4階建 築32年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 7.5,
       "area_sqm": 65.1,
-      "url": "https://suumo.jp/chintai/jnc_000032446774/?bc=100498432730",
+      "url": "https://suumo.jp/chintai/jnc_000032446776/?bc=100498432765",
       "text": "伊豆箱根鉄道駿豆線 大場駅 4階建 築32年"
+    },
+    "https://suumo.jp/chintai/jnc_000055382399/?bc=100513514290|コーポスギコーＢ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 5.6,
+      "area_sqm": 51.0,
+      "url": "https://suumo.jp/chintai/jnc_000055382399/?bc=100513514290",
+      "text": "コーポスギコーＢ"
     },
     "https://suumo.jp/chintai/jnc_000108141565/?bc=100516770327|コーポスギコーＢ": {
       "first_seen": "2026-07-25",
@@ -2266,15 +2284,6 @@
       "price_man": 5.6,
       "area_sqm": 51.0,
       "url": "https://suumo.jp/chintai/jnc_000108141565/?bc=100516770327",
-      "text": "コーポスギコーＢ"
-    },
-    "https://suumo.jp/chintai/jnc_000055382399/?bc=100516770325|コーポスギコーＢ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 5.6,
-      "area_sqm": 51.0,
-      "url": "https://suumo.jp/chintai/jnc_000055382399/?bc=100516770325",
       "text": "コーポスギコーＢ"
     },
     "https://suumo.jp/chintai/jnc_000016563105/?bc=100255291566|土屋マンション": {
@@ -2295,13 +2304,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107965832/?bc=100465483730",
       "text": "レアールコーポアキタII"
     },
-    "https://suumo.jp/chintai/jnc_000106503132/?bc=100501999822|レジェンド　Ａ": {
+    "https://suumo.jp/chintai/jnc_000106503132/?bc=100502061479|レジェンド　Ａ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 7.6,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000106503132/?bc=100501999822",
+      "url": "https://suumo.jp/chintai/jnc_000106503132/?bc=100502061479",
       "text": "レジェンド　Ａ"
     },
     "https://suumo.jp/chintai/jnc_000107530447/?bc=100502764370|レジェンド　Ａ": {
@@ -2313,58 +2322,58 @@
       "url": "https://suumo.jp/chintai/jnc_000107530447/?bc=100502764370",
       "text": "レジェンド　Ａ"
     },
-    "https://suumo.jp/chintai/jnc_000096185073/?bc=100416892446|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000096185072/?bc=100182281535|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000096185073/?bc=100416892446",
+      "url": "https://suumo.jp/chintai/jnc_000096185072/?bc=100182281535",
       "text": "メゾンコクシネル"
     },
-    "https://suumo.jp/chintai/jnc_000096185074/?bc=100119690986|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000096185073/?bc=100514109772|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000096185074/?bc=100119690986",
+      "url": "https://suumo.jp/chintai/jnc_000096185073/?bc=100514109772",
       "text": "メゾンコクシネル"
     },
-    "https://suumo.jp/chintai/jnc_000108457791/?bc=100516384864|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000107131477/?bc=100514109769|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000108457791/?bc=100516384864",
+      "url": "https://suumo.jp/chintai/jnc_000107131477/?bc=100514109769",
       "text": "メゾンコクシネル"
     },
-    "https://suumo.jp/chintai/jnc_000105808713/?bc=100496268000|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000105808713/?bc=100496313316|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000105808713/?bc=100496268000",
+      "url": "https://suumo.jp/chintai/jnc_000105808713/?bc=100496313316",
       "text": "メゾンコクシネル"
     },
-    "https://suumo.jp/chintai/jnc_000096185072/?bc=100182234857|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000096185074/?bc=100121692401|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000096185072/?bc=100182234857",
+      "url": "https://suumo.jp/chintai/jnc_000096185074/?bc=100121692401",
       "text": "メゾンコクシネル"
     },
-    "https://suumo.jp/chintai/jnc_000107131477/?bc=100506355983|メゾンコクシネル": {
+    "https://suumo.jp/chintai/jnc_000108457791/?bc=100516770347|メゾンコクシネル": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 5.8,
       "area_sqm": 44.1,
-      "url": "https://suumo.jp/chintai/jnc_000107131477/?bc=100506355983",
+      "url": "https://suumo.jp/chintai/jnc_000108457791/?bc=100516770347",
       "text": "メゾンコクシネル"
     },
     "https://suumo.jp/chintai/jnc_000107369464/?bc=100508155919|トレピアーニ": {
@@ -2376,22 +2385,22 @@
       "url": "https://suumo.jp/chintai/jnc_000107369464/?bc=100508155919",
       "text": "トレピアーニ"
     },
-    "https://suumo.jp/chintai/jnc_000092444643/?bc=100465483753|セピアム６０": {
+    "https://suumo.jp/chintai/jnc_000092444643/?bc=100507028023|セピアム６０": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 6.6,
       "area_sqm": 72.0,
-      "url": "https://suumo.jp/chintai/jnc_000092444643/?bc=100465483753",
+      "url": "https://suumo.jp/chintai/jnc_000092444643/?bc=100507028023",
       "text": "セピアム６０"
     },
-    "https://suumo.jp/chintai/jnc_000081938981/?bc=100325190709|セピアム６０": {
+    "https://suumo.jp/chintai/jnc_000081938981/?bc=100325189740|セピアム６０": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 6.6,
       "area_sqm": 62.3,
-      "url": "https://suumo.jp/chintai/jnc_000081938981/?bc=100325190709",
+      "url": "https://suumo.jp/chintai/jnc_000081938981/?bc=100325189740",
       "text": "セピアム６０"
     },
     "https://suumo.jp/chintai/jnc_000090991812/?bc=100383632727|明友ハイツ": {
@@ -2592,40 +2601,40 @@
       "url": "https://suumo.jp/chintai/jnc_000103543750/?bc=100478357114",
       "text": "セントラルパレス"
     },
-    "https://suumo.jp/chintai/jnc_000082308161/?bc=100515469469|ひまわりはうすII": {
+    "https://suumo.jp/chintai/jnc_000104555857/?bc=100486500649|ひまわりはうすII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 8.8,
       "area_sqm": 76.0,
-      "url": "https://suumo.jp/chintai/jnc_000082308161/?bc=100515469469",
+      "url": "https://suumo.jp/chintai/jnc_000104555857/?bc=100486500649",
       "text": "ひまわりはうすII"
     },
-    "https://suumo.jp/chintai/jnc_000073852250/?bc=100515469303|ひまわりはうすII": {
+    "https://suumo.jp/chintai/jnc_000088849669/?bc=100368664163|ひまわりはうすII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 8.8,
       "area_sqm": 76.0,
-      "url": "https://suumo.jp/chintai/jnc_000073852250/?bc=100515469303",
+      "url": "https://suumo.jp/chintai/jnc_000088849669/?bc=100368664163",
       "text": "ひまわりはうすII"
     },
-    "https://suumo.jp/chintai/jnc_000088849669/?bc=100515469458|ひまわりはうすII": {
+    "https://suumo.jp/chintai/jnc_000082308161/?bc=100327390893|ひまわりはうすII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 8.8,
       "area_sqm": 76.0,
-      "url": "https://suumo.jp/chintai/jnc_000088849669/?bc=100515469458",
+      "url": "https://suumo.jp/chintai/jnc_000082308161/?bc=100327390893",
       "text": "ひまわりはうすII"
     },
-    "https://suumo.jp/chintai/jnc_000104555857/?bc=100515469308|ひまわりはうすII": {
+    "https://suumo.jp/chintai/jnc_000073852250/?bc=100280513455|ひまわりはうすII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 8.8,
       "area_sqm": 76.0,
-      "url": "https://suumo.jp/chintai/jnc_000104555857/?bc=100515469308",
+      "url": "https://suumo.jp/chintai/jnc_000073852250/?bc=100280513455",
       "text": "ひまわりはうすII"
     },
     "https://suumo.jp/chintai/jnc_000102882991/?bc=100473108632|ハイム伊沢　メゾネット": {
@@ -2637,31 +2646,31 @@
       "url": "https://suumo.jp/chintai/jnc_000102882991/?bc=100473108632",
       "text": "ハイム伊沢　メゾネット"
     },
-    "https://suumo.jp/chintai/jnc_000062924247/?bc=100433698928|レオパレスルミエールII": {
+    "https://suumo.jp/chintai/jnc_000062924247/?bc=100489365871|レオパレスルミエールII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 4.0,
       "area_sqm": 19.9,
-      "url": "https://suumo.jp/chintai/jnc_000062924247/?bc=100433698928",
+      "url": "https://suumo.jp/chintai/jnc_000062924247/?bc=100489365871",
       "text": "レオパレスルミエールII"
     },
-    "https://suumo.jp/chintai/jnc_000063479676/?bc=100449726615|レオパレスルミエールII": {
+    "https://suumo.jp/chintai/jnc_000063479676/?bc=100489365585|レオパレスルミエールII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 4.0,
       "area_sqm": 19.9,
-      "url": "https://suumo.jp/chintai/jnc_000063479676/?bc=100449726615",
+      "url": "https://suumo.jp/chintai/jnc_000063479676/?bc=100489365585",
       "text": "レオパレスルミエールII"
     },
-    "https://suumo.jp/chintai/jnc_000096232692/?bc=100506979728|室野コーポ": {
+    "https://suumo.jp/chintai/jnc_000096232692/?bc=100465483862|室野コーポ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 5.0,
       "area_sqm": 38.1,
-      "url": "https://suumo.jp/chintai/jnc_000096232692/?bc=100506979728",
+      "url": "https://suumo.jp/chintai/jnc_000096232692/?bc=100465483862",
       "text": "室野コーポ"
     },
     "https://suumo.jp/chintai/jnc_000095038732/?bc=100400621471|アライハイツ": {
@@ -2673,14 +2682,14 @@
       "url": "https://suumo.jp/chintai/jnc_000095038732/?bc=100400621471",
       "text": "アライハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000066479232/?bc=100352820779|フジミハイツ　函南町賃貸アパート": {
+    "https://suumo.jp/chintai/jnc_000066479232/?bc=100498375269|フジミハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町畑毛",
       "price_man": 4.5,
       "area_sqm": 52.4,
-      "url": "https://suumo.jp/chintai/jnc_000066479232/?bc=100352820779",
-      "text": "フジミハイツ　函南町賃貸アパート"
+      "url": "https://suumo.jp/chintai/jnc_000066479232/?bc=100498375269",
+      "text": "フジミハイツ"
     },
     "https://suumo.jp/chintai/jnc_000064127326/?bc=100501369591|レオパレスルミエール": {
       "first_seen": "2026-07-25",
@@ -2736,13 +2745,13 @@
       "url": "https://suumo.jp/chintai/jnc_000096232673/?bc=100465483836",
       "text": "パールハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000022526806/?bc=100513514285|コーポ社": {
+    "https://suumo.jp/chintai/jnc_000022526806/?bc=100516770297|コーポ社": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町平井",
       "price_man": 4.0,
       "area_sqm": 38.9,
-      "url": "https://suumo.jp/chintai/jnc_000022526806/?bc=100513514285",
+      "url": "https://suumo.jp/chintai/jnc_000022526806/?bc=100516770297",
       "text": "コーポ社"
     },
     "https://suumo.jp/chintai/jnc_000106844885/?bc=100504369186|ハピネス・Ｙ": {
@@ -2844,15 +2853,6 @@
       "url": "https://suumo.jp/chintai/jnc_000079923889/?bc=100280477155",
       "text": "サンハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000083737081/?bc=100465483846|クリア函南": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町塚本",
-      "price_man": 3.6,
-      "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000083737081/?bc=100465483846",
-      "text": "クリア函南"
-    },
     "https://suumo.jp/chintai/jnc_000104343096/?bc=100484928638|クリア函南": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2860,6 +2860,15 @@
       "price_man": 3.6,
       "area_sqm": 22.4,
       "url": "https://suumo.jp/chintai/jnc_000104343096/?bc=100484928638",
+      "text": "クリア函南"
+    },
+    "https://suumo.jp/chintai/jnc_000083737081/?bc=100507028014|クリア函南": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町塚本",
+      "price_man": 3.6,
+      "area_sqm": 22.4,
+      "url": "https://suumo.jp/chintai/jnc_000083737081/?bc=100507028014",
       "text": "クリア函南"
     },
     "https://suumo.jp/chintai/jnc_000096232687/?bc=100465483767|ラ・メティエＣ": {
@@ -2916,31 +2925,31 @@
       "url": "https://suumo.jp/chintai/jnc_000108096834/?bc=100513101322",
       "text": "ＪＲ東海道本線 三島駅 地上3階建 築45年"
     },
-    "https://suumo.jp/chintai/jnc_000108484469/?bc=100516569018|第二・第三トキワハイム": {
+    "https://suumo.jp/chintai/jnc_000108484469/?bc=100516770328|第二・第三トキワハイム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 2.45,
       "area_sqm": 22.7,
-      "url": "https://suumo.jp/chintai/jnc_000108484469/?bc=100516569018",
+      "url": "https://suumo.jp/chintai/jnc_000108484469/?bc=100516770328",
       "text": "第二・第三トキワハイム"
     },
-    "https://suumo.jp/chintai/jnc_000108484470/?bc=100516770344|第二・第三トキワハイム": {
+    "https://suumo.jp/chintai/jnc_000108484470/?bc=100516569016|第二・第三トキワハイム": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 2.95,
       "area_sqm": 34.7,
-      "url": "https://suumo.jp/chintai/jnc_000108484470/?bc=100516770344",
+      "url": "https://suumo.jp/chintai/jnc_000108484470/?bc=100516569016",
       "text": "第二・第三トキワハイム"
     },
-    "https://suumo.jp/chintai/jnc_000108464390/?bc=100516416583|サンサーラ上沢": {
+    "https://suumo.jp/chintai/jnc_000108464390/?bc=100516770331|サンサーラ上沢": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 2.95,
       "area_sqm": 34.8,
-      "url": "https://suumo.jp/chintai/jnc_000108464390/?bc=100516416583",
+      "url": "https://suumo.jp/chintai/jnc_000108464390/?bc=100516770331",
       "text": "サンサーラ上沢"
     },
     "https://suumo.jp/chintai/jnc_000107369463/?bc=100508155892|ＡＸＩＳ　ＢＬＤ６": {
@@ -2952,13 +2961,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107369463/?bc=100508155892",
       "text": "ＡＸＩＳ　ＢＬＤ６"
     },
-    "https://suumo.jp/chintai/jnc_000105267497/?bc=100396026463|Ｘ－ＭＡＸ": {
+    "https://suumo.jp/chintai/jnc_000105267497/?bc=100396135316|Ｘ－ＭＡＸ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町間宮",
       "price_man": 3.35,
       "area_sqm": 20.2,
-      "url": "https://suumo.jp/chintai/jnc_000105267497/?bc=100396026463",
+      "url": "https://suumo.jp/chintai/jnc_000105267497/?bc=100396135316",
       "text": "Ｘ－ＭＡＸ"
     },
     "https://suumo.jp/chintai/jnc_000028878630/?bc=100465483876|伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築37年": {
@@ -2979,15 +2988,6 @@
       "url": "https://suumo.jp/chintai/jnc_000096232684/?bc=100465483744",
       "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築37年"
     },
-    "https://suumo.jp/chintai/jnc_000107491067/?bc=100509127096|伊豆箱根鉄道駿豆線 大場駅 2階建 築47年": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 3.5,
-      "area_sqm": 17.4,
-      "url": "https://suumo.jp/chintai/jnc_000107491067/?bc=100509127096",
-      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築47年"
-    },
     "https://suumo.jp/chintai/jnc_000107369469/?bc=100508155922|伊豆箱根鉄道駿豆線 大場駅 2階建 築47年": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -2995,6 +2995,15 @@
       "price_man": 3.5,
       "area_sqm": 17.4,
       "url": "https://suumo.jp/chintai/jnc_000107369469/?bc=100508155922",
+      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築47年"
+    },
+    "https://suumo.jp/chintai/jnc_000107491067/?bc=100509127096|伊豆箱根鉄道駿豆線 大場駅 2階建 築47年": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 3.5,
+      "area_sqm": 17.4,
+      "url": "https://suumo.jp/chintai/jnc_000107491067/?bc=100509127096",
       "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築47年"
     },
     "https://suumo.jp/chintai/jnc_000107530449/?bc=100501067532|レジェンド　Ｃ": {
@@ -3006,31 +3015,31 @@
       "url": "https://suumo.jp/chintai/jnc_000107530449/?bc=100501067532",
       "text": "レジェンド　Ｃ"
     },
-    "https://suumo.jp/chintai/jnc_000108390448/?bc=100424883584|クリーンハイツ": {
+    "https://suumo.jp/chintai/jnc_000108390448/?bc=100514109777|クリーンハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 2.0,
       "area_sqm": 31.8,
-      "url": "https://suumo.jp/chintai/jnc_000108390448/?bc=100424883584",
+      "url": "https://suumo.jp/chintai/jnc_000108390448/?bc=100514109777",
       "text": "クリーンハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000108390452/?bc=100242948082|クリーンハイツ": {
+    "https://suumo.jp/chintai/jnc_000108390452/?bc=100242948214|クリーンハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 2.3,
       "area_sqm": 31.8,
-      "url": "https://suumo.jp/chintai/jnc_000108390452/?bc=100242948082",
+      "url": "https://suumo.jp/chintai/jnc_000108390452/?bc=100242948214",
       "text": "クリーンハイツ"
     },
-    "https://suumo.jp/chintai/jnc_000108390451/?bc=100319046179|クリーンハイツ": {
+    "https://suumo.jp/chintai/jnc_000108390451/?bc=100319201547|クリーンハイツ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 2.3,
       "area_sqm": 31.8,
-      "url": "https://suumo.jp/chintai/jnc_000108390451/?bc=100319046179",
+      "url": "https://suumo.jp/chintai/jnc_000108390451/?bc=100319201547",
       "text": "クリーンハイツ"
     },
     "https://suumo.jp/chintai/jnc_000096878433/?bc=100448569044|クリーンハイツ": {
@@ -3096,15 +3105,6 @@
       "url": "https://suumo.jp/chintai/jnc_000097467936/?bc=100515552514",
       "text": "ロイヤルレジデンスＡ"
     },
-    "https://suumo.jp/chintai/jnc_000108464389/?bc=100516398855|レオパレスパークヒルズII": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 4.5,
-      "area_sqm": 26.5,
-      "url": "https://suumo.jp/chintai/jnc_000108464389/?bc=100516398855",
-      "text": "レオパレスパークヒルズII"
-    },
     "https://suumo.jp/chintai/jnc_000073457630/?bc=100207183286|レオパレスパークヒルズII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -3114,13 +3114,22 @@
       "url": "https://suumo.jp/chintai/jnc_000073457630/?bc=100207183286",
       "text": "レオパレスパークヒルズII"
     },
-    "https://suumo.jp/chintai/jnc_000108298324/?bc=100436002652|レオパレスパークヒルズII": {
+    "https://suumo.jp/chintai/jnc_000108464389/?bc=100516398855|レオパレスパークヒルズII": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 4.5,
+      "area_sqm": 26.5,
+      "url": "https://suumo.jp/chintai/jnc_000108464389/?bc=100516398855",
+      "text": "レオパレスパークヒルズII"
+    },
+    "https://suumo.jp/chintai/jnc_000108298324/?bc=100489365923|レオパレスパークヒルズII": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 4.8,
       "area_sqm": 26.5,
-      "url": "https://suumo.jp/chintai/jnc_000108298324/?bc=100436002652",
+      "url": "https://suumo.jp/chintai/jnc_000108298324/?bc=100489365923",
       "text": "レオパレスパークヒルズII"
     },
     "https://suumo.jp/chintai/jnc_000106790146/?bc=100404437203|レオパレステクノピア函南": {
@@ -3213,13 +3222,13 @@
       "url": "https://suumo.jp/chintai/jnc_000107100027/?bc=100343972962",
       "text": "レオパレスパークヒルズ"
     },
-    "https://suumo.jp/chintai/jnc_000107100028/?bc=100488482272|レオパレスパークヒルズ": {
+    "https://suumo.jp/chintai/jnc_000107100028/?bc=100489365787|レオパレスパークヒルズ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
       "location": "静岡県田方郡函南町柏谷",
       "price_man": 5.0,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000107100028/?bc=100488482272",
+      "url": "https://suumo.jp/chintai/jnc_000107100028/?bc=100489365787",
       "text": "レオパレスパークヒルズ"
     },
     "https://suumo.jp/chintai/jnc_000108401837/?bc=100207184363|レオパレスパークヒルズ": {
@@ -3240,23 +3249,14 @@
       "url": "https://suumo.jp/chintai/jnc_000099419569/?bc=100207183938",
       "text": "レオパレス岩崎マンション"
     },
-    "https://suumo.jp/chintai/jnc_000099419571/?bc=100489365568|レオパレス岩崎マンション": {
+    "https://suumo.jp/chintai/jnc_000107100029/?bc=100496309691|レオパレスサン平井II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 4.7,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000099419571/?bc=100489365568",
-      "text": "レオパレス岩崎マンション"
-    },
-    "https://suumo.jp/chintai/jnc_000100035253/?bc=100498162003|レオパレス岩崎マンション": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 4.7,
-      "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000100035253/?bc=100498162003",
-      "text": "レオパレス岩崎マンション"
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 4.4,
+      "area_sqm": 22.4,
+      "url": "https://suumo.jp/chintai/jnc_000107100029/?bc=100496309691",
+      "text": "レオパレスサン平井II"
     },
     "https://suumo.jp/chintai/jnc_000107072710/?bc=100503295215|レオパレスサン平井II": {
       "first_seen": "2026-07-25",
@@ -3265,15 +3265,6 @@
       "price_man": 4.4,
       "area_sqm": 22.4,
       "url": "https://suumo.jp/chintai/jnc_000107072710/?bc=100503295215",
-      "text": "レオパレスサン平井II"
-    },
-    "https://suumo.jp/chintai/jnc_000107100029/?bc=100496309691|レオパレスサン平井II": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 4.4,
-      "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000107100029/?bc=100496309691",
       "text": "レオパレスサン平井II"
     },
     "https://suumo.jp/chintai/jnc_000108432168/?bc=100471484495|レオパレスサン平井II": {
@@ -3294,15 +3285,6 @@
       "url": "https://suumo.jp/chintai/jnc_000099909558/?bc=100255327598",
       "text": "レオパレスサン平井II"
     },
-    "https://suumo.jp/chintai/jnc_000108432169/?bc=100516185361|レオパレスサン平井II": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-25",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 4.7,
-      "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108432169/?bc=100516185361",
-      "text": "レオパレスサン平井II"
-    },
     "https://suumo.jp/chintai/jnc_000099909555/?bc=100425181037|レオパレスサン平井II": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-25",
@@ -3310,6 +3292,15 @@
       "price_man": 4.7,
       "area_sqm": 22.4,
       "url": "https://suumo.jp/chintai/jnc_000099909555/?bc=100425181037",
+      "text": "レオパレスサン平井II"
+    },
+    "https://suumo.jp/chintai/jnc_000108432169/?bc=100516185361|レオパレスサン平井II": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 4.7,
+      "area_sqm": 22.4,
+      "url": "https://suumo.jp/chintai/jnc_000108432169/?bc=100516185361",
       "text": "レオパレスサン平井II"
     },
     "https://suumo.jp/chintai/jnc_000102691213/?bc=100361381143|レオパレス柏谷": {
@@ -3376,6 +3367,6 @@
       "text": "伊豆箱根鉄道駿豆線 大場駅 平屋 築35年"
     }
   },
-  "hash": "fe5927390f4e7893",
-  "fetched_at": "2026-07-25T16:04:52.048968"
+  "hash": "1d3323276d732d31",
+  "fetched_at": "2026-07-25T22:53:42.403886"
 }

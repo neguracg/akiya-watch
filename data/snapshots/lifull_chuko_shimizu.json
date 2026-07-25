@@ -1,14 +1,5 @@
 {
   "keys": {
-    "https://www.homes.co.jp/kodate/b-1556780000003/|新築戸建　清水町長沢　Ａ棟": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-07-25",
-      "location": "新築戸建　清水町長沢　Ａ棟",
-      "price_man": 2780,
-      "area_sqm": 117.7,
-      "url": "https://www.homes.co.jp/kodate/b-1556780000003/",
-      "text": "新築戸建　清水町長沢　Ａ棟"
-    },
     "https://www.homes.co.jp/kodate/b-1556780000001/|新築戸建　清水町長沢　Ｂ棟": {
       "first_seen": "2026-06-22",
       "last_seen": "2026-07-25",
@@ -17,6 +8,15 @@
       "area_sqm": 109.9,
       "url": "https://www.homes.co.jp/kodate/b-1556780000001/",
       "text": "新築戸建　清水町長沢　Ｂ棟"
+    },
+    "https://www.homes.co.jp/kodate/b-1556780000003/|新築戸建　清水町長沢　Ａ棟": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-07-25",
+      "location": "新築戸建　清水町長沢　Ａ棟",
+      "price_man": 2780,
+      "area_sqm": 117.7,
+      "url": "https://www.homes.co.jp/kodate/b-1556780000003/",
+      "text": "新築戸建　清水町長沢　Ａ棟"
     },
     "https://www.homes.co.jp/kodate/b-1540930000260/|清水町徳倉　中古戸建": {
       "first_seen": "2026-06-22",
@@ -172,6 +172,6 @@
       "text": "静岡県駿東郡清水町徳倉　中古戸建"
     }
   },
-  "hash": "e5873ebb1b94925c",
-  "fetched_at": "2026-07-25T16:27:05.470081"
+  "hash": "d9f595295ba7429c",
+  "fetched_at": "2026-07-25T23:16:42.921143"
 }
