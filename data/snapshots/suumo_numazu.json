@@ -108,15 +108,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78937355/",
       "text": "土地広々約65坪、商業施設至近の好立地！建築条件なし！"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78139490/|沼津駅徒歩13分！約49坪の整形地です。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市山王台",
-      "price_man": 1600,
-      "area_sqm": 162.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78139490/",
-      "text": "沼津駅徒歩13分！約49坪の整形地です。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78937350/|周辺に商業施設多数！広々約358坪、住宅・事務所・マンションにオススメ♪": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -270,15 +261,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74456530/",
       "text": "東椎路（片浜駅） 650万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78936988/|沼津市大塚、土地広々約68坪！ 建築条件なし！現況渡しとなります。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市大塚",
-      "price_man": 650,
-      "area_sqm": 226.4,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78936988/",
-      "text": "沼津市大塚、土地広々約68坪！ 建築条件なし！現況渡しとなります。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20431435/|根古屋（原駅） 650万円": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -287,6 +269,15 @@
       "area_sqm": 200.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20431435/",
       "text": "根古屋（原駅） 650万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78936988/|沼津市大塚、土地広々約68坪！ 建築条件なし！現況渡しとなります。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市大塚",
+      "price_man": 650,
+      "area_sqm": 226.4,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78936988/",
+      "text": "沼津市大塚、土地広々約68坪！ 建築条件なし！現況渡しとなります。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20438778/|根古屋（原駅） 650万円": {
       "first_seen": "2026-07-04",
@@ -324,15 +315,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_95748913/",
       "text": "大平 700万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20867731/|常盤町２（沼津駅） 700万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市常盤町２",
-      "price_man": 700,
-      "area_sqm": 115.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20867731/",
-      "text": "常盤町２（沼津駅） 700万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21217304/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-07-04",
       "last_seen": "2026-07-26",
@@ -341,6 +323,15 @@
       "area_sqm": 105.8,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21217304/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20867731/|常盤町２（沼津駅） 700万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市常盤町２",
+      "price_man": 700,
+      "area_sqm": 115.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20867731/",
+      "text": "常盤町２（沼津駅） 700万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78392963/|大平（伊豆仁田駅） 760万円": {
       "first_seen": "2026-06-17",
@@ -405,15 +396,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20701652/",
       "text": "青野（原駅） 800万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20069770/|上香貫九十九洞 840万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市上香貫九十九洞",
-      "price_man": 840,
-      "area_sqm": 142.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20069770/",
-      "text": "上香貫九十九洞 840万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78409667/|☆国道1号線へのアクセス良好♪プランの入れやすい整形地、建築条件なしです。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -422,6 +404,15 @@
       "area_sqm": 165.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78409667/",
       "text": "☆国道1号線へのアクセス良好♪プランの入れやすい整形地、建築条件なしです。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20069770/|上香貫九十九洞 840万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市上香貫九十九洞",
+      "price_man": 840,
+      "area_sqm": 142.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20069770/",
+      "text": "上香貫九十九洞 840万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|閑静で根方街道へ車約2分♪標高約35ｍ！近隣バス停徒歩7分☆建築条件なし♪": {
       "first_seen": "2026-07-23",
@@ -684,15 +675,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21324544/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20816237/|☆　県道18号沿いの陽当たり良好北東角地、211坪の広大な更地です。　　　→": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市戸田",
-      "price_man": 1400,
-      "area_sqm": 699.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20816237/",
-      "text": "☆　県道18号沿いの陽当たり良好北東角地、211坪の広大な更地です。　　　→"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76497992/|☆根方街道沿い♪80坪以上、建築条件なし。陽当り良好！": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -701,6 +683,15 @@
       "area_sqm": 265.7,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76497992/",
       "text": "☆根方街道沿い♪80坪以上、建築条件なし。陽当り良好！"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20816237/|☆　県道18号沿いの陽当たり良好北東角地、211坪の広大な更地です。　　　→": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市戸田",
+      "price_man": 1400,
+      "area_sqm": 699.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20816237/",
+      "text": "☆　県道18号沿いの陽当たり良好北東角地、211坪の広大な更地です。　　　→"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|建築条件なし＋敷地５０坪以上！国一まで車約3分♪スーパーまで徒歩約８分！": {
       "first_seen": "2026-07-23",
@@ -738,15 +729,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_75326134/",
       "text": "東原（片浜駅） 1490万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77862360/|【ダイワハウス】下土狩駅徒歩圏内！57坪超の夢が広がる分譲地＜即時予約可＞": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市大岡字池田3500-9、3449-24他",
-      "price_man": 1490,
-      "area_sqm": 191.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77862360/",
-      "text": "【ダイワハウス】下土狩駅徒歩圏内！57坪超の夢が広がる分譲地＜即時予約可＞"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73243855/|☆67坪の住宅用地です。お好きなハウスメーカーで建てられます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -755,6 +737,15 @@
       "area_sqm": 222.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73243855/",
       "text": "☆67坪の住宅用地です。お好きなハウスメーカーで建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77862360/|【ダイワハウス】下土狩駅徒歩圏内！57坪超の夢が広がる分譲地＜即時予約可＞": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市大岡字池田3500-9、3449-24他",
+      "price_man": 1490,
+      "area_sqm": 191.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77862360/",
+      "text": "【ダイワハウス】下土狩駅徒歩圏内！57坪超の夢が広がる分譲地＜即時予約可＞"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20921291/|☆　建築条件なし！　　→お好きなハウスメーカーで建築可能です。": {
       "first_seen": "2026-06-17",
@@ -783,6 +774,15 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
       "text": "建築条件なし！「沼津」駅まで徒歩約16分♪小中学校が徒歩圏内+便利な立地☆"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141116/|建築条件なし！全2区画の分譲地♪": {
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市中沢田",
+      "price_man": 1580,
+      "area_sqm": 221.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141116/",
+      "text": "建築条件なし！全2区画の分譲地♪"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_79141507/|陽当り良好、建築条件なしの売り土地": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -792,14 +792,14 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_79141507/",
       "text": "陽当り良好、建築条件なしの売り土地"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141116/|建築条件なし！全2区画の分譲地♪": {
-      "first_seen": "2026-06-30",
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78139490/|沼津駅徒歩13分！約49坪の整形地です。": {
+      "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
-      "location": "静岡県沼津市中沢田",
-      "price_man": 1580,
-      "area_sqm": 221.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20141116/",
-      "text": "建築条件なし！全2区画の分譲地♪"
+      "location": "静岡県沼津市山王台",
+      "price_man": 1600,
+      "area_sqm": 162.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78139490/",
+      "text": "沼津駅徒歩13分！約49坪の整形地です。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74398998/|原（原駅） 1600万円": {
       "first_seen": "2026-06-17",
@@ -1008,15 +1008,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21128421/",
       "text": "周辺は閑静な住宅街で、日々の暮らしに安心感があるエリアです。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78914954/|岡宮 2080万円": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県沼津市岡宮",
-      "price_man": 2080,
-      "area_sqm": 215.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78914954/",
-      "text": "岡宮 2080万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21073600/|≪≪建築条件無し！お好みのハウスメーカーにて建築可能です♪≫≫": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -1025,6 +1016,15 @@
       "area_sqm": 166.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21073600/",
       "text": "≪≪建築条件無し！お好みのハウスメーカーにて建築可能です♪≫≫"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78914954/|岡宮 2080万円": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県沼津市岡宮",
+      "price_man": 2080,
+      "area_sqm": 215.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78914954/",
+      "text": "岡宮 2080万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21329216/|【いつでも見学OK] 沼北町一丁目で始める自由設計。": {
       "first_seen": "2026-07-21",
@@ -1279,6 +1279,6 @@
       "text": "東熊堂（大岡駅） 1億1500万円"
     }
   },
-  "hash": "056d470b3341d16b",
-  "fetched_at": "2026-07-26T05:09:32.923967"
+  "hash": "27a09cb1cce119f0",
+  "fetched_at": "2026-07-26T08:44:08.231935"
 }

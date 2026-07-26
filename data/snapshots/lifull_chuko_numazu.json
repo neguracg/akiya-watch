@@ -36,15 +36,6 @@
       "url": "https://www.homes.co.jp/kodate/b-1556780000007/",
       "text": "新築戸建　沼津市原II　Ａ棟"
     },
-    "https://www.homes.co.jp/kodate/b-1436870001674/|沼津市青野　中古戸建": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "沼津市青野　中古戸建",
-      "price_man": 2150,
-      "area_sqm": 179.1,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001674/",
-      "text": "沼津市青野　中古戸建"
-    },
     "https://www.homes.co.jp/kodate/b-89420000415/|沼津市高尾台中古戸建": {
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-26",
@@ -134,24 +125,6 @@
       "area_sqm": 503.2,
       "url": "https://www.homes.co.jp/kodate/b-1265050002426/",
       "text": "沼津市青野戸建住宅"
-    },
-    "https://www.homes.co.jp/kodate/b-1436870001904/|沼津市西椎路　中古戸建": {
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-26",
-      "location": "沼津市西椎路　中古戸建",
-      "price_man": 2480,
-      "area_sqm": 181.8,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001904/",
-      "text": "沼津市西椎路　中古戸建"
-    },
-    "https://www.homes.co.jp/kodate/b-1436870001877/|沼津市原町中3丁目　中古戸建": {
-      "first_seen": "2026-07-24",
-      "last_seen": "2026-07-26",
-      "location": "沼津市原町中3丁目　中古戸建",
-      "price_man": 3280,
-      "area_sqm": 178.2,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001877/",
-      "text": "沼津市原町中3丁目　中古戸建"
     },
     "https://www.homes.co.jp/kodate/b-33323360001147/|JR御殿場線 大岡駅 徒歩11分": {
       "first_seen": "2026-07-24",
@@ -269,8 +242,35 @@
       "area_sqm": 138.1,
       "url": "https://www.homes.co.jp/kodate/b-1220300000687/",
       "text": "沼津市本郷町　戸建て"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002596/|沼津市大岡中古住宅": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "沼津市大岡中古住宅",
+      "price_man": 3390,
+      "area_sqm": 150.6,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002596/",
+      "text": "沼津市大岡中古住宅"
+    },
+    "https://www.homes.co.jp/kodate/b-93570000155/|沼津駅近・生活利便性の良い立地　三芳町": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "沼津駅近・生活利便性の良い立地　三芳町",
+      "price_man": 2380,
+      "area_sqm": 154.0,
+      "url": "https://www.homes.co.jp/kodate/b-93570000155/",
+      "text": "沼津駅近・生活利便性の良い立地　三芳町"
+    },
+    "https://www.homes.co.jp/kodate/b-1500050000635/|売中古戸建　沼津市東椎路": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "売中古戸建　沼津市東椎路",
+      "price_man": 2280,
+      "area_sqm": 141.0,
+      "url": "https://www.homes.co.jp/kodate/b-1500050000635/",
+      "text": "売中古戸建　沼津市東椎路"
     }
   },
-  "hash": "787e5e8d9e18e0f7",
-  "fetched_at": "2026-07-26T05:16:37.168911"
+  "hash": "17c39e3585e24215",
+  "fetched_at": "2026-07-26T08:51:33.004475"
 }

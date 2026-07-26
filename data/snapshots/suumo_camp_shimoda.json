@@ -27,15 +27,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76546962/",
       "text": "六丁目 680万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/|白浜 880万円": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-07-26",
-      "location": "静岡県下田市白浜",
-      "price_man": 880,
-      "area_sqm": 232.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/",
-      "text": "白浜 880万円"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/|河内（蓮台寺駅） 880万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-26",
@@ -44,6 +35,15 @@
       "area_sqm": 185.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/",
       "text": "河内（蓮台寺駅） 880万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/|白浜 880万円": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-26",
+      "location": "静岡県下田市白浜",
+      "price_man": 880,
+      "area_sqm": 232.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/",
+      "text": "白浜 880万円"
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110858/|須崎 4330万円": {
       "first_seen": "2026-07-12",
@@ -55,6 +55,6 @@
       "text": "須崎 4330万円"
     }
   },
-  "hash": "57e50e5334c866b4",
-  "fetched_at": "2026-07-26T05:32:06.584605"
+  "hash": "74bd7864e7e3154e",
+  "fetched_at": "2026-07-26T09:07:45.712695"
 }

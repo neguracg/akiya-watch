@@ -1,12 +1,34 @@
 {
-  "https://www.homes.co.jp/kodate/b-1265050002596/|沼津市大岡中古住宅": {
+  "https://www.homes.co.jp/kodate/b-1436870001674/|沼津市青野　中古戸建": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "location": "沼津市青野　中古戸建",
+    "price_man": 2150,
+    "area_sqm": 179.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001674/",
+    "text": "沼津市青野　中古戸建",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001904/|沼津市西椎路　中古戸建": {
     "first_seen": "2026-07-24",
-    "last_seen": "2026-07-25",
-    "location": "沼津市大岡中古住宅",
-    "price_man": 3390,
-    "area_sqm": 150.6,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002596/",
-    "text": "沼津市大岡中古住宅",
+    "last_seen": "2026-07-26",
+    "location": "沼津市西椎路　中古戸建",
+    "price_man": 2480,
+    "area_sqm": 181.8,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001904/",
+    "text": "沼津市西椎路　中古戸建",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001877/|沼津市原町中3丁目　中古戸建": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-26",
+    "location": "沼津市原町中3丁目　中古戸建",
+    "price_man": 3280,
+    "area_sqm": 178.2,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001877/",
+    "text": "沼津市原町中3丁目　中古戸建",
     "removed_on": "2026-07-26",
     "site_name": "LIFULL 中古戸建 沼津市"
   }

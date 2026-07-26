@@ -1,48 +1,4 @@
 {
-  "https://www.homes.co.jp/chintai/room/620df2db4b2167802089dfe8f2ec88373883a6d1/|レオパレスサン": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 8.2,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/620df2db4b2167802089dfe8f2ec88373883a6d1/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/4b7da3dd604636b0e64080c41bd431b5234b23cb/|レオパレスサン": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 8.2,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/4b7da3dd604636b0e64080c41bd431b5234b23cb/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/6dbc3407b5e19e69ded581daf82506b2106172aa/|レオパレスサン": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 8.2,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/6dbc3407b5e19e69ded581daf82506b2106172aa/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/|レオパレスサン": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 5.3,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/8b9eb8dffa85fc346ed5f1ab0b6f05299b11cfac/|ＹＥＢＩＳＵ（エビス）　ＩＩ": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -238,6 +194,61 @@
     "area_sqm": 30.0,
     "url": "https://www.homes.co.jp/chintai/room/983535482da4395151f37be650dae608bb879306/",
     "text": "グラン　ソフィア",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/dc0c4550043a1d0f32a664994d509d2b7aa88a15/|和光　ビル": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 9.5,
+    "area_sqm": 64.8,
+    "url": "https://www.homes.co.jp/chintai/room/dc0c4550043a1d0f32a664994d509d2b7aa88a15/",
+    "text": "和光　ビル",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/d5a1b1dfaa6807f470602e45bdbad0df0db5b033/|和光　ビル": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 8.0,
+    "area_sqm": 55.0,
+    "url": "https://www.homes.co.jp/chintai/room/d5a1b1dfaa6807f470602e45bdbad0df0db5b033/",
+    "text": "和光　ビル",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/6f6aa089538dcc2200dfd7f3a9fb999fff49f522/|和光　ビル": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 8.5,
+    "area_sqm": 59.2,
+    "url": "https://www.homes.co.jp/chintai/room/6f6aa089538dcc2200dfd7f3a9fb999fff49f522/",
+    "text": "和光　ビル",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/|和光　ビル": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-07-26",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 9.0,
+    "area_sqm": 58.0,
+    "url": "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/",
+    "text": "和光　ビル",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/d4195a61c7187eaece5e5606c2c7e74f9b8fb514/|サニーハウス微笑II": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-26",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 5.9,
+    "area_sqm": 44.2,
+    "url": "https://www.homes.co.jp/chintai/room/d4195a61c7187eaece5e5606c2c7e74f9b8fb514/",
+    "text": "サニーハウス微笑II",
     "removed_on": "2026-07-26",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }

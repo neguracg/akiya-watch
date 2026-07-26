@@ -45,6 +45,15 @@
       "url": "https://www.homes.co.jp/tochi/b-33319170000016/",
       "text": "田方郡函南町柏谷 (伊豆仁田駅)"
     },
+    "https://www.homes.co.jp/tochi/b-33306390000051/|田方郡函南町大竹 (函南駅)": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "田方郡函南町大竹 (函南駅)",
+      "price_man": 1780,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33306390000051/",
+      "text": "田方郡函南町大竹 (函南駅)"
+    },
     "https://www.homes.co.jp/tochi/b-33303690000054/|田方郡函南町塚本 (伊豆仁田駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-07-26",
@@ -243,15 +252,6 @@
       "url": "https://www.homes.co.jp/tochi/b-1111450004437/",
       "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)"
     },
-    "https://www.homes.co.jp/tochi/b-1220300000713/|田方郡函南町柏谷 (大場駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "田方郡函南町柏谷 (大場駅)",
-      "price_man": 599,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1220300000713/",
-      "text": "田方郡函南町柏谷 (大場駅)"
-    },
     "https://www.homes.co.jp/tochi/b-1265050002037/|田方郡函南町柏谷 (伊豆仁田駅)": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
@@ -271,6 +271,6 @@
       "text": "田方郡函南町肥田 (伊豆仁田駅)"
     }
   },
-  "hash": "90bc770ca61bdb22",
-  "fetched_at": "2026-07-26T05:23:55.688875"
+  "hash": "79e87c1dc7c49a7f",
+  "fetched_at": "2026-07-26T08:59:05.340620"
 }

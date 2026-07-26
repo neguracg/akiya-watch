@@ -1,5 +1,23 @@
 {
   "keys": {
+    "https://suumo.jp/chintai/jnc_000108779746/|平鶴ビル": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市中央町",
+      "price_man": 8.5,
+      "area_sqm": 55.0,
+      "url": "https://suumo.jp/chintai/jnc_000108779746/",
+      "text": "平鶴ビル"
+    },
+    "https://suumo.jp/chintai/jnc_000108779747/|ラ・ヴィ熱海": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市林ガ丘町",
+      "price_man": 19.0,
+      "area_sqm": 75.5,
+      "url": "https://suumo.jp/chintai/jnc_000108779747/",
+      "text": "ラ・ヴィ熱海"
+    },
     "https://suumo.jp/chintai/jnc_000107851412/|熱海プラザ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -234,22 +252,22 @@
       "url": "https://suumo.jp/chintai/jnc_000108500507/",
       "text": "東急リゾートヴィラ熱海青翠"
     },
-    "https://suumo.jp/chintai/jnc_000094749108/|第二桃山": {
-      "first_seen": "2026-07-25",
+    "https://suumo.jp/chintai/jnc_000094749108/?bc=100506799804|第二桃山": {
+      "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
       "location": "静岡県熱海市桃山町",
       "price_man": 7.5,
       "area_sqm": 48.1,
-      "url": "https://suumo.jp/chintai/jnc_000094749108/",
+      "url": "https://suumo.jp/chintai/jnc_000094749108/?bc=100506799804",
       "text": "第二桃山"
     },
-    "https://suumo.jp/chintai/jnc_000108216283/|プラムハイツ": {
-      "first_seen": "2026-07-25",
+    "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188|プラムハイツ": {
+      "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
       "location": "静岡県熱海市梅花町",
       "price_man": 5.0,
       "area_sqm": 33.1,
-      "url": "https://suumo.jp/chintai/jnc_000108216283/",
+      "url": "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188",
       "text": "プラムハイツ"
     },
     "https://suumo.jp/chintai/jnc_000106642020/?bc=100458943563|デュピア熱海": {
@@ -486,14 +504,14 @@
       "url": "https://suumo.jp/chintai/jnc_000104298220/?bc=100507978854",
       "text": "オレンジクラブ"
     },
-    "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427|ビレッジハウス熱海１号棟": {
+    "https://suumo.jp/chintai/jnc_000106177792/?bc=100496918107|ビレッジハウス熱海1号棟": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
       "location": "静岡県熱海市山手町",
       "price_man": 3.67,
       "area_sqm": 29.0,
-      "url": "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427",
-      "text": "ビレッジハウス熱海１号棟"
+      "url": "https://suumo.jp/chintai/jnc_000106177792/?bc=100496918107",
+      "text": "ビレッジハウス熱海1号棟"
     },
     "https://suumo.jp/chintai/jnc_000099378799/?bc=100284461886|ＪＲ伊東線 来宮駅 4階建 築35年": {
       "first_seen": "2026-07-25",
@@ -513,13 +531,13 @@
       "url": "https://suumo.jp/chintai/jnc_000071013130/?bc=100509736370",
       "text": "マシガーナ二番館"
     },
-    "https://suumo.jp/chintai/jnc_000107881410/?bc=100512076981|ビレッジハウス熱海2号棟": {
+    "https://suumo.jp/chintai/jnc_000107881410/?bc=100512442094|ビレッジハウス熱海2号棟": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
       "location": "静岡県熱海市山手町",
       "price_man": 3.18,
       "area_sqm": 29.0,
-      "url": "https://suumo.jp/chintai/jnc_000107881410/?bc=100512076981",
+      "url": "https://suumo.jp/chintai/jnc_000107881410/?bc=100512442094",
       "text": "ビレッジハウス熱海2号棟"
     },
     "https://suumo.jp/chintai/jnc_000108042998/?bc=100513439253|ビレッジハウス熱海2号棟": {
@@ -757,6 +775,6 @@
       "text": "ＪＲ東海道本線 熱海駅 4階建 築39年"
     }
   },
-  "hash": "48b796093b7f55f3",
-  "fetched_at": "2026-07-26T05:23:14.098506"
+  "hash": "01afae3f5b0e8274",
+  "fetched_at": "2026-07-26T08:58:26.088970"
 }

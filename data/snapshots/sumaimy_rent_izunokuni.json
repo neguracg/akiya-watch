@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/52605|貸戸建住宅 伊豆の国市南條７６６－２": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "伊豆の国市南條７６６－２",
+      "price_man": 3.5,
+      "area_sqm": 35.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/52605",
+      "text": "貸戸建住宅 伊豆の国市南條７６６－２"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/116153|貸アパート 伊豆の国市古奈203-1": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -260,17 +269,8 @@
       "area_sqm": 31.5,
       "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149664",
       "text": "貸アパート 伊豆の国市大仁555-1"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139484|貸店舗（建物一部） 伊豆の国市長岡251-10": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "伊豆の国市長岡251-10",
-      "price_man": 12.0,
-      "area_sqm": 49.7,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139484",
-      "text": "貸店舗（建物一部） 伊豆の国市長岡251-10"
     }
   },
-  "hash": "8ad4ca5825c3d0ab",
-  "fetched_at": "2026-07-26T05:07:33.199145"
+  "hash": "9845ca9f8256cce2",
+  "fetched_at": "2026-07-26T08:42:16.364542"
 }

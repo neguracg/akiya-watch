@@ -45,6 +45,15 @@
       "url": "https://www.homes.co.jp/chintai/room/e67f18913e2260ea2a0b171111d750c6ca3b0d80/",
       "text": "オーポン　スクエア"
     },
+    "https://www.homes.co.jp/chintai/room/508a47d86f6511faaf06755ff56df82c4b7b10c8/|マンハッタンパレス": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町間宮",
+      "price_man": 6.9,
+      "area_sqm": 33.1,
+      "url": "https://www.homes.co.jp/chintai/room/508a47d86f6511faaf06755ff56df82c4b7b10c8/",
+      "text": "マンハッタンパレス"
+    },
     "https://www.homes.co.jp/chintai/room/4aa205cf4138d350ce15cab12aed03ff8d21a189/|ルーチェ": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -53,51 +62,6 @@
       "area_sqm": 56.1,
       "url": "https://www.homes.co.jp/chintai/room/4aa205cf4138d350ce15cab12aed03ff8d21a189/",
       "text": "ルーチェ"
-    },
-    "https://www.homes.co.jp/chintai/room/e87449a773ca5fff9242276d1fbdbb82db1ad120/|ＫＭＴ沙稀（ケイエムティサキ）": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.1,
-      "area_sqm": 45.8,
-      "url": "https://www.homes.co.jp/chintai/room/e87449a773ca5fff9242276d1fbdbb82db1ad120/",
-      "text": "ＫＭＴ沙稀（ケイエムティサキ）"
-    },
-    "https://www.homes.co.jp/chintai/room/305258858dc77db1a968ef5772291d57b4c4c53f/|ＫＭＴ沙稀（ケイエムティサキ）": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.1,
-      "area_sqm": 45.8,
-      "url": "https://www.homes.co.jp/chintai/room/305258858dc77db1a968ef5772291d57b4c4c53f/",
-      "text": "ＫＭＴ沙稀（ケイエムティサキ）"
-    },
-    "https://www.homes.co.jp/chintai/room/bcdd03b00aa49c4558aac6ca03dab9f4cfe7a5f4/|ＫＭＴ沙稀（ケイエムティサキ）": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.1,
-      "area_sqm": 45.8,
-      "url": "https://www.homes.co.jp/chintai/room/bcdd03b00aa49c4558aac6ca03dab9f4cfe7a5f4/",
-      "text": "ＫＭＴ沙稀（ケイエムティサキ）"
-    },
-    "https://www.homes.co.jp/chintai/room/b286b8f07f38a7d5a45375b83db4b30bc507aabe/|ＫＭＴ沙稀（ケイエムティサキ）": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町間宮",
-      "price_man": 7.1,
-      "area_sqm": 45.8,
-      "url": "https://www.homes.co.jp/chintai/room/b286b8f07f38a7d5a45375b83db4b30bc507aabe/",
-      "text": "ＫＭＴ沙稀（ケイエムティサキ）"
-    },
-    "https://www.homes.co.jp/chintai/room/4dfa94eaab8ae1a0547343c00aa10c345ea7489e/|アルソールＡ": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町平井",
-      "price_man": 6.35,
-      "area_sqm": 47.8,
-      "url": "https://www.homes.co.jp/chintai/room/4dfa94eaab8ae1a0547343c00aa10c345ea7489e/",
-      "text": "アルソールＡ"
     },
     "https://www.homes.co.jp/chintai/room/50aa38b1586c74fe5bf55b442533f2aaa27f6240/|ＷＩＴ（ウィット）": {
       "first_seen": "2026-07-25",
@@ -116,6 +80,15 @@
       "area_sqm": 47.8,
       "url": "https://www.homes.co.jp/chintai/room/743653526dd15a5cf0cb87c5f0f02fb57228353c/",
       "text": "アルソールＢ"
+    },
+    "https://www.homes.co.jp/chintai/room/4dfa94eaab8ae1a0547343c00aa10c345ea7489e/|アルソールＡ": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 6.35,
+      "area_sqm": 47.8,
+      "url": "https://www.homes.co.jp/chintai/room/4dfa94eaab8ae1a0547343c00aa10c345ea7489e/",
+      "text": "アルソールＡ"
     },
     "https://www.homes.co.jp/chintai/room/9892cdb93dee6b783678e4b653998e31768157e6/|リバレイン": {
       "first_seen": "2026-07-25",
@@ -423,6 +396,51 @@
       "url": "https://www.homes.co.jp/chintai/room/fc85c6da14126991adeb2393f951224c61b474e7/",
       "text": "バロール道越"
     },
+    "https://www.homes.co.jp/chintai/room/682ae10776e1c6b7e3e04d2407ad3a34a346af1d/|グランペール函南": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 7.6,
+      "area_sqm": 60.5,
+      "url": "https://www.homes.co.jp/chintai/room/682ae10776e1c6b7e3e04d2407ad3a34a346af1d/",
+      "text": "グランペール函南"
+    },
+    "https://www.homes.co.jp/chintai/room/a29cd0b72fff9ad5f5ada84593e03a70c8a31eaa/|グランペール函南": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 7.6,
+      "area_sqm": 60.5,
+      "url": "https://www.homes.co.jp/chintai/room/a29cd0b72fff9ad5f5ada84593e03a70c8a31eaa/",
+      "text": "グランペール函南"
+    },
+    "https://www.homes.co.jp/chintai/room/8d6a86d4bc0962fb61d2cb9f0d81fc35653d245f/|グランペール函南": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 7.4,
+      "area_sqm": 60.5,
+      "url": "https://www.homes.co.jp/chintai/room/8d6a86d4bc0962fb61d2cb9f0d81fc35653d245f/",
+      "text": "グランペール函南"
+    },
+    "https://www.homes.co.jp/chintai/room/6b62931fb083efac6a43711a9c3a660e67679e39/|グランペール函南": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 7.4,
+      "area_sqm": 60.5,
+      "url": "https://www.homes.co.jp/chintai/room/6b62931fb083efac6a43711a9c3a660e67679e39/",
+      "text": "グランペール函南"
+    },
+    "https://www.homes.co.jp/chintai/room/b103e52860be5a27d2d2e86e45476566ed3463f1/|グランペール函南": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町大土肥",
+      "price_man": 7.8,
+      "area_sqm": 60.5,
+      "url": "https://www.homes.co.jp/chintai/room/b103e52860be5a27d2d2e86e45476566ed3463f1/",
+      "text": "グランペール函南"
+    },
     "https://www.homes.co.jp/chintai/room/bbd3353d43302da5a7dd501733f2738c2088a075/|グランドール高城Ｃ": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
@@ -467,44 +485,8 @@
       "area_sqm": 63.5,
       "url": "https://www.homes.co.jp/chintai/room/d64561bb0378e34bbf0b05a63d92906ba76ae2a6/",
       "text": "グランドール高城Ｃ"
-    },
-    "https://www.homes.co.jp/chintai/room/d8bc20453da06d0fb10da0d46ed163389e132783/|フォンティーヌ小高壱番館": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 7.2,
-      "area_sqm": 76.0,
-      "url": "https://www.homes.co.jp/chintai/room/d8bc20453da06d0fb10da0d46ed163389e132783/",
-      "text": "フォンティーヌ小高壱番館"
-    },
-    "https://www.homes.co.jp/chintai/room/38b887e38bf6db001f706a290f8186225d27e5aa/|フォンティーヌ小高壱番館": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 6.6,
-      "area_sqm": 71.7,
-      "url": "https://www.homes.co.jp/chintai/room/38b887e38bf6db001f706a290f8186225d27e5aa/",
-      "text": "フォンティーヌ小高壱番館"
-    },
-    "https://www.homes.co.jp/chintai/room/56657367480b6615b4965cdd2115263374cc4b98/|フォンティーヌ小高壱番館": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 6.8,
-      "area_sqm": 66.2,
-      "url": "https://www.homes.co.jp/chintai/room/56657367480b6615b4965cdd2115263374cc4b98/",
-      "text": "フォンティーヌ小高壱番館"
-    },
-    "https://www.homes.co.jp/chintai/room/0da6d5a43ab2882ca1f36c1acfa4955b4a3f0358/|フォンティーヌ小高壱番館": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町大土肥",
-      "price_man": 7.0,
-      "area_sqm": 66.2,
-      "url": "https://www.homes.co.jp/chintai/room/0da6d5a43ab2882ca1f36c1acfa4955b4a3f0358/",
-      "text": "フォンティーヌ小高壱番館"
     }
   },
-  "hash": "e71845dababe154e",
-  "fetched_at": "2026-07-26T05:07:50.533897"
+  "hash": "7e3f056b850ed5fa",
+  "fetched_at": "2026-07-26T08:42:35.495822"
 }

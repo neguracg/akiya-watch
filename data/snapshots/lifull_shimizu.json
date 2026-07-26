@@ -162,6 +162,15 @@
       "url": "https://www.homes.co.jp/tochi/b-1540930000037/",
       "text": "駿東郡清水町長沢 (大岡駅)"
     },
+    "https://www.homes.co.jp/tochi/b-1436870001763/|駿東郡清水町柿田 (沼津駅)": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "駿東郡清水町柿田 (沼津駅)",
+      "price_man": 2200,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1436870001763/",
+      "text": "駿東郡清水町柿田 (沼津駅)"
+    },
     "https://www.homes.co.jp/tochi/b-1265050002603/|駿東郡清水町徳倉 (三島駅)": {
       "first_seen": "2026-06-19",
       "last_seen": "2026-07-26",
@@ -253,6 +262,6 @@
       "text": "駿東郡清水町徳倉 (三島駅)"
     }
   },
-  "hash": "ae9d13bfc4865d80",
-  "fetched_at": "2026-07-26T05:27:22.339972"
+  "hash": "346d4d9070bf9b3a",
+  "fetched_at": "2026-07-26T09:02:46.616162"
 }

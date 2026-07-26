@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175689|貸店舗（建物一部） 熱海市清水町12-10": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "熱海市清水町12-10",
+      "price_man": 10.0,
+      "area_sqm": 42.5,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175689",
+      "text": "貸店舗（建物一部） 熱海市清水町12-10"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148867|貸アパート 熱海市中央町10-10": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
@@ -260,17 +269,8 @@
       "area_sqm": 36.8,
       "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131618",
       "text": "貸アパート 熱海市昭和町13-1"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131617|貸アパート 熱海市昭和町13-1": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "熱海市昭和町13-1",
-      "price_man": 4.8,
-      "area_sqm": 28.2,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131617",
-      "text": "貸アパート 熱海市昭和町13-1"
     }
   },
-  "hash": "7d08e9e9469f2ad6",
-  "fetched_at": "2026-07-26T05:22:43.633909"
+  "hash": "91c49ab3e6b4cc70",
+  "fetched_at": "2026-07-26T08:58:01.781088"
 }

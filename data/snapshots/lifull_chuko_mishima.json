@@ -252,25 +252,25 @@
       "url": "https://www.homes.co.jp/kodate/b-1265050002639/",
       "text": "三島市佐野見晴台中古住宅"
     },
+    "https://www.homes.co.jp/kodate/b-1490460002433/|三島市錦が丘　中古戸建": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "三島市錦が丘　中古戸建",
+      "price_man": 2499,
+      "area_sqm": 187.7,
+      "url": "https://www.homes.co.jp/kodate/b-1490460002433/",
+      "text": "三島市錦が丘　中古戸建"
+    },
     "https://www.homes.co.jp/kodate/b-1475010001832/|三島市錦が丘　中古一戸建て": {
       "first_seen": "2026-07-20",
       "last_seen": "2026-07-26",
       "location": "三島市錦が丘　中古一戸建て",
-      "price_man": 2349,
+      "price_man": 2449,
       "area_sqm": 187.7,
       "url": "https://www.homes.co.jp/kodate/b-1475010001832/",
       "text": "三島市錦が丘　中古一戸建て"
-    },
-    "https://www.homes.co.jp/kodate/b-1556780000226/|中古戸建　再生住宅　三島市錦が丘": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "中古戸建　再生住宅　三島市錦が丘",
-      "price_man": 2499,
-      "area_sqm": 187.7,
-      "url": "https://www.homes.co.jp/kodate/b-1556780000226/",
-      "text": "中古戸建　再生住宅　三島市錦が丘"
     }
   },
-  "hash": "159e3e7dcdab96c0",
-  "fetched_at": "2026-07-26T05:12:56.016429"
+  "hash": "961168da192ffe87",
+  "fetched_at": "2026-07-26T08:47:39.338401"
 }

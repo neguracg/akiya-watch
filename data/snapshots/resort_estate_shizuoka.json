@@ -99,51 +99,6 @@
       "url": "https://resort-estate.com/detail/3460",
       "text": "静岡県裾野市須山「愛鷹つつじの咲く別荘地"
     },
-    "https://resort-estate.com/detail/1803|静岡県熱海市桜木町「桜沢別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市桜木町「桜沢別荘地」",
-      "price_man": 16600,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1803",
-      "text": "静岡県熱海市桜木町「桜沢別荘地」"
-    },
-    "https://resort-estate.com/detail/1842|静岡県伊東市富戸大室高原1丁目": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市富戸大室高原1丁目",
-      "price_man": 4100,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1842",
-      "text": "静岡県伊東市富戸大室高原1丁目"
-    },
-    "https://resort-estate.com/detail/1336|静岡県伊東市八幡野": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市八幡野",
-      "price_man": 3780,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1336",
-      "text": "静岡県伊東市八幡野"
-    },
-    "https://resort-estate.com/detail/1906|静岡県伊東市「大室高原別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市「大室高原別荘地」",
-      "price_man": 1570,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1906",
-      "text": "静岡県伊東市「大室高原別荘地」"
-    },
-    "https://resort-estate.com/detail/1112|静岡県伊東市": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市",
-      "price_man": 2950,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1112",
-      "text": "静岡県伊東市"
-    },
     "https://resort-estate.com/detail/1871|静岡県熱海市西熱海町「西熱海別荘地」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -152,6 +107,51 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1871",
       "text": "静岡県熱海市西熱海町「西熱海別荘地」"
+    },
+    "https://resort-estate.com/detail/1836|静岡県熱海市上多賀": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市上多賀",
+      "price_man": 4180,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1836",
+      "text": "静岡県熱海市上多賀"
+    },
+    "https://resort-estate.com/detail/1934|静岡県伊東市宇佐美「みのりの村別荘地」": {
+      "first_seen": "2026-07-07",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市宇佐美「みのりの村別荘地」",
+      "price_man": 1580,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1934",
+      "text": "静岡県伊東市宇佐美「みのりの村別荘地」"
+    },
+    "https://resort-estate.com/detail/1784|静岡県函南町南箱根ダイヤランド": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県函南町南箱根ダイヤランド",
+      "price_man": 3500,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1784",
+      "text": "静岡県函南町南箱根ダイヤランド"
+    },
+    "https://resort-estate.com/detail/1913|静岡県伊東市吉田": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市吉田",
+      "price_man": 4980,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1913",
+      "text": "静岡県伊東市吉田"
+    },
+    "https://resort-estate.com/detail/1909|静岡県伊東市赤沢「天城高原別荘地」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市赤沢「天城高原別荘地」",
+      "price_man": 2180,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1909",
+      "text": "静岡県伊東市赤沢「天城高原別荘地」"
     },
     "https://resort-estate.com/detail/3436|静岡県裾野市「愛鷹つつじの咲く別荘地": {
       "first_seen": "2026-07-03",
@@ -171,6 +171,15 @@
       "url": "https://resort-estate.com/detail/3354",
       "text": "静岡県伊東市八幡野"
     },
+    "https://resort-estate.com/detail/1641|静岡県裾野市「十里木南富士別荘地」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県裾野市「十里木南富士別荘地」",
+      "price_man": 2980,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1641",
+      "text": "静岡県裾野市「十里木南富士別荘地」"
+    },
     "https://resort-estate.com/detail/1797|静岡県伊東市「浮山温泉別荘地」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -188,15 +197,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1943",
       "text": "静岡県熱海市「南箱根ダイヤランド」"
-    },
-    "https://resort-estate.com/detail/1934|静岡県伊東市宇佐美「みのりの村別荘地」": {
-      "first_seen": "2026-07-07",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市宇佐美「みのりの村別荘地」",
-      "price_man": 1580,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1934",
-      "text": "静岡県伊東市宇佐美「みのりの村別荘地」"
     },
     "https://resort-estate.com/detail/1794|静岡県裾野市須山「十里木高原別荘地」": {
       "first_seen": "2026-07-03",
@@ -261,6 +261,51 @@
       "url": "https://resort-estate.com/detail/1924",
       "text": "物件No.1924 伊東市 八幡野 新築別荘 こちらの物件は、現在会員様のみ閲覧可能です"
     },
+    "https://resort-estate.com/detail/1844|静岡県伊東市「エンゼルフォレスト伊豆赤沢」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市「エンゼルフォレスト伊豆赤沢」",
+      "price_man": 3980,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1844",
+      "text": "静岡県伊東市「エンゼルフォレスト伊豆赤沢」"
+    },
+    "https://resort-estate.com/detail/1813|静岡県熱海市下多賀": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市下多賀",
+      "price_man": 1750,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1813",
+      "text": "静岡県熱海市下多賀"
+    },
+    "https://resort-estate.com/detail/1870|静岡県田方郡函南町丹那「南箱根ダイヤランド」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町丹那「南箱根ダイヤランド」",
+      "price_man": 3180,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1870",
+      "text": "静岡県田方郡函南町丹那「南箱根ダイヤランド」"
+    },
+    "https://resort-estate.com/detail/1852|静岡県熱海市桜木町": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市桜木町",
+      "price_man": 4450,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1852",
+      "text": "静岡県熱海市桜木町"
+    },
+    "https://resort-estate.com/detail/1838|静岡県熱海市西熱海町2丁目": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市西熱海町2丁目",
+      "price_man": 2800,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1838",
+      "text": "静岡県熱海市西熱海町2丁目"
+    },
     "https://resort-estate.com/detail/1923|静岡県伊東市川奈「富士急川奈別荘地」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -269,42 +314,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1923",
       "text": "静岡県伊東市川奈「富士急川奈別荘地」"
-    },
-    "https://resort-estate.com/detail/1878|静岡県伊東市「Villike大室高原Koti～コティ～」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市「Villike大室高原Koti～コティ～」",
-      "price_man": 7800,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1878",
-      "text": "静岡県伊東市「Villike大室高原Koti～コティ～」"
-    },
-    "https://resort-estate.com/detail/1869|静岡県熱海市上多賀": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市上多賀",
-      "price_man": 3700,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1869",
-      "text": "静岡県熱海市上多賀"
-    },
-    "https://resort-estate.com/detail/1793|静岡県田方郡函南町「": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町「",
-      "price_man": 2300,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1793",
-      "text": "静岡県田方郡函南町「"
-    },
-    "https://resort-estate.com/detail/1908|静岡県伊東市富戸「大室高原別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市富戸「大室高原別荘地」",
-      "price_man": 1580,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1908",
-      "text": "静岡県伊東市富戸「大室高原別荘地」"
     },
     "https://resort-estate.com/detail/1915|静岡県熱海市伊豆山": {
       "first_seen": "2026-07-03",
@@ -351,15 +360,6 @@
       "url": "https://resort-estate.com/detail/1823",
       "text": "静岡県熱海市「熱海自然郷別荘地」"
     },
-    "https://resort-estate.com/detail/1909|静岡県伊東市赤沢「天城高原別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市赤沢「天城高原別荘地」",
-      "price_man": 2180,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1909",
-      "text": "静岡県伊東市赤沢「天城高原別荘地」"
-    },
     "https://resort-estate.com/detail/1914|静岡県熱海市上多賀": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -368,15 +368,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1914",
       "text": "静岡県熱海市上多賀"
-    },
-    "https://resort-estate.com/detail/1913|静岡県伊東市吉田": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市吉田",
-      "price_man": 4980,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1913",
-      "text": "静岡県伊東市吉田"
     },
     "https://resort-estate.com/detail/1911|物件No.1911 伊東市 湯川 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です": {
       "first_seen": "2026-07-03",
@@ -396,23 +387,41 @@
       "url": "https://resort-estate.com/detail/1910",
       "text": "静岡県熱海市西熱海町２丁目"
     },
-    "https://resort-estate.com/detail/1641|静岡県裾野市「十里木南富士別荘地」": {
+    "https://resort-estate.com/detail/1908|静岡県伊東市富戸「大室高原別荘地」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県裾野市「十里木南富士別荘地」",
-      "price_man": 3980,
+      "location": "静岡県伊東市富戸「大室高原別荘地」",
+      "price_man": 1580,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1641",
-      "text": "静岡県裾野市「十里木南富士別荘地」"
+      "url": "https://resort-estate.com/detail/1908",
+      "text": "静岡県伊東市富戸「大室高原別荘地」"
     },
-    "https://resort-estate.com/detail/1807|静岡県田方郡函南町「伊豆エメラルドタウン」": {
+    "https://resort-estate.com/detail/1828|静岡県伊東市富戸": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町「伊豆エメラルドタウン」",
-      "price_man": 3750,
+      "location": "静岡県伊東市富戸",
+      "price_man": 7000,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1807",
-      "text": "静岡県田方郡函南町「伊豆エメラルドタウン」"
+      "url": "https://resort-estate.com/detail/1828",
+      "text": "静岡県伊東市富戸"
+    },
+    "https://resort-estate.com/detail/1857|静岡県伊東市赤沢「あかざわ恒陽台別荘地」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市赤沢「あかざわ恒陽台別荘地」",
+      "price_man": 1850,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1857",
+      "text": "静岡県伊東市赤沢「あかざわ恒陽台別荘地」"
+    },
+    "https://resort-estate.com/detail/1906|静岡県伊東市「大室高原別荘地」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市「大室高原別荘地」",
+      "price_man": 1570,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1906",
+      "text": "静岡県伊東市「大室高原別荘地」"
     },
     "https://resort-estate.com/detail/1898|静岡県熱海市「熱海自然郷」": {
       "first_seen": "2026-07-03",
@@ -522,6 +531,24 @@
       "url": "https://resort-estate.com/detail/1879",
       "text": "静岡県伊東市「Villike八幡野ESekiya～セキヤ～」"
     },
+    "https://resort-estate.com/detail/1112|静岡県伊東市": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市",
+      "price_man": 2950,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1112",
+      "text": "静岡県伊東市"
+    },
+    "https://resort-estate.com/detail/1868|静岡県熱海市綱代": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市綱代",
+      "price_man": 13000,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1868",
+      "text": "静岡県熱海市綱代"
+    },
     "https://resort-estate.com/detail/1790|静岡県伊東市「": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -531,14 +558,14 @@
       "url": "https://resort-estate.com/detail/1790",
       "text": "静岡県伊東市「"
     },
-    "https://resort-estate.com/detail/1826|静岡県伊東市新井": {
+    "https://resort-estate.com/detail/1878|静岡県伊東市「Villike大室高原Koti～コティ～」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県伊東市新井",
-      "price_man": 2800,
+      "location": "静岡県伊東市「Villike大室高原Koti～コティ～」",
+      "price_man": 7800,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1826",
-      "text": "静岡県伊東市新井"
+      "url": "https://resort-estate.com/detail/1878",
+      "text": "静岡県伊東市「Villike大室高原Koti～コティ～」"
     },
     "https://resort-estate.com/detail/1875|静岡県伊東市十足「イトーピア別荘地」": {
       "first_seen": "2026-07-03",
@@ -567,23 +594,14 @@
       "url": "https://resort-estate.com/detail/1873",
       "text": "静岡県田方郡函南町畑"
     },
-    "https://resort-estate.com/detail/1870|静岡県田方郡函南町丹那「南箱根ダイヤランド」": {
+    "https://resort-estate.com/detail/1869|静岡県熱海市上多賀": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県田方郡函南町丹那「南箱根ダイヤランド」",
-      "price_man": 3180,
+      "location": "静岡県熱海市上多賀",
+      "price_man": 3700,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1870",
-      "text": "静岡県田方郡函南町丹那「南箱根ダイヤランド」"
-    },
-    "https://resort-estate.com/detail/1868|静岡県熱海市綱代": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市綱代",
-      "price_man": 13000,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1868",
-      "text": "静岡県熱海市綱代"
+      "url": "https://resort-estate.com/detail/1869",
+      "text": "静岡県熱海市上多賀"
     },
     "https://resort-estate.com/detail/1867|静岡県伊東市吉田": {
       "first_seen": "2026-07-03",
@@ -593,6 +611,24 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1867",
       "text": "静岡県伊東市吉田"
+    },
+    "https://resort-estate.com/detail/1826|静岡県伊東市新井": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市新井",
+      "price_man": 2800,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1826",
+      "text": "静岡県伊東市新井"
+    },
+    "https://resort-estate.com/detail/1807|静岡県田方郡函南町「伊豆エメラルドタウン」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町「伊豆エメラルドタウン」",
+      "price_man": 3750,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1807",
+      "text": "静岡県田方郡函南町「伊豆エメラルドタウン」"
     },
     "https://resort-estate.com/detail/1862|静岡県熱海市上多賀「熱海自然郷」": {
       "first_seen": "2026-07-03",
@@ -612,6 +648,24 @@
       "url": "https://resort-estate.com/detail/1859",
       "text": "物件No.1859 伊東市 赤沢 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です"
     },
+    "https://resort-estate.com/detail/1057|静岡県伊豆市堀切": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊豆市堀切",
+      "price_man": 2380,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1057",
+      "text": "静岡県伊豆市堀切"
+    },
+    "https://resort-estate.com/detail/1528|静岡県裾野市須山『十里木高原別荘地』": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県裾野市須山『十里木高原別荘地』",
+      "price_man": 4850,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1528",
+      "text": "静岡県裾野市須山『十里木高原別荘地』"
+    },
     "https://resort-estate.com/detail/1858|静岡県伊東市富戸": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -621,24 +675,6 @@
       "url": "https://resort-estate.com/detail/1858",
       "text": "静岡県伊東市富戸"
     },
-    "https://resort-estate.com/detail/1804|静岡県熱海市下多賀": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市下多賀",
-      "price_man": 2380,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1804",
-      "text": "静岡県熱海市下多賀"
-    },
-    "https://resort-estate.com/detail/1857|静岡県伊東市赤沢「あかざわ恒陽台別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市赤沢「あかざわ恒陽台別荘地」",
-      "price_man": 1850,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1857",
-      "text": "静岡県伊東市赤沢「あかざわ恒陽台別荘地」"
-    },
     "https://resort-estate.com/detail/1853|静岡県熱海市網代": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -647,15 +683,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1853",
       "text": "静岡県熱海市網代"
-    },
-    "https://resort-estate.com/detail/1852|静岡県熱海市桜木町": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市桜木町",
-      "price_man": 4450,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1852",
-      "text": "静岡県熱海市桜木町"
     },
     "https://resort-estate.com/detail/1851|静岡県熱海市緑ガ丘町": {
       "first_seen": "2026-07-03",
@@ -702,15 +729,6 @@
       "url": "https://resort-estate.com/detail/1845",
       "text": "静岡県伊東市富戸"
     },
-    "https://resort-estate.com/detail/1844|静岡県伊東市「エンゼルフォレスト伊豆赤沢」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市「エンゼルフォレスト伊豆赤沢」",
-      "price_man": 3980,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1844",
-      "text": "静岡県伊東市「エンゼルフォレスト伊豆赤沢」"
-    },
     "https://resort-estate.com/detail/1843|静岡県伊東市富戸": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -719,6 +737,15 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1843",
       "text": "静岡県伊東市富戸"
+    },
+    "https://resort-estate.com/detail/1842|静岡県伊東市富戸大室高原1丁目": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市富戸大室高原1丁目",
+      "price_man": 4100,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1842",
+      "text": "静岡県伊東市富戸大室高原1丁目"
     },
     "https://resort-estate.com/detail/1821|静岡県伊東市池南大室台別荘地": {
       "first_seen": "2026-07-03",
@@ -729,32 +756,14 @@
       "url": "https://resort-estate.com/detail/1821",
       "text": "静岡県伊東市池南大室台別荘地"
     },
-    "https://resort-estate.com/detail/1838|静岡県熱海市西熱海町2丁目": {
+    "https://resort-estate.com/detail/1788|静岡県熱海市「南熱海が丘別荘地」": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県熱海市西熱海町2丁目",
-      "price_man": 2800,
+      "location": "静岡県熱海市「南熱海が丘別荘地」",
+      "price_man": 6000,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1838",
-      "text": "静岡県熱海市西熱海町2丁目"
-    },
-    "https://resort-estate.com/detail/1800|静岡県熱海市伊豆山": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市伊豆山",
-      "price_man": 39000,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1800",
-      "text": "静岡県熱海市伊豆山"
-    },
-    "https://resort-estate.com/detail/1836|静岡県熱海市上多賀": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市上多賀",
-      "price_man": 4180,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1836",
-      "text": "静岡県熱海市上多賀"
+      "url": "https://resort-estate.com/detail/1788",
+      "text": "静岡県熱海市「南熱海が丘別荘地」"
     },
     "https://resort-estate.com/detail/1835|物件No.1835 田方郡函南町 平井南 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です": {
       "first_seen": "2026-07-03",
@@ -792,15 +801,6 @@
       "url": "https://resort-estate.com/detail/1831",
       "text": "物件No.1831 熱海市 西山町 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です"
     },
-    "https://resort-estate.com/detail/1828|静岡県伊東市富戸": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市富戸",
-      "price_man": 7000,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1828",
-      "text": "静岡県伊東市富戸"
-    },
     "https://resort-estate.com/detail/1825|静岡県熱海市網代": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
@@ -809,15 +809,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1825",
       "text": "静岡県熱海市網代"
-    },
-    "https://resort-estate.com/detail/1813|静岡県熱海市下多賀": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市下多賀",
-      "price_man": 1750,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1813",
-      "text": "静岡県熱海市下多賀"
     },
     "https://resort-estate.com/detail/1811|静岡県伊東市玖須美元和田": {
       "first_seen": "2026-07-03",
@@ -846,14 +837,41 @@
       "url": "https://resort-estate.com/detail/1806",
       "text": "物件No.1806 熱海市 西熱海町1丁目 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です"
     },
-    "https://resort-estate.com/detail/1782|静岡県「南箱根ダイヤランド」": {
+    "https://resort-estate.com/detail/1804|静岡県熱海市下多賀": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-07-26",
-      "location": "静岡県「南箱根ダイヤランド」",
-      "price_man": 3500,
+      "location": "静岡県熱海市下多賀",
+      "price_man": 2380,
       "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1782",
-      "text": "静岡県「南箱根ダイヤランド」"
+      "url": "https://resort-estate.com/detail/1804",
+      "text": "静岡県熱海市下多賀"
+    },
+    "https://resort-estate.com/detail/1793|静岡県田方郡函南町「": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県田方郡函南町「",
+      "price_man": 2300,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1793",
+      "text": "静岡県田方郡函南町「"
+    },
+    "https://resort-estate.com/detail/1307|静岡県伊東市宇佐美うぐいすの丘": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市宇佐美うぐいすの丘",
+      "price_man": 1500,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1307",
+      "text": "静岡県伊東市宇佐美うぐいすの丘"
+    },
+    "https://resort-estate.com/detail/1803|静岡県熱海市桜木町「桜沢別荘地」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市桜木町「桜沢別荘地」",
+      "price_man": 16600,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1803",
+      "text": "静岡県熱海市桜木町「桜沢別荘地」"
     },
     "https://resort-estate.com/detail/1801|静岡県伊東市宇佐美「宇佐美みのりの村別荘地」": {
       "first_seen": "2026-07-03",
@@ -863,6 +881,15 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1801",
       "text": "静岡県伊東市宇佐美「宇佐美みのりの村別荘地」"
+    },
+    "https://resort-estate.com/detail/1800|静岡県熱海市伊豆山": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県熱海市伊豆山",
+      "price_man": 39000,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1800",
+      "text": "静岡県熱海市伊豆山"
     },
     "https://resort-estate.com/detail/1799|静岡県伊東市宇佐美「宇佐美みのりの村」うぐいすの丘": {
       "first_seen": "2026-07-03",
@@ -918,24 +945,6 @@
       "url": "https://resort-estate.com/detail/1789",
       "text": "静岡県熱海市「南熱海グリーンヒル」"
     },
-    "https://resort-estate.com/detail/1788|静岡県熱海市「南熱海が丘別荘地」": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県熱海市「南熱海が丘別荘地」",
-      "price_man": 6000,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1788",
-      "text": "静岡県熱海市「南熱海が丘別荘地」"
-    },
-    "https://resort-estate.com/detail/1784|静岡県函南町南箱根ダイヤランド": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県函南町南箱根ダイヤランド",
-      "price_man": 3500,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1784",
-      "text": "静岡県函南町南箱根ダイヤランド"
-    },
     "https://resort-estate.com/detail/1783|静岡県田方郡函南町「南箱根ダイヤランド」": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -944,6 +953,15 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1783",
       "text": "静岡県田方郡函南町「南箱根ダイヤランド」"
+    },
+    "https://resort-estate.com/detail/1782|静岡県「南箱根ダイヤランド」": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-26",
+      "location": "静岡県「南箱根ダイヤランド」",
+      "price_man": 3500,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1782",
+      "text": "静岡県「南箱根ダイヤランド」"
     },
     "https://resort-estate.com/detail/1750|静岡県伊東市八幡野「伊豆急伊豆高原分譲地」": {
       "first_seen": "2026-07-03",
@@ -971,15 +989,6 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1497",
       "text": "物件No.1497 裾野市 須山 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です"
-    },
-    "https://resort-estate.com/detail/1528|静岡県裾野市須山『十里木高原別荘地』": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県裾野市須山『十里木高原別荘地』",
-      "price_man": 4850,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1528",
-      "text": "静岡県裾野市須山『十里木高原別荘地』"
     },
     "https://resort-estate.com/detail/3472|静岡県伊豆市": {
       "first_seen": "2026-07-25",
@@ -1017,15 +1026,6 @@
       "url": "https://resort-estate.com/detail/1261",
       "text": "物件No.1261 熱海市 熱海 リゾートマンション こちらの物件は、現在会員様のみ閲覧可能です"
     },
-    "https://resort-estate.com/detail/1307|静岡県伊東市宇佐美うぐいすの丘": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊東市宇佐美うぐいすの丘",
-      "price_man": 1500,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1307",
-      "text": "静岡県伊東市宇佐美うぐいすの丘"
-    },
     "https://resort-estate.com/detail/1302|静岡県熱海市泉": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -1034,6 +1034,15 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1302",
       "text": "静岡県熱海市泉"
+    },
+    "https://resort-estate.com/detail/1336|静岡県伊東市八幡野": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県伊東市八幡野",
+      "price_man": 3780,
+      "area_sqm": null,
+      "url": "https://resort-estate.com/detail/1336",
+      "text": "静岡県伊東市八幡野"
     },
     "https://resort-estate.com/detail/1243|物件No.1243 沼津市 大岡 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です": {
       "first_seen": "2026-07-25",
@@ -1052,17 +1061,8 @@
       "area_sqm": null,
       "url": "https://resort-estate.com/detail/1219",
       "text": "物件No.1219 伊東市 宇佐美 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です"
-    },
-    "https://resort-estate.com/detail/1057|静岡県伊豆市堀切": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-07-26",
-      "location": "静岡県伊豆市堀切",
-      "price_man": 2380,
-      "area_sqm": null,
-      "url": "https://resort-estate.com/detail/1057",
-      "text": "静岡県伊豆市堀切"
     }
   },
-  "hash": "b2c40f863ba395c2",
-  "fetched_at": "2026-07-26T05:20:26.045667"
+  "hash": "d10c73d9e96a1d35",
+  "fetched_at": "2026-07-26T08:55:39.138190"
 }

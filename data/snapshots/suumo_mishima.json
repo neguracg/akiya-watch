@@ -216,15 +216,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_73151079/",
       "text": "☆閑静な住宅街♪ゆとりの70坪超、現況渡し。雛段のため陽当り良好。"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/|☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市徳倉４",
-      "price_man": 1500,
-      "area_sqm": 175.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/",
-      "text": "☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/|文教町２（三島駅） 1500万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -233,6 +224,15 @@
       "area_sqm": 170.1,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20396860/",
       "text": "文教町２（三島駅） 1500万円"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/|☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市徳倉４",
+      "price_man": 1500,
+      "area_sqm": 175.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_76386248/",
+      "text": "☆保育園・幼稚園・小学校が近く、子育て環境良好。引渡しは、解体更地渡し。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21189978/|≪≪建築条件無し！お好みのハウスメーカーにて建築可能です♪≫≫": {
       "first_seen": "2026-07-02",
@@ -270,15 +270,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21216432/",
       "text": "萩（長泉なめり駅） 1680万円"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市谷田",
-      "price_man": 1780,
-      "area_sqm": 177.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/",
-      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/|【建築条件なし！】■敷地面積６０坪以上■全３区画販売": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -287,6 +278,15 @@
       "area_sqm": 201.9,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20623244/",
       "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市谷田",
+      "price_man": 1780,
+      "area_sqm": 177.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78293692/",
+      "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78043370/|谷田（三島二日町駅） 1840万円・2040万円": {
       "first_seen": "2026-06-17",
@@ -306,15 +306,6 @@
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20224942/",
       "text": "利便性と閑静な住環境を兼ね備えた3区画分譲地建築条件付　造成工事中"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/|【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》": {
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市松本330-9",
-      "price_man": 1880,
-      "area_sqm": 274.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/",
-      "text": "【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-07-26",
@@ -323,6 +314,15 @@
       "area_sqm": 241.3,
       "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20915486/",
       "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/|【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》": {
+      "first_seen": "2026-07-21",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市松本330-9",
+      "price_man": 1880,
+      "area_sqm": 274.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21132161/",
+      "text": "【建築条件なし♪】■敷地面積広々８０坪以上■全１区画販売《三島市松本》"
     },
     "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20556749/|松本 1880万円": {
       "first_seen": "2026-06-17",
@@ -523,6 +523,6 @@
       "text": "若松町（三島駅） 1億1000万円"
     }
   },
-  "hash": "f4b224d3b1531761",
-  "fetched_at": "2026-07-26T05:06:15.911151"
+  "hash": "e62f989b79bffbf6",
+  "fetched_at": "2026-07-26T08:40:55.849243"
 }

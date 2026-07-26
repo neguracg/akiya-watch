@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.homes.co.jp/chintai/room/d995ec4b5c3699b698a053f1b0873849d46193d6/|ソレイユ　ノーブル": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市南町17-6",
+      "price_man": 8.3,
+      "area_sqm": 68.8,
+      "url": "https://www.homes.co.jp/chintai/room/d995ec4b5c3699b698a053f1b0873849d46193d6/",
+      "text": "ソレイユ　ノーブル"
+    },
     "https://www.homes.co.jp/chintai/room/6e0fb876cdfa2a6e3627b339c7820a4e9e40bed2/|ヘリテージ宮町": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -89,15 +98,6 @@
       "area_sqm": 33.9,
       "url": "https://www.homes.co.jp/chintai/room/72c34336032d542f9eca5cd1491c4c5977cbf4f6/",
       "text": "ヘリテージ宮町"
-    },
-    "https://www.homes.co.jp/chintai/room/d995ec4b5c3699b698a053f1b0873849d46193d6/|ソレイユ　ノーブル": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市南町17-6",
-      "price_man": 8.3,
-      "area_sqm": 68.8,
-      "url": "https://www.homes.co.jp/chintai/room/d995ec4b5c3699b698a053f1b0873849d46193d6/",
-      "text": "ソレイユ　ノーブル"
     },
     "https://www.homes.co.jp/chintai/room/865588d3dbd3ad98992a31269f14b595071085a7/|アンソレイエ祇園原": {
       "first_seen": "2026-07-25",
@@ -207,15 +207,6 @@
       "url": "https://www.homes.co.jp/chintai/room/a6f59cf214c6863408f939fdbf8df0fb98a8f80b/",
       "text": "カンパネッロ"
     },
-    "https://www.homes.co.jp/chintai/room/823cc945bb95c161c132736381c7ce7b6ea7fd8a/|パークサイド一番町": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市一番町2-34",
-      "price_man": 6.7,
-      "area_sqm": 36.3,
-      "url": "https://www.homes.co.jp/chintai/room/823cc945bb95c161c132736381c7ce7b6ea7fd8a/",
-      "text": "パークサイド一番町"
-    },
     "https://www.homes.co.jp/chintai/room/cc18e3e7992df004a17309544cfc30ad6ef68d9a/|パークサイド一番町": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -225,23 +216,14 @@
       "url": "https://www.homes.co.jp/chintai/room/cc18e3e7992df004a17309544cfc30ad6ef68d9a/",
       "text": "パークサイド一番町"
     },
-    "https://www.homes.co.jp/chintai/room/d9843ac3a0e611e28773dff4f8279861eca94444/|リュアラ モード": {
+    "https://www.homes.co.jp/chintai/room/823cc945bb95c161c132736381c7ce7b6ea7fd8a/|パークサイド一番町": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
-      "location": "静岡県三島市本町7-7",
+      "location": "静岡県三島市一番町2-34",
       "price_man": 6.7,
-      "area_sqm": 41.6,
-      "url": "https://www.homes.co.jp/chintai/room/d9843ac3a0e611e28773dff4f8279861eca94444/",
-      "text": "リュアラ モード"
-    },
-    "https://www.homes.co.jp/chintai/room/ad4f6ec76f79a4738f824035d90f128227964134/|リュアラ モード": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市本町7-7",
-      "price_man": 6.6,
-      "area_sqm": 41.6,
-      "url": "https://www.homes.co.jp/chintai/room/ad4f6ec76f79a4738f824035d90f128227964134/",
-      "text": "リュアラ モード"
+      "area_sqm": 36.3,
+      "url": "https://www.homes.co.jp/chintai/room/823cc945bb95c161c132736381c7ce7b6ea7fd8a/",
+      "text": "パークサイド一番町"
     },
     "https://www.homes.co.jp/chintai/room/b70890cd6d7e37f7d59e85eb60c2e91e893fe8ac/|アビタシオンA": {
       "first_seen": "2026-07-25",
@@ -305,6 +287,24 @@
       "area_sqm": 43.6,
       "url": "https://www.homes.co.jp/chintai/room/2803654c9c832a2836d7411bf20eda065e50c284/",
       "text": "ミクアルト"
+    },
+    "https://www.homes.co.jp/chintai/room/d9843ac3a0e611e28773dff4f8279861eca94444/|リュアラ モード": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市本町7-7",
+      "price_man": 6.7,
+      "area_sqm": 41.6,
+      "url": "https://www.homes.co.jp/chintai/room/d9843ac3a0e611e28773dff4f8279861eca94444/",
+      "text": "リュアラ モード"
+    },
+    "https://www.homes.co.jp/chintai/room/ad4f6ec76f79a4738f824035d90f128227964134/|リュアラ モード": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市本町7-7",
+      "price_man": 6.6,
+      "area_sqm": 41.6,
+      "url": "https://www.homes.co.jp/chintai/room/ad4f6ec76f79a4738f824035d90f128227964134/",
+      "text": "リュアラ モード"
     },
     "https://www.homes.co.jp/chintai/room/f73e80221f98c539e574230e6c19814375e4e841/|ヘリテージ宮町": {
       "first_seen": "2026-07-25",
@@ -396,14 +396,14 @@
       "url": "https://www.homes.co.jp/chintai/room/6eb0ae265ec0e8190339386529e0834219dcf10a/",
       "text": "ヘリテージ宮町"
     },
-    "https://www.homes.co.jp/chintai/room/a80f8f065d0ddb98527fa5c50d0b87d9dc59e9f5/|Ｃａｓａ　Ｔａｋｅｋｕｒａ": {
-      "first_seen": "2026-07-25",
+    "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/|Ｙａｓｕｎａ39": {
+      "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
-      "location": "静岡県三島市柳郷地",
-      "price_man": 7.7,
-      "area_sqm": 50.7,
-      "url": "https://www.homes.co.jp/chintai/room/a80f8f065d0ddb98527fa5c50d0b87d9dc59e9f5/",
-      "text": "Ｃａｓａ　Ｔａｋｅｋｕｒａ"
+      "location": "静岡県三島市西若町",
+      "price_man": 7.8,
+      "area_sqm": 40.3,
+      "url": "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/",
+      "text": "Ｙａｓｕｎａ39"
     },
     "https://www.homes.co.jp/chintai/room/13f934967213eefc9e8790a48ca85adb359945ad/|ニューグランポルテＴＳ": {
       "first_seen": "2026-07-25",
@@ -423,14 +423,14 @@
       "url": "https://www.homes.co.jp/chintai/room/e4e95cbc6b44687a3ffa02740fcb602c554594e6/",
       "text": "ニューグランポルテＴＳ"
     },
-    "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/|Ｙａｓｕｎａ39": {
+    "https://www.homes.co.jp/chintai/room/7e961e032b4f3a0c4bc1f1524523300dffa60fb3/|リジエールII": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
-      "location": "静岡県三島市西若町",
-      "price_man": 7.8,
-      "area_sqm": 40.3,
-      "url": "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/",
-      "text": "Ｙａｓｕｎａ39"
+      "location": "静岡県三島市谷田",
+      "price_man": 8.65,
+      "area_sqm": 43.5,
+      "url": "https://www.homes.co.jp/chintai/room/7e961e032b4f3a0c4bc1f1524523300dffa60fb3/",
+      "text": "リジエールII"
     },
     "https://www.homes.co.jp/chintai/room/82cfcb8286fbdd8d108f13b1e45f284d8f62ac60/|ベル・ビスカス": {
       "first_seen": "2026-07-25",
@@ -639,15 +639,6 @@
       "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
       "text": "タウンリバティＩＩ"
     },
-    "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/|フィオーレＹＳ": {
-      "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
-      "location": "静岡県三島市安久",
-      "price_man": 6.35,
-      "area_sqm": 56.8,
-      "url": "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/",
-      "text": "フィオーレＹＳ"
-    },
     "https://www.homes.co.jp/chintai/room/1a9b636f72b79aae8717bd60e8b35c86cc5b2547/|ロワール　23": {
       "first_seen": "2026-07-26",
       "last_seen": "2026-07-26",
@@ -674,8 +665,44 @@
       "area_sqm": 46.1,
       "url": "https://www.homes.co.jp/chintai/room/6f25df4792a90a68b6714ad0c23a0ec281a8171d/",
       "text": "ロワール　23"
+    },
+    "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市加屋町",
+      "price_man": 12.5,
+      "area_sqm": 64.5,
+      "url": "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/",
+      "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ"
+    },
+    "https://www.homes.co.jp/chintai/room/d8a902b2f21ee4a67c0ae88560d742c196f1fbb2/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市加屋町",
+      "price_man": 12.4,
+      "area_sqm": 64.5,
+      "url": "https://www.homes.co.jp/chintai/room/d8a902b2f21ee4a67c0ae88560d742c196f1fbb2/",
+      "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ"
+    },
+    "https://www.homes.co.jp/chintai/room/cf4dc2a30f75d22f10d17603285f9fa16c86895f/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市加屋町",
+      "price_man": 12.2,
+      "area_sqm": 66.4,
+      "url": "https://www.homes.co.jp/chintai/room/cf4dc2a30f75d22f10d17603285f9fa16c86895f/",
+      "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ"
+    },
+    "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市加屋町",
+      "price_man": 11.8,
+      "area_sqm": 64.5,
+      "url": "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/",
+      "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ"
     }
   },
-  "hash": "4e87ad030756212a",
-  "fetched_at": "2026-07-26T05:23:28.241229"
+  "hash": "64c0fbaa16e2a4bf",
+  "fetched_at": "2026-07-26T08:58:41.329912"
 }

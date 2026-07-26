@@ -171,6 +171,15 @@
       "url": "https://www.homes.co.jp/tochi/b-39046610000078/",
       "text": "伊豆の国市長岡 (伊豆長岡駅)"
     },
+    "https://www.homes.co.jp/tochi/b-33317490000154/|伊豆の国市古奈 (伊豆長岡駅)": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "伊豆の国市古奈 (伊豆長岡駅)",
+      "price_man": 780,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-33317490000154/",
+      "text": "伊豆の国市古奈 (伊豆長岡駅)"
+    },
     "https://www.homes.co.jp/tochi/b-33303690000038/|伊豆の国市古奈 (伊豆長岡駅)": {
       "first_seen": "2026-07-24",
       "last_seen": "2026-07-26",
@@ -260,17 +269,8 @@
       "area_sqm": null,
       "url": "https://www.homes.co.jp/tochi/b-1500050000601/",
       "text": "伊豆の国市中 (伊豆長岡駅)"
-    },
-    "https://www.homes.co.jp/tochi/b-33316480000096/|伊豆の国市原木 (原木駅)": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "伊豆の国市原木 (原木駅)",
-      "price_man": 980,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-33316480000096/",
-      "text": "伊豆の国市原木 (原木駅)"
     }
   },
-  "hash": "3186f61520211096",
-  "fetched_at": "2026-07-26T05:04:13.585202"
+  "hash": "c5de4d5d124b10da",
+  "fetched_at": "2026-07-26T08:38:25.935482"
 }

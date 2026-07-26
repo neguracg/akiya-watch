@@ -1,5 +1,14 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174851|貸アパート 沼津市西添町32-3": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "沼津市西添町32-3",
+      "price_man": 1.95,
+      "area_sqm": 20.5,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174851",
+      "text": "貸アパート 沼津市西添町32-3"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112369|貸アパート 沼津市三枚橋竹ノ岬717-1": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-07-26",
@@ -260,17 +269,8 @@
       "area_sqm": 125.0,
       "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173158",
       "text": "貸店舗（建物一括） 沼津市大岡1706-2"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71906|貸マンション 沼津市五月町": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
-      "location": "沼津市五月町",
-      "price_man": 7.2,
-      "area_sqm": 61.2,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71906",
-      "text": "貸マンション 沼津市五月町"
     }
   },
-  "hash": "10aabd8483dbfe5a",
-  "fetched_at": "2026-07-26T05:13:52.039638"
+  "hash": "d8e4c5a71a83ee2a",
+  "fetched_at": "2026-07-26T08:48:42.815873"
 }
