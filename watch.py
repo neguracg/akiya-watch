@@ -3015,7 +3015,7 @@ def run(dry_run: bool = False, only: str = "") -> int:
     session = requests.Session()
 
     results = []
-    disappeared = []   # (site_name, archived_item, days_since_removed) 消滅(7日以内)
+    disappeared = []   # (site_name, archived_item, days_since_removed, site_tab) 消滅(7日以内)
     today = date.today().isoformat()
     fail_count = 0
     run_start = time.time()
@@ -3041,7 +3041,7 @@ def run(dry_run: bool = False, only: str = "") -> int:
         log.info(f"[{sid}] fetch start: {url}")
 
         row = {
-            "id": sid, "name": name, "url": url, "yaml_status": yaml_status,
+            "id": sid, "name": name, "url": url, "yaml_status": yaml_status, "tab": site_tab,
             "http": None, "raw": 0, "price_cnt": 0, "area_cnt": 0,
             "fit_cnt": 0, "ng_cnt": 0, "added_cnt": 0, "note": "", "phase2": False,
             "props": [], "fits": [], "ng_items": [], "added_items": [],
@@ -3145,11 +3145,12 @@ def run(dry_run: bool = False, only: str = "") -> int:
             row["ng_items"] = ng_items
             row["added_items"] = added_items
 
-            # 消滅(7日以内)を収集
+            # 消滅(7日以内)を収集。site_tab はこの物件を出していたサイトの所属タブ
+            # （home/camp/rent。archive自体には持たせず、実行時に現在のurls.yaml設定から都度紐付ける）
             for k, a in archive.items():
                 d = _days_between(today, a.get("removed_on", today))
                 if 0 <= d <= DISAPPEAR_WINDOW_DAYS:
-                    disappeared.append((a.get("site_name", name), a, d))
+                    disappeared.append((a.get("site_name", name), a, d, site_tab))
 
             if props:
                 if not dry_run:
@@ -3349,6 +3350,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                 "url": p["url"],
                 "dk": p["key"],  # バックエンドdedupキー（url+"|"+text[:60]）。非表示永続化に使用
                 "ng": bool(p.get("ng_areas")),
+                "ng_areas": p.get("ng_areas", []),  # NGエリア該当ログ用（クライアント側でDATAから抽出）
                 # 自由入力の除外語マッチ用の検索テキスト（所在地＋見出し＋フラグ＋属性）
                 "hay": " ".join([
                     p.get("location", "") or "", p.get("text", "") or "", _flag_text(p),
@@ -3359,7 +3361,29 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     data_json = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     added = [(r["name"], p) for r in results for p in r["added_items"]]
     added.sort(key=lambda t: (t[1]["price_man"] if t[1]["price_man"] is not None else 1 << 30))
-    ng_log = [(r["name"], p) for r in results for p in r["ng_items"]]
+
+    # NGエリア該当ログ・消滅・サイト別サマリは、mainTbl等と同じ流儀でJS側がタブ別に描画する
+    # （サーバ側で全件を静的HTML化すると、賃貸タブを見ているのに更地の物件が混ざるため）。
+    # NGエリア該当ログはDATA自体（ng===true）から引けるので専用JSONは持たない。
+    summary_data = [{
+        "id": r["id"], "name": r["name"], "http": str(r["http"]), "mode": r.get("mode", ""),
+        "raw": r["raw"], "priceCnt": r["price_cnt"], "areaCnt": r["area_cnt"],
+        "fitCnt": r["fit_cnt"], "addedCnt": r["added_cnt"], "ngCnt": r["ng_cnt"],
+        "status": r["yaml_status"], "note": r["note"], "tab": r.get("tab", "home"),
+    } for r in results]
+    summary_json = json.dumps(summary_data, ensure_ascii=False).replace("</", "<\\/")
+
+    disappeared_data = []
+    for sname, a, d, site_tab_d in sorted(disappeared, key=lambda x: x[2]):
+        loc = (a.get("location") or a.get("text") or "").replace("静岡県", "")[:20]
+        price = f"{a['price_man']:,}万円" if a.get("price_man") is not None else "—"
+        area = f"{a['area_sqm']:g}㎡" if a.get("area_sqm") is not None else "—"
+        disappeared_data.append({
+            "site": sname, "loc": loc or "—", "price": price, "area": area,
+            "removedOn": a.get("removed_on", "—"), "days": d,
+            "url": a.get("url", ""), "tab": site_tab_d,
+        })
+    disappeared_json = json.dumps(disappeared_data, ensure_ascii=False).replace("</", "<\\/")
 
     css = _REPORT_CSS
 
@@ -3375,8 +3399,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                   "法的確定ではありません（更地＝新規建築、家付き＝再建築の可否を表示）。"
                   "最終判断には役場確認が必要です。"
                   "市街化調整区域（△）は除外ではなく本命候補シグナルです。"
-                  "賃貸タブは月額家賃です（他タブの万円表示＝売買価格とは意味が違います）。"
-                  "また賃貸タブでは除外エリアを適用しません（別荘地の激安賃貸が狙い目のため）。</p>")
+                  "賃貸タブは月額家賃です（他タブの万円表示＝売買価格とは意味が違います）。</p>")
 
     camp_over = filters.get("camp") or {}
     rent_over = filters.get("rent") or {}
@@ -3469,11 +3492,8 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("</div>")
     # 「除外エリア」ポップアップ
     H.append("<div id='areaPop'>"
-             + "<div class='pr'><b>除外エリア</b>（所在地に含む地名で隠す）"
-             + _help("所在地にこの地名を含む物件を一覧から隠します。") + "</div>"
-             + "<div id='areaRentNote' class='pr' style='display:none;color:#b5651d;font-weight:bold;"
-             + "white-space:normal;max-width:220px'>賃貸タブでは除外しません"
-             + "（別荘地の激安物件を見逃さないため）</div>"
+             + "<div class='pr'><b>除外エリア<span id='areaPopTabLabel'></span></b>（所在地に含む地名で隠す）"
+             + _help("所在地にこの地名を含む物件を一覧から隠します。除外エリアの内容はタブごとに別々に保存されます。") + "</div>"
              + "<div id='areaList'></div>"
              + "<div class='pr' style='border-top:1px solid #ddd;padding-top:5px'>追加: "
              + "<input id='areaInput' type='text' style='width:120px' placeholder='例: 別荘地名'>"
@@ -3509,63 +3529,21 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<h2 class='sec fav' data-target='secFav'>⭐ お気に入り <span id='favCnt'></span></h2>")
     H.append("<div id='secFav' class='secbody'><table id='favTbl'></table></div>")
 
-    # ---- NGエリア該当ログ（折り畳み・既定閉・静的）----
-    H.append(f"<h2 class='sec excl' data-target='secNg'>NGエリア該当ログ（{len(ng_log)} 件）</h2>")
-    H.append("<div id='secNg' class='secbody'>")
-    if ng_log:
-        H.append("<table><tr><th>サイト</th><th>種別</th><th>所在地</th><th>価格</th><th>土地面積</th>"
-                 "<th>NGエリア</th><th>詳細</th></tr>")
-        for sname, p in ng_log:
-            H.append(
-                f"<tr><td>{escape(sname)}</td><td>{escape(p.get('shubetsu','—'))}</td>"
-                f"<td>{escape(_short_loc(p))}</td>"
-                f"<td>{_fmt_price(p)}</td><td>{_fmt_area(p)}</td>"
-                f"<td class='flag'>{escape('、'.join(p.get('ng_areas', [])))}</td>"
-                f"<td><a href='{escape(p['url'])}' target='_blank'>詳細</a></td></tr>")
-        H.append("</table>")
-    else:
-        H.append("<p class='muted'>NGエリア該当なし。</p>")
-    H.append("</div>")
+    # ---- NGエリア該当ログ（折り畳み・既定閉・JS描画＝タブ別。DATAのng===trueから抽出）----
+    H.append("<h2 class='sec excl' data-target='secNg'>NGエリア該当ログ <span id='ngCnt'></span></h2>")
+    H.append("<div id='secNg' class='secbody'></div>")
 
     # ---- 非表示にした物件（折り畳み・既定閉・JS描画）----
     H.append("<h2 class='sec' data-target='secHidden'>非表示にした物件 <span id='hiddenCnt'></span></h2>")
     H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl'></table></div>")
 
-    # ---- 消滅（折り畳み・既定閉・静的）----
-    H.append(f"<h2 class='sec gone' data-target='secGone'>消滅（{len(disappeared)} 件・ページ削除から7日以内）</h2>")
-    H.append("<div id='secGone' class='secbody'>")
-    if disappeared:
-        H.append("<table><tr><th>サイト</th><th>所在地</th><th>価格</th><th>面積</th>"
-                 "<th>消滅検出日</th><th>経過</th><th>詳細</th></tr>")
-        for sname, a, d in sorted(disappeared, key=lambda x: x[2]):
-            loc = (a.get("location") or a.get("text") or "").replace("静岡県", "")[:20]
-            price = f"{a['price_man']:,}万円" if a.get("price_man") is not None else "—"
-            area = f"{a['area_sqm']:g}㎡" if a.get("area_sqm") is not None else "—"
-            H.append(
-                f"<tr><td>{escape(sname)}</td><td>{escape(loc or '—')}</td>"
-                f"<td>{price}</td><td>{area}</td><td>{escape(a.get('removed_on', '—'))}</td>"
-                f"<td>{d}日前</td>"
-                f"<td><a href='{escape(a.get('url', ''))}' target='_blank'>詳細</a></td></tr>")
-        H.append("</table>")
-    else:
-        H.append("<p class='muted'>消滅物件なし。</p>")
-    H.append("</div>")
+    # ---- 消滅（折り畳み・既定閉・JS描画＝タブ別）----
+    H.append("<h2 class='sec gone' data-target='secGone'>消滅 <span id='goneCnt'></span></h2>")
+    H.append("<div id='secGone' class='secbody'></div>")
 
-    # ---- サイト別サマリ（静的・最下部。毎回見る情報ではないメタ情報）----
+    # ---- サイト別サマリ（最下部・毎回見る情報ではないメタ情報。JS描画＝タブ別）----
     H.append("<h2 class='sec' data-target='secSummary'>サイト別サマリ（取得状況のメタ情報）</h2>")
-    H.append("<div id='secSummary' class='secbody'>")
-    H.append("<table><tr><th>ID</th><th>サイト名</th><th>HTTP</th><th>方式</th><th>抽出</th>"
-             "<th>価格取得</th><th>面積取得</th><th>基準内(参考)</th><th>新着</th><th>NG該当</th>"
-             "<th>status</th><th>備考</th></tr>")
-    for r in results:
-        H.append(
-            f"<tr><td>{escape(r['id'])}</td><td>{escape(r['name'])}</td>"
-            f"<td>{escape(str(r['http']))}</td><td>{escape(r.get('mode',''))}</td><td>{r['raw']}</td>"
-            f"<td>{r['price_cnt']}</td><td>{r['area_cnt']}</td>"
-            f"<td class='num-fit'>{r['fit_cnt']}</td>"
-            f"<td class='num-new'>{r['added_cnt']}</td><td>{r['ng_cnt']}</td>"
-            f"<td>{escape(r['yaml_status'])}</td><td>{escape(r['note'])}</td></tr>")
-    H.append("</table></div>")
+    H.append("<div id='secSummary' class='secbody'></div>")
 
     H.append(disclaimer)
 
@@ -3588,6 +3566,8 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<script>")
     H.append("const DATA=" + data_json + ";")
     H.append("const CONFIG=" + config_js + ";")
+    H.append("const SUMMARY=" + summary_json + ";")
+    H.append("const DISAPPEARED=" + disappeared_json + ";")
     H.append(_FILTER_JS)
     H.append("</script>")
     H.append("</body></html>")
@@ -3826,7 +3806,21 @@ function resolveUkey(){
   try{stored=localStorage.getItem(LS_UKEY);}catch(e){}
   return isValidUkey(stored)?stored:null;
 }
+// resolveUkey()がLS_UKEYを書き換える前の値を読んでおく（キー切替検知用）。
+let _prevUkeyRaw=null;
+try{_prevUkeyRaw=localStorage.getItem(LS_UKEY);}catch(e){}
 const UKEY=resolveUkey();
+// KEY_SWITCHED: 「前回このブラウザで使ったキーと違う」または「このブラウザで初めてキーを使う」。
+// この場合はローカルの状態(tab/price/area/hidden/fav/exareas)をシードに使わない＝サーバ側だけを
+// 適用する（サーバが空なら空のまま始める）。前の利用者のお気に入り等が別人のキーへ初回シードで
+// アップロードされてしまう事故を防ぐため（実例: ?u=ayakoで開いたら前の利用者のローカル★が
+// ayakoのサーバ状態へ初回シードされてしまった）。同じキーの再訪なら従来どおりローカルを維持する。
+const KEY_SWITCHED=(UKEY!=null&&UKEY!==_prevUkeyRaw);
+if(KEY_SWITCHED){
+  [LS_TAB,LS_PRICE,LS_AREA_FILTER,LS_HIDDEN,LS_FAV,LS_EXAREAS,LS_OLD_EXAREAS].forEach(k=>{
+    try{localStorage.removeItem(k);}catch(e){}
+  });
+}
 // PULLED: このページ表示中にGETが200で完了し、サーバ状態の適用 or シードのどちらかが
 // 確定したときだけtrue。falseの間はscheduleSync/syncPushNow/flushSyncNowが一切pushしない
 // （貧弱なローカル状態でサーバの正データを上書きする事故を防ぐ）。
@@ -3972,23 +3966,60 @@ function setSyncStatus(kind){
   const tip=document.getElementById('syncStatusTip'); if(tip)tip.textContent=tips[kind]||'';
 }
 
+// 除外エリア: タブ(sarachi/ie/camp/rent)ごとに独立したリストを持つ。使い分けが人によって
+// 違う「個人の事情」であってツールの機能ではないため、全タブ同じロジックを適用したうえで
+// 中身の管理だけをタブ別にする（賃貸タブだけ除外を無効化する特別扱いは持たない）。
+const EXAREA_TABS=['sarachi','ie','camp','rent'];
+const TAB_LABELS={sarachi:'更地',ie:'家付き土地',camp:'キャンプ場土地',rent:'賃貸'};
+// rentタブは既定=空（サーバ側filters.rent.exclude_areasが空なのに合わせる）。
+// sarachi/ie/campはCONFIG.exareas（urls.yaml filters.exclude_areas）を初期値にする。
+function defaultExareaList(tab){return tab==='rent'?[]:(CONFIG.exareas||[]).map(n=>({name:n,on:true}));}
+function normalizeExareasByTab(obj){
+  const out={};
+  EXAREA_TABS.forEach(t=>{out[t]=(obj&&Array.isArray(obj[t]))?obj[t]:defaultExareaList(t);});
+  return out;
+}
 // 除外エリア: 新キーになければ旧キー(akiya.exareas.v2)を移行。
-// パース結果が配列でない場合（nullを含む。例えばサーバにexareasが無い状態を旧コードが
-// そのまま書き戻した"null"文字列など）は既定値へフォールバックする。フォールバックしないと
-// EXAREAS=nullのままpassFiltersのEXAREAS.some()がTypeErrorになりrender()全体が止まり、
+// 旧形式は配列1本をタブ共通で使っていた（賃貸タブだけ適用除外という特別扱いがあったため、
+// 実質sarachi/ie/campにだけ効いていた）。移行時もその等価な形にする: 配列をsarachi/ie/campの
+// 初期値として引き継ぎ、rentは空配列にする（既存ユーザーの設定を壊さない）。
+// パース結果が配列でもオブジェクトでもない場合（nullを含む。例えばサーバにexareasが無い状態を
+// 旧コードがそのまま書き戻した"null"文字列など）は既定値へフォールバックする。フォールバックしないと
+// EXAREASが壊れた形のままcurExareas().some()がTypeErrorになりrender()全体が止まり、
 // 全タブが恒久的に0件表示になる（localStorageを手動で消すまで直らない）。
 function loadExareas(){
   const nv=localStorage.getItem(LS_EXAREAS);
-  if(nv!=null){try{const v=JSON.parse(nv);if(Array.isArray(v))return v;}catch(e){}}
+  if(nv!=null){
+    try{
+      const v=JSON.parse(nv);
+      if(Array.isArray(v)){
+        const migrated={sarachi:v,ie:v.map(a=>({...a})),camp:v.map(a=>({...a})),rent:[]};
+        lsSaveRaw(LS_EXAREAS,migrated);
+        return migrated;
+      }
+      if(v&&typeof v==='object')return normalizeExareasByTab(v);
+    }catch(e){}
+  }
   const ov=localStorage.getItem(LS_OLD_EXAREAS);
-  if(ov!=null){try{const v=JSON.parse(ov);if(Array.isArray(v)){lsSaveRaw(LS_EXAREAS,v);return v;}}catch(e){}}
-  const def=(CONFIG.exareas||[]).map(n=>({name:n,on:true}));
-  // 既定値へフォールバックした=localStorageの値は壊れていた("null"文字列等)ということなので、
+  if(ov!=null){
+    try{
+      const v=JSON.parse(ov);
+      if(Array.isArray(v)){
+        const migrated={sarachi:v,ie:v.map(a=>({...a})),camp:v.map(a=>({...a})),rent:[]};
+        lsSaveRaw(LS_EXAREAS,migrated);
+        return migrated;
+      }
+    }catch(e){}
+  }
+  // 既定値へフォールバックした=localStorageの値が無い/壊れていたということなので、
   // 既定値で上書きして掃除する（放置すると次回以降も同じ壊れた値を読み続ける）。
+  const def=normalizeExareasByTab(null);
   lsSaveRaw(LS_EXAREAS,def);
   return def;
 }
 let EXAREAS=loadExareas();
+// 現在のタブの除外エリア配列（無ければ空配列を用意して返す）。
+function curExareas(){return EXAREAS[S.tab]||(EXAREAS[S.tab]=[]);}
 
 // 非表示／お気に入りは Map<bdk, snapshot>。物件が今日のデータから消えても
 // snapshot で表示し続け、物件自体が消滅するまでリストに残す。
@@ -4056,19 +4087,23 @@ DATA.forEach((d,i)=>{
 });
 
 // ---- フィルタ ----
+// タブ(sarachi/ie/camp/rent)への所属判定。キャンプ場土地(camp)・賃貸(rent)は独立タブ:
+// 各タブは自分のtabのレコードのみ、homeレコードは更地/家付きのみ。
+// NGエリア該当ログ等、DATAをタブ別に絞り込む他の描画でも同じ判定を使い回す。
+function inTabBucket(d,tab){
+  if(tab==='camp')return d.tab==='camp';
+  if(tab==='rent')return d.tab==='rent';
+  if(d.tab==='camp'||d.tab==='rent')return false;
+  const isHouse=HOUSE_TYPES.has(d.shubetsu);
+  if(tab==='sarachi')return !isHouse;
+  if(tab==='ie')return isHouse;
+  return true;
+}
+// お気に入り/非表示のスナップショットはtabを持たない旧形式で保存されている場合があるため、
+// その場合だけ互換維持として全タブに表示する（tabがあれば inTabBucket と同じ判定）。
+function inTabBucketOrUntagged(d,tab){return d.tab==null?true:inTabBucket(d,tab);}
 function passFilters(d){
-  // キャンプ場土地(camp)・賃貸(rent)は独立タブ: 各タブは自分のtabのレコードのみ、
-  // homeレコードは更地/家付きのみ
-  if(S.tab==='camp'){
-    if(d.tab!=='camp')return false;
-  }else if(S.tab==='rent'){
-    if(d.tab!=='rent')return false;
-  }else{
-    if(d.tab==='camp'||d.tab==='rent')return false;
-    const isHouse=HOUSE_TYPES.has(d.shubetsu);
-    if(S.tab==='sarachi'&&isHouse)return false;
-    if(S.tab==='ie'&&!isHouse)return false;
-  }
+  if(!inTabBucket(d,S.tab))return false;
   // 駐車場は住居ではなく月額数千円のため、混ぜると「安い順」の上位を占めて
   // 住む物件が埋もれる。既定で隠し、種別フィルタで明示的にチェックすれば出す。
   if(S.tab==='rent'&&d.shubetsu==='駐車場'){
@@ -4076,9 +4111,9 @@ function passFilters(d){
     if(!(cf&&cf.set&&cf.set.includes('駐車場')))return false;
   }
   const loc=d.loc||'';
-  // 賃貸タブ(rent)は除外エリアを適用しない（別荘地の激安賃貸が狙い目のため）。
-  // camp/sarachi/ie は従来どおり適用する。
-  if(S.tab!=='rent'&&EXAREAS.some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
+  // 除外エリアは全タブ共通のロジックで適用する（賃貸だけ特別扱いにしない＝個人の使い分けは
+  // タブ別リストの中身で吸収する。どのエリアを入れるかは利用者がタブごとに選ぶ）。
+  if(curExareas().some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
   for(const k in S.cf){const cf=S.cf[k],v=d[k];
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
@@ -4210,14 +4245,19 @@ function render(){
   nv.sort((A,B)=>{if(A.daysAgo!==B.daysAgo)return A.daysAgo-B.daysAgo;
     const pa=(A.rep.price==null)?1e12:A.rep.price,pb=(B.rep.price==null)?1e12:B.rep.price;return pa-pb;});
   document.getElementById('newTbl').innerHTML=tbl(nv,false,false,cols,ncol,tab);
-  // お気に入り（消滅まで残す。除外エリア等の絞り込みは無視して常に表示）
-  const fav=sortGroups(groupsFromMap(FAVOR));
+  // お気に入り（消滅まで残す。除外エリア等の絞り込みは無視して常に表示。ただしタブは絞る＝
+  // 賃貸タブを見ているのに更地の★が出ないように。tab無し(旧形式)は互換維持で全タブ表示）
+  const fav=sortGroups(groupsFromMap(FAVOR).filter(g=>inTabBucketOrUntagged(g.rep,tab)));
   document.getElementById('favTbl').innerHTML=tbl(fav,false,false,cols,ncol,tab);
   const favC=document.getElementById('favCnt');if(favC)favC.textContent='('+fav.length+'件)';
-  // 非表示（消滅まで残す）
-  const hid=sortGroups(groupsFromMap(HIDDEN));
+  // 非表示（消滅まで残す。同様にタブで絞る）
+  const hid=sortGroups(groupsFromMap(HIDDEN).filter(g=>inTabBucketOrUntagged(g.rep,tab)));
   document.getElementById('hiddenTbl').innerHTML=tbl(hid,true,false,cols,ncol,tab);
   document.getElementById('hiddenCnt').textContent='('+hid.length+'件)';
+  // NGエリア該当ログ・消滅・サイト別サマリもタブ別に絞ってJS描画（mainTbl等と同じ流儀）。
+  renderNgLog();
+  renderDisappeared();
+  renderSummary();
   // 件数表示（内部用語"グループ"を使わない）
   const msg='該当 '+vis.length+'件（全'+GROUPS.length+'件中）・新着 '+nv.length+'件';
   document.getElementById('cnt').textContent=msg;
@@ -4225,10 +4265,77 @@ function render(){
   updateTabUI();
 }
 
+// ---- NGエリア該当ログ（DATAのng===trueをタブ別に抽出。mainTbl等と同じくJS描画）----
+function renderNgLog(){
+  const box=document.getElementById('secNg'); if(!box)return;
+  const tab=S.tab;
+  const rows=DATA.filter(d=>d.ng&&inTabBucket(d,tab));
+  const cnt=document.getElementById('ngCnt'); if(cnt)cnt.textContent='（'+rows.length+' 件）';
+  if(!rows.length){box.innerHTML="<p class='muted'>NGエリア該当なし。</p>";return;}
+  let h="<table><tr><th>サイト</th><th>種別</th><th>所在地</th><th>価格</th><th>土地面積</th>"
+       +"<th>NGエリア</th><th>詳細</th></tr>";
+  rows.forEach(d=>{
+    const price=(d.price==null)?'—':d.price.toLocaleString()+'万円';
+    const area=(d.area==null)?'—':d.area+'㎡';
+    h+="<tr><td>"+esc(d.site)+"</td><td>"+esc(d.shubetsu||'—')+"</td>"
+      +"<td>"+esc(normLoc(d.loc).slice(0,20)||'—')+"</td>"
+      +"<td>"+price+"</td><td>"+area+"</td>"
+      +"<td class='flag'>"+esc((d.ng_areas||[]).join('、'))+"</td>"
+      +"<td><a href='"+esc(d.url)+"' target='_blank'>詳細</a></td></tr>";
+  });
+  box.innerHTML=h+"</table>";
+}
+
+// ---- サイト所属タブ(home/camp/rent) と 画面タブ(sarachi/ie/camp/rent) の対応。
+// homeサイトは更地/家付き土地の両方を出しうるため、両タブに属するものとして扱う
+// （消滅・サイト別サマリはサイト単位の情報で、DATAのようなshubetsuによる細分ができないため）----
+function siteBelongsToUiTab(siteTab,uiTab){
+  if(uiTab==='camp')return siteTab==='camp';
+  if(uiTab==='rent')return siteTab==='rent';
+  return siteTab!=='camp'&&siteTab!=='rent';
+}
+
+// ---- 消滅（DISAPPEARED をサイトのtab属性でタブ別に描画）----
+function renderDisappeared(){
+  const box=document.getElementById('secGone'); if(!box)return;
+  const tab=S.tab;
+  const rows=DISAPPEARED.filter(d=>siteBelongsToUiTab(d.tab,tab));
+  const cnt=document.getElementById('goneCnt'); if(cnt)cnt.textContent='（'+rows.length+' 件・ページ削除から7日以内）';
+  if(!rows.length){box.innerHTML="<p class='muted'>消滅物件なし。</p>";return;}
+  let h="<table><tr><th>サイト</th><th>所在地</th><th>価格</th><th>面積</th>"
+       +"<th>消滅検出日</th><th>経過</th><th>詳細</th></tr>";
+  rows.forEach(d=>{
+    h+="<tr><td>"+esc(d.site)+"</td><td>"+esc(d.loc||'—')+"</td>"
+      +"<td>"+esc(d.price)+"</td><td>"+esc(d.area)+"</td><td>"+esc(d.removedOn)+"</td>"
+      +"<td>"+d.days+"日前</td>"
+      +"<td><a href='"+esc(d.url)+"' target='_blank'>詳細</a></td></tr>";
+  });
+  box.innerHTML=h+"</table>";
+}
+
+// ---- サイト別サマリ（SUMMARY をサイトのtab属性でタブ別に描画）----
+function renderSummary(){
+  const box=document.getElementById('secSummary'); if(!box)return;
+  const tab=S.tab;
+  const rows=SUMMARY.filter(r=>siteBelongsToUiTab(r.tab,tab));
+  if(!rows.length){box.innerHTML="<p class='muted'>該当サイトなし。</p>";return;}
+  let h="<table><tr><th>ID</th><th>サイト名</th><th>HTTP</th><th>方式</th><th>抽出</th>"
+       +"<th>価格取得</th><th>面積取得</th><th>基準内(参考)</th><th>新着</th><th>NG該当</th>"
+       +"<th>status</th><th>備考</th></tr>";
+  rows.forEach(r=>{
+    h+="<tr><td>"+esc(r.id)+"</td><td>"+esc(r.name)+"</td>"
+      +"<td>"+esc(r.http)+"</td><td>"+esc(r.mode)+"</td><td>"+r.raw+"</td>"
+      +"<td>"+r.priceCnt+"</td><td>"+r.areaCnt+"</td>"
+      +"<td class='num-fit'>"+r.fitCnt+"</td>"
+      +"<td class='num-new'>"+r.addedCnt+"</td><td>"+r.ngCnt+"</td>"
+      +"<td>"+esc(r.status)+"</td><td>"+esc(r.note)+"</td></tr>";
+  });
+  box.innerHTML=h+"</table>";
+}
+
 // ---- タブ ----
 function updateTabUI(){
   document.querySelectorAll('.tab-btn').forEach(btn=>{btn.classList.toggle('active',btn.dataset.tab===S.tab);});
-  const note=document.getElementById('areaRentNote'); if(note)note.style.display=(S.tab==='rent'?'block':'none');
   // 参考情報の本命/注意キーワード説明文はタブで意味が違うため賃貸タブでは filters.rent の値に差し替える
   const isRent=(S.tab==='rent');
   const iTxt=document.getElementById('interestKwText');
@@ -4264,9 +4371,12 @@ function applyStateToControls(){
 // ---- 除外エリアリスト描画 ----
 function renderAreaList(){
   const box=document.getElementById('areaList'); if(!box)return;
-  box.innerHTML=EXAREAS.length?EXAREAS.map(a=>
+  const list=curExareas();
+  box.innerHTML=list.length?list.map(a=>
     "<div class=arow><label><input type=checkbox class=areachk data-name='"+esc(a.name)+"' "+(a.on?'checked':'')+"> "+esc(a.name)+"</label><b class=delx data-name='"+esc(a.name)+"'>×</b></div>"
   ).join(''):"<div class=muted>（除外エリアなし）</div>";
+  // 今どのタブの除外リストを編集しているかを見出しに出す（全タブ共通の機能である旨も分かるように）
+  const lbl=document.getElementById('areaPopTabLabel'); if(lbl)lbl.textContent='（'+(TAB_LABELS[S.tab]||S.tab)+'）';
 }
 
 // ---- 列ヘッダ ポップアップ ----
@@ -4369,12 +4479,13 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
     areaPop.style.left=(window.scrollX+Math.max(8,r.left-100))+'px';areaPop.style.top=(window.scrollY+r.bottom+2)+'px';areaPop.style.display='block';});
   document.getElementById('areaClose').addEventListener('click',e=>{e.stopPropagation();areaPop.style.display='none';});
   function addArea(){const v=(document.getElementById('areaInput').value||'').trim();
-    if(v&&!EXAREAS.some(a=>a.name===v)){EXAREAS.push({name:v,on:true});saveAreas();document.getElementById('areaInput').value='';renderAreaList();render();}}
+    const list=curExareas();
+    if(v&&!list.some(a=>a.name===v)){list.push({name:v,on:true});saveAreas();document.getElementById('areaInput').value='';renderAreaList();render();}}
   document.getElementById('areaAdd').addEventListener('click',e=>{e.stopPropagation();addArea();});
   document.getElementById('areaInput').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();addArea();}});
   areaPop.addEventListener('click',e=>{e.stopPropagation();
-    const del=e.target.closest('.delx'); if(del){EXAREAS=EXAREAS.filter(a=>a.name!==del.dataset.name);saveAreas();renderAreaList();render();return;}
-    const chk=e.target.closest('.areachk'); if(chk){const a=EXAREAS.find(a=>a.name===chk.dataset.name);if(a){a.on=chk.checked;saveAreas();render();}}});
+    const del=e.target.closest('.delx'); if(del){EXAREAS[S.tab]=curExareas().filter(a=>a.name!==del.dataset.name);saveAreas();renderAreaList();render();return;}
+    const chk=e.target.closest('.areachk'); if(chk){const a=curExareas().find(a=>a.name===chk.dataset.name);if(a){a.on=chk.checked;saveAreas();render();}}});
 
   document.addEventListener('click',e=>{
     const fb=e.target.closest('.favbtn'); if(fb){e.stopPropagation();const bdk=fb.dataset.bdk;
