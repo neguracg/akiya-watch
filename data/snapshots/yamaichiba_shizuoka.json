@@ -7,9 +7,29 @@
       "price_man": null,
       "area_sqm": 28500.0,
       "url": "https://yamaichiba.com/shizuoka-atamishi-izusan372/",
-      "text": "山林物件372　静岡県熱海市伊豆山"
+      "text": "山林物件372　静岡県熱海市伊豆山",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "山林",
+      "toshikeikaku": "—",
+      "setsudo": "接道条件 公道に面する。 都",
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "camp"
     }
   },
   "hash": "b3b8ab2d14d46ae0",
-  "fetched_at": "2026-07-26T08:54:16.403859"
+  "fetched_at": "2026-07-26T23:12:22.033191"
 }

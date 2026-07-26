@@ -7,7 +7,30 @@
       "price_man": null,
       "area_sqm": null,
       "url": "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/imazawa-4103/",
-      "text": "ビレッジハウス今沢"
+      "text": "ビレッジハウス今沢",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "無",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [
+        "敷金なし",
+        "礼金なし"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
     },
     "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/hara-4259/|ビレッジハウス原": {
       "first_seen": "2026-07-25",
@@ -16,9 +39,32 @@
       "price_man": null,
       "area_sqm": null,
       "url": "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/hara-4259/",
-      "text": "ビレッジハウス原"
+      "text": "ビレッジハウス原",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "無",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [
+        "敷金なし",
+        "礼金なし"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
     }
   },
   "hash": "c9f67b88e0cce32e",
-  "fetched_at": "2026-07-26T08:45:14.572316"
+  "fetched_at": "2026-07-26T23:03:13.666229"
 }

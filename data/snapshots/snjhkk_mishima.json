@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "be38ae1a3c884750",
-  "fetched_at": "2026-07-26T08:51:01.920929"
+  "keys": {
+    "https://www.snjhkk.com/s_r_59393/index.html|静岡県三島市富士ビレッジ": {
+      "first_seen": "2026-07-26",
+      "last_seen": "2026-07-26",
+      "location": "静岡県三島市富士ビレッジ",
+      "price_man": 4183,
+      "area_sqm": 170.7,
+      "url": "https://www.snjhkk.com/s_r_59393/index.html",
+      "text": "静岡県三島市富士ビレッジ",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 81.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    }
+  },
+  "hash": "3ae8de0902144126",
+  "fetched_at": "2026-07-26T23:09:15.030100"
 }

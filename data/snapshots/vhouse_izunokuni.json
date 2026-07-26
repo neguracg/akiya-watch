@@ -7,9 +7,32 @@
       "price_man": null,
       "area_sqm": null,
       "url": "https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/ohito-4241/",
-      "text": "ビレッジハウス大仁"
+      "text": "ビレッジハウス大仁",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "無",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [
+        "敷金なし",
+        "礼金なし"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "rent"
     }
   },
   "hash": "61eadc5df9a8f683",
-  "fetched_at": "2026-07-26T09:04:18.957149"
+  "fetched_at": "2026-07-26T23:23:03.247990"
 }

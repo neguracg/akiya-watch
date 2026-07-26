@@ -7,7 +7,29 @@
       "price_man": 2780,
       "area_sqm": 510.1,
       "url": "https://furusato-net.co.jp/bukken/18396a",
-      "text": "静岡県 伊東市"
+      "text": "静岡県 伊東市",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 18.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "温泉"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊東市",
+      "tab": "camp"
     },
     "https://furusato-net.co.jp/bukken/18277a|静岡県 南伊豆町": {
       "first_seen": "2026-07-12",
@@ -16,9 +38,29 @@
       "price_man": null,
       "area_sqm": 501.8,
       "url": "https://furusato-net.co.jp/bukken/18277a",
-      "text": "静岡県 南伊豆町"
+      "text": "静岡県 南伊豆町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "南伊豆町",
+      "tab": "camp"
     }
   },
-  "hash": "4836aba3ab2a6526",
-  "fetched_at": "2026-07-26T08:57:19.142197"
+  "hash": "faf8f61a5300f7af",
+  "fetched_at": "2026-07-26T23:15:36.234265"
 }

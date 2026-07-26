@@ -7,7 +7,33 @@
       "price_man": 222,
       "area_sqm": null,
       "url": "https://www.ieichiba.com/project/P202500691%E5%87%BD%E5%8D%97%E7%94%BA%E5%B9%B3%E4%BA%95A2",
-      "text": "静岡県函南町"
+      "text": "静岡県函南町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "保安林",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": "接道は長さ19. もっと見る",
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [
+        "市街化調整区域",
+        "調整区域"
+      ],
+      "caution": [
+        "別荘地",
+        "温泉"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
     },
     "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K|静岡県伊豆の国市": {
       "first_seen": "2026-06-22",
@@ -16,9 +42,31 @@
       "price_man": 2680,
       "area_sqm": null,
       "url": "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K",
-      "text": "静岡県伊豆の国市"
+      "text": "静岡県伊豆の国市",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "home"
     }
   },
-  "hash": "aa8ff4cde399a6eb",
-  "fetched_at": "2026-07-26T08:44:56.505834"
+  "hash": "3e9abb34e15b6271",
+  "fetched_at": "2026-07-26T23:02:54.890349"
 }
