@@ -1,15 +1,4 @@
 {
-  "https://www.homes.co.jp/kodate/b-1436870001803/|伊豆の国市原木　中古戸建": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "location": "伊豆の国市原木　中古戸建",
-    "price_man": 1980,
-    "area_sqm": 313.2,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001803/",
-    "text": "伊豆の国市原木　中古戸建",
-    "removed_on": "2026-06-22",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1436870001821/|伊豆の国市原木　中古戸建": {
     "first_seen": "2026-06-22",
     "last_seen": "2026-06-22",
@@ -18,17 +7,6 @@
     "area_sqm": 210.7,
     "url": "https://www.homes.co.jp/kodate/b-1436870001821/",
     "text": "伊豆の国市原木　中古戸建",
-    "removed_on": "2026-06-22",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
-  "https://www.homes.co.jp/kodate/b-1436870001844/|伊豆の国市天野　中古戸建": {
-    "first_seen": "2026-06-22",
-    "last_seen": "2026-06-22",
-    "location": "伊豆の国市天野　中古戸建",
-    "price_man": 2880,
-    "area_sqm": 463.0,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001844/",
-    "text": "伊豆の国市天野　中古戸建",
     "removed_on": "2026-06-22",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
@@ -98,15 +76,37 @@
     "removed_on": "2026-07-17",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1265050002531/|伊豆の国市南條中古住宅": {
-    "first_seen": "2026-07-25",
+  "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
+    "first_seen": "2026-06-22",
     "last_seen": "2026-07-25",
-    "location": "伊豆の国市南條中古住宅",
-    "price_man": 900,
-    "area_sqm": 199.5,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002531/",
-    "text": "伊豆の国市南條中古住宅",
-    "removed_on": "2026-07-25",
+    "location": "伊豆の国市三福　中古戸建",
+    "price_man": 2180,
+    "area_sqm": 128.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
+    "text": "伊豆の国市三福　中古戸建",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001906/|伊豆の国市田京　中古戸建": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-07-25",
+    "location": "伊豆の国市田京　中古戸建",
+    "price_man": 3450,
+    "area_sqm": 245.5,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001906/",
+    "text": "伊豆の国市田京　中古戸建",
+    "removed_on": "2026-07-26",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001922/|伊豆の国市南條　中古戸建": {
+    "first_seen": "2026-06-22",
+    "last_seen": "2026-07-25",
+    "location": "伊豆の国市南條　中古戸建",
+    "price_man": 1880,
+    "area_sqm": 184.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001922/",
+    "text": "伊豆の国市南條　中古戸建",
+    "removed_on": "2026-07-26",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

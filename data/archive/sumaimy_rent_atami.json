@@ -1,1 +1,57 @@
-{}
+{
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175536|貸駐車場 熱海市昭和町19-4": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "熱海市昭和町19-4",
+    "price_man": 1.3,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175536",
+    "text": "貸駐車場 熱海市昭和町19-4",
+    "removed_on": "2026-07-26",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107029|貸駐車場 熱海市桜町10-3": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "熱海市桜町10-3",
+    "price_man": 0.9,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107029",
+    "text": "貸駐車場 熱海市桜町10-3",
+    "removed_on": "2026-07-26",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152527|貸店舗・事務所 熱海市中央町18-10": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "熱海市中央町18-10",
+    "price_man": 17.05,
+    "area_sqm": 62.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152527",
+    "text": "貸店舗・事務所 熱海市中央町18-10",
+    "removed_on": "2026-07-26",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174512|貸アパート 熱海市清水町12-7": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "熱海市清水町12-7",
+    "price_man": 6.0,
+    "area_sqm": 27.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174512",
+    "text": "貸アパート 熱海市清水町12-7",
+    "removed_on": "2026-07-26",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107032|貸駐車場 熱海市清水町13-4": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-25",
+    "location": "熱海市清水町13-4",
+    "price_man": 2.7,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107032",
+    "text": "貸駐車場 熱海市清水町13-4",
+    "removed_on": "2026-07-26",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  }
+}
