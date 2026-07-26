@@ -30,3 +30,6 @@ data/*
 
 # ローカル作業用（ショートカット等）
 _work/
+
+# --rebuild が作る確認用プレビュー（本番reportsではない一時物のためコミットしない）
+reports/_preview.html

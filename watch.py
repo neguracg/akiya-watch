@@ -51,6 +51,13 @@ DISAPPEAR_WINDOW_DAYS = 7   # 消滅掲載の保持日数（8日目以降は非�
 NEW_WINDOW_DAYS = 7         # 新着扱いの保持日数（first_seenからこの日数以内を新着とする）
 REPORT_RETENTION_DAYS = 14  # 日付別htmlの保持日数（15日以上前は削除）
 
+# --rebuild が生成する確認用ページにだけ出す警告バナー文言。build_html_report に
+# preview_note として渡された時だけ描画される（通常実行では一切表示されない）。
+PREVIEW_BANNER_TEXT = (
+    "⚠ これは表示確認用のプレビューです。物件データは前回クロール時点のもので、"
+    "種別・間取り・敷金礼金・建築可否は簡略表示になっています。公開レポートではありません。"
+)
+
 handler = logging.handlers.RotatingFileHandler(
     LOGS_DIR / "watch.log", maxBytes=2_000_000, backupCount=3, encoding="utf-8"
 )
@@ -3118,6 +3125,23 @@ def run(dry_run: bool = False, only: str = "") -> int:
                     "first_seen": p["first_seen"], "last_seen": today,
                     "location": p["location"], "price_man": p["price_man"],
                     "area_sqm": p["area_sqm"], "url": p["url"], "text": p["text"],
+                    # 2026-07-26以降: --rebuild が種別・間取り・敷金礼金・建築可否等を
+                    # 正確に復元できるよう、判定済みの確定値も保存する（カード全文
+                    # (flag_text)は保存しない＝判定結果だけで rebuild は再現できるため）。
+                    # verdict は _make_record が必ず非None文字列で設定するため、
+                    # --rebuild 側はこのキーの有無を「新形式スナップショットか」の
+                    # 目印として使う（古いスナップショットとの後方互換の分岐）。
+                    "shubetsu": p.get("shubetsu"), "shubetsu_reason": p.get("shubetsu_reason"),
+                    "madori": p.get("madori"), "chikunen": p.get("chikunen"),
+                    "kanrihi": p.get("kanrihi"), "shikikin": p.get("shikikin"),
+                    "reikin": p.get("reikin"),
+                    "rebuild_mark": p.get("rebuild_mark"), "rebuild_reason": p.get("rebuild_reason"),
+                    "chimoku": p.get("chimoku"), "toshikeikaku": p.get("toshikeikaku"),
+                    "setsudo": p.get("setsudo"), "tsubo_man": p.get("tsubo_man"),
+                    "verdict": p.get("verdict"),
+                    "interest": p.get("interest"), "caution": p.get("caution"),
+                    "ng_areas": p.get("ng_areas"), "zokujinsei": p.get("zokujinsei"),
+                    "machi": p.get("machi"), "tab": p.get("tab"),
                 }
 
             # removed → archive 退避（消滅検出日を記録）。再出現したら archive から除去。
@@ -3198,6 +3222,38 @@ def run(dry_run: bool = False, only: str = "") -> int:
             else:
                 time.sleep(random.uniform(2, 5))
 
+    emit_reports(results, config, filters, disappeared, dry_run)
+
+    success = sum(1 for r in results if isinstance(r["http"], int) and r["http"] == 200)
+    if fail_count == 0:
+        return 0
+    elif success > 0:
+        return 1
+    else:
+        return 2
+
+
+def emit_reports(results: list, config: dict, filters: dict, disappeared: list, dry_run: bool,
+                 preview: bool = False) -> None:
+    """レポート出力（html/index/csv/SOURCES.md）を書き出す共通処理。
+
+    通常のクロール実行(run)から呼ばれる（preview=False、既定）。
+
+    preview=True（--rebuild専用）のときは reports/_preview.html だけを書き、本番成果物
+    （reports/index.html・日付別html・csv・SOURCES.md）は一切書き換えない・削除もしない
+    （prune_old_reportsも呼ばない）。rebuildはクロールを飛ばした簡易データで作るため、
+    本番を上書きしてはならない（実際に上書き事故が起き git checkout で復元した経緯がある
+    ための安全策。preview_note付きのHTMLを本番同名パスへ絶対に書かないことがこの分岐の目的）。
+    """
+    if preview:
+        html_doc = build_html_report(results, filters, disappeared, dry_run,
+                                     preview_note=PREVIEW_BANNER_TEXT)
+        preview_path = REPORTS_DIR / "_preview.html"
+        preview_path.write_text(html_doc, encoding="utf-8")
+        log.info(f"report(preview): {preview_path}")
+        log.info("本番レポート（reports/index.html・日付別html・csv・SOURCES.md）は変更していません")
+        return
+
     ymd = datetime.now().strftime("%Y%m%d")
     prune_old_reports()
     html_doc = build_html_report(results, filters, disappeared, dry_run)
@@ -3214,13 +3270,166 @@ def run(dry_run: bool = False, only: str = "") -> int:
     log.info(f"report(csv):   {csv_path}")
     log.info(f"sources(md):   {sources_path}")
 
-    success = sum(1 for r in results if isinstance(r["http"], int) and r["http"] == 200)
-    if fail_count == 0:
-        return 0
-    elif success > 0:
-        return 1
+
+def _rebuild_type_hint(url: str) -> str:
+    """--rebuild専用: プロパティ自身のURLから種別ヒント(更地/中古戸建)を推定する。
+
+    通常のアダプタはURL(土地/中古戸建で別URL、または個別カードのURL)から同じ判定をしている
+    （例: parse_suumo/parse_lifull/parse_athomeはbase_urlの/chukoikkodate/や/kodate/、
+    parse_fudosokenはカード自身のurlの/kodate/）。--rebuildはスナップショットに保存された
+    このurlしか使えないため、その共通部分（URLパターン）だけを再現する。
+    """
+    if "chukoikkodate" in url or "/kodate/" in url:
+        return "中古戸建"
+    return "更地"
+
+
+def _rebuild_site_props(site: dict, site_filters: dict) -> list:
+    """--rebuild専用: 1サイト分のスナップショット(data/snapshots/{id}.json)から
+    `_make_record` 相当のレコードを再構築する。HTTPは一切行わない（読むだけ）。
+
+    2026-07-26以降に保存されたスナップショットには、判定済みの確定値（種別・間取り・
+    敷金礼金・建築可否 等。run() の current_keys 構築部を参照）が入っており、それを
+    そのまま復元に使うため通常クロールと同精度で再現できる。新形式の目印は "verdict"
+    キーの有無（_make_record が必ず非None文字列で設定するため、これが無い＝旧形式）。
+
+    それより前の（このフィールド追加前の）スナップショットには無いため、その場合のみ
+    旧来の簡略フォールバック（location+text から `_make_record` で再判定）に落ちる
+    （建築可否はほぼ「不明」、賃貸は種別が一律「賃貸その他」寄りになる等、精度が下がる。
+    次回の通常クロールでそのサイトのスナップショットが新形式に更新されれば自動的に
+    高精度側に切り替わる＝後方互換のためだけの分岐で、恒久的な二重実装ではない）。
+    """
+    site_tab = site.get("tab", "home")
+    is_rent = site_tab == "rent"
+    snapshot = load_snapshot(site["id"])
+    keys = snapshot.get("keys", {}) or {}
+    props = []
+    for v in keys.values():
+        if not isinstance(v, dict):
+            continue
+        url = v.get("url", "") or ""
+        text = v.get("text", "") or ""
+        location = v.get("location", "") or ""
+        price = v.get("price_man")
+        area = v.get("area_sqm")
+
+        if "verdict" in v:
+            # 新形式: crawl時点で確定した判定値をそのまま復元する（キー構成は
+            # _make_record の戻り値と1:1で揃え、後段の共通処理を差し替えなしで使えるように）。
+            shubetsu = v.get("shubetsu") or "更地"
+            rec = {
+                "url": url, "text": text[:120], "key": url + "|" + text[:60],
+                "price_man": price, "area_sqm": area, "area_estimated": False,
+                "tsubo_man": v.get("tsubo_man"),
+                "shubetsu": shubetsu, "shubetsu_reason": v.get("shubetsu_reason") or "",
+                "ceiling_man": ceiling_for(shubetsu, site_filters),
+                "chimoku": v.get("chimoku") or "—", "toshikeikaku": v.get("toshikeikaku") or "—",
+                "setsudo": v.get("setsudo"),
+                "rebuild_mark": v.get("rebuild_mark") or "不明",
+                "rebuild_reason": v.get("rebuild_reason") or "",
+                "zokujinsei": bool(v.get("zokujinsei")),
+                "verdict": v.get("verdict") or "数値不明",
+                "interest": v.get("interest") or [], "caution": v.get("caution") or [],
+                "ng_areas": v.get("ng_areas") or [],
+                "location": location, "machi": v.get("machi") or "",
+                "madori": v.get("madori"), "chikunen": v.get("chikunen"),
+                "kanrihi": v.get("kanrihi"), "shikikin": v.get("shikikin"),
+                "reikin": v.get("reikin"),
+            }
+        else:
+            # 旧形式（判定済み値なし）: 従来どおりの簡略フォールバック。
+            flag_text = (location + " " + text).strip()
+            rec = _make_record(
+                url, text, price, area, False, flag_text, site_filters,
+                location=location,
+                default_type=_rebuild_type_hint(url),
+                shubetsu_override=("賃貸その他" if is_rent else None),
+            )
+
+        rec["first_seen"] = v.get("first_seen") or v.get("last_seen") or ""
+        rec["last_seen"] = v.get("last_seen") or ""
+        rec["tab"] = v.get("tab") or site_tab
+        props.append(rec)
+    return props
+
+
+def _rebuild_row_for_site(site: dict, filters: dict, camp_filters: dict,
+                          rent_filters: dict, today: str) -> tuple[dict, list]:
+    """--rebuild専用: run()内のクロールループが作る `row` dict 相当を、
+    HTTPを使わずスナップショット/アーカイブだけから組み立てる。
+    戻り値: (row, disappeared_entries)。disappeared_entriesの形式はrun()のdisappearedと同じ
+    (site_name, archived_item, days_since_removed, site_tab) タプルのリスト。
+    """
+    sid = site["id"]
+    name = site["name"]
+    site_tab = site.get("tab", "home")
+    if site_tab == "camp":
+        site_filters = camp_filters
+    elif site_tab == "rent":
+        site_filters = rent_filters
     else:
-        return 2
+        site_filters = filters
+
+    props = _rebuild_site_props(site, site_filters)
+    fits = [p for p in props if p["verdict"] == "適合"]
+    ng_items = [p for p in props if p.get("ng_areas")]
+
+    row = {
+        "id": sid, "name": name, "url": site.get("url", ""),
+        "yaml_status": site.get("status", ""), "tab": site_tab,
+        "http": "rebuild", "raw": len(props),
+        "price_cnt": sum(1 for p in props if p["price_man"] is not None),
+        "area_cnt": sum(1 for p in props if p["area_sqm"] is not None),
+        "fit_cnt": len(fits), "ng_cnt": len(ng_items), "added_cnt": 0,
+        "note": "rebuildモード（クロールなし・保存済みスナップショットから再生成。"
+                "カード全文が無いため種別/建築可否等の判定は簡易）",
+        "phase2": False, "props": props, "fits": fits, "ng_items": ng_items,
+        "added_items": [], "promote": False, "mode": "rebuild",
+    }
+
+    disappeared_entries = []
+    archive = load_archive(sid)
+    for a in archive.values():
+        d = _days_between(today, a.get("removed_on", today))
+        if 0 <= d <= DISAPPEAR_WINDOW_DAYS:
+            disappeared_entries.append((a.get("site_name", name), a, d, site_tab))
+    return row, disappeared_entries
+
+
+def rebuild() -> int:
+    """--rebuild: クロールを一切行わず、保存済みスナップショット/アーカイブと
+    urls.yaml の現在のfilters/サイト定義だけから確認用ページ reports/_preview.html を
+    再生成する。HTTPリクエストは1本も出さない。スナップショットは読むだけで書き換えず、
+    差分検出（first_seen更新・added/removed判定）も行わない
+    （新着表示は保存済みのfirst_seenをそのまま使う＝run()と同じロジックのbuild_html_report
+    に渡すため自動的にそうなる）。
+
+    本番成果物（reports/index.html・日付別html・csv・SOURCES.md）は emit_reports に
+    preview=True を渡すことで一切書き換えない（詳細は emit_reports のdocstring参照）。
+    """
+    log.info("rebuildモード: クロールせず保存済みデータから確認用ページを再生成")
+    t0 = time.time()
+    config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
+    sites = config["sites"]
+    filters = config["filters"]
+    camp_filters = {**filters, **(filters.get("camp") or {})}
+    rent_filters = {**filters, **(filters.get("rent") or {})}
+    today = date.today().isoformat()
+
+    results = []
+    disappeared = []
+    for site in sites:
+        row, disap = _rebuild_row_for_site(site, filters, camp_filters, rent_filters, today)
+        results.append(row)
+        disappeared.extend(disap)
+
+    emit_reports(results, config, filters, disappeared, dry_run=False, preview=True)
+
+    elapsed = time.time() - t0
+    total_props = sum(r["raw"] for r in results)
+    log.info(f"[rebuild] サイト数={len(results)} 総件数={total_props} 所要時間={elapsed:.1f}秒")
+    log.info("[rebuild] 本番レポート(index.html/日付別html/csv/SOURCES.md)は変更していません")
+    return 0
 
 
 def _flag_text(p) -> str:
@@ -3302,7 +3511,8 @@ def _help(text) -> str:
             f"<span class='tip'>{escape(text)}</span></span>")
 
 
-def build_html_report(results: list, filters: dict, disappeared: list, dry_run: bool) -> str:
+def build_html_report(results: list, filters: dict, disappeared: list, dry_run: bool,
+                      preview_note: str = None) -> str:
     from html import escape
 
     now = datetime.now()
@@ -3443,6 +3653,8 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append(f"<h1>不動産情報収集ツール <span class='muted'>{ts_label}</span></h1>")
     H.append("<div class='topctl'>日付 " + date_nav + " " + sync_badge + "</div>")
     H.append("</div>")
+    if preview_note:
+        H.append(f"<div class='preview-banner'>{escape(preview_note)}</div>")
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
 
@@ -3581,6 +3793,8 @@ _REPORT_CSS = (
     ".topbar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;"
     "position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:6px 0;z-index:30;}"
     "h1{font-size:18px;margin:4px 0;}.topctl{font-size:13px;}.topctl>*{margin-left:8px;}"
+    ".preview-banner{background:#fff3cd;border:2px solid #e0a800;color:#7a4b00;font-weight:bold;"
+    "padding:8px 14px;border-radius:6px;margin:8px 0;font-size:13px;}"
     "h2{font-size:15px;margin:18px 0 0;border-left:5px solid #2b7;padding:4px 8px;}"
     "h2.sec{cursor:pointer;background:#f3f7f4;}h2.sec:hover{background:#e7f0ea;}"
     "h2.sec::before{content:'\\25b6 ';font-size:11px;color:#666;}h2.sec.open::before{content:'\\25bc ';}"
@@ -3628,6 +3842,7 @@ _REPORT_CSS = (
     "box-shadow:0 3px 10px rgba(0,0,0,.25);padding:8px;font-size:12px;min-width:180px;max-width:300px;}"
     "#areaPop label{display:inline-block;}#areaList .arow{margin:2px 0;}#areaList .delx{cursor:pointer;color:#c0392b;margin-left:6px;}"
     ".loccell{white-space:nowrap;}.infocell{white-space:normal;max-width:220px;}"
+    ".sitecell{max-width:130px;overflow:hidden;text-overflow:ellipsis;}"
     ".secbody{overflow-x:auto;-webkit-overflow-scrolling:touch;}"
     # ---- タブ ----
     ".tabs{display:flex;margin:10px 0 0;border-bottom:3px solid #ddd;}"
@@ -3714,6 +3929,38 @@ const TYPES=CONFIG.types, MACHI=CONFIG.machi;
 const RENT_TYPES=['賃貸戸建','賃貸アパート','賃貸マンション','賃貸その他','駐車場'];
 const CHIMOKU_OPTS=[...new Set(DATA.map(d=>d.chimoku||'—'))].sort();
 const HOUSE_TYPES=new Set(['空き家','古家付き土地','中古戸建']);
+// ---- サイト名短縮（掲載サイト列専用）----
+// d.site（例「SUUMO 賃貸 田方郡（函南町）」）は市町名まで含み長い。市町は別列にあるため
+// 表示・フィルタでは既知の接頭辞（サービス名）で正規化する。「先頭の空白まで」等の機械的な
+// トリムだと「静岡県 未利用県有地 売却・貸付（行政経営課）」と「静岡県 先着順 県有地売却
+// 物件」のような別サイトが同じ短縮名に潰れて事故る（実データで確認済み）ため、実際の
+// urls.yaml の name: を見て作った既知プレフィックス一覧のみ照合し、一致しなければ全文の
+// まま返す（重複しない一回限りの長い名前はCSSの省略表示に任せる）。元データ(d.site)は
+// 書き換えず、この関数は表示・フィルタ判定のときにだけ使う。
+const SITE_PREFIXES=[
+  'SUUMO 賃貸','SUUMO 土地','SUUMO 中古戸建',
+  'LIFULL 賃貸','LIFULL 中古戸建','LIFULL 空き家バンク','LIFULL 土地',
+  '空き家バンクしずおか','アットホーム空き家バンク','住むなら三島',
+  'ジモティー','家いちば','真野開発','不動産創研','伊豆総合企画',
+  '家っち(新日本住建販売)','U2JAPAN三島店','スマイミー静岡',
+  '山いちば','山林バンク','山林売買.net','森林.net','日本マウント',
+  '天城オートキャンプ','東海ヤジマ','田舎暮らし物件.com','ふるさと情報館',
+  'CHINTAI','いい部屋ネット','静岡県営住宅','ビレッジハウス'
+];
+function shortSite(name){
+  name=name||'';
+  for(const p of SITE_PREFIXES){if(name.startsWith(p))return p;}
+  return name||'—';
+}
+// 列フィルタの値取得。'site'だけ短縮名で比較する（opts自体が短縮名の集合のため、生の
+// d.siteのままだと絶対に一致しない）。他の列は従来どおり d[k] を直接見る（挙動を変えない）。
+function filterValue(k,d){return k==='site'?shortSite(d.site):d[k];}
+// 現在タブに出現するサイトの短縮名一覧（CHIMOKU_OPTSと同じ流儀。タブごとに中身が違うため
+// colsFor(tab)から呼ぶ。inTabBucketは関数宣言でホイストされるため、テキスト上の定義位置が
+// このあとでも呼び出し時点（render時）には問題なく参照できる）。
+function siteOptsForTab(tab){
+  return [...new Set(DATA.filter(d=>inTabBucket(d,tab)).map(d=>shortSite(d.site)))].sort();
+}
 // タブ別の列定義。rentタブは坪単価・建築可否・地目を出さず、間取り・築年を出す。
 function colsFor(tab){
   if(tab==='rent'){
@@ -3724,6 +3971,7 @@ function colsFor(tab){
       {k:'area',l:'面積'},
       {k:'shubetsu',l:'種別',f:'check',opts:RENT_TYPES},
       {k:'chikunen',l:'築年'},
+      {k:'site',l:'掲載サイト',f:'check',opts:siteOptsForTab('rent')},
       {k:'loc',l:'所在地'},
       {k:'machi',l:'市町',f:'check',opts:MACHI},
       {k:'first_seen',l:'検出日'},
@@ -3736,6 +3984,7 @@ function colsFor(tab){
     {k:'tsubo',l:'坪単価',f:'range'},
     {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
     {k:'rb',l:'建築可否',f:'check',opts:['○','△','×','不明']},
+    {k:'site',l:'掲載サイト',f:'check',opts:siteOptsForTab(tab)},
     {k:'loc',l:'所在地'},
     {k:'machi',l:'市町',f:'check',opts:MACHI},
     {k:'chimoku',l:'地目',f:'check',opts:CHIMOKU_OPTS},
@@ -4114,7 +4363,7 @@ function passFilters(d){
   // 除外エリアは全タブ共通のロジックで適用する（賃貸だけ特別扱いにしない＝個人の使い分けは
   // タブ別リストの中身で吸収する。どのエリアを入れるかは利用者がタブごとに選ぶ）。
   if(curExareas().some(a=>a.on&&a.name&&loc.includes(a.name)))return false;
-  for(const k in S.cf){const cf=S.cf[k],v=d[k];
+  for(const k in S.cf){const cf=S.cf[k],v=filterValue(k,d);
     if(cf.t==='range'){if(v==null)return false;if(cf.min!=null&&v<cf.min)return false;if(cf.max!=null&&v>cf.max)return false;}
     else if(cf.t==='check'){if(cf.set&&!cf.set.includes(String(v==null?'—':v)))return false;}
   }
@@ -4161,9 +4410,13 @@ function cellHtml(k,d,g){
       const rbTitle=d.rbreason+(d.setsudo?(' / 接道:'+d.setsudo):'');
       return "<td class='"+rbClass(d.rb)+"' title='"+esc(rbTitle)+"'>"+esc(d.rb)+"</td>";
     }
+    case 'site':{
+      const others=g.sites.length-1;
+      const label=esc(shortSite(d.site))+(others>0?" <span class=muted>ほか"+others+"件</span>":"");
+      return "<td class='sitecell' title='"+esc(g.sites.join(' / '))+"'>"+label+"</td>";
+    }
     case 'loc':{
-      let loc=esc(normLoc(d.loc).slice(0,22)||'—');
-      if(g.sites.length>1){const o=g.sites.filter(x=>x!=d.site);loc+=" <span class=muted>他"+o.length+"件("+esc(o.join('/'))+")</span>";}
+      const loc=esc(normLoc(d.loc).slice(0,22)||'—');
       return "<td class='loccell'>"+loc+"</td>";
     }
     case 'machi':
@@ -4509,6 +4762,8 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
 
 def _site_status(row) -> str:
     h = row["http"]
+    if row.get("mode") == "rebuild":
+        return "rebuild再生成（HTTP未実行）"
     if h == 200:
         return "稼働(adapter)" if row.get("mode") == "adapter" else "稼働(ハッシュ)"
     if h == "robots制限":
@@ -4533,7 +4788,7 @@ def write_sources_md(path: Path, config: dict, results: list) -> None:
         if r:
             status = _site_status(r)
             http = r["http"]
-            cnt = r["raw"] if r.get("mode") == "adapter" else "—"
+            cnt = r["raw"] if r.get("mode") in ("adapter", "rebuild") else "—"
         else:
             status, http, cnt = "未実行", "—", "—"
         L.append(f"| {ch} | {s['name']} | {kind} | {s['url']} | {status} | {http} | {cnt} |")
@@ -4581,5 +4836,17 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="akiya-watch")
     parser.add_argument("--dry-run", action="store_true", help="スナップショットを保存しない")
     parser.add_argument("--only", default="", help="site id に部分一致するサイトだけ巡回（例: suumo_）")
+    parser.add_argument(
+        "--rebuild", action="store_true",
+        help="クロールせず、保存済みスナップショット(data/snapshots)から確認用ページ"
+             "reports/_preview.html だけを数十秒で再生成する（HTTP通信なし）。"
+             "本番レポート(index.html/日付別html/csv/SOURCES.md)は一切書き換えない。"
+             "物件データは前回クロール時点のもの（本修正以降にクロール済みのサイトは"
+             "種別/間取り/敷金礼金/建築可否も通常実行と同精度で復元。未クロールのサイトの"
+             "みフォールバックの簡易表示）"
+             "（--only/--dry-runを同時に指定しても無視される。単独で使うこと）。",
+    )
     args = parser.parse_args()
+    if args.rebuild:
+        sys.exit(rebuild())
     sys.exit(run(dry_run=args.dry_run, only=args.only))
