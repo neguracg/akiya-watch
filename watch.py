@@ -3410,9 +3410,15 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
          f"<title>不動産情報収集ツール {ts_label}</title><style>{css}</style></head><body>"]
 
     # ---- トップバー（タイトル / 日付）----
+    # 同期状態バッジ(#syncStatus): 既定 display:none。?u=キーが有効な時だけJSがinline-blockにする
+    # （キー未使用のブラウザでは何も見えないままにする＝挙動を変えないための土台）。
+    sync_badge = ("<span id='syncStatus' class='syncstatus' style='display:none' "
+                  "onclick=\"this.classList.toggle('show')\">"
+                  "<span id='syncStatusLabel'></span>"
+                  "<span class='synctip' id='syncStatusTip'></span></span>")
     H.append("<div class='topbar'>")
     H.append(f"<h1>不動産情報収集ツール <span class='muted'>{ts_label}</span></h1>")
-    H.append("<div class='topctl'>日付 " + date_nav + "</div>")
+    H.append("<div class='topctl'>日付 " + date_nav + " " + sync_badge + "</div>")
     H.append("</div>")
     if dry_run:
         H.append("<p class='muted'>dry-run モード（スナップショット更新なし）</p>")
@@ -3699,6 +3705,18 @@ _REPORT_CSS = (
     ".legendrow td{font-size:11px;}"
     ".legendrow .lgline{display:block;margin:2px 0;white-space:normal;}"
     ".legendrow .lgline b{display:inline-block;padding:1px 6px;margin:0 1px;border-radius:3px;font-weight:normal;}"
+    # ---- 同期状態バッジ（?u=キー使用時のみJSが表示。既定は非表示のまま）----
+    ".syncstatus{display:inline-block;position:relative;cursor:pointer;font-size:11px;"
+    "padding:2px 8px;border-radius:10px;background:#eef3f8;color:#456;white-space:nowrap;vertical-align:middle;}"
+    ".syncstatus.st-syncing{background:#eef3f8;color:#456;}"
+    ".syncstatus.st-synced{background:#e3f3e6;color:#0a7d2c;}"
+    ".syncstatus.st-local{background:#fdf3d8;color:#8a6800;}"
+    ".syncstatus.st-unregistered{background:#fde3e3;color:#c0392b;}"
+    ".syncstatus.st-invalid{background:#fde3e3;color:#c0392b;}"
+    ".synctip{display:none;position:absolute;right:0;top:22px;width:220px;background:#333;color:#fff;"
+    "padding:6px 9px;border-radius:5px;font-size:11px;font-weight:normal;z-index:45;"
+    "white-space:normal;line-height:1.4;text-align:left;}"
+    ".syncstatus.show .synctip{display:block;}"
     # ---- モバイル対応 ----
     "@media(max-width:700px){"
     "body{margin:0 8px 40px;}.topbar{flex-direction:column;align-items:flex-start;}"
@@ -3769,16 +3787,208 @@ const LS_AREA_FILTER='akiyawatch_area', LS_HIDDEN='akiyawatch_hidden';
 const LS_FAV='akiyawatch_fav', LS_EXAREAS='akiyawatch_exareas';
 const LS_OLD_EXAREAS='akiya.exareas.v2';
 function lsGet(k,def){try{const v=JSON.parse(localStorage.getItem(k));return v==null?def:v;}catch(e){return def;}}
-function lsSave(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
+// lsSaveRaw: localStorageへの書き込みのみ（同期はしない）。lsSave: 書き込み＋同期スケジュール。
+// 呼び出し側（お気に入り/非表示/フィルタ等）は既存どおり lsSave を使えば自動で同期対象になる。
+function lsSaveRaw(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}}
+// DIRTY_KEYS: このタブでローカル変更があり、まだサーバへ確定していないlocalStorageキーの集合。
+// キー単位で管理するのは、pull時に「サーバ優先で丸ごと上書き／丸ごとローカルpush」の二択だと、
+// 触っていないキー（例: fav）まで巻き添えで失われるため。触ったキーだけローカル優先で残し、
+// 触っていないキーはサーバ優先でマージする（syncPull参照）。
+// PUT成功時だけ空に戻す。失敗時やpull完走前の編集時は残したままにし、
+// 次の同期機会（次の操作 or ページ離脱）で再送する（無限リトライはしない）。
+const DIRTY_KEYS=new Set();
+function lsSave(k,v){lsSaveRaw(k,v);DIRTY_KEYS.add(k);scheduleSync();}
 
-// 除外エリア: 新キーになければ旧キー(akiya.exareas.v2)を移行
-let EXAREAS=(()=>{
+// ---- 状態同期（多端末共有。任意機能＝?u=キーが無い/不正なブラウザではUKEY=nullになり、
+// 以降のfetchは一切発生しない。state-api側の実装は別担当のためここでは触らない）----
+const SYNC_API='https://staff.negura.website/akiya-state';
+const LS_UKEY='akiyawatch_ukey';
+function isValidUkey(v){return typeof v==='string'&&/^[a-z0-9_-]{1,32}$/.test(v);}
+// ?u= > localStorage記憶 > null の優先順。?u=off は記憶を消して明示的に同期解除する。
+// UKEY_INVALID: ?u=は付いていたが形式不正だったことを覚えておき、後段でバッジに警告を出すためのフラグ
+// （UKEY自体はnullのまま＝形式不正の値を記憶キーへフォールバックさせることはしない）。
+let UKEY_INVALID=false;
+function resolveUkey(){
+  let params=[];
+  try{params=new URLSearchParams(location.search).getAll('u');}catch(e){}
+  if(params.length){
+    // ?u=ken&u=off のように複数指定されていても、offが1つでも含まれていれば停止を優先する（大小文字無視）。
+    if(params.some(v=>String(v).trim().toLowerCase()==='off')){
+      try{localStorage.removeItem(LS_UKEY);}catch(e){}
+      return null;
+    }
+    const uParam=params[0]; // offが無ければ従来どおり最初の指定を採用
+    if(isValidUkey(uParam)){try{localStorage.setItem(LS_UKEY,uParam);}catch(e){} return uParam;}
+    UKEY_INVALID=true; // 記憶キーへは意図的にフォールバックしない（不正値の温存を防ぐ）
+    return null;
+  }
+  let stored=null;
+  try{stored=localStorage.getItem(LS_UKEY);}catch(e){}
+  return isValidUkey(stored)?stored:null;
+}
+const UKEY=resolveUkey();
+// PULLED: このページ表示中にGETが200で完了し、サーバ状態の適用 or シードのどちらかが
+// 確定したときだけtrue。falseの間はscheduleSync/syncPushNow/flushSyncNowが一切pushしない
+// （貧弱なローカル状態でサーバの正データを上書きする事故を防ぐ）。
+let PULLED=false;
+if(UKEY_INVALID)setSyncStatus('invalid'); // ?u=形式不正を無言のままにしない
+let _syncTimer=null;
+// 連続保存（★連打等）で毎回PUTしないためのデバウンス。
+// UKEYが無い、またはpull未完走(PULLED=false)なら即return＝fetch自体を作らない。
+function scheduleSync(){
+  if(!UKEY||!PULLED)return;
+  if(_syncTimer)clearTimeout(_syncTimer);
+  _syncTimer=setTimeout(()=>{_syncTimer=null;syncPushNow();},800);
+}
+// state-api契約の6キーを、今のlocalStorageの生の値からそのまま組み立てる。
+// 未保存(=null)のキーはpayloadに含めない：「サーバに無いキー＝ローカルを維持」という
+// syncPull側の意味論と対にするための取り決めで、ここでnullを送ってサーバ側の値を
+// 消してしまわないようにする（syncPull側のフォールバック実装だけでは、他デバイスが
+// 先にnullをPUTしてしまえば手遅れになるため、送信側でも防ぐ＝多層防御）。
+function buildStatePayload(){
+  const p={v:1};
+  const tab=lsGet(LS_TAB,null); if(tab!=null)p.tab=tab;
+  const price=lsGet(LS_PRICE,null); if(price!=null)p.price=price;
+  const area=lsGet(LS_AREA_FILTER,null); if(area!=null)p.area=area;
+  const hidden=lsGet(LS_HIDDEN,null); if(hidden!=null)p.hidden=hidden;
+  const fav=lsGet(LS_FAV,null); if(fav!=null)p.fav=fav;
+  const exareas=lsGet(LS_EXAREAS,null); if(exareas!=null)p.exareas=exareas;
+  return p;
+}
+function fetchWithTimeout(url,opts,ms){
+  const ctrl=new AbortController();
+  const timer=setTimeout(()=>ctrl.abort(),ms||8000);
+  const o=Object.assign({credentials:'omit'},opts,{signal:ctrl.signal});
+  return fetch(url,o).finally(()=>clearTimeout(timer));
+}
+async function syncPushNow(){
+  if(!UKEY||!PULLED)return;
+  try{
+    const res=await fetchWithTimeout(SYNC_API+'/state/'+encodeURIComponent(UKEY),{
+      method:'PUT',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({state:buildStatePayload()})
+    },8000);
+    if(res.ok){DIRTY_KEYS.clear();setSyncStatus('synced');}
+    else{
+      // PUT失敗(429含む)は静かに握りつぶす。localStorageには既に保存済みなのでデータは失われないが、
+      // DIRTY_KEYSは残したままにして次の同期機会(次の操作 or ページ離脱)で再送する。
+      if(res.status===404)setSyncStatus('unregistered');else setSyncStatus('local');
+    }
+  }catch(e){setSyncStatus('local');}
+}
+// リモート優先で上書きした後、localStorageから状態一式を読み直して再描画する
+// （restoreState/HIDDEN/FAVOR/EXAREASの再構築＋applyStateToControls/updateTabUI/renderの一式）。
+// S=defState()を先に行うのは、restoreStateが「値が非nullの項目だけSを上書きする」設計のため。
+// これをやらないと、サーバに無いキーの分だけ古いメモリ上のS（pull前の値）が残留し、
+// 次のユーザー操作でのsaveStateでサーバへ書き戻ってしまう。
+// ただしS.sort/S.cfはlocalStorageに永続化されない純UI状態(同期対象外)のため、
+// defState()に巻き込まれて黙って消えないよう退避・復元する。
+function reloadAllStateFromLocalStorage(){
+  const prevSort=S.sort, prevCf=S.cf;
+  S=defState();
+  S.sort=prevSort; S.cf=prevCf;
+  restoreState();
+  HIDDEN=loadKV(LS_HIDDEN);
+  FAVOR=loadKV(LS_FAV);
+  EXAREAS=loadExareas();
+  applyStateToControls();
+  updateTabUI();
+  render();
+}
+async function syncPull(){
+  if(!UKEY)return;
+  setSyncStatus('syncing');
+  try{
+    const res=await fetchWithTimeout(SYNC_API+'/state/'+encodeURIComponent(UKEY),{method:'GET'},8000);
+    if(res.status===404){setSyncStatus('unregistered');return;} // 未知キー→同期を諦める(PULLEDは立てない=push禁止のまま)
+    if(!res.ok){setSyncStatus('local');return;} // 5xx等→ローカル継続。PULLEDは立てない(=以後push禁止)。
+    const data=await res.json();
+    const st=(data&&data.state)?data.state:null;
+    // 実質空（キーが無い、または全キーがnull）のレコードは「レコード未作成」と同じ扱いにする。
+    // でないと、まっさらな端末が先にGETしただけで既存の★・非表示が全消去される。
+    const hasContent=!!(st&&Object.keys(st).some(k=>k!=='v'&&st[k]!=null));
+    // GET自体はここで確定＝以後pushしても安全（サーバの実データ or その不在を確認済み）。
+    // 下のシード分岐が呼ぶsyncPushNow()自身がPULLEDガードを持つため、その前にtrueにする必要がある。
+    PULLED=true;
+    if(hasContent){
+      // キー単位マージ: 「サーバに値がある(非null) かつ このタブでまだ触っていない(DIRTY_KEYSに無い)」
+      // キーだけサーバ優先でlocalStorageへ書き戻す。触ったキーはローカルの値を維持する。
+      // (旧実装はhasContent&&DIRTYで丸ごとサーバ優先をスキップしローカルを丸ごとpushしていたが、
+      //  それだと取りこぼし1件を守るためにサーバ側の他キー(お気に入り等)を全消去してしまっていた)
+      const serverKV=[[LS_TAB,st.tab],[LS_PRICE,st.price],[LS_AREA_FILTER,st.area],
+        [LS_HIDDEN,st.hidden],[LS_FAV,st.fav],[LS_EXAREAS,st.exareas]];
+      serverKV.forEach(([lsKey,val])=>{if(val!=null&&!DIRTY_KEYS.has(lsKey))lsSaveRaw(lsKey,val);});
+      reloadAllStateFromLocalStorage();
+      setSyncStatus('synced');
+      // マージ後のlocalStorageは全キーが揃っている(サーバ由来+ローカル由来)ため、
+      // ここでpushしてもサーバ側の他キーが消えることはない。触ったキーが無ければpush不要。
+      if(DIRTY_KEYS.size>0)scheduleSync();
+    }else{
+      // サーバが実質空 → ローカルを正として押し返す（空レコードでの全消去を防ぐ）。
+      await syncPushNow();
+    }
+  }catch(e){
+    // ネットワークエラー/タイムアウト → 静かにlocalStorageのまま継続（エラーダイアログは出さない）。
+    // PULLEDは立てない(=以後push禁止のまま。貧弱なローカル状態でサーバの正データを上書きしない)。
+    setSyncStatus('local');
+  }
+}
+// デバウンス中の離脱（日付ドロップダウンの即時遷移・タブを閉じる等）で保留中の変更が
+// 消えるのを防ぐ。UKEY無し/pull未完走(PULLED=false)の端末には一切影響しない(fetchを作らない)。
+function flushSyncNow(){
+  if(!UKEY||!PULLED)return;
+  if(DIRTY_KEYS.size===0)return; // 送るべき変更が無ければ何もしない
+  if(_syncTimer){clearTimeout(_syncTimer);_syncTimer=null;}
+  // sendBeaconはPUTを送れないため使わない。keepalive:trueのfetchでページ離脱後も送信を継続させる。
+  try{
+    fetch(SYNC_API+'/state/'+encodeURIComponent(UKEY),{
+      method:'PUT',credentials:'omit',keepalive:true,
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({state:buildStatePayload()})
+    }).then(res=>{if(res&&res.ok)DIRTY_KEYS.clear();}).catch(()=>{});
+  }catch(e){}
+}
+// pagehideはwindowに発火するイベントで、documentのリスナには届かない(実測確認済み)。
+// documentに登録すると常時発火せず、デバウンス中の離脱(日付ドロップダウンの即時遷移等)で
+// 保留中のPUTが飛ばずに消える。visibilitychangeはdocumentで正しく発火するのでそのまま。
+window.addEventListener('pagehide',flushSyncNow);
+document.addEventListener('visibilitychange',()=>{if(document.hidden)flushSyncNow();});
+// 沈黙故障に気づくための小さな表示。UKEYがnullの間はこの関数自体が呼ばれない
+// （syncPull/syncPushNowが先頭でreturnするため）ので、既定の見た目は一切変わらない。
+function setSyncStatus(kind){
+  const el=document.getElementById('syncStatus'); if(!el)return;
+  el.style.display='inline-block';
+  el.classList.remove('st-syncing','st-synced','st-local','st-unregistered','st-invalid');
+  el.classList.add('st-'+kind);
+  const labels={syncing:'☁ 同期中…',synced:'☁ '+UKEY,local:'⚠ ローカルのみ',unregistered:'⚠ キー未登録',invalid:'⚠ キーが正しくありません'};
+  const tips={
+    syncing:'この端末の検索条件・お気に入り・非表示を他の端末と照合しています。',
+    synced:'この端末の検索条件・お気に入り・非表示は「'+UKEY+'」という名前で他の端末と共有されています。',
+    local:'他の端末と通信できていません。この端末には保存されているので操作は失われません。',
+    unregistered:'「'+UKEY+'」はまだ使えない名前です。共有するには登録が必要です（この端末には保存されています）。',
+    invalid:'URLの?u=の形式が正しくありません（半角英数字と-_のみ、32文字以内）。この端末はローカルのみで動作します。'
+  };
+  const lab=document.getElementById('syncStatusLabel'); if(lab)lab.textContent=labels[kind]||'';
+  const tip=document.getElementById('syncStatusTip'); if(tip)tip.textContent=tips[kind]||'';
+}
+
+// 除外エリア: 新キーになければ旧キー(akiya.exareas.v2)を移行。
+// パース結果が配列でない場合（nullを含む。例えばサーバにexareasが無い状態を旧コードが
+// そのまま書き戻した"null"文字列など）は既定値へフォールバックする。フォールバックしないと
+// EXAREAS=nullのままpassFiltersのEXAREAS.some()がTypeErrorになりrender()全体が止まり、
+// 全タブが恒久的に0件表示になる（localStorageを手動で消すまで直らない）。
+function loadExareas(){
   const nv=localStorage.getItem(LS_EXAREAS);
-  if(nv!=null){try{return JSON.parse(nv);}catch(e){}}
+  if(nv!=null){try{const v=JSON.parse(nv);if(Array.isArray(v))return v;}catch(e){}}
   const ov=localStorage.getItem(LS_OLD_EXAREAS);
-  if(ov!=null){try{const v=JSON.parse(ov);lsSave(LS_EXAREAS,v);return v;}catch(e){}}
-  return (CONFIG.exareas||[]).map(n=>({name:n,on:true}));
-})();
+  if(ov!=null){try{const v=JSON.parse(ov);if(Array.isArray(v)){lsSaveRaw(LS_EXAREAS,v);return v;}}catch(e){}}
+  const def=(CONFIG.exareas||[]).map(n=>({name:n,on:true}));
+  // 既定値へフォールバックした=localStorageの値は壊れていた("null"文字列等)ということなので、
+  // 既定値で上書きして掃除する（放置すると次回以降も同じ壊れた値を読み続ける）。
+  lsSaveRaw(LS_EXAREAS,def);
+  return def;
+}
+let EXAREAS=loadExareas();
 
 // 非表示／お気に入りは Map<bdk, snapshot>。物件が今日のデータから消えても
 // snapshot で表示し続け、物件自体が消滅するまでリストに残す。
@@ -4179,6 +4389,9 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
   });
 
   render();
+  // localStorageでの即時描画はここまでで完了。UKEYがある時だけ非同期でサーバ状態を取りに行く
+  // （無ければsyncPullは先頭でreturnし、fetchは一切発生しない）。
+  if(UKEY)syncPull();
 })();
 """
 

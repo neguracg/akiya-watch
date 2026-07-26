@@ -11,6 +11,14 @@ logs/
 .env
 .env.*
 
+# state-api/.env は上の .env パターンで既にマッチするが、専用ディレクトリのため明示しておく
+state-api/.env
+
+# .env.example はデプロイ手順に必要なテンプレートで秘密情報を含まないため、
+# 上の .env.* パターンから明示的に除外して追跡する
+# (git check-ignore -v で無視されていないことを実測確認済み)。
+!state-api/.env.example
+
 # data/ 配下は原則無視するが、snapshots/ と archive/ は GitHub Actions の差分判定
 # （新着/消滅）にスナップショット持ち越しが必須なので追跡する。一時ファイル等は無視。
 data/*

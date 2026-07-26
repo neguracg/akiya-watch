@@ -1,0 +1,27 @@
+# akiya-watch state-api 本番Compose定義。
+#
+# 前提(VPS管理セッション側で既に用意されている想定):
+#   - Docker共有ネットワーク "internal"(外部ネットワークとしてこのcomposeから参照)
+#   - PostgreSQL 16(同ネットワーク上の既存共有コンテナ)
+#   - Cloudflare Tunnel / リバースプロキシがこのサービスの8000番へ振り分ける設定
+#
+# このcompose定義は akiya-state アプリのコンテナ1つだけを持つ
+# (postgres/cloudflaredは含めない=VPS共有インフラとして既存管理下にあるため)。
+# ホストポートの公開はここに書かない(VPS側でoverrideする)。
+#
+# 使い方(VPS管理セッション側で調整のうえ):
+#   cd /opt/apps/akiya-state
+#   docker compose -f docker-compose.prod.yml up -d --build
+
+services:
+  akiya-state:
+    build: { context: ., dockerfile: Dockerfile }
+    container_name: akiya-state
+    restart: unless-stopped
+    env_file: .env
+    networks: [internal]
+
+networks:
+  internal:
+    external: true
+    name: internal

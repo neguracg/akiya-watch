@@ -1,0 +1,5 @@
+# BUGLOG
+
+- 2026-07-26 | 状態同期(watch.py `_FILTER_JS`)がnull値の意味論不備で★/非表示/検索条件を消失させる複合バグ（exareas null化で全タブ0件表示に固定/空レコードのpullで★・非表示が全消去/pull失敗後もpushしサーバの正データを貧弱なローカルで上書き/デバウンス中の離脱で変更消失） | 原因: 「サーバに未設定のキー=null」をそのまま送受信・適用しており、「サーバに無いキー＝ローカルを維持」という意味論が実装されていなかった | commit: (このセッションでは未commit。次回コミット時にハッシュを追記) | #data-loss #state-sync
+- 2026-07-26 | state-api: CORS_ORIGIN起動時検証が不十分で、カンマ区切り複数指定/スキーム欠落/大文字混在/既定ポート明記(:443)の4パターンが検証を素通りして起動し、その後ACAOヘッダを一切返さず同期が無言死する(敵対的レビューで実測) | 原因: 検証が`*`/末尾スラッシュ/埋め込み空白の3パターンの文字列チェックのみで、urllib.parse.urlsplitによる構造的検証が無かった | commit: (このセッションでは未commit。次回コミット時にハッシュを追記) | #config-validation #silent-failure
+- 2026-07-26 | state-api: DB_CONNECTION_LIMIT/PUT_RATE_LIMIT_MAX/GET_RATE_LIMIT_MAX/MAX_BODY_BYTESに起動時のレンジ検証が無く、DB_CONNECTION_LIMIT=0で全リクエスト恒久503(healthzは「db down」と偽装)・=-1でthreading.Semaphore生成がValueErrorとなりモジュールimport自体が失敗してrestart:unless-stoppedがクラッシュループ・=500で上限対策自体が無意味化(敵対的レビューで実測) | 原因: 環境変数をint変換するのみでレンジチェックが無く、さらにDB_CONNECTION_LIMITをモジュール読み込み時に直接threading.Semaphoreへ渡していたため異常値がフェイルファストなRuntimeErrorではなくimport時例外になっていた | commit: (このセッションでは未commit。次回コミット時にハッシュを追記) | #config-validation #crash-loop
