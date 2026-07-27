@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59392/index.html|静岡県沼津市岡一色": {
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "静岡県沼津市岡一色",
       "price_man": 1550,
       "area_sqm": null,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "179a11c261e0709e",
-  "fetched_at": "2026-07-26T23:19:19.187112"
+  "hash": "7204259c0a6048be",
+  "fetched_at": "2026-07-27T23:18:49.101136"
 }

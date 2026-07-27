@@ -2,7 +2,7 @@
   "keys": {
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100001|七尾団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒413-0002 熱海市伊豆山七尾原1173-13",
       "price_man": 1.39,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100003|上小嵐団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒413-0029 熱海市小嵐町8-11",
       "price_man": 2.37,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100005|緑ガ丘団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒413-0035 熱海市緑ガ丘町8-11",
       "price_man": 2.26,
       "area_sqm": null,
@@ -89,7 +89,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100006|徳倉団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒411-0916 駿東郡清水町中徳倉8",
       "price_man": 2.38,
       "area_sqm": null,
@@ -118,7 +118,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100007|千本団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0871 沼津市西間門574-9",
       "price_man": 2.64,
       "area_sqm": null,
@@ -147,7 +147,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100008|愛鷹西団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0303 沼津市西椎路645-7",
       "price_man": 2.76,
       "area_sqm": null,
@@ -176,7 +176,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100009|今沢団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0875 沼津市今沢545-2",
       "price_man": 1.15,
       "area_sqm": null,
@@ -205,7 +205,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100010|光ヶ丘団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒411-0029 三島市光ヶ丘2丁目23",
       "price_man": 1.25,
       "area_sqm": null,
@@ -234,7 +234,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100011|茶畑団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-1121 裾野市茶畑1440",
       "price_man": 1.17,
       "area_sqm": null,
@@ -263,7 +263,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100012|小山団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-1303 駿東郡小山町生土59-5",
       "price_man": 1.14,
       "area_sqm": null,
@@ -292,7 +292,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100013|原団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0306 沼津市大塚978",
       "price_man": 1.81,
       "area_sqm": null,
@@ -321,7 +321,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100014|小山第２団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-1303 駿東郡小山町生土149-10",
       "price_man": 1.83,
       "area_sqm": null,
@@ -350,7 +350,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100015|三島南団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒411-0813 三島市鶴喰24-2",
       "price_man": 2.25,
       "area_sqm": null,
@@ -379,7 +379,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100016|六軒町団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0312 沼津市原593-1",
       "price_man": 2.34,
       "area_sqm": null,
@@ -408,7 +408,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100017|原町中団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0311 沼津市原町中3-4",
       "price_man": 2.39,
       "area_sqm": null,
@@ -437,7 +437,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100018|壱町田やまがみ団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒411-0025 三島市壱町田61",
       "price_man": 2.17,
       "area_sqm": null,
@@ -466,7 +466,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100019|片浜団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒410-0875 沼津市今沢13-1",
       "price_man": 2.53,
       "area_sqm": null,
@@ -495,7 +495,7 @@
     },
     "https://www.sjkk.or.jp/kenei/syosai.php?id=100020|東山団地": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "〒412-0024 御殿場市東山880-5",
       "price_man": 2.15,
       "area_sqm": null,
@@ -524,5 +524,5 @@
     }
   },
   "hash": "11c0495eef6d7449",
-  "fetched_at": "2026-07-26T23:16:17.934780"
+  "fetched_at": "2026-07-27T23:16:17.642177"
 }

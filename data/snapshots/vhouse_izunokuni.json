@@ -2,7 +2,7 @@
   "keys": {
     "https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/ohito-4241/|ビレッジハウス大仁": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-07-26",
+      "last_seen": "2026-07-27",
       "location": "静岡県伊豆の国市御門字川平367-6",
       "price_man": null,
       "area_sqm": null,
@@ -33,6 +33,6 @@
       "tab": "rent"
     }
   },
-  "hash": "61eadc5df9a8f683",
-  "fetched_at": "2026-07-26T23:23:03.247990"
+  "hash": "63cd4f9e11f375c9",
+  "fetched_at": "2026-07-27T23:22:20.809395"
 }

@@ -152,5 +152,16 @@
     "text": "貸アパート 熱海市昭和町13-1",
     "removed_on": "2026-07-26",
     "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175546|貸店舗・事務所 熱海市中央町3-14": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-26",
+    "location": "熱海市中央町3-14",
+    "price_man": 11.0,
+    "area_sqm": 35.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175546",
+    "text": "貸店舗・事務所 熱海市中央町3-14",
+    "removed_on": "2026-07-27",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }
