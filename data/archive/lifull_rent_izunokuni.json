@@ -87,28 +87,6 @@
     "removed_on": "2026-07-27",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/d4195a61c7187eaece5e5606c2c7e74f9b8fb514/|サニーハウス微笑II": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "静岡県伊豆の国市寺家",
-    "price_man": 5.9,
-    "area_sqm": 44.2,
-    "url": "https://www.homes.co.jp/chintai/room/d4195a61c7187eaece5e5606c2c7e74f9b8fb514/",
-    "text": "サニーハウス微笑II",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/00ee6256ad0d4361a54c3725fd08aaf8afd04ea0/|クレイノＹＡＭＡＭＯＴＯII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "location": "静岡県伊豆の国市吉田",
-    "price_man": 7.6,
-    "area_sqm": 34.3,
-    "url": "https://www.homes.co.jp/chintai/room/00ee6256ad0d4361a54c3725fd08aaf8afd04ea0/",
-    "text": "クレイノＹＡＭＡＭＯＴＯII",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/79a9bbea7b252e6a58f3e90177de8e6d958c2fbd/|サニーガーデン": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
@@ -239,6 +217,138 @@
     "url": "https://www.homes.co.jp/chintai/room/fbb76040c48de49faa4a45f726f86e8bc77ca885/",
     "text": "ララ・花いち",
     "removed_on": "2026-07-27",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/71db5c65da4bcb1c9fb81e772c46c8df65175f78/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 5.6,
+    "area_sqm": 42.4,
+    "url": "https://www.homes.co.jp/chintai/room/71db5c65da4bcb1c9fb81e772c46c8df65175f78/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/5ca2f65414769712a4a95cf510ef25e1834cccef/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 5.6,
+    "area_sqm": 42.4,
+    "url": "https://www.homes.co.jp/chintai/room/5ca2f65414769712a4a95cf510ef25e1834cccef/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/1cf3742ac37b3cb587bc6c813e2398110b5eee36/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 6.8,
+    "area_sqm": 75.6,
+    "url": "https://www.homes.co.jp/chintai/room/1cf3742ac37b3cb587bc6c813e2398110b5eee36/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/cac96d743032e4ad6d36966acfd9373af9e56c4b/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 6.8,
+    "area_sqm": 75.6,
+    "url": "https://www.homes.co.jp/chintai/room/cac96d743032e4ad6d36966acfd9373af9e56c4b/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/c88416bbeffdcf2923796db759b06e3579165f20/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 5.4,
+    "area_sqm": 33.2,
+    "url": "https://www.homes.co.jp/chintai/room/c88416bbeffdcf2923796db759b06e3579165f20/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/fbbc9c430744400ad18fc2c4b3cf2e04fa8f01ab/|メゾン四日町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 5.4,
+    "area_sqm": 33.2,
+    "url": "https://www.homes.co.jp/chintai/room/fbbc9c430744400ad18fc2c4b3cf2e04fa8f01ab/",
+    "text": "メゾン四日町",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/0bdd9a62c60bc6edebbe566e1dca7b31234ccbf5/|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 6.5,
+    "area_sqm": 58.5,
+    "url": "https://www.homes.co.jp/chintai/room/0bdd9a62c60bc6edebbe566e1dca7b31234ccbf5/",
+    "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/767a17c52abcd70ec3a6daf93e2932f155c625c7/|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 5.7,
+    "area_sqm": 46.8,
+    "url": "https://www.homes.co.jp/chintai/room/767a17c52abcd70ec3a6daf93e2932f155c625c7/",
+    "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/2532b5c94bc2db00c2fcde804f2e8fc244357081/|レオパレス伊豆長岡": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 6.6,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/2532b5c94bc2db00c2fcde804f2e8fc244357081/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/c9817bda487e8dab5793d76f2c30586aea086782/|レオパレス伊豆長岡": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.2,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/c9817bda487e8dab5793d76f2c30586aea086782/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/300b5fd7a0ce3d2c9a3ae31cde59b216f5ebb409/|レオパレス伊豆長岡": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.2,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/300b5fd7a0ce3d2c9a3ae31cde59b216f5ebb409/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/f0512c882ec99dd04b9458f37abceb61d99c0dc3/|レオパレス伊豆長岡": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-27",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.2,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/f0512c882ec99dd04b9458f37abceb61d99c0dc3/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-07-29",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }
