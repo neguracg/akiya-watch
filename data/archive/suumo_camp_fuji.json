@@ -252,17 +252,6 @@
     "removed_on": "2026-07-26",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21274189/|資材置き場・家庭菜園用地として利用可能な土地！敷地約１６０坪！": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-26",
-    "location": "静岡県富士市増川",
-    "price_man": 320,
-    "area_sqm": 531.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21274189/",
-    "text": "資材置き場・家庭菜園用地として利用可能な土地！敷地約１６０坪！",
-    "removed_on": "2026-07-27",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78100655/|松岡（竪堀駅） 1240万1000円～1241万3000円": {
     "first_seen": "2026-07-12",
     "last_seen": "2026-07-26",
@@ -294,6 +283,116 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78991762/",
     "text": "【デグチエステート】中里西脇土地",
     "removed_on": "2026-07-27",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市川成島",
+    "price_man": 1433,
+    "area_sqm": 165.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/",
+    "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168972/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市川成島",
+    "price_man": 1433,
+    "area_sqm": 166.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168972/",
+    "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168974/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市川成島",
+    "price_man": 1458,
+    "area_sqm": 165.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168974/",
+    "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74147827/|三ツ沢（岳南原田駅） 880万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市三ツ沢",
+    "price_man": 880,
+    "area_sqm": 191.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74147827/",
+    "text": "三ツ沢（岳南原田駅） 880万円",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78658547/|松岡（富士駅） 890万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市松岡",
+    "price_man": 890,
+    "area_sqm": 159.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78658547/",
+    "text": "松岡（富士駅） 890万円",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21237220/|厚原（入山瀬駅） 978万7000円～1327万2000円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市厚原1985",
+    "price_man": 978,
+    "area_sqm": 201.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21237220/",
+    "text": "厚原（入山瀬駅） 978万7000円～1327万2000円",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/|伝法（吉原本町駅） 980万円": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市伝法",
+    "price_man": 980,
+    "area_sqm": 258.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21356833/",
+    "text": "伝法（吉原本町駅） 980万円",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21156019/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市川成島",
+    "price_man": 1250,
+    "area_sqm": 165.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21156019/",
+    "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069996/|吉原１（吉原本町駅） 2350万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市吉原１",
+    "price_man": 2350,
+    "area_sqm": 290.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20069996/",
+    "text": "吉原１（吉原本町駅） 2350万円",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20899607/|新富士ＩＣから車で５分の利便性の良い立地。約１，１００坪の土地。": {
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-07-27",
+    "location": "静岡県富士市大淵",
+    "price_man": 3100,
+    "area_sqm": 3621.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20899607/",
+    "text": "新富士ＩＣから車で５分の利便性の良い立地。約１，１００坪の土地。",
+    "removed_on": "2026-07-30",
     "site_name": "SUUMO 土地 富士市"
   }
 }

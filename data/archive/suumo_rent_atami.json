@@ -229,5 +229,71 @@
     "text": "熱海市相の原町戸建",
     "removed_on": "2026-07-29",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000104592887/|UNDERZ　BLDG": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市田原本町",
+    "price_man": 12.0,
+    "area_sqm": 41.3,
+    "url": "https://suumo.jp/chintai/jnc_000104592887/",
+    "text": "UNDERZ　BLDG",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108711553/|ＪＲ伊東線 網代駅 2階建 築61年": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 9.8,
+    "area_sqm": 120.3,
+    "url": "https://suumo.jp/chintai/jnc_000108711553/",
+    "text": "ＪＲ伊東線 網代駅 2階建 築61年",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107011001/?bc=100055550408|キャピタル美代元": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市水口町",
+    "price_man": 7.5,
+    "area_sqm": 48.0,
+    "url": "https://suumo.jp/chintai/jnc_000107011001/?bc=100055550408",
+    "text": "キャピタル美代元",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000102944606/?bc=100473636017|西島アパート": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 5.0,
+    "area_sqm": 36.4,
+    "url": "https://suumo.jp/chintai/jnc_000102944606/?bc=100473636017",
+    "text": "西島アパート",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000102944607/?bc=100473637542|西島アパート": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 5.5,
+    "area_sqm": 49.5,
+    "url": "https://suumo.jp/chintai/jnc_000102944607/?bc=100473637542",
+    "text": "西島アパート",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427|ビレッジハウス熱海１号棟": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-07-29",
+    "location": "静岡県熱海市山手町",
+    "price_man": 3.67,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000106177792/?bc=100496842427",
+    "text": "ビレッジハウス熱海１号棟",
+    "removed_on": "2026-07-30",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

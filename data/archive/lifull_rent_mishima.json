@@ -329,50 +329,6 @@
     "removed_on": "2026-07-27",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/710613a8f2b30c1d4e00a28041b16d807fb4f781/|ミレニアム・パレ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "静岡県三島市徳倉4丁目20-2",
-    "price_man": 6.7,
-    "area_sqm": 62.5,
-    "url": "https://www.homes.co.jp/chintai/room/710613a8f2b30c1d4e00a28041b16d807fb4f781/",
-    "text": "ミレニアム・パレ",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/9717f7d747157964ee3ffd6341e88902a7998d2f/|ミレニアム・パレ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "静岡県三島市徳倉4丁目20-2",
-    "price_man": 6.7,
-    "area_sqm": 62.5,
-    "url": "https://www.homes.co.jp/chintai/room/9717f7d747157964ee3ffd6341e88902a7998d2f/",
-    "text": "ミレニアム・パレ",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/4d3efd4e261c1653a214c008bb0c7a609e837e2a/|ミレニアム・パレ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "静岡県三島市徳倉4丁目20-2",
-    "price_man": 6.3,
-    "area_sqm": 62.5,
-    "url": "https://www.homes.co.jp/chintai/room/4d3efd4e261c1653a214c008bb0c7a609e837e2a/",
-    "text": "ミレニアム・パレ",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/5c303b4c6f81889941daa4659e3bee92d02cc450/|ミレニアム・パレ": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "静岡県三島市徳倉4丁目20-2",
-    "price_man": 6.3,
-    "area_sqm": 62.5,
-    "url": "https://www.homes.co.jp/chintai/room/5c303b4c6f81889941daa4659e3bee92d02cc450/",
-    "text": "ミレニアム・パレ",
-    "removed_on": "2026-07-27",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/2a0abf4bb2b7bc7cac1ea7a2bfa078955a9c2893/|プライム三島プレイス": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
@@ -525,6 +481,61 @@
     "url": "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/",
     "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
     "removed_on": "2026-07-29",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/6e0fb876cdfa2a6e3627b339c7820a4e9e40bed2/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-29",
+    "location": "静岡県三島市大宮町1丁目4-20",
+    "price_man": 8.15,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/6e0fb876cdfa2a6e3627b339c7820a4e9e40bed2/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-07-30",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/89694142d2dd4bbf8b08f1a538a2cd05b875fd28/|ベアテスＰＴＭＩＩＩ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.9,
+    "area_sqm": 52.9,
+    "url": "https://www.homes.co.jp/chintai/room/89694142d2dd4bbf8b08f1a538a2cd05b875fd28/",
+    "text": "ベアテスＰＴＭＩＩＩ",
+    "removed_on": "2026-07-30",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ba5a1d6d6485cab2be1df9eb2f3f285c4bf4b11c/|ベアテスＰＴＭＩＩＩ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.9,
+    "area_sqm": 52.9,
+    "url": "https://www.homes.co.jp/chintai/room/ba5a1d6d6485cab2be1df9eb2f3f285c4bf4b11c/",
+    "text": "ベアテスＰＴＭＩＩＩ",
+    "removed_on": "2026-07-30",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/dbcd5b056ed071f0f211caae97e0e6cb73d6c996/|ベアテスＰＴＭＩＩＩ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.9,
+    "area_sqm": 52.9,
+    "url": "https://www.homes.co.jp/chintai/room/dbcd5b056ed071f0f211caae97e0e6cb73d6c996/",
+    "text": "ベアテスＰＴＭＩＩＩ",
+    "removed_on": "2026-07-30",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/|フィオーレＹＳ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-29",
+    "location": "静岡県三島市安久",
+    "price_man": 6.35,
+    "area_sqm": 56.8,
+    "url": "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/",
+    "text": "フィオーレＹＳ",
+    "removed_on": "2026-07-30",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

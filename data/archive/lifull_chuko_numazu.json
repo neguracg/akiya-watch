@@ -10,17 +10,6 @@
     "removed_on": "2026-07-26",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-93570000155/|沼津駅近・生活利便性の良い立地　三芳町": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-26",
-    "location": "沼津駅近・生活利便性の良い立地　三芳町",
-    "price_man": 2380,
-    "area_sqm": 154.0,
-    "url": "https://www.homes.co.jp/kodate/b-93570000155/",
-    "text": "沼津駅近・生活利便性の良い立地　三芳町",
-    "removed_on": "2026-07-26",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1529140000507/|JR御殿場線 下土狩駅 徒歩12分": {
     "first_seen": "2026-07-24",
     "last_seen": "2026-07-26",
@@ -30,6 +19,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1529140000507/",
     "text": "JR御殿場線 下土狩駅 徒歩12分",
     "removed_on": "2026-07-27",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000005/|新築戸建　沼津市寿町": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-07-27",
+    "location": "新築戸建　沼津市寿町",
+    "price_man": 2780,
+    "area_sqm": 128.3,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000005/",
+    "text": "新築戸建　沼津市寿町",
+    "removed_on": "2026-07-30",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }
