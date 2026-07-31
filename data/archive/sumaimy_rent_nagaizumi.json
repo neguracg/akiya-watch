@@ -1,13 +1,35 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165946|貸マンション 駿東郡長泉町竹原": {
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291|貸マンション 駿東郡長泉町下土狩175-7": {
     "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "location": "駿東郡長泉町竹原",
-    "price_man": 7.3,
-    "area_sqm": 60.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165946",
-    "text": "貸マンション 駿東郡長泉町竹原",
-    "removed_on": "2026-07-30",
+    "last_seen": "2026-07-30",
+    "location": "駿東郡長泉町下土狩175-7",
+    "price_man": 6.5,
+    "area_sqm": 58.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291",
+    "text": "貸マンション 駿東郡長泉町下土狩175-7",
+    "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978|貸戸建住宅 駿東郡長泉町下土狩105-28": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "駿東郡長泉町下土狩105-28",
+    "price_man": 10.0,
+    "area_sqm": 94.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978",
+    "text": "貸戸建住宅 駿東郡長泉町下土狩105-28",
+    "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170522|貸アパート 駿東郡長泉町下土狩598-12": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "駿東郡長泉町下土狩598-12",
+    "price_man": 4.0,
+    "area_sqm": 26.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170522",
+    "text": "貸アパート 駿東郡長泉町下土狩598-12",
+    "removed_on": "2026-07-31",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   }
 }

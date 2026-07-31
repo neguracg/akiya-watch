@@ -295,5 +295,60 @@
     "text": "ビレッジハウス熱海１号棟",
     "removed_on": "2026-07-30",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742905/|熱海野中山マンション2号館": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "静岡県熱海市咲見町",
+    "price_man": 4.5,
+    "area_sqm": 17.3,
+    "url": "https://suumo.jp/chintai/jnc_000108742905/",
+    "text": "熱海野中山マンション2号館",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000105586893/|ＪＲ伊東線 網代駅 3階建 築37年": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 6.6,
+    "area_sqm": 50.5,
+    "url": "https://suumo.jp/chintai/jnc_000105586893/",
+    "text": "ＪＲ伊東線 網代駅 3階建 築37年",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108599827/?bc=100517405961|ＪＲ東海道本線 熱海駅 4階建 築44年": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "静岡県熱海市福道町",
+    "price_man": 6.0,
+    "area_sqm": 40.0,
+    "url": "https://suumo.jp/chintai/jnc_000108599827/?bc=100517405961",
+    "text": "ＪＲ東海道本線 熱海駅 4階建 築44年",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000104592886/?bc=100486822327|熱海サニーハイツ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-07-30",
+    "location": "静岡県熱海市海光町",
+    "price_man": 23.0,
+    "area_sqm": 69.4,
+    "url": "https://suumo.jp/chintai/jnc_000104592886/?bc=100486822327",
+    "text": "熱海サニーハイツ",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108151632/?bc=100514020741|ＪＲ東海道本線 熱海駅 4階建 築39年": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "静岡県熱海市桜町",
+    "price_man": 4.0,
+    "area_sqm": 20.0,
+    "url": "https://suumo.jp/chintai/jnc_000108151632/?bc=100514020741",
+    "text": "ＪＲ東海道本線 熱海駅 4階建 築39年",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

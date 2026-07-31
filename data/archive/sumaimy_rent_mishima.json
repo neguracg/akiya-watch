@@ -64,5 +64,38 @@
     "text": "貸マンション 三島市長伏29-12",
     "removed_on": "2026-07-30",
     "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139258|貸倉庫 三島市柳郷地23-6": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "三島市柳郷地23-6",
+    "price_man": 39.6,
+    "area_sqm": 264.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139258",
+    "text": "貸倉庫 三島市柳郷地23-6",
+    "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/79120|貸アパート 三島市初音台23-5": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "三島市初音台23-5",
+    "price_man": 5.5,
+    "area_sqm": 55.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/79120",
+    "text": "貸アパート 三島市初音台23-5",
+    "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49657|貸アパート 三島市初音台２３－５": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "三島市初音台２３－５",
+    "price_man": 5.5,
+    "area_sqm": 53.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49657",
+    "text": "貸アパート 三島市初音台２３－５",
+    "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

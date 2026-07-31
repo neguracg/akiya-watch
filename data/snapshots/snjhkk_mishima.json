@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59393/index.html|静岡県三島市富士ビレッジ": {
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-30",
+      "last_seen": "2026-07-31",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 4183,
       "area_sqm": 170.7,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "288d229b374a65fd",
-  "fetched_at": "2026-07-30T23:13:15.339239"
+  "hash": "d1c9e13301bdd104",
+  "fetched_at": "2026-07-31T23:08:57.131836"
 }

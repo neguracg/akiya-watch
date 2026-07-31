@@ -10,17 +10,6 @@
     "removed_on": "2026-07-29",
     "site_name": "スマイミー静岡 賃貸 駿東郡清水町"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90895|貸マンション 駿東郡清水町徳倉": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-29",
-    "location": "駿東郡清水町徳倉",
-    "price_man": 5.9,
-    "area_sqm": 50.2,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90895",
-    "text": "貸マンション 駿東郡清水町徳倉",
-    "removed_on": "2026-07-30",
-    "site_name": "スマイミー静岡 賃貸 駿東郡清水町"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/94886|貸駐車場 駿東郡清水町新宿829": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-29",
@@ -30,6 +19,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/94886",
     "text": "貸駐車場 駿東郡清水町新宿829",
     "removed_on": "2026-07-30",
+    "site_name": "スマイミー静岡 賃貸 駿東郡清水町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172018|貸事業用地 駿東郡清水町玉川228-1": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
+    "location": "駿東郡清水町玉川228-1",
+    "price_man": 20.0,
+    "area_sqm": 641.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172018",
+    "text": "貸事業用地 駿東郡清水町玉川228-1",
+    "removed_on": "2026-07-31",
     "site_name": "スマイミー静岡 賃貸 駿東郡清水町"
   }
 }

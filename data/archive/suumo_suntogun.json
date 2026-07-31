@@ -174,5 +174,16 @@
     "text": "下長窪（長泉なめり駅） 2790万円",
     "removed_on": "2026-07-30",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20582088/|長沢（大岡駅） 1680万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-30",
+    "location": "静岡県駿東郡清水町長沢",
+    "price_man": 1680,
+    "area_sqm": 185.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20582088/",
+    "text": "長沢（大岡駅） 1680万円",
+    "removed_on": "2026-07-31",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

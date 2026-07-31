@@ -98,26 +98,37 @@
     "removed_on": "2026-07-26",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1489770000566/|伊豆の国市奈古谷 中古戸建": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-28",
-    "location": "伊豆の国市奈古谷 中古戸建",
-    "price_man": 250,
-    "area_sqm": 97.7,
-    "url": "https://www.homes.co.jp/kodate/b-1489770000566/",
-    "text": "伊豆の国市奈古谷 中古戸建",
-    "removed_on": "2026-07-29",
+  "https://www.homes.co.jp/kodate/b-39046610000060/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分": {
+    "first_seen": "2026-07-10",
+    "last_seen": "2026-07-30",
+    "location": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分",
+    "price_man": 3890,
+    "area_sqm": 330.2,
+    "url": "https://www.homes.co.jp/kodate/b-39046610000060/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分",
+    "removed_on": "2026-07-31",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1265050002531/|伊豆の国市南條中古住宅": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "location": "伊豆の国市南條中古住宅",
-    "price_man": 900,
-    "area_sqm": 199.5,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002531/",
-    "text": "伊豆の国市南條中古住宅",
-    "removed_on": "2026-07-30",
+  "https://www.homes.co.jp/kodate/b-1564140000200/|伊豆の国市韮山多田　戸建て": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-30",
+    "location": "伊豆の国市韮山多田　戸建て",
+    "price_man": 350,
+    "area_sqm": 145.6,
+    "url": "https://www.homes.co.jp/kodate/b-1564140000200/",
+    "text": "伊豆の国市韮山多田　戸建て",
+    "removed_on": "2026-07-31",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33310640001107/|伊豆エメラルドタウン": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-07-30",
+    "location": "伊豆エメラルドタウン",
+    "price_man": 520,
+    "area_sqm": 290.0,
+    "url": "https://www.homes.co.jp/kodate/b-33310640001107/",
+    "text": "伊豆エメラルドタウン",
+    "removed_on": "2026-07-31",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }
