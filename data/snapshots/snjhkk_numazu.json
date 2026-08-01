@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59398/index.html|静岡県沼津市上土町": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "location": "静岡県沼津市上土町",
       "price_man": 2590,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59396/index.html|静岡県沼津市足高": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "location": "静岡県沼津市足高",
       "price_man": 380,
       "area_sqm": 231.4,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59392/index.html|静岡県沼津市岡一色": {
       "first_seen": "2026-07-26",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-08-01",
       "location": "静岡県沼津市岡一色",
       "price_man": 1550,
       "area_sqm": null,
@@ -88,6 +88,6 @@
       "tab": "home"
     }
   },
-  "hash": "2a53c9c543529f50",
-  "fetched_at": "2026-07-31T23:18:59.971871"
+  "hash": "3f34533b5e159b27",
+  "fetched_at": "2026-08-01T23:12:39.766966"
 }

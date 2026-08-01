@@ -251,5 +251,16 @@
     "text": "新築売住宅 三島市徳倉１丁目",
     "removed_on": "2026-07-27",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171479/settle/1|売住宅 三島市中": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-07-31",
+    "location": "三島市中",
+    "price_man": 5480,
+    "area_sqm": 311.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171479/settle/1",
+    "text": "売住宅 三島市中",
+    "removed_on": "2026-08-01",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

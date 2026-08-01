@@ -450,17 +450,6 @@
     "removed_on": "2026-07-27",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21014961/|根古屋 1330万円": {
-    "first_seen": "2026-07-21",
-    "last_seen": "2026-07-27",
-    "location": "静岡県沼津市根古屋",
-    "price_man": 1330,
-    "area_sqm": 199.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21014961/",
-    "text": "根古屋 1330万円",
-    "removed_on": "2026-07-28",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78332942/|◇内覧可能◇令和5年築！ホテルライクデザインの1棟です♪": {
     "first_seen": "2026-07-06",
     "last_seen": "2026-07-29",
@@ -481,6 +470,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78483194/",
     "text": "【内覧可能＊ご予約受付中】お気軽にお問合せください",
     "removed_on": "2026-07-31",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/|囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-07-31",
+    "location": "静岡県沼津市東間門２",
+    "price_man": 2980,
+    "area_sqm": 113.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20774329/",
+    "text": "囲炉裏や屋上もあるこだわり抜かれたRC造です！周辺商業施設多数！",
+    "removed_on": "2026-08-01",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

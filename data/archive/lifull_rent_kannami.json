@@ -1,26 +1,4 @@
 {
-  "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/|シティパレス柿島": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.3,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/|シティパレス柿島": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.2,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/653df771e450c2333822ae7bd22d06176f18e7c3/|ウイングビュー": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -547,6 +525,17 @@
     "url": "https://www.homes.co.jp/chintai/room/bcdd03b00aa49c4558aac6ca03dab9f4cfe7a5f4/",
     "text": "ＫＭＴ沙稀（ケイエムティサキ）",
     "removed_on": "2026-07-30",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/23ef42d3f24de1b7e028de1cd97c16d79bd28491/|プランドールＭ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-31",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 6.4,
+    "area_sqm": 49.4,
+    "url": "https://www.homes.co.jp/chintai/room/23ef42d3f24de1b7e028de1cd97c16d79bd28491/",
+    "text": "プランドールＭ",
+    "removed_on": "2026-08-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

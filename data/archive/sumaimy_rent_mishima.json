@@ -54,17 +54,6 @@
     "removed_on": "2026-07-30",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175136|貸マンション 三島市長伏29-12": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "location": "三島市長伏29-12",
-    "price_man": 4.7,
-    "area_sqm": 29.8,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175136",
-    "text": "貸マンション 三島市長伏29-12",
-    "removed_on": "2026-07-30",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139258|貸倉庫 三島市柳郷地23-6": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-30",
@@ -96,6 +85,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49657",
     "text": "貸アパート 三島市初音台２３－５",
     "removed_on": "2026-07-31",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175313|貸マンション 三島市東本町１丁目15-3": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-31",
+    "location": "三島市東本町１丁目15-3",
+    "price_man": 4.8,
+    "area_sqm": 29.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175313",
+    "text": "貸マンション 三島市東本町１丁目15-3",
+    "removed_on": "2026-08-01",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174507|貸駐車場 三島市中田町12―7": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-31",
+    "location": "三島市中田町12―7",
+    "price_man": 0.7,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174507",
+    "text": "貸駐車場 三島市中田町12―7",
+    "removed_on": "2026-08-01",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/130221|貸アパート 三島市東本町２丁目５－７５": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-07-31",
+    "location": "三島市東本町２丁目５－７５",
+    "price_man": 6.0,
+    "area_sqm": 55.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/130221",
+    "text": "貸アパート 三島市東本町２丁目５－７５",
+    "removed_on": "2026-08-01",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }
