@@ -383,5 +383,38 @@
     "text": "貸事務所定期借家 熱海市田原本町9-1",
     "removed_on": "2026-08-01",
     "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174915|貸アパート 熱海市上宿町": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-01",
+    "location": "熱海市上宿町",
+    "price_man": 4.8,
+    "area_sqm": 22.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174915",
+    "text": "貸アパート 熱海市上宿町",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118386|貸マンション 熱海市清水町": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-01",
+    "location": "熱海市清水町",
+    "price_man": 6.0,
+    "area_sqm": 40.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118386",
+    "text": "貸マンション 熱海市清水町",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175689|貸店舗（建物一部） 熱海市清水町12-10": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-01",
+    "location": "熱海市清水町12-10",
+    "price_man": 10.0,
+    "area_sqm": 42.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175689",
+    "text": "貸店舗（建物一部） 熱海市清水町12-10",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }

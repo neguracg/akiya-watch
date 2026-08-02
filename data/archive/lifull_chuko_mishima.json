@@ -230,17 +230,6 @@
     "removed_on": "2026-07-24",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1531160000030/|三島市川原ケ谷（三島駅）　木造二階建住宅": {
-    "first_seen": "2026-07-11",
-    "last_seen": "2026-07-25",
-    "location": "三島市川原ケ谷（三島駅）　木造二階建住宅",
-    "price_man": 980,
-    "area_sqm": 122.5,
-    "url": "https://www.homes.co.jp/kodate/b-1531160000030/",
-    "text": "三島市川原ケ谷（三島駅）　木造二階建住宅",
-    "removed_on": "2026-07-25",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-1490460002433/|三島市錦が丘　中古戸建": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-26",
@@ -283,6 +272,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1556780000227/",
     "text": "中古戸建　三島市萩　再生住宅",
     "removed_on": "2026-07-28",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000524/|売中古戸建　三島市徳倉3丁目": {
+    "first_seen": "2026-07-20",
+    "last_seen": "2026-08-01",
+    "location": "売中古戸建　三島市徳倉3丁目",
+    "price_man": 4600,
+    "area_sqm": 190.8,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000524/",
+    "text": "売中古戸建　三島市徳倉3丁目",
+    "removed_on": "2026-08-02",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002374/|三島市徳倉三丁目中古住宅": {
+    "first_seen": "2026-06-27",
+    "last_seen": "2026-08-01",
+    "location": "三島市徳倉三丁目中古住宅",
+    "price_man": 4600,
+    "area_sqm": 190.8,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002374/",
+    "text": "三島市徳倉三丁目中古住宅",
+    "removed_on": "2026-08-02",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

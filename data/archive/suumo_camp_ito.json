@@ -53,5 +53,27 @@
     "text": "自社物件！建築条件なし！【デグチエステート】伊東市大原分譲地全9区画",
     "removed_on": "2026-08-01",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75422733/|温泉付き更地　※自社物件につき仲介料無料。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-01",
+    "location": "静岡県伊東市八幡野1588-34",
+    "price_man": 180,
+    "area_sqm": 343.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75422733/",
+    "text": "温泉付き更地　※自社物件につき仲介料無料。",
+    "removed_on": "2026-08-02",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21361124/|湯川（伊東駅） 1180万円": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-08-01",
+    "location": "静岡県伊東市湯川",
+    "price_man": 1180,
+    "area_sqm": 367.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21361124/",
+    "text": "湯川（伊東駅） 1180万円",
+    "removed_on": "2026-08-02",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

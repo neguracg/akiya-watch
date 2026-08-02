@@ -175,15 +175,26 @@
     "removed_on": "2026-07-31",
     "site_name": "SUUMO 土地 三島市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/|都心アクセスと三島の自然を享受する二日町、家族のゆとり育む新街区。": {
-    "first_seen": "2026-07-24",
-    "last_seen": "2026-07-31",
-    "location": "静岡県三島市南二日町",
-    "price_man": 2571,
-    "area_sqm": 169.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20884336/",
-    "text": "都心アクセスと三島の自然を享受する二日町、家族のゆとり育む新街区。",
-    "removed_on": "2026-08-01",
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21180307/|◆三島市緑町♪お好みのハウスメーカーで建築可♪希少エリアで約45坪の土地♪": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-08-01",
+    "location": "静岡県三島市緑町",
+    "price_man": 3050,
+    "area_sqm": 149.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21180307/",
+    "text": "◆三島市緑町♪お好みのハウスメーカーで建築可♪希少エリアで約45坪の土地♪",
+    "removed_on": "2026-08-02",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_74208955/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-01",
+    "location": "静岡県三島市大場",
+    "price_man": 1180,
+    "area_sqm": 84.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_74208955/",
+    "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。",
+    "removed_on": "2026-08-02",
     "site_name": "SUUMO 土地 三島市"
   }
 }

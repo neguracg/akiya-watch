@@ -1505,5 +1505,49 @@
     "text": "貸アパート 沼津市西沢田",
     "removed_on": "2026-08-01",
     "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/42093|貸アパート 沼津市大岡": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "location": "沼津市大岡",
+    "price_man": 4.2,
+    "area_sqm": 19.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/42093",
+    "text": "貸アパート 沼津市大岡",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/43589|貸アパート 沼津市御幸町": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "location": "沼津市御幸町",
+    "price_man": 4.0,
+    "area_sqm": 33.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/43589",
+    "text": "貸アパート 沼津市御幸町",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/44003|貸アパート 沼津市青野": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "location": "沼津市青野",
+    "price_man": 4.5,
+    "area_sqm": 44.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/44003",
+    "text": "貸アパート 沼津市青野",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57268|貸アパート 沼津市御幸町": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-01",
+    "location": "沼津市御幸町",
+    "price_man": 3.7,
+    "area_sqm": 26.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57268",
+    "text": "貸アパート 沼津市御幸町",
+    "removed_on": "2026-08-02",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
   }
 }
