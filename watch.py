@@ -3728,18 +3728,24 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<div class='note'>" + disclaimer.replace("<p class='note'>", "").replace("</p>", "") + "</div>")
     H.append("</details>")
 
+    # ---- モバイル専用: 列フィルタ/並べ替えチップ（モバイルではcardtbl化でtheadが画面外に
+    #   飛ぶため、th.colタップの代替導線。中身はrender()内のrenderColChips()がタブ切替・
+    #   フィルタ適用のたびに再生成する。PCでは.colchipsをdisplay:noneにして非表示＝
+    #   デスクトップの見た目・挙動は変えない）----
+    H.append("<div id='colChips' class='colchips'></div>")
+
     # ---- 物件ブラウザ（折り畳み・JS描画）----
     H.append("<h2 class='sec open' data-target='secMain'>物件ブラウザ（全件・クライアント側フィルタ）</h2>")
-    H.append("<div id='secMain' class='secbody open'><table id='mainTbl'></table></div>")
+    H.append("<div id='secMain' class='secbody open'><table id='mainTbl' class='cardtbl'></table></div>")
 
     # ---- 新着（折り畳み・同フォーマット。first_seenがNEW_WINDOW_DAYS日以内のものを
     #   新しい順（同日内は価格の安い順）に表示。メイン表の並べ替えとは独立）----
     H.append(f"<h2 class='sec open new' data-target='secNew'>🆕 新着（{NEW_WINDOW_DAYS}日以内・新しい順）</h2>")
-    H.append("<div id='secNew' class='secbody open'><table id='newTbl'></table></div>")
+    H.append("<div id='secNew' class='secbody open'><table id='newTbl' class='cardtbl'></table></div>")
 
     # ---- お気に入り（折り畳み・JS描画）----
     H.append("<h2 class='sec fav' data-target='secFav'>⭐ お気に入り <span id='favCnt'></span></h2>")
-    H.append("<div id='secFav' class='secbody'><table id='favTbl'></table></div>")
+    H.append("<div id='secFav' class='secbody'><table id='favTbl' class='cardtbl'></table></div>")
 
     # ---- NGエリア該当ログ（折り畳み・既定閉・JS描画＝タブ別。DATAのng===trueから抽出）----
     H.append("<h2 class='sec excl' data-target='secNg'>NGエリア該当ログ <span id='ngCnt'></span></h2>")
@@ -3747,7 +3753,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
 
     # ---- 非表示にした物件（折り畳み・既定閉・JS描画）----
     H.append("<h2 class='sec' data-target='secHidden'>非表示にした物件 <span id='hiddenCnt'></span></h2>")
-    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl'></table></div>")
+    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl' class='cardtbl'></table></div>")
 
     # ---- 消滅（折り畳み・既定閉・JS描画＝タブ別）----
     H.append("<h2 class='sec gone' data-target='secGone'>消滅 <span id='goneCnt'></span></h2>")
@@ -3844,6 +3850,9 @@ _REPORT_CSS = (
     ".loccell{white-space:nowrap;}.infocell{white-space:normal;max-width:220px;}"
     ".sitecell{max-width:130px;overflow:hidden;text-overflow:ellipsis;}"
     ".secbody{overflow-x:auto;-webkit-overflow-scrolling:touch;}"
+    ".tblwrap{overflow-x:auto;-webkit-overflow-scrolling:touch;}"
+    # モバイル専用チップ列。PCでは常に非表示（@media側でモバイルのみdisplay:blockへ上書き）。
+    ".colchips{display:none;}"
     # ---- タブ ----
     ".tabs{display:flex;margin:10px 0 0;border-bottom:3px solid #ddd;}"
     ".tab-btn{padding:9px 24px;font-size:14px;font-weight:bold;cursor:pointer;"
@@ -3914,12 +3923,63 @@ _REPORT_CSS = (
     ".syncstatus.show .synctip{display:block;}"
     # ---- モバイル対応 ----
     "@media(max-width:700px){"
-    "body{margin:0 8px 40px;}.topbar{flex-direction:column;align-items:flex-start;}"
+    "body{margin:0 8px 40px;overflow-x:hidden;}.topbar{flex-direction:column;align-items:flex-start;}"
     ".topctl{margin-top:4px;}#filterToggle{display:inline-block;}"
     ".panel{display:none;}.panel.open{display:block;}"
-    ".tab-btn{padding:7px 16px;font-size:13px;}"
+    ".tabs{flex-wrap:wrap;}"
+    ".tab-btn{padding:6px 14px;font-size:13px;min-height:44px;display:inline-flex;"
+    "align-items:center;justify-content:center;}"
     "h1{font-size:16px;}th,td{font-size:11px;padding:2px 4px;}.infocell{max-width:140px;}"
-    ".fb-line input[type=number]{width:64px;}}"
+    ".fb-line{flex-wrap:wrap;}.fb-line input[type=number]{width:64px;}"
+    "#popup,#areaPop{max-width:90vw;}"
+    # ---- モバイル: カード型テーブル（.cardtblのみ対象=mainTbl/newTbl/favTbl/hiddenTbl。
+    #   NGログ等の付随テーブルはtblwrapの横スクロールのみで対象外）----
+    # CSS-Tricks「Responsive Data Tables」の型。theadは非表示ではなく画面外へ（スクリーンリーダー配慮）。
+    ".cardtbl{display:block;border:none;}"
+    ".cardtbl thead{position:absolute;left:-9999px;top:-9999px;}"
+    ".cardtbl tbody{display:block;}"
+    ".cardtbl tr{display:block;border:1px solid #ccc;border-radius:8px;"
+    "margin:0 0 10px;padding:6px 8px;background:#fff;}"
+    ".cardtbl tbody tr:nth-child(even){background:#fff;}"
+    ".cardtbl tr.nocard,.cardtbl tr.legendrow{border:none;background:none;padding:4px 2px;}"
+    # ラベルはgrid+::before化（absolute配置は狭幅で値と重なるため使わない）。gapは使わずpaddingで間隔。
+    ".cardtbl td{display:grid;grid-template-columns:7em 1fr;border:none;"
+    "border-bottom:1px solid #eee;padding:5px 2px;white-space:normal;text-align:left;font-size:12px;}"
+    ".cardtbl td:last-child{border-bottom:none;}"
+    ".cardtbl td::before{content:attr(data-label);font-weight:bold;color:#666;padding-right:8px;}"
+    ".cardtbl td[data-k=price]{font-weight:bold;font-size:15px;}"
+    ".cardtbl td[data-k=loc]{font-weight:bold;}"
+    # サイト/参考情報は値の中に複数<span>を含みうる列。PC向けmax-width制約を残すと2カラム化後の
+    # 値側がさらに狭くなり潰れるため、カード表示では解除する。
+    ".cardtbl td.sitecell,.cardtbl td.infocell{max-width:none;overflow:visible;}"
+    ".cardtbl td.emp{display:none;}"
+    ".cardtbl td[colspan]{display:block;padding:8px 4px;}"
+    ".cardtbl td[colspan]::before{content:none;}"
+    ".cardtbl td.favcell,.cardtbl td.detailcell,.cardtbl td.hidecell{"
+    "display:block;text-align:center;padding:6px 2px;}"
+    ".cardtbl td.favcell::before,.cardtbl td.detailcell::before,.cardtbl td.hidecell::before{content:none;}"
+    ".cardtbl .favbtn{display:inline-flex;align-items:center;justify-content:center;"
+    "min-width:44px;min-height:44px;font-size:22px;}"
+    ".cardtbl td.detailcell a{display:inline-flex;align-items:center;justify-content:center;"
+    "min-width:44px;min-height:44px;padding:6px 18px;}"
+    ".cardtbl td.hidecell button{display:inline-flex;align-items:center;justify-content:center;"
+    "min-width:44px;min-height:44px;padding:6px 16px;font-size:13px;}"
+    # ---- モバイル: 列フィルタ/並べ替えチップ（th.colタップの代替導線）----
+    # 折り返しはinline-block+margin(右下)で実現。flex/gapは使わない（指示による）。
+    # box-sizing:border-boxで、min-height:36pxがそのままタップ域の実高さになるようにする
+    # （content-box既定のままだとborder/paddingぶん36pxを超えて膨らみ、規定と数値がずれる）。
+    ".colchips{display:block;margin:6px 0 10px;}"
+    ".colchip{box-sizing:border-box;display:inline-block;margin:0 6px 6px 0;padding:0 12px;"
+    "min-height:36px;line-height:36px;border:1px solid #999;border-radius:18px;"
+    "background:#f5f5f5;font-family:inherit;font-size:12px;color:#222;cursor:pointer;user-select:none;}"
+    # th.filtered(背景#dcebff)と同じ判定(S.cf[k])・同じ配色にして、絞り込み中の見た目を揃える。
+    ".colchip.filtered{background:#dcebff;border-color:#06c;font-weight:bold;}"
+    # チップは折り返し行内で位置が毎回ぶれる（タブごとに列数・並び順が変わる）ため、
+    # thのように矩形右下にぶら下げず、画面中央にfixed表示する。thから開くPC側の位置決め
+    # (openPopup内のelse分岐)はこの変更で一切触っていない。
+    "#popup.mobilepos{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);"
+    "max-height:80vh;overflow-y:auto;}"
+    "}"
 )
 
 
@@ -4389,9 +4449,13 @@ function buildHead(cols){
   });
   return h+'<th>詳細</th><th>非表示</th></tr></thead>';
 }
-// 列キー1つぶんの <td> を組み立てる（rowHtmlから列定義ごとに呼ばれる）。
-// price/areaは売買(home/camp)と賃貸(rent)でヒートマップ関数が違う点にだけ注意。
-function cellHtml(k,d,g){
+// 列キー1つぶんの <td> の中身を組み立てる（実際にrowHtmlから呼ばれるのは下のcellHtml。
+// 関数名がInnerなのは、モバイルのカード表示用にdata-label/data-k付与とemptyクラス付けを
+// cellHtml側で薄くラップするため）。price/areaは売買(home/camp)と賃貸(rent)でヒートマップ
+// 関数が違う点にだけ注意。'site'/'info'は値の中に複数の<span>を含みうるため、必ず1個の
+// <span class=vwrap>でまとめて子要素を1個にする（モバイルのcardtbl td{display:grid}化で、
+// 子要素が複数あるとそれぞれ別のgridアイテムとして別セルに割り付けられ、レイアウトが割れるため）。
+function cellHtmlInner(k,d,g){
   switch(k){
     case 'price':{
       const heat=(d.tab==='rent')?hRent(d.price):hPrice(d.price);
@@ -4413,7 +4477,7 @@ function cellHtml(k,d,g){
     case 'site':{
       const others=g.sites.length-1;
       const label=esc(shortSite(d.site))+(others>0?" <span class=muted>ほか"+others+"件</span>":"");
-      return "<td class='sitecell' title='"+esc(g.sites.join(' / '))+"'>"+label+"</td>";
+      return "<td class='sitecell' title='"+esc(g.sites.join(' / '))+"'><span class=vwrap>"+label+"</span></td>";
     }
     case 'loc':{
       const loc=esc(normLoc(d.loc).slice(0,22)||'—');
@@ -4442,11 +4506,31 @@ function cellHtml(k,d,g){
       (d.cautions||[]).forEach(x=>info+="<span class=bc>"+esc(x)+"</span>");
       if(d.zokujin)info+="<span class=bz>属人性</span>";
       if(!info)info='<span class=muted>—</span>';
-      return "<td class='infocell'>"+info+"</td>";
+      return "<td class='infocell'><span class=vwrap>"+info+"</span></td>";
     }
     default:
       return "<td>—</td>";
   }
+}
+// cellHtmlInnerの結果に、モバイルのカード表示用の属性を付けて返す（PC表示はdata-label等の
+// 属性が増えるだけで、CSSは@media(max-width:700px)の外に一切書かないため見た目に影響しない）。
+// data-label: colsFor()のl（列の日本語ラベル）。td::before{content:attr(data-label)}で使う。
+// data-k: 列キー。th側で既に使っているdata-k付与と同じ流儀（価格/所在地の強調表示のCSSフックにも使う）。
+// class=emp: 値が「空」のセルに付け、モバイルCSSでdisplay:noneにしてカードを短くする。
+// 「空」はcellHtmlInnerが実際に描いたテキスト（タグを除去した後）で判定する。'—'はバックエンド側の
+// 「データ無し」の統一表現だが、null/空文字とは限らない（例: extract_chimokuは値が取れないと
+// リテラルの'—'文字列を返す。列ごとに生データのnull/空を個別判定すると、こうした表現差異を
+// 見落とす＝実際にchimokuで発生し検証時に見つかって修正した）。描画後テキストで判定すれば
+// cellHtmlInnerの実装と常に一致する。価格・所在地は値が空でも仕様上つねに表示する。
+function cellHtml(k,d,g,label){
+  let html=cellHtmlInner(k,d,g);
+  const inner=html.replace(/^<td[^>]*>/,'').replace(/<\/td>$/,'');
+  const text=inner.replace(/<[^>]*>/g,'').trim();
+  const empty=(k!=='price'&&k!=='loc')&&(text===''||text==='—');
+  if(empty){
+    html=/class='/.test(html)?html.replace(/class='/,"class='emp "):html.replace('<td',"<td class='emp'");
+  }
+  return html.replace('<td',"<td data-label='"+esc(label||'')+"' data-k='"+esc(k)+"'");
 }
 function rowHtml(g,inHidden,cols){
   const d=g.rep;
@@ -4456,12 +4540,12 @@ function rowHtml(g,inHidden,cols){
   const isFav=FAVOR.has(bdk);
   const fav="<td class=favcell><button class='favbtn"+(isFav?' on':'')+"' data-bdk='"+esc(bdk)+"' title='お気に入り'>"+(isFav?'★':'☆')+"</button></td>";
   let cells='';
-  cols.forEach(c=>{cells+=cellHtml(c.k,d,g);});
+  cols.forEach(c=>{cells+=cellHtml(c.k,d,g,c.l);});
   return "<tr>"
     +fav
     +cells
-    +"<td><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
-    +"<td>"+op+"</td></tr>";
+    +"<td class='detailcell'><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
+    +"<td class='hidecell'>"+op+"</td></tr>";
 }
 function legendRow(ncol,tab){
   if(tab==='rent'){
@@ -4485,9 +4569,25 @@ function sortGroups(list){
   } else list.sort((A,B)=>(((A.rep.price==null)?1e12:A.rep.price)-((B.rep.price==null)?1e12:B.rep.price)));
   return list;
 }
-function tbl(list,inHidden,showLegend,cols,ncol,tab){return buildHead(cols)+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden,cols)).join(''):"<tr><td colspan="+ncol+" class=muted>該当なし</td></tr>")+'</tbody>'+(showLegend?legendRow(ncol,tab):'');}
+function tbl(list,inHidden,showLegend,cols,ncol,tab){return buildHead(cols)+'<tbody>'+(list.length?list.map(g=>rowHtml(g,inHidden,cols)).join(''):"<tr class='nocard'><td colspan="+ncol+" class=muted>該当なし</td></tr>")+'</tbody>'+(showLegend?legendRow(ncol,tab):'');}
+// ---- モバイル専用: 列フィルタ/並べ替えチップ（#colChips）----
+// buildHead(cols)のth生成と同じ判定(nostat除外・S.cf[k]で絞り込み中マーク・S.sort.kで矢印)を
+// チップにも適用し、PC(th)とモバイル(チップ)で見た目の意味を揃える。クリック時はth.colと同じ
+// openPopup(k,anchorEl)を呼ぶ（ポップアップの中身・位置決めロジックはopenPopup側の1箇所のみ）。
+function renderColChips(cols){
+  const box=document.getElementById('colChips'); if(!box)return;
+  let h='';
+  cols.forEach(c=>{
+    if(c.nostat)return;  // buildHead側でth.colにならない列(参考情報)はチップも出さない
+    const filtered=S.cf[c.k]?' filtered':'';
+    const ar=(S.sort.k===c.k)?(S.sort.d>0?' ▲':' ▼'):'';
+    h+="<button type=button class='colchip"+filtered+"' data-k='"+c.k+"'>"+esc(c.l)+ar+"</button>";
+  });
+  box.innerHTML=h;
+}
 function render(){
   const tab=S.tab, cols=colsFor(tab), ncol=cols.length+3;  // +3 = お気に入り★/詳細/非表示
+  renderColChips(cols);
   let vis=GROUPS.filter(g=>{const bdk=bdkOf(g);return !HIDDEN.has(bdk)&&passFilters(g.rep);});
   sortGroups(vis);
   // 物件ブラウザ（凡例つき）
@@ -4536,7 +4636,7 @@ function renderNgLog(){
       +"<td class='flag'>"+esc((d.ng_areas||[]).join('、'))+"</td>"
       +"<td><a href='"+esc(d.url)+"' target='_blank'>詳細</a></td></tr>";
   });
-  box.innerHTML=h+"</table>";
+  box.innerHTML="<div class='tblwrap'>"+h+"</table></div>";
 }
 
 // ---- サイト所属タブ(home/camp/rent) と 画面タブ(sarachi/ie/camp/rent) の対応。
@@ -4563,7 +4663,7 @@ function renderDisappeared(){
       +"<td>"+d.days+"日前</td>"
       +"<td><a href='"+esc(d.url)+"' target='_blank'>詳細</a></td></tr>";
   });
-  box.innerHTML=h+"</table>";
+  box.innerHTML="<div class='tblwrap'>"+h+"</table></div>";
 }
 
 // ---- サイト別サマリ（SUMMARY をサイトのtab属性でタブ別に描画）----
@@ -4583,7 +4683,7 @@ function renderSummary(){
       +"<td class='num-new'>"+r.addedCnt+"</td><td>"+r.ngCnt+"</td>"
       +"<td>"+esc(r.status)+"</td><td>"+esc(r.note)+"</td></tr>";
   });
-  box.innerHTML=h+"</table>";
+  box.innerHTML="<div class='tblwrap'>"+h+"</table></div>";
 }
 
 // ---- タブ ----
@@ -4633,9 +4733,16 @@ function renderAreaList(){
 }
 
 // ---- 列ヘッダ ポップアップ ----
-function closePopup(){document.getElementById('popup').style.display='none';}
-function openPopup(th){
-  const k=th.dataset.k, col=currentCols().find(c=>c.k===k), pop=document.getElementById('popup');
+// openPopup(k,anchorEl): kは列キー、anchorElは位置決めの基準要素。
+//   PC(th.colクリック)・モバイル(絞り込みチップタップ)の両方からこの1つの関数を呼ぶ
+//   （ロジックを複製しない）。位置決めだけ経路で分岐する:
+//   - PC(>700px): 従来どおりanchorEl(th)のgetBoundingClientRectを使う（この分岐の中身は
+//     モバイル対応前と1文字も変えていない）。
+//   - モバイル(<=700px): チップは折り返し行内で位置が毎回ぶれ、th同様の絶対配置だと
+//     画面外にはみ出しうるため、#popup.mobilepos(CSS)で画面中央にfixed表示する。
+function closePopup(){const pop=document.getElementById('popup');pop.style.display='none';pop.classList.remove('mobilepos');}
+function openPopup(k,anchorEl){
+  const col=currentCols().find(c=>c.k===k), pop=document.getElementById('popup');
   let h="<div class=pr><b>"+esc(col.l)+"</b></div>"
        +"<div class=pr><button data-act=sa>▲ 昇順</button><button data-act=sd>▼ 降順</button></div>";
   if(col.f==='range'){const cf=S.cf[k]||{};
@@ -4647,8 +4754,14 @@ function openPopup(th){
   }
   h+="<div class=pr><button data-act=apply>適用</button><button data-act=clear>解除</button><button data-act=close>閉じる</button></div>";
   pop.innerHTML=h; pop.dataset.k=k; pop.dataset.f=col.f||'';
-  const r=th.getBoundingClientRect();
-  pop.style.left=(window.scrollX+r.left)+'px'; pop.style.top=(window.scrollY+r.bottom+2)+'px'; pop.style.display='block';
+  if(window.innerWidth<=700){
+    pop.classList.add('mobilepos'); pop.style.left=''; pop.style.top='';
+  } else {
+    pop.classList.remove('mobilepos');
+    const r=anchorEl.getBoundingClientRect();
+    pop.style.left=(window.scrollX+r.left)+'px'; pop.style.top=(window.scrollY+r.bottom+2)+'px';
+  }
+  pop.style.display='block';
 }
 document.getElementById('popup').addEventListener('click',e=>{
   const act=e.target.dataset.act; if(!act)return; e.stopPropagation();
@@ -4744,7 +4857,8 @@ document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===
     const fb=e.target.closest('.favbtn'); if(fb){e.stopPropagation();const bdk=fb.dataset.bdk;
       if(FAVOR.has(bdk))FAVOR.delete(bdk); else FAVOR.set(bdk,snapOf(repByBdk(bdk)));
       saveFav();render();return;}
-    const th=e.target.closest('th.col'); if(th){e.stopPropagation();openPopup(th);return;}
+    const th=e.target.closest('th.col'); if(th){e.stopPropagation();openPopup(th.dataset.k,th);return;}
+    const chip=e.target.closest('.colchip'); if(chip){e.stopPropagation();openPopup(chip.dataset.k,chip);return;}
     const hb=e.target.closest('.hidebtn'); if(hb){e.stopPropagation();openHideModal(repByBdk(hb.dataset.bdk));return;}
     const rb=e.target.closest('.restorebtn'); if(rb){HIDDEN.delete(rb.dataset.bdk);saveHidden();render();return;}
     const sec=e.target.closest('h2.sec'); if(sec){const t=document.getElementById(sec.dataset.target);sec.classList.toggle('open');t.classList.toggle('open');return;}
