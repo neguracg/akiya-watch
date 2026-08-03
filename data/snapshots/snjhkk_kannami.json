@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59440/index.html|静岡県田方郡函南町仁田": {
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "location": "静岡県田方郡函南町仁田",
+      "price_man": 2880,
+      "area_sqm": 128.1,
+      "url": "https://www.snjhkk.com/s_r_59440/index.html",
+      "text": "静岡県田方郡函南町仁田",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 74.3,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59397/index.html|静岡県田方郡函南町仁田": {
       "first_seen": "2026-07-30",
       "last_seen": "2026-08-03",
@@ -260,39 +289,8 @@
       "zokujinsei": false,
       "machi": "函南町",
       "tab": "home"
-    },
-    "https://www.snjhkk.com/s_r_58445/index.html|静岡県田方郡函南町上沢": {
-      "first_seen": "2026-06-25",
-      "last_seen": "2026-08-03",
-      "location": "静岡県田方郡函南町上沢",
-      "price_man": 954,
-      "area_sqm": 258.0,
-      "url": "https://www.snjhkk.com/s_r_58445/index.html",
-      "text": "静岡県田方郡函南町上沢",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 12.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [
-        "パサディナタウン"
-      ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
     }
   },
-  "hash": "de018965c4bbc330",
-  "fetched_at": "2026-08-03T14:44:07.204046"
+  "hash": "df1b9989f463c858",
+  "fetched_at": "2026-08-03T22:58:09.264406"
 }

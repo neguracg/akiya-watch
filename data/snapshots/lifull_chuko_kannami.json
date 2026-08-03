@@ -824,6 +824,37 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-08-03",
+      "location": "南箱根ダイヤランド　売戸建",
+      "price_man": 1600,
+      "area_sqm": 307.5,
+      "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
+      "text": "南箱根ダイヤランド　売戸建",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 17.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
+      "zokujinsei": false,
+      "machi": "",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-1111450005487/|南箱根ダイヤランド　売戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-08-03",
@@ -851,37 +882,6 @@
         "別荘地",
         "温泉"
       ],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
-    "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-08-03",
-      "location": "南箱根ダイヤランド　売戸建",
-      "price_man": 1600,
-      "area_sqm": 307.5,
-      "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
-      "text": "南箱根ダイヤランド　売戸建",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 17.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
       "ng_areas": [
         "南箱根ダイヤランド"
       ],
@@ -921,6 +921,6 @@
       "tab": "home"
     }
   },
-  "hash": "bf6a1049fe4aa23c",
-  "fetched_at": "2026-08-03T15:06:26.224576"
+  "hash": "423b9af7b8174896",
+  "fetched_at": "2026-08-03T23:20:20.740886"
 }

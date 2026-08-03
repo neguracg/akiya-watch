@@ -688,39 +688,6 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1111450003055/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
-      "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-      "price_man": 350,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1111450003055/",
-      "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [
-        "温泉"
-      ],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/tochi/b-1111450004437/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
@@ -781,35 +748,6 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1111450003068/|田方郡函南町平井 (熱海駅)": {
-      "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
-      "location": "田方郡函南町平井 (熱海駅)",
-      "price_man": 900,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1111450003068/",
-      "text": "田方郡函南町平井 (熱海駅)",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/tochi/b-1111450005458/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
@@ -843,13 +781,42 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1341600001673/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
+    "https://www.homes.co.jp/tochi/b-1111450003068/|田方郡函南町平井 (熱海駅)": {
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "location": "田方郡函南町平井 (熱海駅)",
+      "price_man": 900,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1111450003068/",
+      "text": "田方郡函南町平井 (熱海駅)",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/tochi/b-1111450003055/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
       "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
       "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-      "price_man": 85,
+      "price_man": 350,
       "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1341600001673/",
+      "url": "https://www.homes.co.jp/tochi/b-1111450003055/",
       "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
@@ -867,7 +834,7 @@
       "verdict": "数値不明",
       "interest": [],
       "caution": [
-        "別荘地"
+        "温泉"
       ],
       "ng_areas": [
         "南箱根ダイヤランド"
@@ -876,14 +843,43 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1265050002403/|田方郡函南町平井 (大場駅)": {
-      "first_seen": "2026-08-02",
+    "https://www.homes.co.jp/tochi/b-1265050002037/|田方郡函南町柏谷 (伊豆仁田駅)": {
+      "first_seen": "2026-08-03",
       "last_seen": "2026-08-03",
-      "location": "田方郡函南町平井 (大場駅)",
-      "price_man": 600,
+      "location": "田方郡函南町柏谷 (伊豆仁田駅)",
+      "price_man": 890,
       "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1265050002403/",
-      "text": "田方郡函南町平井 (大場駅)",
+      "url": "https://www.homes.co.jp/tochi/b-1265050002037/",
+      "text": "田方郡函南町柏谷 (伊豆仁田駅)",
+      "shubetsu": "古家付き土地",
+      "shubetsu_reason": "土地＋古家/上物の表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/tochi/b-1265050002636/|田方郡函南町肥田 (伊豆仁田駅)": {
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "location": "田方郡函南町肥田 (伊豆仁田駅)",
+      "price_man": 780,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002636/",
+      "text": "田方郡函南町肥田 (伊豆仁田駅)",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -906,6 +902,6 @@
       "tab": "home"
     }
   },
-  "hash": "15831a72e59875c3",
-  "fetched_at": "2026-08-03T15:03:08.005519"
+  "hash": "6dcb493be856f8ed",
+  "fetched_at": "2026-08-03T23:17:18.578283"
 }

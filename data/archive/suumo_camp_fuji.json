@@ -406,17 +406,6 @@
     "removed_on": "2026-08-01",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21274962/|☆　建築条件なし！　　 →お好きなハウスメーカーでお家が建てられます。": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-07-30",
-    "location": "静岡県富士市今泉",
-    "price_man": 800,
-    "area_sqm": 181.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21274962/",
-    "text": "☆　建築条件なし！　　 →お好きなハウスメーカーでお家が建てられます。",
-    "removed_on": "2026-08-01",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21215769/|森島（富士駅） 1200万円": {
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-01",
@@ -426,6 +415,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21215769/",
     "text": "森島（富士駅） 1200万円",
     "removed_on": "2026-08-02",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78092228/|中之郷（富士川駅） 900万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-03",
+    "location": "静岡県富士市中之郷",
+    "price_man": 900,
+    "area_sqm": 307.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78092228/",
+    "text": "中之郷（富士川駅） 900万円",
+    "removed_on": "2026-08-03",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334445/|◇◆＼駅近♪角地♪敷地面積50坪以上♪生活便利な住環境／◆◇": {
+    "first_seen": "2026-07-21",
+    "last_seen": "2026-08-03",
+    "location": "静岡県富士市宇東川東町",
+    "price_man": 980,
+    "area_sqm": 168.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21334445/",
+    "text": "◇◆＼駅近♪角地♪敷地面積50坪以上♪生活便利な住環境／◆◇",
+    "removed_on": "2026-08-03",
     "site_name": "SUUMO 土地 富士市"
   }
 }
