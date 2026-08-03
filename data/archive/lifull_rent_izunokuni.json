@@ -372,5 +372,16 @@
     "text": "レオネクストレジデンス田京",
     "removed_on": "2026-08-02",
     "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/0c0c5c6ed5140f137e3bb7022ad9397890f6cf65/|ドルチェ伊豆長岡": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-02",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 6.7,
+    "area_sqm": 59.2,
+    "url": "https://www.homes.co.jp/chintai/room/0c0c5c6ed5140f137e3bb7022ad9397890f6cf65/",
+    "text": "ドルチェ伊豆長岡",
+    "removed_on": "2026-08-03",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59397/index.html|静岡県田方郡函南町仁田": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 2480,
       "area_sqm": 154.3,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59251/index.html|静岡県田方郡函南町仁田": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 4180,
       "area_sqm": 183.6,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59095/index.html|静岡県田方郡函南町上沢": {
       "first_seen": "2026-06-27",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 1080,
       "area_sqm": 238.0,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59045/index.html|静岡県田方郡函南町塚本": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 2330,
       "area_sqm": null,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_58974/index.html|静岡県田方郡函南町肥田": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町肥田",
       "price_man": 780,
       "area_sqm": 252.6,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_58969/index.html|静岡県田方郡函南町仁田": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町仁田",
       "price_man": 2390,
       "area_sqm": null,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_58899/index.html|静岡県田方郡函南町畑毛": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町畑毛",
       "price_man": 3600,
       "area_sqm": null,
@@ -205,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_58896/index.html|静岡県田方郡函南町塚本": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町塚本",
       "price_man": 5600,
       "area_sqm": null,
@@ -234,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_58736/index.html|静岡県田方郡函南町平井字向山1371番40": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町平井字向山1371番40",
       "price_man": 3498,
       "area_sqm": 187.7,
@@ -263,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_58445/index.html|静岡県田方郡函南町上沢": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-02",
+      "last_seen": "2026-08-03",
       "location": "静岡県田方郡函南町上沢",
       "price_man": 954,
       "area_sqm": 258.0,
@@ -293,6 +293,6 @@
       "tab": "home"
     }
   },
-  "hash": "e1b9efd09e55feda",
-  "fetched_at": "2026-08-02T22:53:44.929846"
+  "hash": "de018965c4bbc330",
+  "fetched_at": "2026-08-03T14:44:07.204046"
 }
