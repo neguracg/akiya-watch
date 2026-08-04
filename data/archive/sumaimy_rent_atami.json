@@ -438,5 +438,115 @@
     "text": "貸アパート 熱海市上宿町",
     "removed_on": "2026-08-03",
     "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170933|貸マンション 熱海市春日町16-45": {
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-03",
+    "location": "熱海市春日町16-45",
+    "price_man": 23.5,
+    "area_sqm": 106.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170933",
+    "text": "貸マンション 熱海市春日町16-45",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175011|貸マンション 熱海市下多賀431-3": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-08-03",
+    "location": "熱海市下多賀431-3",
+    "price_man": 12.0,
+    "area_sqm": 58.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175011",
+    "text": "貸マンション 熱海市下多賀431-3",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175774|貸アパート 熱海市上多賀41-4": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-03",
+    "location": "熱海市上多賀41-4",
+    "price_man": 4.0,
+    "area_sqm": 31.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175774",
+    "text": "貸アパート 熱海市上多賀41-4",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141022|貸店舗（建物一部） 熱海市下多賀773-2": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-03",
+    "location": "熱海市下多賀773-2",
+    "price_man": 55.0,
+    "area_sqm": 166.6,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141022",
+    "text": "貸店舗（建物一部） 熱海市下多賀773-2",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174951|貸マンション 熱海市上多賀980-1": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-03",
+    "location": "熱海市上多賀980-1",
+    "price_man": 7.3,
+    "area_sqm": 22.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174951",
+    "text": "貸マンション 熱海市上多賀980-1",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167219|貸マンション 熱海市昭和町5－33": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-03",
+    "location": "熱海市昭和町5－33",
+    "price_man": 4.6,
+    "area_sqm": 20.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167219",
+    "text": "貸マンション 熱海市昭和町5－33",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170732|貸マンション 熱海市網代627-76": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-08-03",
+    "location": "熱海市網代627-76",
+    "price_man": 4.2,
+    "area_sqm": 25.6,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170732",
+    "text": "貸マンション 熱海市網代627-76",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114400|貸店舗・事務所 熱海市中央町": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-03",
+    "location": "熱海市中央町",
+    "price_man": 15.0,
+    "area_sqm": 70.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114400",
+    "text": "貸店舗・事務所 熱海市中央町",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156610|貸店舗（建物一部）定期借家 熱海市中央町4－19": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-03",
+    "location": "熱海市中央町4－19",
+    "price_man": 25.0,
+    "area_sqm": 85.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156610",
+    "text": "貸店舗（建物一部）定期借家 熱海市中央町4－19",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129872|貸アパート 熱海市桜町": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-03",
+    "location": "熱海市桜町",
+    "price_man": 5.0,
+    "area_sqm": 50.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129872",
+    "text": "貸アパート 熱海市桜町",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }

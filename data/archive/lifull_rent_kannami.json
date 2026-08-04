@@ -559,5 +559,27 @@
     "text": "フォンティーヌ小高壱番館",
     "removed_on": "2026-08-03",
     "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-03",
+    "location": "静岡県田方郡函南町仁田191-6",
+    "price_man": 7.4,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
+    "text": "オーポン　ヒルズ",
+    "removed_on": "2026-08-04",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/9a2638e8eb249dd4d4780d12c0c4ae98b6c8a7ee/|グランドール高城Ｃ": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-03",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.4,
+    "area_sqm": 63.5,
+    "url": "https://www.homes.co.jp/chintai/room/9a2638e8eb249dd4d4780d12c0c4ae98b6c8a7ee/",
+    "text": "グランドール高城Ｃ",
+    "removed_on": "2026-08-04",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

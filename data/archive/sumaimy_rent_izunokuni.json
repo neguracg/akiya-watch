@@ -1,15 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139484|貸店舗（建物一部） 伊豆の国市長岡251-10": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "location": "伊豆の国市長岡251-10",
-    "price_man": 12.0,
-    "area_sqm": 49.7,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139484",
-    "text": "貸店舗（建物一部） 伊豆の国市長岡251-10",
-    "removed_on": "2026-07-26",
-    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149664|貸アパート 伊豆の国市大仁555-1": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-26",
@@ -162,6 +151,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/45614",
     "text": "貸アパート 伊豆の国市田京751-5",
     "removed_on": "2026-08-03",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111418|貸アパート 伊豆の国市田京707-27": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-03",
+    "location": "伊豆の国市田京707-27",
+    "price_man": 5.0,
+    "area_sqm": 50.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111418",
+    "text": "貸アパート 伊豆の国市田京707-27",
+    "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/115525|貸アパート 伊豆の国市田京658-12": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-03",
+    "location": "伊豆の国市田京658-12",
+    "price_man": 5.4,
+    "area_sqm": 44.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/115525",
+    "text": "貸アパート 伊豆の国市田京658-12",
+    "removed_on": "2026-08-04",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   }
 }

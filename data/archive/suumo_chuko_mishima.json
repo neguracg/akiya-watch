@@ -648,17 +648,6 @@
     "removed_on": "2026-07-21",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21060092/|【リフォーム実施中☆】●〇アトモ〇●いつでもご案内できます♪": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-07-20",
-    "location": "静岡県三島市萩",
-    "price_man": 2649,
-    "area_sqm": 197.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21060092/",
-    "text": "【リフォーム実施中☆】●〇アトモ〇●いつでもご案内できます♪",
-    "removed_on": "2026-07-21",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20069671/|北沢（三島二日町駅） 3080万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-20",
@@ -833,6 +822,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21405168/",
     "text": "『長泉なめり』駅まで車で約5分！小中学校まで徒歩10分以内！",
     "removed_on": "2026-08-03",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/|外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-08-03",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/",
+    "text": "外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路",
+    "removed_on": "2026-08-04",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

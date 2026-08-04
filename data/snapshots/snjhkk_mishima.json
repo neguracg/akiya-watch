@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59442/index.html|静岡県三島市安久": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "location": "静岡県三島市安久",
       "price_man": 2980,
       "area_sqm": 101.4,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59393/index.html|静岡県三島市富士ビレッジ": {
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 4183,
       "area_sqm": 170.7,
@@ -59,6 +59,6 @@
       "tab": "home"
     }
   },
-  "hash": "4012f034fc0fe2f7",
-  "fetched_at": "2026-08-03T23:09:09.149137"
+  "hash": "0356b2848923c16c",
+  "fetched_at": "2026-08-04T23:11:43.585107"
 }

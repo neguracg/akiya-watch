@@ -405,5 +405,16 @@
     "text": "売住宅 沼津市北高島町",
     "removed_on": "2026-08-03",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175269/settle/1|売住宅 沼津市西浦平沢": {
+    "first_seen": "2026-07-14",
+    "last_seen": "2026-08-03",
+    "location": "沼津市西浦平沢",
+    "price_man": 680,
+    "area_sqm": 317.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175269/settle/1",
+    "text": "売住宅 沼津市西浦平沢",
+    "removed_on": "2026-08-04",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }
