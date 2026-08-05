@@ -416,5 +416,16 @@
     "text": "売住宅 沼津市西浦平沢",
     "removed_on": "2026-08-04",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174107/settle/1|新築売住宅 沼津市本松下845-3": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-04",
+    "location": "沼津市本松下845-3",
+    "price_man": 2590,
+    "area_sqm": 201.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174107/settle/1",
+    "text": "新築売住宅 沼津市本松下845-3",
+    "removed_on": "2026-08-05",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

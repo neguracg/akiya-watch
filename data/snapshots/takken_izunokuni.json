@@ -1,40 +1,8 @@
 {
   "keys": {
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916/settle/1|売土地 伊豆の国市長崎350-6": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
-      "location": "伊豆の国市長崎350-6",
-      "price_man": 1150,
-      "area_sqm": 201.0,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916/settle/1",
-      "text": "売土地 伊豆の国市長崎350-6",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
-      "chimoku": "田",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 18.9,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911/settle/1|売土地 伊豆の国市長崎350-4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長崎350-4",
       "price_man": 1380,
       "area_sqm": 205.0,
@@ -66,7 +34,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132918/settle/1|売土地 伊豆の国市長崎350-8": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長崎350-8",
       "price_man": 1180,
       "area_sqm": 201.5,
@@ -96,9 +64,41 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916/settle/1|売土地 伊豆の国市長崎350-6": {
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-08-05",
+      "location": "伊豆の国市長崎350-6",
+      "price_man": 1150,
+      "area_sqm": 201.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916/settle/1",
+      "text": "売土地 伊豆の国市長崎350-6",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "田",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 18.9,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133411/settle/1|売アパート 伊豆の国市古奈221-2": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市古奈221-2",
       "price_man": 3750,
       "area_sqm": 292.8,
@@ -127,7 +127,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131233/settle/1|売マンション 伊豆の国市長岡1334-4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長岡1334-4",
       "price_man": 450,
       "area_sqm": 64.7,
@@ -158,7 +158,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155384/settle/1|売住宅 伊豆の国市韮山山木1225-127": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市韮山山木1225-127",
       "price_man": 900,
       "area_sqm": 287.0,
@@ -189,7 +189,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144639/settle/1|売土地 伊豆の国市奈古谷2227-107": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷2227-107",
       "price_man": 80,
       "area_sqm": 495.0,
@@ -221,7 +221,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165654/settle/1|売住宅 伊豆の国市三福": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市三福",
       "price_man": 250,
       "area_sqm": 137.2,
@@ -250,7 +250,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138202/settle/1|売住宅 伊豆の国市大仁": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市大仁",
       "price_man": 3200,
       "area_sqm": 160.6,
@@ -279,7 +279,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172719/settle/1|売土地 伊豆の国市韮山金谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市韮山金谷",
       "price_man": 1350,
       "area_sqm": 1941.6,
@@ -311,7 +311,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166786/settle/1|売アパート 伊豆の国市天野": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市天野",
       "price_man": 2200,
       "area_sqm": 393.0,
@@ -340,7 +340,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143272/settle/1|売土地 伊豆の国市四日町1005-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市四日町1005-1",
       "price_man": 1300,
       "area_sqm": 190.1,
@@ -369,7 +369,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161234/settle/1|売マンション 伊豆の国市立花３丁目": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市立花３丁目",
       "price_man": 75,
       "area_sqm": 57.7,
@@ -402,7 +402,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175551/settle/1|売土地 伊豆の国市天野": {
       "first_seen": "2026-07-23",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市天野",
       "price_man": 1080,
       "area_sqm": 363.0,
@@ -434,7 +434,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156379/settle/1|売土地 伊豆の国市古奈": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市古奈",
       "price_man": 2480,
       "area_sqm": 355.6,
@@ -465,7 +465,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175245/settle/1|売土地 伊豆の国市古奈347-1": {
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市古奈347-1",
       "price_man": 1866,
       "area_sqm": 247.7,
@@ -494,7 +494,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175494/settle/1|売マンション 伊豆の国市長岡": {
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長岡",
       "price_man": 1080,
       "area_sqm": 79.2,
@@ -525,7 +525,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165205/settle/1|売住宅 伊豆の国市奈古谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷",
       "price_man": 580,
       "area_sqm": 358.0,
@@ -558,7 +558,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157921/settle/1|売土地 伊豆の国市三福": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市三福",
       "price_man": 250,
       "area_sqm": 137.2,
@@ -587,7 +587,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173222/settle/1|売土地 伊豆の国市原木": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市原木",
       "price_man": 980,
       "area_sqm": 165.1,
@@ -616,7 +616,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164972/settle/1|売マンション 伊豆の国市奈古谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷",
       "price_man": 1830,
       "area_sqm": 102.8,
@@ -649,7 +649,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171443/settle/1|売土地 伊豆の国市奈古谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷",
       "price_man": 780,
       "area_sqm": 381.0,
@@ -682,7 +682,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175226/settle/1|売店舗付住宅 伊豆の国市南條": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市南條",
       "price_man": 980,
       "area_sqm": 63.3,
@@ -711,7 +711,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111173/settle/1|売土地 伊豆の国市奈古谷小松ケ原2227-215": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷小松ケ原2227-215",
       "price_man": 100,
       "area_sqm": 1032.0,
@@ -745,7 +745,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165628/settle/1|売土地 伊豆の国市大仁858-2": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市大仁858-2",
       "price_man": 1480,
       "area_sqm": 310.9,
@@ -777,7 +777,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169525/settle/1|売住宅 伊豆の国市大仁": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市大仁",
       "price_man": 1980,
       "area_sqm": 404.0,
@@ -806,7 +806,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159577/settle/1|売住宅 伊豆の国市奈古谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷",
       "price_man": 1350,
       "area_sqm": 416.0,
@@ -837,7 +837,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165994/settle/1|売土地 伊豆の国市南江間1930番38": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市南江間1930番38",
       "price_man": 750,
       "area_sqm": 199.1,
@@ -869,7 +869,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170946/settle/1|売マンション 伊豆の国市長岡": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長岡",
       "price_man": 2380,
       "area_sqm": 130.6,
@@ -900,7 +900,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139291/settle/1|売土地 伊豆の国市原木38-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市原木38-1",
       "price_man": 1390,
       "area_sqm": 270.0,
@@ -929,7 +929,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164344/settle/1|売住宅 伊豆の国市奈古谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷",
       "price_man": 1380,
       "area_sqm": 225.1,
@@ -962,7 +962,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163787/settle/1|売住宅 伊豆の国市小坂": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市小坂",
       "price_man": 1180,
       "area_sqm": 257.9,
@@ -994,7 +994,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/97610/settle/1|売土地 伊豆の国市長岡": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長岡",
       "price_man": 1480,
       "area_sqm": 343.6,
@@ -1023,7 +1023,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152585/settle/1|売マンション 伊豆の国市長岡1334-4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長岡1334-4",
       "price_man": 288,
       "area_sqm": 43.0,
@@ -1054,7 +1054,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173766/settle/1|売住宅 伊豆の国市奈古谷エメラルドタウン": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷エメラルドタウン",
       "price_man": 1180,
       "area_sqm": 245.8,
@@ -1088,7 +1088,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138640/settle/1|売土地 伊豆の国市長崎350-7": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市長崎350-7",
       "price_man": 1150,
       "area_sqm": 226.3,
@@ -1120,7 +1120,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111154/settle/1|売土地 伊豆の国市奈古谷小松ケ原2228-200": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市奈古谷小松ケ原2228-200",
       "price_man": 680,
       "area_sqm": 337.0,
@@ -1152,7 +1152,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154670/settle/1|売アパート 伊豆の国市小坂": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市小坂",
       "price_man": 1180,
       "area_sqm": 257.9,
@@ -1184,7 +1184,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163205/settle/1|売土地 伊豆の国市田京": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-04",
+      "last_seen": "2026-08-05",
       "location": "伊豆の国市田京",
       "price_man": 300,
       "area_sqm": 257.2,
@@ -1215,6 +1215,6 @@
       "tab": "home"
     }
   },
-  "hash": "c4242e45613db0f1",
-  "fetched_at": "2026-08-04T23:05:28.300962"
+  "hash": "d75ad144316289aa",
+  "fetched_at": "2026-08-05T23:01:58.302818"
 }
