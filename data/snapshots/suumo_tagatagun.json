@@ -33,7 +33,7 @@
       "first_seen": "2026-06-17",
       "last_seen": "2026-08-07",
       "location": "静岡県田方郡函南町柏谷1327-91",
-      "price_man": 599,
+      "price_man": 579,
       "area_sqm": 189.7,
       "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20830428/",
       "text": "【見学会開催】【建築条件なし】スーパーまで車4分（1100ｍ）、小学校徒歩8分",
@@ -49,7 +49,7 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 10.4,
+      "tsubo_man": 10.1,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -211,6 +211,35 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21451891/|◇◆ＭＩＲＡＩＥ売主の限定1区画～落ち着いた住環境◆◇☆コンビニ徒歩圏内♪": {
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "location": "静岡県田方郡函南町畑毛91-2",
+      "price_man": 280,
+      "area_sqm": 141.6,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21451891/",
+      "text": "◇◆ＭＩＲＡＩＥ売主の限定1区画～落ち着いた住環境◆◇☆コンビニ徒歩圏内♪",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "畑",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 6.5,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_70153287/|畑南箱根ダイヤランド 300万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-08-07",
@@ -238,35 +267,6 @@
       "ng_areas": [
         "南箱根ダイヤランド"
       ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21334372/|◇◆ＭＩＲＡＩＥ売主の限定1区画～落ち着いた住環境◆◇☆コンビニ徒歩圏内♪": {
-      "first_seen": "2026-07-21",
-      "last_seen": "2026-08-07",
-      "location": "静岡県田方郡函南町畑毛91-2",
-      "price_man": 390,
-      "area_sqm": 141.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21334372/",
-      "text": "◇◆ＭＩＲＡＩＥ売主の限定1区画～落ち着いた住環境◆◇☆コンビニ徒歩圏内♪",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "畑",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 9.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
       "zokujinsei": false,
       "machi": "函南町",
       "tab": "home"
@@ -794,6 +794,6 @@
       "tab": "home"
     }
   },
-  "hash": "7d2d23228287518e",
-  "fetched_at": "2026-08-07T01:50:45.796174"
+  "hash": "9da0fb1067d785d1",
+  "fetched_at": "2026-08-07T22:52:01.508794"
 }

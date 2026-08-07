@@ -97,5 +97,16 @@
     "text": "富戸（城ヶ崎海岸駅） 4800万円",
     "removed_on": "2026-08-07",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20346620/|宇佐美（宇佐美駅） 350万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-07",
+    "location": "静岡県伊東市宇佐美",
+    "price_man": 350,
+    "area_sqm": 119.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20346620/",
+    "text": "宇佐美（宇佐美駅） 350万円",
+    "removed_on": "2026-08-07",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

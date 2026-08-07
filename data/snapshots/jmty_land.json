@@ -152,14 +152,14 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪": {
-      "first_seen": "2026-07-25",
+    "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...": {
+      "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
       "location": "静岡 裾野市 御殿場駅 土地販売/土地売買",
       "price_man": 28,
       "area_sqm": null,
       "url": "https://jmty.jp/shizuoka/est-land/article-1nn8ez",
-      "text": "個人所有の富士急十里木高原別荘地　格安でお譲りします♪",
+      "text": "個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -242,6 +242,6 @@
       "tab": "home"
     }
   },
-  "hash": "6f37ca169c42dc1a",
-  "fetched_at": "2026-08-07T01:33:11.604037"
+  "hash": "e4754f9b151995d9",
+  "fetched_at": "2026-08-07T22:33:51.037544"
 }

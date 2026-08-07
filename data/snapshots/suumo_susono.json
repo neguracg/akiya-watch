@@ -232,14 +232,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪建築条件なし！": {
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪": {
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
       "location": "静岡県裾野市須山",
       "price_man": 1390,
       "area_sqm": 1149.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-      "text": "富士山が見える敷地♪憧れの絶景の別荘で思い出を作れます♪建築条件なし！",
+      "text": "憧れの絶景の別荘で思い出を作れます♪建築条件なし！富士山が見える敷地♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -784,6 +784,6 @@
       "tab": "home"
     }
   },
-  "hash": "870507c41dd20640",
-  "fetched_at": "2026-08-07T01:39:05.873095"
+  "hash": "49baf0cdc544d199",
+  "fetched_at": "2026-08-07T22:40:25.916291"
 }

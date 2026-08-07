@@ -1,5 +1,65 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-land/article-1qzknr|売主直接!　賃貸も可!　富士市川成島　 国1バイパス沿い　88㎡...": {
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "location": "静岡 富士市 土地販売/土地売買",
+      "price_man": 321,
+      "area_sqm": 88.0,
+      "url": "https://jmty.jp/shizuoka/est-land/article-1qzknr",
+      "text": "売主直接!　賃貸も可!　富士市川成島　 国1バイパス沿い　88㎡...",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 12.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士市",
+      "tab": "camp"
+    },
+    "https://jmty.jp/shizuoka/est-land/article-1jma8g|No.E762【静岡県伊豆市冷川】別荘地1筆あげます！": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-08-07",
+      "location": "静岡 伊豆市 土地販売/土地売買",
+      "price_man": null,
+      "area_sqm": 615.0,
+      "url": "https://jmty.jp/shizuoka/est-land/article-1jma8g",
+      "text": "No.E762【静岡県伊豆市冷川】別荘地1筆あげます！",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "原野",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆市",
+      "tab": "camp"
+    },
     "https://jmty.jp/shizuoka/est-land/article-1k2pcw|No.E811【静岡県伊豆の国市中】別荘地1筆あげます！": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-08-07",
@@ -268,45 +328,14 @@
       "machi": "伊豆の国市",
       "tab": "camp"
     },
-    "https://jmty.jp/shizuoka/est-land/article-1jma8g|No.E762【静岡県伊豆市冷川】別荘地1筆あげます！": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-08-07",
-      "location": "静岡 伊豆市 土地販売/土地売買",
-      "price_man": null,
-      "area_sqm": 615.0,
-      "url": "https://jmty.jp/shizuoka/est-land/article-1jma8g",
-      "text": "No.E762【静岡県伊豆市冷川】別荘地1筆あげます！",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "原野",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆市",
-      "tab": "camp"
-    },
-    "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪": {
-      "first_seen": "2026-07-25",
+    "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...": {
+      "first_seen": "2026-08-07",
       "last_seen": "2026-08-07",
       "location": "静岡 裾野市 御殿場駅 土地販売/土地売買",
       "price_man": 28,
       "area_sqm": null,
       "url": "https://jmty.jp/shizuoka/est-land/article-1nn8ez",
-      "text": "個人所有の富士急十里木高原別荘地　格安でお譲りします♪",
+      "text": "個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -478,6 +507,6 @@
       "tab": "camp"
     }
   },
-  "hash": "db4f89277be4760b",
-  "fetched_at": "2026-08-07T01:43:38.924176"
+  "hash": "f86879b21c958e30",
+  "fetched_at": "2026-08-07T22:45:11.463822"
 }

@@ -428,17 +428,6 @@
     "removed_on": "2026-07-30",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/|タウンリバティＩＩ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-07-30",
-    "location": "静岡県三島市加茂川町",
-    "price_man": 8.3,
-    "area_sqm": 58.1,
-    "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
-    "text": "タウンリバティＩＩ",
-    "removed_on": "2026-07-31",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/1a9b636f72b79aae8717bd60e8b35c86cc5b2547/|ロワール　23": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-07-30",
@@ -879,28 +868,6 @@
     "removed_on": "2026-08-07",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/5d70d65e044d24f7539a0226999aa67a7140e4a3/|パルティーレ": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-05",
-    "location": "静岡県三島市徳倉1丁目",
-    "price_man": 7.0,
-    "area_sqm": 40.3,
-    "url": "https://www.homes.co.jp/chintai/room/5d70d65e044d24f7539a0226999aa67a7140e4a3/",
-    "text": "パルティーレ",
-    "removed_on": "2026-08-07",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/500316e538991fd3c983e5a822071127ee722d29/|パルティーレ": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-05",
-    "location": "静岡県三島市徳倉1丁目",
-    "price_man": 7.0,
-    "area_sqm": 40.3,
-    "url": "https://www.homes.co.jp/chintai/room/500316e538991fd3c983e5a822071127ee722d29/",
-    "text": "パルティーレ",
-    "removed_on": "2026-08-07",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
     "first_seen": "2026-08-05",
     "last_seen": "2026-08-05",
@@ -920,6 +887,83 @@
     "area_sqm": 64.5,
     "url": "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/",
     "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/|Ｙａｓｕｎａ39": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市西若町",
+    "price_man": 7.8,
+    "area_sqm": 40.3,
+    "url": "https://www.homes.co.jp/chintai/room/bcd4646bc0efbf9fa14c7a85387987b38669af28/",
+    "text": "Ｙａｓｕｎａ39",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/82cfcb8286fbdd8d108f13b1e45f284d8f62ac60/|ベル・ビスカス": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市寿町",
+    "price_man": 9.4,
+    "area_sqm": 49.4,
+    "url": "https://www.homes.co.jp/chintai/room/82cfcb8286fbdd8d108f13b1e45f284d8f62ac60/",
+    "text": "ベル・ビスカス",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/49f71ed5bb57475df4d6d60667e21b98b4b32cfd/|ｅｌ　ａｌｉｖｉｏ東本町": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市東本町1丁目",
+    "price_man": 8.8,
+    "area_sqm": 50.7,
+    "url": "https://www.homes.co.jp/chintai/room/49f71ed5bb57475df4d6d60667e21b98b4b32cfd/",
+    "text": "ｅｌ　ａｌｉｖｉｏ東本町",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/12738a3571c5aee0c7a614e9370e68f5bd2b5e42/|ｅｌ　ａｌｉｖｉｏ東本町": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市東本町1丁目",
+    "price_man": 8.6,
+    "area_sqm": 48.8,
+    "url": "https://www.homes.co.jp/chintai/room/12738a3571c5aee0c7a614e9370e68f5bd2b5e42/",
+    "text": "ｅｌ　ａｌｉｖｉｏ東本町",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/3c3f2ea8b63dc9298914126cd8ff8d5ddc6826b9/|ｅｌ　ａｌｉｖｉｏ東本町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市東本町1丁目",
+    "price_man": 8.6,
+    "area_sqm": 41.4,
+    "url": "https://www.homes.co.jp/chintai/room/3c3f2ea8b63dc9298914126cd8ff8d5ddc6826b9/",
+    "text": "ｅｌ　ａｌｉｖｉｏ東本町",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/491f68c6db773f501fe6f8e631a870c376ca8d76/|ｅｌ　ａｌｉｖｉｏ東本町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市東本町1丁目",
+    "price_man": 8.6,
+    "area_sqm": 48.8,
+    "url": "https://www.homes.co.jp/chintai/room/491f68c6db773f501fe6f8e631a870c376ca8d76/",
+    "text": "ｅｌ　ａｌｉｖｉｏ東本町",
+    "removed_on": "2026-08-07",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/5dda48af8f342ad0d54e55a7402c89dbb81de1af/|Ｋｏｙｏｍｉ": {
+    "first_seen": "2026-07-29",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市大宮町2丁目",
+    "price_man": 8.4,
+    "area_sqm": 53.8,
+    "url": "https://www.homes.co.jp/chintai/room/5dda48af8f342ad0d54e55a7402c89dbb81de1af/",
+    "text": "Ｋｏｙｏｍｉ",
     "removed_on": "2026-08-07",
     "site_name": "LIFULL 賃貸 三島市"
   }

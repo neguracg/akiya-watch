@@ -551,14 +551,14 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/|コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪": {
-      "first_seen": "2026-07-03",
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/|☆角地にある3階建てのお家　日当たり良好です": {
+      "first_seen": "2026-06-17",
       "last_seen": "2026-08-07",
       "location": "静岡県駿東郡清水町中徳倉",
       "price_man": 1980,
       "area_sqm": 164.8,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/",
-      "text": "コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪",
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/",
+      "text": "☆角地にある3階建てのお家　日当たり良好です",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -580,14 +580,14 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/|☆角地にある3階建てのお家　日当たり良好です": {
-      "first_seen": "2026-06-17",
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/|コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪": {
+      "first_seen": "2026-07-03",
       "last_seen": "2026-08-07",
       "location": "静岡県駿東郡清水町中徳倉",
       "price_man": 1980,
       "area_sqm": 164.8,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21042775/",
-      "text": "☆角地にある3階建てのお家　日当たり良好です",
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/",
+      "text": "コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -928,35 +928,6 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20247574/|近隣は、スーパー、薬局もあり利便性の良い立地です。清水小・清水中学校です。": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-08-07",
-      "location": "静岡県駿東郡清水町堂庭",
-      "price_man": 3880,
-      "area_sqm": 155.7,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20247574/",
-      "text": "近隣は、スーパー、薬局もあり利便性の良い立地です。清水小・清水中学校です。",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 82.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "清水町",
-      "tab": "home"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20424710/|上長窪（長泉なめり駅） 3880万円": {
       "first_seen": "2026-06-22",
       "last_seen": "2026-08-07",
@@ -984,6 +955,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "長泉町",
+      "tab": "home"
+    },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20247574/|近隣は、スーパー、薬局もあり利便性の良い立地です。清水小・清水中学校です。": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-08-07",
+      "location": "静岡県駿東郡清水町堂庭",
+      "price_man": 3880,
+      "area_sqm": 155.7,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20247574/",
+      "text": "近隣は、スーパー、薬局もあり利便性の良い立地です。清水小・清水中学校です。",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 82.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
       "tab": "home"
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21442178/|下土狩（下土狩駅） 4149万円": {
@@ -1219,6 +1219,6 @@
       "tab": "home"
     }
   },
-  "hash": "a7d0e408e53d7166",
-  "fetched_at": "2026-08-07T01:43:07.233632"
+  "hash": "1a20cff99dbcd258",
+  "fetched_at": "2026-08-07T22:44:37.107228"
 }

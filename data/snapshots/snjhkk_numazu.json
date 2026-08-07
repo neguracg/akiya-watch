@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "49a7b466071c4da1",
-  "fetched_at": "2026-08-07T01:52:38.833795"
+  "keys": {
+    "https://www.snjhkk.com/s_r_59515/index.html|静岡県沼津市東間門": {
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-07",
+      "location": "静岡県沼津市東間門",
+      "price_man": 2590,
+      "area_sqm": 107.6,
+      "url": "https://www.snjhkk.com/s_r_59515/index.html",
+      "text": "静岡県沼津市東間門",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 79.6,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    }
+  },
+  "hash": "66c99fcde4f938cb",
+  "fetched_at": "2026-08-07T22:54:11.398419"
 }
