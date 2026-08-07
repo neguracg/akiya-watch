@@ -1,26 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291|貸マンション 駿東郡長泉町下土狩175-7": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-30",
-    "location": "駿東郡長泉町下土狩175-7",
-    "price_man": 6.5,
-    "area_sqm": 58.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291",
-    "text": "貸マンション 駿東郡長泉町下土狩175-7",
-    "removed_on": "2026-07-31",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978|貸戸建住宅 駿東郡長泉町下土狩105-28": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-30",
-    "location": "駿東郡長泉町下土狩105-28",
-    "price_man": 10.0,
-    "area_sqm": 94.2,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978",
-    "text": "貸戸建住宅 駿東郡長泉町下土狩105-28",
-    "removed_on": "2026-07-31",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173536|貸アパート 駿東郡長泉町下土狩80-1": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-31",
@@ -30,6 +8,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173536",
     "text": "貸アパート 駿東郡長泉町下土狩80-1",
     "removed_on": "2026-08-01",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146840|貸マンション 駿東郡長泉町中土狩344-1": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-05",
+    "location": "駿東郡長泉町中土狩344-1",
+    "price_man": 5.9,
+    "area_sqm": 59.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146840",
+    "text": "貸マンション 駿東郡長泉町中土狩344-1",
+    "removed_on": "2026-08-07",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48582|貸マンション 駿東郡長泉町桜堤３丁目": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-05",
+    "location": "駿東郡長泉町桜堤３丁目",
+    "price_man": 5.7,
+    "area_sqm": 41.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48582",
+    "text": "貸マンション 駿東郡長泉町桜堤３丁目",
+    "removed_on": "2026-08-07",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   }
 }

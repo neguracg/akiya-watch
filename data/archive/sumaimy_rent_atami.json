@@ -65,28 +65,6 @@
     "removed_on": "2026-07-26",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170473|貸戸建住宅 熱海市上多賀1117-1": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "location": "熱海市上多賀1117-1",
-    "price_man": 11.0,
-    "area_sqm": 137.3,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170473",
-    "text": "貸戸建住宅 熱海市上多賀1117-1",
-    "removed_on": "2026-07-26",
-    "site_name": "スマイミー静岡 賃貸 熱海市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171359|貸マンション定期借家 熱海市東海岸町14-26": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "location": "熱海市東海岸町14-26",
-    "price_man": 20.0,
-    "area_sqm": 63.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171359",
-    "text": "貸マンション定期借家 熱海市東海岸町14-26",
-    "removed_on": "2026-07-26",
-    "site_name": "スマイミー静岡 賃貸 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167395|貸事務所定期借家 熱海市田原本町9-1": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-26",
@@ -351,17 +329,6 @@
     "removed_on": "2026-07-31",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148867|貸アパート 熱海市中央町10-10": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-07-31",
-    "location": "熱海市中央町10-10",
-    "price_man": 8.5,
-    "area_sqm": 55.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148867",
-    "text": "貸アパート 熱海市中央町10-10",
-    "removed_on": "2026-08-01",
-    "site_name": "スマイミー静岡 賃貸 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165152|貸事務所定期借家 熱海市田原本町9-1": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-31",
@@ -547,6 +514,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129872",
     "text": "貸アパート 熱海市桜町",
     "removed_on": "2026-08-04",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101612|貸店舗（建物一部）定期借家 熱海市田原本町9-1": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-05",
+    "location": "熱海市田原本町9-1",
+    "price_man": 9.35,
+    "area_sqm": 47.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101612",
+    "text": "貸店舗（建物一部）定期借家 熱海市田原本町9-1",
+    "removed_on": "2026-08-07",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175835|貸駐車場 熱海市田原本町1-12": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-05",
+    "location": "熱海市田原本町1-12",
+    "price_man": 2.2,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175835",
+    "text": "貸駐車場 熱海市田原本町1-12",
+    "removed_on": "2026-08-07",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174205|貸マンション 熱海市桃山町14-14": {
+    "first_seen": "2026-07-30",
+    "last_seen": "2026-08-05",
+    "location": "熱海市桃山町14-14",
+    "price_man": 15.46,
+    "area_sqm": 38.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174205",
+    "text": "貸マンション 熱海市桃山町14-14",
+    "removed_on": "2026-08-07",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }

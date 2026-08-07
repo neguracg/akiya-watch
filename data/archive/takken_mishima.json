@@ -273,5 +273,16 @@
     "text": "新築売住宅 三島市藤代町3-8",
     "removed_on": "2026-08-03",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163946/settle/1|売土地 三島市谷田1159-7": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-05",
+    "location": "三島市谷田1159-7",
+    "price_man": 1580,
+    "area_sqm": 243.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163946/settle/1",
+    "text": "売土地 三島市谷田1159-7",
+    "removed_on": "2026-08-07",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }
