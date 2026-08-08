@@ -340,17 +340,6 @@
     "removed_on": "2026-08-01",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000106047520/?bc=100498344530|フジタ第二熱海マンション": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-31",
-    "location": "静岡県熱海市東海岸町",
-    "price_man": 20.0,
-    "area_sqm": 63.4,
-    "url": "https://suumo.jp/chintai/jnc_000106047520/?bc=100498344530",
-    "text": "フジタ第二熱海マンション",
-    "removed_on": "2026-08-01",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000092537603/|スパックス熱海伊豆山": {
     "first_seen": "2026-08-01",
     "last_seen": "2026-08-01",
@@ -547,6 +536,39 @@
     "url": "https://suumo.jp/chintai/jnc_000108042998/?bc=100513439253",
     "text": "ビレッジハウス熱海2号棟",
     "removed_on": "2026-08-07",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106047520/|フジタ第二熱海マンション": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-07",
+    "location": "静岡県熱海市東海岸町",
+    "price_man": 20.0,
+    "area_sqm": 63.4,
+    "url": "https://suumo.jp/chintai/jnc_000106047520/",
+    "text": "フジタ第二熱海マンション",
+    "removed_on": "2026-08-08",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000099574307/|フジタ第二熱海マンション": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-07",
+    "location": "静岡県熱海市東海岸町",
+    "price_man": 25.0,
+    "area_sqm": 63.4,
+    "url": "https://suumo.jp/chintai/jnc_000099574307/",
+    "text": "フジタ第二熱海マンション",
+    "removed_on": "2026-08-08",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904|ＪＲ伊東線 伊豆多賀駅 2階建 築34年": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-07",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 12.3,
+    "area_sqm": 80.1,
+    "url": "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904",
+    "text": "ＪＲ伊東線 伊豆多賀駅 2階建 築34年",
+    "removed_on": "2026-08-08",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }

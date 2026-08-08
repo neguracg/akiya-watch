@@ -878,5 +878,16 @@
     "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
     "removed_on": "2026-08-07",
     "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/|富士見台 2450万円": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-08-07",
+    "location": "静岡県三島市富士見台",
+    "price_man": 2450,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20161577/",
+    "text": "富士見台 2450万円",
+    "removed_on": "2026-08-08",
+    "site_name": "SUUMO 中古戸建 三島市"
   }
 }

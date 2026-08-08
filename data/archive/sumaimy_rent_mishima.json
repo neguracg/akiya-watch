@@ -87,17 +87,6 @@
     "removed_on": "2026-08-01",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174507|貸駐車場 三島市中田町12―7": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-31",
-    "location": "三島市中田町12―7",
-    "price_man": 0.7,
-    "area_sqm": null,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174507",
-    "text": "貸駐車場 三島市中田町12―7",
-    "removed_on": "2026-08-01",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/130221|貸アパート 三島市東本町２丁目５－７５": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-31",
@@ -195,6 +184,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171617",
     "text": "貸テラスハウス 三島市光ケ丘",
     "removed_on": "2026-08-07",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173039|貸店舗（建物一括） 三島市玉川341": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-07",
+    "location": "三島市玉川341",
+    "price_man": 44.0,
+    "area_sqm": 370.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173039",
+    "text": "貸店舗（建物一括） 三島市玉川341",
+    "removed_on": "2026-08-08",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

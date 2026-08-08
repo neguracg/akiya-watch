@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59516/index.html|静岡県沼津市泉町": {
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-08-08",
+      "location": "静岡県沼津市泉町",
+      "price_man": 3190,
+      "area_sqm": 210.1,
+      "url": "https://www.snjhkk.com/s_r_59516/index.html",
+      "text": "静岡県沼津市泉町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 50.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59515/index.html|静岡県沼津市東間門": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-07",
+      "last_seen": "2026-08-08",
       "location": "静岡県沼津市東間門",
       "price_man": 2590,
       "area_sqm": 107.6,
@@ -30,6 +59,6 @@
       "tab": "home"
     }
   },
-  "hash": "66c99fcde4f938cb",
-  "fetched_at": "2026-08-07T22:54:11.398419"
+  "hash": "bf2326526f10c072",
+  "fetched_at": "2026-08-08T22:47:34.840768"
 }
