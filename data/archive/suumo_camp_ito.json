@@ -108,5 +108,16 @@
     "text": "宇佐美（宇佐美駅） 350万円",
     "removed_on": "2026-08-07",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76831760/|八幡野（伊豆高原駅） 830万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-08",
+    "location": "静岡県伊東市八幡野",
+    "price_man": 830,
+    "area_sqm": 633.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76831760/",
+    "text": "八幡野（伊豆高原駅） 830万円",
+    "removed_on": "2026-08-09",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

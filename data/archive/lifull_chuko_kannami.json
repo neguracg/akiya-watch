@@ -53,5 +53,16 @@
     "text": "JR東海道本線 熱海駅 15km",
     "removed_on": "2026-08-02",
     "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1341600001772/|南箱根ダイヤランド戸建": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-08-08",
+    "location": "南箱根ダイヤランド戸建",
+    "price_man": 3150,
+    "area_sqm": 337.0,
+    "url": "https://www.homes.co.jp/kodate/b-1341600001772/",
+    "text": "南箱根ダイヤランド戸建",
+    "removed_on": "2026-08-09",
+    "site_name": "LIFULL 中古戸建 函南町"
   }
 }

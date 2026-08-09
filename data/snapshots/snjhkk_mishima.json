@@ -1,11 +1,40 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59518/index.html|静岡県三島市松が丘": {
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "location": "静岡県三島市松が丘",
+      "price_man": 2500,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59518/index.html",
+      "text": "静岡県三島市松が丘",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59442/index.html|静岡県三島市安久": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "location": "静岡県三島市安久",
-      "price_man": 2980,
-      "area_sqm": 101.4,
+      "price_man": 3180,
+      "area_sqm": 100.0,
       "url": "https://www.snjhkk.com/s_r_59442/index.html",
       "text": "静岡県三島市安久",
       "shubetsu": "更地",
@@ -20,7 +49,7 @@
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 97.2,
+      "tsubo_man": 105.1,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59393/index.html|静岡県三島市富士ビレッジ": {
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-08",
+      "last_seen": "2026-08-09",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 4183,
       "area_sqm": 170.7,
@@ -59,6 +88,6 @@
       "tab": "home"
     }
   },
-  "hash": "84ad2b4c7acb8918",
-  "fetched_at": "2026-08-08T22:37:04.041394"
+  "hash": "46f14fbafef14a2a",
+  "fetched_at": "2026-08-09T22:38:30.458550"
 }
