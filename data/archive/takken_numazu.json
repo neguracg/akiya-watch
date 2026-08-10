@@ -493,5 +493,27 @@
     "text": "売マンション 沼津市上土町",
     "removed_on": "2026-08-07",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157909/settle/1|売土地 沼津市若葉町": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-08-09",
+    "location": "沼津市若葉町",
+    "price_man": 2800,
+    "area_sqm": 219.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157909/settle/1",
+    "text": "売土地 沼津市若葉町",
+    "removed_on": "2026-08-10",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171132/settle/1|売土地 沼津市本字千本郷林": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-08-09",
+    "location": "沼津市本字千本郷林",
+    "price_man": 1330,
+    "area_sqm": 284.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171132/settle/1",
+    "text": "売土地 沼津市本字千本郷林",
+    "removed_on": "2026-08-10",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

@@ -2804,17 +2804,6 @@
     "removed_on": "2026-08-04",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000171/|三島市光ケ丘 (三島駅)": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "location": "三島市光ケ丘 (三島駅)",
-    "price_man": 2100,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000171/",
-    "text": "三島市光ケ丘 (三島駅)",
-    "removed_on": "2026-08-04",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-1490460002400/|三島市徳倉5丁目 (長泉なめり駅)": {
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-04",
@@ -2958,17 +2947,6 @@
     "removed_on": "2026-08-09",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-33300310000008/|三島市徳倉4丁目 (三島駅)": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-08",
-    "location": "三島市徳倉4丁目 (三島駅)",
-    "price_man": 780,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33300310000008/",
-    "text": "三島市徳倉4丁目 (三島駅)",
-    "removed_on": "2026-08-09",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-1292700001245/|三島市南原菅 (箱根湯本駅)": {
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
@@ -2978,6 +2956,28 @@
     "url": "https://www.homes.co.jp/tochi/b-1292700001245/",
     "text": "三島市南原菅 (箱根湯本駅)",
     "removed_on": "2026-08-09",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1529140000725/|三島市萩 (長泉なめり駅)": {
+    "first_seen": "2026-08-05",
+    "last_seen": "2026-08-09",
+    "location": "三島市萩 (長泉なめり駅)",
+    "price_man": 1680,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1529140000725/",
+    "text": "三島市萩 (長泉なめり駅)",
+    "removed_on": "2026-08-10",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33332300000037/|三島市谷田 (三島二日町駅)": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-09",
+    "location": "三島市谷田 (三島二日町駅)",
+    "price_man": 2500,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33332300000037/",
+    "text": "三島市谷田 (三島二日町駅)",
+    "removed_on": "2026-08-10",
     "site_name": "LIFULL 土地 三島市"
   }
 }

@@ -97,5 +97,27 @@
     "text": "売マンション 伊豆の国市長岡",
     "removed_on": "2026-08-07",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165654/settle/1|売住宅 伊豆の国市三福": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-09",
+    "location": "伊豆の国市三福",
+    "price_man": 250,
+    "area_sqm": 137.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165654/settle/1",
+    "text": "売住宅 伊豆の国市三福",
+    "removed_on": "2026-08-10",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157921/settle/1|売土地 伊豆の国市三福": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-09",
+    "location": "伊豆の国市三福",
+    "price_man": 250,
+    "area_sqm": 137.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157921/settle/1",
+    "text": "売土地 伊豆の国市三福",
+    "removed_on": "2026-08-10",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }
