@@ -2308,5 +2308,27 @@
     "text": "貸店舗・事務所 沼津市大手町１丁目1-2",
     "removed_on": "2026-08-10",
     "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135478|貸マンション 沼津市吉田町": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-10",
+    "location": "沼津市吉田町",
+    "price_man": 4.5,
+    "area_sqm": 30.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135478",
+    "text": "貸マンション 沼津市吉田町",
+    "removed_on": "2026-08-11",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/78290|貸マンション 沼津市高沢町": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-10",
+    "location": "沼津市高沢町",
+    "price_man": 7.0,
+    "area_sqm": 59.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/78290",
+    "text": "貸マンション 沼津市高沢町",
+    "removed_on": "2026-08-11",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
   }
 }
