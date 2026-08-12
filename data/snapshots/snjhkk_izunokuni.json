@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59395/index.html|静岡県伊豆の国市中島": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市中島",
       "price_man": 3980,
       "area_sqm": 239.0,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59246/index.html|静岡県伊豆の国市長岡": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 1180,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59044/index.html|静岡県伊豆の国市長岡": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 1400,
       "area_sqm": 354.1,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_58978/index.html|静岡県伊豆の国市北江間": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市北江間",
       "price_man": 800,
       "area_sqm": 3244.8,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_58976/index.html|静岡県伊豆の国市原木": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市原木",
       "price_man": 1500,
       "area_sqm": 173.3,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_58887/index.html|静岡県伊豆の国市吉田": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市吉田",
       "price_man": 1750,
       "area_sqm": 422.4,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_58599/index.html|静岡県伊豆の国市原木": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市原木",
       "price_man": 750,
       "area_sqm": 117.3,
@@ -205,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_58594/index.html|静岡県伊豆の国市長崎": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市長崎",
       "price_man": 990,
       "area_sqm": 200.7,
@@ -234,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_58513/index.html|静岡県伊豆の国市古奈": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 2380,
       "area_sqm": 396.0,
@@ -263,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_58269/index.html|静岡県伊豆の国市四日町": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 1990,
       "area_sqm": 91.2,
@@ -292,7 +292,7 @@
     },
     "https://www.snjhkk.com/s_r_58164/index.html|静岡県伊豆の国市寺家": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-11",
+      "last_seen": "2026-08-12",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 1290,
       "area_sqm": 241.0,
@@ -320,6 +320,6 @@
       "tab": "home"
     }
   },
-  "hash": "f97552ac0a4b2504",
-  "fetched_at": "2026-08-11T22:44:19.654674"
+  "hash": "9dfa6ec11a338943",
+  "fetched_at": "2026-08-12T22:42:38.503135"
 }

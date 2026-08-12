@@ -670,26 +670,48 @@
     "removed_on": "2026-08-11",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/b45c4b84f164c862b3ffd6153b7f6af7a752c00b/|フォンティーヌ小高弐番館": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-10",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 6.0,
-    "area_sqm": 55.2,
-    "url": "https://www.homes.co.jp/chintai/room/b45c4b84f164c862b3ffd6153b7f6af7a752c00b/",
-    "text": "フォンティーヌ小高弐番館",
-    "removed_on": "2026-08-11",
+  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-11",
+    "location": "静岡県田方郡函南町仁田191-6",
+    "price_man": 7.4,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
+    "text": "オーポン　ヒルズ",
+    "removed_on": "2026-08-12",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/e62413ef601a45c09a28680fc2d80967a1e5ae5a/|フォンティーヌ小高弐番館": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-10",
+  "https://www.homes.co.jp/chintai/room/9a2638e8eb249dd4d4780d12c0c4ae98b6c8a7ee/|グランドール高城Ｃ": {
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-11",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.4,
+    "area_sqm": 63.5,
+    "url": "https://www.homes.co.jp/chintai/room/9a2638e8eb249dd4d4780d12c0c4ae98b6c8a7ee/",
+    "text": "グランドール高城Ｃ",
+    "removed_on": "2026-08-12",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d77935e1815b67a3a4270da315c5fd843994f00a/|サンモール・カーサ": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
     "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.5,
-    "area_sqm": 55.2,
-    "url": "https://www.homes.co.jp/chintai/room/e62413ef601a45c09a28680fc2d80967a1e5ae5a/",
-    "text": "フォンティーヌ小高弐番館",
-    "removed_on": "2026-08-11",
+    "price_man": 6.0,
+    "area_sqm": 50.8,
+    "url": "https://www.homes.co.jp/chintai/room/d77935e1815b67a3a4270da315c5fd843994f00a/",
+    "text": "サンモール・カーサ",
+    "removed_on": "2026-08-12",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/95ea3b002bd7f085c1705857ba2033a713f84405/|サンモール・カーサ": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 6.0,
+    "area_sqm": 50.8,
+    "url": "https://www.homes.co.jp/chintai/room/95ea3b002bd7f085c1705857ba2033a713f84405/",
+    "text": "サンモール・カーサ",
+    "removed_on": "2026-08-12",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

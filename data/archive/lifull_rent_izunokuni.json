@@ -692,28 +692,6 @@
     "removed_on": "2026-08-11",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/0bdd9a62c60bc6edebbe566e1dca7b31234ccbf5/|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-10",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 6.5,
-    "area_sqm": 58.5,
-    "url": "https://www.homes.co.jp/chintai/room/0bdd9a62c60bc6edebbe566e1dca7b31234ccbf5/",
-    "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ",
-    "removed_on": "2026-08-11",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/767a17c52abcd70ec3a6daf93e2932f155c625c7/|Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-10",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 5.7,
-    "area_sqm": 46.8,
-    "url": "https://www.homes.co.jp/chintai/room/767a17c52abcd70ec3a6daf93e2932f155c625c7/",
-    "text": "Ｃａｌｍｅ　Ｋｕｒｉｎｏｋｉ",
-    "removed_on": "2026-08-11",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/d4195a61c7187eaece5e5606c2c7e74f9b8fb514/|サニーハウス微笑II": {
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-10",
@@ -789,6 +767,28 @@
     "url": "https://www.homes.co.jp/chintai/room/f19f238321ab4eea247d7cfae9daca6cdf2b8ff2/",
     "text": "オーレ日吉",
     "removed_on": "2026-08-11",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/901d0cbfe7e09bde3cbe5eec961240bd1fbdc2c4/|La・Casa": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-11",
+    "location": "静岡県伊豆の国市寺家67-2",
+    "price_man": 12.2,
+    "area_sqm": 86.1,
+    "url": "https://www.homes.co.jp/chintai/room/901d0cbfe7e09bde3cbe5eec961240bd1fbdc2c4/",
+    "text": "La・Casa",
+    "removed_on": "2026-08-12",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/|パーシモンスクエア": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-11",
+    "location": "静岡県伊豆の国市寺家705-1",
+    "price_man": 6.9,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/",
+    "text": "パーシモンスクエア",
+    "removed_on": "2026-08-12",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }
