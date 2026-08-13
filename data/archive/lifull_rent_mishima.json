@@ -1142,5 +1142,16 @@
     "text": "レアールマンションソレイユ",
     "removed_on": "2026-08-12",
     "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d2dc1a93cfe8c0c0f2d7b52b0f73a8b4feeaa862/|グランポレール": {
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-12",
+    "location": "静岡県三島市壱町田",
+    "price_man": 6.2,
+    "area_sqm": 40.1,
+    "url": "https://www.homes.co.jp/chintai/room/d2dc1a93cfe8c0c0f2d7b52b0f73a8b4feeaa862/",
+    "text": "グランポレール",
+    "removed_on": "2026-08-13",
+    "site_name": "LIFULL 賃貸 三島市"
   }
 }

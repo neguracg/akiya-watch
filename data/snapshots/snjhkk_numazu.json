@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59519/index.html|静岡県沼津市浅間町": {
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "location": "静岡県沼津市浅間町",
       "price_man": 2590,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59516/index.html|静岡県沼津市泉町": {
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "location": "静岡県沼津市泉町",
       "price_man": 3190,
       "area_sqm": 210.1,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59515/index.html|静岡県沼津市東間門": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-12",
+      "last_seen": "2026-08-13",
       "location": "静岡県沼津市東間門",
       "price_man": 2490,
       "area_sqm": 107.6,
@@ -88,6 +88,6 @@
       "tab": "home"
     }
   },
-  "hash": "fbfe02ba59ca4dcc",
-  "fetched_at": "2026-08-12T22:59:51.252197"
+  "hash": "6713dcd1b648c690",
+  "fetched_at": "2026-08-13T23:00:54.229921"
 }
