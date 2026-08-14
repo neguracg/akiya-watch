@@ -31,35 +31,6 @@
       "machi": "伊豆の国市",
       "tab": "camp"
     },
-    "https://jmty.jp/shizuoka/est-land/article-1r1lfh|分割払い可！ 例:月々2.5万(頭金別途）富士市川成島　 国1バ...": {
-      "first_seen": "2026-08-09",
-      "last_seen": "2026-08-14",
-      "location": "静岡 富士市 土地販売/土地売買",
-      "price_man": null,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-land/article-1r1lfh",
-      "text": "分割払い可！ 例:月々2.5万(頭金別途）富士市川成島　 国1バ...",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "富士市",
-      "tab": "camp"
-    },
     "https://jmty.jp/shizuoka/est-land/article-1jma8g|No.E762【静岡県伊豆市冷川】別荘地1筆あげます！": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-08-14",
@@ -507,6 +478,6 @@
       "tab": "camp"
     }
   },
-  "hash": "30602f16e970a5b1",
-  "fetched_at": "2026-08-14T06:22:42.764155"
+  "hash": "e4d9a83be7f48d11",
+  "fetched_at": "2026-08-14T22:32:16.903115"
 }

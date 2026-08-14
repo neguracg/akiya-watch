@@ -65,17 +65,6 @@
     "removed_on": "2026-07-10",
     "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_59097/index.html|静岡県三島市西若町": {
-    "first_seen": "2026-07-17",
-    "last_seen": "2026-07-18",
-    "location": "静岡県三島市西若町",
-    "price_man": 1630,
-    "area_sqm": null,
-    "url": "https://www.snjhkk.com/s_r_59097/index.html",
-    "text": "静岡県三島市西若町",
-    "removed_on": "2026-07-19",
-    "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
-  },
   "https://www.snjhkk.com/s_r_59235/index.html|静岡県三島市東町": {
     "first_seen": "2026-07-11",
     "last_seen": "2026-07-23",
@@ -85,6 +74,17 @@
     "url": "https://www.snjhkk.com/s_r_59235/index.html",
     "text": "静岡県三島市東町",
     "removed_on": "2026-07-24",
+    "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59442/index.html|静岡県三島市安久": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-14",
+    "location": "静岡県三島市安久",
+    "price_man": 3180,
+    "area_sqm": 100.0,
+    "url": "https://www.snjhkk.com/s_r_59442/index.html",
+    "text": "静岡県三島市安久",
+    "removed_on": "2026-08-14",
     "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
   }
 }

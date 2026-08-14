@@ -857,14 +857,14 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1489770000566/|伊豆の国市奈古谷 中古戸建": {
-      "first_seen": "2026-07-31",
+    "https://www.homes.co.jp/kodate/b-33332300000035/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分": {
+      "first_seen": "2026-08-14",
       "last_seen": "2026-08-14",
-      "location": "伊豆の国市奈古谷 中古戸建",
-      "price_man": 250,
-      "area_sqm": 97.7,
-      "url": "https://www.homes.co.jp/kodate/b-1489770000566/",
-      "text": "伊豆の国市奈古谷 中古戸建",
+      "location": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分",
+      "price_man": 550,
+      "area_sqm": 392.7,
+      "url": "https://www.homes.co.jp/kodate/b-33332300000035/",
+      "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分",
       "shubetsu": "空き家",
       "shubetsu_reason": "掲載に空き家表記",
       "madori": null,
@@ -874,19 +874,19 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 8.5,
-      "verdict": "不適合",
+      "tsubo_man": 4.6,
+      "verdict": "適合",
       "interest": [],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
-      "machi": "伊豆の国市",
+      "machi": "",
       "tab": "home"
     }
   },
-  "hash": "46b1b156077d56a9",
-  "fetched_at": "2026-08-14T06:09:16.326335"
+  "hash": "563e0a6597f0aaea",
+  "fetched_at": "2026-08-14T22:19:03.599026"
 }

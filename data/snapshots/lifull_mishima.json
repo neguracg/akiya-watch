@@ -467,6 +467,37 @@
       "machi": "三島市",
       "tab": "home"
     },
+    "https://www.homes.co.jp/tochi/b-1292700001245/|三島市南原菅 (箱根湯本駅)": {
+      "first_seen": "2026-08-14",
+      "last_seen": "2026-08-14",
+      "location": "三島市南原菅 (箱根湯本駅)",
+      "price_man": 380,
+      "area_sqm": null,
+      "url": "https://www.homes.co.jp/tochi/b-1292700001245/",
+      "text": "三島市南原菅 (箱根湯本駅)",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/tochi/b-33306070000013/|三島市幸原町2丁目 (三島駅)": {
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-14",
@@ -845,37 +876,8 @@
       "zokujinsei": false,
       "machi": "三島市",
       "tab": "home"
-    },
-    "https://www.homes.co.jp/tochi/b-1500050000637/|三島市沢地 (三島駅)": {
-      "first_seen": "2026-08-14",
-      "last_seen": "2026-08-14",
-      "location": "三島市沢地 (三島駅)",
-      "price_man": 2800,
-      "area_sqm": null,
-      "url": "https://www.homes.co.jp/tochi/b-1500050000637/",
-      "text": "三島市沢地 (三島駅)",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "home"
     }
   },
-  "hash": "094405fe7b6b21fb",
-  "fetched_at": "2026-08-14T06:14:22.165717"
+  "hash": "b818b22fca507b28",
+  "fetched_at": "2026-08-14T22:23:31.411058"
 }
