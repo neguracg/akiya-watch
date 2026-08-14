@@ -4062,6 +4062,8 @@ function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#
 // 賃貸タブ専用ヒートマップ（家賃は万円/月・面積は建物専有面積なので売買の土地面積とは尺度が違う）
 function hRent(v){if(v==null)return'';if(v<=3)return'background:#1a7d36;color:#fff';if(v<=4)return'background:#66bb6a';if(v<=5)return'background:#ffe082';if(v<=7)return'background:#ffb74d';return'background:#ef9a9a';}
 function hAreaRent(v){if(v==null)return'';if(v>=90)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=25)return'background:#ffb74d';return'background:#ef9a9a';}
+// 検出日の鮮度ヒートマップ（新しいほど濃い緑。4週間超は無着色＝従来どおり）
+function hFirstSeen(v){if(v==null||v<0)return'';if(v<=7)return'background:#1a7d36;color:#fff';if(v<=14)return'background:#66bb6a';if(v<=21)return'background:#ffe082';if(v<=28)return'background:#ffb74d';return'';}
 function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk';}
 function normLoc(s){return (s||'').replace('静岡県','').replace(/\s+/g,'');}
 
@@ -4498,7 +4500,7 @@ function cellHtmlInner(k,d,g){
     }
     case 'first_seen':{
       const ago=(d.days_ago==null||d.days_ago<0)?'':('（'+d.days_ago+'日前）');
-      return "<td>"+esc(d.first_seen||'—')+esc(ago)+"</td>";
+      return "<td style='"+hFirstSeen(d.days_ago)+"'>"+esc(d.first_seen||'—')+esc(ago)+"</td>";
     }
     case 'info':{
       let info='';
@@ -4552,6 +4554,7 @@ function legendRow(ncol,tab){
     return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
       +"<span class=lgline>家賃(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤3</b><b style='background:#66bb6a'>≤4</b><b style='background:#ffe082'>≤5</b><b style='background:#ffb74d'>≤7</b><b style='background:#ef9a9a'>&gt;7</b> 万円/月</span>"
       +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥90</b><b style='background:#66bb6a'>≥60</b><b style='background:#ffe082'>≥40</b><b style='background:#ffb74d'>≥25</b> ㎡</span>"
+      +"<span class=lgline>検出日(新しいほど濃い緑):<b style='background:#1a7d36;color:#fff'>1週間以内</b><b style='background:#66bb6a'>2週間以内</b><b style='background:#ffe082'>3週間以内</b><b style='background:#ffb74d'>4週間以内</b><b>それ以前</b></span>"
       +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
       +"</td></tr></tfoot>";
   }
@@ -4559,6 +4562,7 @@ function legendRow(ncol,tab){
     +"<span class=lgline>価格(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b> 万円</span>"
     +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b> ㎡</span>"
     +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"
+    +"<span class=lgline>検出日(新しいほど濃い緑):<b style='background:#1a7d36;color:#fff'>1週間以内</b><b style='background:#66bb6a'>2週間以内</b><b style='background:#ffe082'>3週間以内</b><b style='background:#ffb74d'>4週間以内</b><b>それ以前</b></span>"
     +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
     +"</td></tr></tfoot>";
 }
