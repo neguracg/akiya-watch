@@ -1,6 +1,6 @@
 # akiya-watch 監視ソース一覧（SOURCES.md）
 
-最終更新: 2026-08-13 23:06（watch.py 実行時に自動更新）
+最終更新: 2026-08-14 06:38（watch.py 実行時に自動更新）
 
 | 区分 | ソース名 | 対象市町・種別 | URL | 状態 | 最終HTTP | 件数 |
 |---|---|---|---|---|---|---|
@@ -45,11 +45,11 @@
 | ③-B | 真野開発 売買物件一覧 | 地場業者/売地・中古戸建 | https://manokaihatsu.com/estate/ | 稼働(adapter) | 200 | 5 |
 | ③-B | 不動産創研 全物件一覧 | 地場業者/売地・中古戸建 | https://www.fudosansoken.jp/sp-allbukken/ | 稼働(adapter) | 200 | 22 |
 | ③-B | 伊豆総合企画 売買物件一覧 | 地場業者/売地 | https://izu-s-k.fudohsan.jp/menu/?bukken=jsearch&shu=1 | 稼働(adapter) | 200 | 10 |
-| ③-B | 家っち(新日本住建販売) 函南町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-208/ | 稼働(adapter) | 200 | 11 |
-| ③-B | 家っち(新日本住建販売) 伊豆の国市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-233/ | 稼働(adapter) | 200 | 11 |
-| ③-B | 家っち(新日本住建販売) 三島市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-241/ | 稼働(adapter) | 200 | 3 |
+| ③-B | 家っち(新日本住建販売) 函南町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-208/ | 稼働(adapter) | 200 | 14 |
+| ③-B | 家っち(新日本住建販売) 伊豆の国市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-233/ | 稼働(adapter) | 200 | 15 |
+| ③-B | 家っち(新日本住建販売) 三島市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-241/ | 稼働(adapter) | 200 | 8 |
 | ③-B | 家っち(新日本住建販売) 沼津市 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-230/ | 稼働(adapter) | 200 | 3 |
-| ③-B | 家っち(新日本住建販売) 清水町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-219/ | 稼働(adapter) | 200 | 15 |
+| ③-B | 家っち(新日本住建販売) 清水町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-219/ | 稼働(adapter) | 200 | 16 |
 | ③-B | 家っち(新日本住建販売) 長泉町 土地一覧 | 地場業者/売地 | https://www.snjhkk.com/list/1-4/0-226/ | 未実行 | — | — |
 | ③-B | U2JAPAN三島店 土地一覧 | 地場業者/売地 | https://www.u2japan-mishima-k.com/land/ | 稼働(adapter) | 200 | 60 |
 | ⑤ | BIT 沼津支部 売却スケジュール | 競売 | https://www.bit.courts.go.jp/app/schedule/pr005/h01?courtId=31831 | 稼働(ハッシュ) | 200 | — |
@@ -58,16 +58,16 @@
 | ⑥ | 静岡県 未利用県有地 売却・貸付（行政経営課） | 県有地 | https://www.pref.shizuoka.jp/kensei/nyusatsukobai/kenyuchi/1002352/index.html | 稼働(ハッシュ) | 200 | — |
 | ⑥ | 静岡県 先着順 県有地売却物件 | 県有地 | https://www.pref.shizuoka.jp/kensei/nyusatsukobai/kenyuchi/1002352/1011983.html | 稼働(ハッシュ) | 200 | — |
 | ⑥ | 東海財務局 公示中 一般競争入札（売却） | 国有地 | https://lfb.mof.go.jp/tokai/kanzai/pagetokaihp024000205.html | 稼働(ハッシュ) | 200 | — |
-| ⑦ | 山いちば 静岡県 山林物件 | 山林専門 | https://yamaichiba.com/category/sanrin-shizuoka/ | 稼働(adapter) | 200 | 1 |
-| ⑦ | 山林バンク 全国 山林情報 | 山林専門 | https://sanrinbank.jp/ | 稼働(adapter) | 200 | 0 |
-| ⑦ | 日本マウント 静岡県 リゾート・田舎物件 | 田舎暮らし/別荘 | https://resort-estate.com/select/mode:shizuoka | 稼働(adapter) | 200 | 114 |
+| ⑦ | 山いちば 静岡県 山林物件 | 山林専門 | https://yamaichiba.com/category/sanrin-shizuoka/ | 要確認(HTTP ERROR) | ERROR | — |
+| ⑦ | 山林バンク 全国 山林情報 | 山林専門 | https://sanrinbank.jp/ | 要確認(HTTP ERROR) | ERROR | — |
+| ⑦ | 日本マウント 静岡県 リゾート・田舎物件 | 田舎暮らし/別荘 | https://resort-estate.com/select/mode:shizuoka | 稼働(adapter) | 200 | 95 |
 | ⑦ | 天城オートキャンプ キャンプ場用地一覧 | キャンプ場用地 | https://www.izuhighland.jp/ドックランとキャンプ場用地一覧 | 稼働(adapter) | 200 | 0 |
 | ⑦ | 家いちば 山林カテゴリ | 個人直/山林 | https://www.ieichiba.com/category/%E5%B1%B1%E6%9E%97 | 稼働(adapter) | 200 | 0 |
 | ⑦ | 東海ヤジマ 伊豆の物件一覧（土地・戸建） | 地場業者/山林・土地 | https://tokaiyajima.com/bukken/os2 | 稼働(adapter) | 200 | 91 |
 | ⑦ | 田舎暮らし物件.com（いなかも家探し） 伊豆エリア | 田舎暮らし/別荘（複数業者アグリゲータ） | https://resort-bukken.com/izu | 稼働(adapter) | 200 | 44 |
 | ① | SUUMO 土地 伊豆市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_izu/ | 稼働(adapter) | 200 | 9 |
 | ① | SUUMO 土地 熱海市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_atami/ | 稼働(adapter) | 200 | 62 |
-| ① | SUUMO 土地 伊東市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_ito/ | 未実行 | — | — |
+| ① | SUUMO 土地 伊東市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_ito/ | 稼働(adapter) | 200 | 109 |
 | ① | SUUMO 土地 御殿場市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_gotemba/ | 未実行 | — | — |
 | ① | SUUMO 土地 下田市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_shimoda/ | 未実行 | — | — |
 | ① | SUUMO 土地 富士市 | 土地 | https://suumo.jp/tochi/shizuoka/sc_fuji/ | 未実行 | — | — |
@@ -78,13 +78,13 @@
 | ⑦ | 森林.net 東海 森林物件一覧 | 森林マッチング | https://www.shin-rin.net/list/tokai | 稼働(adapter) | 200 | 0 |
 | ④ | ジモティー 静岡県 土地（キャンプ場用） | 土地/個人 | https://jmty.jp/shizuoka/est-land | 稼働(adapter) | 200 | 17 |
 | ⑧ | SUUMO 賃貸 田方郡（函南町） | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_tagatagun/ | 稼働(adapter) | 200 | 361 |
-| ⑧ | SUUMO 賃貸 伊豆の国市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 307 |
-| ⑧ | SUUMO 賃貸 三島市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_mishima/ | 稼働(adapter) | 200 | 723 |
-| ⑧ | SUUMO 賃貸 沼津市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 803 |
+| ⑧ | SUUMO 賃貸 伊豆の国市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_izunokuni/ | 稼働(adapter) | 200 | 436 |
+| ⑧ | SUUMO 賃貸 三島市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_mishima/ | 稼働(adapter) | 200 | 722 |
+| ⑧ | SUUMO 賃貸 沼津市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_numazu/ | 稼働(adapter) | 200 | 802 |
 | ⑧ | SUUMO 賃貸 熱海市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_atami/ | 稼働(adapter) | 200 | 86 |
-| ⑧ | SUUMO 賃貸 裾野市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_susono/ | 稼働(adapter) | 200 | 365 |
+| ⑧ | SUUMO 賃貸 裾野市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_susono/ | 稼働(adapter) | 200 | 367 |
 | ⑧ | SUUMO 賃貸 伊豆市 | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_izu/ | 稼働(adapter) | 200 | 54 |
-| ⑧ | SUUMO 賃貸 駿東郡（清水/長泉） | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 829 |
+| ⑧ | SUUMO 賃貸 駿東郡（清水/長泉） | 賃貸 | https://suumo.jp/chintai/shizuoka/sc_suntogun/ | 稼働(adapter) | 200 | 735 |
 | ⑧ | ジモティー 静岡県 賃貸 | 賃貸 | https://jmty.jp/shizuoka/est-hou | 未実行 | — | — |
 | ⑧ | CHINTAI 伊豆の国市 | 賃貸 | https://www.chintai.net/sizuoka/area/22225/list/ | 稼働(adapter) | 200 | 24 |
 | ⑧ | いい部屋ネット 田方郡函南町 | 賃貸 | https://www.eheya.net/shizuoka/area/22325/search/ | 要確認(HTTP 403) | 403 | — |
@@ -99,9 +99,9 @@
 | ⑧ | スマイミー静岡 賃貸 駿東郡清水町 | 賃貸 | https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E6%B8%85%E6%B0%B4%E7%94%BA/ | 稼働(adapter) | 200 | 30 |
 | ⑧ | スマイミー静岡 賃貸 裾野市 | 賃貸 | https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E8%A3%BE%E9%87%8E%E5%B8%82/ | 未実行 | — | — |
 | ⑧ | スマイミー静岡 賃貸 伊豆市 | 賃貸 | https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E5%B8%82/ | 未実行 | — | — |
-| ⑧ | LIFULL 賃貸 田方郡函南町 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/tagata_kannami-city/list/ | 稼働(adapter) | 200 | 54 |
-| ⑧ | LIFULL 賃貸 伊豆の国市 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/izunokuni-city/list/ | 稼働(adapter) | 200 | 57 |
-| ⑧ | LIFULL 賃貸 三島市 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 76 |
+| ⑧ | LIFULL 賃貸 田方郡函南町 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/tagata_kannami-city/list/ | 稼働(adapter) | 200 | 59 |
+| ⑧ | LIFULL 賃貸 伊豆の国市 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/izunokuni-city/list/ | 稼働(adapter) | 200 | 60 |
+| ⑧ | LIFULL 賃貸 三島市 | 賃貸 | https://www.homes.co.jp/chintai/shizuoka/mishima-city/list/ | 稼働(adapter) | 200 | 77 |
 | ⑧ | 静岡県営住宅（抽選・所得制限あり） | 公営住宅/賃貸 | https://www.sjkk.or.jp/kenei/list.php | 要確認(HTTP ERROR) | ERROR | — |
 | ⑧ | ビレッジハウス 沼津市（敷金礼金0円） | 賃貸/敷礼0 | https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/ | 稼働(adapter) | 200 | 2 |
 | ⑧ | ビレッジハウス 伊豆の国市（敷金礼金0円） | 賃貸/敷礼0 | https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/ | 稼働(adapter) | 200 | 1 |

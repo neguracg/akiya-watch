@@ -1,15 +1,4 @@
 {
-  "https://suumo.jp/chintai/jnc_000105384921/?bc=100512630201|天王ビューハイツ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県伊豆市修善寺",
-    "price_man": 4.2,
-    "area_sqm": 42.4,
-    "url": "https://suumo.jp/chintai/jnc_000105384921/?bc=100512630201",
-    "text": "天王ビューハイツ",
-    "removed_on": "2026-07-25",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000102146354/?bc=100466925593|コーポ平和堂ビル": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -626,17 +615,6 @@
     "removed_on": "2026-08-09",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000077828348/?bc=100511757913|ア・ラ・モード": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-08",
-    "location": "静岡県伊豆市修善寺",
-    "price_man": 4.1,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000077828348/?bc=100511757913",
-    "text": "ア・ラ・モード",
-    "removed_on": "2026-08-09",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000108875419/?bc=100520190891|エルディム室野Ａ": {
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-08",
@@ -678,17 +656,6 @@
     "area_sqm": 54.6,
     "url": "https://suumo.jp/chintai/jnc_000105691713/?bc=100517866478",
     "text": "フレグランス中伊豆",
-    "removed_on": "2026-08-10",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
-  "https://suumo.jp/chintai/jnc_000095190800/?bc=100492758499|ファミール純": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-09",
-    "location": "静岡県伊豆市下白岩",
-    "price_man": 4.5,
-    "area_sqm": 38.8,
-    "url": "https://suumo.jp/chintai/jnc_000095190800/?bc=100492758499",
-    "text": "ファミール純",
     "removed_on": "2026-08-10",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
@@ -901,17 +868,6 @@
     "removed_on": "2026-08-13",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000108742945/?bc=100512629713|フレグランス中伊豆": {
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-08-12",
-    "location": "静岡県伊豆市上白岩",
-    "price_man": 4.0,
-    "area_sqm": 54.6,
-    "url": "https://suumo.jp/chintai/jnc_000108742945/?bc=100512629713",
-    "text": "フレグランス中伊豆",
-    "removed_on": "2026-08-13",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000106433981/?bc=100515431639|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年": {
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
@@ -956,15 +912,92 @@
     "removed_on": "2026-08-13",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000108298238/?bc=100515431668|伊豆箱根鉄道駿豆線 大仁駅 2階建 築38年": {
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-08-12",
+  "https://suumo.jp/chintai/jnc_000106433983/?bc=100515469380|伊豆箱根鉄道駿豆線 大仁駅 2階建 築27年": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市牧之郷",
+    "price_man": 4.6,
+    "area_sqm": 39.4,
+    "url": "https://suumo.jp/chintai/jnc_000106433983/?bc=100515469380",
+    "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築27年",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742945/?bc=100503596480|フレグランス中伊豆": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.0,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000108742945/?bc=100503596480",
+    "text": "フレグランス中伊豆",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000106433981/?bc=100515469479|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.6,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000106433981/?bc=100515469479",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000095190800/?bc=100492172923|ファミール純": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市下白岩",
+    "price_man": 4.5,
+    "area_sqm": 38.8,
+    "url": "https://suumo.jp/chintai/jnc_000095190800/?bc=100492172923",
+    "text": "ファミール純",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000077828348/?bc=100517866451|ア・ラ・モード": {
+    "first_seen": "2026-08-09",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市修善寺",
+    "price_man": 4.1,
+    "area_sqm": 24.8,
+    "url": "https://suumo.jp/chintai/jnc_000077828348/?bc=100517866451",
+    "text": "ア・ラ・モード",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108875419/?bc=100520103106|エルディム室野Ａ": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.0,
+    "area_sqm": 39.7,
+    "url": "https://suumo.jp/chintai/jnc_000108875419/?bc=100520103106",
+    "text": "エルディム室野Ａ",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000105384921/?bc=100519958714|天王ビューハイツ": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
+    "location": "静岡県伊豆市修善寺",
+    "price_man": 4.2,
+    "area_sqm": 40.3,
+    "url": "https://suumo.jp/chintai/jnc_000105384921/?bc=100519958714",
+    "text": "天王ビューハイツ",
+    "removed_on": "2026-08-14",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108298238/?bc=100515469320|伊豆箱根鉄道駿豆線 大仁駅 2階建 築38年": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-13",
     "location": "静岡県伊豆市瓜生野",
     "price_man": 4.7,
     "area_sqm": 40.9,
-    "url": "https://suumo.jp/chintai/jnc_000108298238/?bc=100515431668",
+    "url": "https://suumo.jp/chintai/jnc_000108298238/?bc=100515469320",
     "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築38年",
-    "removed_on": "2026-08-13",
+    "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 伊豆市"
   }
 }
