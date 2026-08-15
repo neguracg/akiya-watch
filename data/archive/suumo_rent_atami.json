@@ -680,5 +680,16 @@
     "text": "石黒ハイツ",
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000103898498/?bc=100518690278|マンション南熱海": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-08-14",
+    "location": "静岡県熱海市網代",
+    "price_man": 4.2,
+    "area_sqm": 25.6,
+    "url": "https://suumo.jp/chintai/jnc_000103898498/?bc=100518690278",
+    "text": "マンション南熱海",
+    "removed_on": "2026-08-15",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

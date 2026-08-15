@@ -2518,17 +2518,6 @@
     "removed_on": "2026-07-22",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000258/|三島市谷田 (三島二日町駅)": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-30",
-    "location": "三島市谷田 (三島二日町駅)",
-    "price_man": 750,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000258/",
-    "text": "三島市谷田 (三島二日町駅)",
-    "removed_on": "2026-07-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-1500050000269/|三島市市山新田 (三島駅)": {
     "first_seen": "2026-07-26",
     "last_seen": "2026-07-30",
@@ -2969,15 +2958,26 @@
     "removed_on": "2026-08-14",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000637/|三島市沢地 (三島駅)": {
+  "https://www.homes.co.jp/tochi/b-33333810000599/|三島市谷田 (三島二日町駅)": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-08-14",
+    "location": "三島市谷田 (三島二日町駅)",
+    "price_man": 480,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33333810000599/",
+    "text": "三島市谷田 (三島二日町駅)",
+    "removed_on": "2026-08-15",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1292700001245/|三島市南原菅 (箱根湯本駅)": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-14",
-    "location": "三島市沢地 (三島駅)",
-    "price_man": 2800,
+    "location": "三島市南原菅 (箱根湯本駅)",
+    "price_man": 380,
     "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000637/",
-    "text": "三島市沢地 (三島駅)",
-    "removed_on": "2026-08-14",
+    "url": "https://www.homes.co.jp/tochi/b-1292700001245/",
+    "text": "三島市南原菅 (箱根湯本駅)",
+    "removed_on": "2026-08-15",
     "site_name": "LIFULL 土地 三島市"
   }
 }
