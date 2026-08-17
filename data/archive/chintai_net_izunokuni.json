@@ -42,5 +42,27 @@
     "text": "ヴィラグレースＵ",
     "removed_on": "2026-08-11",
     "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007870000000001063550002/|サンモール牧野Ｂ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-16",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.8,
+    "area_sqm": 54.6,
+    "url": "https://www.chintai.net/detail/bk-C030007870000000001063550002/",
+    "text": "サンモール牧野Ｂ",
+    "removed_on": "2026-08-17",
+    "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007870000000001064400002/|フォーブルタカギⅡ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-16",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 4.0,
+    "area_sqm": 45.9,
+    "url": "https://www.chintai.net/detail/bk-C030007870000000001064400002/",
+    "text": "フォーブルタカギⅡ",
+    "removed_on": "2026-08-17",
+    "site_name": "CHINTAI 伊豆の国市"
   }
 }

@@ -196,5 +196,27 @@
     "text": "貸アパート 伊豆の国市古奈203-1",
     "removed_on": "2026-08-13",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175242|貸アパート 伊豆の国市四日町894": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-16",
+    "location": "伊豆の国市四日町894",
+    "price_man": 3.5,
+    "area_sqm": 25.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175242",
+    "text": "貸アパート 伊豆の国市四日町894",
+    "removed_on": "2026-08-17",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171309|貸住宅付店舗（戸建） 伊豆の国市長岡251‐12": {
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-08-16",
+    "location": "伊豆の国市長岡251‐12",
+    "price_man": 8.8,
+    "area_sqm": 84.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171309",
+    "text": "貸住宅付店舗（戸建） 伊豆の国市長岡251‐12",
+    "removed_on": "2026-08-17",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   }
 }
