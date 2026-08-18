@@ -175,17 +175,6 @@
     "removed_on": "2026-08-16",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1556780000068/|中古戸建　伊豆の国市富士見": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-16",
-    "location": "中古戸建　伊豆の国市富士見",
-    "price_man": 2950,
-    "area_sqm": 164.0,
-    "url": "https://www.homes.co.jp/kodate/b-1556780000068/",
-    "text": "中古戸建　伊豆の国市富士見",
-    "removed_on": "2026-08-17",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-33332300000035/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-16",
@@ -195,6 +184,17 @@
     "url": "https://www.homes.co.jp/kodate/b-33332300000035/",
     "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分",
     "removed_on": "2026-08-17",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002407/|木の温もりが映える、和モダン住宅": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-17",
+    "location": "木の温もりが映える、和モダン住宅",
+    "price_man": 1770,
+    "area_sqm": 180.9,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002407/",
+    "text": "木の温もりが映える、和モダン住宅",
+    "removed_on": "2026-08-18",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

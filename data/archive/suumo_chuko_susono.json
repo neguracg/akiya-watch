@@ -428,17 +428,6 @@
     "removed_on": "2026-07-30",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/|大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商業施設充実の邸宅": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-01",
-    "location": "静岡県裾野市佐野",
-    "price_man": 2380,
-    "area_sqm": 144.4,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/",
-    "text": "大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商業施設充実の邸宅",
-    "removed_on": "2026-08-02",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_77543535/|☆長期優良住宅・「耐震等級３」取得、ソーラーサーキット搭載で快適生活！": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-08-01",
@@ -569,6 +558,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78777273/",
     "text": "石脇（裾野駅） 2980万円",
     "removed_on": "2026-08-17",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/|【外壁塗装予定】大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商…": {
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-17",
+    "location": "静岡県裾野市佐野",
+    "price_man": 2380,
+    "area_sqm": 144.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/",
+    "text": "【外壁塗装予定】大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商…",
+    "removed_on": "2026-08-18",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

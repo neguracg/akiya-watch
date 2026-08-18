@@ -295,5 +295,16 @@
     "text": "売マンション 三島市加茂川町",
     "removed_on": "2026-08-07",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173544/settle/1|売マンション 三島市南二日町27-20": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-17",
+    "location": "三島市南二日町27-20",
+    "price_man": 2280,
+    "area_sqm": 63.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173544/settle/1",
+    "text": "売マンション 三島市南二日町27-20",
+    "removed_on": "2026-08-18",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

@@ -208,15 +208,26 @@
     "removed_on": "2026-08-09",
     "site_name": "SUUMO 土地 三島市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21479565/|徳倉３（三島駅） 2180万円": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-16",
-    "location": "静岡県三島市徳倉３",
-    "price_man": 2180,
-    "area_sqm": 234.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21479565/",
-    "text": "徳倉３（三島駅） 2180万円",
-    "removed_on": "2026-08-17",
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20224942/|利便性と閑静な住環境を兼ね備えた3区画分譲地建築条件付　造成工事中": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-17",
+    "location": "静岡県三島市青木245-4",
+    "price_man": 1835,
+    "area_sqm": 140.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20224942/",
+    "text": "利便性と閑静な住環境を兼ね備えた3区画分譲地建築条件付　造成工事中",
+    "removed_on": "2026-08-18",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491707/|1号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-08-17",
+    "location": "静岡県三島市萩",
+    "price_man": 2080,
+    "area_sqm": 131.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491707/",
+    "text": "1号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
+    "removed_on": "2026-08-18",
     "site_name": "SUUMO 土地 三島市"
   }
 }

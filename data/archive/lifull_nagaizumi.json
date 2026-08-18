@@ -131,37 +131,26 @@
     "removed_on": "2026-08-08",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-17069030000022/|長泉町竹原分譲地II　7区画": {
+  "https://www.homes.co.jp/tochi/b-33323360000767/|駿東郡長泉町本宿 (大岡駅)": {
     "first_seen": "2026-06-19",
-    "last_seen": "2026-08-09",
-    "location": "長泉町竹原分譲地II　7区画",
-    "price_man": 2240,
-    "area_sqm": 165.5,
-    "url": "https://www.homes.co.jp/tochi/b-17069030000022/",
-    "text": "長泉町竹原分譲地II　7区画",
-    "removed_on": "2026-08-11",
+    "last_seen": "2026-08-16",
+    "location": "駿東郡長泉町本宿 (大岡駅)",
+    "price_man": 1450,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33323360000767/",
+    "text": "駿東郡長泉町本宿 (大岡駅)",
+    "removed_on": "2026-08-18",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-17069030000016/|長泉町桜堤分譲地　6区画": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-08-09",
-    "location": "長泉町桜堤分譲地　6区画",
-    "price_man": 2840,
-    "area_sqm": 168.1,
-    "url": "https://www.homes.co.jp/tochi/b-17069030000016/",
-    "text": "長泉町桜堤分譲地　6区画",
-    "removed_on": "2026-08-11",
-    "site_name": "LIFULL 土地 長泉町"
-  },
-  "https://www.homes.co.jp/tochi/b-17069030000018/|長泉町竹原分譲地": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-08-09",
-    "location": "長泉町竹原分譲地",
-    "price_man": 2130,
-    "area_sqm": 166.3,
-    "url": "https://www.homes.co.jp/tochi/b-17069030000018/",
-    "text": "長泉町竹原分譲地",
-    "removed_on": "2026-08-11",
+  "https://www.homes.co.jp/tochi/b-1540930000029/|駿東郡長泉町竹原 (下土狩駅)": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-16",
+    "location": "駿東郡長泉町竹原 (下土狩駅)",
+    "price_man": 800,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1540930000029/",
+    "text": "駿東郡長泉町竹原 (下土狩駅)",
+    "removed_on": "2026-08-18",
     "site_name": "LIFULL 土地 長泉町"
   }
 }

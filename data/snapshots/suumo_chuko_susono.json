@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75177920/|☆閑静な住宅街にある3階建の2世帯住宅。建物177㎡超のゆとりある広さ。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市御宿",
       "price_man": 1298,
       "area_sqm": 148.8,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20978405/|【リフォーム済み物件】・【本日内見可能】。家賃並みのお支払で購入可能です♪": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1498,
       "area_sqm": 206.6,
@@ -60,7 +60,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21017101/|【フルリフォーム物件／本日内見可能】土地１１３坪！自信のおススメ物件です！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘２",
       "price_man": 1750,
       "area_sqm": 376.3,
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78746761/|☆住友林業の家♪ベルシティ裾野も近く生活に便利！室内状況良好です。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 1780,
       "area_sqm": 122.3,
@@ -118,7 +118,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20953444/|☆2016年築、コンパクトな3LDK、お求めやすい価格で販売中！！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市公文名",
       "price_man": 2190,
       "area_sqm": 212.9,
@@ -147,7 +147,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21389203/|☆太陽光8ｋＷ・蓄電池11ｋＷ付きの築浅中古住宅！": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 5980,
       "area_sqm": 327.0,
@@ -176,7 +176,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76381157/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1398,
       "area_sqm": 206.6,
@@ -205,7 +205,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21426400/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1500,
       "area_sqm": 235.5,
@@ -234,7 +234,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21277025/|【見学会開催】リフォーム工事完了しました。": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市茶畑2016-115",
       "price_man": 1579,
       "area_sqm": 194.3,
@@ -261,9 +261,40 @@
       "machi": "裾野市",
       "tab": "home"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78888984/|【いつでもご案内可能】静かで住みよい環境♪ＪＲ裾野駅まで車で約15分♪": {
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "location": "静岡県裾野市千福が丘１-24-14",
+      "price_man": 290,
+      "area_sqm": 495.9,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78888984/",
+      "text": "【いつでもご案内可能】静かで住みよい環境♪ＪＲ裾野駅まで車で約15分♪",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 1.9,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "home"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75123901/|☆　十里木南富士別荘地内のお家です。☆　緑豊かな場所にあります。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山",
       "price_man": 450,
       "area_sqm": 708.0,
@@ -294,7 +325,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78078175/|南ひな壇の明るく風通しの良い庭付き一戸建！間口が狭いので小さめのお車のご家": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市平松123-6",
       "price_man": 1130,
       "area_sqm": 193.1,
@@ -323,7 +354,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21351654/|【現況販売　8月17日以降はリフォーム予定】自社売主物件につき随時内覧可能": {
       "first_seen": "2026-07-24",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘２-12番地7",
       "price_man": 1199,
       "area_sqm": 199.7,
@@ -352,7 +383,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79187645/|大幅値下げしました！広々としたお土地で庭あり。陽当たり良好◎": {
       "first_seen": "2026-07-27",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 1200,
       "area_sqm": 234.7,
@@ -381,7 +412,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_78155321/|須山 1280万円": {
       "first_seen": "2026-06-25",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山",
       "price_man": 1280,
       "area_sqm": 466.0,
@@ -410,7 +441,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/|千福が丘３（岩波駅） 1380万円": {
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘３",
       "price_man": 1380,
       "area_sqm": 395.7,
@@ -439,7 +470,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20181111/|【リフォーム完成しました！】無駄の少ない生活動線が魅力！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1398,
       "area_sqm": 206.6,
@@ -468,7 +499,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21288008/|【見学会開催】1階は約20帖の広いＬＤＫにリフォーム予定です。": {
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘２-9-3",
       "price_man": 1399,
       "area_sqm": 225.7,
@@ -497,7 +528,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79108110/|☆　十里木南富士別荘地内のお家です。☆　緑豊かな場所にあります。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山",
       "price_man": 1480,
       "area_sqm": 1175.4,
@@ -528,7 +559,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|◆千福が丘ナチュラルモダン住宅◆リフォーム済みですぐ住めます♪内覧可能！": {
       "first_seen": "2026-08-16",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1500,
       "area_sqm": 235.5,
@@ -555,38 +586,9 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/|裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】": {
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-17",
-      "location": "静岡県裾野市千福が丘１-17-4",
-      "price_man": 1500,
-      "area_sqm": 235.5,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/",
-      "text": "裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 21.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21445571/|【リフォーム完成しました！】閑静な住宅街の4LDK再生住宅！": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1500,
       "area_sqm": 235.5,
@@ -613,9 +615,38 @@
       "machi": "裾野市",
       "tab": "home"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/|裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】": {
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-18",
+      "location": "静岡県裾野市千福が丘１-17-4",
+      "price_man": 1500,
+      "area_sqm": 235.5,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/",
+      "text": "裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 21.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "home"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20899278/|閑静な住宅街の再生住宅が登場！造成工事で駐車場を1台拡張予定です！敷地が広": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１-17-4",
       "price_man": 1500,
       "area_sqm": 235.5,
@@ -644,7 +675,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79095838/|裾野市千福が丘のリノベーション物件！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１",
       "price_man": 1548,
       "area_sqm": 206.6,
@@ -671,38 +702,9 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/|【住宅ローン減税対象】価格には消費税、リフォーム費用を含みます。": {
-      "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
-      "location": "静岡県裾野市千福が丘２-9-5",
-      "price_man": 1599,
-      "area_sqm": 225.0,
-      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/",
-      "text": "【住宅ローン減税対象】価格には消費税、リフォーム費用を含みます。",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 23.5,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21450455/|【現況販売　9月1日以降はリフォーム予定】自社売主物件につき随時内覧可能": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野676-17",
       "price_man": 1599,
       "area_sqm": 166.1,
@@ -729,9 +731,38 @@
       "machi": "裾野市",
       "tab": "home"
     },
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/|【住宅ローン減税対象】価格には消費税、リフォーム費用を含みます。": {
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-08-18",
+      "location": "静岡県裾野市千福が丘２-9-5",
+      "price_man": 1599,
+      "area_sqm": 225.0,
+      "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/",
+      "text": "【住宅ローン減税対象】価格には消費税、リフォーム費用を含みます。",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 23.5,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "home"
+    },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21393600/|主要採光面が南向きで、1日を通して日当たり良好なフルリフォーム住宅です。": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘１-2番10",
       "price_man": 1599,
       "area_sqm": 241.8,
@@ -760,7 +791,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20121299/|住友林業施工「中庭のある平屋」！21帖の広々LDKと73坪超敷地のゆとり！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市公文名",
       "price_man": 1780,
       "area_sqm": 243.7,
@@ -789,7 +820,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/|須山 1780万円": {
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山",
       "price_man": 1780,
       "area_sqm": 514.0,
@@ -818,7 +849,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21070337/|【見学会開催】5SLDKの2世帯住宅。水回り設備各2か所・玄関も分かれております": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野660-10",
       "price_man": 1899,
       "area_sqm": 330.2,
@@ -847,7 +878,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79197926/|二ツ屋（裾野駅） 2280万円": {
       "first_seen": "2026-07-27",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市二ツ屋",
       "price_man": 2280,
       "area_sqm": 149.6,
@@ -876,7 +907,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21212623/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
       "first_seen": "2026-07-04",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市二ツ屋",
       "price_man": 2280,
       "area_sqm": 149.6,
@@ -903,14 +934,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/|【外壁塗装予定】大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商…": {
-      "first_seen": "2026-08-02",
-      "last_seen": "2026-08-17",
+    "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/|大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商業施設充実の邸宅": {
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 2380,
       "area_sqm": 144.4,
       "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20986149/",
-      "text": "【外壁塗装予定】大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商…",
+      "text": "大和ハウス施工、すぐ住めるリフォーム済、リバーサイドで商業施設充実の邸宅",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -934,7 +965,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79137190/|佐野（裾野駅） 2800万円": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 2800,
       "area_sqm": 156.7,
@@ -963,7 +994,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20532492/|『裾野』駅まで徒歩約７分！商業施設が近いのでお買い物便利！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 2800,
       "area_sqm": 156.7,
@@ -992,7 +1023,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20532489/|『裾野』駅まで車で約4分！便利な国道246号線至近です☆太陽光発電あり☆": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市富沢",
       "price_man": 2890,
       "area_sqm": 160.2,
@@ -1021,7 +1052,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21341865/|富沢（裾野駅） 3080万円": {
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市富沢",
       "price_man": 3080,
       "area_sqm": 165.1,
@@ -1050,7 +1081,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21034120/|徒歩圏内で生活に必要な施設が揃う高い利便性。駐車３台可能です。": {
       "first_seen": "2026-07-10",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市平松98-9",
       "price_man": 3380,
       "area_sqm": 169.3,
@@ -1079,7 +1110,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_76635360/|平松（裾野駅） 3398万円": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市平松",
       "price_man": 3398,
       "area_sqm": 144.1,
@@ -1108,7 +1139,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20522890/|【築浅物件】吹抜があるリビングで陽当りと風通しが良く、開放感あるお家です！": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市富沢",
       "price_man": 3400,
       "area_sqm": 165.5,
@@ -1137,7 +1168,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_71434118/|駐車場4台！令和3年6月築！セキスイハイム施工の築浅物件です。": {
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市石脇",
       "price_man": 3480,
       "area_sqm": 176.3,
@@ -1166,7 +1197,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21275704/|洗練された洋風の装いと和風のゆとりが共存する、おもてなしにも最適な邸宅です": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市千福が丘４主要地",
       "price_man": 3700,
       "area_sqm": 250.4,
@@ -1195,7 +1226,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20069910/|伊豆島田（長泉なめり駅） 4100万円": {
       "first_seen": "2026-07-08",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市伊豆島田",
       "price_man": 4100,
       "area_sqm": 165.0,
@@ -1224,7 +1255,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21467217/|☆築15年の大和ハウス施工の中古住宅！室内も綺麗でそのまま住めます！": {
       "first_seen": "2026-08-09",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市伊豆島田",
       "price_man": 4380,
       "area_sqm": 196.4,
@@ -1253,7 +1284,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21322392/|☆積水ハウス施工の住宅！周辺商業施設充実で生活利便性良好です！": {
       "first_seen": "2026-07-19",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市佐野",
       "price_man": 4480,
       "area_sqm": 251.2,
@@ -1282,7 +1313,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20839293/|【デグチエステート】裾野市須山中古": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山2255-4750",
       "price_man": 4850,
       "area_sqm": 1809.6,
@@ -1311,7 +1342,7 @@
     },
     "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_74552854/|アトリエ、作業室有": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-08-17",
+      "last_seen": "2026-08-18",
       "location": "静岡県裾野市須山",
       "price_man": 4850,
       "area_sqm": 1809.6,
@@ -1339,6 +1370,6 @@
       "tab": "home"
     }
   },
-  "hash": "ea919219e8850a1c",
-  "fetched_at": "2026-08-17T22:31:47.907330"
+  "hash": "6b94b84d143c0062",
+  "fetched_at": "2026-08-18T22:29:30.361098"
 }
