@@ -3189,17 +3189,6 @@
     "removed_on": "2026-07-09",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-33303690000073/|沼津市青野 (原駅)": {
-    "first_seen": "2026-06-26",
-    "last_seen": "2026-07-08",
-    "location": "沼津市青野 (原駅)",
-    "price_man": 1350,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33303690000073/",
-    "text": "沼津市青野 (原駅)",
-    "removed_on": "2026-07-09",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33333810000524/|沼津市西間門 (沼津駅)": {
     "first_seen": "2026-06-26",
     "last_seen": "2026-07-08",
@@ -3860,17 +3849,6 @@
     "removed_on": "2026-08-08",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-33329470000036/|沼津市大諏訪 (片浜駅)": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-07",
-    "location": "沼津市大諏訪 (片浜駅)",
-    "price_man": 950,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33329470000036/",
-    "text": "沼津市大諏訪 (片浜駅)",
-    "removed_on": "2026-08-08",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33313380000016/|沼津市東原 (片浜駅)": {
     "first_seen": "2026-08-04",
     "last_seen": "2026-08-07",
@@ -4419,6 +4397,28 @@
     "url": "https://www.homes.co.jp/tochi/b-33300260000122/",
     "text": "沼津市根古屋 (原駅)",
     "removed_on": "2026-08-18",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33316480000097/|沼津市下香貫 (牛臥入口)": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-18",
+    "location": "沼津市下香貫 (牛臥入口)",
+    "price_man": 450,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33316480000097/",
+    "text": "沼津市下香貫 (牛臥入口)",
+    "removed_on": "2026-08-19",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33327280000022/|沼津市大平 (沼津駅)": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "location": "沼津市大平 (沼津駅)",
+    "price_man": 250,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33327280000022/",
+    "text": "沼津市大平 (沼津駅)",
+    "removed_on": "2026-08-19",
     "site_name": "LIFULL 土地 沼津市"
   }
 }

@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "location": "静岡県裾野市",
       "price_man": 150,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.ieichiba.com/project/P202500691%E5%87%BD%E5%8D%97%E7%94%BA%E5%B9%B3%E4%BA%95A2|静岡県函南町": {
       "first_seen": "2026-07-07",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "location": "静岡県函南町",
       "price_man": 222,
       "area_sqm": null,
@@ -63,39 +63,8 @@
       "zokujinsei": false,
       "machi": "函南町",
       "tab": "home"
-    },
-    "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K|静岡県伊豆の国市": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-08-18",
-      "location": "静岡県伊豆の国市",
-      "price_man": 2680,
-      "area_sqm": null,
-      "url": "https://www.ieichiba.com/project/P202600509%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%A5%88%E5%8F%A4%E8%B0%B7K",
-      "text": "静岡県伊豆の国市",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
     }
   },
-  "hash": "c84c0c9f2c6379c0",
-  "fetched_at": "2026-08-18T22:25:39.006907"
+  "hash": "df33c90928956f0f",
+  "fetched_at": "2026-08-19T22:27:50.418051"
 }

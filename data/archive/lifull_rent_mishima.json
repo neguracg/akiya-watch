@@ -703,17 +703,6 @@
     "removed_on": "2026-08-07",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/5dda48af8f342ad0d54e55a7402c89dbb81de1af/|Ｋｏｙｏｍｉ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-08-07",
-    "location": "静岡県三島市大宮町2丁目",
-    "price_man": 8.4,
-    "area_sqm": 53.8,
-    "url": "https://www.homes.co.jp/chintai/room/5dda48af8f342ad0d54e55a7402c89dbb81de1af/",
-    "text": "Ｋｏｙｏｍｉ",
-    "removed_on": "2026-08-07",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/a7dbd27b16201f014d5cef0f37fca3f8034474d0/|アビタシオンA": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-07",
@@ -744,17 +733,6 @@
     "area_sqm": 40.3,
     "url": "https://www.homes.co.jp/chintai/room/5d70d65e044d24f7539a0226999aa67a7140e4a3/",
     "text": "パルティーレ",
-    "removed_on": "2026-08-08",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/|タウンリバティＩＩ": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-07",
-    "location": "静岡県三島市加茂川町",
-    "price_man": 8.3,
-    "area_sqm": 58.1,
-    "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
-    "text": "タウンリバティＩＩ",
     "removed_on": "2026-08-08",
     "site_name": "LIFULL 賃貸 三島市"
   },
@@ -810,17 +788,6 @@
     "area_sqm": 51.8,
     "url": "https://www.homes.co.jp/chintai/room/fbed6bfbd7ed409e08651eceba91ffece275faf6/",
     "text": "フィールド・ビレッジ",
-    "removed_on": "2026-08-10",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/|フィオーレＹＳ": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-09",
-    "location": "静岡県三島市安久",
-    "price_man": 6.35,
-    "area_sqm": 56.8,
-    "url": "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/",
-    "text": "フィオーレＹＳ",
     "removed_on": "2026-08-10",
     "site_name": "LIFULL 賃貸 三島市"
   },
@@ -1143,15 +1110,59 @@
     "removed_on": "2026-08-17",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/7d33f39082b860c6f33a488207fa2f50cdd72966/|グランコート幸原": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県三島市幸原町2丁目",
-    "price_man": 6.7,
+  "https://www.homes.co.jp/chintai/room/fc51a3de4c177d376f8438fe1f218f29a16f2ea1/|フェリス・カーサ": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-18",
+    "location": "静岡県三島市萩",
+    "price_man": 7.95,
+    "area_sqm": 39.2,
+    "url": "https://www.homes.co.jp/chintai/room/fc51a3de4c177d376f8438fe1f218f29a16f2ea1/",
+    "text": "フェリス・カーサ",
+    "removed_on": "2026-08-19",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/7e961e032b4f3a0c4bc1f1524523300dffa60fb3/|リジエールII": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-08-18",
+    "location": "静岡県三島市谷田",
+    "price_man": 8.65,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/7e961e032b4f3a0c4bc1f1524523300dffa60fb3/",
+    "text": "リジエールII",
+    "removed_on": "2026-08-19",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/888ccfa4e61fc17b4b117b1df994ea279300e2b9/|Ｋｏｙｏｍｉ": {
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-18",
+    "location": "静岡県三島市大宮町2丁目",
+    "price_man": 8.4,
     "area_sqm": 53.8,
-    "url": "https://www.homes.co.jp/chintai/room/7d33f39082b860c6f33a488207fa2f50cdd72966/",
-    "text": "グランコート幸原",
-    "removed_on": "2026-08-17",
+    "url": "https://www.homes.co.jp/chintai/room/888ccfa4e61fc17b4b117b1df994ea279300e2b9/",
+    "text": "Ｋｏｙｏｍｉ",
+    "removed_on": "2026-08-19",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-18",
+    "location": "静岡県三島市加屋町",
+    "price_man": 12.5,
+    "area_sqm": 64.5,
+    "url": "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/",
+    "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
+    "removed_on": "2026-08-19",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+    "first_seen": "2026-08-17",
+    "last_seen": "2026-08-18",
+    "location": "静岡県三島市加屋町",
+    "price_man": 11.8,
+    "area_sqm": 64.5,
+    "url": "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/",
+    "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
+    "removed_on": "2026-08-19",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

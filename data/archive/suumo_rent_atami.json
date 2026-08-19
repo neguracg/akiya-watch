@@ -691,5 +691,60 @@
     "text": "ビレッジハウス熱海2号棟",
     "removed_on": "2026-08-18",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000079549171/|金子貸家": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-18",
+    "location": "静岡県熱海市泉",
+    "price_man": 7.0,
+    "area_sqm": 84.0,
+    "url": "https://suumo.jp/chintai/jnc_000079549171/",
+    "text": "金子貸家",
+    "removed_on": "2026-08-19",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109147349/|メゾン紅葉": {
+    "first_seen": "2026-08-12",
+    "last_seen": "2026-08-18",
+    "location": "静岡県熱海市東海岸町",
+    "price_man": 23.0,
+    "area_sqm": 96.0,
+    "url": "https://suumo.jp/chintai/jnc_000109147349/",
+    "text": "メゾン紅葉",
+    "removed_on": "2026-08-19",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000088751966/?bc=100368009320|シャトーテル赤根崎": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-18",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 6.0,
+    "area_sqm": 22.1,
+    "url": "https://suumo.jp/chintai/jnc_000088751966/?bc=100368009320",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-08-19",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000103412010/?bc=100477271986|シャトーテル赤根崎": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-18",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 7.0,
+    "area_sqm": 22.1,
+    "url": "https://suumo.jp/chintai/jnc_000103412010/?bc=100477271986",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-08-19",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108511455/?bc=100516795061|シャトーテル赤根崎": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-18",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 7.3,
+    "area_sqm": 22.1,
+    "url": "https://suumo.jp/chintai/jnc_000108511455/?bc=100516795061",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-08-19",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }
