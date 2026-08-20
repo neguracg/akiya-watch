@@ -87,17 +87,6 @@
     "removed_on": "2026-08-18",
     "site_name": "LIFULL 土地 函南町"
   },
-  "https://www.homes.co.jp/tochi/b-33319170000016/|田方郡函南町柏谷 (伊豆仁田駅)": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-18",
-    "location": "田方郡函南町柏谷 (伊豆仁田駅)",
-    "price_man": 500,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33319170000016/",
-    "text": "田方郡函南町柏谷 (伊豆仁田駅)",
-    "removed_on": "2026-08-19",
-    "site_name": "LIFULL 土地 函南町"
-  },
   "https://www.homes.co.jp/tochi/b-1220300000713/|田方郡函南町柏谷 (大場駅)": {
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-18",
@@ -109,15 +98,48 @@
     "removed_on": "2026-08-19",
     "site_name": "LIFULL 土地 函南町"
   },
-  "https://www.homes.co.jp/tochi/b-1341600001673/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-    "price_man": 85,
+  "https://www.homes.co.jp/tochi/b-33306070000012/|田方郡函南町平井 (大場駅)": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-19",
+    "location": "田方郡函南町平井 (大場駅)",
+    "price_man": 280,
     "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1341600001673/",
+    "url": "https://www.homes.co.jp/tochi/b-33306070000012/",
+    "text": "田方郡函南町平井 (大場駅)",
+    "removed_on": "2026-08-20",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-33303690000054/|田方郡函南町塚本 (伊豆仁田駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-08-19",
+    "location": "田方郡函南町塚本 (伊豆仁田駅)",
+    "price_man": 1390,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33303690000054/",
+    "text": "田方郡函南町塚本 (伊豆仁田駅)",
+    "removed_on": "2026-08-20",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-33301270000080/|田方郡函南町丹那南箱根ダイヤランド (熱海駅)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-08-19",
+    "location": "田方郡函南町丹那南箱根ダイヤランド (熱海駅)",
+    "price_man": 200,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33301270000080/",
+    "text": "田方郡函南町丹那南箱根ダイヤランド (熱海駅)",
+    "removed_on": "2026-08-20",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-33303660001118/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-19",
+    "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
+    "price_man": 50,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33303660001118/",
     "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-    "removed_on": "2026-08-19",
+    "removed_on": "2026-08-20",
     "site_name": "LIFULL 土地 函南町"
   }
 }

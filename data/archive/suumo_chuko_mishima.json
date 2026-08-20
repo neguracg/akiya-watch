@@ -988,5 +988,27 @@
     "text": "三島市錦が丘　中古戸建【フルリフォーム済み】",
     "removed_on": "2026-08-18",
     "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21369748/|錦が丘（三島二日町駅） 2499万円": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-19",
+    "location": "静岡県三島市錦が丘",
+    "price_man": 2499,
+    "area_sqm": 187.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21369748/",
+    "text": "錦が丘（三島二日町駅） 2499万円",
+    "removed_on": "2026-08-20",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/|外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-19",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21084329/",
+    "text": "外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路",
+    "removed_on": "2026-08-20",
+    "site_name": "SUUMO 中古戸建 三島市"
   }
 }

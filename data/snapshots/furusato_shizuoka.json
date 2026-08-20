@@ -2,7 +2,7 @@
   "keys": {
     "https://furusato-net.co.jp/bukken/18397a|静岡県 伊東市": {
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "location": "静岡県 伊東市",
       "price_man": 880,
       "area_sqm": 281.0,
@@ -33,7 +33,7 @@
     },
     "https://furusato-net.co.jp/bukken/18396a|静岡県 伊東市": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "location": "静岡県 伊東市",
       "price_man": 2780,
       "area_sqm": 510.1,
@@ -64,7 +64,7 @@
     },
     "https://furusato-net.co.jp/bukken/18277a|静岡県 南伊豆町": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-19",
+      "last_seen": "2026-08-20",
       "location": "静岡県 南伊豆町",
       "price_man": null,
       "area_sqm": 501.8,
@@ -92,6 +92,6 @@
       "tab": "camp"
     }
   },
-  "hash": "7258bdd6cc80b081",
-  "fetched_at": "2026-08-19T22:40:54.107322"
+  "hash": "20f187dc37a81589",
+  "fetched_at": "2026-08-20T22:41:37.558422"
 }

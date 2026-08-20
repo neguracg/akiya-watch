@@ -560,17 +560,6 @@
     "removed_on": "2026-08-11",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20808401/|コンビニまで徒歩3分！伊豆三津シーパラダイスにも近く、自然がたくさん！": {
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-08-14",
-    "location": "静岡県沼津市内浦三津",
-    "price_man": 1550,
-    "area_sqm": 165.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20808401/",
-    "text": "コンビニまで徒歩3分！伊豆三津シーパラダイスにも近く、自然がたくさん！",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21404758/|ららぽーと沼津まで徒歩15分圏内♪投資物件としても是非ご検討ください☆": {
     "first_seen": "2026-07-31",
     "last_seen": "2026-08-14",
@@ -624,6 +613,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20610370/",
     "text": "アイダ設計の注文住宅！太陽光＆オール電化、庭付きで駐車場3台の邸宅",
     "removed_on": "2026-08-18",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76886749/|東椎路（片浜駅） 1340万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-19",
+    "location": "静岡県沼津市東椎路",
+    "price_man": 1340,
+    "area_sqm": 166.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76886749/",
+    "text": "東椎路（片浜駅） 1340万円",
+    "removed_on": "2026-08-20",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/|大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。": {
+    "first_seen": "2026-06-30",
+    "last_seen": "2026-08-19",
+    "location": "静岡県沼津市大岡",
+    "price_man": 4000,
+    "area_sqm": 150.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21177388/",
+    "text": "大手工務店施工。築10年。オール電化、太陽光設備。門池小まで徒歩約6分。",
+    "removed_on": "2026-08-20",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

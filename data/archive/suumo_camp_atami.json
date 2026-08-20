@@ -53,5 +53,27 @@
     "text": "山手町 400万円",
     "removed_on": "2026-08-10",
     "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_21357428/|山手町 380万円": {
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-19",
+    "location": "静岡県熱海市山手町",
+    "price_man": 380,
+    "area_sqm": 235.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_21357428/",
+    "text": "山手町 380万円",
+    "removed_on": "2026-08-20",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78998581/|緑豊かな住宅地、土地50坪以上、海まで2km以内": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-19",
+    "location": "静岡県熱海市下多賀295-1",
+    "price_man": 550,
+    "area_sqm": 184.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_78998581/",
+    "text": "緑豊かな住宅地、土地50坪以上、海まで2km以内",
+    "removed_on": "2026-08-20",
+    "site_name": "SUUMO 土地 熱海市"
   }
 }

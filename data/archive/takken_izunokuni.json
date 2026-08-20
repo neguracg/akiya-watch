@@ -119,5 +119,16 @@
     "text": "売土地 伊豆の国市三福",
     "removed_on": "2026-08-10",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138640/settle/1|売土地 伊豆の国市長崎350-7": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-19",
+    "location": "伊豆の国市長崎350-7",
+    "price_man": 1150,
+    "area_sqm": 226.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138640/settle/1",
+    "text": "売土地 伊豆の国市長崎350-7",
+    "removed_on": "2026-08-20",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }
