@@ -10,17 +10,6 @@
     "removed_on": "2026-07-13",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/|玖須美元和田（川奈駅） 1100万円": {
-    "first_seen": "2026-07-13",
-    "last_seen": "2026-07-18",
-    "location": "静岡県伊東市玖須美元和田716-839",
-    "price_man": 1100,
-    "area_sqm": 164.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/",
-    "text": "玖須美元和田（川奈駅） 1100万円",
-    "removed_on": "2026-07-19",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78683220/|富戸（富戸駅） 300万円": {
     "first_seen": "2026-07-13",
     "last_seen": "2026-07-26",
@@ -107,6 +96,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76831760/",
     "text": "八幡野（伊豆高原駅） 830万円",
     "removed_on": "2026-08-09",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/|十足 480万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-20",
+    "location": "静岡県伊東市十足",
+    "price_man": 480,
+    "area_sqm": 563.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74443374/",
+    "text": "十足 480万円",
+    "removed_on": "2026-08-21",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/|宇佐美 2700万円": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-20",
+    "location": "静岡県伊東市宇佐美",
+    "price_man": 2700,
+    "area_sqm": 889.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/",
+    "text": "宇佐美 2700万円",
+    "removed_on": "2026-08-21",
     "site_name": "SUUMO 土地 伊東市"
   }
 }

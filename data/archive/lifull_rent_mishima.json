@@ -1033,17 +1033,6 @@
     "removed_on": "2026-08-13",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/74aa548df60b6334e856875edae73dfd726afe59/|ヴィラ停雲": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "location": "静岡県三島市大宮町1丁目10-28",
-    "price_man": 4.3,
-    "area_sqm": 25.5,
-    "url": "https://www.homes.co.jp/chintai/room/74aa548df60b6334e856875edae73dfd726afe59/",
-    "text": "ヴィラ停雲",
-    "removed_on": "2026-08-15",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/020603b4bf5ec3d70cc5852b7f5a110b6d2db1ab/|アビタシオンA": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-16",
@@ -1143,15 +1132,26 @@
     "removed_on": "2026-08-20",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/|フィオーレＹＳ": {
+  "https://www.homes.co.jp/chintai/room/7f508588da5e92ab534bd93f778af8539f6a5c6f/|セルカ・シャロン": {
+    "first_seen": "2026-08-10",
+    "last_seen": "2026-08-20",
+    "location": "静岡県三島市文教町2丁目",
+    "price_man": 6.9,
+    "area_sqm": 40.6,
+    "url": "https://www.homes.co.jp/chintai/room/7f508588da5e92ab534bd93f778af8539f6a5c6f/",
+    "text": "セルカ・シャロン",
+    "removed_on": "2026-08-21",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/|タウンリバティＩＩ": {
     "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県三島市安久",
-    "price_man": 6.35,
-    "area_sqm": 56.8,
-    "url": "https://www.homes.co.jp/chintai/room/c1ab2120e34e3447fb7573041cf2160f6aa0edb1/",
-    "text": "フィオーレＹＳ",
-    "removed_on": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 8.3,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
+    "text": "タウンリバティＩＩ",
+    "removed_on": "2026-08-21",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

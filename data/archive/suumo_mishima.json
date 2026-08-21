@@ -229,5 +229,16 @@
     "text": "1号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
     "removed_on": "2026-08-18",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/|谷田（三島二日町駅） 1230万円": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-20",
+    "location": "静岡県三島市谷田",
+    "price_man": 1230,
+    "area_sqm": 183.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20045162/",
+    "text": "谷田（三島二日町駅） 1230万円",
+    "removed_on": "2026-08-21",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

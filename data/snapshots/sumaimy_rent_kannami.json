@@ -1,8 +1,40 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/88088|貸戸建住宅 田方郡函南町仁田211-7": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-08-21",
+      "location": "田方郡函南町仁田211-7",
+      "price_man": 4.9,
+      "area_sqm": 47.2,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/88088",
+      "text": "貸戸建住宅 田方郡函南町仁田211-7",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3DK",
+      "chikunen": "1973年12月",
+      "kanrihi": null,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無",
+        "戸建"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175325|貸その他 田方郡函南町塚本140-6": {
       "first_seen": "2026-07-28",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本140-6",
       "price_man": 19.2,
       "area_sqm": 163.0,
@@ -34,7 +66,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111954|貸戸建住宅 田方郡函南町肥田947-5": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町肥田947-5",
       "price_man": 7.5,
       "area_sqm": 49.7,
@@ -66,7 +98,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141332|貸マンション 田方郡函南町仁田99-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町仁田99-3",
       "price_man": 5.5,
       "area_sqm": 49.7,
@@ -97,7 +129,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143474|貸アパート 田方郡函南町柏谷1149-4": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町柏谷1149-4",
       "price_man": 5.3,
       "area_sqm": 52.2,
@@ -128,7 +160,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152946|貸店舗（建物一括） 田方郡函南町塚本575-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本575-3",
       "price_man": 45.0,
       "area_sqm": 238.5,
@@ -161,7 +193,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159193|貸アパート 田方郡函南町柏谷43": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町柏谷43",
       "price_man": 5.0,
       "area_sqm": 53.6,
@@ -192,7 +224,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170926|貸戸建住宅 田方郡函南町仁田21-4": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町仁田21-4",
       "price_man": 8.8,
       "area_sqm": 124.2,
@@ -224,7 +256,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173413|貸戸建住宅 田方郡函南町間宮116-2": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町間宮116-2",
       "price_man": 5.7,
       "area_sqm": 36.0,
@@ -256,7 +288,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31624|貸事業用地 田方郡函南町平井1689-48": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町平井1689-48",
       "price_man": 16.7,
       "area_sqm": 11900.0,
@@ -290,7 +322,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157338|貸アパート 田方郡函南町仁田691-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町仁田691-3",
       "price_man": 5.4,
       "area_sqm": 48.9,
@@ -321,7 +353,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175781|貸アパート 田方郡函南町塚本140-6": {
       "first_seen": "2026-07-29",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本140-6",
       "price_man": 6.0,
       "area_sqm": 47.0,
@@ -352,7 +384,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175295|貸アパート 田方郡函南町塚本140-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本140-6",
       "price_man": 6.0,
       "area_sqm": 50.0,
@@ -383,7 +415,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38727|貸マンション 田方郡函南町大土肥1-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町大土肥1-1",
       "price_man": 6.6,
       "area_sqm": 58.8,
@@ -414,7 +446,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168541|貸マンション 田方郡函南町大土肥793-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町大土肥793-6",
       "price_man": 4.0,
       "area_sqm": 21.0,
@@ -445,7 +477,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174224|貸マンション 田方郡函南町塚本100-4": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本100-4",
       "price_man": 7.8,
       "area_sqm": 74.4,
@@ -476,7 +508,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171137|貸その他 田方郡函南町塚本140-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本140-6",
       "price_man": 12.65,
       "area_sqm": 113.1,
@@ -507,7 +539,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/36515|貸戸建住宅 田方郡函南町仁田47-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町仁田47-1",
       "price_man": 6.0,
       "area_sqm": 41.4,
@@ -539,7 +571,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71090|貸アパート 田方郡函南町塚本232-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町塚本232-1",
       "price_man": 6.5,
       "area_sqm": 51.6,
@@ -570,7 +602,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57715|貸アパート 田方郡函南町間宮822-2": {
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "田方郡函南町間宮822-2",
       "price_man": 6.5,
       "area_sqm": 57.2,
@@ -598,40 +630,8 @@
       "zokujinsei": false,
       "machi": "函南町",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/88088|貸戸建住宅 田方郡函南町仁田211-7": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
-      "location": "田方郡函南町仁田211-7",
-      "price_man": 4.9,
-      "area_sqm": 47.2,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/88088",
-      "text": "貸戸建住宅 田方郡函南町仁田211-7",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3DK",
-      "chikunen": "1973年12月",
-      "kanrihi": null,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "礼金無",
-        "戸建"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "rent"
     }
   },
-  "hash": "87a0b061a5b98d91",
-  "fetched_at": "2026-08-20T22:22:36.097957"
+  "hash": "a150f30c8b9c62f8",
+  "fetched_at": "2026-08-21T22:19:46.450833"
 }

@@ -307,28 +307,6 @@
     "removed_on": "2026-08-16",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1556780000227/|中古戸建　三島市萩": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "中古戸建　三島市萩",
-    "price_man": 2649,
-    "area_sqm": 197.9,
-    "url": "https://www.homes.co.jp/kodate/b-1556780000227/",
-    "text": "中古戸建　三島市萩",
-    "removed_on": "2026-08-19",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
-  "https://www.homes.co.jp/kodate/b-1556780000226/|中古戸建　再生住宅　三島市錦が丘": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "中古戸建　再生住宅　三島市錦が丘",
-    "price_man": 2499,
-    "area_sqm": 187.7,
-    "url": "https://www.homes.co.jp/kodate/b-1556780000226/",
-    "text": "中古戸建　再生住宅　三島市錦が丘",
-    "removed_on": "2026-08-19",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-1475010001832/|三島市錦が丘　中古一戸建て": {
     "first_seen": "2026-07-20",
     "last_seen": "2026-08-19",
@@ -338,6 +316,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1475010001832/",
     "text": "三島市錦が丘　中古一戸建て",
     "removed_on": "2026-08-20",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002433/|三島市錦が丘　中古戸建": {
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-20",
+    "location": "三島市錦が丘　中古戸建",
+    "price_man": 2499,
+    "area_sqm": 187.7,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002433/",
+    "text": "三島市錦が丘　中古戸建",
+    "removed_on": "2026-08-21",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1220300000754/|三島市錦が丘3‐4": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-20",
+    "location": "三島市錦が丘3‐4",
+    "price_man": 2399,
+    "area_sqm": 182.2,
+    "url": "https://www.homes.co.jp/kodate/b-1220300000754/",
+    "text": "三島市錦が丘3‐4",
+    "removed_on": "2026-08-21",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

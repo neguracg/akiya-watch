@@ -592,5 +592,16 @@
     "text": "売土地 沼津市住吉町1－8",
     "removed_on": "2026-08-20",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1|売住宅 沼津市青野": {
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-08-20",
+    "location": "沼津市青野",
+    "price_man": 830,
+    "area_sqm": 311.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1",
+    "text": "売住宅 沼津市青野",
+    "removed_on": "2026-08-21",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

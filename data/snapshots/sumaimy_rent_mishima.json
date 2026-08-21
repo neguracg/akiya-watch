@@ -2,7 +2,7 @@
   "keys": {
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176465|貸駐車場 三島市梅名477-10": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市梅名477-10",
       "price_man": 0.5,
       "area_sqm": null,
@@ -34,7 +34,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164639|貸戸建住宅 三島市多呂146-14": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市多呂146-14",
       "price_man": 6.5,
       "area_sqm": 60.7,
@@ -66,7 +66,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34510|貸アパート 三島市谷田100-6": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市谷田100-6",
       "price_man": 4.9,
       "area_sqm": 42.1,
@@ -97,7 +97,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118947|貸店舗（建物一部） 三島市八反畑109-7": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市八反畑109-7",
       "price_man": 16.5,
       "area_sqm": 107.0,
@@ -130,7 +130,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131792|貸アパート 三島市安久656-1": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市安久656-1",
       "price_man": 5.5,
       "area_sqm": 52.4,
@@ -161,7 +161,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167863|貸アパート 三島市安久206": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市安久206",
       "price_man": 7.0,
       "area_sqm": 69.4,
@@ -192,7 +192,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173518|貸倉庫 三島市御園77-2": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市御園77-2",
       "price_man": 22.0,
       "area_sqm": 149.0,
@@ -223,7 +223,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90984|貸マンション 三島市大宮町２丁目": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市大宮町２丁目",
       "price_man": 6.9,
       "area_sqm": 65.0,
@@ -254,7 +254,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165880|貸マンション 三島市西本町５－１９": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市西本町５－１９",
       "price_man": 7.2,
       "area_sqm": 55.5,
@@ -285,7 +285,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165425|貸マンション 三島市多呂１１１－１": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市多呂１１１－１",
       "price_man": 4.8,
       "area_sqm": 55.4,
@@ -317,7 +317,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173039|貸店舗（建物一括） 三島市玉川341": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市玉川341",
       "price_man": 44.0,
       "area_sqm": 370.0,
@@ -350,7 +350,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109155|貸駐車場 三島市谷田1124-152": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市谷田1124-152",
       "price_man": 0.5,
       "area_sqm": null,
@@ -382,7 +382,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175314|貸マンション 三島市東本町１丁目15-3": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市東本町１丁目15-3",
       "price_man": 5.0,
       "area_sqm": 29.7,
@@ -411,7 +411,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175313|貸マンション 三島市東本町１丁目15-3": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市東本町１丁目15-3",
       "price_man": 4.8,
       "area_sqm": 29.0,
@@ -440,7 +440,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109936|貸駐車場 三島市東町": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市東町",
       "price_man": 0.65,
       "area_sqm": null,
@@ -471,7 +471,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174100|貸マンション 三島市中島273-6": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市中島273-6",
       "price_man": 4.8,
       "area_sqm": 29.8,
@@ -502,7 +502,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172008|貸マンション 三島市一番町18-25": {
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市一番町18-25",
       "price_man": 15.0,
       "area_sqm": 64.3,
@@ -533,7 +533,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107971|貸店舗・事務所 三島市松本": {
       "first_seen": "2026-08-09",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市松本",
       "price_man": 30.0,
       "area_sqm": 198.3,
@@ -567,7 +567,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174507|貸駐車場 三島市中田町12―7": {
       "first_seen": "2026-08-08",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市中田町12―7",
       "price_man": 0.7,
       "area_sqm": null,
@@ -598,7 +598,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160282|貸アパート 三島市加茂川町8-41": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市加茂川町8-41",
       "price_man": 5.0,
       "area_sqm": 48.7,
@@ -629,7 +629,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176052|貸マンション 三島市谷田305-1": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市谷田305-1",
       "price_man": 6.0,
       "area_sqm": 59.1,
@@ -660,7 +660,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176032|貸事業用地 三島市八反畑125-1": {
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市八反畑125-1",
       "price_man": 22.5,
       "area_sqm": 996.0,
@@ -694,7 +694,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176033|貸事業用地 三島市八反畑125-2": {
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市八反畑125-2",
       "price_man": 8.35,
       "area_sqm": 550.0,
@@ -728,7 +728,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57475|貸アパート 三島市柳郷地48-1": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市柳郷地48-1",
       "price_man": 6.0,
       "area_sqm": 65.8,
@@ -757,7 +757,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31314|貸駐車場 三島市谷田170-1": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市谷田170-1",
       "price_man": 0.45,
       "area_sqm": null,
@@ -788,7 +788,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/122680|貸戸建住宅 三島市萩135": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市萩135",
       "price_man": 4.0,
       "area_sqm": 45.9,
@@ -820,7 +820,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107904|貸マンション 三島市西若町": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市西若町",
       "price_man": 4.7,
       "area_sqm": 27.9,
@@ -852,7 +852,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175136|貸マンション 三島市長伏29-12": {
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市長伏29-12",
       "price_man": 4.7,
       "area_sqm": 29.8,
@@ -883,7 +883,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166158|貸マンション 三島市長伏": {
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市長伏",
       "price_man": 5.0,
       "area_sqm": 57.3,
@@ -914,7 +914,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174923|貸店舗・事務所定期借家 三島市北田町3-62": {
       "first_seen": "2026-08-01",
-      "last_seen": "2026-08-20",
+      "last_seen": "2026-08-21",
       "location": "三島市北田町3-62",
       "price_man": 22.0,
       "area_sqm": 127.5,
@@ -947,6 +947,6 @@
       "tab": "rent"
     }
   },
-  "hash": "4511b0b8e136e86d",
-  "fetched_at": "2026-08-20T22:30:10.365621"
+  "hash": "e7da152c9c4a08d4",
+  "fetched_at": "2026-08-21T22:25:54.130323"
 }
