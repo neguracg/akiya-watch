@@ -43,17 +43,6 @@
     "removed_on": "2026-07-27",
     "site_name": "スマイミー静岡 賃貸 沼津市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/35708|貸マンション 沼津市大岡3803-3": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-26",
-    "location": "沼津市大岡3803-3",
-    "price_man": 6.1,
-    "area_sqm": 44.7,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/35708",
-    "text": "貸マンション 沼津市大岡3803-3",
-    "removed_on": "2026-07-27",
-    "site_name": "スマイミー静岡 賃貸 沼津市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174526|新築貸アパート 沼津市大岡2304-19": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-26",
@@ -2287,28 +2276,6 @@
     "removed_on": "2026-08-12",
     "site_name": "スマイミー静岡 賃貸 沼津市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174851|貸アパート 沼津市西添町32-3": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-11",
-    "location": "沼津市西添町32-3",
-    "price_man": 1.95,
-    "area_sqm": 20.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174851",
-    "text": "貸アパート 沼津市西添町32-3",
-    "removed_on": "2026-08-12",
-    "site_name": "スマイミー静岡 賃貸 沼津市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174852|貸アパート 沼津市西添町32-3": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-11",
-    "location": "沼津市西添町32-3",
-    "price_man": 1.95,
-    "area_sqm": 20.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174852",
-    "text": "貸アパート 沼津市西添町32-3",
-    "removed_on": "2026-08-12",
-    "site_name": "スマイミー静岡 賃貸 沼津市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/60670|貸アパート 沼津市西沢田518-2": {
     "first_seen": "2026-08-08",
     "last_seen": "2026-08-11",
@@ -3495,6 +3462,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128929",
     "text": "貸マンション 沼津市大諏訪503-4",
     "removed_on": "2026-08-21",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174327|貸マンション 沼津市原620-22": {
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "location": "沼津市原620-22",
+    "price_man": 5.9,
+    "area_sqm": 72.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174327",
+    "text": "貸マンション 沼津市原620-22",
+    "removed_on": "2026-08-22",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163230|貸事務所 沼津市下香貫島郷2975-14": {
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-21",
+    "location": "沼津市下香貫島郷2975-14",
+    "price_man": 5.5,
+    "area_sqm": 28.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163230",
+    "text": "貸事務所 沼津市下香貫島郷2975-14",
+    "removed_on": "2026-08-22",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/91320|貸マンション 沼津市大岡": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-21",
+    "location": "沼津市大岡",
+    "price_man": 6.0,
+    "area_sqm": 59.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/91320",
+    "text": "貸マンション 沼津市大岡",
+    "removed_on": "2026-08-22",
     "site_name": "スマイミー静岡 賃貸 沼津市"
   }
 }

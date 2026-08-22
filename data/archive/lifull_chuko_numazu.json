@@ -98,17 +98,6 @@
     "removed_on": "2026-08-21",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-93570000155/|沼津駅近・生活利便性の良い立地　三芳町": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "沼津駅近・生活利便性の良い立地　三芳町",
-    "price_man": 2380,
-    "area_sqm": 154.0,
-    "url": "https://www.homes.co.jp/kodate/b-93570000155/",
-    "text": "沼津駅近・生活利便性の良い立地　三芳町",
-    "removed_on": "2026-08-21",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1316560004844/|沼津市原町中2丁目　中古戸建": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -129,6 +118,28 @@
     "url": "https://www.homes.co.jp/kodate/b-33323360000822/",
     "text": "JR東海道本線 沼津駅 バス7分 東下石田下車 徒歩2分",
     "removed_on": "2026-08-21",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1316560004884/|沼津市大岡　（中古戸建）": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "沼津市大岡　（中古戸建）",
+    "price_man": 3580,
+    "area_sqm": 124.0,
+    "url": "https://www.homes.co.jp/kodate/b-1316560004884/",
+    "text": "沼津市大岡　（中古戸建）",
+    "removed_on": "2026-08-22",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002415/|沼津市高砂町　中古戸建": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-08-21",
+    "location": "沼津市高砂町　中古戸建",
+    "price_man": 3480,
+    "area_sqm": 156.4,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002415/",
+    "text": "沼津市高砂町　中古戸建",
+    "removed_on": "2026-08-22",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

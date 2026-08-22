@@ -1,15 +1,4 @@
 {
-  "https://suumo.jp/chintai/jnc_000104141910/?bc=100483262111|セジュール中丸": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.4,
-    "area_sqm": 55.4,
-    "url": "https://suumo.jp/chintai/jnc_000104141910/?bc=100483262111",
-    "text": "セジュール中丸",
-    "removed_on": "2026-07-25",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000105036906/?bc=100450316145|サン・シーロ": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -1407,17 +1396,6 @@
     "removed_on": "2026-07-30",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000074100097/?bc=100453735121|コンシェルジュモリシマ": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-07-29",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.0,
-    "area_sqm": 30.3,
-    "url": "https://suumo.jp/chintai/jnc_000074100097/?bc=100453735121",
-    "text": "コンシェルジュモリシマ",
-    "removed_on": "2026-07-30",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000096404823/?bc=100495138953|ＣＯＣＯＲＡリブ": {
     "first_seen": "2026-07-29",
     "last_seen": "2026-07-29",
@@ -1525,17 +1503,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000055672412/?bc=100518653259",
     "text": "ＦＯＵＲ　ＳＥＡＳＯＮＳ",
-    "removed_on": "2026-07-31",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105036905/?bc=100431790785|Ｃｌｏｖｅｒ　Ｔｓｕｋｉｙａ": {
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.6,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000105036905/?bc=100431790785",
-    "text": "Ｃｌｏｖｅｒ　Ｔｓｕｋｉｙａ",
     "removed_on": "2026-07-31",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -1998,39 +1965,6 @@
     "area_sqm": 19.9,
     "url": "https://suumo.jp/chintai/jnc_000108808039/",
     "text": "レオパレスフォレスト",
-    "removed_on": "2026-08-02",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108896879/|レオパレス稲荷": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 5.8,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108896879/",
-    "text": "レオパレス稲荷",
-    "removed_on": "2026-08-02",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108896878/|レオパレス稲荷": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 5.8,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108896878/",
-    "text": "レオパレス稲荷",
-    "removed_on": "2026-08-02",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108432154/|レオパレス稲荷": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-01",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 5.9,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108432154/",
-    "text": "レオパレス稲荷",
     "removed_on": "2026-08-02",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -3013,17 +2947,6 @@
     "removed_on": "2026-08-04",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000104434650/?bc=100517706922|グランエール": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 30.3,
-    "url": "https://suumo.jp/chintai/jnc_000104434650/?bc=100517706922",
-    "text": "グランエール",
-    "removed_on": "2026-08-04",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000063579778/?bc=100505088115|グランエール": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-03",
@@ -3087,17 +3010,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000096104223/?bc=100383393033",
     "text": "ウェストフィールドIII",
-    "removed_on": "2026-08-04",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107467127/?bc=100356672705|山之井プラザ": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-03",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.5,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000107467127/?bc=100356672705",
-    "text": "山之井プラザ",
     "removed_on": "2026-08-04",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -4399,17 +4311,6 @@
     "removed_on": "2026-08-10",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108464369/?bc=100520965071|フォルトゥナ藤森": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-09",
-    "location": "静岡県裾野市佐野",
-    "price_man": 7.1,
-    "area_sqm": 41.2,
-    "url": "https://suumo.jp/chintai/jnc_000108464369/?bc=100520965071",
-    "text": "フォルトゥナ藤森",
-    "removed_on": "2026-08-10",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108464367/?bc=100489648743|フォルトゥナ藤森": {
     "first_seen": "2026-08-09",
     "last_seen": "2026-08-09",
@@ -4652,17 +4553,6 @@
     "removed_on": "2026-08-11",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108847941/?bc=100519461018|Ｔ．サニー３": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-10",
-    "location": "静岡県裾野市佐野",
-    "price_man": 7.0,
-    "area_sqm": 67.9,
-    "url": "https://suumo.jp/chintai/jnc_000108847941/?bc=100519461018",
-    "text": "Ｔ．サニー３",
-    "removed_on": "2026-08-11",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000086993496/?bc=100495139879|グランフィーノ": {
     "first_seen": "2026-08-10",
     "last_seen": "2026-08-10",
@@ -4693,17 +4583,6 @@
     "area_sqm": 30.0,
     "url": "https://suumo.jp/chintai/jnc_000105780810/?bc=100496076101",
     "text": "サンハイムカワムラＢ",
-    "removed_on": "2026-08-11",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000099261255/?bc=100437555132|セリエＡ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-10",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.6,
-    "area_sqm": 40.3,
-    "url": "https://suumo.jp/chintai/jnc_000099261255/?bc=100437555132",
-    "text": "セリエＡ",
     "removed_on": "2026-08-11",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -5059,17 +4938,6 @@
     "removed_on": "2026-08-12",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107764193/?bc=100496312229|リヴェール壱番館": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-11",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.0,
-    "area_sqm": 24.7,
-    "url": "https://suumo.jp/chintai/jnc_000107764193/?bc=100496312229",
-    "text": "リヴェール壱番館",
-    "removed_on": "2026-08-12",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000102929489/?bc=100518865884|マイフェア裾野": {
     "first_seen": "2026-08-11",
     "last_seen": "2026-08-11",
@@ -5345,17 +5213,6 @@
     "removed_on": "2026-08-13",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000076620284/?bc=100295997531|ＣＯＳＭＯ☆４３９": {
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-08-12",
-    "location": "静岡県裾野市富沢",
-    "price_man": 4.0,
-    "area_sqm": 30.7,
-    "url": "https://suumo.jp/chintai/jnc_000076620284/?bc=100295997531",
-    "text": "ＣＯＳＭＯ☆４３９",
-    "removed_on": "2026-08-13",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107467127/?bc=100357944028|山之井プラザ": {
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-12",
@@ -5496,17 +5353,6 @@
     "area_sqm": 56.5,
     "url": "https://suumo.jp/chintai/jnc_000062830736/",
     "text": "アルカンシエル",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000093078465/?bc=100521520660|ラヴィアンローズＮ": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-13",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.6,
-    "area_sqm": 44.5,
-    "url": "https://suumo.jp/chintai/jnc_000093078465/?bc=100521520660",
-    "text": "ラヴィアンローズＮ",
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -5675,17 +5521,6 @@
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000085164913/?bc=100500276034|プリムヴェール": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-13",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.2,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000085164913/?bc=100500276034",
-    "text": "プリムヴェール",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000106141578/?bc=100494278980|山之井プラザ": {
     "first_seen": "2026-08-13",
     "last_seen": "2026-08-13",
@@ -5705,17 +5540,6 @@
     "area_sqm": 37.0,
     "url": "https://suumo.jp/chintai/jnc_000104592952/?bc=100475911920",
     "text": "山之井プラザ",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000098921229/?bc=100405529762|サンハイツＢ": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-13",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.5,
-    "area_sqm": 45.0,
-    "url": "https://suumo.jp/chintai/jnc_000098921229/?bc=100405529762",
-    "text": "サンハイツＢ",
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -5763,17 +5587,6 @@
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000085660213/?bc=100517576302|プロヴァンス": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.8,
-    "area_sqm": 66.2,
-    "url": "https://suumo.jp/chintai/jnc_000085660213/?bc=100517576302",
-    "text": "プロヴァンス",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108847941/?bc=100519646676|Ｔ．サニー３": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-14",
@@ -5814,17 +5627,6 @@
     "price_man": 5.5,
     "area_sqm": 31.4,
     "url": "https://suumo.jp/chintai/jnc_000086993496/?bc=100517662404",
-    "text": "グランフィーノ",
-    "removed_on": "2026-08-14",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000043740374/?bc=100515260454|グランフィーノ": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "location": "静岡県裾野市岩波",
-    "price_man": 5.8,
-    "area_sqm": 40.1,
-    "url": "https://suumo.jp/chintai/jnc_000043740374/?bc=100515260454",
     "text": "グランフィーノ",
     "removed_on": "2026-08-14",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -6082,17 +5884,6 @@
     "removed_on": "2026-08-15",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108742938/?bc=100018429367|ヴィア　クオレ": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 6.1,
-    "area_sqm": 41.0,
-    "url": "https://suumo.jp/chintai/jnc_000108742938/?bc=100018429367",
-    "text": "ヴィア　クオレ",
-    "removed_on": "2026-08-15",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000103866826/?bc=100484954433|ヴィア　クオレ": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-14",
@@ -6144,17 +5935,6 @@
     "price_man": 4.8,
     "area_sqm": 30.0,
     "url": "https://suumo.jp/chintai/jnc_000106790138/?bc=100493860838",
-    "text": "サンハイムカワムラＢ",
-    "removed_on": "2026-08-15",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105780810/?bc=100496039821|サンハイムカワムラＢ": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-14",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 4.8,
-    "area_sqm": 30.0,
-    "url": "https://suumo.jp/chintai/jnc_000105780810/?bc=100496039821",
     "text": "サンハイムカワムラＢ",
     "removed_on": "2026-08-15",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -6467,28 +6247,6 @@
     "removed_on": "2026-08-16",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000086993496/?bc=100482259013|グランフィーノ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "location": "静岡県裾野市岩波",
-    "price_man": 5.5,
-    "area_sqm": 31.4,
-    "url": "https://suumo.jp/chintai/jnc_000086993496/?bc=100482259013",
-    "text": "グランフィーノ",
-    "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000063693154/?bc=100506068774|グランフィーノ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "location": "静岡県裾野市岩波",
-    "price_man": 5.6,
-    "area_sqm": 31.4,
-    "url": "https://suumo.jp/chintai/jnc_000063693154/?bc=100506068774",
-    "text": "グランフィーノ",
-    "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000043740374/?bc=100515224995|グランフィーノ": {
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
@@ -6654,17 +6412,6 @@
     "removed_on": "2026-08-16",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000013973492/?bc=100364492881|第２アゼリアハイツ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.5,
-    "area_sqm": 57.0,
-    "url": "https://suumo.jp/chintai/jnc_000013973492/?bc=100364492881",
-    "text": "第２アゼリアハイツ",
-    "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000094819718/?bc=100345638978|プリムヴェール": {
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-15",
@@ -6786,28 +6533,6 @@
     "removed_on": "2026-08-16",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000084580918/?bc=100504323655|カミーノ・Ｓ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 4.2,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000084580918/?bc=100504323655",
-    "text": "カミーノ・Ｓ",
-    "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000099342825/?bc=100405529712|サンハイツＡ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-15",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.5,
-    "area_sqm": 43.0,
-    "url": "https://suumo.jp/chintai/jnc_000099342825/?bc=100405529712",
-    "text": "サンハイツＡ",
-    "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108049247/?bc=100310414773|ボヌールコート": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-15",
@@ -6828,17 +6553,6 @@
     "url": "https://suumo.jp/chintai/jnc_000094161603/?bc=100406857462",
     "text": "ＪＲ御殿場線 裾野駅 地上2階建 築37年",
     "removed_on": "2026-08-16",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109127037/|アルバ・フェリーチェ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 8.4,
-    "area_sqm": 58.2,
-    "url": "https://suumo.jp/chintai/jnc_000109127037/",
-    "text": "アルバ・フェリーチェ",
-    "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
   "https://suumo.jp/chintai/jnc_000109173626/|カーサ裾野": {
@@ -6893,17 +6607,6 @@
     "area_sqm": 29.8,
     "url": "https://suumo.jp/chintai/jnc_000109173627/",
     "text": "カーサ裾野",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000037131976/?bc=100517664236|エール１９": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.0,
-    "area_sqm": 39.6,
-    "url": "https://suumo.jp/chintai/jnc_000037131976/?bc=100517664236",
-    "text": "エール１９",
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -7006,17 +6709,6 @@
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000094695519/?bc=100515713130|ディア": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市石脇",
-    "price_man": 4.9,
-    "area_sqm": 36.0,
-    "url": "https://suumo.jp/chintai/jnc_000094695519/?bc=100515713130",
-    "text": "ディア",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000106362732/?bc=100507419834|コンシェルジュモリシマ": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
@@ -7036,17 +6728,6 @@
     "area_sqm": 53.8,
     "url": "https://suumo.jp/chintai/jnc_000108193484/?bc=100514825670",
     "text": "オーブリー西尾",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000070606155/?bc=100517264304|エーデルハイム": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市石脇",
-    "price_man": 4.7,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000070606155/?bc=100517264304",
-    "text": "エーデルハイム",
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -7160,17 +6841,6 @@
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000104592953/?bc=100503454828|山之井プラザ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.8,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000104592953/?bc=100503454828",
-    "text": "山之井プラザ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000027782860/?bc=100238626346|Ｌｕｃｅ（ルーチェ）": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
@@ -7204,50 +6874,6 @@
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000032911523/?bc=100517921885|エーデルハイム岩波": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市岩波",
-    "price_man": 6.5,
-    "area_sqm": 59.5,
-    "url": "https://suumo.jp/chintai/jnc_000032911523/?bc=100517921885",
-    "text": "エーデルハイム岩波",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107932981/?bc=100512524669|ビサリア": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市水窪",
-    "price_man": 5.9,
-    "area_sqm": 45.6,
-    "url": "https://suumo.jp/chintai/jnc_000107932981/?bc=100512524669",
-    "text": "ビサリア",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000098260463/?bc=100514783274|グラシア Ｂ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市水窪",
-    "price_man": 7.5,
-    "area_sqm": 65.5,
-    "url": "https://suumo.jp/chintai/jnc_000098260463/?bc=100514783274",
-    "text": "グラシア Ｂ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108532852/?bc=100512288276|Ｒルミエール": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.4,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108532852/?bc=100512288276",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108591872/?bc=100512251531|レオネクスト黄瀬川": {
     "first_seen": "2026-08-15",
     "last_seen": "2026-08-16",
@@ -7267,39 +6893,6 @@
     "area_sqm": 54.4,
     "url": "https://suumo.jp/chintai/jnc_000109166962/?bc=100511825666",
     "text": "ＪＲ御殿場線 裾野駅 3階建 築22年",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000097276641/?bc=100427517089|リュミエール": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000097276641/?bc=100427517089",
-    "text": "リュミエール",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000062241540/?bc=100282820358|リュミエール": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000062241540/?bc=100282820358",
-    "text": "リュミエール",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000071697723/?bc=100299797933|リュミエール": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000071697723/?bc=100299797933",
-    "text": "リュミエール",
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -7336,50 +6929,6 @@
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108298223/?bc=100509913008|レオパレスＫ＆Ｔ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.1,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108298223/?bc=100509913008",
-    "text": "レオパレスＫ＆Ｔ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298225/?bc=100507385463|レオパレスＫ＆Ｔ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.3,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108298225/?bc=100507385463",
-    "text": "レオパレスＫ＆Ｔ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298224/?bc=100503213893|レオパレスＫ＆Ｔ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.3,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108298224/?bc=100503213893",
-    "text": "レオパレスＫ＆Ｔ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109133178/?bc=100503214024|レオパレスＫ＆Ｔ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.4,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000109133178/?bc=100503214024",
-    "text": "レオパレスＫ＆Ｔ",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283|ロイヤルテラス華": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-16",
@@ -7388,17 +6937,6 @@
     "area_sqm": 78.4,
     "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283",
     "text": "ロイヤルテラス華",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104592950/?bc=100437484414|ヴェル・アージュ・ノゼ": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-16",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.1,
-    "area_sqm": 54.0,
-    "url": "https://suumo.jp/chintai/jnc_000104592950/?bc=100437484414",
-    "text": "ヴェル・アージュ・ノゼ",
     "removed_on": "2026-08-17",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -8249,28 +7787,6 @@
     "removed_on": "2026-08-18",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107432695/?bc=100157743196|ストーンパレスII": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-17",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 2.8,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000107432695/?bc=100157743196",
-    "text": "ストーンパレスII",
-    "removed_on": "2026-08-18",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108484459/?bc=100278887947|ストーンパレスII": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-17",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 2.8,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000108484459/?bc=100278887947",
-    "text": "ストーンパレスII",
-    "removed_on": "2026-08-18",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108565410/?bc=100514629182|レオパレスサンロード石脇": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-17",
@@ -8568,17 +8084,6 @@
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107386051/?bc=100510737828|セジュール・ベル": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市佐野",
-    "price_man": 9.4,
-    "area_sqm": 67.5,
-    "url": "https://suumo.jp/chintai/jnc_000107386051/?bc=100510737828",
-    "text": "セジュール・ベル",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000082844604/?bc=100468275504|メゾンエスポワール": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-18",
@@ -8777,17 +8282,6 @@
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000097170700/?bc=100521091117|ルミエールカサマ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.0,
-    "area_sqm": 56.1,
-    "url": "https://suumo.jp/chintai/jnc_000097170700/?bc=100521091117",
-    "text": "ルミエールカサマ",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000057483837/?bc=100364921211|リトルジャーニー": {
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
@@ -8818,17 +8312,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000070606155/?bc=100515225024",
     "text": "エーデルハイム",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000039637365/?bc=100520429087|ソフィアハイム雙葉": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市富沢",
-    "price_man": 4.7,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000039637365/?bc=100520429087",
-    "text": "ソフィアハイム雙葉",
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -8876,39 +8359,6 @@
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000058008756/?bc=100465628201|ウェストヒルズ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.6,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000058008756/?bc=100465628201",
-    "text": "ウェストヒルズ",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000043422578/?bc=100515260473|ウェストヒルズ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.6,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000043422578/?bc=100515260473",
-    "text": "ウェストヒルズ",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108090271/?bc=100514081170|ウェストヒルズ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.6,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000108090271/?bc=100514081170",
-    "text": "ウェストヒルズ",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000076620284/?bc=100500227784|ＣＯＳＭＯ　４３９": {
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-18",
@@ -8928,17 +8378,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000094819718/?bc=100347034334",
     "text": "プリムヴェール",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000027782860/?bc=100161760613|Ｌｕｃｅ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.8,
-    "area_sqm": 37.4,
-    "url": "https://suumo.jp/chintai/jnc_000027782860/?bc=100161760613",
-    "text": "Ｌｕｃｅ",
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -9085,17 +8524,6 @@
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000093562977/?bc=100402102975|セピアガーデン杉山": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.0,
-    "area_sqm": 50.0,
-    "url": "https://suumo.jp/chintai/jnc_000093562977/?bc=100402102975",
-    "text": "セピアガーデン杉山",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000098921229/?bc=100463870575|サンハイツＢ": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-18",
@@ -9115,17 +8543,6 @@
     "area_sqm": 43.0,
     "url": "https://suumo.jp/chintai/jnc_000099342825/?bc=100463870905",
     "text": "サンハイツＡ",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108783943/?bc=100465483575|ヤマヨシマンション": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.8,
-    "area_sqm": 32.0,
-    "url": "https://suumo.jp/chintai/jnc_000108783943/?bc=100465483575",
-    "text": "ヤマヨシマンション",
     "removed_on": "2026-08-19",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -9888,17 +9305,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000109127039/?bc=100521450270|サンフィールド　イースト": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 6.1,
-    "area_sqm": 43.2,
-    "url": "https://suumo.jp/chintai/jnc_000109127039/?bc=100521450270",
-    "text": "サンフィールド　イースト",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000103893075/?bc=100469004358|サンフィールド　イースト": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -10017,17 +9423,6 @@
     "area_sqm": 70.1,
     "url": "https://suumo.jp/chintai/jnc_000106235408/?bc=100499910229",
     "text": "サンフォレストＭＷ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000061390095/?bc=100517297663|ウェストフィールドII": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.6,
-    "area_sqm": 45.7,
-    "url": "https://suumo.jp/chintai/jnc_000061390095/?bc=100517297663",
-    "text": "ウェストフィールドII",
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -10284,17 +9679,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000104459977/?bc=100486172857|リバーサイド上杉": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.5,
-    "area_sqm": 42.1,
-    "url": "https://suumo.jp/chintai/jnc_000104459977/?bc=100486172857",
-    "text": "リバーサイド上杉",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000104380291/?bc=100486172867|第２アゼリアハイツ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -10372,17 +9756,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000094819718/?bc=100050673240|プリムヴェール": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.3,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000094819718/?bc=100050673240",
-    "text": "プリムヴェール",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107467127/?bc=100356848742|山之井プラザ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -10394,17 +9767,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000106141578/?bc=100499234843|山之井プラザ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.8,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000106141578/?bc=100499234843",
-    "text": "山之井プラザ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000104592952/?bc=100495139863|山之井プラザ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -10412,17 +9774,6 @@
     "price_man": 4.8,
     "area_sqm": 30.0,
     "url": "https://suumo.jp/chintai/jnc_000104592952/?bc=100495139863",
-    "text": "山之井プラザ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104592954/?bc=100501602402|山之井プラザ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.8,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000104592954/?bc=100501602402",
     "text": "山之井プラザ",
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -10493,28 +9844,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000019122947/?bc=100504963348|プチ　フェルメ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市平松",
-    "price_man": 7.9,
-    "area_sqm": 59.9,
-    "url": "https://suumo.jp/chintai/jnc_000019122947/?bc=100504963348",
-    "text": "プチ　フェルメ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107851432/?bc=100518545462|ドゥメゾンマルショウ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 7.1,
-    "area_sqm": 66.2,
-    "url": "https://suumo.jp/chintai/jnc_000107851432/?bc=100518545462",
-    "text": "ドゥメゾンマルショウ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000106149954/?bc=100490122706|グランメール裾野": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-08-19",
@@ -10581,17 +9910,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108727723/?bc=100518444633|レオパレスサン　ヒル": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市平松",
-    "price_man": 6.2,
-    "area_sqm": 23.6,
-    "url": "https://suumo.jp/chintai/jnc_000108727723/?bc=100518444633",
-    "text": "レオパレスサン　ヒル",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000102680886/?bc=100476301129|アクエリアスステージ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -10603,17 +9921,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000067843206/?bc=100298031628|リュミエール": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000067843206/?bc=100298031628",
-    "text": "リュミエール",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108298226/?bc=100503213934|レオネクスト黄瀬川": {
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-19",
@@ -10622,17 +9929,6 @@
     "area_sqm": 28.0,
     "url": "https://suumo.jp/chintai/jnc_000108298226/?bc=100503213934",
     "text": "レオネクスト黄瀬川",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108379496/?bc=100512251526|レオパレスフォレスト": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.1,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108379496/?bc=100512251526",
-    "text": "レオパレスフォレスト",
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -10688,17 +9984,6 @@
     "area_sqm": 29.8,
     "url": "https://suumo.jp/chintai/jnc_000107611842/?bc=100510799726",
     "text": "パレス　ローリエ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108432158/?bc=100512251597|レオパレス富沢": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市富沢",
-    "price_man": 5.3,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108432158/?bc=100512251597",
-    "text": "レオパレス富沢",
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -10779,39 +10064,6 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000057552222/?bc=100285818587|ボヌールコート": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市御宿",
-    "price_man": 3.8,
-    "area_sqm": 19.7,
-    "url": "https://suumo.jp/chintai/jnc_000057552222/?bc=100285818587",
-    "text": "ボヌールコート",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105854491/?bc=100496615569|ウエルズ平松ビル": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.3,
-    "area_sqm": 29.1,
-    "url": "https://suumo.jp/chintai/jnc_000105854491/?bc=100496615569",
-    "text": "ウエルズ平松ビル",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105839670/?bc=100496461895|ウエルズ平松ビル": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.3,
-    "area_sqm": 19.0,
-    "url": "https://suumo.jp/chintai/jnc_000105839670/?bc=100496461895",
-    "text": "ウエルズ平松ビル",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108484459/?bc=100469638572|ストーンパレスII": {
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-19",
@@ -10831,138 +10083,6 @@
     "area_sqm": 24.8,
     "url": "https://suumo.jp/chintai/jnc_000107432695/?bc=100469638570",
     "text": "ストーンパレスII",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000057880680/?bc=100477066787|コーポ裾野Ａ棟": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市水窪",
-    "price_man": 3.98,
-    "area_sqm": 41.4,
-    "url": "https://suumo.jp/chintai/jnc_000057880680/?bc=100477066787",
-    "text": "コーポ裾野Ａ棟",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013973447/?bc=100350449649|磯部ハイツ月見屋敷Ａ": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市御宿",
-    "price_man": 3.9,
-    "area_sqm": 40.0,
-    "url": "https://suumo.jp/chintai/jnc_000013973447/?bc=100350449649",
-    "text": "磯部ハイツ月見屋敷Ａ",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108591871/?bc=100506405958|レオパレス潤": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.9,
-    "area_sqm": 21.5,
-    "url": "https://suumo.jp/chintai/jnc_000108591871/?bc=100506405958",
-    "text": "レオパレス潤",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108896881/?bc=100519860158|レオパレス潤": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.9,
-    "area_sqm": 21.5,
-    "url": "https://suumo.jp/chintai/jnc_000108896881/?bc=100519860158",
-    "text": "レオパレス潤",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108896882/?bc=100519860200|レオパレス潤": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.2,
-    "area_sqm": 21.5,
-    "url": "https://suumo.jp/chintai/jnc_000108896882/?bc=100519860200",
-    "text": "レオパレス潤",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298221/?bc=100509912986|レオパレスウエスト　ワン": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市千福",
-    "price_man": 5.3,
-    "area_sqm": 23.2,
-    "url": "https://suumo.jp/chintai/jnc_000108298221/?bc=100509912986",
-    "text": "レオパレスウエスト　ワン",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298222/?bc=100503213846|レオパレスウエスト　ワン": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市千福",
-    "price_man": 5.6,
-    "area_sqm": 23.2,
-    "url": "https://suumo.jp/chintai/jnc_000108298222/?bc=100503213846",
-    "text": "レオパレスウエスト　ワン",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298216/?bc=100503214131|レオネクストサンリット双葉": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 6.5,
-    "area_sqm": 23.6,
-    "url": "https://suumo.jp/chintai/jnc_000108298216/?bc=100503214131",
-    "text": "レオネクストサンリット双葉",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108379490/?bc=100503213866|レオパレス千福": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市千福",
-    "price_man": 5.4,
-    "area_sqm": 22.7,
-    "url": "https://suumo.jp/chintai/jnc_000108379490/?bc=100503213866",
-    "text": "レオパレス千福",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108298215/?bc=100508516628|レオパレスサンロード石脇": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.4,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108298215/?bc=100508516628",
-    "text": "レオパレスサンロード石脇",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108252191/?bc=100503539051|レオパレスコンフォール石脇３": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.6,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108252191/?bc=100503539051",
-    "text": "レオパレスコンフォール石脇３",
-    "removed_on": "2026-08-20",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108252192/?bc=100506611286|レオパレスコンフォール石脇３": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-19",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.9,
-    "area_sqm": 23.2,
-    "url": "https://suumo.jp/chintai/jnc_000108252192/?bc=100506611286",
-    "text": "レオパレスコンフォール石脇３",
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11164,17 +10284,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000109096989/?bc=100522328952|エクメネーキヤII": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.0,
-    "area_sqm": 58.8,
-    "url": "https://suumo.jp/chintai/jnc_000109096989/?bc=100522328952",
-    "text": "エクメネーキヤII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108819200/?bc=100513994867|サンフィールド　イースト": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11197,17 +10306,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000099203318/?bc=100018461639|サンフィールド　イースト": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 6.3,
-    "area_sqm": 43.2,
-    "url": "https://suumo.jp/chintai/jnc_000099203318/?bc=100018461639",
-    "text": "サンフィールド　イースト",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000106310893/?bc=100501106747|サンハイムカワムラ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11219,39 +10317,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000083214681/?bc=100506389832|ヴィブレ御宿台": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 7.0,
-    "area_sqm": 54.5,
-    "url": "https://suumo.jp/chintai/jnc_000083214681/?bc=100506389832",
-    "text": "ヴィブレ御宿台",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000067156317/?bc=100520834647|ヴィブレ御宿台": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 7.1,
-    "area_sqm": 54.5,
-    "url": "https://suumo.jp/chintai/jnc_000067156317/?bc=100520834647",
-    "text": "ヴィブレ御宿台",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000093996417/?bc=100512247184|ベルクリア": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 7.3,
-    "area_sqm": 69.4,
-    "url": "https://suumo.jp/chintai/jnc_000093996417/?bc=100512247184",
-    "text": "ベルクリア",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108049246/?bc=100513463500|エスポワール２０００": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -11260,17 +10325,6 @@
     "area_sqm": 53.5,
     "url": "https://suumo.jp/chintai/jnc_000108049246/?bc=100513463500",
     "text": "エスポワール２０００",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000086113400/?bc=100522327923|グランフィエルテ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 6.5,
-    "area_sqm": 41.7,
-    "url": "https://suumo.jp/chintai/jnc_000086113400/?bc=100522327923",
-    "text": "グランフィエルテ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11307,17 +10361,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108464370/?bc=100515390728|レオパレス翔": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.9,
-    "area_sqm": 23.2,
-    "url": "https://suumo.jp/chintai/jnc_000108464370/?bc=100515390728",
-    "text": "レオパレス翔",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108298219/?bc=100514629049|レオパレス翔": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11329,28 +10372,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000067294789/?bc=100522327969|グランリード": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 5.0,
-    "area_sqm": 44.9,
-    "url": "https://suumo.jp/chintai/jnc_000067294789/?bc=100522327969",
-    "text": "グランリード",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000073202155/?bc=100522327590|グランリード": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 5.3,
-    "area_sqm": 44.9,
-    "url": "https://suumo.jp/chintai/jnc_000073202155/?bc=100522327590",
-    "text": "グランリード",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000069996766/?bc=100522329047|ソシアハイツ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11359,17 +10380,6 @@
     "area_sqm": 60.0,
     "url": "https://suumo.jp/chintai/jnc_000069996766/?bc=100522329047",
     "text": "ソシアハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109115655/?bc=100521363846|ソワサント": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 28.0,
-    "url": "https://suumo.jp/chintai/jnc_000109115655/?bc=100521363846",
-    "text": "ソワサント",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11392,17 +10402,6 @@
     "area_sqm": 55.4,
     "url": "https://suumo.jp/chintai/jnc_000064240962/?bc=100522329151",
     "text": "メゾンマルショウ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000067665250/?bc=100507481329|ＪＲ御殿場線 岩波駅 3階建 築16年": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 4.4,
-    "area_sqm": 34.1,
-    "url": "https://suumo.jp/chintai/jnc_000067665250/?bc=100507481329",
-    "text": "ＪＲ御殿場線 岩波駅 3階建 築16年",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11439,17 +10438,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000106790138/?bc=100522328894|サンハイムカワムラＢ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 4.8,
-    "area_sqm": 30.0,
-    "url": "https://suumo.jp/chintai/jnc_000106790138/?bc=100522328894",
-    "text": "サンハイムカワムラＢ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000105780810/?bc=100496312263|サンハイムカワムラＢ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11483,39 +10471,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108599881/?bc=100521806816|エクセルオカダ": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 5.5,
-    "area_sqm": 49.6,
-    "url": "https://suumo.jp/chintai/jnc_000108599881/?bc=100521806816",
-    "text": "エクセルオカダ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000082984328/?bc=100522328924|ロイヤルコートつちや": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 6.0,
-    "area_sqm": 50.8,
-    "url": "https://suumo.jp/chintai/jnc_000082984328/?bc=100522328924",
-    "text": "ロイヤルコートつちや",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000103826246/?bc=100522329143|Ｓ・Ｈドリーム（エスエイチドリーム）": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.3,
-    "area_sqm": 48.8,
-    "url": "https://suumo.jp/chintai/jnc_000103826246/?bc=100522329143",
-    "text": "Ｓ・Ｈドリーム（エスエイチドリーム）",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000097170700/?bc=100521163220|ルミエールカサマ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11527,17 +10482,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108368474/?bc=100521804260|中畑ハイツ": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.2,
-    "area_sqm": 54.1,
-    "url": "https://suumo.jp/chintai/jnc_000108368474/?bc=100521804260",
-    "text": "中畑ハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000081945448/?bc=100522329218|メゾンＴＡＫＡＭＵＲＡ　Ｂ棟": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11546,39 +10490,6 @@
     "area_sqm": 40.5,
     "url": "https://suumo.jp/chintai/jnc_000081945448/?bc=100522329218",
     "text": "メゾンＴＡＫＡＭＵＲＡ　Ｂ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000087014895/?bc=100522327652|メゾンシエスタ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.8,
-    "area_sqm": 30.1,
-    "url": "https://suumo.jp/chintai/jnc_000087014895/?bc=100522327652",
-    "text": "メゾンシエスタ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000087014892/?bc=100522329215|メゾンシエスタ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.9,
-    "area_sqm": 30.1,
-    "url": "https://suumo.jp/chintai/jnc_000087014892/?bc=100522329215",
-    "text": "メゾンシエスタ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107947078/?bc=100522328047|メゾンシエスタ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.0,
-    "area_sqm": 30.1,
-    "url": "https://suumo.jp/chintai/jnc_000107947078/?bc=100522328047",
-    "text": "メゾンシエスタ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11601,17 +10512,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000057483837/?bc=100288782488",
     "text": "リトルジャーニー",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106362732/?bc=100512071402|コンシェルジュモリシマ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 4.2,
-    "area_sqm": 30.3,
-    "url": "https://suumo.jp/chintai/jnc_000106362732/?bc=100512071402",
-    "text": "コンシェルジュモリシマ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11670,39 +10570,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000042102846/?bc=100517264326|エミネンス　Ｈａｔｔｏｒｉ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 4.5,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000042102846/?bc=100517264326",
-    "text": "エミネンス　Ｈａｔｔｏｒｉ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013972879/?bc=100522329195|トランキーロ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 4.9,
-    "area_sqm": 31.1,
-    "url": "https://suumo.jp/chintai/jnc_000013972879/?bc=100522329195",
-    "text": "トランキーロ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000068171257/?bc=100522328784|トランキーロ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 4.9,
-    "area_sqm": 31.1,
-    "url": "https://suumo.jp/chintai/jnc_000068171257/?bc=100522328784",
-    "text": "トランキーロ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000070606155/?bc=100516573547|エーデルハイム": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11714,17 +10581,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000086496643/?bc=100278167750|ソフィアハイム雙葉": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 4.3,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000086496643/?bc=100278167750",
-    "text": "ソフィアハイム雙葉",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000039637365/?bc=100521178464|ソフィアハイム雙葉": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -11733,83 +10589,6 @@
     "area_sqm": 30.4,
     "url": "https://suumo.jp/chintai/jnc_000039637365/?bc=100521178464",
     "text": "ソフィアハイム雙葉",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000045509311/?bc=100522328866|エスパス裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.4,
-    "area_sqm": 31.2,
-    "url": "https://suumo.jp/chintai/jnc_000045509311/?bc=100522328866",
-    "text": "エスパス裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000047824782/?bc=100522329164|エスパス裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.4,
-    "area_sqm": 31.2,
-    "url": "https://suumo.jp/chintai/jnc_000047824782/?bc=100522329164",
-    "text": "エスパス裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000087053565/?bc=100522329157|エスパス裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.4,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000087053565/?bc=100522329157",
-    "text": "エスパス裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000047864541/?bc=100522329166|エスパス裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.4,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000047864541/?bc=100522329166",
-    "text": "エスパス裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000019790284/?bc=100522329052|エスパス裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.5,
-    "area_sqm": 31.2,
-    "url": "https://suumo.jp/chintai/jnc_000019790284/?bc=100522329052",
-    "text": "エスパス裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107652169/?bc=100510389883|ビビットハイツ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.9,
-    "area_sqm": 28.9,
-    "url": "https://suumo.jp/chintai/jnc_000107652169/?bc=100510389883",
-    "text": "ビビットハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000049027128/?bc=100522329060|ビビットハイツ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.9,
-    "area_sqm": 28.9,
-    "url": "https://suumo.jp/chintai/jnc_000049027128/?bc=100522329060",
-    "text": "ビビットハイツ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -11857,28 +10636,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000096104222/?bc=100324975557|ウェストフィールドIII": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.6,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000096104222/?bc=100324975557",
-    "text": "ウェストフィールドIII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000101545677/?bc=100401691818|エテルノ．エビス": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 4.0,
-    "area_sqm": 30.3,
-    "url": "https://suumo.jp/chintai/jnc_000101545677/?bc=100401691818",
-    "text": "エテルノ．エビス",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000104459977/?bc=100486081690|リバーサイド上杉": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11890,28 +10647,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107172215/?bc=100506596651|リバーサイド上杉": {
-    "first_seen": "2026-08-01",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.5,
-    "area_sqm": 42.1,
-    "url": "https://suumo.jp/chintai/jnc_000107172215/?bc=100506596651",
-    "text": "リバーサイド上杉",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104380291/?bc=100485168376|第２アゼリアハイツ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.5,
-    "area_sqm": 57.0,
-    "url": "https://suumo.jp/chintai/jnc_000104380291/?bc=100485168376",
-    "text": "第２アゼリアハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000013973492/?bc=100502324508|第２アゼリアハイツ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -11919,28 +10654,6 @@
     "price_man": 4.5,
     "area_sqm": 57.0,
     "url": "https://suumo.jp/chintai/jnc_000013973492/?bc=100502324508",
-    "text": "第２アゼリアハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000087739198/?bc=100361622394|第２アゼリアハイツ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.7,
-    "area_sqm": 57.0,
-    "url": "https://suumo.jp/chintai/jnc_000087739198/?bc=100361622394",
-    "text": "第２アゼリアハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104459980/?bc=100485809780|第２アゼリアハイツ": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.7,
-    "area_sqm": 57.0,
-    "url": "https://suumo.jp/chintai/jnc_000104459980/?bc=100485809780",
     "text": "第２アゼリアハイツ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -11967,17 +10680,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000102019508/?bc=100463866269|ウェストヒルズ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.6,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000102019508/?bc=100463866269",
-    "text": "ウェストヒルズ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108090271/?bc=100512606961|ウェストヒルズ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -11985,17 +10687,6 @@
     "price_man": 4.6,
     "area_sqm": 31.5,
     "url": "https://suumo.jp/chintai/jnc_000108090271/?bc=100512606961",
-    "text": "ウェストヒルズ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000045328275/?bc=100464377722|ウェストヒルズ": {
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市千福",
-    "price_man": 4.6,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000045328275/?bc=100464377722",
     "text": "ウェストヒルズ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -12022,17 +10713,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000080983535/?bc=100522329113|コーポ斉藤Ｂ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.8,
-    "area_sqm": 39.0,
-    "url": "https://suumo.jp/chintai/jnc_000080983535/?bc=100522329113",
-    "text": "コーポ斉藤Ｂ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000091072060/?bc=100522329208|コーポ斉藤Ｂ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -12041,138 +10721,6 @@
     "area_sqm": 39.0,
     "url": "https://suumo.jp/chintai/jnc_000091072060/?bc=100522329208",
     "text": "コーポ斉藤Ｂ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013973249/?bc=100323224078|タウニィセリザワ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.8,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000013973249/?bc=100323224078",
-    "text": "タウニィセリザワ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013973246/?bc=100323224051|タウニィセリザワ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.8,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000013973246/?bc=100323224051",
-    "text": "タウニィセリザワ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000094244318/?bc=100522329207|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.8,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000094244318/?bc=100522329207",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000083830662/?bc=100522328914|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.0,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000083830662/?bc=100522328914",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000083830660/?bc=100522329205|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.0,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000083830660/?bc=100522329205",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000085514802/?bc=100522329136|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.1,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000085514802/?bc=100522329136",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000083830664/?bc=100522329169|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.1,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000083830664/?bc=100522329169",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000083830669/?bc=100522328916|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.2,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000083830669/?bc=100522328916",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106826152/?bc=100522328953|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.2,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000106826152/?bc=100522328953",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000089475809/?bc=100522329058|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.2,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000089475809/?bc=100522329058",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000083830670/?bc=100522328920|フレッサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.2,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000083830670/?bc=100522328920",
-    "text": "フレッサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000070986314/?bc=100522328908|ヌーベル滝の上ＡＢ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 4.6,
-    "area_sqm": 46.4,
-    "url": "https://suumo.jp/chintai/jnc_000070986314/?bc=100522328908",
-    "text": "ヌーベル滝の上ＡＢ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -12198,17 +10746,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000013972910/?bc=100522329107|フジハイムII": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 4.0,
-    "area_sqm": 35.0,
-    "url": "https://suumo.jp/chintai/jnc_000013972910/?bc=100522329107",
-    "text": "フジハイムII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107467127/?bc=100405497176|山之井プラザ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -12231,17 +10768,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000104592952/?bc=100474376209|山之井プラザ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.8,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000104592952/?bc=100474376209",
-    "text": "山之井プラザ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000104592953/?bc=100513008592|山之井プラザ": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -12249,17 +10775,6 @@
     "price_man": 4.8,
     "area_sqm": 37.0,
     "url": "https://suumo.jp/chintai/jnc_000104592953/?bc=100513008592",
-    "text": "山之井プラザ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104592955/?bc=100438584596|山之井プラザ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.8,
-    "area_sqm": 37.0,
-    "url": "https://suumo.jp/chintai/jnc_000104592955/?bc=100438584596",
     "text": "山之井プラザ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -12286,39 +10801,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000098075051/?bc=100521800324|ラビットハウス向田": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.0,
-    "area_sqm": 25.6,
-    "url": "https://suumo.jp/chintai/jnc_000098075051/?bc=100521800324",
-    "text": "ラビットハウス向田",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106833230/?bc=100504324908|ラビットハウス向田": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.5,
-    "area_sqm": 34.6,
-    "url": "https://suumo.jp/chintai/jnc_000106833230/?bc=100504324908",
-    "text": "ラビットハウス向田",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000060250921/?bc=100522329150|シティハイムカツマタ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 3.9,
-    "area_sqm": 23.5,
-    "url": "https://suumo.jp/chintai/jnc_000060250921/?bc=100522329150",
-    "text": "シティハイムカツマタ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107764193/?bc=100496703841|リヴェール壱番館": {
     "first_seen": "2026-08-18",
     "last_seen": "2026-08-20",
@@ -12338,149 +10820,6 @@
     "area_sqm": 29.8,
     "url": "https://suumo.jp/chintai/jnc_000109173627/?bc=100521864537",
     "text": "カーサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109173628/?bc=100521864111|カーサ裾野": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 2.9,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000109173628/?bc=100521864111",
-    "text": "カーサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109139865/?bc=100521864112|カーサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 2.9,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000109139865/?bc=100521864112",
-    "text": "カーサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109139864/?bc=100521864113|カーサ裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 2.9,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000109139864/?bc=100521864113",
-    "text": "カーサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109173626/?bc=100521864114|カーサ裾野": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 2.9,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000109173626/?bc=100521864114",
-    "text": "カーサ裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013972865/?bc=100474539638|ウェルズヒルイナリ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 3.6,
-    "area_sqm": 28.0,
-    "url": "https://suumo.jp/chintai/jnc_000013972865/?bc=100474539638",
-    "text": "ウェルズヒルイナリ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000057895383/?bc=100497292275|ウェルズヒルイナリ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 3.6,
-    "area_sqm": 28.0,
-    "url": "https://suumo.jp/chintai/jnc_000057895383/?bc=100497292275",
-    "text": "ウェルズヒルイナリ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000013972863/?bc=100497292279|ウェルズヒルイナリ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 3.6,
-    "area_sqm": 28.0,
-    "url": "https://suumo.jp/chintai/jnc_000013972863/?bc=100497292279",
-    "text": "ウェルズヒルイナリ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000062512397/?bc=100522329054|フジハイムIII": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.5,
-    "area_sqm": 20.3,
-    "url": "https://suumo.jp/chintai/jnc_000062512397/?bc=100522329054",
-    "text": "フジハイムIII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000068361389/?bc=100522329197|フジハイムIII": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.5,
-    "area_sqm": 20.3,
-    "url": "https://suumo.jp/chintai/jnc_000068361389/?bc=100522329197",
-    "text": "フジハイムIII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108216387/?bc=100522329053|ルネパレス今里": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 3.2,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108216387/?bc=100522329053",
-    "text": "ルネパレス今里",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000019829643/?bc=100521276386|スカイピア": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.9,
-    "area_sqm": 60.0,
-    "url": "https://suumo.jp/chintai/jnc_000019829643/?bc=100521276386",
-    "text": "スカイピア",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109166963/?bc=100520920777|ＪＲ御殿場線 裾野駅 3階建 築13年": {
-    "first_seen": "2026-08-15",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.9,
-    "area_sqm": 60.0,
-    "url": "https://suumo.jp/chintai/jnc_000109166963/?bc=100520920777",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築13年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000062830736/?bc=100521231727|アルカンシェル": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.7,
-    "area_sqm": 56.5,
-    "url": "https://suumo.jp/chintai/jnc_000062830736/?bc=100521231727",
-    "text": "アルカンシェル",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -12517,28 +10856,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108668109/?bc=100517973919|カーサノリ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.6,
-    "area_sqm": 61.8,
-    "url": "https://suumo.jp/chintai/jnc_000108668109/?bc=100517973919",
-    "text": "カーサノリ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108644376/?bc=100517676859|カーサノリ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.6,
-    "area_sqm": 61.8,
-    "url": "https://suumo.jp/chintai/jnc_000108644376/?bc=100517676859",
-    "text": "カーサノリ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107851432/?bc=100516413614|ドゥメゾンマルショウ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -12561,50 +10878,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107014243/?bc=100505703612|プチ　フェルメ": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 7.9,
-    "area_sqm": 59.9,
-    "url": "https://suumo.jp/chintai/jnc_000107014243/?bc=100505703612",
-    "text": "プチ　フェルメ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104350863/?bc=100484954439|サンフィールド　イースト": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 6.1,
-    "area_sqm": 41.0,
-    "url": "https://suumo.jp/chintai/jnc_000104350863/?bc=100484954439",
-    "text": "サンフィールド　イースト",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108884163/?bc=100519788680|ＪＲ御殿場線 岩波駅 2階建 築10年": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 6.0,
-    "area_sqm": 50.0,
-    "url": "https://suumo.jp/chintai/jnc_000108884163/?bc=100519788680",
-    "text": "ＪＲ御殿場線 岩波駅 2階建 築10年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108813491/?bc=100519084245|ＷＯＶＥＮ・Ｍ": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 6.0,
-    "area_sqm": 50.0,
-    "url": "https://suumo.jp/chintai/jnc_000108813491/?bc=100519084245",
-    "text": "ＷＯＶＥＮ・Ｍ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000107932981/?bc=100513994759|ビサリア": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-20",
@@ -12613,39 +10886,6 @@
     "area_sqm": 45.6,
     "url": "https://suumo.jp/chintai/jnc_000107932981/?bc=100513994759",
     "text": "ビサリア",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000066118595/?bc=100502041926|ＪＲ御殿場線 裾野駅 3階建 築20年": {
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.5,
-    "area_sqm": 41.6,
-    "url": "https://suumo.jp/chintai/jnc_000066118595/?bc=100502041926",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築20年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102515091/?bc=100470284093|ＪＲ御殿場線 裾野駅 3階建 築20年": {
-    "first_seen": "2026-07-31",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.5,
-    "area_sqm": 41.0,
-    "url": "https://suumo.jp/chintai/jnc_000102515091/?bc=100470284093",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築20年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000103829122/?bc=100463866202|グランシャリオ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.2,
-    "area_sqm": 66.0,
-    "url": "https://suumo.jp/chintai/jnc_000103829122/?bc=100463866202",
-    "text": "グランシャリオ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -12660,61 +10900,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000106602354/?bc=100502675643|ロイヤルパレス杉山": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.5,
-    "area_sqm": 64.7,
-    "url": "https://suumo.jp/chintai/jnc_000106602354/?bc=100502675643",
-    "text": "ロイヤルパレス杉山",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108727724/?bc=100518444746|レオパレスルフラン": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 5.7,
-    "area_sqm": 20.3,
-    "url": "https://suumo.jp/chintai/jnc_000108727724/?bc=100518444746",
-    "text": "レオパレスルフラン",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107974295/?bc=100504060705|エコロガーデン": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 8.0,
-    "area_sqm": 66.2,
-    "url": "https://suumo.jp/chintai/jnc_000107974295/?bc=100504060705",
-    "text": "エコロガーデン",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106149954/?bc=100487511482|グランメール裾野": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.1,
-    "area_sqm": 58.5,
-    "url": "https://suumo.jp/chintai/jnc_000106149954/?bc=100487511482",
-    "text": "グランメール裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102806768/?bc=100502662917|ＪＲ御殿場線 裾野駅 地上2階建 築29年": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 8.0,
-    "area_sqm": 78.4,
-    "url": "https://suumo.jp/chintai/jnc_000102806768/?bc=100502662917",
-    "text": "ＪＲ御殿場線 裾野駅 地上2階建 築29年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108532852/?bc=100517009481|Ｒルミエール": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-20",
@@ -12723,127 +10908,6 @@
     "area_sqm": 52.5,
     "url": "https://suumo.jp/chintai/jnc_000108532852/?bc=100517009481",
     "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108742937/?bc=100517009465|Ｒルミエール": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.4,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108742937/?bc=100517009465",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108532853/?bc=100516996383|Ｒルミエール": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.4,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108532853/?bc=100516996383",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108361375/?bc=100513242253|Ｒルミエール": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.5,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108361375/?bc=100513242253",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108451961/?bc=100516348767|Ｒルミエール": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.5,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108451961/?bc=100516348767",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108361376/?bc=100513242262|Ｒルミエール": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.5,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108361376/?bc=100513242262",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108532854/?bc=100516996385|Ｒルミエール": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 6.5,
-    "area_sqm": 52.5,
-    "url": "https://suumo.jp/chintai/jnc_000108532854/?bc=100516996385",
-    "text": "Ｒルミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108691959/?bc=100518178674|レオパレスストリーム": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 5.7,
-    "area_sqm": 20.3,
-    "url": "https://suumo.jp/chintai/jnc_000108691959/?bc=100518178674",
-    "text": "レオパレスストリーム",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107821114/?bc=100432344077|ルインズワタナベ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 4.0,
-    "area_sqm": 24.3,
-    "url": "https://suumo.jp/chintai/jnc_000107821114/?bc=100432344077",
-    "text": "ルインズワタナベ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107821115/?bc=100340072677|ルインズワタナベ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.1,
-    "area_sqm": 48.0,
-    "url": "https://suumo.jp/chintai/jnc_000107821115/?bc=100340072677",
-    "text": "ルインズワタナベ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107821116/?bc=100449875961|ルインズワタナベ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.2,
-    "area_sqm": 48.0,
-    "url": "https://suumo.jp/chintai/jnc_000107821116/?bc=100449875961",
-    "text": "ルインズワタナベ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000055665427/?bc=100195239631|ＪＲ御殿場線 岩波駅 2階建 築20年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 7.7,
-    "area_sqm": 82.5,
-    "url": "https://suumo.jp/chintai/jnc_000055665427/?bc=100195239631",
-    "text": "ＪＲ御殿場線 岩波駅 2階建 築20年",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -12858,39 +10922,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000105956858/?bc=100517589172|ビューコート久保壱番館": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.95,
-    "area_sqm": 43.7,
-    "url": "https://suumo.jp/chintai/jnc_000105956858/?bc=100517589172",
-    "text": "ビューコート久保壱番館",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107511706/?bc=100509319160|ビューコート久保壱番館": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.2,
-    "area_sqm": 43.7,
-    "url": "https://suumo.jp/chintai/jnc_000107511706/?bc=100509319160",
-    "text": "ビューコート久保壱番館",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108565412/?bc=100517088953|レオパレスストリームII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 6.2,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000108565412/?bc=100517088953",
-    "text": "レオパレスストリームII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108727723/?bc=100518488940|レオパレスサン　ヒル": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -12899,39 +10930,6 @@
     "area_sqm": 23.6,
     "url": "https://suumo.jp/chintai/jnc_000108727723/?bc=100518488940",
     "text": "レオパレスサン　ヒル",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000092753598/?bc=100465483653|AKII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 5.3,
-    "area_sqm": 29.5,
-    "url": "https://suumo.jp/chintai/jnc_000092753598/?bc=100465483653",
-    "text": "AKII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000104728023/?bc=100483883333|AKII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 5.6,
-    "area_sqm": 28.6,
-    "url": "https://suumo.jp/chintai/jnc_000104728023/?bc=100483883333",
-    "text": "AKII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000069012341/?bc=100454397095|シャラ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 5.1,
-    "area_sqm": 31.4,
-    "url": "https://suumo.jp/chintai/jnc_000069012341/?bc=100454397095",
-    "text": "シャラ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -12957,17 +10955,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000078445600/?bc=100305726302|リュミエール": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000078445600/?bc=100305726302",
-    "text": "リュミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000071697723/?bc=100497849135|リュミエール": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-20",
@@ -12975,17 +10962,6 @@
     "price_man": 4.9,
     "area_sqm": 36.3,
     "url": "https://suumo.jp/chintai/jnc_000071697723/?bc=100497849135",
-    "text": "リュミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000090719337/?bc=100416596708|リュミエール": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000090719337/?bc=100416596708",
     "text": "リュミエール",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -13001,83 +10977,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000090719336/?bc=100473161648|リュミエール": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 36.3,
-    "url": "https://suumo.jp/chintai/jnc_000090719336/?bc=100473161648",
-    "text": "リュミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000086621723/?bc=100354677214|リュミエール": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市桃園",
-    "price_man": 4.9,
-    "area_sqm": 28.4,
-    "url": "https://suumo.jp/chintai/jnc_000086621723/?bc=100354677214",
-    "text": "リュミエール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109163784/?bc=100486664374|瀧マンションＣ棟": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 7.0,
-    "area_sqm": 65.0,
-    "url": "https://suumo.jp/chintai/jnc_000109163784/?bc=100486664374",
-    "text": "瀧マンションＣ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102680886/?bc=100471641539|アクエリアスステージ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.4,
-    "area_sqm": 41.6,
-    "url": "https://suumo.jp/chintai/jnc_000102680886/?bc=100471641539",
-    "text": "アクエリアスステージ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108927962/?bc=100520124743|アクエリアスステージ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.4,
-    "area_sqm": 41.6,
-    "url": "https://suumo.jp/chintai/jnc_000108927962/?bc=100520124743",
-    "text": "アクエリアスステージ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000091547086/?bc=100507491999|コンフォートヒルＡ棟": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 5.5,
-    "area_sqm": 55.4,
-    "url": "https://suumo.jp/chintai/jnc_000091547086/?bc=100507491999",
-    "text": "コンフォートヒルＡ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108808036/?bc=100511408613|瀧マンションＦ棟": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 7.0,
-    "area_sqm": 65.0,
-    "url": "https://suumo.jp/chintai/jnc_000108808036/?bc=100511408613",
-    "text": "瀧マンションＦ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108298226/?bc=100514629101|レオネクスト黄瀬川": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -13089,17 +10988,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108896884/?bc=100519860194|レオパレスフォレスト": {
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.8,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108896884/?bc=100519860194",
-    "text": "レオパレスフォレスト",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108379496/?bc=100515666237|レオパレスフォレスト": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -13107,17 +10995,6 @@
     "price_man": 6.1,
     "area_sqm": 19.9,
     "url": "https://suumo.jp/chintai/jnc_000108379496/?bc=100515666237",
-    "text": "レオパレスフォレスト",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108808039/?bc=100519145598|レオパレスフォレスト": {
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.1,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000108808039/?bc=100519145598",
     "text": "レオパレスフォレスト",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -13133,17 +11010,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000040448343/?bc=100502662873|ＪＲ御殿場線 裾野駅 3階建 築21年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.5,
-    "area_sqm": 43.7,
-    "url": "https://suumo.jp/chintai/jnc_000040448343/?bc=100502662873",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築21年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000085322070/?bc=100507931419|パレス野添II": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -13151,17 +11017,6 @@
     "price_man": 5.3,
     "area_sqm": 39.6,
     "url": "https://suumo.jp/chintai/jnc_000085322070/?bc=100507931419",
-    "text": "パレス野添II",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106269784/?bc=100500219595|パレス野添II": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.3,
-    "area_sqm": 39.6,
-    "url": "https://suumo.jp/chintai/jnc_000106269784/?bc=100500219595",
     "text": "パレス野添II",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
@@ -13199,61 +11054,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000068105903/?bc=100508630245|サン　ウィステリア": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 4.4,
-    "area_sqm": 34.1,
-    "url": "https://suumo.jp/chintai/jnc_000068105903/?bc=100508630245",
-    "text": "サン　ウィステリア",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102720801/?bc=100471885226|ロイヤルテラス華": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 8.0,
-    "area_sqm": 78.4,
-    "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100471885226",
-    "text": "ロイヤルテラス華",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000054610607/?bc=100521726722|プラザラフォーレ　I": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市麦塚",
-    "price_man": 6.6,
-    "area_sqm": 66.0,
-    "url": "https://suumo.jp/chintai/jnc_000054610607/?bc=100521726722",
-    "text": "プラザラフォーレ　I",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000038898908/?bc=100116743436|スマイルズ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.5,
-    "area_sqm": 43.7,
-    "url": "https://suumo.jp/chintai/jnc_000038898908/?bc=100116743436",
-    "text": "スマイルズ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000063492670/?bc=100231020034|ＪＲ御殿場線 下土狩駅 4階建 築22年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 5.0,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000063492670/?bc=100231020034",
-    "text": "ＪＲ御殿場線 下土狩駅 4階建 築22年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000104592950/?bc=100437497461|ヴェル・アージュ・ノゼ": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-20",
@@ -13265,39 +11065,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108202422/?bc=100394420086|ヴェル・アージュ・ノゼ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.1,
-    "area_sqm": 50.0,
-    "url": "https://suumo.jp/chintai/jnc_000108202422/?bc=100394420086",
-    "text": "ヴェル・アージュ・ノゼ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000094990108/?bc=100499497970|アレルトK": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 7.0,
-    "area_sqm": 52.0,
-    "url": "https://suumo.jp/chintai/jnc_000094990108/?bc=100499497970",
-    "text": "アレルトK",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000092338971/?bc=100393147798|フローラ伊東": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 6.8,
-    "area_sqm": 56.4,
-    "url": "https://suumo.jp/chintai/jnc_000092338971/?bc=100393147798",
-    "text": "フローラ伊東",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108432158/?bc=100514629039|レオパレス富沢": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -13306,138 +11073,6 @@
     "area_sqm": 22.4,
     "url": "https://suumo.jp/chintai/jnc_000108432158/?bc=100514629039",
     "text": "レオパレス富沢",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000076610037/?bc=100295922417|ＪＲ御殿場線 裾野駅 3階建 築22年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 4.7,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000076610037/?bc=100295922417",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築22年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000077616800/?bc=100464863657|柳畑アラク": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.7,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000077616800/?bc=100464863657",
-    "text": "柳畑アラク",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107611842/?bc=100510067016|パレス　ローリエ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 4.6,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000107611842/?bc=100510067016",
-    "text": "パレス　ローリエ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000050415238/?bc=100505088113|ＪＲ御殿場線 岩波駅 2階建 築16年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 4.5,
-    "area_sqm": 29.8,
-    "url": "https://suumo.jp/chintai/jnc_000050415238/?bc=100505088113",
-    "text": "ＪＲ御殿場線 岩波駅 2階建 築16年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109130710/?bc=100520876430|アンプボヤージュ": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 4.7,
-    "area_sqm": 31.5,
-    "url": "https://suumo.jp/chintai/jnc_000109130710/?bc=100520876430",
-    "text": "アンプボヤージュ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108754656/?bc=100518643804|レオパレスディアコート": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市金沢",
-    "price_man": 5.7,
-    "area_sqm": 23.2,
-    "url": "https://suumo.jp/chintai/jnc_000108754656/?bc=100518643804",
-    "text": "レオパレスディアコート",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108896880/?bc=100519860071|レオパレスディアコート　エス": {
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市金沢",
-    "price_man": 6.7,
-    "area_sqm": 23.6,
-    "url": "https://suumo.jp/chintai/jnc_000108896880/?bc=100519860071",
-    "text": "レオパレスディアコート　エス",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102227045/?bc=100401050553|長塚ハイツ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.5,
-    "area_sqm": 50.0,
-    "url": "https://suumo.jp/chintai/jnc_000102227045/?bc=100401050553",
-    "text": "長塚ハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000098762768/?bc=100323007957|ウエストフィールド壽": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.5,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000098762768/?bc=100323007957",
-    "text": "ウエストフィールド壽",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000090489659/?bc=100439711100|ＪＲ御殿場線 裾野駅 2階建 築32年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000090489659/?bc=100439711100",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築32年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000090489658/?bc=100439711098|ＪＲ御殿場線 裾野駅 2階建 築32年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.2,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000090489658/?bc=100439711098",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築32年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000022382113/?bc=100501312891|ハイウェイヒルズ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 4.8,
-    "area_sqm": 51.0,
-    "url": "https://suumo.jp/chintai/jnc_000022382113/?bc=100501312891",
-    "text": "ハイウェイヒルズ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -13463,72 +11098,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000029563391/?bc=100501783479|グリーンフィールド": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000029563391/?bc=100501783479",
-    "text": "グリーンフィールド",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000088158909/?bc=100469431058|グリーンフィールド": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 5.2,
-    "area_sqm": 39.6,
-    "url": "https://suumo.jp/chintai/jnc_000088158909/?bc=100469431058",
-    "text": "グリーンフィールド",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000076963612/?bc=100507157416|サクセス三清": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 4.5,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000076963612/?bc=100507157416",
-    "text": "サクセス三清",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108918131/?bc=100520010823|カナディアンハイム": {
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市上ケ田",
-    "price_man": 6.7,
-    "area_sqm": 73.8,
-    "url": "https://suumo.jp/chintai/jnc_000108918131/?bc=100520010823",
-    "text": "カナディアンハイム",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108918133/?bc=100490728069|ＪＲ御殿場線 岩波駅 3階建 築38年": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 5.5,
-    "area_sqm": 46.3,
-    "url": "https://suumo.jp/chintai/jnc_000108918133/?bc=100490728069",
-    "text": "ＪＲ御殿場線 岩波駅 3階建 築38年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108500541/?bc=100510521898|ＪＲ御殿場線 裾野駅 2階建 築30年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市二ツ屋",
-    "price_man": 4.2,
-    "area_sqm": 40.9,
-    "url": "https://suumo.jp/chintai/jnc_000108500541/?bc=100510521898",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築30年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000099342825/?bc=100168857650|サンハイツＡ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -13540,127 +11109,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000105866362/?bc=100496749279|サンハイツＡ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市桃園",
-    "price_man": 5.5,
-    "area_sqm": 43.0,
-    "url": "https://suumo.jp/chintai/jnc_000105866362/?bc=100496749279",
-    "text": "サンハイツＡ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000062387183/?bc=100339595075|磯部ハイツＣ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 5.3,
-    "area_sqm": 49.0,
-    "url": "https://suumo.jp/chintai/jnc_000062387183/?bc=100339595075",
-    "text": "磯部ハイツＣ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106636881/?bc=100440700718|磯部ハイツＣ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 5.5,
-    "area_sqm": 50.9,
-    "url": "https://suumo.jp/chintai/jnc_000106636881/?bc=100440700718",
-    "text": "磯部ハイツＣ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106636880/?bc=100324378892|磯部ハイツＣ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 5.5,
-    "area_sqm": 50.9,
-    "url": "https://suumo.jp/chintai/jnc_000106636880/?bc=100324378892",
-    "text": "磯部ハイツＣ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000063361069/?bc=100224059013|ライブリー鳥沢Ａ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.5,
-    "area_sqm": 42.0,
-    "url": "https://suumo.jp/chintai/jnc_000063361069/?bc=100224059013",
-    "text": "ライブリー鳥沢Ａ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108273125/?bc=100515249380|クレール中丸": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 39.7,
-    "url": "https://suumo.jp/chintai/jnc_000108273125/?bc=100515249380",
-    "text": "クレール中丸",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106714230/?bc=100498847651|空": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 4.9,
-    "area_sqm": 55.0,
-    "url": "https://suumo.jp/chintai/jnc_000106714230/?bc=100498847651",
-    "text": "空",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108987939/?bc=100514629496|レオパレス岩波": {
-    "first_seen": "2026-08-05",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 5.7,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000108987939/?bc=100514629496",
-    "text": "レオパレス岩波",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000055723724/?bc=100454397106|エタンシャンラヴィーヌ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 5.0,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000055723724/?bc=100454397106",
-    "text": "エタンシャンラヴィーヌ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000086599831/?bc=100354541211|ＴＡＫＡＤＡハイツ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市葛山",
-    "price_man": 7.0,
-    "area_sqm": 48.6,
-    "url": "https://suumo.jp/chintai/jnc_000086599831/?bc=100354541211",
-    "text": "ＴＡＫＡＤＡハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000064011714/?bc=100224059011|鳥沢ハイツ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.8,
-    "area_sqm": 40.0,
-    "url": "https://suumo.jp/chintai/jnc_000064011714/?bc=100224059011",
-    "text": "鳥沢ハイツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000101387014/?bc=100459068788|ＪＲ御殿場線 裾野駅 4階建 築21年": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-20",
@@ -13669,204 +11117,6 @@
     "area_sqm": 31.5,
     "url": "https://suumo.jp/chintai/jnc_000101387014/?bc=100459068788",
     "text": "ＪＲ御殿場線 裾野駅 4階建 築21年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000092383458/?bc=100393401787|ＪＲ御殿場線 岩波駅 2階建 築19年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 3.6,
-    "area_sqm": 19.0,
-    "url": "https://suumo.jp/chintai/jnc_000092383458/?bc=100393401787",
-    "text": "ＪＲ御殿場線 岩波駅 2階建 築19年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000068972329/?bc=100489830091|サンリット・レジデンス": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 5.0,
-    "area_sqm": 25.0,
-    "url": "https://suumo.jp/chintai/jnc_000068972329/?bc=100489830091",
-    "text": "サンリット・レジデンス",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000038285774/?bc=100288457147|サンリット・レジデンス": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 5.0,
-    "area_sqm": 24.0,
-    "url": "https://suumo.jp/chintai/jnc_000038285774/?bc=100288457147",
-    "text": "サンリット・レジデンス",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000036508017/?bc=100467291222|サンリット・レジデンス": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 5.0,
-    "area_sqm": 24.0,
-    "url": "https://suumo.jp/chintai/jnc_000036508017/?bc=100467291222",
-    "text": "サンリット・レジデンス",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106416435/?bc=100382766612|ロイヤルパレス深良": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 4.9,
-    "area_sqm": 58.9,
-    "url": "https://suumo.jp/chintai/jnc_000106416435/?bc=100382766612",
-    "text": "ロイヤルパレス深良",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106416434/?bc=100481236755|ロイヤルパレス深良": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 4.9,
-    "area_sqm": 58.9,
-    "url": "https://suumo.jp/chintai/jnc_000106416434/?bc=100481236755",
-    "text": "ロイヤルパレス深良",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000091556613/?bc=100463866493|ロイヤルパレス深良": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 5.0,
-    "area_sqm": 58.9,
-    "url": "https://suumo.jp/chintai/jnc_000091556613/?bc=100463866493",
-    "text": "ロイヤルパレス深良",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000068984107/?bc=100512595771|ＪＲ御殿場線 裾野駅 3階建 築30年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 3.5,
-    "area_sqm": 28.9,
-    "url": "https://suumo.jp/chintai/jnc_000068984107/?bc=100512595771",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築30年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107947077/?bc=100454344549|ＪＲ御殿場線 裾野駅 3階建 築30年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.2,
-    "area_sqm": 28.9,
-    "url": "https://suumo.jp/chintai/jnc_000107947077/?bc=100454344549",
-    "text": "ＪＲ御殿場線 裾野駅 3階建 築30年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000098951176/?bc=100502376478|ミルキークオーツ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 3.8,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000098951176/?bc=100502376478",
-    "text": "ミルキークオーツ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000071215768/?bc=100176909092|タウニィ１２５": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 40.0,
-    "url": "https://suumo.jp/chintai/jnc_000071215768/?bc=100176909092",
-    "text": "タウニィ１２５",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000053608550/?bc=100266504050|タウニィ１２５": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.5,
-    "area_sqm": 40.0,
-    "url": "https://suumo.jp/chintai/jnc_000053608550/?bc=100266504050",
-    "text": "タウニィ１２５",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000089028998/?bc=100316562106|ＤＡＮＯＩ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.5,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000089028998/?bc=100316562106",
-    "text": "ＤＡＮＯＩ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000099780135/?bc=100517969739|ＤＡＮＯＩ": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.4,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000099780135/?bc=100517969739",
-    "text": "ＤＡＮＯＩ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106598857/?bc=100502619413|ウッディーハイツＳ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 3.9,
-    "area_sqm": 44.6,
-    "url": "https://suumo.jp/chintai/jnc_000106598857/?bc=100502619413",
-    "text": "ウッディーハイツＳ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000049374355/?bc=100521363842|ウッディーハイツＳ": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 3.9,
-    "area_sqm": 40.5,
-    "url": "https://suumo.jp/chintai/jnc_000049374355/?bc=100521363842",
-    "text": "ウッディーハイツＳ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000057988882/?bc=100197539456|ファミール塚口": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市久根",
-    "price_man": 4.5,
-    "area_sqm": 39.0,
-    "url": "https://suumo.jp/chintai/jnc_000057988882/?bc=100197539456",
-    "text": "ファミール塚口",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108193485/?bc=100514730796|メゾンドスワローズ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.2,
-    "area_sqm": 40.7,
-    "url": "https://suumo.jp/chintai/jnc_000108193485/?bc=100514730796",
-    "text": "メゾンドスワローズ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -13914,94 +11164,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000068688279/?bc=100512643631|ハウスＮｏ．１": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 3.5,
-    "area_sqm": 28.9,
-    "url": "https://suumo.jp/chintai/jnc_000068688279/?bc=100512643631",
-    "text": "ハウスＮｏ．１",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107952561/?bc=100463866565|ハウスＮｏ．１": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.2,
-    "area_sqm": 36.9,
-    "url": "https://suumo.jp/chintai/jnc_000107952561/?bc=100463866565",
-    "text": "ハウスＮｏ．１",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000064828628/?bc=100522328861|磯部ハイツＤ棟": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 4.5,
-    "area_sqm": 39.1,
-    "url": "https://suumo.jp/chintai/jnc_000064828628/?bc=100522328861",
-    "text": "磯部ハイツＤ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108049248/?bc=100513503678|ボヌールコート": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市御宿",
-    "price_man": 3.5,
-    "area_sqm": 19.7,
-    "url": "https://suumo.jp/chintai/jnc_000108049248/?bc=100513503678",
-    "text": "ボヌールコート",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108580880/?bc=100517252203|フォーブル平松": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.5,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000108580880/?bc=100517252203",
-    "text": "フォーブル平松",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108580879/?bc=100517252202|フォーブル平松": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 4.5,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000108580879/?bc=100517252202",
-    "text": "フォーブル平松",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000099244968/?bc=100442670365|シャーメゾン平松": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 3.7,
-    "area_sqm": 23.0,
-    "url": "https://suumo.jp/chintai/jnc_000099244968/?bc=100442670365",
-    "text": "シャーメゾン平松",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105366176/?bc=100492744611|シティハイムさつき　Ｂ棟": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 4.6,
-    "area_sqm": 39.0,
-    "url": "https://suumo.jp/chintai/jnc_000105366176/?bc=100492744611",
-    "text": "シティハイムさつき　Ｂ棟",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000105854491/?bc=100497292265|ウエルズ平松ビル": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -14021,94 +11183,6 @@
     "area_sqm": 19.0,
     "url": "https://suumo.jp/chintai/jnc_000105839670/?bc=100497292266",
     "text": "ウエルズ平松ビル",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108944291/?bc=100520281263|エルディムドルチェＢ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市水窪",
-    "price_man": 4.0,
-    "area_sqm": 33.0,
-    "url": "https://suumo.jp/chintai/jnc_000108944291/?bc=100520281263",
-    "text": "エルディムドルチェＢ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000092543469/?bc=100349149146|ラプラスウエマツ２": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 3.9,
-    "area_sqm": 38.2,
-    "url": "https://suumo.jp/chintai/jnc_000092543469/?bc=100349149146",
-    "text": "ラプラスウエマツ２",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000068329984/?bc=100250560050|ファーストハイツ今里": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 3.6,
-    "area_sqm": 19.0,
-    "url": "https://suumo.jp/chintai/jnc_000068329984/?bc=100250560050",
-    "text": "ファーストハイツ今里",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106433973/?bc=100481056891|メゾンオオバ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 6.4,
-    "area_sqm": 58.0,
-    "url": "https://suumo.jp/chintai/jnc_000106433973/?bc=100481056891",
-    "text": "メゾンオオバ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106433974/?bc=100501494359|メゾンオオバ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 6.7,
-    "area_sqm": 58.0,
-    "url": "https://suumo.jp/chintai/jnc_000106433974/?bc=100501494359",
-    "text": "メゾンオオバ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107379884/?bc=100483591781|タウニィくすの木": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.9,
-    "area_sqm": 30.5,
-    "url": "https://suumo.jp/chintai/jnc_000107379884/?bc=100483591781",
-    "text": "タウニィくすの木",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107379883/?bc=100483591780|タウニィくすの木": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.9,
-    "area_sqm": 30.5,
-    "url": "https://suumo.jp/chintai/jnc_000107379883/?bc=100483591780",
-    "text": "タウニィくすの木",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106433975/?bc=100481057087|カーサオオバ": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.2,
-    "area_sqm": 39.0,
-    "url": "https://suumo.jp/chintai/jnc_000106433975/?bc=100481057087",
-    "text": "カーサオオバ",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -14134,50 +11208,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000071140631/?bc=100215247314|ストーンパレスII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 3.7,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000071140631/?bc=100215247314",
-    "text": "ストーンパレスII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000063724703/?bc=100215245712|ストーンパレスII": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 3.7,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000063724703/?bc=100215245712",
-    "text": "ストーンパレスII",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000061857994/?bc=100477066788|ラ・ネージュ": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 3.0,
-    "area_sqm": 22.5,
-    "url": "https://suumo.jp/chintai/jnc_000061857994/?bc=100477066788",
-    "text": "ラ・ネージュ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108342632/?bc=100498072088|ハイツ欅": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 3.8,
-    "area_sqm": 44.5,
-    "url": "https://suumo.jp/chintai/jnc_000108342632/?bc=100498072088",
-    "text": "ハイツ欅",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108936570/?bc=100520192668|ＪＲ御殿場線 裾野駅 2階建 築30年": {
     "first_seen": "2026-08-03",
     "last_seen": "2026-08-20",
@@ -14186,28 +11216,6 @@
     "area_sqm": 24.7,
     "url": "https://suumo.jp/chintai/jnc_000108936570/?bc=100520192668",
     "text": "ＪＲ御殿場線 裾野駅 2階建 築30年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000078628608/?bc=100352820836|ＪＲ東海道本線 三島駅 2階建 築29年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市公文名",
-    "price_man": 3.7,
-    "area_sqm": 27.1,
-    "url": "https://suumo.jp/chintai/jnc_000078628608/?bc=100352820836",
-    "text": "ＪＲ東海道本線 三島駅 2階建 築29年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107921165/?bc=100512356214|ＳＡＭ－１": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.2,
-    "area_sqm": 20.2,
-    "url": "https://suumo.jp/chintai/jnc_000107921165/?bc=100512356214",
-    "text": "ＳＡＭ－１",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -14222,83 +11230,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000106098609/?bc=100498797920|ラプラス植松I": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 3.9,
-    "area_sqm": 40.0,
-    "url": "https://suumo.jp/chintai/jnc_000106098609/?bc=100498797920",
-    "text": "ラプラス植松I",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000100987162/?bc=100454394971|ＪＲ御殿場線 裾野駅 7階建 築27年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 12.0,
-    "area_sqm": 69.4,
-    "url": "https://suumo.jp/chintai/jnc_000100987162/?bc=100454394971",
-    "text": "ＪＲ御殿場線 裾野駅 7階建 築27年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000096948209/?bc=100449875958|ハウス柏木": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 3.0,
-    "area_sqm": 19.9,
-    "url": "https://suumo.jp/chintai/jnc_000096948209/?bc=100449875958",
-    "text": "ハウス柏木",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106734269/?bc=100343368356|フレグランス服部": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 3.7,
-    "area_sqm": 21.2,
-    "url": "https://suumo.jp/chintai/jnc_000106734269/?bc=100343368356",
-    "text": "フレグランス服部",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109218606/?bc=100514712638|ひなたと春色メゾン": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 10.9,
-    "area_sqm": 130.0,
-    "url": "https://suumo.jp/chintai/jnc_000109218606/?bc=100514712638",
-    "text": "ひなたと春色メゾン",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108775138/?bc=100516138113|ひなたと春色メゾン": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 11.9,
-    "area_sqm": 130.0,
-    "url": "https://suumo.jp/chintai/jnc_000108775138/?bc=100516138113",
-    "text": "ひなたと春色メゾン",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108912962/?bc=100519945819|ＪＲ御殿場線 裾野駅 平屋 築53年": {
-    "first_seen": "2026-08-02",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 7.0,
-    "area_sqm": 70.0,
-    "url": "https://suumo.jp/chintai/jnc_000108912962/?bc=100519945819",
-    "text": "ＪＲ御殿場線 裾野駅 平屋 築53年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000013973447/?bc=100358623429|磯部ハイツＡＢ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -14307,149 +11238,6 @@
     "area_sqm": 34.8,
     "url": "https://suumo.jp/chintai/jnc_000013973447/?bc=100358623429",
     "text": "磯部ハイツＡＢ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000109061464/?bc=100520984917|ブルーベリーハウスin裾野": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 7.0,
-    "area_sqm": 70.0,
-    "url": "https://suumo.jp/chintai/jnc_000109061464/?bc=100520984917",
-    "text": "ブルーベリーハウスin裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000107233367/?bc=100507131368|ブルーベリーハウスin裾野": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 7.0,
-    "area_sqm": 70.0,
-    "url": "https://suumo.jp/chintai/jnc_000107233367/?bc=100507131368",
-    "text": "ブルーベリーハウスin裾野",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000097356738/?bc=100428069870|アビタシオンカラマズーツー志むら": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市金沢",
-    "price_man": 3.9,
-    "area_sqm": 38.9,
-    "url": "https://suumo.jp/chintai/jnc_000097356738/?bc=100428069870",
-    "text": "アビタシオンカラマズーツー志むら",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000094141360/?bc=100406719912|杉山戸建": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 10.0,
-    "area_sqm": 79.0,
-    "url": "https://suumo.jp/chintai/jnc_000094141360/?bc=100406719912",
-    "text": "杉山戸建",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000106890426/?bc=100406891859|裾野平松戸建": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市平松",
-    "price_man": 10.0,
-    "area_sqm": 78.0,
-    "url": "https://suumo.jp/chintai/jnc_000106890426/?bc=100406891859",
-    "text": "裾野平松戸建",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000032338540/?bc=100497292281|ウエルズヒルマチダ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 3.5,
-    "area_sqm": 19.8,
-    "url": "https://suumo.jp/chintai/jnc_000032338540/?bc=100497292281",
-    "text": "ウエルズヒルマチダ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000071964595/?bc=100497292270|ウエルズヒルマチダ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 3.5,
-    "area_sqm": 19.8,
-    "url": "https://suumo.jp/chintai/jnc_000071964595/?bc=100497292270",
-    "text": "ウエルズヒルマチダ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000081612361/?bc=100497292269|ウエルズヒルマチダ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 3.5,
-    "area_sqm": 19.8,
-    "url": "https://suumo.jp/chintai/jnc_000081612361/?bc=100497292269",
-    "text": "ウエルズヒルマチダ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000105919553/?bc=100486800787|メゾンクレール": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市岩波",
-    "price_man": 2.9,
-    "area_sqm": 26.4,
-    "url": "https://suumo.jp/chintai/jnc_000105919553/?bc=100486800787",
-    "text": "メゾンクレール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000072761022/?bc=100467291223|シティハイムカツマタ": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市今里",
-    "price_man": 2.9,
-    "area_sqm": 18.4,
-    "url": "https://suumo.jp/chintai/jnc_000072761022/?bc=100467291223",
-    "text": "シティハイムカツマタ",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000108361373/?bc=100512354584|エスポワール": {
-    "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市富沢",
-    "price_man": 8.1,
-    "area_sqm": 64.6,
-    "url": "https://suumo.jp/chintai/jnc_000108361373/?bc=100512354584",
-    "text": "エスポワール",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000100654651/?bc=100453150439|オードリーセレブ・I": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市須山",
-    "price_man": 5.5,
-    "area_sqm": 46.9,
-    "url": "https://suumo.jp/chintai/jnc_000100654651/?bc=100453150439",
-    "text": "オードリーセレブ・I",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000102387908/?bc=100469010316|オードリーセレブ・I": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市須山",
-    "price_man": 5.6,
-    "area_sqm": 65.6,
-    "url": "https://suumo.jp/chintai/jnc_000102387908/?bc=100469010316",
-    "text": "オードリーセレブ・I",
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
@@ -14552,17 +11340,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000108325957/?bc=100515425771|Ｎｏｔｒｅ　Ｍａｉｓｏｎ　III・V": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 8.0,
-    "area_sqm": 54.5,
-    "url": "https://suumo.jp/chintai/jnc_000108325957/?bc=100515425771",
-    "text": "Ｎｏｔｒｅ　Ｍａｉｓｏｎ　III・V",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108298216/?bc=100514629438|レオネクストサンリット双葉": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -14596,39 +11373,6 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107756328/?bc=100511138443|ＪＲ御殿場線 裾野駅 2階建 築26年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市佐野",
-    "price_man": 4.9,
-    "area_sqm": 48.8,
-    "url": "https://suumo.jp/chintai/jnc_000107756328/?bc=100511138443",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築26年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000090436156/?bc=100379709598|ＪＲ御殿場線 裾野駅 2階建 築31年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.0,
-    "area_sqm": 49.5,
-    "url": "https://suumo.jp/chintai/jnc_000090436156/?bc=100379709598",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築31年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000094532282/?bc=100401587054|ＪＲ御殿場線 裾野駅 2階建 築31年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 5.0,
-    "area_sqm": 49.5,
-    "url": "https://suumo.jp/chintai/jnc_000094532282/?bc=100401587054",
-    "text": "ＪＲ御殿場線 裾野駅 2階建 築31年",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
   "https://suumo.jp/chintai/jnc_000108252191/?bc=100514629363|レオパレスコンフォール石脇３": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-20",
@@ -14651,70 +11395,367 @@
     "removed_on": "2026-08-21",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000079270800/?bc=100375293453|土屋ハウスI": {
+  "https://suumo.jp/chintai/jnc_000108840117/|ユリーカ": {
     "first_seen": "2026-08-20",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市深良",
-    "price_man": 5.6,
-    "area_sqm": 58.7,
-    "url": "https://suumo.jp/chintai/jnc_000079270800/?bc=100375293453",
-    "text": "土屋ハウスI",
-    "removed_on": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 5.9,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000108840117/",
+    "text": "ユリーカ",
+    "removed_on": "2026-08-22",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000104467390/?bc=100485889109|タウニィ裾野II": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 6.3,
-    "area_sqm": 45.9,
-    "url": "https://suumo.jp/chintai/jnc_000104467390/?bc=100485889109",
-    "text": "タウニィ裾野II",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 賃貸 裾野市"
-  },
-  "https://suumo.jp/chintai/jnc_000098660761/?bc=100464863620|ＣＯＣＯＲＡリブ": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-20",
+  "https://suumo.jp/chintai/jnc_000093078465/|ラヴィアンローズＮ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
     "location": "静岡県裾野市佐野",
-    "price_man": 4.6,
-    "area_sqm": 30.4,
-    "url": "https://suumo.jp/chintai/jnc_000098660761/?bc=100464863620",
-    "text": "ＣＯＣＯＲＡリブ",
-    "removed_on": "2026-08-21",
+    "price_man": 5.6,
+    "area_sqm": 44.5,
+    "url": "https://suumo.jp/chintai/jnc_000093078465/",
+    "text": "ラヴィアンローズＮ",
+    "removed_on": "2026-08-22",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107682299/?bc=100509891787|ＪＲ東海道本線 三島駅 3階建 築40年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.5,
-    "area_sqm": 42.1,
-    "url": "https://suumo.jp/chintai/jnc_000107682299/?bc=100509891787",
-    "text": "ＪＲ東海道本線 三島駅 3階建 築40年",
-    "removed_on": "2026-08-21",
+  "https://suumo.jp/chintai/jnc_000087115832/|ＪＲ御殿場線 岩波駅 2階建 築24年": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市深良",
+    "price_man": 6.15,
+    "area_sqm": 60.9,
+    "url": "https://suumo.jp/chintai/jnc_000087115832/",
+    "text": "ＪＲ御殿場線 岩波駅 2階建 築24年",
+    "removed_on": "2026-08-22",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000107358585/?bc=100507612919|ＪＲ東海道本線 三島駅 3階建 築40年": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市伊豆島田",
-    "price_man": 5.5,
-    "area_sqm": 42.1,
-    "url": "https://suumo.jp/chintai/jnc_000107358585/?bc=100507612919",
-    "text": "ＪＲ東海道本線 三島駅 3階建 築40年",
-    "removed_on": "2026-08-21",
+  "https://suumo.jp/chintai/jnc_000105117000/|フレグランスＴＳＵＣＨＩＹＡ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市稲荷",
+    "price_man": 6.3,
+    "area_sqm": 70.8,
+    "url": "https://suumo.jp/chintai/jnc_000105117000/",
+    "text": "フレグランスＴＳＵＣＨＩＹＡ",
+    "removed_on": "2026-08-22",
     "site_name": "SUUMO 賃貸 裾野市"
   },
-  "https://suumo.jp/chintai/jnc_000105509562/?bc=100497139558|コンフォール石脇": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-20",
+  "https://suumo.jp/chintai/jnc_000085322070/|パレス野添II": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 5.3,
+    "area_sqm": 39.6,
+    "url": "https://suumo.jp/chintai/jnc_000085322070/",
+    "text": "パレス野添II",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000106269784/|パレス野添II": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 5.3,
+    "area_sqm": 39.6,
+    "url": "https://suumo.jp/chintai/jnc_000106269784/",
+    "text": "パレス野添II",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000109201997/|ロイヤルガーデン杉山": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
     "location": "静岡県裾野市石脇",
-    "price_man": 3.0,
-    "area_sqm": 29.0,
-    "url": "https://suumo.jp/chintai/jnc_000105509562/?bc=100497139558",
-    "text": "コンフォール石脇",
-    "removed_on": "2026-08-21",
+    "price_man": 5.8,
+    "area_sqm": 49.5,
+    "url": "https://suumo.jp/chintai/jnc_000109201997/",
+    "text": "ロイヤルガーデン杉山",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000109267300/|ロイヤルガーデン杉山": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市石脇",
+    "price_man": 6.3,
+    "area_sqm": 49.5,
+    "url": "https://suumo.jp/chintai/jnc_000109267300/",
+    "text": "ロイヤルガーデン杉山",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000089028998/|DANOI": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 3.5,
+    "area_sqm": 24.8,
+    "url": "https://suumo.jp/chintai/jnc_000089028998/",
+    "text": "DANOI",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000099780135/|DANOI": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 4.4,
+    "area_sqm": 24.8,
+    "url": "https://suumo.jp/chintai/jnc_000099780135/",
+    "text": "DANOI",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000104141910/|セジュール中丸": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 5.4,
+    "area_sqm": 55.4,
+    "url": "https://suumo.jp/chintai/jnc_000104141910/",
+    "text": "セジュール中丸",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000085660213/|プロヴァンス": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 5.8,
+    "area_sqm": 66.2,
+    "url": "https://suumo.jp/chintai/jnc_000085660213/",
+    "text": "プロヴァンス",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108847941/|Ｔ．サニー３": {
+    "first_seen": "2026-08-14",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 7.0,
+    "area_sqm": 67.9,
+    "url": "https://suumo.jp/chintai/jnc_000108847941/",
+    "text": "Ｔ．サニー３",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000109096989/|エクメネーキヤII": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 6.0,
+    "area_sqm": 58.8,
+    "url": "https://suumo.jp/chintai/jnc_000109096989/",
+    "text": "エクメネーキヤII",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000109127039/?bc=100521450954|サンフィールド　イースト": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 6.1,
+    "area_sqm": 43.2,
+    "url": "https://suumo.jp/chintai/jnc_000109127039/?bc=100521450954",
+    "text": "サンフィールド　イースト",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000103893075/?bc=100520192607|サンフィールド　イースト": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 6.1,
+    "area_sqm": 41.0,
+    "url": "https://suumo.jp/chintai/jnc_000103893075/?bc=100520192607",
+    "text": "サンフィールド　イースト",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108819200/?bc=100520192602|サンフィールド　イースト": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 6.1,
+    "area_sqm": 41.0,
+    "url": "https://suumo.jp/chintai/jnc_000108819200/?bc=100520192602",
+    "text": "サンフィールド　イースト",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000099203318/?bc=100518602843|サンフィールド　イースト": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 6.3,
+    "area_sqm": 43.2,
+    "url": "https://suumo.jp/chintai/jnc_000099203318/?bc=100518602843",
+    "text": "サンフィールド　イースト",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000109253740/?bc=100522512217|ヴィアクオレ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市二ツ屋",
+    "price_man": 6.2,
+    "area_sqm": 41.0,
+    "url": "https://suumo.jp/chintai/jnc_000109253740/?bc=100522512217",
+    "text": "ヴィアクオレ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742938/?bc=100518606019|ヴィアクオレ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市二ツ屋",
+    "price_man": 6.1,
+    "area_sqm": 41.0,
+    "url": "https://suumo.jp/chintai/jnc_000108742938/?bc=100518606019",
+    "text": "ヴィアクオレ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000086993496/?bc=100486373443|グランフィーノ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市岩波",
+    "price_man": 5.5,
+    "area_sqm": 31.4,
+    "url": "https://suumo.jp/chintai/jnc_000086993496/?bc=100486373443",
+    "text": "グランフィーノ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000063693154/?bc=100505544049|グランフィーノ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市岩波",
+    "price_man": 5.6,
+    "area_sqm": 31.4,
+    "url": "https://suumo.jp/chintai/jnc_000063693154/?bc=100505544049",
+    "text": "グランフィーノ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000043740374/?bc=100516515030|グランフィーノ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市岩波",
+    "price_man": 5.8,
+    "area_sqm": 40.1,
+    "url": "https://suumo.jp/chintai/jnc_000043740374/?bc=100516515030",
+    "text": "グランフィーノ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000106310893/?bc=100501114277|サンハイムカワムラ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市稲荷",
+    "price_man": 6.7,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000106310893/?bc=100501114277",
+    "text": "サンハイムカワムラ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000083214681/?bc=100508612482|ヴィブレ御宿台": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市御宿",
+    "price_man": 7.0,
+    "area_sqm": 54.5,
+    "url": "https://suumo.jp/chintai/jnc_000083214681/?bc=100508612482",
+    "text": "ヴィブレ御宿台",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000067156317/?bc=100519953536|ヴィブレ御宿台": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市御宿",
+    "price_man": 7.1,
+    "area_sqm": 54.5,
+    "url": "https://suumo.jp/chintai/jnc_000067156317/?bc=100519953536",
+    "text": "ヴィブレ御宿台",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000093996417/?bc=100512243175|ベルクリア": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 7.3,
+    "area_sqm": 69.4,
+    "url": "https://suumo.jp/chintai/jnc_000093996417/?bc=100512243175",
+    "text": "ベルクリア",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108464369/?bc=100522353294|フォルトゥナ藤森": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 7.1,
+    "area_sqm": 41.2,
+    "url": "https://suumo.jp/chintai/jnc_000108464369/?bc=100522353294",
+    "text": "フォルトゥナ藤森",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108464364/?bc=100522328907|フォルトゥナ藤森": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 7.38,
+    "area_sqm": 46.8,
+    "url": "https://suumo.jp/chintai/jnc_000108464364/?bc=100522328907",
+    "text": "フォルトゥナ藤森",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000108185505/?bc=100522329123|ラークソレイユ": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 6.6,
+    "area_sqm": 62.1,
+    "url": "https://suumo.jp/chintai/jnc_000108185505/?bc=100522329123",
+    "text": "ラークソレイユ",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000093360894/?bc=100522328917|コンフォール２１": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 6.5,
+    "area_sqm": 63.0,
+    "url": "https://suumo.jp/chintai/jnc_000093360894/?bc=100522328917",
+    "text": "コンフォール２１",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000061390095/?bc=100517333393|ウェストフィールドII": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 5.6,
+    "area_sqm": 45.7,
+    "url": "https://suumo.jp/chintai/jnc_000061390095/?bc=100517333393",
+    "text": "ウェストフィールドII",
+    "removed_on": "2026-08-22",
+    "site_name": "SUUMO 賃貸 裾野市"
+  },
+  "https://suumo.jp/chintai/jnc_000107386051/?bc=100522328807|セジュール・ベル": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-21",
+    "location": "静岡県裾野市佐野",
+    "price_man": 9.4,
+    "area_sqm": 67.5,
+    "url": "https://suumo.jp/chintai/jnc_000107386051/?bc=100522328807",
+    "text": "セジュール・ベル",
+    "removed_on": "2026-08-22",
     "site_name": "SUUMO 賃貸 裾野市"
   }
 }

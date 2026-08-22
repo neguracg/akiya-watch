@@ -2,7 +2,7 @@
   "keys": {
     "https://yamaichiba.com/shizuoka-atamishi-izusan372/|山林物件372　静岡県熱海市伊豆山": {
       "first_seen": "2026-07-15",
-      "last_seen": "2026-08-21",
+      "last_seen": "2026-08-22",
       "location": "静岡県熱海市伊豆山",
       "price_man": null,
       "area_sqm": 28500.0,
@@ -31,5 +31,5 @@
     }
   },
   "hash": "e6fa2dc14d25aae2",
-  "fetched_at": "2026-08-21T22:34:31.151787"
+  "fetched_at": "2026-08-22T22:33:47.633147"
 }
