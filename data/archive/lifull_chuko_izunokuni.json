@@ -197,17 +197,6 @@
     "removed_on": "2026-08-20",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-33310640001107/|伊豆エメラルドタウン": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-20",
-    "location": "伊豆エメラルドタウン",
-    "price_man": 520,
-    "area_sqm": 290.0,
-    "url": "https://www.homes.co.jp/kodate/b-33310640001107/",
-    "text": "伊豆エメラルドタウン",
-    "removed_on": "2026-08-21",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1490460002407/|木の温もりが映える、和モダン住宅": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -217,6 +206,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1490460002407/",
     "text": "木の温もりが映える、和モダン住宅",
     "removed_on": "2026-08-21",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1111450005501/|小松ヶ原別荘地　戸建": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-08-22",
+    "location": "小松ヶ原別荘地　戸建",
+    "price_man": 800,
+    "area_sqm": 366.3,
+    "url": "https://www.homes.co.jp/kodate/b-1111450005501/",
+    "text": "小松ヶ原別荘地　戸建",
+    "removed_on": "2026-08-23",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }
