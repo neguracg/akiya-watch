@@ -912,17 +912,6 @@
     "removed_on": "2026-08-23",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/|レオパレスサン": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-22",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 5.3,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-08-23",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/f19f238321ab4eea247d7cfae9daca6cdf2b8ff2/|オーレ日吉": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
@@ -932,6 +921,94 @@
     "url": "https://www.homes.co.jp/chintai/room/f19f238321ab4eea247d7cfae9daca6cdf2b8ff2/",
     "text": "オーレ日吉",
     "removed_on": "2026-08-23",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/831f6219a1d644238b30f345e2b57e72666844de/|グランベール壱番館": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 6.75,
+    "area_sqm": 58.6,
+    "url": "https://www.homes.co.jp/chintai/room/831f6219a1d644238b30f345e2b57e72666844de/",
+    "text": "グランベール壱番館",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/edebcd2fd8e16aed80313fa8828b8067f7607058/|レオパレス伊豆長岡": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 6.7,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/edebcd2fd8e16aed80313fa8828b8067f7607058/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/79e9da59f2487367f0468b6da8beecc19f3f8ff6/|レオパレス伊豆長岡": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.5,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/79e9da59f2487367f0468b6da8beecc19f3f8ff6/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/d3027e8fc507d47270911fe1bacaa6405fd6ea07/|レオパレス伊豆長岡": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.5,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/d3027e8fc507d47270911fe1bacaa6405fd6ea07/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/68e6078b8ebebeb62ee2a6c3d94078fc3dcdd15e/|レオパレス伊豆長岡": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.5,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/68e6078b8ebebeb62ee2a6c3d94078fc3dcdd15e/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/48feda1664885f30ff7a0e28857f473ab7a6dbc8/|レオパレス伊豆長岡": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.3,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/48feda1664885f30ff7a0e28857f473ab7a6dbc8/",
+    "text": "レオパレス伊豆長岡",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/dbb04e0283a87ec62d25782c46abe4df1b081100/|レアールＭ大川": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市富士見",
+    "price_man": 6.9,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/dbb04e0283a87ec62d25782c46abe4df1b081100/",
+    "text": "レアールＭ大川",
+    "removed_on": "2026-08-24",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/8683abc5a29aeadd89535d107c68a2b6c40fe091/|ＳＴビル": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.2,
+    "area_sqm": 60.2,
+    "url": "https://www.homes.co.jp/chintai/room/8683abc5a29aeadd89535d107c68a2b6c40fe091/",
+    "text": "ＳＴビル",
+    "removed_on": "2026-08-24",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

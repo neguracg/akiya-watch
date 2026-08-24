@@ -538,28 +538,6 @@
     "removed_on": "2026-08-18",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|◆千福が丘ナチュラルモダン住宅◆リフォーム済みですぐ住めます♪内覧可能！": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-08-18",
-    "location": "静岡県裾野市千福が丘１",
-    "price_man": 1500,
-    "area_sqm": 235.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
-    "text": "◆千福が丘ナチュラルモダン住宅◆リフォーム済みですぐ住めます♪内覧可能！",
-    "removed_on": "2026-08-19",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_71434118/|駐車場4台！令和3年6月築！セキスイハイム施工の築浅物件です。": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-20",
-    "location": "静岡県裾野市石脇",
-    "price_man": 3480,
-    "area_sqm": 176.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_71434118/",
-    "text": "駐車場4台！令和3年6月築！セキスイハイム施工の築浅物件です。",
-    "removed_on": "2026-08-21",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-22",
@@ -569,6 +547,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
     "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
     "removed_on": "2026-08-23",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/|裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】": {
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-08-23",
+    "location": "静岡県裾野市千福が丘１-17-4",
+    "price_man": 1500,
+    "area_sqm": 235.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21417345/",
+    "text": "裾野市千福が丘１丁目　中古戸建【リフォーム済・７１.２３坪の敷地面積】",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20800972/|自然あふれる閑静な住宅街です。ハイクラスな薪ストーブ付きの物件です。": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-23",
+    "location": "静岡県裾野市千福が丘３",
+    "price_man": 1580,
+    "area_sqm": 1112.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20800972/",
+    "text": "自然あふれる閑静な住宅街です。ハイクラスな薪ストーブ付きの物件です。",
+    "removed_on": "2026-08-24",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

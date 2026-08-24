@@ -384,28 +384,6 @@
     "removed_on": "2026-08-08",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000108742945/|フレグランス中伊豆": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-07",
-    "location": "静岡県伊豆市上白岩",
-    "price_man": 4.0,
-    "area_sqm": 54.6,
-    "url": "https://suumo.jp/chintai/jnc_000108742945/",
-    "text": "フレグランス中伊豆",
-    "removed_on": "2026-08-08",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
-  "https://suumo.jp/chintai/jnc_000108742944/|フレグランス中伊豆": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-07",
-    "location": "静岡県伊豆市上白岩",
-    "price_man": 4.0,
-    "area_sqm": 54.6,
-    "url": "https://suumo.jp/chintai/jnc_000108742944/",
-    "text": "フレグランス中伊豆",
-    "removed_on": "2026-08-08",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000105691713/|フレグランス中伊豆": {
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-07",
@@ -1341,17 +1319,6 @@
     "removed_on": "2026-08-23",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000105384921/?bc=100492917190|天王ビューハイツ": {
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-22",
-    "location": "静岡県伊豆市修善寺",
-    "price_man": 4.2,
-    "area_sqm": 42.4,
-    "url": "https://suumo.jp/chintai/jnc_000105384921/?bc=100492917190",
-    "text": "天王ビューハイツ",
-    "removed_on": "2026-08-23",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000108875419/?bc=100519683756|エルディム室野Ａ": {
     "first_seen": "2026-08-22",
     "last_seen": "2026-08-22",
@@ -1361,6 +1328,138 @@
     "url": "https://suumo.jp/chintai/jnc_000108875419/?bc=100519683756",
     "text": "エルディム室野Ａ",
     "removed_on": "2026-08-23",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000106433983/|伊豆箱根鉄道駿豆線 大仁駅 2階建 築27年": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市牧之郷",
+    "price_man": 4.6,
+    "area_sqm": 39.4,
+    "url": "https://suumo.jp/chintai/jnc_000106433983/",
+    "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築27年",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000013974530/|アンジェリーク・エリナ": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市瓜生野",
+    "price_man": 6.3,
+    "area_sqm": 58.5,
+    "url": "https://suumo.jp/chintai/jnc_000013974530/",
+    "text": "アンジェリーク・エリナ",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742945/?bc=100496229488|フレグランス中伊豆": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.0,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000108742945/?bc=100496229488",
+    "text": "フレグランス中伊豆",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742944/?bc=100494913449|フレグランス中伊豆": {
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.0,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000108742944/?bc=100494913449",
+    "text": "フレグランス中伊豆",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742943/?bc=100508048089|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.7,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000108742943/?bc=100508048089",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000106433981/?bc=100501495369|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.6,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000106433981/?bc=100501495369",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000095190800/?bc=100493215707|ファミール純": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市下白岩",
+    "price_man": 4.5,
+    "area_sqm": 38.8,
+    "url": "https://suumo.jp/chintai/jnc_000095190800/?bc=100493215707",
+    "text": "ファミール純",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108742946/?bc=100501495367|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市上白岩",
+    "price_man": 4.0,
+    "area_sqm": 54.6,
+    "url": "https://suumo.jp/chintai/jnc_000108742946/?bc=100501495367",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築33年",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000107131451/?bc=100506561805|マーベラスサイトジチューI": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市牧之郷",
+    "price_man": 4.2,
+    "area_sqm": 47.2,
+    "url": "https://suumo.jp/chintai/jnc_000107131451/?bc=100506561805",
+    "text": "マーベラスサイトジチューI",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000096185052/?bc=100494682580|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築34年": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市下白岩",
+    "price_man": 4.5,
+    "area_sqm": 38.8,
+    "url": "https://suumo.jp/chintai/jnc_000096185052/?bc=100494682580",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築34年",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000105384921/?bc=100519958714|天王ビューハイツ": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市修善寺",
+    "price_man": 4.2,
+    "area_sqm": 40.3,
+    "url": "https://suumo.jp/chintai/jnc_000105384921/?bc=100519958714",
+    "text": "天王ビューハイツ",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000108298238/?bc=100515431668|伊豆箱根鉄道駿豆線 大仁駅 2階建 築38年": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
+    "location": "静岡県伊豆市瓜生野",
+    "price_man": 4.7,
+    "area_sqm": 40.9,
+    "url": "https://suumo.jp/chintai/jnc_000108298238/?bc=100515431668",
+    "text": "伊豆箱根鉄道駿豆線 大仁駅 2階建 築38年",
+    "removed_on": "2026-08-24",
     "site_name": "SUUMO 賃貸 伊豆市"
   }
 }

@@ -868,17 +868,6 @@
     "removed_on": "2026-08-08",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/|株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23帖、全部屋6帖以": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-08-08",
-    "location": "静岡県三島市富士見台18-4",
-    "price_man": 2370,
-    "area_sqm": 194.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/",
-    "text": "株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23帖、全部屋6帖以",
-    "removed_on": "2026-08-09",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21450465/|【見学会開催】南面道路の敷地に建つ、2006年築の３SLDK住宅です。": {
     "first_seen": "2026-08-07",
     "last_seen": "2026-08-08",
@@ -1011,15 +1000,48 @@
     "removed_on": "2026-08-20",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/|６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。": {
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20635945/|周辺にコンビニ、ドラックストア等買物施設充実☆築浅住宅の販売を開始しました": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-23",
+    "location": "静岡県三島市梅名",
+    "price_man": 2980,
+    "area_sqm": 124.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20635945/",
+    "text": "周辺にコンビニ、ドラックストア等買物施設充実☆築浅住宅の販売を開始しました",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/|【見学会開催】株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23": {
     "first_seen": "2026-08-16",
-    "last_seen": "2026-08-20",
-    "location": "静岡県三島市長伏",
-    "price_man": 15800,
-    "area_sqm": 2131.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/",
-    "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
-    "removed_on": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "静岡県三島市富士見台18-4",
+    "price_man": 2370,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20899290/",
+    "text": "【見学会開催】株式会社トヨペット施工、軽量鉄骨造の再生住宅が登場！LDK約23",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|8/22写真更新・リフォーム完成●萩リフォーム住宅●内覧可能♪申込受付中！": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-23",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
+    "text": "8/22写真更新・リフォーム完成●萩リフォーム住宅●内覧可能♪申込受付中！",
+    "removed_on": "2026-08-24",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21383433/|◇◆築浅♪ソーラーパネル付き中古戸建て◆◇☆陽当り良好な立地♪": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-08-23",
+    "location": "静岡県三島市谷田",
+    "price_man": 3990,
+    "area_sqm": 158.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21383433/",
+    "text": "◇◆築浅♪ソーラーパネル付き中古戸建て◆◇☆陽当り良好な立地♪",
+    "removed_on": "2026-08-24",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

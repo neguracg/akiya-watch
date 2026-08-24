@@ -130,5 +130,16 @@
     "text": "売土地 田方郡函南町丹那1316番529",
     "removed_on": "2026-08-23",
     "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176499/settle/1|売住宅 田方郡函南町柏谷": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-23",
+    "location": "田方郡函南町柏谷",
+    "price_man": 1420,
+    "area_sqm": 117.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176499/settle/1",
+    "text": "売住宅 田方郡函南町柏谷",
+    "removed_on": "2026-08-24",
+    "site_name": "空き家バンクしずおか 函南町"
   }
 }

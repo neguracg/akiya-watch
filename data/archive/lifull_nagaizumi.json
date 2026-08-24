@@ -186,26 +186,26 @@
     "removed_on": "2026-08-21",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000693/|駿東郡長泉町南一色 (長泉なめり駅)": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-08-20",
-    "location": "駿東郡長泉町南一色 (長泉なめり駅)",
-    "price_man": 1595,
+  "https://www.homes.co.jp/tochi/b-1540930000029/|駿東郡長泉町竹原 (下土狩駅)": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-22",
+    "location": "駿東郡長泉町竹原 (下土狩駅)",
+    "price_man": 800,
     "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000693/",
-    "text": "駿東郡長泉町南一色 (長泉なめり駅)",
-    "removed_on": "2026-08-21",
+    "url": "https://www.homes.co.jp/tochi/b-1540930000029/",
+    "text": "駿東郡長泉町竹原 (下土狩駅)",
+    "removed_on": "2026-08-24",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-33323360000908/|駿東郡長泉町東野 (裾野駅)": {
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-08-21",
-    "location": "駿東郡長泉町東野 (裾野駅)",
-    "price_man": 2600,
+  "https://www.homes.co.jp/tochi/b-33323360000767/|駿東郡長泉町本宿 (大岡駅)": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-08-22",
+    "location": "駿東郡長泉町本宿 (大岡駅)",
+    "price_man": 1450,
     "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33323360000908/",
-    "text": "駿東郡長泉町東野 (裾野駅)",
-    "removed_on": "2026-08-22",
+    "url": "https://www.homes.co.jp/tochi/b-33323360000767/",
+    "text": "駿東郡長泉町本宿 (大岡駅)",
+    "removed_on": "2026-08-24",
     "site_name": "LIFULL 土地 長泉町"
   }
 }
