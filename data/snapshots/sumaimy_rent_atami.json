@@ -1,8 +1,66 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175128|貸マンション 熱海市上宿町": {
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "location": "熱海市上宿町",
+      "price_man": 8.0,
+      "area_sqm": 31.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175128",
+      "text": "貸マンション 熱海市上宿町",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1LDK",
+      "chikunen": "1974年12月",
+      "kanrihi": null,
+      "shikikin": "1ヵ月",
+      "reikin": "1ヵ月",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "rent"
+    },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/120989|貸マンション 熱海市清水町": {
+      "first_seen": "2026-08-25",
+      "last_seen": "2026-08-25",
+      "location": "熱海市清水町",
+      "price_man": 6.5,
+      "area_sqm": 35.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/120989",
+      "text": "貸マンション 熱海市清水町",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2K",
+      "chikunen": "1992年11月",
+      "kanrihi": 5000,
+      "shikikin": "2ヵ月",
+      "reikin": "1ヵ月",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161142|貸アパート 熱海市上多賀461-1": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上多賀461-1",
       "price_man": 5.9,
       "area_sqm": 52.8,
@@ -33,7 +91,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114400|貸店舗・事務所 熱海市中央町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市中央町",
       "price_man": 15.0,
       "area_sqm": 70.0,
@@ -67,7 +125,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156610|貸店舗（建物一部）定期借家 熱海市中央町4－19": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市中央町4－19",
       "price_man": 25.0,
       "area_sqm": 85.0,
@@ -100,7 +158,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174915|貸アパート 熱海市上宿町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上宿町",
       "price_man": 4.8,
       "area_sqm": 22.0,
@@ -129,7 +187,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174916|貸アパート 熱海市上宿町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上宿町",
       "price_man": 4.8,
       "area_sqm": 20.0,
@@ -158,7 +216,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174914|貸アパート 熱海市上宿町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上宿町",
       "price_man": 4.5,
       "area_sqm": 18.0,
@@ -187,7 +245,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170615|貸アパート 熱海市上宿町8－1": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上宿町8－1",
       "price_man": 4.3,
       "area_sqm": 18.0,
@@ -216,7 +274,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129872|貸アパート 熱海市桜町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市桜町",
       "price_man": 5.0,
       "area_sqm": 50.0,
@@ -245,7 +303,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118386|貸マンション 熱海市清水町": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市清水町",
       "price_man": 6.0,
       "area_sqm": 40.0,
@@ -274,7 +332,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176564|貸店舗（建物一部）定期借家 熱海市中央町12-5": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市中央町12-5",
       "price_man": 19.8,
       "area_sqm": 113.0,
@@ -305,7 +363,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101612|貸店舗（建物一部）定期借家 熱海市田原本町9-1": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市田原本町9-1",
       "price_man": 9.35,
       "area_sqm": 47.5,
@@ -336,7 +394,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175835|貸駐車場 熱海市田原本町1-12": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市田原本町1-12",
       "price_man": 2.2,
       "area_sqm": null,
@@ -367,7 +425,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175011|貸マンション 熱海市下多賀431-3": {
       "first_seen": "2026-08-22",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市下多賀431-3",
       "price_man": 12.0,
       "area_sqm": 58.1,
@@ -396,7 +454,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174205|貸マンション 熱海市桃山町14-14": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市桃山町14-14",
       "price_man": 12.46,
       "area_sqm": 38.3,
@@ -425,7 +483,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167394|貸アパート 熱海市伊豆山488-5": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市伊豆山488-5",
       "price_man": 6.2,
       "area_sqm": 41.9,
@@ -454,7 +512,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166814|貸アパート 熱海市伊豆山488-5": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市伊豆山488-5",
       "price_man": 6.0,
       "area_sqm": 41.9,
@@ -483,7 +541,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164807|貸駐車場 熱海市昭和町6－14": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市昭和町6－14",
       "price_man": 1.5,
       "area_sqm": null,
@@ -514,7 +572,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129075|貸アパート 熱海市伊豆山239番地1": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市伊豆山239番地1",
       "price_man": 5.4,
       "area_sqm": 52.2,
@@ -543,7 +601,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/141022|貸店舗（建物一部） 熱海市下多賀773-2": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市下多賀773-2",
       "price_man": 55.0,
       "area_sqm": 166.6,
@@ -577,7 +635,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175774|貸アパート 熱海市上多賀41-4": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上多賀41-4",
       "price_man": 4.0,
       "area_sqm": 31.0,
@@ -609,7 +667,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168917|貸店舗（建物一部） 熱海市咲見町7-54": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市咲見町7-54",
       "price_man": 55.0,
       "area_sqm": 125.3,
@@ -640,7 +698,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170569|貸駐車場 熱海市春日町11-6": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市春日町11-6",
       "price_man": 1.98,
       "area_sqm": null,
@@ -669,7 +727,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170732|貸マンション 熱海市網代627-76": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市網代627-76",
       "price_man": 4.2,
       "area_sqm": 25.6,
@@ -698,7 +756,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167537|貸マンション 熱海市熱海1981-67": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市熱海1981-67",
       "price_man": 4.9,
       "area_sqm": 26.3,
@@ -727,7 +785,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/133490|貸アパート 熱海市下多賀1066-17": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市下多賀1066-17",
       "price_man": 5.5,
       "area_sqm": 50.0,
@@ -756,7 +814,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174951|貸マンション 熱海市上多賀980-1": {
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市上多賀980-1",
       "price_man": 7.3,
       "area_sqm": 22.1,
@@ -785,7 +843,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167395|貸事務所定期借家 熱海市田原本町9-1": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市田原本町9-1",
       "price_man": 9.8,
       "area_sqm": 91.8,
@@ -816,7 +874,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175689|貸店舗（建物一部） 熱海市清水町12-10": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
+      "last_seen": "2026-08-25",
       "location": "熱海市清水町12-10",
       "price_man": 10.0,
       "area_sqm": 42.5,
@@ -844,72 +902,8 @@
       "zokujinsei": false,
       "machi": "清水町",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167609|貸戸建住宅 熱海市下多賀": {
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
-      "location": "熱海市下多賀",
-      "price_man": 12.3,
-      "area_sqm": 126.1,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167609",
-      "text": "貸戸建住宅 熱海市下多賀",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
-      "chikunen": "1993年7月",
-      "kanrihi": null,
-      "shikikin": "1ヵ月",
-      "reikin": "1ヵ月",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "戸建"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165152|貸事務所定期借家 熱海市田原本町9-1": {
-      "first_seen": "2026-08-20",
-      "last_seen": "2026-08-24",
-      "location": "熱海市田原本町9-1",
-      "price_man": 13.75,
-      "area_sqm": 91.8,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165152",
-      "text": "貸事務所定期借家 熱海市田原本町9-1",
-      "shubetsu": "賃貸その他",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": null,
-      "chikunen": "1967年1月",
-      "kanrihi": 70204,
-      "shikikin": "無",
-      "reikin": "1ヵ月",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "敷金無"
-      ],
-      "caution": [
-        "事務所"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "rent"
     }
   },
-  "hash": "349b66309ee78b00",
-  "fetched_at": "2026-08-24T22:40:49.529580"
+  "hash": "da6e6086787aa313",
+  "fetched_at": "2026-08-25T22:40:48.332992"
 }
