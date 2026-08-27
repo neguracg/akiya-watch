@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59596/index.html|静岡県沼津市足高": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-08-27",
       "location": "静岡県沼津市足高",
       "price_man": 6000,
       "area_sqm": 1328.8,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "bd749b59a838870e",
-  "fetched_at": "2026-08-25T22:43:53.156229"
+  "hash": "6aa2184ee195f8db",
+  "fetched_at": "2026-08-27T03:14:01.776909"
 }
