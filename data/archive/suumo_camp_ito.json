@@ -108,5 +108,27 @@
     "text": "富戸 500万円",
     "removed_on": "2026-08-24",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20859225/|自然に包まれながら、遊びも近い富戸の広々３８３㎡。": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-27",
+    "location": "静岡県伊東市富戸１３１７－１１０６",
+    "price_man": 60,
+    "area_sqm": 383.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20859225/",
+    "text": "自然に包まれながら、遊びも近い富戸の広々３８３㎡。",
+    "removed_on": "2026-08-28",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20865970/|暮らしやすさが揃う、伊東大原の５区画分譲地": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-08-27",
+    "location": "静岡県伊東市大原１-１１３７－４",
+    "price_man": 1440,
+    "area_sqm": 198.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20865970/",
+    "text": "暮らしやすさが揃う、伊東大原の５区画分譲地",
+    "removed_on": "2026-08-28",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

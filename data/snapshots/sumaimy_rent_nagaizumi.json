@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176725|貸駐車場 駿東郡長泉町元長窪895-245": {
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-08-28",
+      "location": "駿東郡長泉町元長窪895-245",
+      "price_man": 4.0,
+      "area_sqm": null,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176725",
+      "text": "貸駐車場 駿東郡長泉町元長窪895-245",
+      "shubetsu": "駐車場",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "2ヵ月",
+      "reikin": "1ヵ月",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157929|貸事業用地 駿東郡長泉町竹原344‐7": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原344‐7",
       "price_man": 45.0,
       "area_sqm": 965.7,
@@ -35,7 +64,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165939|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 6.4,
       "area_sqm": 55.0,
@@ -66,7 +95,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145367|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 7.0,
       "area_sqm": 55.0,
@@ -97,7 +126,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150109|貸マンション 駿東郡長泉町下土狩": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩",
       "price_man": 5.0,
       "area_sqm": 35.7,
@@ -129,7 +158,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/85472|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 3.5,
       "area_sqm": 22.1,
@@ -161,7 +190,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/86351|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-08-24",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 3.5,
       "area_sqm": 22.1,
@@ -193,7 +222,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/85470|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 3.5,
       "area_sqm": 22.1,
@@ -225,7 +254,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/83280|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 3.5,
       "area_sqm": 22.1,
@@ -257,7 +286,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157440|貸マンション 駿東郡長泉町下土狩": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩",
       "price_man": 5.0,
       "area_sqm": 35.7,
@@ -289,7 +318,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165946|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 7.3,
       "area_sqm": 60.5,
@@ -320,7 +349,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145459|貸マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-07-31",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原",
       "price_man": 7.5,
       "area_sqm": 60.5,
@@ -351,7 +380,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48582|貸マンション 駿東郡長泉町桜堤３丁目": {
       "first_seen": "2026-08-23",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町桜堤３丁目",
       "price_man": 5.7,
       "area_sqm": 41.9,
@@ -382,7 +411,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147780|貸テラスハウス 駿東郡長泉町下長窪719-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下長窪719-1",
       "price_man": 7.5,
       "area_sqm": 65.8,
@@ -413,7 +442,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175034|貸マンション 駿東郡長泉町南一色179-1": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町南一色179-1",
       "price_man": 6.5,
       "area_sqm": 54.0,
@@ -445,7 +474,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167530|貸マンション 駿東郡長泉町中土狩904-15": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町中土狩904-15",
       "price_man": 6.5,
       "area_sqm": 54.9,
@@ -476,7 +505,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175033|貸マンション 駿東郡長泉町南一色179-1": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町南一色179-1",
       "price_man": 6.5,
       "area_sqm": 54.0,
@@ -508,7 +537,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152792|貸アパート 駿東郡長泉町中土狩483-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町中土狩483-6",
       "price_man": 6.5,
       "area_sqm": 49.6,
@@ -539,7 +568,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175623|貸アパート 駿東郡長泉町上長窪214-20": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町上長窪214-20",
       "price_man": 6.4,
       "area_sqm": 62.0,
@@ -571,7 +600,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172123|貸アパート 駿東郡長泉町上長窪214-20": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町上長窪214-20",
       "price_man": 6.3,
       "area_sqm": 63.9,
@@ -603,7 +632,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175211|貸マンション 駿東郡長泉町納米里419-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町納米里419-3",
       "price_man": 6.1,
       "area_sqm": 58.7,
@@ -634,7 +663,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165119|貸マンション 駿東郡長泉町納米里300-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町納米里300-3",
       "price_man": 6.0,
       "area_sqm": 55.4,
@@ -665,7 +694,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167199|貸戸建住宅 駿東郡長泉町下土狩391-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩391-1",
       "price_man": 5.5,
       "area_sqm": 39.7,
@@ -698,7 +727,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175062|貸マンション 駿東郡長泉町竹原326-1": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原326-1",
       "price_man": 5.3,
       "area_sqm": 56.0,
@@ -729,7 +758,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175061|貸マンション 駿東郡長泉町竹原326-1": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町竹原326-1",
       "price_man": 5.2,
       "area_sqm": 56.0,
@@ -760,7 +789,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173373|貸マンション 駿東郡長泉町下土狩264-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩264-6",
       "price_man": 5.0,
       "area_sqm": 54.1,
@@ -792,7 +821,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173372|貸マンション 駿東郡長泉町下土狩264-6": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩264-6",
       "price_man": 5.0,
       "area_sqm": 54.1,
@@ -824,7 +853,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146840|貸マンション 駿東郡長泉町中土狩344-1": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町中土狩344-1",
       "price_man": 5.9,
       "area_sqm": 59.4,
@@ -855,7 +884,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176312|貸アパート 駿東郡長泉町納米里461-13": {
       "first_seen": "2026-08-14",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町納米里461-13",
       "price_man": 5.2,
       "area_sqm": 29.7,
@@ -886,7 +915,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278|貸アパート 駿東郡長泉町下土狩323-18": {
       "first_seen": "2026-08-10",
-      "last_seen": "2026-08-27",
+      "last_seen": "2026-08-28",
       "location": "駿東郡長泉町下土狩323-18",
       "price_man": 4.8,
       "area_sqm": 39.5,
@@ -914,40 +943,8 @@
       "zokujinsei": false,
       "machi": "長泉町",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167169|貸アパート 駿東郡長泉町上土狩471-1": {
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-08-27",
-      "location": "駿東郡長泉町上土狩471-1",
-      "price_man": 5.5,
-      "area_sqm": 46.4,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167169",
-      "text": "貸アパート 駿東郡長泉町上土狩471-1",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1LDK",
-      "chikunen": "1994年9月",
-      "kanrihi": null,
-      "shikikin": "無",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "敷金無",
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "rent"
     }
   },
-  "hash": "1cfe39c488624d79",
-  "fetched_at": "2026-08-27T03:14:36.257676"
+  "hash": "44ef42f762688764",
+  "fetched_at": "2026-08-28T06:18:34.743736"
 }

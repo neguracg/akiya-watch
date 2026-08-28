@@ -603,5 +603,49 @@
     "text": "売住宅 沼津市青野",
     "removed_on": "2026-08-21",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176174/settle/1|新築売住宅 沼津市下香貫木ノ宮": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-27",
+    "location": "沼津市下香貫木ノ宮",
+    "price_man": 2480,
+    "area_sqm": 137.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176174/settle/1",
+    "text": "新築売住宅 沼津市下香貫木ノ宮",
+    "removed_on": "2026-08-28",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176175/settle/1|新築売住宅 沼津市下香貫木ノ宮": {
+    "first_seen": "2026-08-08",
+    "last_seen": "2026-08-27",
+    "location": "沼津市下香貫木ノ宮",
+    "price_man": 2580,
+    "area_sqm": 146.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176175/settle/1",
+    "text": "新築売住宅 沼津市下香貫木ノ宮",
+    "removed_on": "2026-08-28",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175711/settle/1|新築売住宅 沼津市下香貫牛臥": {
+    "first_seen": "2026-07-31",
+    "last_seen": "2026-08-27",
+    "location": "沼津市下香貫牛臥",
+    "price_man": 2990,
+    "area_sqm": 322.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175711/settle/1",
+    "text": "新築売住宅 沼津市下香貫牛臥",
+    "removed_on": "2026-08-28",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176143/settle/1|売マンション 沼津市高島町": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-27",
+    "location": "沼津市高島町",
+    "price_man": 1550,
+    "area_sqm": 83.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176143/settle/1",
+    "text": "売マンション 沼津市高島町",
+    "removed_on": "2026-08-28",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

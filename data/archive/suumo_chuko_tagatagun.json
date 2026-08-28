@@ -361,5 +361,27 @@
     "text": "平井 2980万円",
     "removed_on": "2026-08-25",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/|桑原（函南駅） 1560万円": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-08-27",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 1560,
+    "area_sqm": 219.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_73856522/",
+    "text": "桑原（函南駅） 1560万円",
+    "removed_on": "2026-08-28",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76134646/|2階に設けられたLDKの大開口部は雄大な富士山が望める開放的な眺望が魅力": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-27",
+    "location": "静岡県田方郡函南町平井1740-699",
+    "price_man": 1780,
+    "area_sqm": 429.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_76134646/",
+    "text": "2階に設けられたLDKの大開口部は雄大な富士山が望める開放的な眺望が魅力",
+    "removed_on": "2026-08-28",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }
