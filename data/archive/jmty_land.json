@@ -1957,17 +1957,6 @@
     "removed_on": "2026-08-17",
     "site_name": "ジモティー 静岡県 土地"
   },
-  "https://jmty.jp/shizuoka/est-land/article-1mbxm5|480万→390万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡（40坪）": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-08-23",
-    "location": "静岡 伊豆の国市 土地販売/土地売買",
-    "price_man": 390,
-    "area_sqm": 132.0,
-    "url": "https://jmty.jp/shizuoka/est-land/article-1mbxm5",
-    "text": "480万→390万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡（40坪）",
-    "removed_on": "2026-08-24",
-    "site_name": "ジモティー 静岡県 土地"
-  },
   "https://jmty.jp/shizuoka/est-land/article-19fibm|価格応談　分譲宅地２区画まとめて　静岡県伊豆の国市　投資・建売用...": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-25",
@@ -1977,6 +1966,17 @@
     "url": "https://jmty.jp/shizuoka/est-land/article-19fibm",
     "text": "価格応談　分譲宅地２区画まとめて　静岡県伊豆の国市　投資・建売用...",
     "removed_on": "2026-08-27",
+    "site_name": "ジモティー 静岡県 土地"
+  },
+  "https://jmty.jp/shizuoka/est-land/article-1rcyt7|＜9/10迄お申込み限定＞　480万→390万→300万円　分譲...": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-28",
+    "location": "静岡 伊豆の国市 土地販売/土地売買",
+    "price_man": 300,
+    "area_sqm": null,
+    "url": "https://jmty.jp/shizuoka/est-land/article-1rcyt7",
+    "text": "＜9/10迄お申込み限定＞　480万→390万→300万円　分譲...",
+    "removed_on": "2026-08-29",
     "site_name": "ジモティー 静岡県 土地"
   }
 }

@@ -647,5 +647,27 @@
     "text": "売マンション 沼津市高島町",
     "removed_on": "2026-08-28",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153490/settle/1|売土地 沼津市下香貫上障子384-1": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-08-28",
+    "location": "沼津市下香貫上障子384-1",
+    "price_man": 1150,
+    "area_sqm": 230.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153490/settle/1",
+    "text": "売土地 沼津市下香貫上障子384-1",
+    "removed_on": "2026-08-29",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1|売土地 沼津市鳥谷": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-08-28",
+    "location": "沼津市鳥谷",
+    "price_man": 1000,
+    "area_sqm": 446.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1",
+    "text": "売土地 沼津市鳥谷",
+    "removed_on": "2026-08-29",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

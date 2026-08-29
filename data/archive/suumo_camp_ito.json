@@ -130,5 +130,27 @@
     "text": "暮らしやすさが揃う、伊東大原の５区画分譲地",
     "removed_on": "2026-08-28",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/|玖須美元和田（川奈駅） 1100万円": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-28",
+    "location": "静岡県伊東市玖須美元和田716-839",
+    "price_man": 1100,
+    "area_sqm": 164.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20912850/",
+    "text": "玖須美元和田（川奈駅） 1100万円",
+    "removed_on": "2026-08-29",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/|宇佐美 2700万円": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-28",
+    "location": "静岡県伊東市宇佐美",
+    "price_man": 2700,
+    "area_sqm": 889.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/",
+    "text": "宇佐美 2700万円",
+    "removed_on": "2026-08-29",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

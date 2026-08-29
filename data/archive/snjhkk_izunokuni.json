@@ -98,17 +98,6 @@
     "removed_on": "2026-08-24",
     "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_57996/index.html|静岡県伊豆の国市長岡": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-27",
-    "location": "静岡県伊豆の国市長岡",
-    "price_man": 2380,
-    "area_sqm": null,
-    "url": "https://www.snjhkk.com/s_r_57996/index.html",
-    "text": "静岡県伊豆の国市長岡",
-    "removed_on": "2026-08-28",
-    "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
-  },
   "https://www.snjhkk.com/s_r_57585/index.html|静岡県伊豆の国市南條": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-27",
@@ -118,6 +107,17 @@
     "url": "https://www.snjhkk.com/s_r_57585/index.html",
     "text": "静岡県伊豆の国市南條",
     "removed_on": "2026-08-28",
+    "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_58269/index.html|静岡県伊豆の国市四日町": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-28",
+    "location": "静岡県伊豆の国市四日町",
+    "price_man": 1990,
+    "area_sqm": 91.2,
+    "url": "https://www.snjhkk.com/s_r_58269/index.html",
+    "text": "静岡県伊豆の国市四日町",
+    "removed_on": "2026-08-29",
     "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
   }
 }
