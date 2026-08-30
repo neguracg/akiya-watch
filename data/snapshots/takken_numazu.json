@@ -1,5 +1,63 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176787/settle/1|売店舗付住宅 沼津市若葉町": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "location": "沼津市若葉町",
+      "price_man": 2980,
+      "area_sqm": 225.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176787/settle/1",
+      "text": "売店舗付住宅 沼津市若葉町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "田",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 43.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176785/settle/1|売土地 沼津市本郷町": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "location": "沼津市本郷町",
+      "price_man": 1300,
+      "area_sqm": 158.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176785/settle/1",
+      "text": "売土地 沼津市本郷町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 27.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176384/settle/1|売住宅 沼津市大岡": {
       "first_seen": "2026-08-19",
       "last_seen": "2026-08-29",
@@ -5035,6 +5093,6 @@
       "tab": "home"
     }
   },
-  "hash": "e21e84c8c0177c30",
-  "fetched_at": "2026-08-29T03:44:54.528630"
+  "hash": "6432d2ed9d86d181",
+  "fetched_at": "2026-08-30T00:15:09.315160"
 }

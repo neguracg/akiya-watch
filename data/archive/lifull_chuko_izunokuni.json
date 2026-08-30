@@ -219,28 +219,6 @@
     "removed_on": "2026-08-28",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-28",
-    "location": "伊豆の国市三福　中古戸建",
-    "price_man": 1980,
-    "area_sqm": 128.1,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
-    "text": "伊豆の国市三福　中古戸建",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
-  "https://www.homes.co.jp/kodate/b-1436870001906/|伊豆の国市田京　中古戸建": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-28",
-    "location": "伊豆の国市田京　中古戸建",
-    "price_man": 3450,
-    "area_sqm": 245.5,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001906/",
-    "text": "伊豆の国市田京　中古戸建",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1265050002559/|伊豆の国市四日町中古住宅": {
     "first_seen": "2026-08-02",
     "last_seen": "2026-08-28",
@@ -252,14 +230,36 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001946/|伊豆の国市南條　中古戸建": {
-    "first_seen": "2026-08-04",
-    "last_seen": "2026-08-28",
-    "location": "伊豆の国市南條　中古戸建",
-    "price_man": 1780,
-    "area_sqm": 184.1,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001946/",
-    "text": "伊豆の国市南條　中古戸建",
+  "https://www.homes.co.jp/kodate/b-1436870001803/|伊豆の国市原木　中古戸建": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "location": "伊豆の国市原木　中古戸建",
+    "price_man": 1890,
+    "area_sqm": 313.2,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001803/",
+    "text": "伊豆の国市原木　中古戸建",
+    "removed_on": "2026-08-29",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33303660001172/|富士見ニュータウン": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "location": "富士見ニュータウン",
+    "price_man": 250,
+    "area_sqm": 246.3,
+    "url": "https://www.homes.co.jp/kodate/b-33303660001172/",
+    "text": "富士見ニュータウン",
+    "removed_on": "2026-08-29",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002362/|伊豆の国市花坂　中古戸建": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "location": "伊豆の国市花坂　中古戸建",
+    "price_man": 750,
+    "area_sqm": 1059.9,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002362/",
+    "text": "伊豆の国市花坂　中古戸建",
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }

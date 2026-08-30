@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176784/settle/1|売土地 三島市大場": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "location": "三島市大場",
+      "price_man": 2180,
+      "area_sqm": 172.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176784/settle/1",
+      "text": "売土地 三島市大場",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "田",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 41.8,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/93876/settle/1|売土地 三島市谷田1345-50": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-08-29",
@@ -1368,6 +1397,6 @@
       "tab": "home"
     }
   },
-  "hash": "30afd01e6bfa5b18",
-  "fetched_at": "2026-08-29T03:35:41.786781"
+  "hash": "24bfb9ddfa666066",
+  "fetched_at": "2026-08-30T00:04:23.441955"
 }

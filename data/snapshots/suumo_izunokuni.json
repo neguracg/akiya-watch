@@ -439,43 +439,14 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_94832790/|南側道路のため、日当り良好です！採光・通風に優れ、閑静な住宅地です♪": {
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-08-29",
-      "location": "静岡県伊豆の国市北江間",
-      "price_man": 1080,
-      "area_sqm": 168.8,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_94832790/",
-      "text": "南側道路のため、日当り良好です！採光・通風に優れ、閑静な住宅地です♪",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 21.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
-    },
-    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|主要道路へのアクセス◎原木駅まで徒歩約17分で電車通勤も利用可能☆": {
+    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|原木駅まで徒歩約１７分！通勤通学に便利な立地！": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "location": "静岡県伊豆の国市長崎350-6",
+      "location": "静岡県伊豆の国市長崎350-4",
       "price_man": 1150,
       "area_sqm": 201.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
-      "text": "主要道路へのアクセス◎原木駅まで徒歩約17分で電車通勤も利用可能☆",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+      "text": "原木駅まで徒歩約１７分！通勤通学に便利な立地！",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -497,14 +468,14 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|原木駅まで徒歩約１７分！通勤通学に便利な立地！": {
+    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|主要道路へのアクセス◎原木駅まで徒歩約17分で電車通勤も利用可能☆": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-29",
-      "location": "静岡県伊豆の国市長崎350-4",
+      "location": "静岡県伊豆の国市長崎350-6",
       "price_man": 1150,
       "area_sqm": 201.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-      "text": "原木駅まで徒歩約１７分！通勤通学に便利な立地！",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
+      "text": "主要道路へのアクセス◎原木駅まで徒歩約17分で電車通勤も利用可能☆",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -1107,6 +1078,6 @@
       "tab": "home"
     }
   },
-  "hash": "2e7fb47dfd0ccb14",
-  "fetched_at": "2026-08-29T03:27:45.685350"
+  "hash": "8246adc68ee654fd",
+  "fetched_at": "2026-08-29T23:51:10.897597"
 }

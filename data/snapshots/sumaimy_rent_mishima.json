@@ -469,37 +469,6 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90190|貸マンション 三島市南二日町": {
-      "first_seen": "2026-08-23",
-      "last_seen": "2026-08-29",
-      "location": "三島市南二日町",
-      "price_man": 4.5,
-      "area_sqm": 27.2,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90190",
-      "text": "貸マンション 三島市南二日町",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1K",
-      "chikunen": "1998年9月",
-      "kanrihi": 3000,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101974|貸戸建住宅 三島市中63-1": {
       "first_seen": "2026-08-23",
       "last_seen": "2026-08-29",
@@ -941,8 +910,39 @@
       "zokujinsei": false,
       "machi": "三島市",
       "tab": "rent"
+    },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174100|貸マンション 三島市中島273-6": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-08-29",
+      "location": "三島市中島273-6",
+      "price_man": 4.8,
+      "area_sqm": 29.8,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174100",
+      "text": "貸マンション 三島市中島273-6",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1K",
+      "chikunen": "2007年4月",
+      "kanrihi": 4600,
+      "shikikin": "1ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
     }
   },
-  "hash": "804fdd4724943f14",
-  "fetched_at": "2026-08-29T03:33:39.474812"
+  "hash": "ca1c7e48c2a6e39a",
+  "fetched_at": "2026-08-29T23:59:10.039512"
 }

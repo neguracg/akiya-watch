@@ -1230,5 +1230,38 @@
     "text": "グランエスシャリオ",
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/a7c3b2ecb4ebbba3582e5a22125fe6d6a1bded7e/|伊豆箱根鉄道駿豆線 三島広小路駅 徒歩7分": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-08-29",
+    "location": "静岡県三島市加屋町",
+    "price_man": 12.2,
+    "area_sqm": 66.4,
+    "url": "https://www.homes.co.jp/chintai/room/a7c3b2ecb4ebbba3582e5a22125fe6d6a1bded7e/",
+    "text": "伊豆箱根鉄道駿豆線 三島広小路駅 徒歩7分",
+    "removed_on": "2026-08-29",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/|パラーシオ": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-29",
+    "location": "静岡県三島市大場",
+    "price_man": 7.5,
+    "area_sqm": 56.1,
+    "url": "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/",
+    "text": "パラーシオ",
+    "removed_on": "2026-08-29",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/|パラーシオ": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-08-29",
+    "location": "静岡県三島市大場",
+    "price_man": 7.5,
+    "area_sqm": 56.1,
+    "url": "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/",
+    "text": "パラーシオ",
+    "removed_on": "2026-08-29",
+    "site_name": "LIFULL 賃貸 三島市"
   }
 }
