@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176824/settle/1|売土地 駿東郡清水町伏見756-1": {
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "location": "駿東郡清水町伏見756-1",
+      "price_man": 11500,
+      "area_sqm": 957.5,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176824/settle/1",
+      "text": "売土地 駿東郡清水町伏見756-1",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "田",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 39.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/126543/settle/1|売土地 駿東郡清水町長沢975-1": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-31",
@@ -351,35 +380,6 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176120/settle/1|売土地 駿東郡清水町伏見756-1": {
-      "first_seen": "2026-08-07",
-      "last_seen": "2026-08-31",
-      "location": "駿東郡清水町伏見756-1",
-      "price_man": 11500,
-      "area_sqm": 957.5,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176120/settle/1",
-      "text": "売土地 駿東郡清水町伏見756-1",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
-      "chimoku": "田",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 39.7,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "清水町",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173391/settle/1|売住宅 駿東郡清水町徳倉": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-08-31",
@@ -526,6 +526,6 @@
       "tab": "home"
     }
   },
-  "hash": "8cb8428181e80910",
-  "fetched_at": "2026-08-31T00:37:06.390565"
+  "hash": "5618abc3a17f930f",
+  "fetched_at": "2026-08-31T08:40:29.223546"
 }

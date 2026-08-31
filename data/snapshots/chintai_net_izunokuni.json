@@ -265,35 +265,6 @@
       "machi": "伊豆の国市",
       "tab": "rent"
     },
-    "https://www.chintai.net/detail/bk-C030007870000000001083180020/|ポルトフィーノ長岡": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-08-31",
-      "location": "静岡県伊豆の国市長岡",
-      "price_man": 6.3,
-      "area_sqm": 27.9,
-      "url": "https://www.chintai.net/detail/bk-C030007870000000001083180020/",
-      "text": "ポルトフィーノ長岡",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1K",
-      "chikunen": "2026年03月（新築）",
-      "kanrihi": 7500,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "rent"
-    },
     "https://www.chintai.net/detail/bk-C030007870000000001060260005/|フォーデイズ（Ａ・Ｂ）": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-08-31",
@@ -643,6 +614,6 @@
       "tab": "rent"
     }
   },
-  "hash": "e5119ca83a015313",
-  "fetched_at": "2026-08-31T00:30:01.373060"
+  "hash": "431b26c4d9399ae0",
+  "fetched_at": "2026-08-31T08:33:10.572504"
 }

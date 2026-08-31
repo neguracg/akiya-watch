@@ -1,5 +1,36 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176847/settle/1|売マンション 田方郡函南町仁田": {
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "location": "田方郡函南町仁田",
+      "price_man": 2390,
+      "area_sqm": 84.3,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176847/settle/1",
+      "text": "売マンション 田方郡函南町仁田",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 93.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "管理費"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174222/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-06-14",
       "last_seen": "2026-08-31",
@@ -400,37 +431,6 @@
         "無指定"
       ],
       "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176146/settle/1|売マンション 田方郡函南町仁田": {
-      "first_seen": "2026-08-07",
-      "last_seen": "2026-08-31",
-      "location": "田方郡函南町仁田",
-      "price_man": 2390,
-      "area_sqm": 84.3,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176146/settle/1",
-      "text": "売マンション 田方郡函南町仁田",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 93.7,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "管理費"
-      ],
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "函南町",
@@ -1429,6 +1429,6 @@
       "tab": "home"
     }
   },
-  "hash": "d7d63b74398a65cc",
-  "fetched_at": "2026-08-31T00:11:40.133013"
+  "hash": "756d386f0bba383b",
+  "fetched_at": "2026-08-31T08:14:40.645878"
 }

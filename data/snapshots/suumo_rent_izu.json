@@ -504,7 +504,7 @@
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2K",
-      "chikunen": "築27年 2階建",
+      "chikunen": "築26年 2階建",
       "kanrihi": 3900,
       "shikikin": null,
       "reikin": null,
@@ -590,7 +590,7 @@
       "text": "伊豆箱根鉄道駿豆線 牧之郷駅 2階建 築19年",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
+      "madori": "1K",
       "chikunen": "築19年 2階建",
       "kanrihi": 3900,
       "shikikin": null,
@@ -725,14 +725,14 @@
       "machi": "伊豆市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000098141210/|フレグランス中伊豆": {
+    "https://suumo.jp/chintai/jnc_000098141210/|フレグランス中伊豆Ｂ": {
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県伊豆市上白岩",
       "price_man": 4.6,
       "area_sqm": 54.6,
       "url": "https://suumo.jp/chintai/jnc_000098141210/",
-      "text": "フレグランス中伊豆",
+      "text": "フレグランス中伊豆Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -754,14 +754,14 @@
       "machi": "伊豆市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000089228805/|フレグランス中伊豆": {
+    "https://suumo.jp/chintai/jnc_000089228805/|フレグランス中伊豆Ｂ": {
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県伊豆市上白岩",
       "price_man": 4.6,
       "area_sqm": 54.6,
       "url": "https://suumo.jp/chintai/jnc_000089228805/",
-      "text": "フレグランス中伊豆",
+      "text": "フレグランス中伊豆Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -957,13 +957,13 @@
       "machi": "伊豆市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108927964/?bc=100523955277|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年": {
+    "https://suumo.jp/chintai/jnc_000108927964/?bc=100520103368|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年": {
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県伊豆市上白岩",
       "price_man": 4.0,
       "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000108927964/?bc=100523955277",
+      "url": "https://suumo.jp/chintai/jnc_000108927964/?bc=100520103368",
       "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1102,13 +1102,13 @@
       "machi": "伊豆市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108875419/?bc=100519816042|エルディム室野Ａ": {
+    "https://suumo.jp/chintai/jnc_000108875419/?bc=100520136333|エルディム室野Ａ": {
       "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県伊豆市上白岩",
       "price_man": 4.0,
       "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000108875419/?bc=100519816042",
+      "url": "https://suumo.jp/chintai/jnc_000108875419/?bc=100520136333",
       "text": "エルディム室野Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1393,6 +1393,6 @@
       "tab": "rent"
     }
   },
-  "hash": "49fe24368c1023ad",
-  "fetched_at": "2026-08-31T00:36:03.021419"
+  "hash": "30b21556c58d1d0f",
+  "fetched_at": "2026-08-31T08:39:20.478099"
 }

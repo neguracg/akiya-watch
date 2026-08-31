@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/|三島市 萩": {
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-31",
+      "location": "三島市 萩",
+      "price_man": 2280,
+      "area_sqm": 182.0,
+      "url": "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/",
+      "text": "三島市 萩",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 41.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.u2japan-mishima-k.com/bkndetail/1276368178/room106440759/|駿東郡長泉町 南一色": {
       "first_seen": "2026-08-07",
       "last_seen": "2026-08-31",
@@ -172,35 +201,6 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "函南町",
-      "tab": "home"
-    },
-    "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/|三島市 萩": {
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-08-31",
-      "location": "三島市 萩",
-      "price_man": 2280,
-      "area_sqm": 182.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/",
-      "text": "三島市 萩",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 41.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
       "tab": "home"
     },
     "https://www.u2japan-mishima-k.com/bkndetail/2069330560/room86149706/|沼津市 志下": {
@@ -1764,6 +1764,6 @@
       "tab": "home"
     }
   },
-  "hash": "124bffd878db9ff1",
-  "fetched_at": "2026-08-31T00:26:10.844133"
+  "hash": "fd6f0401a863e14c",
+  "fetched_at": "2026-08-31T08:29:14.457495"
 }

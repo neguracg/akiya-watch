@@ -1,5 +1,36 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38727|貸マンション 田方郡函南町大土肥1-1": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-08-31",
+      "location": "田方郡函南町大土肥1-1",
+      "price_man": 6.6,
+      "area_sqm": 58.8,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38727",
+      "text": "貸マンション 田方郡函南町大土肥1-1",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3LDK",
+      "chikunen": "1979年1月",
+      "kanrihi": null,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175325|貸その他 田方郡函南町塚本140-6": {
       "first_seen": "2026-07-28",
       "last_seen": "2026-08-31",
@@ -507,37 +538,6 @@
       "machi": "函南町",
       "tab": "rent"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38727|貸マンション 田方郡函南町大土肥1-1": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-08-31",
-      "location": "田方郡函南町大土肥1-1",
-      "price_man": 6.6,
-      "area_sqm": 58.8,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38727",
-      "text": "貸マンション 田方郡函南町大土肥1-1",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
-      "chikunen": "1979年1月",
-      "kanrihi": null,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "rent"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168541|貸マンション 田方郡函南町大土肥793-6": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-08-31",
@@ -632,6 +632,6 @@
       "tab": "rent"
     }
   },
-  "hash": "a09396c37c3ed40f",
-  "fetched_at": "2026-08-31T00:10:54.015427"
+  "hash": "c70b4750a85dfa88",
+  "fetched_at": "2026-08-31T08:13:55.919256"
 }

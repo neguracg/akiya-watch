@@ -764,35 +764,6 @@
       "machi": "",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1500050000260/|売中古戸建　函南町塚本": {
-      "first_seen": "2026-07-03",
-      "last_seen": "2026-08-31",
-      "location": "売中古戸建　函南町塚本",
-      "price_man": 2200,
-      "area_sqm": 173.7,
-      "url": "https://www.homes.co.jp/kodate/b-1500050000260/",
-      "text": "売中古戸建　函南町塚本",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 41.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
       "first_seen": "2026-07-11",
       "last_seen": "2026-08-31",
@@ -823,6 +794,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/kodate/b-1500050000260/|売中古戸建　函南町塚本": {
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-08-31",
+      "location": "売中古戸建　函南町塚本",
+      "price_man": 2200,
+      "area_sqm": 173.7,
+      "url": "https://www.homes.co.jp/kodate/b-1500050000260/",
+      "text": "売中古戸建　函南町塚本",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 41.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1341600001884/|南箱根ダイヤランド戸建": {
@@ -924,6 +924,6 @@
       "tab": "home"
     }
   },
-  "hash": "8b4c4726ba020ae5",
-  "fetched_at": "2026-08-31T00:35:30.247896"
+  "hash": "119f02ddcd5535ed",
+  "fetched_at": "2026-08-31T08:38:45.981764"
 }

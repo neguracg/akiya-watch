@@ -1,5 +1,36 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90895|貸マンション 駿東郡清水町徳倉": {
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "location": "駿東郡清水町徳倉",
+      "price_man": 5.9,
+      "area_sqm": 50.2,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90895",
+      "text": "貸マンション 駿東郡清水町徳倉",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2LDK",
+      "chikunen": "1992年1月",
+      "kanrihi": 2000,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174863|貸マンション 駿東郡清水町徳倉": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-31",
@@ -913,39 +944,8 @@
       "zokujinsei": false,
       "machi": "清水町",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142262|貸マンション 駿東郡清水町徳倉": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-08-31",
-      "location": "駿東郡清水町徳倉",
-      "price_man": 6.9,
-      "area_sqm": 62.3,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142262",
-      "text": "貸マンション 駿東郡清水町徳倉",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
-      "chikunen": "1992年1月",
-      "kanrihi": 2000,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "清水町",
-      "tab": "rent"
     }
   },
-  "hash": "1463a59359dfe032",
-  "fetched_at": "2026-08-31T00:36:23.881891"
+  "hash": "dd0c30fa7723310b",
+  "fetched_at": "2026-08-31T08:39:38.249302"
 }

@@ -29,6 +29,35 @@
       "machi": "熱海市",
       "tab": "rent"
     },
+    "https://suumo.jp/chintai/jnc_000092257885/|ＪＲ東海道本線 熱海駅 4階建 築53年": {
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "location": "静岡県熱海市清水町",
+      "price_man": 6.2,
+      "area_sqm": 38.0,
+      "url": "https://suumo.jp/chintai/jnc_000092257885/",
+      "text": "ＪＲ東海道本線 熱海駅 4階建 築53年",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2DK",
+      "chikunen": "築53年 4階建",
+      "kanrihi": null,
+      "shikikin": "12.4万円",
+      "reikin": "6.2万円",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "rent"
+    },
     "https://suumo.jp/chintai/jnc_000109443805/|コーポ秋山A": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-08-31",
@@ -671,13 +700,13 @@
       "machi": "熱海市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102944606/|西島アパート": {
-      "first_seen": "2026-08-24",
+    "https://suumo.jp/chintai/jnc_000102944606/?bc=100473636017|西島アパート": {
+      "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県熱海市下多賀",
       "price_man": 5.0,
       "area_sqm": 36.4,
-      "url": "https://suumo.jp/chintai/jnc_000102944606/",
+      "url": "https://suumo.jp/chintai/jnc_000102944606/?bc=100473636017",
       "text": "西島アパート",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -700,13 +729,13 @@
       "machi": "熱海市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102944607/|西島アパート": {
-      "first_seen": "2026-08-24",
+    "https://suumo.jp/chintai/jnc_000102944607/?bc=100473637542|西島アパート": {
+      "first_seen": "2026-08-31",
       "last_seen": "2026-08-31",
       "location": "静岡県熱海市下多賀",
       "price_man": 5.5,
       "area_sqm": 49.5,
-      "url": "https://suumo.jp/chintai/jnc_000102944607/",
+      "url": "https://suumo.jp/chintai/jnc_000102944607/?bc=100473637542",
       "text": "西島アパート",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2702,6 +2731,6 @@
       "tab": "rent"
     }
   },
-  "hash": "f5e8dc471e651d1a",
-  "fetched_at": "2026-08-31T00:31:11.558607"
+  "hash": "10a3a1992c44b8ba",
+  "fetched_at": "2026-08-31T08:34:25.083969"
 }
