@@ -3728,24 +3728,24 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("<div class='note'>" + disclaimer.replace("<p class='note'>", "").replace("</p>", "") + "</div>")
     H.append("</details>")
 
-    # ---- モバイル専用: 列フィルタ/並べ替えチップ（モバイルではcardtbl化でtheadが画面外に
-    #   飛ぶため、th.colタップの代替導線。中身はrender()内のrenderColChips()がタブ切替・
-    #   フィルタ適用のたびに再生成する。PCでは.colchipsをdisplay:noneにして非表示＝
-    #   デスクトップの見た目・挙動は変えない）----
+    # ---- モバイル専用: 列フィルタ/並べ替えチップ（モバイルでは列を間引いて表のまま表示する
+    #   ため、間引いて隠した列にはth.colタップが届かない。その列への絞り込み/並べ替え導線として
+    #   残す。中身はrender()内のrenderColChips()がタブ切替・フィルタ適用のたびに再生成する。
+    #   PCでは.colchipsをdisplay:noneにして非表示＝デスクトップの見た目・挙動は変えない）----
     H.append("<div id='colChips' class='colchips'></div>")
 
     # ---- 物件ブラウザ（折り畳み・JS描画）----
     H.append("<h2 class='sec open' data-target='secMain'>物件ブラウザ（全件・クライアント側フィルタ）</h2>")
-    H.append("<div id='secMain' class='secbody open'><table id='mainTbl' class='cardtbl'></table></div>")
+    H.append("<div id='secMain' class='secbody open'><table id='mainTbl' class='listtbl'></table></div>")
 
     # ---- 新着（折り畳み・同フォーマット。first_seenがNEW_WINDOW_DAYS日以内のものを
     #   新しい順（同日内は価格の安い順）に表示。メイン表の並べ替えとは独立）----
     H.append(f"<h2 class='sec open new' data-target='secNew'>🆕 新着（{NEW_WINDOW_DAYS}日以内・新しい順）</h2>")
-    H.append("<div id='secNew' class='secbody open'><table id='newTbl' class='cardtbl'></table></div>")
+    H.append("<div id='secNew' class='secbody open'><table id='newTbl' class='listtbl'></table></div>")
 
     # ---- お気に入り（折り畳み・JS描画）----
     H.append("<h2 class='sec fav' data-target='secFav'>⭐ お気に入り <span id='favCnt'></span></h2>")
-    H.append("<div id='secFav' class='secbody'><table id='favTbl' class='cardtbl'></table></div>")
+    H.append("<div id='secFav' class='secbody'><table id='favTbl' class='listtbl'></table></div>")
 
     # ---- NGエリア該当ログ（折り畳み・既定閉・JS描画＝タブ別。DATAのng===trueから抽出）----
     H.append("<h2 class='sec excl' data-target='secNg'>NGエリア該当ログ <span id='ngCnt'></span></h2>")
@@ -3753,7 +3753,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
 
     # ---- 非表示にした物件（折り畳み・既定閉・JS描画）----
     H.append("<h2 class='sec' data-target='secHidden'>非表示にした物件 <span id='hiddenCnt'></span></h2>")
-    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl' class='cardtbl'></table></div>")
+    H.append("<div id='secHidden' class='secbody'><table id='hiddenTbl' class='listtbl'></table></div>")
 
     # ---- 消滅（折り畳み・既定閉・JS描画＝タブ別）----
     H.append("<h2 class='sec gone' data-target='secGone'>消滅 <span id='goneCnt'></span></h2>")
@@ -3849,6 +3849,9 @@ _REPORT_CSS = (
     "#areaPop label{display:inline-block;}#areaList .arow{margin:2px 0;}#areaList .delx{cursor:pointer;color:#c0392b;margin-left:6px;}"
     ".loccell{white-space:nowrap;}.infocell{white-space:normal;max-width:220px;}"
     ".sitecell{max-width:130px;overflow:hidden;text-overflow:ellipsis;}"
+    # sitecell内の.sitemobile(モバイル向けさらなる短縮名)はPCでは常に非表示。
+    # モバイルCSS側で.sitefullと入れ替える（@media側の詳細はそちらのコメント参照）。
+    ".sitecell .sitemobile{display:none;}"
     ".secbody{overflow-x:auto;-webkit-overflow-scrolling:touch;}"
     ".tblwrap{overflow-x:auto;-webkit-overflow-scrolling:touch;}"
     # モバイル専用チップ列。PCでは常に非表示（@media側でモバイルのみdisplay:blockへ上書き）。
@@ -3923,48 +3926,106 @@ _REPORT_CSS = (
     ".syncstatus.show .synctip{display:block;}"
     # ---- モバイル対応 ----
     "@media(max-width:700px){"
-    "body{margin:0 8px 40px;overflow-x:hidden;}.topbar{flex-direction:column;align-items:flex-start;}"
+    # overflow-xの安全網はbody ではなく html 側に付ける。bodyに付けると、実際のスクロールは
+    # html/viewportへ伝播して問題なく動く一方、bodyの子孫にとっては「overflow:auto等を持つ
+    # 祖先」に該当してしまい、.listtbl thead th のposition:stickyがviewportではなくbodyの
+    # スクロールボックスに閉じ込められて完全に効かなくなる（実機で確認した既知の罠）。
+    # html側なら、そのoverflow-xがそのままviewport自身の挙動になるためsticky計算に影響しない。
+    "html{overflow-x:hidden;}"
+    "body{margin:0 8px 40px;}.topbar{flex-direction:column;align-items:flex-start;}"
     ".topctl{margin-top:4px;}#filterToggle{display:inline-block;}"
     ".panel{display:none;}.panel.open{display:block;}"
     ".tabs{flex-wrap:wrap;}"
     ".tab-btn{padding:6px 14px;font-size:13px;min-height:44px;display:inline-flex;"
     "align-items:center;justify-content:center;}"
-    "h1{font-size:16px;}th,td{font-size:11px;padding:2px 4px;}.infocell{max-width:140px;}"
+    "h1{font-size:16px;}th,td{font-size:10px;padding:2px 3px;}"
     ".fb-line{flex-wrap:wrap;}.fb-line input[type=number]{width:64px;}"
     "#popup,#areaPop{max-width:90vw;}"
-    # ---- モバイル: カード型テーブル（.cardtblのみ対象=mainTbl/newTbl/favTbl/hiddenTbl。
-    #   NGログ等の付随テーブルはtblwrapの横スクロールのみで対象外）----
-    # CSS-Tricks「Responsive Data Tables」の型。theadは非表示ではなく画面外へ（スクリーンリーダー配慮）。
-    ".cardtbl{display:block;border:none;}"
-    ".cardtbl thead{position:absolute;left:-9999px;top:-9999px;}"
-    ".cardtbl tbody{display:block;}"
-    ".cardtbl tr{display:block;border:1px solid #ccc;border-radius:8px;"
-    "margin:0 0 10px;padding:6px 8px;background:#fff;}"
-    ".cardtbl tbody tr:nth-child(even){background:#fff;}"
-    ".cardtbl tr.nocard,.cardtbl tr.legendrow{border:none;background:none;padding:4px 2px;}"
-    # ラベルはgrid+::before化（absolute配置は狭幅で値と重なるため使わない）。gapは使わずpaddingで間隔。
-    ".cardtbl td{display:grid;grid-template-columns:7em 1fr;border:none;"
-    "border-bottom:1px solid #eee;padding:5px 2px;white-space:normal;text-align:left;font-size:12px;}"
-    ".cardtbl td:last-child{border-bottom:none;}"
-    ".cardtbl td::before{content:attr(data-label);font-weight:bold;color:#666;padding-right:8px;}"
-    ".cardtbl td[data-k=price]{font-weight:bold;font-size:15px;}"
-    ".cardtbl td[data-k=loc]{font-weight:bold;}"
-    # サイト/参考情報は値の中に複数<span>を含みうる列。PC向けmax-width制約を残すと2カラム化後の
-    # 値側がさらに狭くなり潰れるため、カード表示では解除する。
-    ".cardtbl td.sitecell,.cardtbl td.infocell{max-width:none;overflow:visible;}"
-    ".cardtbl td.emp{display:none;}"
-    ".cardtbl td[colspan]{display:block;padding:8px 4px;}"
-    ".cardtbl td[colspan]::before{content:none;}"
-    ".cardtbl td.favcell,.cardtbl td.detailcell,.cardtbl td.hidecell{"
-    "display:block;text-align:center;padding:6px 2px;}"
-    ".cardtbl td.favcell::before,.cardtbl td.detailcell::before,.cardtbl td.hidecell::before{content:none;}"
-    ".cardtbl .favbtn{display:inline-flex;align-items:center;justify-content:center;"
-    "min-width:44px;min-height:44px;font-size:22px;}"
-    ".cardtbl td.detailcell a{display:inline-flex;align-items:center;justify-content:center;"
-    "min-width:44px;min-height:44px;padding:6px 18px;}"
-    ".cardtbl td.hidecell button{display:inline-flex;align-items:center;justify-content:center;"
-    "min-width:44px;min-height:44px;padding:6px 16px;font-size:13px;}"
-    # ---- モバイル: 列フィルタ/並べ替えチップ（th.colタップの代替導線）----
+    # ---- モバイル: 一覧表は表のまま・列を間引いて縦に詰める（カード化はしない。
+    #   6000件規模を「ざっと眺める」用途では1画面の表示行数が最重要指標のため。
+    #   対象は.listtblのみ=mainTbl/newTbl/favTbl/hiddenTbl。NGログ/消滅/サマリ等の
+    #   付随テーブルはth/tdにdata-kを持たないためこのブロックの影響を受けず、
+    #   従来どおりtblwrapの横スクロールのみで対応する）----
+    # 列を間引く: th/tdに既に付与済みのdata-k（colsFor(tab)が唯一の列定義。CSS側で
+    #   モバイル用分岐を作らない）をフックに、優先度の低い列をdisplay:noneにする。
+    #   非rentタブは 価格/面積/建築可否/掲載サイト/所在地/検出日 が残り、rentタブは
+    #   建築可否の代わりに間取り(madori。非表示指定に無いキーなので自動的に残る)が残る。
+    ".listtbl [data-k=info],.listtbl [data-k=chimoku],.listtbl [data-k=machi],"
+    ".listtbl [data-k=tsubo],.listtbl [data-k=shubetsu],.listtbl [data-k=chikunen],"
+    ".listtbl [data-k=shikirei]{display:none;}"
+    # 残す列だけになってもなお375pxには収まらない（実測。詳細は下の各ルールのコメント）
+    # ため、th,td共通ルールより詳細度の高い.listtbl th/tdでさらに切り詰める。
+    ".listtbl th,.listtbl td{padding:2px 2px;}"
+    # 見出しは「建築可否」「掲載サイト」等いずれも短い固定の日本語ラベルで、値側より
+    # 見出し側のほうが列幅のボトルネックになりやすい（実測で確認）ため、見出しだけ
+    # 少し縮める（値側の10pxはPCと同じ。列見出しの可読性が主目的の値ではないので許容）。
+    ".listtbl thead th{font-size:9px;}"
+    # 所在地・掲載サイト・建築可否は、見出しラベルを含めてもなお375pxに収まらないため
+    # 省略表示にする。th/td共通のdata-kをフックにして見出し・値の両方に効かせる
+    # （tdだけ絞っても見出し側の文字数がボトルネックのままでは列幅が縮まないため）。
+    # 幅は実データをcanvas計測して決めた: 所在地72pxは「郡+町」の最長組み合わせ
+    # （例:賀茂郡東伊豆町/西伊豆町/南伊豆町。7文字）まで市町名が必ず見えるのに必要な幅。
+    # 番地まで入れるのは不可能なので市町名までを合格ラインとする（腱さん指示どおり。
+    # ごく一部、住所欄の先頭に物件番号等が付く一回限りの例外データは対象外）。
+    ".listtbl [data-k=loc]{max-width:72px;overflow:hidden;text-overflow:ellipsis;}"
+    ".listtbl [data-k=site]{max-width:60px;overflow:hidden;text-overflow:ellipsis;}"
+    # 建築可否は値自体(○/△/×/不明)が最大2文字と短いため、見出しラベル(「建築可否」4文字)
+    # だけを削ってでも幅を切り詰める（値の可読性は失われない。実測: 22pxで値は全件フル表示）。
+    ".listtbl [data-k=rb]{max-width:22px;overflow:hidden;text-overflow:ellipsis;}"
+    # 価格・面積は元々max-width制約が無く自然幅任せだった。最初「camp/rentは絞らない既定
+    # なので高額物件が混じり得る」という理由で31px/36pxまで削ったところ、全DATAの実測で
+    # price 37.9-58.3%・area 2.8-10.6%が切れる実害になった（「1,000万」のような普通に
+    # 頻出する4桁価格まで切れていた＝腱さんが問題視していない列を壊してしまっていた）。
+    # 全DATA(6344件)のwidth分布を実測し直し、価格は最大値(10,000万)・面積はp95(≈95%
+    # タイル値。極端に広い山林等の希少な外れ値だけ許容)を基準に上限を引き直した。
+    ".listtbl [data-k=price]{max-width:34px;overflow:hidden;text-overflow:ellipsis;}"
+    ".listtbl [data-k=area]{max-width:34px;overflow:hidden;text-overflow:ellipsis;}"
+    # 掲載サイト: PC用の.sitefull(正式名。例「SUUMO 土地」)ではなく、さらに縮めた
+    # .sitemobile(例「SUUMO」。SITE_PREFIXESのshortを参照)を表示する。切れて判別不能に
+    # なっていた実害の対策（腱さん実測で「SUUM…」「空き…」しか見えず、どのサイトの
+    # 物件か分からないと指摘された）。
+    ".listtbl [data-k=site] .sitefull{display:none;}"
+    ".listtbl [data-k=site] .sitemobile{display:inline;}"
+    # 所在地: 先頭の郵便番号(〒xxx-xxxx。付くサイトのみ)は限られた幅の中で市町名を
+    # 押し出してしまう実害があったため隠す。付かないデータではlocpostが無いため無害。
+    ".listtbl [data-k=loc] .locpost{display:none;}"
+    # rentタブの間取り(madori)は建築可否(rb)の代わりに出る列。県営住宅等は
+    # 「1DK･1LDK･2DK…(35.3～72.6㎡)」のように複数間取りを列挙し得るため見出しでは
+    # なく値側が実測でボトルネックだった（375px実測で発覚）。他タブに無いキーなので
+    # このルールは賃貸タブにしか効かない。下のarea非表示で浮いた幅もここへ回した。
+    ".listtbl [data-k=madori]{max-width:61px;overflow:hidden;text-overflow:ellipsis;}"
+    # rentタブの面積(area)は間取り側に「(43.9㎡)」の形で内包されており実質的に空欄
+    # （—）になることが多い。data-k=areaは非rentタブと共通のキーなのでcolsFor側は
+    # 分岐させず、body[data-tab]（updateTabUI()が render() のたびに反映）を起点にした
+    # CSSだけでrentタブに限定して隠す。非rentタブのarea(面積)は必須列なので対象外。
+    "body[data-tab=rent] .listtbl [data-k=area]{display:none;}"
+    # 検出日:「2026-07-27（18日前）」は長すぎるため、モバイルは相対表示だけ残す
+    # （cellHtmlInnerのfirst_seenケースで日付/相対を別spanにしてある。色分けの
+    # style指定はtd自体に付くため、どのspanを隠しても維持される＝PC表示は不変）。
+    # 括弧(.fsp)も表示の無駄なので隠す＝モバイルは「18日前」のみ残る。
+    ".listtbl [data-k=first_seen] .fsdate{display:none;}"
+    ".listtbl [data-k=first_seen] .fsp{display:none;}"
+    # ボタン/★/詳細リンクはPC用サイズのままだと横幅を大きく食うため縮小する
+    # （タップ精度より1画面の情報量を優先する、という今回の要求どおりのtrade-off）。
+    ".listtbl .favbtn{font-size:14px;padding:0;}"
+    ".listtbl .hidebtn,.listtbl .restorebtn{font-size:9px;padding:1px 1px;}"
+    ".listtbl td.detailcell{padding:2px 1px;}"
+    ".listtbl td.hidecell{padding:2px 1px;}"
+    # 見出し行を固定（sticky）。position:stickyは「overflow:auto等を持つ祖先の内側では
+    # 効かない」既知の罠があり、.secbodyがoverflow-x:autoを持つため元々は効かない。
+    # ここでは列を間引いて横スクロール自体を無くした（=.secbody側にoverflow-xで
+    # 隠すべきはみ出しがそもそも無い）ので、その祖先だけoverflow-xをvisibleに戻して
+    # 罠を回避する（.tblwrap配下のNGログ等は別要素で、overflow-xはそちらに残るため
+    # 横スクロールは維持される）。
+    # thのtopは、既存の上部固定バー(.topbar。position:sticky;top:0;z-index:30)の
+    # 実高さぶんオフセットする必要があるが、タイトル文字列や同期バッジ有無で高さが
+    # 変わるため固定px値では合わなくなる。JS(syncTopbarHeight)が実測して
+    # --topbarHに反映する。z-indexはtopbarの30未満にして必ずその下に潜らせる
+    # （12_kintaiで本番差し戻しになった『バーと重なる/表の途中に浮く』の再発防止。
+    # 自信の持てるモバイル限定にとどめ、デスクトップのsticky theadは今回入れない）。
+    ".secbody{overflow-x:visible;}"
+    ".listtbl thead th{position:sticky;top:var(--topbarH,88px);z-index:20;}"
+    # ---- モバイル: 列フィルタ/並べ替えチップ（間引いて隠した列へのタップ代替導線）----
     # 折り返しはinline-block+margin(右下)で実現。flex/gapは使わない（指示による）。
     # box-sizing:border-boxで、min-height:36pxがそのままタップ域の実高さになるようにする
     # （content-box既定のままだとborder/paddingぶん36pxを超えて膨らみ、規定と数値がずれる）。
@@ -3997,20 +4058,57 @@ const HOUSE_TYPES=new Set(['空き家','古家付き土地','中古戸建']);
 // urls.yaml の name: を見て作った既知プレフィックス一覧のみ照合し、一致しなければ全文の
 // まま返す（重複しない一回限りの長い名前はCSSの省略表示に任せる）。元データ(d.site)は
 // 書き換えず、この関数は表示・フィルタ判定のときにだけ使う。
+// full: フィルタ判定・siteOptsForTab()・PC表示に使う正式な正規化名（従来のSITE_PREFIXES
+//   そのもの。1文字も変えていない＝フィルタの挙動は不変）。
+// short: モバイル表示専用のさらなる短縮名（5〜6文字目安。タブで既に土地/中古戸建/賃貸/
+//   市町が分かれているため種別・地域部分は落としてサービス名だけにする）。短縮表を
+//   別配列にすると同じ知識が2箇所に分裂するため、1つの表にfull/short両方を持たせる。
 const SITE_PREFIXES=[
-  'SUUMO 賃貸','SUUMO 土地','SUUMO 中古戸建',
-  'LIFULL 賃貸','LIFULL 中古戸建','LIFULL 空き家バンク','LIFULL 土地',
-  '空き家バンクしずおか','アットホーム空き家バンク','住むなら三島',
-  'ジモティー','家いちば','真野開発','不動産創研','伊豆総合企画',
-  '家っち(新日本住建販売)','U2JAPAN三島店','スマイミー静岡',
-  '山いちば','山林バンク','山林売買.net','森林.net','日本マウント',
-  '天城オートキャンプ','東海ヤジマ','田舎暮らし物件.com','ふるさと情報館',
-  'CHINTAI','いい部屋ネット','静岡県営住宅','ビレッジハウス'
+  {full:'SUUMO 賃貸',short:'SUUMO'},
+  {full:'SUUMO 土地',short:'SUUMO'},
+  {full:'SUUMO 中古戸建',short:'SUUMO'},
+  {full:'LIFULL 賃貸',short:'LIFULL'},
+  {full:'LIFULL 中古戸建',short:'LIFULL'},
+  {full:'LIFULL 空き家バンク',short:'LIFULL'},
+  {full:'LIFULL 土地',short:'LIFULL'},
+  {full:'空き家バンクしずおか',short:'空き家BK'},
+  {full:'アットホーム空き家バンク',short:'アットホーム'},
+  {full:'住むなら三島',short:'住むなら三島'},
+  {full:'ジモティー',short:'ジモティー'},
+  {full:'家いちば',short:'家いちば'},
+  {full:'真野開発',short:'真野開発'},
+  {full:'不動産創研',short:'不動産創研'},
+  {full:'伊豆総合企画',short:'伊豆総合企画'},
+  {full:'家っち(新日本住建販売)',short:'家っち'},
+  {full:'U2JAPAN三島店',short:'U2JAPAN'},
+  {full:'スマイミー静岡',short:'スマイミー'},
+  {full:'山いちば',short:'山いちば'},
+  {full:'山林バンク',short:'山林BK'},
+  {full:'山林売買.net',short:'山林売買'},
+  {full:'森林.net',short:'森林net'},
+  {full:'日本マウント',short:'日本マウント'},
+  {full:'天城オートキャンプ',short:'天城キャンプ'},
+  {full:'東海ヤジマ',short:'東海ヤジマ'},
+  {full:'田舎暮らし物件.com',short:'田舎暮らし'},
+  {full:'ふるさと情報館',short:'ふるさと'},
+  {full:'CHINTAI',short:'CHINTAI'},
+  {full:'いい部屋ネット',short:'いい部屋'},
+  {full:'静岡県営住宅',short:'県営住宅'},
+  {full:'ビレッジハウス',short:'ビレッジ'},
 ];
 function shortSite(name){
   name=name||'';
-  for(const p of SITE_PREFIXES){if(name.startsWith(p))return p;}
+  for(const p of SITE_PREFIXES){if(name.startsWith(p.full))return p.full;}
   return name||'—';
+}
+// モバイル表示専用: shortSite()が返す正式な正規化名を、さらに画面幅向けに縮めた短縮名にする。
+// フィルタ判定・siteOptsForTab()は従来どおりshortSite()（正式名）を使い続け、この関数は
+// td内の表示（cellHtmlInnerのsiteケース）からだけ呼ぶ。正式名がSITE_PREFIXESに無い
+// （＝一回限りの長い名前でshortSite自体が全文を返した）場合はそのままCSSの省略表示に任せる。
+function mobileSite(name){
+  const full=shortSite(name);
+  const hit=SITE_PREFIXES.find(p=>p.full===full);
+  return hit?hit.short:full;
 }
 // 列フィルタの値取得。'site'だけ短縮名で比較する（opts自体が短縮名の集合のため、生の
 // d.siteのままだと絶対に一致しない）。他の列は従来どおり d[k] を直接見る（挙動を変えない）。
@@ -4443,7 +4541,7 @@ function passFilters(d){
 function buildHead(cols){
   let h='<thead><tr><th class=favcell title="お気に入り">★</th>';
   cols.forEach(c=>{
-    if(c.nostat){h+="<th>"+esc(c.l)+"</th>";return;}
+    if(c.nostat){h+="<th data-k='"+c.k+"'>"+esc(c.l)+"</th>";return;}
     const active=S.cf[c.k]?' filtered':'';
     const ar=(S.sort.k===c.k)?(S.sort.d>0?'▲':'▼'):'';
     const fi=(c.f&&S.cf[c.k])?' <span class=fi>⚑</span>':'';
@@ -4452,11 +4550,8 @@ function buildHead(cols){
   return h+'<th>詳細</th><th>非表示</th></tr></thead>';
 }
 // 列キー1つぶんの <td> の中身を組み立てる（実際にrowHtmlから呼ばれるのは下のcellHtml。
-// 関数名がInnerなのは、モバイルのカード表示用にdata-label/data-k付与とemptyクラス付けを
-// cellHtml側で薄くラップするため）。price/areaは売買(home/camp)と賃貸(rent)でヒートマップ
-// 関数が違う点にだけ注意。'site'/'info'は値の中に複数の<span>を含みうるため、必ず1個の
-// <span class=vwrap>でまとめて子要素を1個にする（モバイルのcardtbl td{display:grid}化で、
-// 子要素が複数あるとそれぞれ別のgridアイテムとして別セルに割り付けられ、レイアウトが割れるため）。
+// 関数名がInnerなのは、cellHtml側でdata-k付与を薄くラップするため）。price/areaは
+// 売買(home/camp)と賃貸(rent)でヒートマップ関数が違う点にだけ注意。
 function cellHtmlInner(k,d,g){
   switch(k){
     case 'price':{
@@ -4478,12 +4573,21 @@ function cellHtmlInner(k,d,g){
     }
     case 'site':{
       const others=g.sites.length-1;
-      const label=esc(shortSite(d.site))+(others>0?" <span class=muted>ほか"+others+"件</span>":"");
-      return "<td class='sitecell' title='"+esc(g.sites.join(' / '))+"'><span class=vwrap>"+label+"</span></td>";
+      const otherHtml=others>0?" <span class=muted>ほか"+others+"件</span>":"";
+      // PC(.sitefull)は従来どおりshortSite()の正式名。モバイル(.sitemobile)はさらに縮めた
+      // mobileSite()を出し、CSSで出し分ける（既定は.sitemobileを隠す＝PCは無変更）。
+      const full="<span class=sitefull>"+esc(shortSite(d.site))+"</span>";
+      const mob="<span class=sitemobile>"+esc(mobileSite(d.site))+"</span>";
+      return "<td class='sitecell' title='"+esc(g.sites.join(' / '))+"'>"+full+mob+otherHtml+"</td>";
     }
     case 'loc':{
       const loc=esc(normLoc(d.loc).slice(0,22)||'—');
-      return "<td class='loccell'>"+loc+"</td>";
+      // 先頭が郵便番号(〒xxx-xxxx)なら別spanで包む。モバイルCSSでそこだけ隠し、限られた
+      // 幅を市町名以降の実際の住所に回す（付かないサイトのデータでも壊れないよう、
+      // マッチしない場合はlocをそのまま返す）。
+      const m=loc.match(/^(〒\d{3}-\d{4})([\s\S]*)$/);
+      const label=m?("<span class=locpost>"+m[1]+"</span>"+m[2]):loc;
+      return "<td class='loccell'>"+label+"</td>";
     }
     case 'machi':
       return "<td>"+esc(d.machi||'—')+"</td>";
@@ -4499,8 +4603,15 @@ function cellHtmlInner(k,d,g){
       return "<td>"+esc(label)+"</td>";
     }
     case 'first_seen':{
-      const ago=(d.days_ago==null||d.days_ago<0)?'':('（'+d.days_ago+'日前）');
-      return "<td style='"+hFirstSeen(d.days_ago)+"'>"+esc(d.first_seen||'—')+esc(ago)+"</td>";
+      // 日付/相対の2つに分けてspanで包む。モバイルCSSが.fsdateだけdisplay:noneにして
+      // 「18日前」の相対表示だけを残す（「2026-07-27（18日前）」は長すぎるため）。
+      // 括弧（fsp）もモバイルでは表示自体を無駄にするので別spanにして隠す＝モバイルは
+      // 「18日前」のみ、PCは従来どおり「2026-07-27（18日前）」のまま。
+      // 色分け(hFirstSeen)のstyleはtd自体に付けるので、どのspanを隠しても維持される。
+      const agoNum=(d.days_ago==null||d.days_ago<0)?'':(d.days_ago+'日前');
+      const dateHtml="<span class=fsdate>"+esc(d.first_seen||'—')+"</span>";
+      const agoHtml=agoNum?("<span class=fsago><span class=fsp>（</span>"+esc(agoNum)+"<span class=fsp>）</span></span>"):"";
+      return "<td style='"+hFirstSeen(d.days_ago)+"'>"+dateHtml+agoHtml+"</td>";
     }
     case 'info':{
       let info='';
@@ -4508,31 +4619,18 @@ function cellHtmlInner(k,d,g){
       (d.cautions||[]).forEach(x=>info+="<span class=bc>"+esc(x)+"</span>");
       if(d.zokujin)info+="<span class=bz>属人性</span>";
       if(!info)info='<span class=muted>—</span>';
-      return "<td class='infocell'><span class=vwrap>"+info+"</span></td>";
+      return "<td class='infocell'>"+info+"</td>";
     }
     default:
       return "<td>—</td>";
   }
 }
-// cellHtmlInnerの結果に、モバイルのカード表示用の属性を付けて返す（PC表示はdata-label等の
-// 属性が増えるだけで、CSSは@media(max-width:700px)の外に一切書かないため見た目に影響しない）。
-// data-label: colsFor()のl（列の日本語ラベル）。td::before{content:attr(data-label)}で使う。
-// data-k: 列キー。th側で既に使っているdata-k付与と同じ流儀（価格/所在地の強調表示のCSSフックにも使う）。
-// class=emp: 値が「空」のセルに付け、モバイルCSSでdisplay:noneにしてカードを短くする。
-// 「空」はcellHtmlInnerが実際に描いたテキスト（タグを除去した後）で判定する。'—'はバックエンド側の
-// 「データ無し」の統一表現だが、null/空文字とは限らない（例: extract_chimokuは値が取れないと
-// リテラルの'—'文字列を返す。列ごとに生データのnull/空を個別判定すると、こうした表現差異を
-// 見落とす＝実際にchimokuで発生し検証時に見つかって修正した）。描画後テキストで判定すれば
-// cellHtmlInnerの実装と常に一致する。価格・所在地は値が空でも仕様上つねに表示する。
-function cellHtml(k,d,g,label){
-  let html=cellHtmlInner(k,d,g);
-  const inner=html.replace(/^<td[^>]*>/,'').replace(/<\/td>$/,'');
-  const text=inner.replace(/<[^>]*>/g,'').trim();
-  const empty=(k!=='price'&&k!=='loc')&&(text===''||text==='—');
-  if(empty){
-    html=/class='/.test(html)?html.replace(/class='/,"class='emp "):html.replace('<td',"<td class='emp'");
-  }
-  return html.replace('<td',"<td data-label='"+esc(label||'')+"' data-k='"+esc(k)+"'");
+// cellHtmlInnerの結果にdata-k属性を付けて返す。data-k: 列キー。th側で既に使っている
+// data-k付与と同じ流儀（モバイルの列間引きCSS([data-k=xxx]{display:none})のフックと、
+// 価格/所在地の強調表示のCSSフックを兼ねる）。
+function cellHtml(k,d,g){
+  const html=cellHtmlInner(k,d,g);
+  return html.replace('<td',"<td data-k='"+esc(k)+"'");
 }
 function rowHtml(g,inHidden,cols){
   const d=g.rep;
@@ -4542,7 +4640,7 @@ function rowHtml(g,inHidden,cols){
   const isFav=FAVOR.has(bdk);
   const fav="<td class=favcell><button class='favbtn"+(isFav?' on':'')+"' data-bdk='"+esc(bdk)+"' title='お気に入り'>"+(isFav?'★':'☆')+"</button></td>";
   let cells='';
-  cols.forEach(c=>{cells+=cellHtml(c.k,d,g,c.l);});
+  cols.forEach(c=>{cells+=cellHtml(c.k,d,g);});
   return "<tr>"
     +fav
     +cells
@@ -4693,6 +4791,10 @@ function renderSummary(){
 // ---- タブ ----
 function updateTabUI(){
   document.querySelectorAll('.tab-btn').forEach(btn=>{btn.classList.toggle('active',btn.dataset.tab===S.tab);});
+  // body[data-tab]: colsForは分岐させない方針を維持したまま、CSS側でタブ別の出し分け
+  // （モバイルでrentタブだけ面積列を隠す等）をするためのフック。render()末尾から必ず呼ばれる
+  // updateTabUI()に置くことで、タブ切替・フィルタ変更・★/非表示操作のどの再描画でも追随する。
+  document.body.dataset.tab=S.tab;
   // 参考情報の本命/注意キーワード説明文はタブで意味が違うため賃貸タブでは filters.rent の値に差し替える
   const isRent=(S.tab==='rent');
   const iTxt=document.getElementById('interestKwText');
@@ -4807,6 +4909,23 @@ document.getElementById('hideConfirm').addEventListener('click',()=>{
 });
 document.getElementById('hideCancel').addEventListener('click',closeHideModal);
 document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===document.getElementById('hideModal'))closeHideModal();});
+
+// ---- モバイル: 見出し行sticky(B-3)用に.topbarの実高さを測って--topbarHへ反映する。
+// タイトル文字列の長さや同期バッジ(#syncStatus)の表示有無で高さが変わるため、固定px値
+// ではなく実測する（CSS側の.listtbl thead th{top:var(--topbarH,88px)}が参照する。
+// このCSS変数を使うルールは@media(max-width:700px)の中にしか無いためPC表示には影響しない）。
+function syncTopbarHeight(){
+  const tb=document.querySelector('.topbar');
+  if(!tb)return;
+  document.documentElement.style.setProperty('--topbarH',tb.offsetHeight+'px');
+}
+syncTopbarHeight();
+window.addEventListener('resize',syncTopbarHeight);
+window.addEventListener('orientationchange',syncTopbarHeight);
+// リサイズを伴わない高さ変化（同期バッジのラベル変化での折り返し等）にも追随させる。
+if(window.ResizeObserver){
+  new ResizeObserver(syncTopbarHeight).observe(document.querySelector('.topbar'));
+}
 
 // ---- 初期化＆イベント ----
 (function init(){
