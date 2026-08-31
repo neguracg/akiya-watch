@@ -933,5 +933,49 @@
     "text": "パリーマンション熱海",
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108151631/|熱海シティヴィラ咲見町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-29",
+    "location": "静岡県熱海市咲見町",
+    "price_man": 13.4,
+    "area_sqm": 56.5,
+    "url": "https://suumo.jp/chintai/jnc_000108151631/",
+    "text": "熱海シティヴィラ咲見町",
+    "removed_on": "2026-08-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107511648/|熱海シティヴィラ咲見町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-08-29",
+    "location": "静岡県熱海市咲見町",
+    "price_man": 17.8,
+    "area_sqm": 54.1,
+    "url": "https://suumo.jp/chintai/jnc_000107511648/",
+    "text": "熱海シティヴィラ咲見町",
+    "removed_on": "2026-08-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106122461/?bc=100498806278|ＪＲ東海道本線 熱海駅 4階建 築38年": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-29",
+    "location": "静岡県熱海市水口町",
+    "price_man": 6.5,
+    "area_sqm": 42.0,
+    "url": "https://suumo.jp/chintai/jnc_000106122461/?bc=100498806278",
+    "text": "ＪＲ東海道本線 熱海駅 4階建 築38年",
+    "removed_on": "2026-08-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106251282/?bc=100500020522|ＪＲ東海道本線 熱海駅 4階建 築38年": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-29",
+    "location": "静岡県熱海市水口町",
+    "price_man": 6.5,
+    "area_sqm": 41.2,
+    "url": "https://suumo.jp/chintai/jnc_000106251282/?bc=100500020522",
+    "text": "ＪＲ東海道本線 熱海駅 4階建 築38年",
+    "removed_on": "2026-08-31",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

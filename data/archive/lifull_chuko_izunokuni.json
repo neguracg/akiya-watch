@@ -241,17 +241,6 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-33303660001172/|富士見ニュータウン": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "富士見ニュータウン",
-    "price_man": 250,
-    "area_sqm": 246.3,
-    "url": "https://www.homes.co.jp/kodate/b-33303660001172/",
-    "text": "富士見ニュータウン",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1490460002362/|伊豆の国市花坂　中古戸建": {
     "first_seen": "2026-08-29",
     "last_seen": "2026-08-29",
@@ -261,6 +250,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1490460002362/",
     "text": "伊豆の国市花坂　中古戸建",
     "removed_on": "2026-08-29",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002407/|木の温もりが映える、和モダン住宅": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-29",
+    "location": "木の温もりが映える、和モダン住宅",
+    "price_man": 1770,
+    "area_sqm": 180.9,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002407/",
+    "text": "木の温もりが映える、和モダン住宅",
+    "removed_on": "2026-08-31",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

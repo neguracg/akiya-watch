@@ -571,28 +571,6 @@
     "removed_on": "2026-08-20",
     "site_name": "空き家バンクしずおか 沼津市"
   },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153203/settle/1|売住宅 沼津市新沢田町8-22": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-19",
-    "location": "沼津市新沢田町8-22",
-    "price_man": 2580,
-    "area_sqm": 136.8,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153203/settle/1",
-    "text": "売住宅 沼津市新沢田町8-22",
-    "removed_on": "2026-08-20",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146838/settle/1|売土地 沼津市住吉町1－8": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-19",
-    "location": "沼津市住吉町1－8",
-    "price_man": 1000,
-    "area_sqm": 127.3,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146838/settle/1",
-    "text": "売土地 沼津市住吉町1－8",
-    "removed_on": "2026-08-20",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
   "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171325/settle/1|売住宅 沼津市青野": {
     "first_seen": "2026-07-11",
     "last_seen": "2026-08-20",
@@ -656,17 +634,6 @@
     "area_sqm": 230.0,
     "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153490/settle/1",
     "text": "売土地 沼津市下香貫上障子384-1",
-    "removed_on": "2026-08-29",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1|売土地 沼津市鳥谷": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-28",
-    "location": "沼津市鳥谷",
-    "price_man": 1000,
-    "area_sqm": 446.3,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170967/settle/1",
-    "text": "売土地 沼津市鳥谷",
     "removed_on": "2026-08-29",
     "site_name": "空き家バンクしずおか 沼津市"
   }

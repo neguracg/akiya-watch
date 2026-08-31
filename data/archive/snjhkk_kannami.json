@@ -65,17 +65,6 @@
     "removed_on": "2026-08-24",
     "site_name": "家っち(新日本住建販売) 函南町 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_58445/index.html|静岡県田方郡函南町上沢": {
-    "first_seen": "2026-08-14",
-    "last_seen": "2026-08-27",
-    "location": "静岡県田方郡函南町上沢",
-    "price_man": 954,
-    "area_sqm": 258.0,
-    "url": "https://www.snjhkk.com/s_r_58445/index.html",
-    "text": "静岡県田方郡函南町上沢",
-    "removed_on": "2026-08-28",
-    "site_name": "家っち(新日本住建販売) 函南町 土地一覧"
-  },
   "https://www.snjhkk.com/s_r_58443/index.html|静岡県田方郡函南町平井": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-27",
@@ -96,6 +85,17 @@
     "url": "https://www.snjhkk.com/s_r_58382/index.html",
     "text": "静岡県田方郡函南町平井",
     "removed_on": "2026-08-28",
+    "site_name": "家っち(新日本住建販売) 函南町 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59045/index.html|静岡県田方郡函南町塚本": {
+    "first_seen": "2026-06-25",
+    "last_seen": "2026-08-29",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 2330,
+    "area_sqm": null,
+    "url": "https://www.snjhkk.com/s_r_59045/index.html",
+    "text": "静岡県田方郡函南町塚本",
+    "removed_on": "2026-08-31",
     "site_name": "家っち(新日本住建販売) 函南町 土地一覧"
   }
 }

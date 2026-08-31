@@ -142,17 +142,6 @@
     "removed_on": "2026-08-18",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138574|貸戸建住宅 三島市旭ヶ丘805-9": {
-    "first_seen": "2026-08-12",
-    "last_seen": "2026-08-18",
-    "location": "三島市旭ヶ丘805-9",
-    "price_man": 17.0,
-    "area_sqm": 97.7,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138574",
-    "text": "貸戸建住宅 三島市旭ヶ丘805-9",
-    "removed_on": "2026-08-19",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175784|貸店舗・事務所定期借家 三島市北田町3-62": {
     "first_seen": "2026-07-31",
     "last_seen": "2026-08-19",
@@ -263,17 +252,6 @@
     "removed_on": "2026-08-28",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107971|貸店舗・事務所 三島市松本": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-08-27",
-    "location": "三島市松本",
-    "price_man": 30.0,
-    "area_sqm": 198.3,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107971",
-    "text": "貸店舗・事務所 三島市松本",
-    "removed_on": "2026-08-28",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90190|貸マンション 三島市南二日町": {
     "first_seen": "2026-08-23",
     "last_seen": "2026-08-29",
@@ -283,6 +261,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90190",
     "text": "貸マンション 三島市南二日町",
     "removed_on": "2026-08-29",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109936|貸駐車場 三島市東町": {
+    "first_seen": "2026-08-15",
+    "last_seen": "2026-08-29",
+    "location": "三島市東町",
+    "price_man": 0.65,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109936",
+    "text": "貸駐車場 三島市東町",
+    "removed_on": "2026-08-31",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174100|貸マンション 三島市中島273-6": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-29",
+    "location": "三島市中島273-6",
+    "price_man": 4.8,
+    "area_sqm": 29.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174100",
+    "text": "貸マンション 三島市中島273-6",
+    "removed_on": "2026-08-31",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

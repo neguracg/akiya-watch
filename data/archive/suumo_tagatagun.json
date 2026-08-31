@@ -130,5 +130,16 @@
     "text": "仁田（大場駅） 2300万円",
     "removed_on": "2026-08-24",
     "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/|柏谷（伊豆仁田駅） 1080万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-08-29",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 1080,
+    "area_sqm": 165.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/",
+    "text": "柏谷（伊豆仁田駅） 1080万円",
+    "removed_on": "2026-08-31",
+    "site_name": "SUUMO 土地 田方郡（函南）"
   }
 }
