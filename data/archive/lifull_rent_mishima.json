@@ -1231,28 +1231,6 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/74aa548df60b6334e856875edae73dfd726afe59/|ヴィラ停雲": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "静岡県三島市大宮町1丁目10-28",
-    "price_man": 4.3,
-    "area_sqm": 25.5,
-    "url": "https://www.homes.co.jp/chintai/room/74aa548df60b6334e856875edae73dfd726afe59/",
-    "text": "ヴィラ停雲",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/20cf2cb4f878193ed0983e83f3d7e8c7c3d06611/|ソフィア・オリエンス": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "静岡県三島市東町",
-    "price_man": 7.2,
-    "area_sqm": 57.6,
-    "url": "https://www.homes.co.jp/chintai/room/20cf2cb4f878193ed0983e83f3d7e8c7c3d06611/",
-    "text": "ソフィア・オリエンス",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/1a9b636f72b79aae8717bd60e8b35c86cc5b2547/|ロワール　23": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-08-29",
@@ -1286,37 +1264,26 @@
     "removed_on": "2026-08-31",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/846d1ddc8b62c9bd23786a79a41d4ea5d0500fd7/|グランデ北沢II": {
-    "first_seen": "2026-08-27",
+  "https://www.homes.co.jp/chintai/room/c4ba9f86970026a6d1688dd8103bc77b425354df/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
     "last_seen": "2026-08-31",
-    "location": "静岡県三島市北沢",
-    "price_man": 7.8,
-    "area_sqm": 58.1,
-    "url": "https://www.homes.co.jp/chintai/room/846d1ddc8b62c9bd23786a79a41d4ea5d0500fd7/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-08-31",
+    "location": "静岡県三島市大宮町1丁目4-20",
+    "price_man": 8.05,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/c4ba9f86970026a6d1688dd8103bc77b425354df/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-09-01",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/c4e3a01c0b2041020b7f3274bda0b3ead9168bf9/|グランデ北沢II": {
-    "first_seen": "2026-08-27",
+  "https://www.homes.co.jp/chintai/room/5391b2c27517bb3af1ff1d6c6a4e95e5ef61ddb2/|メゾン・ド・グラース": {
+    "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
-    "location": "静岡県三島市北沢",
-    "price_man": 6.3,
-    "area_sqm": 48.9,
-    "url": "https://www.homes.co.jp/chintai/room/c4e3a01c0b2041020b7f3274bda0b3ead9168bf9/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/282e3626ae5a6c69664ad734b5a800615e89b17c/|グランデ北沢II": {
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-08-31",
-    "location": "静岡県三島市北沢",
-    "price_man": 6.3,
-    "area_sqm": 48.9,
-    "url": "https://www.homes.co.jp/chintai/room/282e3626ae5a6c69664ad734b5a800615e89b17c/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-08-31",
+    "location": "静岡県三島市日の出町",
+    "price_man": 10.1,
+    "area_sqm": 67.2,
+    "url": "https://www.homes.co.jp/chintai/room/5391b2c27517bb3af1ff1d6c6a4e95e5ef61ddb2/",
+    "text": "メゾン・ド・グラース",
+    "removed_on": "2026-09-01",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

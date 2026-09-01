@@ -109,26 +109,37 @@
     "removed_on": "2026-08-22",
     "site_name": "LIFULL 土地 清水町"
   },
-  "https://www.homes.co.jp/tochi/b-33323360000936/|駿東郡清水町徳倉 (沼津駅)": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-08-29",
-    "location": "駿東郡清水町徳倉 (沼津駅)",
-    "price_man": 2400,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33323360000936/",
-    "text": "駿東郡清水町徳倉 (沼津駅)",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 土地 清水町"
-  },
-  "https://www.homes.co.jp/tochi/b-33323360001067/|駿東郡清水町徳倉 (沼津駅)": {
+  "https://www.homes.co.jp/tochi/b-33328200000946/|駿東郡清水町徳倉 (沼津駅)": {
     "first_seen": "2026-06-19",
     "last_seen": "2026-08-31",
     "location": "駿東郡清水町徳倉 (沼津駅)",
-    "price_man": 1200,
+    "price_man": 1280,
     "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33323360001067/",
+    "url": "https://www.homes.co.jp/tochi/b-33328200000946/",
     "text": "駿東郡清水町徳倉 (沼津駅)",
-    "removed_on": "2026-08-31",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 清水町"
+  },
+  "https://www.homes.co.jp/tochi/b-1436870001763/|駿東郡清水町柿田 (沼津駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "駿東郡清水町柿田 (沼津駅)",
+    "price_man": 2200,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1436870001763/",
+    "text": "駿東郡清水町柿田 (沼津駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 清水町"
+  },
+  "https://www.homes.co.jp/tochi/b-33327210001575/|駿東郡清水町伏見 (三島広小路駅)": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-31",
+    "location": "駿東郡清水町伏見 (三島広小路駅)",
+    "price_man": 11500,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33327210001575/",
+    "text": "駿東郡清水町伏見 (三島広小路駅)",
+    "removed_on": "2026-09-01",
     "site_name": "LIFULL 土地 清水町"
   }
 }

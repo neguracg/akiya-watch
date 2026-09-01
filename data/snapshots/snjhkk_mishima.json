@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "577969d95d92a80a",
-  "fetched_at": "2026-08-31T08:26:33.511338"
+  "keys": {
+    "https://www.snjhkk.com/s_r_59652/index.html|静岡県三島市文教町2丁目": {
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "location": "静岡県三島市文教町2丁目",
+      "price_man": 3680,
+      "area_sqm": 127.4,
+      "url": "https://www.snjhkk.com/s_r_59652/index.html",
+      "text": "静岡県三島市文教町2丁目",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 95.5,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    }
+  },
+  "hash": "cc740fc71c5e9ee0",
+  "fetched_at": "2026-09-01T01:10:31.843824"
 }

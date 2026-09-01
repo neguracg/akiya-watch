@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173391/settle/1|売住宅 駿東郡清水町徳倉": {
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-09-01",
+      "location": "駿東郡清水町徳倉",
+      "price_man": 1800,
+      "area_sqm": 567.1,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173391/settle/1",
+      "text": "売住宅 駿東郡清水町徳倉",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "畑",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 10.5,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176824/settle/1|売土地 駿東郡清水町伏見756-1": {
       "first_seen": "2026-08-31",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町伏見756-1",
       "price_man": 11500,
       "area_sqm": 957.5,
@@ -31,7 +60,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/126543/settle/1|売土地 駿東郡清水町長沢975-1": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町長沢975-1",
       "price_man": 4450,
       "area_sqm": 560.3,
@@ -60,7 +89,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166499/settle/1|売土地 駿東郡清水町徳倉": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉",
       "price_man": 1200,
       "area_sqm": 132.0,
@@ -89,7 +118,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176634/settle/1|新築売住宅 駿東郡清水町柿田": {
       "first_seen": "2026-08-25",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町柿田",
       "price_man": 3290,
       "area_sqm": 131.2,
@@ -118,7 +147,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174490/settle/1|新築売住宅 駿東郡清水町柿田": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町柿田",
       "price_man": 3490,
       "area_sqm": 130.6,
@@ -147,7 +176,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171406/settle/1|一括売マンション 駿東郡清水町徳倉": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉",
       "price_man": 4800,
       "area_sqm": 668.5,
@@ -176,7 +205,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155355/settle/1|売土地 駿東郡清水町湯川": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町湯川",
       "price_man": 1980,
       "area_sqm": 171.6,
@@ -205,7 +234,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158258/settle/1|売土地 駿東郡清水町徳倉891-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉891-1",
       "price_man": 1490,
       "area_sqm": 133.7,
@@ -234,7 +263,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158257/settle/1|売土地 駿東郡清水町徳倉891-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉891-1",
       "price_man": 1490,
       "area_sqm": 133.5,
@@ -263,7 +292,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176403/settle/1|新築売住宅 駿東郡清水町徳倉67-10": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉67-10",
       "price_man": 2390,
       "area_sqm": 128.4,
@@ -295,7 +324,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175467/settle/1|売住宅 駿東郡清水町伏見": {
       "first_seen": "2026-07-21",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町伏見",
       "price_man": 3200,
       "area_sqm": 257.4,
@@ -324,7 +353,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171451/settle/1|売住宅 駿東郡清水町長沢989-5": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町長沢989-5",
       "price_man": 199,
       "area_sqm": 105.8,
@@ -353,7 +382,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170890/settle/1|新築売住宅 駿東郡清水町長沢": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町長沢",
       "price_man": 3190,
       "area_sqm": 175.5,
@@ -380,38 +409,9 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173391/settle/1|売住宅 駿東郡清水町徳倉": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
-      "location": "駿東郡清水町徳倉",
-      "price_man": 1980,
-      "area_sqm": 567.1,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173391/settle/1",
-      "text": "売住宅 駿東郡清水町徳倉",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "畑",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 11.5,
-      "verdict": "適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "清水町",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170814/settle/1|売土地 駿東郡清水町堂庭": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町堂庭",
       "price_man": 3080,
       "area_sqm": 198.4,
@@ -440,7 +440,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172442/settle/1|売土地 駿東郡清水町徳倉": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉",
       "price_man": 1520,
       "area_sqm": 165.3,
@@ -469,7 +469,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149269/settle/1|売土地 駿東郡清水町伏見": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町伏見",
       "price_man": 2700,
       "area_sqm": 205.3,
@@ -498,7 +498,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138257/settle/1|売土地 駿東郡清水町徳倉2403-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-08-31",
+      "last_seen": "2026-09-01",
       "location": "駿東郡清水町徳倉2403-1",
       "price_man": 2400,
       "area_sqm": 242.7,
@@ -526,6 +526,6 @@
       "tab": "home"
     }
   },
-  "hash": "5618abc3a17f930f",
-  "fetched_at": "2026-08-31T08:40:29.223546"
+  "hash": "acb8046d7e693d89",
+  "fetched_at": "2026-09-01T01:23:57.865576"
 }

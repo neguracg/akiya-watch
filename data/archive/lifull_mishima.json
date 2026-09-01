@@ -2980,83 +2980,6 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 土地 三島市"
   },
-  "https://www.homes.co.jp/tochi/b-33328200001064/|三島市泉町 (三島広小路駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市泉町 (三島広小路駅)",
-    "price_man": 5180,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33328200001064/",
-    "text": "三島市泉町 (三島広小路駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33301270000105/|三島市谷田 (三島駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市谷田 (三島駅)",
-    "price_man": 1530,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33301270000105/",
-    "text": "三島市谷田 (三島駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33301270000098/|三島市徳倉3丁目 (三島駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市徳倉3丁目 (三島駅)",
-    "price_man": 780,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33301270000098/",
-    "text": "三島市徳倉3丁目 (三島駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33317490000156/|三島市谷田 (三島二日町駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市谷田 (三島二日町駅)",
-    "price_man": 5500,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33317490000156/",
-    "text": "三島市谷田 (三島二日町駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33309130000095/|三島市中 (三島二日町駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市中 (三島二日町駅)",
-    "price_man": 450,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33309130000095/",
-    "text": "三島市中 (三島二日町駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33309130000094/|三島市東本町1丁目 (三島田町駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市東本町1丁目 (三島田町駅)",
-    "price_man": 4980,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33309130000094/",
-    "text": "三島市東本町1丁目 (三島田町駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-33309130000090/|三島市谷田 (三島二日町駅)": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-08-29",
-    "location": "三島市谷田 (三島二日町駅)",
-    "price_man": 400,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-33309130000090/",
-    "text": "三島市谷田 (三島二日町駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
   "https://www.homes.co.jp/tochi/b-1436870001875/|三島市青木 (三島二日町駅)": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
@@ -3076,17 +2999,6 @@
     "area_sqm": null,
     "url": "https://www.homes.co.jp/tochi/b-1540930000293/",
     "text": "三島市富士ビレッジ (三島駅)",
-    "removed_on": "2026-08-31",
-    "site_name": "LIFULL 土地 三島市"
-  },
-  "https://www.homes.co.jp/tochi/b-1540930000122/|三島市東大場1丁目 (函南駅)": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "三島市東大場1丁目 (函南駅)",
-    "price_man": 1380,
-    "area_sqm": null,
-    "url": "https://www.homes.co.jp/tochi/b-1540930000122/",
-    "text": "三島市東大場1丁目 (函南駅)",
     "removed_on": "2026-08-31",
     "site_name": "LIFULL 土地 三島市"
   },
@@ -3121,6 +3033,94 @@
     "url": "https://www.homes.co.jp/tochi/b-1556780000257/",
     "text": "三島市大場 (大場駅)",
     "removed_on": "2026-08-31",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33307660000198/|三島市谷田 (三島二日町駅)": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-31",
+    "location": "三島市谷田 (三島二日町駅)",
+    "price_man": 1580,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-33307660000198/",
+    "text": "三島市谷田 (三島二日町駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560005042/|三島市青木 (三島二日町駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市青木 (三島二日町駅)",
+    "price_man": 2280,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560005042/",
+    "text": "三島市青木 (三島二日町駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560005043/|三島市青木 (三島二日町駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市青木 (三島二日町駅)",
+    "price_man": 2280,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560005043/",
+    "text": "三島市青木 (三島二日町駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004975/|三島市萩 (長泉なめり駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市萩 (長泉なめり駅)",
+    "price_man": 1880,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004975/",
+    "text": "三島市萩 (長泉なめり駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004974/|三島市萩 (長泉なめり駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市萩 (長泉なめり駅)",
+    "price_man": 1680,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004974/",
+    "text": "三島市萩 (長泉なめり駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560005041/|三島市青木 (三島二日町駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市青木 (三島二日町駅)",
+    "price_man": 2280,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560005041/",
+    "text": "三島市青木 (三島二日町駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1316560004977/|三島市萩 (長泉なめり駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市萩 (長泉なめり駅)",
+    "price_man": 2280,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1316560004977/",
+    "text": "三島市萩 (長泉なめり駅)",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1292700001245/|三島市南原菅 (箱根湯本駅)": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-08-31",
+    "location": "三島市南原菅 (箱根湯本駅)",
+    "price_man": 380,
+    "area_sqm": null,
+    "url": "https://www.homes.co.jp/tochi/b-1292700001245/",
+    "text": "三島市南原菅 (箱根湯本駅)",
+    "removed_on": "2026-09-01",
     "site_name": "LIFULL 土地 三島市"
   }
 }

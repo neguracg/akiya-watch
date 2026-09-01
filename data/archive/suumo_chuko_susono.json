@@ -615,17 +615,6 @@
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79187645/|大幅値下げしました！広々としたお土地で庭あり。陽当たり良好◎": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-29",
-    "location": "静岡県裾野市佐野",
-    "price_man": 1200,
-    "area_sqm": 234.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79187645/",
-    "text": "大幅値下げしました！広々としたお土地で庭あり。陽当たり良好◎",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/|千福が丘３（岩波駅） 1380万円": {
     "first_seen": "2026-07-09",
     "last_seen": "2026-08-29",
@@ -657,6 +646,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
     "text": "新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！",
     "removed_on": "2026-08-31",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20800972/|自然あふれる閑静な住宅街です。ハイクラスな薪ストーブ付きの物件です。": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
+    "location": "静岡県裾野市千福が丘３",
+    "price_man": 1580,
+    "area_sqm": 1112.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20800972/",
+    "text": "自然あふれる閑静な住宅街です。ハイクラスな薪ストーブ付きの物件です。",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/|【見学会開催】内外装リフォーム予定／水回り交換／駐車2台可／庭スペースあ": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
+    "location": "静岡県裾野市千福が丘２-9-5",
+    "price_man": 1599,
+    "area_sqm": 225.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/",
+    "text": "【見学会開催】内外装リフォーム予定／水回り交換／駐車2台可／庭スペースあ",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21547628/|裾野市富沢の4LDK+S！太陽光発電と充実収納が魅力の陽当り良好な邸宅": {
+    "first_seen": "2026-08-24",
+    "last_seen": "2026-08-31",
+    "location": "静岡県裾野市富沢",
+    "price_man": 3350,
+    "area_sqm": 173.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21547628/",
+    "text": "裾野市富沢の4LDK+S！太陽光発電と充実収納が魅力の陽当り良好な邸宅",
+    "removed_on": "2026-09-01",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

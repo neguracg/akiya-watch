@@ -725,17 +725,6 @@
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21068413/|一部改築済み（平成2年）": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-29",
-    "location": "静岡県沼津市大岡",
-    "price_man": 980,
-    "area_sqm": 90.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21068413/",
-    "text": "一部改築済み（平成2年）",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20772933/|【内覧可能＊ご予約受付中】お気軽にお問合せください": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-08-29",
@@ -755,17 +744,6 @@
     "area_sqm": 114.1,
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78285519/",
     "text": "【内覧可能＊ご予約受付中】お気軽にお問い合わせください。",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20720546/|現状渡しのためリフォーム要す。店舗・事務所兼住宅としてもおすすめ☆": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-29",
-    "location": "静岡県沼津市東間門",
-    "price_man": 1630,
-    "area_sqm": 131.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20720546/",
-    "text": "現状渡しのためリフォーム要す。店舗・事務所兼住宅としてもおすすめ☆",
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
@@ -855,6 +833,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78396031/",
     "text": "【内覧可能＊ご予約受付中】お気軽にお問合せくださいませ",
     "removed_on": "2026-08-29",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21451439/|◇◆＼MIRAIE売主　南側前面道路の陽当たり良好な戸建て／◆◇": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-08-31",
+    "location": "静岡県沼津市岡宮1344-87",
+    "price_man": 1190,
+    "area_sqm": 154.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21451439/",
+    "text": "◇◆＼MIRAIE売主　南側前面道路の陽当たり良好な戸建て／◆◇",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21384979/|2階のロフトで空間を有効活用！ららぽーと近く！": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-08-31",
+    "location": "静岡県沼津市東椎路",
+    "price_man": 1980,
+    "area_sqm": 149.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21384979/",
+    "text": "2階のロフトで空間を有効活用！ららぽーと近く！",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20651577/|自然あふれる閑静な住宅街となっております。幹線道路も近い！": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-08-31",
+    "location": "静岡県沼津市岡一色",
+    "price_man": 2080,
+    "area_sqm": 153.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20651577/",
+    "text": "自然あふれる閑静な住宅街となっております。幹線道路も近い！",
+    "removed_on": "2026-09-01",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }
