@@ -1,11 +1,44 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-hou/article-185ha7|🉐★初期費用無料DIY可能8月末まで家賃無料 ★駐車場付【ペット...": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
+      "location": "静岡 伊豆市 伊豆急下田駅 一戸建て",
+      "price_man": 1.9,
+      "area_sqm": 200.0,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-185ha7",
+      "text": "🉐★初期費用無料DIY可能8月末まで家賃無料 ★駐車場付【ペット...",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "駐車場付",
+        "戸建",
+        "DIY可"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆市",
+      "tab": "rent"
+    },
     "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-01",
       "location": "静岡 沼津市 原駅 マンション",
       "price_man": 2.0,
-      "area_sqm": null,
+      "area_sqm": 20.0,
       "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
       "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...",
       "shubetsu": "賃貸マンション",
@@ -56,39 +89,6 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "沼津市",
-      "tab": "rent"
-    },
-    "https://jmty.jp/shizuoka/est-hou/article-185ha7|🉐★初期費用無料DIY可能8月末まで家賃無料 ★駐車場付【ペット...": {
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-01",
-      "location": "静岡 伊豆市 伊豆急下田駅 一戸建て",
-      "price_man": 1.9,
-      "area_sqm": 200.0,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-185ha7",
-      "text": "🉐★初期費用無料DIY可能8月末まで家賃無料 ★駐車場付【ペット...",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "駐車場付",
-        "戸建",
-        "DIY可"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆市",
       "tab": "rent"
     },
     "https://jmty.jp/shizuoka/est-hou/article-192p3q|アパート　 インターネット完全無料　高齢者歓迎　生活保護者歓迎　...": {
@@ -355,43 +355,8 @@
       "zokujinsei": false,
       "machi": "熱海市",
       "tab": "rent"
-    },
-    "https://jmty.jp/shizuoka/est-hou/article-1rbi1n|【沼津駅徒歩8分】一棟貸し・全7室｜敷金礼金なし｜フリーレント2ヶ月": {
-      "first_seen": "2026-08-22",
-      "last_seen": "2026-09-01",
-      "location": "静岡 沼津市 沼津駅 賃貸（マンション/一戸建て）",
-      "price_man": 30.0,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-1rbi1n",
-      "text": "【沼津駅徒歩8分】一棟貸し・全7室｜敷金礼金なし｜フリーレント2ヶ月",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "礼金なし",
-        "戸建"
-      ],
-      "caution": [
-        "事務所",
-        "店舗"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "rent"
     }
   },
-  "hash": "de04d1b7b09edccf",
-  "fetched_at": "2026-09-01T01:26:42.279321"
+  "hash": "bcb8d44649905294",
+  "fetched_at": "2026-09-02T00:13:18.385466"
 }

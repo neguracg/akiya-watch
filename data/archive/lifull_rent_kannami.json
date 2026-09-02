@@ -945,15 +945,59 @@
     "removed_on": "2026-08-31",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/d016494ccaa58e3fdc87524b7493a7457d110886/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩6分": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
+  "https://www.homes.co.jp/chintai/room/2e3b952d688c90061752bc3d32bc9ea3f46d4129/|メルベーユＳ　　プロシードＳ　プロシードＳ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-01",
     "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.7,
-    "area_sqm": 70.0,
-    "url": "https://www.homes.co.jp/chintai/room/d016494ccaa58e3fdc87524b7493a7457d110886/",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩6分",
-    "removed_on": "2026-08-31",
+    "price_man": 7.5,
+    "area_sqm": 58.4,
+    "url": "https://www.homes.co.jp/chintai/room/2e3b952d688c90061752bc3d32bc9ea3f46d4129/",
+    "text": "メルベーユＳ　　プロシードＳ　プロシードＳ",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d8bc20453da06d0fb10da0d46ed163389e132783/|フォンティーヌ小高壱番館": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-09-01",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 7.2,
+    "area_sqm": 76.0,
+    "url": "https://www.homes.co.jp/chintai/room/d8bc20453da06d0fb10da0d46ed163389e132783/",
+    "text": "フォンティーヌ小高壱番館",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/6e368e0d7b2ee966f946cd781855eabaf6bbd901/|フォンティーヌ小高壱番館": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-09-01",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.4,
+    "area_sqm": 71.7,
+    "url": "https://www.homes.co.jp/chintai/room/6e368e0d7b2ee966f946cd781855eabaf6bbd901/",
+    "text": "フォンティーヌ小高壱番館",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/56657367480b6615b4965cdd2115263374cc4b98/|フォンティーヌ小高壱番館": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-09-01",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.8,
+    "area_sqm": 66.2,
+    "url": "https://www.homes.co.jp/chintai/room/56657367480b6615b4965cdd2115263374cc4b98/",
+    "text": "フォンティーヌ小高壱番館",
+    "removed_on": "2026-09-01",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/0da6d5a43ab2882ca1f36c1acfa4955b4a3f0358/|フォンティーヌ小高壱番館": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-09-01",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 7.0,
+    "area_sqm": 66.2,
+    "url": "https://www.homes.co.jp/chintai/room/0da6d5a43ab2882ca1f36c1acfa4955b4a3f0358/",
+    "text": "フォンティーヌ小高壱番館",
+    "removed_on": "2026-09-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

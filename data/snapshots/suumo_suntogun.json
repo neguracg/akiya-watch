@@ -145,35 +145,6 @@
       "machi": "長泉町",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
-      "first_seen": "2026-06-17",
-      "last_seen": "2026-09-01",
-      "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
-      "price_man": 5980,
-      "area_sqm": 275.1,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
-      "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 71.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "home"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_76475811/|【積水ハウス】下土狩駅徒歩9分。三島駅車で8分。閑静な住宅街。公園徒歩9分。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-09-01",
@@ -195,6 +166,35 @@
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": 63.5,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
+      "tab": "home"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
+      "first_seen": "2026-06-17",
+      "last_seen": "2026-09-01",
+      "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
+      "price_man": 5980,
+      "area_sqm": 275.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
+      "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 71.9,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -493,13 +493,13 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21555698/|◇◆MIRAIE売主～価格を大幅DOWN！！◆◇主要道路アクセス良好♪": {
-      "first_seen": "2026-08-25",
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21609308/|◇◆MIRAIE売主～価格を大幅DOWN！！◆◇主要道路アクセス良好♪": {
+      "first_seen": "2026-09-01",
       "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町本宿642-1",
       "price_man": 1480,
       "area_sqm": 278.2,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21555698/",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21609308/",
       "text": "◇◆MIRAIE売主～価格を大幅DOWN！！◆◇主要道路アクセス良好♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
@@ -725,13 +725,13 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/|柿田（三島広小路駅） 1880万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/|柿田（三島広小路駅） 1880万円": {
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-01",
       "location": "静岡県駿東郡清水町柿田",
       "price_man": 1880,
       "area_sqm": 138.9,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/",
       "text": "柿田（三島広小路駅） 1880万円",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
@@ -754,13 +754,13 @@
       "machi": "清水町",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/|柿田（三島広小路駅） 1880万円": {
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/|柿田（三島広小路駅） 1880万円": {
       "first_seen": "2026-08-28",
       "last_seen": "2026-09-01",
       "location": "静岡県駿東郡清水町柿田",
       "price_man": 1880,
       "area_sqm": 138.9,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/",
       "text": "柿田（三島広小路駅） 1880万円",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
@@ -1363,13 +1363,13 @@
       "machi": "長泉町",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21452924/|◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪": {
-      "first_seen": "2026-08-07",
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21609370/|◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪": {
+      "first_seen": "2026-09-01",
       "last_seen": "2026-09-01",
       "location": "静岡県駿東郡清水町伏見756-1",
       "price_man": 11500,
       "area_sqm": 957.5,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21452924/",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21609370/",
       "text": "◇◆MIRAIE売主の事業用地～280坪超え◆◇サントムーン柿田川すぐ♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
@@ -1393,6 +1393,6 @@
       "tab": "home"
     }
   },
-  "hash": "bd62b0b866ed352f",
-  "fetched_at": "2026-09-01T01:10:46.076604"
+  "hash": "8406af449e298401",
+  "fetched_at": "2026-09-01T23:57:38.344530"
 }

@@ -445,6 +445,35 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/|柏谷（伊豆仁田駅） 980万円": {
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 980,
+      "area_sqm": 165.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/",
+      "text": "柏谷（伊豆仁田駅） 980万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 19.5,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78788297/|上沢（大場駅） 980万円": {
       "first_seen": "2026-07-07",
       "last_seen": "2026-09-01",
@@ -707,6 +736,6 @@
       "tab": "home"
     }
   },
-  "hash": "d69f43c62343ba78",
-  "fetched_at": "2026-09-01T01:18:20.847682"
+  "hash": "9b2ee708b42b114f",
+  "fetched_at": "2026-09-02T00:05:08.030523"
 }

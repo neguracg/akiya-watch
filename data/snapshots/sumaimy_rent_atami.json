@@ -275,37 +275,6 @@
       "machi": "熱海市",
       "tab": "rent"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170473|貸戸建住宅 熱海市上多賀1117-1": {
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
-      "location": "熱海市上多賀1117-1",
-      "price_man": 11.0,
-      "area_sqm": 137.3,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170473",
-      "text": "貸戸建住宅 熱海市上多賀1117-1",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "5SLDK",
-      "chikunen": "1996年5月",
-      "kanrihi": 10000,
-      "shikikin": "2ヵ月",
-      "reikin": "1ヵ月",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "戸建"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "rent"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134072|貸アパート 熱海市中央町16-8": {
       "first_seen": "2026-08-31",
       "last_seen": "2026-09-01",
@@ -904,8 +873,37 @@
       "zokujinsei": false,
       "machi": "熱海市",
       "tab": "rent"
+    },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158664|貸アパート 熱海市咲見町12-13": {
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "location": "熱海市咲見町12-13",
+      "price_man": 7.7,
+      "area_sqm": 35.8,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158664",
+      "text": "貸アパート 熱海市咲見町12-13",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "ワンルーム",
+      "chikunen": "1968年3月",
+      "kanrihi": 3000,
+      "shikikin": "1ヵ月",
+      "reikin": "1ヵ月",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "rent"
     }
   },
-  "hash": "960d54bd6342e70b",
-  "fetched_at": "2026-09-01T01:17:11.566067"
+  "hash": "fab5071baa3db2f4",
+  "fetched_at": "2026-09-02T00:04:00.234360"
 }

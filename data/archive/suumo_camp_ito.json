@@ -164,17 +164,6 @@
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/|鎌田（南伊東駅） 540万円": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "静岡県伊東市鎌田",
-    "price_man": 540,
-    "area_sqm": 119.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/",
-    "text": "鎌田（南伊東駅） 540万円",
-    "removed_on": "2026-08-31",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181443/|富戸（富戸駅） 620万円": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
@@ -186,28 +175,6 @@
     "removed_on": "2026-08-31",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74959047/|富戸（城ヶ崎海岸駅） 780万円": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "静岡県伊東市富戸",
-    "price_man": 780,
-    "area_sqm": 660.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_74959047/",
-    "text": "富戸（城ヶ崎海岸駅） 780万円",
-    "removed_on": "2026-08-31",
-    "site_name": "SUUMO 土地 伊東市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/|川奈（川奈駅） 1880万円": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "静岡県伊東市川奈",
-    "price_man": 1880,
-    "area_sqm": 879.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/",
-    "text": "川奈（川奈駅） 1880万円",
-    "removed_on": "2026-08-31",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79175938/|富戸の別荘地内、100万円の古屋付き戸建。伊豆ぐらんぱる公園近く。": {
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-31",
@@ -216,6 +183,39 @@
     "area_sqm": 433.0,
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79175938/",
     "text": "富戸の別荘地内、100万円の古屋付き戸建。伊豆ぐらんぱる公園近く。",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20043703/|80万円で120坪の広さ！自然豊かな静かな住環境": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-09-01",
+    "location": "静岡県伊東市荻",
+    "price_man": 80,
+    "area_sqm": 398.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20043703/",
+    "text": "80万円で120坪の広さ！自然豊かな静かな住環境",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771153/|80万円で120坪の広さ！自然豊かな静かな住環境": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-09-01",
+    "location": "静岡県伊東市荻",
+    "price_man": 150,
+    "area_sqm": 398.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78771153/",
+    "text": "80万円で120坪の広さ！自然豊かな静かな住環境",
+    "removed_on": "2026-09-01",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78521815/|南伊東駅まで徒歩１３分の好立地、約１４５坪の広々とした敷地です。": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-01",
+    "location": "静岡県伊東市鎌田７７６－３、７７６－２",
+    "price_man": 1320,
+    "area_sqm": 481.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78521815/",
+    "text": "南伊東駅まで徒歩１３分の好立地、約１４５坪の広々とした敷地です。",
     "removed_on": "2026-09-01",
     "site_name": "SUUMO 土地 伊東市"
   }

@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170522|貸アパート 駿東郡長泉町下土狩598-12": {
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "location": "駿東郡長泉町下土狩598-12",
+      "price_man": 4.0,
+      "area_sqm": 26.4,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170522",
+      "text": "貸アパート 駿東郡長泉町下土狩598-12",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1K",
+      "chikunen": "1987年1月",
+      "kanrihi": null,
+      "shikikin": "無",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "敷金無",
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173373|貸マンション 駿東郡長泉町下土狩264-6": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-01",
@@ -912,39 +944,8 @@
       "zokujinsei": false,
       "machi": "長泉町",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278|貸アパート 駿東郡長泉町下土狩323-18": {
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-09-01",
-      "location": "駿東郡長泉町下土狩323-18",
-      "price_man": 4.8,
-      "area_sqm": 39.5,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278",
-      "text": "貸アパート 駿東郡長泉町下土狩323-18",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1LDK",
-      "chikunen": "1993年4月",
-      "kanrihi": 2000,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "rent"
     }
   },
-  "hash": "92d7d6575cb1eaf7",
-  "fetched_at": "2026-09-01T01:21:01.118207"
+  "hash": "26d857eed789237c",
+  "fetched_at": "2026-09-02T00:07:34.334883"
 }

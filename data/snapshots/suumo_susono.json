@@ -145,35 +145,6 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆": {
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-01",
-      "location": "静岡県裾野市茶畑",
-      "price_man": 890,
-      "area_sqm": 182.7,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/",
-      "text": "■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "畑",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 16.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20763181/|平松（裾野駅） 890万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-09-01",
@@ -813,6 +784,6 @@
       "tab": "home"
     }
   },
-  "hash": "2617d328eef0e310",
-  "fetched_at": "2026-09-01T01:07:29.894795"
+  "hash": "d45b84c95205d2b9",
+  "fetched_at": "2026-09-01T23:54:18.682859"
 }

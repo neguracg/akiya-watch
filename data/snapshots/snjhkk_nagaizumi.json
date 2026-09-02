@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59264/index.html|静岡県駿東郡長泉町中土狩": {
       "first_seen": "2026-07-23",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町中土狩",
       "price_man": 1990,
       "area_sqm": 169.6,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59260/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-07-18",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 2980,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59244/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 2430,
       "area_sqm": null,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59038/index.html|静岡県駿東郡長泉町上土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町上土狩",
       "price_man": 4180,
       "area_sqm": 219.6,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_58973/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 1498,
       "area_sqm": null,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_58895/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 4690,
       "area_sqm": null,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_58810/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 3680,
       "area_sqm": null,
@@ -205,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_58743/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 3780,
       "area_sqm": null,
@@ -234,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_58591/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 2190,
       "area_sqm": null,
@@ -263,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_58385/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 6980,
       "area_sqm": null,
@@ -292,7 +292,7 @@
     },
     "https://www.snjhkk.com/s_r_58383/index.html|静岡県駿東郡長泉町下土狩": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-08-29",
+      "last_seen": "2026-09-01",
       "location": "静岡県駿東郡長泉町下土狩",
       "price_man": 7980,
       "area_sqm": null,
@@ -320,6 +320,6 @@
       "tab": "home"
     }
   },
-  "hash": "8e33a9bd1b48ebdf",
-  "fetched_at": "2026-08-29T03:50:27.595703"
+  "hash": "5c666105f221cb92",
+  "fetched_at": "2026-09-02T00:14:57.613823"
 }

@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-09-01",
+      "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
+      "price_man": 70,
+      "area_sqm": 240.0,
+      "url": "https://jmty.jp/shizuoka/est-land/article-1idnhv",
+      "text": "大特価 静岡県三島市大場 240㎡  仲介料無し！",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 1.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "別荘地",
+        "管理費"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "camp"
+    },
     "https://jmty.jp/shizuoka/est-land/article-1rgqfg|＜9/15迄お申込み限定＞　200万円　富士市川成島　 国1バイ...": {
       "first_seen": "2026-08-29",
       "last_seen": "2026-09-01",
@@ -146,40 +178,8 @@
       "zokujinsei": false,
       "machi": "下田市",
       "tab": "camp"
-    },
-    "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-09-01",
-      "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
-      "price_man": 70,
-      "area_sqm": 240.0,
-      "url": "https://jmty.jp/shizuoka/est-land/article-1idnhv",
-      "text": "大特価 静岡県三島市大場 240㎡  仲介料無し！",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 1.0,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "別荘地",
-        "管理費"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "camp"
     }
   },
-  "hash": "badbe15ee820e0d0",
-  "fetched_at": "2026-09-01T01:11:33.515280"
+  "hash": "c35b24dfcd8c4a5a",
+  "fetched_at": "2026-09-01T23:58:34.412220"
 }

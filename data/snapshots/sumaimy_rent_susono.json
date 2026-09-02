@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/41217|貸マンション 裾野市佐野": {
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "location": "裾野市佐野",
+      "price_man": 3.6,
+      "area_sqm": 20.5,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/41217",
+      "text": "貸マンション 裾野市佐野",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1K",
+      "chikunen": "1988年4月",
+      "kanrihi": 2000,
+      "shikikin": "無",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "敷金無",
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175380|貸アパート 裾野市平松610-1": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-01",
@@ -475,6 +507,6 @@
       "tab": "rent"
     }
   },
-  "hash": "7797a1b6ae7361a2",
-  "fetched_at": "2026-09-01T01:26:51.623846"
+  "hash": "61179ffd2b80715f",
+  "fetched_at": "2026-09-02T00:13:25.813305"
 }
