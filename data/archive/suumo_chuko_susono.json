@@ -615,17 +615,6 @@
     "removed_on": "2026-08-31",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！": {
-    "first_seen": "2026-08-25",
-    "last_seen": "2026-08-31",
-    "location": "静岡県裾野市千福が丘１",
-    "price_man": 1399,
-    "area_sqm": 235.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
-    "text": "新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！",
-    "removed_on": "2026-08-31",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20800972/|自然あふれる閑静な住宅街です。ハイクラスな薪ストーブ付きの物件です。": {
     "first_seen": "2026-08-29",
     "last_seen": "2026-08-31",
@@ -657,6 +646,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/",
     "text": "須山 1780万円",
     "removed_on": "2026-09-01",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "location": "静岡県裾野市深良",
+    "price_man": 850,
+    "area_sqm": 177.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
+    "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
+    "removed_on": "2026-09-02",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

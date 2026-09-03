@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59652/index.html|静岡県三島市文教町2丁目": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-01",
+      "last_seen": "2026-09-02",
       "location": "静岡県三島市文教町2丁目",
       "price_man": 3680,
       "area_sqm": 127.4,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "90b3dc0b49222489",
-  "fetched_at": "2026-09-01T23:57:25.783422"
+  "hash": "2411f6402499e813",
+  "fetched_at": "2026-09-03T00:01:10.591763"
 }

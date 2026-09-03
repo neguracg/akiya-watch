@@ -131,17 +131,6 @@
     "removed_on": "2026-08-24",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1556780000228/|新築戸建　沼津市大岡　ホテルライク": {
-    "first_seen": "2026-08-23",
-    "last_seen": "2026-08-27",
-    "location": "新築戸建　沼津市大岡　ホテルライク",
-    "price_man": 3450,
-    "area_sqm": 162.6,
-    "url": "https://www.homes.co.jp/kodate/b-1556780000228/",
-    "text": "新築戸建　沼津市大岡　ホテルライク",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1265050002596/|沼津市大岡中古住宅": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-27",
@@ -153,15 +142,37 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001877/|沼津市原町中3丁目　中古戸建": {
-    "first_seen": "2026-07-26",
+  "https://www.homes.co.jp/kodate/b-1436870001674/|沼津市青野　中古戸建": {
+    "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
-    "location": "沼津市原町中3丁目　中古戸建",
-    "price_man": 3280,
-    "area_sqm": 178.2,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001877/",
-    "text": "沼津市原町中3丁目　中古戸建",
-    "removed_on": "2026-08-31",
+    "location": "沼津市青野　中古戸建",
+    "price_man": 2150,
+    "area_sqm": 179.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001674/",
+    "text": "沼津市青野　中古戸建",
+    "removed_on": "2026-09-02",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000084/|新築戸建　沼津市大岡　全3棟　No.1": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-31",
+    "location": "新築戸建　沼津市大岡　全3棟　No.1",
+    "price_man": 3680,
+    "area_sqm": 124.0,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000084/",
+    "text": "新築戸建　沼津市大岡　全3棟　No.1",
+    "removed_on": "2026-09-02",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1475010001571/|沼津市大岡　分譲住宅　西棟": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-08-31",
+    "location": "沼津市大岡　分譲住宅　西棟",
+    "price_man": 3450,
+    "area_sqm": 162.6,
+    "url": "https://www.homes.co.jp/kodate/b-1475010001571/",
+    "text": "沼津市大岡　分譲住宅　西棟",
+    "removed_on": "2026-09-02",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

@@ -648,17 +648,6 @@
     "removed_on": "2026-08-29",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159735|貸マンション 熱海市清水町9-15": {
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-08-29",
-    "location": "熱海市清水町9-15",
-    "price_man": 7.4,
-    "area_sqm": 61.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159735",
-    "text": "貸マンション 熱海市清水町9-15",
-    "removed_on": "2026-08-31",
-    "site_name": "スマイミー静岡 賃貸 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165459|貸駐車場 熱海市咲見町4-40": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-29",
@@ -833,6 +822,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170473",
     "text": "貸戸建住宅 熱海市上多賀1117-1",
     "removed_on": "2026-09-01",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167219|貸マンション 熱海市昭和町5－33": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-09-01",
+    "location": "熱海市昭和町5－33",
+    "price_man": 4.6,
+    "area_sqm": 20.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167219",
+    "text": "貸マンション 熱海市昭和町5－33",
+    "removed_on": "2026-09-02",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }

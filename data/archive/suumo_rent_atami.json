@@ -912,39 +912,6 @@
     "removed_on": "2026-08-31",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000108216283/|プラムハイツ": {
-    "first_seen": "2026-07-27",
-    "last_seen": "2026-08-31",
-    "location": "静岡県熱海市梅花町",
-    "price_man": 5.0,
-    "area_sqm": 33.1,
-    "url": "https://suumo.jp/chintai/jnc_000108216283/",
-    "text": "プラムハイツ",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
-  "https://suumo.jp/chintai/jnc_000106642020/|デュピア熱海": {
-    "first_seen": "2026-07-29",
-    "last_seen": "2026-08-31",
-    "location": "静岡県熱海市東海岸町",
-    "price_man": 36.2,
-    "area_sqm": 81.2,
-    "url": "https://suumo.jp/chintai/jnc_000106642020/",
-    "text": "デュピア熱海",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
-  "https://suumo.jp/chintai/jnc_000108779746/|平鶴ビル": {
-    "first_seen": "2026-07-26",
-    "last_seen": "2026-08-31",
-    "location": "静岡県熱海市中央町",
-    "price_man": 8.5,
-    "area_sqm": 55.0,
-    "url": "https://suumo.jp/chintai/jnc_000108779746/",
-    "text": "平鶴ビル",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000107511648/?bc=100509331637|熱海シティヴィラ咲見町": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-08-31",
@@ -1097,6 +1064,83 @@
     "url": "https://suumo.jp/chintai/jnc_000104562259/?bc=100481841250",
     "text": "賃貸オフィス　AJIRO MUSUBI",
     "removed_on": "2026-09-01",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109505479/|熱海テラス松本荘 1階": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市紅葉ガ丘町",
+    "price_man": 3.5,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000109505479/",
+    "text": "熱海テラス松本荘 1階",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109366146/|カルム熱海": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市咲見町",
+    "price_man": 17.0,
+    "area_sqm": 61.5,
+    "url": "https://suumo.jp/chintai/jnc_000109366146/",
+    "text": "カルム熱海",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109370464/|サンハイム紅葉": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市紅葉ガ丘町",
+    "price_man": 3.5,
+    "area_sqm": 43.0,
+    "url": "https://suumo.jp/chintai/jnc_000109370464/",
+    "text": "サンハイム紅葉",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106642020/?bc=100458943563|デュピア熱海": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市東海岸町",
+    "price_man": 36.2,
+    "area_sqm": 81.2,
+    "url": "https://suumo.jp/chintai/jnc_000106642020/?bc=100458943563",
+    "text": "デュピア熱海",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188|プラムハイツ": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市梅花町",
+    "price_man": 5.0,
+    "area_sqm": 33.1,
+    "url": "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188",
+    "text": "プラムハイツ",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108779746/?bc=100385456048|平鶴ビル": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市中央町",
+    "price_man": 8.5,
+    "area_sqm": 55.0,
+    "url": "https://suumo.jp/chintai/jnc_000108779746/?bc=100385456048",
+    "text": "平鶴ビル",
+    "removed_on": "2026-09-02",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000079549171/?bc=100522193903|金子貸家": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-01",
+    "location": "静岡県熱海市泉",
+    "price_man": 7.0,
+    "area_sqm": 84.0,
+    "url": "https://suumo.jp/chintai/jnc_000079549171/?bc=100522193903",
+    "text": "金子貸家",
+    "removed_on": "2026-09-02",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }
