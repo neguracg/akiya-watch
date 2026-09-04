@@ -33,3 +33,4 @@ _work/
 
 # --rebuild が作る確認用プレビュー（本番reportsではない一時物のためコミットしない）
 reports/_preview.html
+_pipeline/
