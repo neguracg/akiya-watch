@@ -1903,6 +1903,77 @@ def parse_shinrin(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
+# 熱海不動産イーズ アダプタ（地場業者。e-z.co.jp tab=camp。沼津IC圏拡大バッチ2・W2）
+#   カード = div.articleList（list-estate.php=土地一覧／list-spec.php?s=203=特徴検索
+#   「富士山眺望」の共通テンプレート）。詳細URL・タイトル = h3>a[href]（末尾「...」で
+#   サイト側が既に短縮済みの場合あり。card_textはfilters判定用に全文を保持するため
+#   問題なし）。種別/価格 = ul.ulprice(li.listate=土地/中古戸建/中古マンション/中古土地、
+#   li.liprice=価格)。属性 = dl.item（末尾クラスがh4item/h6item等ページで異なるため
+#   共通の"item"のみで選択）のdt/dd（交通/土地/建物/間取/所在/温泉。
+#   dt末尾の全角コロンを除いてキー化）。面積は「土地」ラベル優先（土地+建物併記の
+#   中古戸建で建物面積を誤って拾わないため）。単一ページ（実測: list-estate.php 110件・
+#   list-spec.php?s=203 28件。いずれもページャ無し＝サイト内「すべて表示」リンクは
+#   list-spec.php本体への別メニューでこの一覧の続きではないため追従しない。2026-09-05確認）。
+# ---------------------------------------------------------------------------
+
+def _ez_fields(card) -> dict:
+    fields = {}
+    # list-estate.php は dl.item.h4item、list-spec.php(特徴検索)は dl.item.h6item と
+    # 末尾クラスがページで異なる（フィールド数違いのサイト側命名）。共通の "item" のみで
+    # 選択する（2026-09-05: h6item固定にした初版が list-estate.php で0件になり実測で発覚）。
+    dl = card.select_one("dl.item")
+    if dl:
+        for dt, dd in zip(dl.find_all("dt"), dl.find_all("dd")):
+            k = dt.get_text(strip=True).rstrip("：:")
+            fields.setdefault(k, dd.get_text(" ", strip=True))
+    return fields
+
+
+def _ez_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.articleList"):
+        title_a = card.select_one("h3 a[href]")
+        if not title_a:
+            continue
+        url = normalize_url(title_a["href"], base_url)
+        title = title_a.get_text(" ", strip=True)
+
+        listate_el = card.select_one("li.listate")
+        listate = listate_el.get_text(strip=True) if listate_el else ""
+        price_el = card.select_one("li.liprice")
+        price = parse_price_man(price_el.get_text(" ", strip=True)) if price_el else None
+
+        fields = _ez_fields(card)
+        location = fields.get("所在", "").strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        area = _first_sqm(fields.get("土地", "")) if "土地" in fields else None
+        if area is None:
+            area = _first_sqm(card.get_text(" ", strip=True))
+
+        dtype = "中古戸建" if ("戸建" in listate or "マンション" in listate) else "更地"
+        card_text = card.get_text(" ", strip=True)
+        out.append(_make_record(url, title[:60] or location, price, area, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def parse_ez(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.articleList"):
+        raise BotBlocked(f"熱海不動産イーズ ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _ez_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[ez] cards={len(dedup)} (単一ページ: {base_url})")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # 賃貸タブ 共通ヘルパ（tab=rent。静岡県東部（函南町の友人拠点=丹那から通える範囲）の
 # 激安賃貸監視向け・月額家賃で判定）
 # ---------------------------------------------------------------------------
@@ -2975,6 +3046,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("sanrin_net"), parse_sanrin_net),
     (lambda sid: sid.startswith("furusato_"), parse_furusato),
     (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
+    (lambda sid: sid.startswith("ez_"), parse_ez),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4191,6 +4263,7 @@ const SITE_PREFIXES=[
   {full:'いい部屋ネット',short:'いい部屋'},
   {full:'静岡県営住宅',short:'県営住宅'},
   {full:'ビレッジハウス',short:'ビレッジ'},
+  {full:'熱海不動産イーズ',short:'イーズ'},
 ];
 function shortSite(name){
   name=name||'';

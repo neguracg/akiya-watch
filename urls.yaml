@@ -777,6 +777,28 @@ sites:
     filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "jmty_landと同一URLをcamp圏キーワードで再抽出。個人出品の山林・広い土地の掘り出し物狙い"
 
+  # ---- ⑦追加(沼津IC圏拡大バッチ2・W2・2026-09-05・消込表#472): 新規パーサ5本。
+  #   URLは docs/research/20260905_camp_sites_candidates.md から一字一句コピーし、
+  #   追加前に Invoke-WebRequest で再実測（各noteに実測値を記載）----
+  - id: ez_fujisan
+    name: 熱海不動産イーズ 特徴検索「富士山眺望」
+    url: "https://www.e-z.co.jp/search/list-spec.php?s=203&i=1"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/土地・戸建
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "2026-09-05 Invoke-WebRequest再実測 HTTP 200(61,845B)。特徴検索「富士山眺望」一覧。div.articleList 28件・ページャなし(単一ページ。「すべて表示」リンクはlist-spec.php本体への別メニューでこの一覧の続きではない・追従不要と確認)。実物確認: 伊豆の国市奈古谷字中峠1032m2 100万円、田方郡函南町丹那370万円(中古戸建)が実在((b)確認は docs/research/20260905_camp_sites_candidates.md #3で完了済み)。"
+  - id: ez_land
+    name: 熱海不動産イーズ 土地一覧
+    url: "https://www.e-z.co.jp/search/list-estate.php"
+    status: verified
+    channel: "③-B"
+    kind: 地場業者/土地
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "ez_fujisanと同一parse(parse_ez)。2026-09-05 Invoke-WebRequest再実測 HTTP 200(196,948B)。div.articleList 110件・ページャなし(単一ページ)((b)確認は docs/research/20260905_camp_sites_candidates.md #2で完了済み)。"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ
