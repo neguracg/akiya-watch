@@ -20,7 +20,8 @@ filters:
   price_max_man: 1000
   area_min_sqm: 330
   # ---- キャンプ場土地タブ（tab: camp のサイトに適用。ベース値を上書きマージ）----
-  #   2号店用の広い山物件。函南町役場から車1h圏。面積下限1,000㎡・価格上限3,000万。
+  #   2号店用の広い山物件。沼津IC起点で車1h圏＋価値ある飛び地（2026-09-05再定義。市町一覧は
+  #   下記 tiers）。面積下限1,000㎡・価格上限3,000万。
   camp:
     price_max_man: 3000
     area_min_sqm: 1000
@@ -29,6 +30,25 @@ filters:
       古家付き土地: 3000
       中古戸建: 3000
       空き家: 3000
+    # ---- 対象市町の正本（2026-09-05・消込表#472で再定義。tiersは watch.py の
+    #   filter_keywords: "@camp_tiers" 展開／_MACHI_NAMES 組み立ての唯一の定義元） ----
+    #   沼津IC起点・NAVITIME深夜実測(0:15-0:50出発、渋滞なし自由流)・各市町役所/役場までの
+    #   所要時間。「役所まで」の時間であり山林物件がある山側はここから+10〜30分見込む
+    #   （日中はさらに延びる）。出典・実測値: docs/research/20260905_camp_sites_candidates.md Part1。
+    #   tier1=60分以内、tier2=60〜90分、tobichi=90分超だが指定で残す（ネームバリュー）。
+    tiers:
+      tier1:   # ≤60分
+        [沼津市, 三島市, 函南町, 長泉町, 清水町, 裾野市, 御殿場市, 小山町, 伊豆の国市, 伊豆市, 熱海市,
+         富士市, 富士宮市, 箱根町, 湯河原町, 真鶴町, 静岡市清水区, 静岡市葵区, 静岡市駿河区, 焼津市,
+         小田原市, 南足柄市, 秦野市, 山北町, 松田町, 開成町, 大井町, 中井町,
+         山中湖村, 忍野村, 富士吉田市, 富士河口湖町, 鳴沢村, 西桂町]
+      # 伊東市は実測68分でtier2（市役所基準。伊豆高原等の南部はさらに遠い＝未実測）。
+      # 下田市は深夜実測85分（tier1境界に近い）だが、静岡県資料は伊豆縦貫道整備前150分と
+      # 記載＝日中の実勢は2時間超もありうる。ネームバリューを優先しtier2に置く（tobichi化しない）。
+      tier2:   # 60〜90分
+        [藤枝市, 伊東市, 河津町, 身延町, 南部町, 富士川町, 下田市, 東伊豆町, 西伊豆町, 松崎町]
+      tobichi: # 90分超だが指定で残す（ネームバリュー）
+        [南伊豆町]
   # ---- 賃貸タブ（tab: rent のサイトに適用。ベース値を上書きマージ）----
   #   静岡県東部（函南町=丹那の友人拠点から通える範囲）向け。月額家賃の上限で判定する
   #   （面積は問わない）。賃貸タブは exclude_areas（別荘地除外）を適用しない
@@ -446,8 +466,11 @@ sites:
     channel: "⑥"
     kind: 国有地
 
-  # ==== ⑦ キャンプ場土地（tab: camp。2号店用の広い山物件・函南役場1h圏） ====
-  # filter_keywords = Tier1(30分圏)+Tier2(60分圏)の市町。判定はcampフィルタ(面積1000㎡/価格3000万)。
+  # ==== ⑦ キャンプ場土地（tab: camp。2号店用の広い山物件・沼津IC起点1h圏＋価値ある飛び地） ====
+  # filter_keywords="@camp_tiers"は filters.camp.tiers（本ファイル冒頭）の全市町(tier1+tier2+
+  # tobichi)へ watch.py が実行時に展開する（2026-09-05・消込表#472で函南役場基準から再定義。
+  # 旧「Tier1(30分圏)+Tier2(60分圏)」の直書きコピーは全廃し、tiersブロックへ一本化した）。
+  # 判定はcampフィルタ(面積1000㎡/価格3000万)。
   # robots実測: yamaichiba=WP管理のみ禁止 / sanrinbank=制限なし / resort-estate=robots無し / izuhighland=許可。
   - id: yamaichiba_shizuoka
     name: 山いちば 静岡県 山林物件
@@ -456,7 +479,7 @@ sites:
     channel: "⑦"
     kind: 山林専門
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "静的WP。article.list-article。タイトル=物件No+所在地(【済】=売却済は除外)。面積はha表記→㎡換算。価格は一覧に無く販売中のみ詳細ページから取得。函南町2件/伊豆の国/熱海の取扱実績あり(全て済)。現在静岡在庫0=新着待ち監視。"
   - id: sanrinbank_zenkoku
     name: 山林バンク 全国 山林情報
@@ -465,7 +488,7 @@ sites:
     channel: "⑦"
     kind: 山林専門
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "静的。トップページ ul.advise-list li に今月の全国在庫(物件No/所在地/地目/面積坪/価格)。全角数字混在→NFKC正規化。所在地キーワード一致のみ採用(現在静岡在庫0=新着待ち)。"
   - id: resort_estate_shizuoka
     name: 日本マウント 静岡県 リゾート・田舎物件
@@ -474,8 +497,17 @@ sites:
     channel: "⑦"
     kind: 田舎暮らし/別荘
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "静的。div.bukken-items直下の<a>がカード(22件/頁)。.number/.price、所在地はカード本文の「静岡県…」。面積は一覧に無し。/page:2..9 ページャ追従。裾野・十里木/熱海など1h圏在庫多数。"
+  - id: resort_estate_yamanashi
+    name: 日本マウント 山梨県 リゾート・田舎物件
+    url: "https://resort-estate.com/select/mode:yamanashi"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし/別荘
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "既存resort_estate_shizuokaと同一サイト・同一テンプレート(div.bukken-items>a)の山梨県版URL。2026-09-05 Invoke-WebRequest再実測 HTTP 200(81,583B)・div.bukken-items 23出現。河口湖/山中湖/鳴沢/忍野/富士吉田がTier1昇格したため追加((b)確認は docs/research/20260905_camp_sites_candidates.md #7で完了済み)。"
   - id: izuhighland_yochi
     name: 天城オートキャンプ キャンプ場用地一覧
     url: "https://www.izuhighland.jp/ドックランとキャンプ場用地一覧"
@@ -483,7 +515,7 @@ sites:
     channel: "⑦"
     kind: キャンプ場用地
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "Wix(本文遅延描画)だが物件詳細リンク(〜用地詳細/〜不動産)はHTML内に存在→リンク監視型。価格/面積は取得不可(None)。現在は全国物件のみで1h圏0件=伊豆物件の新着待ち。伊豆キャンプ場運営会社の売地チャネル。"
   - id: ieichiba_sanrin
     name: 家いちば 山林カテゴリ
@@ -492,8 +524,17 @@ sites:
     channel: "⑦"
     kind: 個人直/山林
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "既存 parse_ieichiba を流用(a.property__list-item・所在地一致で判定・面積は一覧に無し)。全国の山林が個人直で出る。実測200・カード10件。"
+  - id: ieichiba_shizuoka_camp
+    name: 家いちば 静岡県エリア（キャンプ場用）
+    url: "https://www.ieichiba.com/area/shizuoka"
+    status: verified
+    channel: "④"
+    kind: 個人直/空き家
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "jmty_land_campと同じ再抽出方式（既存ieichiba_shizuoka(homeタブ)と同一URLをcamp圏キーワードで再抽出）。既存ieichiba_sanrin(山林カテゴリ)とは別軸で「山林」タグの無い広い敷地物件を拾う。2026-09-05 Invoke-WebRequest再実測 HTTP 200(265,856B)・a.property__list-item 117出現((b)確認は docs/research/20260905_camp_sites_candidates.md #9で完了済み)。"
   - id: tokaiyajima_izu
     name: 東海ヤジマ 伊豆の物件一覧（土地・戸建）
     url: "https://tokaiyajima.com/bukken/os2"
@@ -501,7 +542,7 @@ sites:
     channel: "⑦"
     kind: 地場業者/山林・土地
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "静的WP。article.hentry。価格/坪単価/所在地/交通がテキスト内に併記。詳細=a[href*='/fudo/']。?bukken=os2&paged=2.. ページャ追従。実測10件中下田市8/東伊豆1/南伊豆1(Tier3)。下田市中心の伊豆最南部地場業者。"
   - id: resortbukken_izu
     name: 田舎暮らし物件.com（いなかも家探し） 伊豆エリア
@@ -510,8 +551,26 @@ sites:
     channel: "⑦"
     kind: 田舎暮らし/別荘（複数業者アグリゲータ）
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "静的。resort-estate.com(日本マウント)と同系列テンプレート＝div.bukken-items>a[href*='/detail/']。所在地はカード先頭の市町名。/izu/page:2.. ページャ追従。実測24件/頁で複数業者(東拓建設/日本マウント/株式会社TSUKUBITO等)混在アグリゲータ。伊豆市冷川「富士山の眺望」等の掘り出し物あり。"
+  - id: resortbukken_fuji
+    name: 田舎暮らし物件.com（いなかも家探し） 富士エリア
+    url: "https://resort-bukken.com/fuji"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし/別荘（複数業者アグリゲータ）
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "既存resortbukken_izuと同一サイト・同一テンプレート(div.bukken-items>a[href*='/detail/'])の富士エリア版。2026-09-05 Invoke-WebRequest再実測 HTTP 200(164,722B)・div.bukken-items 22出現((b)確認は docs/research/20260905_camp_sites_candidates.md #8で完了済み)。"
+  - id: resortbukken_kawaguchiko
+    name: 田舎暮らし物件.com（いなかも家探し） 河口湖エリア
+    url: "https://resort-bukken.com/kawaguchiko"
+    status: verified
+    channel: "⑦"
+    kind: 田舎暮らし/別荘（複数業者アグリゲータ）
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "resortbukken_izu/fujiと同一サイト・同一テンプレート。2026-09-05 Invoke-WebRequest再実測 HTTP 200(166,115B)・div.bukken-items 24出現((b)確認は docs/research/20260905_camp_sites_candidates.md #8で完了済み)。"
 
   # ---- ⑦追加(激安土地系バッチ4): SUUMO camp圏（既存 parse_suumo を id prefix "suumo_" で共用） ----
   - id: suumo_camp_izu
@@ -564,6 +623,7 @@ sites:
     kind: 土地
     tab: camp
     filter_keywords: [西伊豆, 東伊豆, 南伊豆, 河津, 松崎]
+    note: "意図的に狭いfilter_keywords（2026-09-05確認・変更せず）。賀茂郡は西伊豆町/東伊豆町/南伊豆町/河津町/松崎町の5町のみで構成され全てtier2/tobichi内＝@camp_tiersへ広げても結果は同一だが、この5町専用URLであることを明示する方が読みやすいため据え置き。"
   - id: suumo_camp_oyama
     name: SUUMO 土地 駿東郡小山町
     url: "https://suumo.jp/tochi/shizuoka/sc_suntogun/"
@@ -572,6 +632,110 @@ sites:
     kind: 土地
     tab: camp
     filter_keywords: [小山町]
+    note: "意図的に狭いfilter_keywords（2026-09-05確認・変更せず）。同一URL(sc_suntogun)内の清水町/長泉町はhomeタブのsuumo_suntogunで既に監視中のため、ここを@camp_tiersへ広げると同一物件をcampタブ用に二重クロールしてしまう。清水町/長泉町の大区画は watch.py のB3ルール（home由来でも面積1,000㎡以上ならcampタブにも表示）で二重クロールなしに拾える。"
+
+  # ---- ⑦追加(沼津IC圏拡大バッチ・2026-09-05・消込表#472): SUUMO camp圏
+  #   静岡東部5+神奈川西部5+山梨東部3=13エントリ。urls=docs/research/20260905_camp_sites_candidates.md
+  #   Part1-4より一字一句コピー。2026-09-05 Invoke-WebRequest再実測で全13件HTTP 200確認済み
+  #   （件数はSOURCES.md参照・(b)確認は同docのPart1-4で完了済み）。既存 parse_suumo を id prefix
+  #   "suumo_" で共用（新規adapter不要）----
+  - id: suumo_camp_fujinomiya
+    name: SUUMO 土地 富士宮市
+    url: "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_shizuokashishimizu
+    name: SUUMO 土地 静岡市清水区
+    url: "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_shizuokashiaoi
+    name: SUUMO 土地 静岡市葵区
+    url: "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_yaizu
+    name: SUUMO 土地 焼津市
+    url: "https://suumo.jp/tochi/shizuoka/sc_yaizu/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_fujieda
+    name: SUUMO 土地 藤枝市
+    url: "https://suumo.jp/tochi/shizuoka/sc_fujieda/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_odawara
+    name: SUUMO 土地 小田原市
+    url: "https://suumo.jp/tochi/kanagawa/sc_odawara/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_minamiashigara
+    name: SUUMO 土地 南足柄市
+    url: "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_hadano
+    name: SUUMO 土地 秦野市
+    url: "https://suumo.jp/tochi/kanagawa/sc_hadano/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_ashigarakamigun
+    name: SUUMO 土地 足柄上郡（山北町ほか）
+    url: "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: "@camp_tiers"
+  - id: suumo_camp_ashigarashimogun
+    name: SUUMO 土地 足柄下郡（箱根町・湯河原町）
+    url: "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: "@camp_tiers"
+  - id: suumo_camp_fujiyoshida
+    name: SUUMO 土地 富士吉田市
+    url: "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+  - id: suumo_camp_minamitsurugun
+    name: SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）
+    url: "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: [富士河口湖, 鳴沢, 忍野, 山中湖, 西桂]
+    note: "南都留郡は道志村も含むがtier対象外のため、@camp_tiersではなく圏内5町（西桂含む）を明示指定。2026-09-05確認。"
+  - id: suumo_camp_minamikomagun
+    name: SUUMO 土地 南巨摩郡（身延町）
+    url: "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    filter_keywords: [身延, 南部町, 富士川町]
+    note: "南巨摩郡は早川町も含むがtier対象外のため明示指定。「南部町」「富士川町」は本文中の方角語「南部」・河川名「富士川」との誤マッチを避けるため町名を省略しない（フル表記）。2026-09-05確認。"
 
   # ---- ⑦追加(激安土地系バッチ4): 新規adapter（山林売買.net/ふるさと情報館/森林.net） ----
   - id: sanrin_net_zenkoku
@@ -581,7 +745,7 @@ sites:
     channel: "⑦"
     kind: 山林専門
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "実測9件(50〜600万円・ha表記・岐阜愛知静岡中心)。robots.txt=404(制限なし)"
   - id: furusato_shizuoka
     name: ふるさと情報館 静岡県
@@ -590,7 +754,7 @@ sites:
     channel: "⑦"
     kind: 田舎暮らし専門
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "実測6件(伊東3/南伊豆1/静岡2)。robots=WP管理のみ禁止"
   - id: shinrin_tokai
     name: 森林.net 東海 森林物件一覧
@@ -599,7 +763,7 @@ sites:
     channel: "⑦"
     kind: 森林マッチング
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "価格なし(所在地/面積のみ・ステータス表記あり)。新着監視用。robots=WP管理のみ禁止"
 
   # ---- ⑦追加: ジモティー土地(jmty_land)と同一URLをcamp圏キーワードで再抽出 ----
@@ -610,7 +774,7 @@ sites:
     channel: "④"
     kind: 土地/個人
     tab: camp
-    filter_keywords: [函南, 伊豆の国, 伊豆市, 三島, 沼津, 熱海, 裾野, 長泉, 清水町, 御殿場, 小山町, 伊東, 西伊豆, 湯河原, 箱根, 富士市, 下田, 東伊豆, 南伊豆]
+    filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "jmty_landと同一URLをcamp圏キーワードで再抽出。個人出品の山林・広い土地の掘り出し物狙い"
 
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
