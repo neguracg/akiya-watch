@@ -2918,6 +2918,63 @@ def parse_kankocho_ksi(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
+# フォレステ（山いちばグループ） アダプタ（foreste.yamaichiba.com tab=camp。
+#   既存yamaichiba_shizuokaと運営元は同じだが在庫は別（低価格帯チャネル）。
+#   カード = div.feature-item。タイトル/URL = h4>a[href]（"山林物件　<所在地>"形式。
+#   先頭の"山林物件"を除いた残りを所在地として使う）。価格 = 「価　　格：NNN円」
+#   （ラベルの全角スペース数がカードにより不揃いなため \s* で吸収）→円→万円換算。
+#   面積 = 「公簿面積：N.NNha」→ha→㎡（既存 _yamaichiba_sqm を流用。㎡/坪へのフォール
+#   バックも共通で効く）。単一ページ（実測62件・ページャなし）。
+# ---------------------------------------------------------------------------
+
+_FORESTE_PRICE_RE = re.compile(r"価\s*格\s*[：:]?\s*([\d,]+)\s*円")
+
+
+def _foreste_price_man(text: str):
+    """「価　　格： 550,000 円」等から万円整数（四捨五入・最低1）。取れなければNone。"""
+    m = _FORESTE_PRICE_RE.search(text)
+    if not m:
+        return None
+    yen = float(m.group(1).replace(",", ""))
+    return max(1, int(round(yen / 10000)))
+
+
+def _foreste_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.feature-item"):
+        h4a = card.select_one("h4 a[href]")
+        if not h4a:
+            continue
+        title = h4a.get_text(" ", strip=True)
+        url = normalize_url(h4a["href"], base_url)
+        location = re.sub(r"^山林物件\s*", "", title).strip()
+        card_text = card.get_text(" ", strip=True)
+        hay = location or card_text
+        if filter_keywords and not any(kw in hay for kw in filter_keywords):
+            continue
+        price = _foreste_price_man(card_text)
+        area = _yamaichiba_sqm(card_text)
+        out.append(_make_record(url, title[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_foreste(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.feature-item"):
+        raise BotBlocked(f"フォレステ ソフトブロック（{len(first_html)}B）: {base_url}")
+    total_cards = len(soup.select("div.feature-item"))
+    out = _foreste_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[foreste] 全国在庫{total_cards}件中 圏内一致{len(dedup)}件（単一ページ）")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3351,6 +3408,7 @@ SITE_ADAPTERS = [
     # 参照)。sites側にidが無いためget_adapter()経由では実際には呼ばれない（登録のみ
     # 済ませ、robots問題解消時に urls.yaml へ追加するだけで有効化できるようにしてある）。
     (lambda sid: sid.startswith("kankocho_ksi"), parse_kankocho_ksi),
+    (lambda sid: sid.startswith("foreste_"), parse_foreste),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4569,6 +4627,7 @@ const SITE_PREFIXES=[
   {full:'ビレッジハウス',short:'ビレッジ'},
   {full:'熱海不動産イーズ',short:'イーズ'},
   {full:'しずなび',short:'しずなび'},
+  {full:'フォレステ',short:'フォレステ'},
 ];
 function shortSite(name){
   name=name||'';

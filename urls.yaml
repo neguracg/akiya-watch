@@ -945,6 +945,18 @@ sites:
     tab: camp
     note: "追加調査分(2026-09-05実測 HTTP 200・182,504B)・1件・1頁。"
 
+  # ---- フォレステ（山いちばグループ。低価格帯の別在庫チャネル。既存yamaichiba_shizuoka
+  #   とは運営元同じ・在庫別）----
+  - id: foreste_zenkoku
+    name: フォレステ（山いちばグループ） 山林物件
+    url: "https://foreste.yamaichiba.com/"
+    status: verified
+    channel: "⑦"
+    kind: 山林専門
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "2026-09-05実測 HTTP 200(171,383B)。div.feature-item 62件・単一ページ(ページャなし)。価格=円表記(価　　格：等ラベルの空白揺れ有り)→万円換算、面積=ha表記→㎡換算(既存_yamaichiba_sqmを流用)。現在の圏内在庫は静岡県藤枝市岡部町1件(537,500円/0.74ha→54万円/7400m2。藤枝市はtier2)のみ=新着待ちチャネル。全国在庫は62件読めている。"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ
