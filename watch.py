@@ -953,6 +953,20 @@ def _first_sqm(text: str):
     return None
 
 
+def _numeric_cell_text(el) -> str:
+    """面積・価格等の数値を含むセル/要素からテキストを取り出す共通ヘルパ。
+
+    区切り文字を入れずに結合する（`el.get_text(strip=True)`）。`get_text(" ", strip=True)`
+    のように区切り文字を入れると、"495m<sup>2</sup>"のように数値が`<sup>`等の子タグで
+    分断されているセルで「495m 2」とスペースが混入し、_first_sqmの"m2"パターンや
+    価格パターンに一致しなくなる（2026-09-05・キャンプ場土地バッチ5/7/10=e-z/しずなび/
+    東急リゾートの3アダプタで同一原因の抽出漏れを発見・修正した際に部品化。坪の併記が
+    あるセルは換算値がたまたま一致して気づきにくいため、数値抽出セルでは常にこちらを
+    使うこと）。`el`がNoneなら空文字を返す。
+    """
+    return el.get_text(strip=True) if el is not None else ""
+
+
 def _page_blocked(html: str, soup, card_selector: str) -> bool:
     """カードが1枚も無く、かつ極小ページ＝bot対策/ソフトブロックと判定。
 
@@ -1925,11 +1939,7 @@ def _ez_fields(card) -> dict:
     if dl:
         for dt, dd in zip(dl.find_all("dt"), dl.find_all("dd")):
             k = dt.get_text(strip=True).rstrip("：:")
-            # セパレータ無し(strip=Trueのみ)で結合する。区切り文字" "を入れると
-            # "495m<sup>2</sup>"のような面積セルが「495m 2」とスペースで分断され、
-            # _first_sqmの"m2"パターンに一致しなくなる（実装中の自己テストで発覚。
-            # 「土地」欄は坪の併記があれば偶然そちらの換算値で救われて気づきにくい）。
-            fields.setdefault(k, dd.get_text(strip=True))
+            fields.setdefault(k, _numeric_cell_text(dd))
     return fields
 
 
@@ -1954,8 +1964,7 @@ def _ez_cards(soup, base_url, filter_keywords, filters) -> list:
 
         area = _first_sqm(fields.get("土地", "")) if "土地" in fields else None
         if area is None:
-            # フォールバックもセパレータ無し(上のfields同様、sup分断対策)。
-            area = _first_sqm(card.get_text(strip=True))
+            area = _first_sqm(_numeric_cell_text(card))
 
         dtype = "中古戸建" if ("戸建" in listate or "マンション" in listate) else "更地"
         card_text = card.get_text(" ", strip=True)
@@ -2725,11 +2734,7 @@ def _sest_fields(article) -> dict:
         title_el = item.select_one("div.title")
         text_el = item.select_one("div.text")
         if title_el and text_el:
-            # セパレータ無し。土地面積セルが"476.92m<sup>2</sup>（144.26坪）"のように
-            # <sup>タグを含み、" "区切りだと"m 2"に分断されて_first_sqmが一致しなく
-            # なる（実装中の自己テストで発覚。坪の併記があると換算値で偶然救われて
-            # 気づきにくい）。
-            fields.setdefault(title_el.get_text(strip=True), text_el.get_text(strip=True))
+            fields.setdefault(title_el.get_text(strip=True), _numeric_cell_text(text_el))
     return fields
 
 
@@ -3143,10 +3148,7 @@ def _tokyu_resort_cards(soup, base_url, filter_keywords, filters) -> list:
 
         price = parse_price_man(price_td.get_text(" ", strip=True)) if price_td else None
         area_td = price_td.find_next_sibling("td") if price_td else None
-        # セパレータ無し。"3,358.19m<sup>2</sup>"のように<sup>タグを含み、" "区切り
-        # だと"m 2"に分断され_first_sqmが一致しなくなる（坪の併記が無いため
-        # e-z/sestと違いフォールバックも効かず常にNoneになっていたのを自己テストで発見）。
-        area = _first_sqm(area_td.get_text(strip=True)) if area_td else None
+        area = _first_sqm(_numeric_cell_text(area_td)) if area_td else None
         card_text = card.get_text(" ", strip=True)
         out.append(_make_record(url, prop_name or location, price, area, False,
                                 card_text, filters, location=location, default_type="更地"))

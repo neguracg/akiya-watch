@@ -139,13 +139,19 @@ def test_sumaimy_land_has_no_rent_only_fields():
 #    _first_sqmの"m2"パターンに一致しなくなる回帰を防ぐ。
 # ---------------------------------------------------------------------------
 
-def test_sup_tag_text_extraction_regression():
+def test_numeric_cell_text_helper_avoids_sup_tag_split():
+    # e-z/しずなび/東急リゾートの3アダプタで見つけた同一原因の差異を機械化した
+    # 共通部品(_numeric_cell_text)の直接テスト。今後の新規アダプタもこれを使えば
+    # 同じ差異を再発させない。
     html = '<dd>495m<sup>2</sup> （149.74坪）</dd>'
     dd = BeautifulSoup(html, "html.parser").find("dd")
-    # 修正後の抽出方法（セパレータ無し）
-    assert watch._first_sqm(dd.get_text(strip=True)) == 495.0
+    assert watch._first_sqm(watch._numeric_cell_text(dd)) == 495.0
     # 修正前の抽出方法（" "セパレータ）は一致しない＝この回帰を防ぐためのテスト
     assert dd.get_text(" ", strip=True) == "495m 2 （149.74坪）"
+
+
+def test_numeric_cell_text_helper_handles_none():
+    assert watch._numeric_cell_text(None) == ""
 
 
 def test_ez_area_extraction_with_sup_tag():
