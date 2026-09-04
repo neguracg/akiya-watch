@@ -18,7 +18,6 @@ import threading
 import time
 import unicodedata
 import urllib.parse
-import urllib.robotparser
 from datetime import date, datetime
 from pathlib import Path
 
@@ -202,18 +201,117 @@ def normalize_url(href: str, base: str) -> str:
     return urllib.parse.urlunparse(parsed._replace(query=new_query, fragment=""))
 
 
+# ---- robots.txt 判定（RFC 9309準拠の自前実装。標準ライブラリのみ）----
+# Python標準 urllib.robotparser は先頭一致・記述順で判定し、`$`終端アンカー・`*`
+# ワイルドカードを解釈しない。そのため「Disallow: /search/」より後に書かれた
+# 「Allow: /search/real-estate/$」のような運営者の明示許可を読み落とし、禁止側に
+# 誤って倒れる（2026-09-05実測・kankocho.jp/robots.txt。docs/BUGLOG.md）。RFC 9309の
+# 規則（最長一致優先・同長ならAllow優先・`$`は文字列終端・`*`は任意文字列0文字以上）
+# に従って自前で判定する。User-agentのグループ選択（自分のUA文字列への部分一致で
+# 選ぶ・大文字小文字無視）はurllib.robotparserと同じ挙動を維持し変更していない
+# （変えたのはパス側のAllow/Disallow判定のみ）。
+
+
+def _parse_robots_groups(text: str) -> list:
+    """robots.txtのテキストを [(agents:list[str-lower], rules:list[(is_allow, pattern)])...] へ。
+
+    グループ境界はRFC 9309どおり: 連続するUser-agent行は同じグループにまとめ、
+    Allow/Disallow行が1つでも現れた後の次のUser-agent行から新しいグループが始まる。
+    Sitemap/Crawl-delay等の他の行はグループ境界に影響させず無視する。
+    """
+    groups = []
+    cur_agents: list = []
+    cur_rules: list = []
+    last_was_agent = False
+
+    def flush():
+        if cur_agents:
+            groups.append((cur_agents[:], cur_rules[:]))
+
+    for raw_line in text.splitlines():
+        line = raw_line.split("#", 1)[0].strip()
+        if not line or ":" not in line:
+            continue
+        field, _, value = line.partition(":")
+        field = field.strip().lower()
+        value = value.strip()
+        if field == "user-agent":
+            if not last_was_agent:
+                flush()
+                cur_agents = []
+                cur_rules = []
+            cur_agents.append(value.lower())
+            last_was_agent = True
+        elif field in ("allow", "disallow"):
+            if value:  # 空のDisallow/Allowは「制限なし」の意味＝ルールを作らない
+                cur_rules.append((field == "allow", value))
+            last_was_agent = False
+        # 他の行（sitemap/crawl-delay等）はグルーピングに影響させず無視する
+    flush()
+    return groups
+
+
+def _robots_group_for(groups: list, user_agent: str) -> list:
+    """自分のUser-agent文字列（product token）に一致するグループがあればその
+    rulesを、無ければ`*`グループのrulesを、どちらも無ければ空リストを返す。"""
+    ua_lower = user_agent.lower()
+    wildcard_rules = None
+    for agents, rules in groups:
+        for a in agents:
+            if a == "*":
+                if wildcard_rules is None:
+                    wildcard_rules = rules
+            elif a and a in ua_lower:
+                return rules
+    return wildcard_rules if wildcard_rules is not None else []
+
+
+def _robots_pattern_regex(pattern: str):
+    """robots.txtのpath patternを正規表現化する。`*`＝任意文字列(0文字以上)、末尾
+    `$`＝文字列終端アンカー。パーセントエンコードはunquoteして正規化してから比較する
+    （robots.txt記述側とURL側でエンコード有無が食い違っても一致させるため）。"""
+    anchored = pattern.endswith("$")
+    body = pattern[:-1] if anchored else pattern
+    body = urllib.parse.unquote(body, errors="replace")
+    escaped = re.escape(body).replace(r"\*", ".*")
+    return re.compile("^" + escaped + ("$" if anchored else ""))
+
+
+def _robots_specificity(pattern: str) -> int:
+    """最長一致判定に使う「パターン長」。パーセントエンコード正規化後・`$`を除いた長さ。"""
+    body = pattern[:-1] if pattern.endswith("$") else pattern
+    return len(urllib.parse.unquote(body, errors="replace"))
+
+
+def _robots_path_allowed(rules: list, target: str) -> bool:
+    """targetに一致する規則のうち最長一致(パターン長)を採用。同長ならAllow優先。
+    一致する規則が一つも無ければ許可（デフォルト許可）。"""
+    best = None  # (length, is_allow)
+    for is_allow, pattern in rules:
+        if _robots_pattern_regex(pattern).match(target) is None:
+            continue
+        length = _robots_specificity(pattern)
+        if best is None or length > best[0] or (length == best[0] and is_allow and not best[1]):
+            best = (length, is_allow)
+    return True if best is None else best[1]
+
+
 def robots_allowed(url: str, session: requests.Session) -> bool:
-    parsed = urllib.parse.urlparse(url)
+    """RFC 9309準拠のrobots.txt判定。取得失敗（非200・例外）は従来どおり許可扱い。"""
+    parsed = urllib.parse.urlsplit(url)
     robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
-    rp = urllib.robotparser.RobotFileParser()
     try:
         resp = session.get(robots_url, timeout=10, headers=HEADERS)
         if resp.status_code >= 400:
             return True
-        rp.parse(resp.text.splitlines())
+        groups = _parse_robots_groups(resp.text)
     except Exception:
         return True
-    return rp.can_fetch(HEADERS["User-Agent"], url)
+    rules = _robots_group_for(groups, HEADERS["User-Agent"])
+    target = parsed.path or "/"
+    if parsed.query:
+        target += "?" + parsed.query
+    return _robots_path_allowed(rules, target)
 
 
 _SITE_DEADLINE = [0.0]  # run() が各サイト処理前に time.time()+SITE_TIME_BUDGET を設定

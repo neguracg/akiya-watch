@@ -315,3 +315,90 @@ def test_kankocho_ksi_record_boundary_regex_matches_unescaped_text():
     # html.replace('\\"','"')後の平文テキストに対して0件になっていた回帰の防止。
     unescaped_sample = '{"id":1,"auctionId":2,"title":"x"}'
     assert len(list(watch._KSI_RECORD_RE.finditer(unescaped_sample))) == 1
+
+
+# ---------------------------------------------------------------------------
+# 8. robots.txt判定のRFC 9309準拠化（W3・消込表#472）。urllib.robotparserは
+#    先頭一致・記述順で判定し`$`終端アンカー・`*`ワイルドカードを解釈しないため、
+#    kankocho.jpの「Disallow: /search/」より後に書かれた明示許可
+#    「Allow: /search/real-estate/$」を読み落として禁止側に誤って倒れていた
+#    （2026-09-05実測。docs/BUGLOG.md）。RFC 9309（最長一致優先・同長ならAllow
+#    優先・`$`は文字列終端・`*`は任意文字列0文字以上）準拠の自前実装への
+#    置き換えの回帰テスト。
+# ---------------------------------------------------------------------------
+
+class _FakeRobotsResp:
+    def __init__(self, status_code, text):
+        self.status_code = status_code
+        self.text = text
+
+
+class _FakeRobotsSession:
+    """robots_allowed()用のダミーsession。requests.Sessionの
+    .get(url, timeout=, headers=) と同じ引数だけを受ける最小スタブ
+    （実ネットワークアクセスをしない）。"""
+
+    def __init__(self, robots_text="", status_code=200, raise_exc=None):
+        self._robots_text = robots_text
+        self._status_code = status_code
+        self._raise_exc = raise_exc
+
+    def get(self, url, timeout=None, headers=None):
+        if self._raise_exc:
+            raise self._raise_exc
+        return _FakeRobotsResp(self._status_code, self._robots_text)
+
+
+def test_robots_allow_wins_only_at_exact_dollar_anchor():
+    # kankocho.jp/robots.txt実物と同じ構成（W3背景）。
+    robots_txt = "User-agent: *\nDisallow: /search/\nAllow: /search/real-estate/$\n"
+    session = _FakeRobotsSession(robots_txt)
+    assert watch.robots_allowed("https://kankocho.jp/search/real-estate/", session) is True
+    # クエリが付くと$アンカーにマッチしなくなり、Disallow:/search/だけが一致→不許可
+    assert watch.robots_allowed("https://kankocho.jp/search/real-estate/?page=1", session) is False
+    # 別パスはAllowの対象外でDisallow:/search/のみ一致→不許可
+    assert watch.robots_allowed("https://kankocho.jp/search/other", session) is False
+
+
+def test_robots_wildcard_star_matches_any_middle_segment():
+    robots_txt = "User-agent: *\nDisallow: /cat/*/private/\n"
+    session = _FakeRobotsSession(robots_txt)
+    assert watch.robots_allowed("https://example.com/cat/123/private/x", session) is False
+    # "/private/"を含まないパスはこのDisallowに一致せず、他に一致規則も無いので許可
+    assert watch.robots_allowed("https://example.com/cat/123/public/x", session) is True
+
+
+def test_robots_group_selection_prefers_own_ua_over_wildcard():
+    # 自分のUA文字列(watch.HEADERS)は"...Chrome/125.0.0.0 Safari/537.36"を含むため
+    # "chrome"宛のグループが"*"より優先されること（urllib.robotparserと同じ
+    # 部分一致でのグループ選択。ここは今回の修正で変えていない）。
+    robots_txt = (
+        "User-agent: chrome\nDisallow: /blocked/\n\n"
+        "User-agent: *\nAllow: /\n"
+    )
+    session = _FakeRobotsSession(robots_txt)
+    assert watch.robots_allowed("https://example.com/blocked/x", session) is False
+    assert watch.robots_allowed("https://example.com/other", session) is True
+
+
+def test_robots_empty_disallow_means_allow_all():
+    robots_txt = "User-agent: *\nDisallow:\n"
+    session = _FakeRobotsSession(robots_txt)
+    assert watch.robots_allowed("https://example.com/anything/here", session) is True
+
+
+def test_robots_fetch_failure_keeps_fail_open_behavior():
+    # 従来(urllib.robotparser版)と同じく、非200・例外時は「許可」に倒す
+    # （W3指示書: 取得失敗時の扱いは変えない）。
+    session_404 = _FakeRobotsSession(status_code=404)
+    assert watch.robots_allowed("https://example.com/x", session_404) is True
+    session_error = _FakeRobotsSession(raise_exc=Exception("boom"))
+    assert watch.robots_allowed("https://example.com/x", session_error) is True
+
+
+def test_robots_percent_encoding_is_normalized_before_matching():
+    # robots.txt側が%2D(ハイフンの%エンコード)で書かれていても、URL側の生の
+    # "real-estate"と一致すること（パーセントエンコード差の正規化・追加ケース）。
+    robots_txt = "User-agent: *\nDisallow: /search/\nAllow: /search/real%2Destate/$\n"
+    session = _FakeRobotsSession(robots_txt)
+    assert watch.robots_allowed("https://kankocho.jp/search/real-estate/", session) is True
