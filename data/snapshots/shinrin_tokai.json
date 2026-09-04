@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "90ae01bb582a75e7",
-  "fetched_at": "2026-09-04T00:03:01.518467"
+  "keys": {
+    "https://www.shin-rin.net/archives/711|東海　\t\t\t\t\t\t\t\t\t　物件No.037": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "location": "静岡県 富士宮市",
+      "price_man": null,
+      "area_sqm": 69437.0,
+      "url": "https://www.shin-rin.net/archives/711",
+      "text": "東海　\t\t\t\t\t\t\t\t\t　物件No.037",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士宮市",
+      "tab": "camp"
+    }
+  },
+  "hash": "c9cc5459740706a5",
+  "fetched_at": "2026-09-04T21:14:17.119214"
 }

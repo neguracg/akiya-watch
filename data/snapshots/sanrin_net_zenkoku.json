@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "a131a9963b8afda5",
-  "fetched_at": "2026-09-04T00:02:50.775735"
+  "keys": {
+    "https://www.sanrin.net/forest_detail.php?id=371|静岡県富士宮市加藤窪": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "location": "静岡県富士宮市加藤窪",
+      "price_man": 200,
+      "area_sqm": 4967.0,
+      "url": "https://www.sanrin.net/forest_detail.php?id=371",
+      "text": "静岡県富士宮市加藤窪",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "山林",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 0.1,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士宮市",
+      "tab": "camp"
+    }
+  },
+  "hash": "50d7d77bcf0659f7",
+  "fetched_at": "2026-09-04T21:14:07.714420"
 }

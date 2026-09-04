@@ -317,5 +317,49 @@
     "text": "5号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
     "removed_on": "2026-09-03",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582657/|3号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-03",
+    "location": "静岡県三島市青木",
+    "price_man": 2180,
+    "area_sqm": 154.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582657/",
+    "text": "3号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし",
+    "removed_on": "2026-09-04",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582655/|1号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-03",
+    "location": "静岡県三島市青木",
+    "price_man": 2280,
+    "area_sqm": 170.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582655/",
+    "text": "1号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし",
+    "removed_on": "2026-09-04",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582656/|2号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-03",
+    "location": "静岡県三島市青木",
+    "price_man": 2280,
+    "area_sqm": 169.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21582656/",
+    "text": "2号地☆伊豆箱根鉄道駿豆線『三島二日町』駅徒歩13分建築条件なし",
+    "removed_on": "2026-09-04",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20298120/|幸原町１（三島駅） 2880万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-09-03",
+    "location": "静岡県三島市幸原町１",
+    "price_man": 2880,
+    "area_sqm": 193.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20298120/",
+    "text": "幸原町１（三島駅） 2880万円",
+    "removed_on": "2026-09-04",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

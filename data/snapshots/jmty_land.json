@@ -2,7 +2,7 @@
   "keys": {
     "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
       "price_man": 70,
       "area_sqm": 240.0,
@@ -34,7 +34,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rcyt7|＜9/15迄お申込み限定＞　300万円　分譲宅地　伊豆の国市大仁...": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 300,
       "area_sqm": null,
@@ -63,7 +63,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rayxp|【約292坪】伊豆の国市中｜キャンプ・資材置き場・事業用地におすすめ": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 965.0,
@@ -91,6 +91,6 @@
       "tab": "home"
     }
   },
-  "hash": "7fdc4c3e98d2a87a",
-  "fetched_at": "2026-09-03T23:48:51.778511"
+  "hash": "a25178d3b11dcfba",
+  "fetched_at": "2026-09-04T20:58:07.941977"
 }

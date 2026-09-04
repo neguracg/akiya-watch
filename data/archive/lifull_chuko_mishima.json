@@ -394,5 +394,16 @@
     "text": "三島市富士ビレッジ中古住宅",
     "removed_on": "2026-09-03",
     "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1531160000030/|三島市川原ケ谷（三島駅）　木造二階建住宅": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-03",
+    "location": "三島市川原ケ谷（三島駅）　木造二階建住宅",
+    "price_man": 980,
+    "area_sqm": 122.5,
+    "url": "https://www.homes.co.jp/kodate/b-1531160000030/",
+    "text": "三島市川原ケ谷（三島駅）　木造二階建住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 三島市"
   }
 }

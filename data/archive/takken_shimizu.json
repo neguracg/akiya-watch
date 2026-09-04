@@ -152,5 +152,16 @@
     "text": "売土地 駿東郡清水町伏見756-1",
     "removed_on": "2026-08-31",
     "site_name": "空き家バンクしずおか 清水町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176634/settle/1|新築売住宅 駿東郡清水町柿田": {
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-09-03",
+    "location": "駿東郡清水町柿田",
+    "price_man": 3290,
+    "area_sqm": 131.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176634/settle/1",
+    "text": "新築売住宅 駿東郡清水町柿田",
+    "removed_on": "2026-09-04",
+    "site_name": "空き家バンクしずおか 清水町"
   }
 }

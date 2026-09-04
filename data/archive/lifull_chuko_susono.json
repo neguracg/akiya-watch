@@ -31,5 +31,137 @@
     "text": "裾野市富沢中古住宅",
     "removed_on": "2026-07-09",
     "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33327210001530/|裾野市茶畑　中古戸建": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市茶畑　中古戸建",
+    "price_man": 2399,
+    "area_sqm": 141.1,
+    "url": "https://www.homes.co.jp/kodate/b-33327210001530/",
+    "text": "裾野市茶畑　中古戸建",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33333810000749/|裾野市御宿　築3年　築浅中古住宅": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-09",
+    "location": "裾野市御宿　築3年　築浅中古住宅",
+    "price_man": 3680,
+    "area_sqm": 173.2,
+    "url": "https://www.homes.co.jp/kodate/b-33333810000749/",
+    "text": "裾野市御宿　築3年　築浅中古住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33333630000014/|JR御殿場線 岩波駅 9.1km": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "JR御殿場線 岩波駅 9.1km",
+    "price_man": 1880,
+    "area_sqm": 212.2,
+    "url": "https://www.homes.co.jp/kodate/b-33333630000014/",
+    "text": "JR御殿場線 岩波駅 9.1km",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002613/|裾野市佐野中古住宅": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市佐野中古住宅",
+    "price_man": 4498,
+    "area_sqm": 177.7,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002613/",
+    "text": "裾野市佐野中古住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002290/|裾野市平松中古住宅": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市平松中古住宅",
+    "price_man": 3398,
+    "area_sqm": 144.1,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002290/",
+    "text": "裾野市平松中古住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33334000000020/|裾野市呼子2丁目戸建て": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市呼子2丁目戸建て",
+    "price_man": 1300,
+    "area_sqm": 227.6,
+    "url": "https://www.homes.co.jp/kodate/b-33334000000020/",
+    "text": "裾野市呼子2丁目戸建て",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33326400000180/|JR御殿場線 岩波駅 徒歩37分": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "JR御殿場線 岩波駅 徒歩37分",
+    "price_man": 2280,
+    "area_sqm": 152.9,
+    "url": "https://www.homes.co.jp/kodate/b-33326400000180/",
+    "text": "JR御殿場線 岩波駅 徒歩37分",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002557/|裾野市深良中古住宅": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市深良中古住宅",
+    "price_man": 3280,
+    "area_sqm": 322.9,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002557/",
+    "text": "裾野市深良中古住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1220300000684/|裾野市二ツ屋　戸建て": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市二ツ屋　戸建て",
+    "price_man": 1949,
+    "area_sqm": 133.8,
+    "url": "https://www.homes.co.jp/kodate/b-1220300000684/",
+    "text": "裾野市二ツ屋　戸建て",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1475010001236/|裾野市千福が丘1丁目　中古一戸建て": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-07-09",
+    "location": "裾野市千福が丘1丁目　中古一戸建て",
+    "price_man": 1498,
+    "area_sqm": 206.6,
+    "url": "https://www.homes.co.jp/kodate/b-1475010001236/",
+    "text": "裾野市千福が丘1丁目　中古一戸建て",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1443010007452/|裾野市千福が丘1丁目": {
+    "first_seen": "2026-07-06",
+    "last_seen": "2026-07-09",
+    "location": "裾野市千福が丘1丁目",
+    "price_man": 1498,
+    "area_sqm": 206.6,
+    "url": "https://www.homes.co.jp/kodate/b-1443010007452/",
+    "text": "裾野市千福が丘1丁目",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1496030000074/|千福が丘３丁目　平屋建": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-07-09",
+    "location": "千福が丘３丁目　平屋建",
+    "price_man": 1650,
+    "area_sqm": 361.8,
+    "url": "https://www.homes.co.jp/kodate/b-1496030000074/",
+    "text": "千福が丘３丁目　平屋建",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 裾野市"
   }
 }

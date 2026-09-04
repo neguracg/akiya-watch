@@ -174,5 +174,27 @@
     "text": "沼津市大岡　分譲住宅　西棟",
     "removed_on": "2026-09-02",
     "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002501/|沼津市原中古住宅": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-02",
+    "location": "沼津市原中古住宅",
+    "price_man": 2980,
+    "area_sqm": 172.8,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002501/",
+    "text": "沼津市原中古住宅",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000228/|新築戸建　沼津市大岡　ホテルライク": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-02",
+    "location": "新築戸建　沼津市大岡　ホテルライク",
+    "price_man": 3450,
+    "area_sqm": 162.6,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000228/",
+    "text": "新築戸建　沼津市大岡　ホテルライク",
+    "removed_on": "2026-09-04",
+    "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

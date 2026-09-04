@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203|◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)": {
+      "first_seen": "2026-08-29",
+      "last_seen": "2026-09-04",
+      "location": "静岡 沼津市 片浜駅 アパート",
+      "price_man": 3.69,
+      "area_sqm": null,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203",
+      "text": "◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
+    },
     "https://jmty.jp/shizuoka/est-hou/article-a79x6|初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 原駅 マンション",
       "price_man": 2.5,
       "area_sqm": null,
@@ -31,7 +60,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 原駅 マンション",
       "price_man": 2.0,
       "area_sqm": 20.0,
@@ -60,7 +89,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-185ha7|🉐★初期費用無料DIY可能8月末まで家賃無料 ★駐車場付【ペット...": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 伊豆市 伊豆急下田駅 一戸建て",
       "price_man": 1.9,
       "area_sqm": 200.0,
@@ -93,7 +122,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-1n3fwv|【５万円！】キャッシュバックお引越しキャンペーン！＆【ママチャリ...": {
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 原駅 マンション",
       "price_man": 2.5,
       "area_sqm": null,
@@ -122,7 +151,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-1809lj|お引越し【６万円】キャッシュバックキャンペーン": {
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 原駅 マンション",
       "price_man": 3.0,
       "area_sqm": null,
@@ -151,7 +180,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-1rbi1n|【沼津駅徒歩8分】一棟貸し・全7室｜敷金礼金なし｜フリーレント2ヶ月": {
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 沼津駅 賃貸（マンション/一戸建て）",
       "price_man": 30.0,
       "area_sqm": null,
@@ -186,7 +215,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-pesaq|初期費用0円♪ 2LDK/44㎡が4万円台！敷礼ゼロ、ｺﾝﾋﾞﾆ...": {
       "first_seen": "2026-09-02",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 片浜駅 賃貸（マンション/一戸建て）",
       "price_man": 4.6,
       "area_sqm": 44.0,
@@ -217,7 +246,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-192p3q|アパート　 インターネット完全無料　高齢者歓迎　生活保護者歓迎　...": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 岳南江尾駅 アパート",
       "price_man": 2.7,
       "area_sqm": null,
@@ -244,38 +273,9 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203|◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)": {
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
-      "location": "静岡 沼津市 片浜駅 アパート",
-      "price_man": 3.69,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203",
-      "text": "◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "rent"
-    },
     "https://jmty.jp/shizuoka/est-hou/article-12en1s|三島市 鉄筋マンション 初期費用3万円台で入居できます": {
       "first_seen": "2026-08-31",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 三島市 マンション",
       "price_man": 3.7,
       "area_sqm": 23.0,
@@ -304,7 +304,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-1rh4lw|🌺審査ト〰️〰️ル君🌺【静岡県熱海市 山手町】保証人も保証会社も...": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 熱海市 マンション",
       "price_man": 3.09,
       "area_sqm": null,
@@ -333,7 +333,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-1rgkth|初期費用無料  インターネット無料  沼津駅徒歩10分": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 マンション",
       "price_man": 3.2,
       "area_sqm": null,
@@ -364,7 +364,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-est_ec_27370|🌟敷礼無料！駅から徒歩9分、スーパー、薬局徒歩圏内！フォーム済みの1R": {
       "first_seen": "2026-08-29",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 アパート",
       "price_man": 1.9,
       "area_sqm": null,
@@ -393,7 +393,7 @@
     },
     "https://jmty.jp/shizuoka/est-hou/article-est_ec_27215|💸敷礼無料！【リノベ直後】12畳広々洋室／ペット可／無料高速wifi付": {
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-03",
+      "last_seen": "2026-09-04",
       "location": "静岡 沼津市 マンション",
       "price_man": 4.5,
       "area_sqm": null,
@@ -423,6 +423,6 @@
       "tab": "rent"
     }
   },
-  "hash": "d68ee3f165d68b66",
-  "fetched_at": "2026-09-04T00:12:48.184227"
+  "hash": "638425e4360f6e03",
+  "fetched_at": "2026-09-04T21:27:49.801991"
 }
