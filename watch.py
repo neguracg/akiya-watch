@@ -36,7 +36,11 @@ except Exception:
 # 安全装置の定数
 FETCH_TOTAL_TIMEOUT = 25     # 1リクエストの総時間上限（秒）。requestsのtimeoutは細切れ送信で無限化するため
 SITE_TIME_BUDGET = 180       # 1サイトあたりの最大処理時間（秒）。超えたらページャ追従を打ち切り
-RUN_WALLCLOCK_LIMIT = 1800   # 実行全体の上限（秒・30分）。超えたら残サイトを打ち切って報告
+RUN_WALLCLOCK_LIMIT = 3300   # 実行全体の上限（秒・55分）。超えたら残サイトを打ち切って報告
+# 2026-09-05: 101→118サイト化(消込表#472)に伴い1800(30分)→3300へ引き上げ。直近5回の
+# Actions実行ログをgh run view --logで実測したところ、うち3回で実際に「実行ウォールクロック
+# 上限 1800s 超過」が発生し末尾4/7/12サイトが打ち切られていた（残り2回はサイトリスト完走が
+# 偶然1800s未満で収まっただけ）。daily.ymlのtimeout-minutesも70へ同時に引き上げる。
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data" / "snapshots"
@@ -361,16 +365,92 @@ def extract_toshikeikaku(text: str) -> str:
     return "—"
 
 
-# 住宅探索(home/camp/rentタブ共通)の対象市町。前半7つ=住宅探索(home)の対象市町。
-# 以降=キャンプ場土地(camp)タブの1h圏 Tier1+Tier2、末尾5つ=Tier3（1h超だが広い山物件の
-# 在庫が豊富な伊豆最南部+賀茂郡。現地訪問前提で監視だけ広げる）。河津町/松崎町は
-# suumo_camp_kamogun（賀茂郡ページ）の machi 判定用に追加。
-_MACHI_NAMES_SHIZUOKA = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市",
-                "伊豆市", "熱海市", "御殿場市", "小山町", "伊東市", "西伊豆町",
-                "湯河原町", "箱根町", "富士市",
-                "下田市", "東伊豆町", "南伊豆町", "河津町", "松崎町")
+# 住宅探索(home/camp/rentタブ共通)の対象市町。前半7つ=住宅探索(home)の対象市町
+# （順序を変えない＝更地/家付き/賃貸の判定を変えない）。続く全市町=urls.yaml
+# filters.camp.tiers（tier1+tier2+tobichi）から実行時に組み立てる（2026-09-05・消込表#472
+# でtiersをurls.yamlの唯一の定義元にし、ここへのハードコピーは廃止）。
+# extract_machiは正式名のみで照合する——短縮すると「静岡市清水区」と「清水町」、
+# 「南部町」と本文中の方角語「南部」等が誤マッチしうるため（filter_keywords用の緩い
+# 短縮形は _camp_tier_keywords 側で別途扱う。用途が違う＝machiは1件を確定する厳密照合、
+# filter_keywordsはサイトの掲載を拾うか拾わないかだけの緩い照合）。
 # 賃貸タブ(rent)も静岡県東部が対象のため、_MACHI_NAMES は静岡側と等価。
-_MACHI_NAMES = _MACHI_NAMES_SHIZUOKA
+_MACHI_BASE7 = ("函南町", "伊豆の国市", "三島市", "沼津市", "清水町", "長泉町", "裾野市")
+# モジュール読込直後（run()/rebuild()がurls.yamlを読む前）に呼ばれた場合のフォールバック。
+# _build_machi_names()（設定読込直後の1箇所で呼ぶ）が実行時に置き換える。
+_MACHI_NAMES = _MACHI_BASE7
+
+
+def _build_machi_names(filters: dict) -> tuple:
+    """_MACHI_NAMES を urls.yaml の filters.camp.tiers から組み立てる。
+    先頭は従来の7市町（順序を変えない）、続けて tier1+tier2+tobichi の全市町（正式名のみ）。
+    tier1は前半7市町を全て含む（沼津市・三島市・函南町・長泉町・清水町・裾野市・伊豆の国市）ため、
+    重複は追加しない（extract_machiは先頭から最初の一致を返すため判定結果は変わらないが、
+    一覧を読みやすくするため排除する）。"""
+    tiers = ((filters.get("camp") or {}).get("tiers")) or {}
+    out = list(_MACHI_BASE7)
+    for tier_name in ("tier1", "tier2", "tobichi"):
+        for t in tiers.get(tier_name) or []:
+            if t not in out:
+                out.append(t)
+    return tuple(out)
+
+
+# @camp_tiers 展開（filter_keywords用）で短縮形を追加しない市町。短縮すると誤マッチしうる
+# ため、フル表記のみを使う（machiと違い filter_keywords は複数キーワードのORなので、
+# 短縮を諦めても正式名の1本で拾えなくなるわけではない＝安全側に倒しても実害が小さい）。
+#   清水町/伊豆市/小山町/富士市: 旧filter_keywords(19市町丸写し版)がこの4町だけ町名を
+#     省略していなかった実績を踏襲（清水=静岡市清水区、伊豆=伊豆の国市/西・東・南伊豆町、
+#     小山=一般的な地名・姓、富士=富士宮市等/「富士山」と衝突するため）。
+#   南部町: 短縮(南部)は本文中の方角語「〜市南部」等と衝突する（2026-09-05指示書で明示）。
+#   富士川町: 短縮(富士川)は河川名として圏外の物件でも頻出しうる。
+#   山北町/松田町/開成町/大井町/中井町(足柄上郡5町): 「大井松田IC」（東名高速のIC名。
+#     土地広告の距離表記に頻出）が大井/松田の短縮と衝突するため、クラスタごと短縮しない。
+_CAMP_TIER_NO_SHORTEN = frozenset({
+    "清水町", "伊豆市", "小山町", "富士市", "南部町", "富士川町",
+    "山北町", "松田町", "開成町", "大井町", "中井町",
+})
+_SHIZUOKA_WARD_RE = re.compile(r"^静岡市(.+区)$")
+_TOWN_SUFFIX_RE = re.compile(r"(市|町|村)$")
+
+
+def _short_town_form(name: str):
+    """既存の短縮慣習（末尾の市/町/村を落とす。「静岡市◯◯区」は◯◯区にする。例:
+    「富士河口湖町」→「富士河口湖」）に合わせた短縮形を返す。短縮しない場合はNone。"""
+    m = _SHIZUOKA_WARD_RE.match(name)
+    if m:
+        return m.group(1)
+    short = _TOWN_SUFFIX_RE.sub("", name)
+    return short if short and short != name else None
+
+
+def _camp_tier_keywords(filters: dict) -> list:
+    """urls.yaml の filters.camp.tiers (tier1+tier2+tobichi) を、
+    filter_keywords: "@camp_tiers" 展開用のフラットなキーワードリストにする
+    （正式名＋安全な短縮形の両方。_CAMP_TIER_NO_SHORTEN は短縮形を追加しない）。
+    表示用の _MACHI_NAMES（正式名のみの厳密照合）とは用途が違う別物。"""
+    tiers = ((filters.get("camp") or {}).get("tiers")) or {}
+    towns = []
+    for tier_name in ("tier1", "tier2", "tobichi"):
+        towns.extend(tiers.get(tier_name) or [])
+    out = list(towns)
+    for t in towns:
+        if t in _CAMP_TIER_NO_SHORTEN:
+            continue
+        short = _short_town_form(t)
+        if short and short not in out:
+            out.append(short)
+    return out
+
+
+def _expand_camp_tiers(sites: list, filters: dict) -> None:
+    """サイト定義の filter_keywords: "@camp_tiers"（文字列）を実際のキーワード配列へ
+    その場で展開する。設定読込直後の1箇所（run()/rebuildの冒頭）から呼ぶ。"""
+    expanded = None
+    for s in sites:
+        if s.get("filter_keywords") == "@camp_tiers":
+            if expanded is None:
+                expanded = _camp_tier_keywords(filters)
+            s["filter_keywords"] = expanded
 
 
 def extract_machi(text: str) -> str:
@@ -3010,6 +3090,11 @@ def run(dry_run: bool = False, only: str = "") -> int:
     config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
     sites = config["sites"]
     filters = config["filters"]
+    # 設定読込直後の1箇所で: (1) _MACHI_NAMES を組み立て (2) filter_keywords: "@camp_tiers"
+    # を展開する。両方とも filters.camp.tiers（urls.yaml）が唯一の定義元。
+    global _MACHI_NAMES
+    _MACHI_NAMES = _build_machi_names(filters)
+    _expand_camp_tiers(sites, filters)
     # tab: camp / rent のサイトはそれぞれ filters.camp / filters.rent で閾値を上書きした
     # 判定を使う（定義元は urls.yaml。ハードコード禁止）。
     camp_filters = {**filters, **(filters.get("camp") or {})}
@@ -3412,6 +3497,12 @@ def rebuild() -> int:
     config = yaml.safe_load((BASE_DIR / "urls.yaml").read_text(encoding="utf-8"))
     sites = config["sites"]
     filters = config["filters"]
+    # run()と同じ組み立て（旧形式スナップショットの簡略フォールバックがextract_machiを
+    # 呼ぶため_MACHI_NAMESは必須。filter_keywordsの展開はrebuildの再判定では未使用だが、
+    # run()と処理を揃えて分岐を増やさない）。
+    global _MACHI_NAMES
+    _MACHI_NAMES = _build_machi_names(filters)
+    _expand_camp_tiers(sites, filters)
     camp_filters = {**filters, **(filters.get("camp") or {})}
     rent_filters = {**filters, **(filters.get("rent") or {})}
     today = date.today().isoformat()
@@ -3590,6 +3681,10 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         area = f"{a['area_sqm']:g}㎡" if a.get("area_sqm") is not None else "—"
         disappeared_data.append({
             "site": sname, "loc": loc or "—", "price": price, "area": area,
+            # area_sqm: 表示用"area"(整形済み文字列)とは別に生の数値も持たせる。
+            # camp判定(home由来でも面積1,000㎡以上ならcampタブにも表示)をJS側で行うため
+            # （inTabBucketDisappeared参照。2026-09-05 B3）。
+            "area_sqm": a.get("area_sqm"),
             "removedOn": a.get("removed_on", "—"), "days": d,
             "url": a.get("url", ""), "tab": site_tab_d,
         })
@@ -3616,8 +3711,9 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     config_js = json.dumps({
         "ceilings": {t: ceil_by_type.get(t, pmax_def) for t in types},
         "types": types,
-        # machi=静岡（更地/家付き/キャンプ場土地/賃貸の全タブ共通）。
-        "machi": list(_MACHI_NAMES_SHIZUOKA),
+        # machi=静岡（更地/家付き/キャンプ場土地/賃貸の全タブ共通）。_MACHI_NAMESは
+        # run()/rebuild()の冒頭で_build_machi_names(filters)により組み立て済み（B2）。
+        "machi": list(_MACHI_NAMES),
         "cautions": filters.get("caution_keywords", []),
         "exareas": filters.get("exclude_areas", []),
         "amin": amin_def,
@@ -4499,8 +4595,15 @@ DATA.forEach((d,i)=>{
 // タブ(sarachi/ie/camp/rent)への所属判定。キャンプ場土地(camp)・賃貸(rent)は独立タブ:
 // 各タブは自分のtabのレコードのみ、homeレコードは更地/家付きのみ。
 // NGエリア該当ログ等、DATAをタブ別に絞り込む他の描画でも同じ判定を使い回す。
+// 2026-09-05(B3): home由来(更地/家付き)でも面積がCONFIG.campAmin(1,000㎡)以上なら、
+// 再クロールせずcampタブにも表示する（沼津・三島・函南等のSUUMO/LIFULL既存監視の
+// 大面積土地をキャンプ場土地タブでも見せる）。DATA(inTabBucket)とDISAPPEARED
+// (inTabBucketDisappeared)の両方から呼ぶ共通判定。
+function isLargeHomeForCamp(siteTab,areaSqm){
+  return siteTab==='home'&&CONFIG.campAmin!=null&&areaSqm!=null&&areaSqm>=CONFIG.campAmin;
+}
 function inTabBucket(d,tab){
-  if(tab==='camp')return d.tab==='camp';
+  if(tab==='camp')return d.tab==='camp'||isLargeHomeForCamp(d.tab,d.area);
   if(tab==='rent')return d.tab==='rent';
   if(d.tab==='camp'||d.tab==='rent')return false;
   const isHouse=HOUSE_TYPES.has(d.shubetsu);
@@ -4743,18 +4846,29 @@ function renderNgLog(){
 
 // ---- サイト所属タブ(home/camp/rent) と 画面タブ(sarachi/ie/camp/rent) の対応。
 // homeサイトは更地/家付き土地の両方を出しうるため、両タブに属するものとして扱う
-// （消滅・サイト別サマリはサイト単位の情報で、DATAのようなshubetsuによる細分ができないため）----
+// （サイト別サマリはサイト単位の情報で、DATAのようなshubetsuによる細分ができないため。
+// campタブへのhome大面積クロスオーバー(isLargeHomeForCamp)はサイト単位では判定できない
+// ＝サマリは対象外のまま。理由: fitCnt等の集計値はそのサイト自身のタブの閾値(home用)で
+// 計算済みで、camp用閾値での再集計ではないため、camp欄に出すと数値の意味が食い違う）----
 function siteBelongsToUiTab(siteTab,uiTab){
   if(uiTab==='camp')return siteTab==='camp';
   if(uiTab==='rent')return siteTab==='rent';
   return siteTab!=='camp'&&siteTab!=='rent';
 }
+// 消滅(DISAPPEARED)はサイト単位ではなく個々の掲載(area_sqm付き)なので、DATAと同じ
+// isLargeHomeForCamp判定が使える＝siteBelongsToUiTabのcamp分岐だけ上書きする
+// （サイト別サマリとは違い、消滅は「かつて表示されていた個別の掲載」なのでcampタブに
+// 表示していた大面積home物件が消えたときも消滅ログに出すのが一貫する。2026-09-05 B3）。
+function inTabBucketDisappeared(d,tab){
+  if(tab==='camp')return d.tab==='camp'||isLargeHomeForCamp(d.tab,d.area_sqm);
+  return siteBelongsToUiTab(d.tab,tab);
+}
 
-// ---- 消滅（DISAPPEARED をサイトのtab属性でタブ別に描画）----
+// ---- 消滅（DISAPPEARED をタブ別に描画）----
 function renderDisappeared(){
   const box=document.getElementById('secGone'); if(!box)return;
   const tab=S.tab;
-  const rows=DISAPPEARED.filter(d=>siteBelongsToUiTab(d.tab,tab));
+  const rows=DISAPPEARED.filter(d=>inTabBucketDisappeared(d,tab));
   const cnt=document.getElementById('goneCnt'); if(cnt)cnt.textContent='（'+rows.length+' 件・ページ削除から7日以内）';
   if(!rows.length){box.innerHTML="<p class='muted'>消滅物件なし。</p>";return;}
   let h="<table><tr><th>サイト</th><th>所在地</th><th>価格</th><th>面積</th>"

@@ -19,7 +19,7 @@ concurrency:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 40   # watch.py 側の 30分上限と二重化
+    timeout-minutes: 70   # watch.py 側の 55分上限と二重化（2026-09-05: 30分→55分。消込表#472）
     steps:
       - name: Checkout
         uses: actions/checkout@v4
