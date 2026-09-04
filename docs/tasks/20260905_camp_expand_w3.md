@@ -32,3 +32,9 @@ E. 文書: `docs/SPEC.md` §5（robots判定の記述を「RFC 9309準拠・最�
 ## 規律
 - 作業単位（A→B→E）ごとにコミット（`git add <明示ファイル>`・`-A`禁止・pushしない）。`docs/WORKLOG.md` は追記のみ。
 - 再委任禁止。完了報告: 回帰差分の一覧（変化件数と各件の根拠）・kankocho_ksi の実測・テスト結果・残リスク。
+
+## F. 追加スコープ: `--only` 指定時は本番成果物を書かない（2026-09-05 オーケストレータが実害を確認）
+**事象**: `py watch.py --only=ez_fujisan --dry-run` を実行しただけで `reports/index.html`・日付別html/csv・`SOURCES.md` が**その1サイト分のデータだけ**で上書きされ、古い日付別レポートが `prune` で削除された（コミット前に気づき `git checkout` で復元。W2も同じ罠を踏んで都度復元していた）。`--dry-run` はスナップショットを保存しないだけで、レポート出力は本番経路のまま。
+**やること**: `--only` が指定された実行では、`--rebuild` と同じ出口（`reports/_preview.html` のみ・警告バナー付き・`prune` しない・`SOURCES.md` を書かない）にする。`emit_reports(..., preview=True)` が既にあるので、`--only` の有無で `preview` を決めるだけで済むはず（実装前に `emit_reports` の呼び出し元を全部 grep して、他の経路を壊さないことを確認）。`--dry-run` 単独（全サイト）は従来どおり本番成果物を書いてよいか？→ **書かない側に倒す**（`--dry-run` も preview 出口にする。本番成果物を書くのは「引数なしの通常実行」だけ、と SPEC §8 に明記）。
+**検証**: `--only=ez_fujisan --dry-run` 実行後に `git status --short reports SOURCES.md` が空、`reports/_preview.html` にバナーがある。通常実行の出口は変えない（`emit_reports` の呼び出しを読んで説明）。
+**文書**: SPEC §8 の表を更新、DECISIONS §3 に1行、BUGLOG 1行（症状/原因: 部分実行とレポート出力の分離が無かった/commit/@sekkei ヨコテン: emit_reports 呼び出し元の全数棚卸し N件 グローバル: 不要(このアプリ固有の出口設計)）。
