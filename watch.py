@@ -2975,6 +2975,105 @@ def parse_foreste(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
+# 朝霧高原「富士山麓不動産情報」アダプタ（ストレッチ。www3.tokai.or.jp/tosei/
+#   betusou.html tab=camp。httpsが無くhttp固定）。**このページはtable/tr構造が
+#   実質壊れている**（実測で発覚: 5地区分の全データが単一の<tr>の中の434個の
+#   兄弟<td>に平坦に並ぶ。td単位で見ても「地区ヘッダ=colspan5の1個」「見出し/
+#   データ行=5個ずつ」の境界はDOM構造から機械的に復元できない）。そのため
+#   BeautifulSoupのタグ構造には頼らず、ページ全文(get_text)をNFKC正規化したうえで
+#   **テキストパターンで再分割**する: ①地区マーカー(朝霧地区/西林地区/猪之頭地区/
+#   白糸地区/その他の地域)で全文を地区ごとに分割 ②各地区内を物件種別マーカー
+#   (売　土　地/売　別　荘/売別荘/保養所)で1件ずつに分割 ③各件のテキストから
+#   「土地NNN.NN」で面積(坪→㎡)、備考(最初の「・」以降)より前の区間から土地/建物/
+#   古家の面積トークンを除去した残りの数値を価格(万円。既に万円単位の生数値)として
+#   抽出（「詳細応談」等のプレースホルダは数値が無いためprice=None）。
+#   URLは個別リンクの対応付けを行わず全件base_url固定（一部の行にathome.co.jpの
+#   地図リンクがあるが、崩れたtr構造からDOM的に対応付けるのは非対応・既知の制約）。
+# ---------------------------------------------------------------------------
+
+# 元HTMLの括弧は全角（）だが、parse_asagiriが先にNFKC正規化する際に半角()へ
+# 畳み込まれる（NFKCの互換分解仕様）ため、ここでは半角のみを見る。
+_ASAGIRI_DISTRICT_RE = re.compile(r"(朝霧地区|西林地区|猪之頭地区|白糸地区|その他の地域)\s*(?:\(([^)]*)\))?")
+_ASAGIRI_KIND_RE = re.compile(r"売\s*(土\s*地|別\s*荘|別荘/保養所)(?:\(([^)]*)\))?")
+_ASAGIRI_AREA_STRIP_RE = re.compile(r"(?:土地|建物|古家)\s*※?\s*[\d,]+(?:\.\d+)?")
+_ASAGIRI_LAND_AREA_RE = re.compile(r"土地\s*([\d,]+(?:\.\d+)?)")
+_ASAGIRI_NUM_RE = re.compile(r"([\d,]+(?:\.\d+)?)")
+_ASAGIRI_REMARK_LOC_RE = re.compile(r"富士宮市\S*")
+
+
+def _asagiri_listings(section_text: str):
+    """1地区分のテキストから (kind, area_tsubo, price_man, location_hint, remark) を返す。"""
+    marks = list(_ASAGIRI_KIND_RE.finditer(section_text))
+    out = []
+    for i, m in enumerate(marks):
+        start = m.end()
+        end = marks[i + 1].start() if i + 1 < len(marks) else len(section_text)
+        content = section_text[start:end]
+        kind = m.group(1).replace("　", "").replace(" ", "")
+
+        marea = _ASAGIRI_LAND_AREA_RE.search(content)
+        area_tsubo = float(marea.group(1).replace(",", "")) if marea else None
+
+        remark_idx = content.find("・")
+        spec_zone = content[:remark_idx] if remark_idx != -1 else content
+        remark = content[remark_idx:].strip() if remark_idx != -1 else ""
+        price_zone = _ASAGIRI_AREA_STRIP_RE.sub(" ", spec_zone)
+        mprice = _ASAGIRI_NUM_RE.search(price_zone)
+        # 価格は基本的に万円の整数だが、まれに小数(例:"99.8")も見られるため四捨五入。
+        price = int(round(float(mprice.group(1).replace(",", "")))) if mprice else None
+
+        # 所在地の上書き情報（「その他の地域」に多い）は価格の直後・最初の「・」より前
+        # （spec_zone側）に出ることがある（例:"...１５０ 富士宮市猪之頭(国立音大別荘地) ・
+        # 木造２階建..."）ため、remarkだけでなくcontent全体を見る。朝霧/西林等の名前付き
+        # 地区の行内に"富士宮市"の再掲は無いため誤爆しない（実測確認済み）。
+        mloc = _ASAGIRI_REMARK_LOC_RE.search(content)
+        location_hint = ("静岡県" + mloc.group(0)) if mloc else None
+        out.append((kind, area_tsubo, price, location_hint, remark))
+    return out
+
+
+def _asagiri_cards(full_text: str, base_url: str, filter_keywords, filters) -> list:
+    out = []
+    marks = list(_ASAGIRI_DISTRICT_RE.finditer(full_text))
+    for i, m in enumerate(marks):
+        start = m.end()
+        end = marks[i + 1].start() if i + 1 < len(marks) else len(full_text)
+        section_text = full_text[start:end]
+        district_loc = ("静岡県" + m.group(2)) if m.group(2) else "静岡県富士宮市"
+
+        for kind, area_tsubo, price, location_hint, remark in _asagiri_listings(section_text):
+            location = location_hint or district_loc
+            if filter_keywords and not any(kw in location for kw in filter_keywords):
+                continue
+            area = round(area_tsubo * TSUBO_TO_SQM, 1) if area_tsubo is not None else None
+            dtype = "中古戸建" if "別荘" in kind else "更地"
+            # 個別詳細URLが無く全件base_url固定のため、_make_recordのkey(url+text)が
+            # 同一地区内の同種別×同所在地(district_loc共有)の複数件で衝突しdedupで
+            # つぶれてしまう。面積・価格を含めてtitleを一意化する（面積・価格まで
+            # 完全一致する行が万一あれば依然として1件に畳まれるが、実害は小さい）。
+            title = f"売{kind} {location} {area_tsubo}坪 {price}万円"
+            out.append(_make_record(base_url, title[:60], price, area, False,
+                                    kind + " " + remark, filters, location=location,
+                                    default_type=dtype))
+    return out
+
+
+def parse_asagiri(first_html, base_url, filter_keywords, filters, session):
+    if "坪" not in first_html or "価格" not in first_html:
+        raise BotBlocked(f"朝霧高原 富士山麓不動産情報 構造変化の疑い（{len(first_html)}B）: {base_url}")
+    soup = BeautifulSoup(first_html, "html.parser")
+    full_text = unicodedata.normalize("NFKC", soup.get_text(" ", strip=True))
+    out = _asagiri_cards(full_text, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[asagiri] cards={len(dedup)}（単一ページ・http限定・テキスト分割方式）")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3409,6 +3508,7 @@ SITE_ADAPTERS = [
     # 済ませ、robots問題解消時に urls.yaml へ追加するだけで有効化できるようにしてある）。
     (lambda sid: sid.startswith("kankocho_ksi"), parse_kankocho_ksi),
     (lambda sid: sid.startswith("foreste_"), parse_foreste),
+    (lambda sid: sid.startswith("asagiri_"), parse_asagiri),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4628,6 +4728,7 @@ const SITE_PREFIXES=[
   {full:'熱海不動産イーズ',short:'イーズ'},
   {full:'しずなび',short:'しずなび'},
   {full:'フォレステ',short:'フォレステ'},
+  {full:'朝霧高原',short:'朝霧高原'},
 ];
 function shortSite(name){
   name=name||'';
