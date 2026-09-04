@@ -5,7 +5,7 @@
 >
 > **現在の正本はこちら:**
 > - 恒久ルール … リポジトリ直下の `CLAUDE.md`
-> - 仕様 … `docs/requirements.md`
+> - 仕様 … `docs/SPEC.md`（決定の理由は `docs/DECISIONS.md`）
 > - 使い方・運用（`--rebuild` 等） … `docs/README.md`
 > - 監視対象URL … `urls.yaml`（唯一のマスタ）
 > - 経緯・判断・教訓 … セッションメモリ（`~/.claude/projects/C--Claude-30-akiya-watch/memory/`）
