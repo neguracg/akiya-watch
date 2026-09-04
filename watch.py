@@ -2791,6 +2791,133 @@ def parse_sest(first_html, base_url, filter_keywords, filters, session) -> list:
 
 
 # ---------------------------------------------------------------------------
+# KSI官公庁オークション 不動産 アダプタ（kankocho.jp/search/real-estate/ tab=camp。
+#   沼津IC圏拡大バッチ2・W2）。既存sources_extraの「官公庁オークション（アットホーム版）
+#   kankocho-athome.jp」とは別運営。**現時点でurls.yamlのtab:campには未登録**
+#   （sources_extraに記録。理由: このサイトのrobots.txtは
+#   `Allow: /search/real-estate/$`で明示許可しているが`Disallow: /search/`が先に
+#   効く構成で、本プロジェクトのrobots_allowed()(Python標準urllib.robotparser)は
+#   `$`終端アンカー・最長一致優先を解釈できずDisallowのプレフィックス一致が勝つため
+#   can_fetch()がFalseを返す＝run()のrobots_allowed()チェックで弾かれ本関数まで
+#   到達しない。共有robots_allowed()の修正は全サイトのrobots判定に影響するため
+#   W2のスコープ外＝オーケストレータ判断待ち。本関数は robots制限が解ければ即座に
+#   有効化できるよう実装・単体テスト(tests/test_watch_units.py)のみ済ませてある）。
+#
+#   本サイトはNext.js(App Router)のSSRページで、可視DOMのカードには土地面積が
+#   出ない（建築年月/建物面積/間取り等の"住宅"欄のみ）ため、代わりにページ内に
+#   埋め込まれたNext.js RSCペイロード（self.__next_f.push(...)。JSON文字列が
+#   \" でエスケープされた状態でHTMLソースにそのまま書かれている）から
+#   price/locationText/landSpace等を正規表現で抜き出す。これは他の全アダプタが
+#   使うBeautifulSoup CSS選択とは方式が異なる特殊ケース（可視DOM側に必要な数値が
+#   存在しないと実測で確認済み・2026-09-05）。
+#   抽出フィールド: title(見出し)/estimateFee(公売の見積・入札開始価格。円単位)/
+#   price(現在の最高入札額。入札前はnull)/category(REAL_ESTATE以外は除外)/
+#   locationText(所在地)/landSpace(土地面積・㎡)。価格は円→万円（万円未満四捨五入）。
+#   詳細URL = https://kankocho.jp/items/{id}/（DOM内 href="/items/{id}/" と一致確認済み）。
+#   ページャ = ?page=N&pageSize=50（実測92件・2頁。KANKOCHO_KSI_MAX_PAGESで頭打ち）。
+# ---------------------------------------------------------------------------
+
+KANKOCHO_KSI_MAX_PAGES = 4  # 実測92件/pageSize=50→2頁で足りるが余裕を持たせる
+
+_KSI_RECORD_RE = re.compile(r'"id":(\d+),"auctionId":\d+')
+
+
+def _ksi_clean(s):
+    """RSCペイロード内の \\t/\\n 等の残存エスケープを整形して読める文字列にする。"""
+    if s is None:
+        return None
+    return re.sub(r"\s+", " ", s.replace("\\t", " ").replace("\\n", " ")).strip()
+
+
+def _ksi_records(html: str, base_url: str) -> list:
+    """1ページ分のHTMLから (url, title, price_man, area_sqm, location) のリストを返す。
+
+    RSCペイロードは \\" でエスケープされたJSON文字列としてHTMLソースにそのまま
+    含まれるため、\\" → " へ機械的に戻してから通常のJSONキーとして正規表現で拾う
+    （フルパースはNext.jsの内部wire形式が非JSONのため行わない。個々のフィールド値は
+    正しいJSON文字列表現のまま得られるので、キー単位の抽出には支障ない）。
+    """
+    unescaped = html.replace('\\"', '"')
+    marks = list(_KSI_RECORD_RE.finditer(unescaped))
+    out = []
+    for i, m in enumerate(marks):
+        start = m.start()
+        end = marks[i + 1].start() if i + 1 < len(marks) else min(len(unescaped), start + 20000)
+        chunk = unescaped[start:end]
+        rid = m.group(1)
+
+        def find1(pattern, _chunk=chunk):
+            mm = re.search(pattern, _chunk)
+            return mm.group(1) if mm else None
+
+        category = find1(r'"category":"([A-Z_]+)"')
+        if category is not None and category != "REAL_ESTATE":
+            continue
+        title = _ksi_clean(find1(r'"title":"(.*?)","estimateFee"'))
+        fee = find1(r'"estimateFee":(\d+)')
+        cur_price = find1(r'"price":(\d+)')
+        location = _ksi_clean(find1(r'"locationText":"(.*?)"'))
+        landspace = find1(r'"landSpace":([\d.]+)')
+
+        yen = cur_price or fee
+        price = max(1, int(round(float(yen) / 10000))) if yen else None
+        area = round(float(landspace), 1) if landspace else None
+        url = urllib.parse.urljoin(base_url, f"/items/{rid}/")
+        out.append((url, title, price, area, location))
+    return out
+
+
+def parse_kankocho_ksi(first_html, base_url, filter_keywords, filters, session):
+    recs = _ksi_records(first_html, base_url)
+    if not recs and len(first_html) < 12000:
+        raise BotBlocked(f"KSI官公庁オークション ソフトブロック（{len(first_html)}B）: {base_url}")
+
+    def _to_props(rec_list):
+        rows = []
+        for url, title, price, area, location in rec_list:
+            if filter_keywords and not any(kw in (location or "") for kw in filter_keywords):
+                continue
+            flag_text = (title or "") + " " + (location or "")
+            rows.append(_make_record(url, title or location or url, price, area, False,
+                                    flag_text, filters, location=location or "",
+                                    default_type="更地"))
+        return rows
+
+    total_seen = len(recs)
+    out = _to_props(recs)
+
+    parsed = urllib.parse.urlparse(base_url)
+    qs = urllib.parse.parse_qs(parsed.query)
+    page_size = qs.get("pageSize", ["50"])[0]
+    page = 1
+    while page < KANKOCHO_KSI_MAX_PAGES:
+        if not _site_time_left():
+            log.warning(f"[kankocho_ksi] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        page += 1
+        time.sleep(random.uniform(2, 5))
+        nxt = urllib.parse.urlunparse(parsed._replace(
+            query=urllib.parse.urlencode({"page": page, "pageSize": page_size})))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[kankocho_ksi] page {page} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        page_recs = _ksi_records(html, base_url)
+        if not page_recs:
+            break
+        total_seen += len(page_recs)
+        out.extend(_to_props(page_recs))
+
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[kankocho_ksi] 全国{total_seen}件中 圏内一致{len(dedup)}件（{page}ページ）")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3220,6 +3347,10 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
     (lambda sid: sid.startswith("ez_"), parse_ez),
     (lambda sid: sid.startswith("sest_"), parse_sest),
+    # kankocho_ksi: 現在urls.yamlのsites(tab:camp)には未登録(robots制限。sources_extra
+    # 参照)。sites側にidが無いためget_adapter()経由では実際には呼ばれない（登録のみ
+    # 済ませ、robots問題解消時に urls.yaml へ追加するだけで有効化できるようにしてある）。
+    (lambda sid: sid.startswith("kankocho_ksi"), parse_kankocho_ksi),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),

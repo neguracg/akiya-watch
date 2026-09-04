@@ -1292,6 +1292,13 @@ sources_extra:
     status: フェーズ2
     http: 200(JS)
     note: "React等のJS SPAで静的取得は0件。都道府県パラメータ(m_adr[]/pref)を変えても反応なし＝API化が必要。ブラウザ自動化候補。"
+  - channel: "⑥"
+    name: KSI官公庁オークション 不動産（公売・現状渡し）
+    kind: 公売/山林・土地
+    url: "https://kankocho.jp/search/real-estate/?page=1&pageSize=50"
+    status: 保留
+    http: 200
+    note: "kankocho-athome.jp(アットホーム版・上記・JS SPA)とは別運営のKSI直営サイト。静的HTML(Next.js SSR)で取得可・parse_kankocho_ksi実装済み(watch.py。単体テストtests/test_watch_units.pyで価格/面積抽出を検証済み)で2026-09-05実測=総92件・1頁50件、南都留郡鳴沢村10872番1 11万円/233m2・静岡県伊豆市土肥804番地 185万円/4774.12m2 等tier該当を実データで確認。**tab: campへ未登録の理由**: このURLのrobots.txtは`Allow: /search/real-estate/$`で明示許可しているが`Disallow: /search/`が先に効く構成で、本プロジェクトのrobots_allowed()(Python標準urllib.robotparserをそのまま使用)は`$`終端アンカーおよび最長一致優先を解釈できないため`Disallow: /search/`のプレフィックス一致が勝ち、can_fetch()がFalseを返す(watch.robots_allowed()で実測確認済み)。robots_allowed()の$アンカー対応は他の全サイトのrobots判定に影響する共通基盤の変更のためW2のスコープ外と判断し保留。有効化するには①サイト側robots.txtの変更を待つ、②robots_allowed()を$アンカー対応させる(要レビュー)、のいずれかが必要（オーケストレータ判断待ち）。"
   - channel: "④"
     name: みんなの0円物件
     kind: 0円譲渡
