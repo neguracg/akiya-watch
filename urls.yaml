@@ -876,6 +876,75 @@ sites:
     tab: camp
     note: "追加調査分(2026-09-05実測 HTTP 200・84,546B)・10件/頁・18頁中(3頁=30件まで取得。全9市町中最多在庫)。"
 
+  # ---- しずなび（s-est.co.jp。セキスイハイム東海グループ。市町別URLのため
+  #   filter_keywords不要。8市町とも2026-09-05 Invoke-WebRequest実測HTTP 200
+  #   ((b)確認は docs/research/20260905_camp_sites_candidates.md #4で完了済み)。
+  #   ページャは li.next>a[href] のプレーンURL(AJAXなし。SEST_MAX_PAGES=6まで追従)----
+  - id: sest_fujinomiyashi
+    name: しずなび 富士宮市 土地
+    url: "https://buy.s-est.co.jp/area/fujinomiyashi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(303,643B)・article.buy-results__item 25件・2頁。富士宮市青木平173 200万円 476.92m2を含む。"
+  - id: sest_susonoshi
+    name: しずなび 裾野市 土地
+    url: "https://buy.s-est.co.jp/area/susonoshi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(206,808B)・5件・1頁。"
+  - id: sest_gotenbashi
+    name: しずなび 御殿場市 土地
+    url: "https://buy.s-est.co.jp/area/gotenbashi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(188,940B)・2件・1頁。"
+  - id: sest_tagatagun
+    name: しずなび 田方郡函南町 土地
+    url: "https://buy.s-est.co.jp/area/tagatagun/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(233,812B)・8件・1頁。函南町仁田4-1 850万円 200.58m2(古家付土地)を含む。"
+  - id: sest_izushi
+    name: しずなび 伊豆市 土地
+    url: "https://buy.s-est.co.jp/area/izushi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(204,056B)・4件・1頁。伊豆市佐野317-4 450万円 305.64m2を含む。"
+  - id: sest_izunokunishi
+    name: しずなび 伊豆の国市 土地
+    url: "https://buy.s-est.co.jp/area/izunokunishi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・212,822B)・5件・1頁。"
+  - id: sest_fujishi
+    name: しずなび 富士市 土地
+    url: "https://buy.s-est.co.jp/area/fujishi/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・330,825B)・29件・2頁。8市町中最多在庫。"
+  - id: sest_shuntogun_oyamacho
+    name: しずなび 駿東郡小山町 土地
+    url: "https://buy.s-est.co.jp/area/shuntogun-oyamacho/land/"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・182,504B)・1件・1頁。"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ

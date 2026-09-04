@@ -2702,6 +2702,95 @@ def parse_sumaimy_land(first_html, base_url, filter_keywords, filters, session) 
 
 
 # ---------------------------------------------------------------------------
+# しずなび（s-est） アダプタ（セキスイハイム東海グループ。buy.s-est.co.jp/area/<slug>/land/
+#   tab=camp。沼津IC圏拡大バッチ2・W2）。カード = article.buy-results__item。詳細URL/
+#   タイトル = h2>a[href]。属性 = a.details 内の div.details__item（div.title→div.text
+#   のペア。価格/所在地/土地面積のラベル文字列で判定し、クラス名(cost/address/
+#   floor-plan等。floor-plansは中古住宅一覧だと間取り欄に化ける可能性がある共用テンプレ
+#   なので依存しない)には依存しない）。ページャ = li.next>a[href]（プレーンURL・AJAXなし。
+#   実測最大29件/2頁のためSEST_MAX_PAGESは余裕を見て6）。市町別URLのためfilter_keywords不要。
+# ---------------------------------------------------------------------------
+
+SEST_MAX_PAGES = 6
+
+
+def _sest_fields(article) -> dict:
+    fields = {}
+    for item in article.select("div.details__item"):
+        title_el = item.select_one("div.title")
+        text_el = item.select_one("div.text")
+        if title_el and text_el:
+            fields.setdefault(title_el.get_text(strip=True), text_el.get_text(" ", strip=True))
+    return fields
+
+
+def _sest_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("article.buy-results__item"):
+        title_a = card.select_one("h2 a[href]")
+        if not title_a:
+            continue
+        url = normalize_url(title_a["href"], base_url)
+        title = title_a.get_text(" ", strip=True)
+
+        fields = _sest_fields(card)
+        location = fields.get("所在地", "").strip()
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        price = parse_price_man(fields.get("価格", ""))
+        area = _first_sqm(fields.get("土地面積", "")) or _first_sqm(fields.get("面積", ""))
+        kind_el = card.select_one("div.mark div.property")
+        kind = kind_el.get_text(strip=True) if kind_el else ""
+        dtype = "中古戸建" if ("戸建" in kind or "住宅" in kind) else "更地"
+        card_text = card.get_text(" ", strip=True)
+        out.append(_make_record(url, title[:60] or location, price, area, False,
+                                card_text, filters, location=location, default_type=dtype))
+    return out
+
+
+def _sest_next_url(soup, base_url):
+    a = soup.select_one("li.next a[href]")
+    return normalize_url(a["href"], base_url) if a else None
+
+
+def parse_sest(first_html, base_url, filter_keywords, filters, session) -> list:
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "article.buy-results__item"):
+        raise BotBlocked(f"しずなび ソフトブロック（{len(first_html)}B）: {base_url}")
+
+    out = _sest_cards(soup, base_url, filter_keywords, filters)
+    seen_urls = {base_url}
+    page = 1
+    nxt = _sest_next_url(soup, base_url)
+    while nxt and nxt not in seen_urls and page < SEST_MAX_PAGES:
+        if not _site_time_left():
+            log.warning(f"[sest] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        seen_urls.add(nxt)
+        page += 1
+        time.sleep(random.uniform(2, 5))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[sest] page {page} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        nsoup = BeautifulSoup(html, "html.parser")
+        cards = _sest_cards(nsoup, base_url, filter_keywords, filters)
+        if not cards:
+            break
+        out.extend(cards)
+        nxt = _sest_next_url(nsoup, base_url)
+
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[sest] cards={len(dedup)} ({page}ページ・{base_url})")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3130,6 +3219,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("furusato_"), parse_furusato),
     (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
     (lambda sid: sid.startswith("ez_"), parse_ez),
+    (lambda sid: sid.startswith("sest_"), parse_sest),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4347,6 +4437,7 @@ const SITE_PREFIXES=[
   {full:'静岡県営住宅',short:'県営住宅'},
   {full:'ビレッジハウス',short:'ビレッジ'},
   {full:'熱海不動産イーズ',short:'イーズ'},
+  {full:'しずなび',short:'しずなび'},
 ];
 function shortSite(name){
   name=name||'';
