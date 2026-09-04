@@ -4014,7 +4014,17 @@ def run(dry_run: bool = False, only: str = "") -> int:
             else:
                 time.sleep(random.uniform(2, 5))
 
-    emit_reports(results, config, filters, disappeared, dry_run)
+    # 本番成果物(reports/index.html・日付別html/csv・SOURCES.md)を書くのは「引数なしの
+    # 通常実行」だけにする（F・2026-09-05）。--only は対象サイトだけの部分データで
+    # index.html/SOURCES.mdを上書きし他サイトの分を消してしまう実害があり、--dry-run も
+    # 「本番成果物は書かない」側に統一する（docs/SPEC.md §8・docs/BUGLOG.md）。
+    preview = bool(only) or dry_run
+    if preview:
+        log.info(
+            f"--only/--dry-run 指定のためpreview出口(reports/_preview.html)のみに書く"
+            f"（only={only!r} dry_run={dry_run}）。本番成果物は変更しない。"
+        )
+    emit_reports(results, config, filters, disappeared, dry_run, preview=preview)
 
     success = sum(1 for r in results if isinstance(r["http"], int) and r["http"] == 200)
     if fail_count == 0:
@@ -4029,13 +4039,17 @@ def emit_reports(results: list, config: dict, filters: dict, disappeared: list, 
                  preview: bool = False) -> None:
     """レポート出力（html/index/csv/SOURCES.md）を書き出す共通処理。
 
-    通常のクロール実行(run)から呼ばれる（preview=False、既定）。
+    引数なしの通常実行（run(dry_run=False, only="")）だけが preview=False で本番成果物を書く。
 
-    preview=True（--rebuild専用）のときは reports/_preview.html だけを書き、本番成果物
+    preview=True のときは reports/_preview.html だけを書き、本番成果物
     （reports/index.html・日付別html・csv・SOURCES.md）は一切書き換えない・削除もしない
-    （prune_old_reportsも呼ばない）。rebuildはクロールを飛ばした簡易データで作るため、
-    本番を上書きしてはならない（実際に上書き事故が起き git checkout で復元した経緯がある
-    ための安全策。preview_note付きのHTMLを本番同名パスへ絶対に書かないことがこの分岐の目的）。
+    （prune_old_reportsも呼ばない）。呼び出し元は2箇所: ①`--rebuild`（rebuild()。クロール
+    を飛ばした簡易データで作るため本番を上書きしてはならない）②`run()`が`--only`または
+    `--dry-run`を検知したとき（F・2026-09-05。`--only`は対象サイトだけの部分データで
+    index.html/SOURCES.mdを上書きし他サイトの分を消してしまう実害が実際に起きたため、
+    本番成果物を書くのは「引数なしの通常実行」だけに一本化した。docs/SPEC.md §8・
+    docs/BUGLOG.md）。preview_note付きのHTMLを本番同名パスへ絶対に書かないことが
+    この分岐の目的（過去に確認用の再生成が本番を劣化させて上書きした事故がある）。
     """
     if preview:
         html_doc = build_html_report(results, filters, disappeared, dry_run,
@@ -5897,8 +5911,17 @@ def write_csv_report(path: Path, results: list) -> None:
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="akiya-watch")
-    parser.add_argument("--dry-run", action="store_true", help="スナップショットを保存しない")
-    parser.add_argument("--only", default="", help="site id に部分一致するサイトだけ巡回（例: suumo_）")
+    parser.add_argument(
+        "--dry-run", action="store_true",
+        help="スナップショットを保存しない。本番成果物(index.html/日付別html/csv/"
+             "SOURCES.md)も書かず reports/_preview.html だけに書く（F・2026-09-05）。",
+    )
+    parser.add_argument(
+        "--only", default="",
+        help="site id に部分一致するサイトだけ巡回（例: suumo_）。対象サイトだけの"
+             "部分データで本番成果物を上書きしないよう、--dry-runと同じく"
+             "reports/_preview.html だけに書く（F・2026-09-05）。",
+    )
     parser.add_argument(
         "--rebuild", action="store_true",
         help="クロールせず、保存済みスナップショット(data/snapshots)から確認用ページ"
