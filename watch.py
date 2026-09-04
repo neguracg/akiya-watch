@@ -1925,7 +1925,11 @@ def _ez_fields(card) -> dict:
     if dl:
         for dt, dd in zip(dl.find_all("dt"), dl.find_all("dd")):
             k = dt.get_text(strip=True).rstrip("：:")
-            fields.setdefault(k, dd.get_text(" ", strip=True))
+            # セパレータ無し(strip=Trueのみ)で結合する。区切り文字" "を入れると
+            # "495m<sup>2</sup>"のような面積セルが「495m 2」とスペースで分断され、
+            # _first_sqmの"m2"パターンに一致しなくなる（実装中の自己テストで発覚。
+            # 「土地」欄は坪の併記があれば偶然そちらの換算値で救われて気づきにくい）。
+            fields.setdefault(k, dd.get_text(strip=True))
     return fields
 
 
@@ -1950,7 +1954,8 @@ def _ez_cards(soup, base_url, filter_keywords, filters) -> list:
 
         area = _first_sqm(fields.get("土地", "")) if "土地" in fields else None
         if area is None:
-            area = _first_sqm(card.get_text(" ", strip=True))
+            # フォールバックもセパレータ無し(上のfields同様、sup分断対策)。
+            area = _first_sqm(card.get_text(strip=True))
 
         dtype = "中古戸建" if ("戸建" in listate or "マンション" in listate) else "更地"
         card_text = card.get_text(" ", strip=True)
@@ -2720,7 +2725,11 @@ def _sest_fields(article) -> dict:
         title_el = item.select_one("div.title")
         text_el = item.select_one("div.text")
         if title_el and text_el:
-            fields.setdefault(title_el.get_text(strip=True), text_el.get_text(" ", strip=True))
+            # セパレータ無し。土地面積セルが"476.92m<sup>2</sup>（144.26坪）"のように
+            # <sup>タグを含み、" "区切りだと"m 2"に分断されて_first_sqmが一致しなく
+            # なる（実装中の自己テストで発覚。坪の併記があると換算値で偶然救われて
+            # 気づきにくい）。
+            fields.setdefault(title_el.get_text(strip=True), text_el.get_text(strip=True))
     return fields
 
 
@@ -3070,6 +3079,91 @@ def parse_asagiri(first_html, base_url, filter_keywords, filters, session):
             seen.add(r["key"])
             dedup.append(r)
     log.info(f"[asagiri] cards={len(dedup)}（単一ページ・http限定・テキスト分割方式）")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 東急リゾート 山中湖・河口湖・その他富士 土地絞込 アダプタ（ストレッチ。
+#   tokyu-resort.co.jp tab=camp）。カード = div.tb-list（内側にtableを持つ）。
+#   詳細URL = card内 a[href]（先頭の<a>がtable全体を包む）。物件名(tr.tr-header th。
+#   「物件詳細・写真をもっと見る」のp.link-detail02を除いた残りテキスト)には市町名が
+#   入る場合（例:"忍野村内野"）とブランド名のみの場合（例:"丸紅・富士桜別荘地"）が
+#   混在する。「エリア」列（価格セルの直前td）は山中湖/河口湖のみの粗い区分で、
+#   **実測で"忍野村内野"がエリア列="山中湖"に分類される例を確認**＝エリア列だけでは
+#   市町を確定できない。そのためエリア略称をtier表記へ変換(_TOKYU_AREA_TO_TIER)した
+#   うえで、物件名+catch文+エリア変換値を全て連結してfilter_keywords照合する
+#   （エリア誤帰属があっても隣接tier1町同士のためtier合否には実害が無い）。
+#   価格・面積はASCII表記でparse_price_man/_first_sqmがそのまま使える(zenkaku正規化
+#   不要)。単一ページ（実測16件・次頁リンク/件数表示なし=全件と判断）。
+# ---------------------------------------------------------------------------
+
+_TOKYU_AREA_TO_TIER = {
+    "山中湖": "山中湖村", "河口湖": "富士河口湖町", "忍野": "忍野村",
+    "鳴沢": "鳴沢村", "富士吉田": "富士吉田市", "西桂": "西桂町",
+}
+
+
+def _tokyu_resort_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.tb-list"):
+        a = card.find("a", href=True)
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+
+        header_th = card.select_one("tr.tr-header th")
+        prop_name = ""
+        if header_th:
+            label = header_th.select_one("p.link-detail02")
+            if label:
+                label.extract()
+            prop_name = header_th.get_text(" ", strip=True)
+
+        catch_el = card.select_one("td.catch")
+        catch = catch_el.get_text(" ", strip=True) if catch_el else ""
+
+        price_td = card.select_one("td.price01")
+        area_label = ""
+        if price_td:
+            prev1 = price_td.find_previous_sibling("td")
+            if prev1:
+                area_label = prev1.get_text(strip=True)
+        tier_hint = _TOKYU_AREA_TO_TIER.get(area_label, area_label)
+
+        hay = " ".join((prop_name, catch, tier_hint))
+        if filter_keywords and not any(kw in hay for kw in filter_keywords):
+            continue
+        # locationはmachi判定(extract_machi)にも使われるため、tier_hintを常に
+        # prop_nameへ連結すると"忍野村内野"のような正確な市町名入り物件名でも
+        # _MACHI_NAMESの優先順位次第でtier_hint側(実測で確認した誤帰属の"山中湖"等)に
+        # 引っ張られてしまう（実装中の自己テストで発覚）。prop_name自体で市町が
+        # 確定できる時はtier_hintを混ぜず、確定できない時（ブランド名のみのカード）
+        # だけtier_hintを補う。
+        location = prop_name if extract_machi(prop_name) else " ".join(x for x in (prop_name, tier_hint) if x)
+
+        price = parse_price_man(price_td.get_text(" ", strip=True)) if price_td else None
+        area_td = price_td.find_next_sibling("td") if price_td else None
+        # セパレータ無し。"3,358.19m<sup>2</sup>"のように<sup>タグを含み、" "区切り
+        # だと"m 2"に分断され_first_sqmが一致しなくなる（坪の併記が無いため
+        # e-z/sestと違いフォールバックも効かず常にNoneになっていたのを自己テストで発見）。
+        area = _first_sqm(area_td.get_text(strip=True)) if area_td else None
+        card_text = card.get_text(" ", strip=True)
+        out.append(_make_record(url, prop_name or location, price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_tokyu_resort(first_html, base_url, filter_keywords, filters, session):
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.tb-list"):
+        raise BotBlocked(f"東急リゾート ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _tokyu_resort_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[tokyu_resort] cards={len(dedup)}（単一ページ・土地絞込）")
     return dedup
 
 
@@ -3509,6 +3603,7 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("kankocho_ksi"), parse_kankocho_ksi),
     (lambda sid: sid.startswith("foreste_"), parse_foreste),
     (lambda sid: sid.startswith("asagiri_"), parse_asagiri),
+    (lambda sid: sid.startswith("tokyu_resort_"), parse_tokyu_resort),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4729,6 +4824,7 @@ const SITE_PREFIXES=[
   {full:'しずなび',short:'しずなび'},
   {full:'フォレステ',short:'フォレステ'},
   {full:'朝霧高原',short:'朝霧高原'},
+  {full:'東急リゾート',short:'東急リゾート'},
 ];
 function shortSite(name){
   name=name||'';
