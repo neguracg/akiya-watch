@@ -262,5 +262,60 @@
     "text": "4号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
     "removed_on": "2026-08-24",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21532251/|開放的な眺望と日当たり良好な土地。落ち着いた街並みを好む方におすすめです。": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-02",
+    "location": "静岡県三島市芙蓉台３",
+    "price_man": 1029,
+    "area_sqm": 359.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21532251/",
+    "text": "開放的な眺望と日当たり良好な土地。落ち着いた街並みを好む方におすすめです。",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491708/|2号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-09-02",
+    "location": "静岡県三島市萩",
+    "price_man": 1680,
+    "area_sqm": 113.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491708/",
+    "text": "2号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491709/|3号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-09-02",
+    "location": "静岡県三島市萩",
+    "price_man": 1880,
+    "area_sqm": 134.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491709/",
+    "text": "3号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20556749/|松本 1880万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-09-02",
+    "location": "静岡県三島市松本",
+    "price_man": 1880,
+    "area_sqm": 180.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20556749/",
+    "text": "松本 1880万円",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491711/|5号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-09-02",
+    "location": "静岡県三島市萩",
+    "price_man": 2280,
+    "area_sqm": 162.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21491711/",
+    "text": "5号地☆JR御殿場線『長泉なめり』駅徒歩17分建築条件なし",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

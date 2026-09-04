@@ -703,28 +703,6 @@
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_73562338/|地震に無傷！RC構造の百年住宅の中古住宅！": {
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
-    "location": "静岡県沼津市岡一色",
-    "price_man": 4280,
-    "area_sqm": 150.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_73562338/",
-    "text": "地震に無傷！RC構造の百年住宅の中古住宅！",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76102489/|沼津駅南口まで徒歩4分！屋上から富士山や夏の花火大会が見れます。": {
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
-    "location": "静岡県沼津市大手町５",
-    "price_man": 6000,
-    "area_sqm": 188.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_76102489/",
-    "text": "沼津駅南口まで徒歩4分！屋上から富士山や夏の花火大会が見れます。",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20772933/|【内覧可能＊ご予約受付中】お気軽にお問合せください": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-08-29",
@@ -868,15 +846,26 @@
     "removed_on": "2026-09-01",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21014961/|根古屋（原駅） 1330万円": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-09-01",
-    "location": "静岡県沼津市根古屋",
-    "price_man": 1330,
-    "area_sqm": 199.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21014961/",
-    "text": "根古屋（原駅） 1330万円",
-    "removed_on": "2026-09-01",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79055873/|☆人気のファインアヴェニューシリーズ♪オール電化や吹抜け等の充実の設備。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-09-02",
+    "location": "静岡県沼津市原",
+    "price_man": 2980,
+    "area_sqm": 172.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79055873/",
+    "text": "☆人気のファインアヴェニューシリーズ♪オール電化や吹抜け等の充実の設備。",
+    "removed_on": "2026-09-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78936722/|【気になったら即見学可】新築戸建て×ローン相談受付中！お待ちしております♪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-09-02",
+    "location": "静岡県沼津市下香貫西村",
+    "price_man": 4480,
+    "area_sqm": 269.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78936722/",
+    "text": "【気になったら即見学可】新築戸建て×ローン相談受付中！お待ちしております♪",
+    "removed_on": "2026-09-03",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }
