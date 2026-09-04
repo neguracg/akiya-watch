@@ -982,6 +982,19 @@ sites:
     filter_keywords: "@camp_tiers"
     note: "2026-09-05実測 HTTP 200(126,145B)。div.tb-list 16件・単一ページ(次頁リンク/件数表示なし=全件と判断)。物件名(tr.tr-header th)に市町名が入る場合(例:忍野村内野)とブランド名のみ(例:丸紅・富士桜別荘地)の場合が混在し、後者は「エリア」列(価格セル直前td)の粗い区分(山中湖/河口湖のみ)でしか判定できない。**実測で「忍野村内野」がエリア列=「山中湖」に分類される例を確認**＝エリア列だけでは市町を確定できないため、エリア略称→tier表記への変換表(_TOKYU_AREA_TO_TIER)を噛ませたうえで物件名+catch文+エリア変換値を全て連結してfilter_keywords照合する(エリア誤帰属があっても隣接tier1町同士のためtier合否には実害なし)。価格・面積はASCII表記でparse_price_man/_first_sqmがそのまま使える。山中湖村平野8,800万円/3,358.19m2(価格上限3000万円超で不適合)、忍野村内野3,400万円/9,160m2、丸紅・富士桜別荘地(河口湖)1,650万円〜510万円の複数件を実データで確認。"
 
+  # ---- W3(2026-09-05・消込表#472)で有効化: KSI官公庁オークション。W2で保留していた
+  #   理由(robots_allowed()が$終端アンカーを解釈できずAllowを読み落とし)をrobots_allowed()
+  #   自体のRFC 9309準拠化で解消した ----
+  - id: kankocho_ksi_zenkoku
+    name: KSI官公庁オークション 不動産（公売・現状渡し）
+    url: "https://kankocho.jp/search/real-estate/"
+    status: verified
+    channel: "⑥"
+    kind: 公売/山林・土地
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "robots: /search/real-estate/$ のみ許可＝クエリ無し・1頁目のみ(2頁目以降・?page=等クエリ付きはDisallow: /search/が勝ち不許可。robots_allowed()で実測確認済み)。2026-09-05実測 HTTP 200(1,010,468B)・1頁目REAL_ESTATE 50件・圏内一致3件(南都留郡鳴沢村10872番1 11万円/233m2、南都留郡鳴沢村11074番33 31万円/167m2、静岡県伊豆市土肥804番地 185万円/4774.1m2=適合)。parse_kankocho_ksiはページャ追従・pageSize付与をしない(2頁目以降はDisallowのため)。"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ
@@ -1329,13 +1342,6 @@ sources_extra:
     status: フェーズ2
     http: 200(JS)
     note: "React等のJS SPAで静的取得は0件。都道府県パラメータ(m_adr[]/pref)を変えても反応なし＝API化が必要。ブラウザ自動化候補。"
-  - channel: "⑥"
-    name: KSI官公庁オークション 不動産（公売・現状渡し）
-    kind: 公売/山林・土地
-    url: "https://kankocho.jp/search/real-estate/?page=1&pageSize=50"
-    status: 保留
-    http: 200
-    note: "kankocho-athome.jp(アットホーム版・上記・JS SPA)とは別運営のKSI直営サイト。静的HTML(Next.js SSR)で取得可・parse_kankocho_ksi実装済み(watch.py。単体テストtests/test_watch_units.pyで価格/面積抽出を検証済み)で2026-09-05実測=総92件・1頁50件、南都留郡鳴沢村10872番1 11万円/233m2・静岡県伊豆市土肥804番地 185万円/4774.12m2 等tier該当を実データで確認。**tab: campへ未登録の理由**: このURLのrobots.txtは`Allow: /search/real-estate/$`で明示許可しているが`Disallow: /search/`が先に効く構成で、本プロジェクトのrobots_allowed()(Python標準urllib.robotparserをそのまま使用)は`$`終端アンカーおよび最長一致優先を解釈できないため`Disallow: /search/`のプレフィックス一致が勝ち、can_fetch()がFalseを返す(watch.robots_allowed()で実測確認済み)。robots_allowed()の$アンカー対応は他の全サイトのrobots判定に影響する共通基盤の変更のためW2のスコープ外と判断し保留。有効化するには①サイト側robots.txtの変更を待つ、②robots_allowed()を$アンカー対応させる(要レビュー)、のいずれかが必要（オーケストレータ判断待ち）。"
   - channel: "④"
     name: みんなの0円物件
     kind: 0円譲渡

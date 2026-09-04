@@ -2903,17 +2903,19 @@ def parse_sest(first_html, base_url, filter_keywords, filters, session) -> list:
 
 
 # ---------------------------------------------------------------------------
-# KSI官公庁オークション 不動産 アダプタ（kankocho.jp/search/real-estate/ tab=camp。
-#   沼津IC圏拡大バッチ2・W2）。既存sources_extraの「官公庁オークション（アットホーム版）
-#   kankocho-athome.jp」とは別運営。**現時点でurls.yamlのtab:campには未登録**
-#   （sources_extraに記録。理由: このサイトのrobots.txtは
-#   `Allow: /search/real-estate/$`で明示許可しているが`Disallow: /search/`が先に
-#   効く構成で、本プロジェクトのrobots_allowed()(Python標準urllib.robotparser)は
-#   `$`終端アンカー・最長一致優先を解釈できずDisallowのプレフィックス一致が勝つため
-#   can_fetch()がFalseを返す＝run()のrobots_allowed()チェックで弾かれ本関数まで
-#   到達しない。共有robots_allowed()の修正は全サイトのrobots判定に影響するため
-#   W2のスコープ外＝オーケストレータ判断待ち。本関数は robots制限が解ければ即座に
-#   有効化できるよう実装・単体テスト(tests/test_watch_units.py)のみ済ませてある）。
+# KSI官公庁オークション 不動産 アダプタ（kankocho.jp/search/real-estate/ tab: camp・
+#   channel⑥。沼津IC圏拡大バッチ2・W2で実装、W3(2026-09-05・消込表#472)で有効化）。
+#   既存sources_extraの「官公庁オークション（アットホーム版）kankocho-athome.jp」とは
+#   別運営。
+#
+#   robots.txt実測: `Disallow: /search/` の後に `Allow: /search/real-estate/$` が
+#   あり、`$`終端アンカーの意味どおり「クエリ無し・1ページ目のみ」を明示許可して
+#   いる（2ページ目以降・クエリ付きURLはDisallow側が勝ち許可されない。W2時点の
+#   robots_allowed()はurllib.robotparser製で`$`を解釈できずこの明示許可を読めな
+#   かったため保留していたが、W3でrobots_allowed()自体をRFC 9309準拠に置き換えて
+#   解消した。docs/BUGLOG.md）。urls.yamlのURLはこの許可範囲ぴったりの
+#   `https://kankocho.jp/search/real-estate/`（クエリ無し）に固定し、本関数は
+#   ページャ追従・pageSize付与を行わない（2ページ目以降はrobots.Disallowのため）。
 #
 #   本サイトはNext.js(App Router)のSSRページで、可視DOMのカードには土地面積が
 #   出ない（建築年月/建物面積/間取り等の"住宅"欄のみ）ため、代わりにページ内に
@@ -2926,10 +2928,7 @@ def parse_sest(first_html, base_url, filter_keywords, filters, session) -> list:
 #   price(現在の最高入札額。入札前はnull)/category(REAL_ESTATE以外は除外)/
 #   locationText(所在地)/landSpace(土地面積・㎡)。価格は円→万円（万円未満四捨五入）。
 #   詳細URL = https://kankocho.jp/items/{id}/（DOM内 href="/items/{id}/" と一致確認済み）。
-#   ページャ = ?page=N&pageSize=50（実測92件・2頁。KANKOCHO_KSI_MAX_PAGESで頭打ち）。
 # ---------------------------------------------------------------------------
-
-KANKOCHO_KSI_MAX_PAGES = 4  # 実測92件/pageSize=50→2頁で足りるが余裕を持たせる
 
 _KSI_RECORD_RE = re.compile(r'"id":(\d+),"auctionId":\d+')
 
@@ -2980,52 +2979,31 @@ def _ksi_records(html: str, base_url: str) -> list:
 
 
 def parse_kankocho_ksi(first_html, base_url, filter_keywords, filters, session):
+    """1ページ目のみ処理する（robots: `Allow: /search/real-estate/$` の許可範囲が
+    クエリ無し・1ページ目のみのため、ページャ追従・pageSize付与はしない。W3・
+    2026-09-05）。sessionはアダプタ契約(§9)上の必須引数だが本関数では未使用。"""
     recs = _ksi_records(first_html, base_url)
     if not recs and len(first_html) < 12000:
         raise BotBlocked(f"KSI官公庁オークション ソフトブロック（{len(first_html)}B）: {base_url}")
 
-    def _to_props(rec_list):
-        rows = []
-        for url, title, price, area, location in rec_list:
-            if filter_keywords and not any(kw in (location or "") for kw in filter_keywords):
-                continue
-            flag_text = (title or "") + " " + (location or "")
-            rows.append(_make_record(url, title or location or url, price, area, False,
-                                    flag_text, filters, location=location or "",
-                                    default_type="更地"))
-        return rows
-
-    total_seen = len(recs)
-    out = _to_props(recs)
-
-    parsed = urllib.parse.urlparse(base_url)
-    qs = urllib.parse.parse_qs(parsed.query)
-    page_size = qs.get("pageSize", ["50"])[0]
-    page = 1
-    while page < KANKOCHO_KSI_MAX_PAGES:
-        if not _site_time_left():
-            log.warning(f"[kankocho_ksi] サイト時間予算超過でページ追従打ち切り page={page}")
-            break
-        page += 1
-        time.sleep(random.uniform(2, 5))
-        nxt = urllib.parse.urlunparse(parsed._replace(
-            query=urllib.parse.urlencode({"page": page, "pageSize": page_size})))
-        code, html = fetch(nxt, session)
-        if code != 200:
-            log.warning(f"[kankocho_ksi] page {page} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
-            break
-        page_recs = _ksi_records(html, base_url)
-        if not page_recs:
-            break
-        total_seen += len(page_recs)
-        out.extend(_to_props(page_recs))
+    rows = []
+    for url, title, price, area, location in recs:
+        if filter_keywords and not any(kw in (location or "") for kw in filter_keywords):
+            continue
+        flag_text = (title or "") + " " + (location or "")
+        rows.append(_make_record(url, title or location or url, price, area, False,
+                                flag_text, filters, location=location or "",
+                                default_type="更地"))
 
     seen, dedup = set(), []
-    for r in out:
+    for r in rows:
         if r["key"] not in seen:
             seen.add(r["key"])
             dedup.append(r)
-    log.info(f"[kankocho_ksi] 全国{total_seen}件中 圏内一致{len(dedup)}件（{page}ページ）")
+    log.info(
+        f"[kankocho_ksi] 全国{len(recs)}件中 圏内一致{len(dedup)}件"
+        "（1頁のみ。robotsのAllow範囲外の2頁目以降は追従しない）"
+    )
     return dedup
 
 
@@ -3697,9 +3675,9 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("shinrin_"), parse_shinrin),
     (lambda sid: sid.startswith("ez_"), parse_ez),
     (lambda sid: sid.startswith("sest_"), parse_sest),
-    # kankocho_ksi: 現在urls.yamlのsites(tab:camp)には未登録(robots制限。sources_extra
-    # 参照)。sites側にidが無いためget_adapter()経由では実際には呼ばれない（登録のみ
-    # 済ませ、robots問題解消時に urls.yaml へ追加するだけで有効化できるようにしてある）。
+    # kankocho_ksi: W3(2026-09-05)でurls.yaml sites(tab:camp)へ登録し有効化済み
+    # （id: kankocho_ksi_zenkoku）。robots制限で保留していた経緯はアダプタ本体の
+    # コメント参照。
     (lambda sid: sid.startswith("kankocho_ksi"), parse_kankocho_ksi),
     (lambda sid: sid.startswith("foreste_"), parse_foreste),
     (lambda sid: sid.startswith("asagiri_"), parse_asagiri),
