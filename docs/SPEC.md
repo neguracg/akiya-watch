@@ -56,36 +56,36 @@
 | `id` | サイトの一意識別子。アダプタの割当は`id`の前方一致で行う（§9） |
 | `name` | 画面・`SOURCES.md`の表示名 |
 | `url` | 巡回対象URL（唯一のマスタ。変更手順は`CLAUDE.md`） |
-| `status` | `verified`=実在確認済み／`derived`=導出・要検証（2026-09時点で118件全てverified、derivedは0件） |
+| `status` | `verified`=実在確認済み／`derived`=導出・要検証（2026-09-05時点で140件全てverified、derivedは0件） |
 | `channel` | 出自分類①〜⑧（下表） |
 | `kind` | 対象種別の自由記述（判定には使わない、人間向けの注記） |
 | `tab` | `camp`／`rent`／未指定（=home。更地・家付き両方を出しうる） |
-| `filter_keywords` | 県・郡単位の一覧URLから対象市町だけを絞るキーワード。値 `"@camp_tiers"` は実行時に `filters.camp.tiers`（§3.5）へ展開される（市町別URLでは省略。118件中40件が使用） |
+| `filter_keywords` | 県・郡単位の一覧URLから対象市町だけを絞るキーワード。値 `"@camp_tiers"` は実行時に `filters.camp.tiers`（§3.5）へ展開される（市町別URLでは省略。140件中22件が文字列 `"@camp_tiers"` を使用。スマイミー売土地・しずなびは市町別URLのため不要） |
 | `note` | 実装上の注意（robots実測結果・DOM構造・実測件数等） |
 
-channel別サイト数（2026-09-05時点・118件。沼津IC圏拡大＝消込表#472で101→118）:
+channel別サイト数（2026-09-05時点・140件。沼津IC圏拡大バッチ2＝消込表#472で118→140）:
 
 | channel | 分類 | サイト数 |
 |---|---|---|
-| ① | 公開ポータル型（SUUMO・LIFULL等） | 47 |
+| ① | 公開ポータル型（SUUMO・LIFULL・スマイミー売土地・しずなび等） | 64 |
 | ② | 公的誘導型（空き家バンク等） | 10 |
-| ③-B | 業者内流通型（地場業者自社HP・実装済） | 10 |
+| ③-B | 業者内流通型（地場業者自社HP・実装済） | 12 |
 | ④ | 個人掲示板型（ジモティー・家いちば） | 4 |
 | ⑤ | 強制換価型（競売・公売） | 3 |
 | ⑥ | 公有財産売却型 | 3 |
-| ⑦ | キャンプ場土地専門（山林・田舎暮らし系） | 13 |
+| ⑦ | キャンプ場土地専門（山林・田舎暮らし系） | 16 |
 | ⑧ | 賃貸 | 28 |
-| 計 | | 118 |
+| 計 | | 140 |
 
 tab別サイト数（2026-09-05時点）:
 
 | tab | サイト数 | 内訳 |
 |---|---|---|
 | 未指定（home） | 54 | channel①26／②10／③-B10／④2／⑤3／⑥3 |
-| `camp` | 36 | channel①21（SUUMO camp圏）／④2（ジモティー・家いちば camp圏）／⑦13 |
+| `camp` | 58 | channel①38（SUUMO camp圏21・スマイミー売土地9・しずなび8）／③-B2（熱海不動産イーズ）／④2（ジモティー・家いちば camp圏）／⑦16 |
 | `rent` | 28 | channel⑧のみ |
 
-`sources_extra:` は巡回対象外の記録専用ブロック（17件、2026-09時点）。bot対策・JS描画で断念したもの、優先度が低く保留のもの、まだ着手していないものを実測結果つきで残す（内訳は§11）。
+`sources_extra:` は巡回対象外の記録専用ブロック（18件、2026-09時点）。bot対策・JS描画で断念したもの、優先度が低く保留のもの、まだ着手していないもの、**robots判定の制約で保留中のもの**を実測結果つきで残す（内訳は§11）。
 
 ---
 
@@ -295,17 +295,18 @@ urls.yaml(sites)
 
 **新サイト追加の手順**: ①`urls.yaml`へのURL追加（`CLAUDE.md`の実測(a)(b)＋承認手順を経てから）②専用`parse_*`関数の実装、または既存関数の再利用（`id`の前方一致で流用可能。例: `parse_suumo`はキャンプ場土地タブのSUUMO8サイトにも流用されている）③`SITE_ADAPTERS`への登録——**前方一致の順序が重要**で、特殊化した接頭辞（例: `suumo_rent_`）は元の接頭辞（`suumo_`）より必ず前に置く（後ろだと食われて誤ったパーサが呼ばれる）④`SOURCES.md`は次回実行で自動反映される。
 
-**既存アダプタ一覧**（27関数が91サイトを処理。残り10サイトはアダプタなし＝ハッシュ監視のみ。2026-09時点）:
+**既存アダプタ一覧**（34関数を定義・うち33関数が131サイトを処理。残り9サイトはアダプタなし＝ハッシュ監視のみ。2026-09-05時点。件数はurls.yamlから機械集計・本表もそれで検算済み）:
 
 | idの前方一致 | 関数 | 方式 | サイト数 |
 |---|---|---|---|
 | `suumo_rent_` | `parse_suumo_rent` | ページャ「次へ」・最大20頁、bot対策検出+リトライ | 8 |
-| `suumo_` | `parse_suumo` | 同上（土地/中古戸建/キャンプ場土地圏のSUUMO） | 20 |
+| `suumo_` | `parse_suumo` | 同上（土地/中古戸建/キャンプ場土地圏のSUUMO） | 33 |
 | `takken_` | `parse_takken` | ページャ（AJAX load）・最大20頁 | 6 |
-| `sumaimy_` | `parse_sumaimy_rent` | ページャ（AJAX load、takkenと同基盤）・最大3頁 | 9 |
+| `sumaimy_land_` | `parse_sumaimy_land` | ページャ（AJAX load、takkenと同基盤）・最大3頁。売買のため価格は総額(`parse_price_man`) | 9 |
+| `sumaimy_`（`sumaimy_land_`除く） | `parse_sumaimy_rent` | 同上。賃貸のため価格は月額(`parse_rent_man`) | 9 |
 | `lifull_rent_` | `parse_lifull_rent` | 単一ページ（202レート制限のため追従なし） | 3 |
-| `lifull_`（`lifull_akiyabank`除く） | `parse_lifull` | 単一ページ | 14 |
-| `ieichiba`（`ieichiba_shizuoka`/`ieichiba_sanrin`） | `parse_ieichiba` | 単一ページ（一覧に面積なし） | 2 |
+| `lifull_`（`lifull_akiyabank`除く） | `parse_lifull` | 単一ページ | 15 |
+| `ieichiba`（`ieichiba_shizuoka`/`ieichiba_shizuoka_camp`/`ieichiba_sanrin`） | `parse_ieichiba` | 単一ページ（一覧に面積なし） | 3 |
 | `mano_` | `parse_mano` | 単一ページ | 1 |
 | `fudosoken_` | `parse_fudosoken` | 単一ページ | 1 |
 | `izu_sougou_` | `parse_izu_sougou` | ページャ（`paged=`） | 1 |
@@ -313,26 +314,31 @@ urls.yaml(sites)
 | `u2_` | `parse_u2` | ページャ（`?pg=2..8`） | 1 |
 | `yamaichiba_` | `parse_yamaichiba` | 単一ページ＋詳細ページ補完（最大6件） | 1 |
 | `sanrinbank_` | `parse_sanrinbank` | 単一ページ（全国トップから所在地一致抽出） | 1 |
-| `resort_estate_` | `parse_resort_estate` | ページャ（`/page:N`・最大12頁） | 1 |
+| `resort_estate_` | `parse_resort_estate` | ページャ（`/page:N`・最大12頁） | 2 |
 | `izuhighland_` | `parse_izuhighland` | リンク監視型（価格・面積なし） | 1 |
 | `tokaiyajima_` | `parse_tokaiyajima` | ページャ（`?paged=N`・最大12頁） | 1 |
-| `resortbukken_` | `parse_resort_bukken` | ページャ（`/page:N`・最大12頁） | 1 |
+| `resortbukken_` | `parse_resort_bukken` | ページャ（`/page:N`・最大12頁） | 3 |
 | `sanrin_net` | `parse_sanrin_net` | 単一ページ | 1 |
 | `furusato_` | `parse_furusato` | 単一ページ | 1 |
 | `shinrin_` | `parse_shinrin` | 単一ページ（価格なし・新着監視用） | 1 |
-| `akiya_athome_rent_` | `parse_akiya_athome_rent` | 単一ページ | 1 |
+| `ez_` | `parse_ez` | 単一ページ（`dl.item`のdt/dd。末尾クラスh4item/h6itemがページで異なるため共通の"item"のみで選択） | 2 |
+| `sest_` | `parse_sest` | ページャ（`li.next`のプレーンURL・AJAXなし）・最大6頁 | 8 |
+| `foreste_` | `parse_foreste` | 単一ページ（円→万円・ha→㎡換算。全国在庫件数を毎回ログ出力） | 1 |
+| `asagiri_` | `parse_asagiri` | 単一ページ（table/tr構造が破綻しておりDOMでなくページ全文をテキストパターンで再分割。詳細URLはbase_url固定） | 1 |
+| `tokyu_resort_` | `parse_tokyu_resort` | 単一ページ（エリア略称→tier表記の変換表を併用してfilter_keywords照合） | 1 |
+| `kankocho_ksi` | `parse_kankocho_ksi` | ページャ（`?page=N&pageSize=50`）。Next.js RSCペイロードの `\"` エスケープ済みJSONを正規表現で抽出。**実装済みだが`urls.yaml`の`tab:camp`には未登録**（`robots_allowed()`が`$`終端アンカーを解釈できずrobots制限で除外されるため。§11） | 0（sources_extra） |
 | `chintai_net_` | `parse_chintai_net` | ページャ（`/pageN/`・最大30頁、実質は時間予算で打ち切り） | 1 |
 | `eheya_` | `parse_eheya` | ページャ（「次へ」リンク）・最大20頁 | 2 |
 | `jmty_` | `parse_jmty` | ページャ（`rel=next`）・最大3頁 | 3 |
 | `sjkk_` | `parse_sjkk` | 単一ページ（POST専用フォームのため追従なし） | 1 |
 | `vhouse_` | `parse_vhouse` | リンク監視型（価格なし・JS描画のため） | 2 |
-| （該当なし） | — | ハッシュ監視のみ（`page_hash`比較、抽出なし） | 10 |
+| （該当なし） | — | ハッシュ監視のみ（`page_hash`比較、抽出なし） | 9 |
 
 ---
 
 ## 10. 制約・非機能
 
-**外部ライブラリ方針**: `watch.py`の依存は`requests`／`beautifulsoup4`／`pyyaml`の3つのみ（`requirements.txt`）。ブラウザ自動化ライブラリは導入していない。そのためJS描画・持続的なbot対策のサイトは実装せず、`sources_extra`へ「フェーズ2」等として記録するに留める（§11）。
+**外部ライブラリ方針**: `watch.py`の依存は`requests`／`beautifulsoup4`／`pyyaml`の3つのみ（`requirements.txt`）。ブラウザ自動化ライブラリは導入していない。そのためJS描画・持続的なbot対策のサイトは実装せず、`sources_extra`へ「フェーズ2」等として記録するに留める（§11）。`pytest`（`tests/`。§12参照）はテスト実行時のみの開発依存で、この3つの実行時依存には含めない（`requirements.txt`は変更していない）。
 
 **bot対策で落ちるサイトの扱い**: アダプタが`BotBlocked`を検出した場合、そのサイトは今回の抽出をスキップし前回スナップショットをそのまま保持したうえで「要確認」フラグを立てる。0件で上書きして誤って「全消滅」と判定することを防ぐ（`run()`参照）。
 
@@ -340,17 +346,18 @@ urls.yaml(sites)
 
 **安全装置**: 1リクエストの総タイムアウト25秒（`FETCH_TOTAL_TIMEOUT`。requestsのtimeoutは細切れ送信に効かないため、使い捨てデーモンスレッド＋joinで強制打ち切り）、1サイトあたり180秒（`SITE_TIME_BUDGET`）、実行全体55分（`RUN_WALLCLOCK_LIMIT`＝3300秒。超過時は残サイトを打ち切ってレポートを出す。2026-09-05に30分から引き上げ＝§8）。
 
-**1回のクロール所要時間**: 保証されるのは上限55分のみ。サイト間に2〜20秒のスリープを挟むため、サイト数（2026-09-05時点で118）の増加とともに実測時間も増える傾向にあり、旧上限30分では直近5回中3回で実際に上限到達・末尾サイトの打ち切りが発生していた（`gh run view --log`実測。§8・`docs/BUGLOG.md`）。
+**1回のクロール所要時間**: 保証されるのは上限55分のみ。サイト間に2〜20秒のスリープを挟むため、サイト数（2026-09-05時点で140。同日中に118→140への追加が2バッチに分かれて行われた）の増加とともに実測時間も増える傾向にあり、旧上限30分では直近5回中3回で実際に上限到達・末尾サイトの打ち切りが発生していた（`gh run view --log`実測。§8・`docs/BUGLOG.md`）。**140サイト化後の実測（`gh run view --log`）は本バッチ完了時点で未実施**——次回Actions実行後に55分上限へどの程度の余裕があるか確認すること（残リスク）。
 
 ---
 
 ## 11. 未決・フェーズ2
 
-**`sources_extra`（17件、2026-09時点）の内訳**:
+**`sources_extra`（18件、2026-09-05時点）の内訳**:
 
 | 状況 | 件数 | 内容 |
 |---|---|---|
 | bot対策/JS描画でフェーズ2（ブラウザ自動化）待ち | 8 | アットホーム土地・中古戸建、ハトマークサイト、不動産ジャパン、BIT競売物件情報サイト(JS)、官公庁オークション(アットホーム版・JS)、ジモティー山林キーワード検索(JS)、みんなの0円物件(React SPA) |
+| **robots判定の制約で保留（アダプタ実装・単体テスト済み）** | **1** | **KSI官公庁オークション不動産（`kankocho.jp`）。`robots_allowed()`（Python標準`urllib.robotparser`）が`Allow: .../real-estate/$`の`$`終端アンカーを解釈できず、`Disallow: /search/`のプレフィックス一致が先に効いてcan_fetch()がFalseになるため`tab:camp`へ未登録（2026-09-05実測）。`robots_allowed()`の修正は他の全サイトのrobots判定に影響する共通基盤の変更のため保留・オーケストレータ判断待ち** |
 | 保留（優先度低・再測待ち） | 4 | ラビーネット不動産（429）、TRANBI、BATONZ、エンゼル不動産 |
 | 対象外 | 1 | スマイミー静岡トップページ（ログインゲート。賃貸の深部URLは別途`sumaimy_rent_*`として採用済み） |
 | 要確認 | 1 | アットホーム中古戸建 清水町/長泉町（404） |
@@ -368,3 +375,11 @@ urls.yaml(sites)
 - 運用: 当初のREADME.mdは「Windowsタスクスケジューラ」を想定していたが、現在の実運用はGitHub Actionsのクラウド定期実行（cron）。README.mdのこの記述は現状と食い違っており、`CLAUDE.md`のとおりコード（実際の運用）が正。
 - 状態管理: 当初想定に無かった状態同期API（VPS上のstate-api）が2026-07-26に追加され、複数端末・複数利用者（ken/yumiko/ayako）で★・非表示・検索条件を共有できるようになった。
 - 「小中学校までの距離」「上下水・ハザード・温泉引き込み・指定既存集落等の抽出項目」「市町窓口確認チェックリストの自動添付」（`requirements.md`のフェーズ4・§9）は、2026-09時点のコードに実装が見当たらない（grepで該当語を確認できず）。人間工程のまま。
+
+---
+
+## 12. 単体テスト
+
+`tests/`（2026-09-05新設。それ以前は自動テストなし）。`python -m pytest tests/ -v`で実行（`pytest`はテスト実行時のみの開発依存。`requirements.txt`には含めない。§10）。`tests/conftest.py`がプロジェクトルートを`sys.path`へ追加し、`watch._MACHI_NAMES`を実際の`urls.yaml`から組み立てるsession-scopeのfixtureを提供する（`extract_machi()`に依存するテストを本番と同じ市町リストで判定するため）。
+
+現状は`ha→㎡`・`円→万円`・スマイミー売買価格の抽出、および`<sup>`タグを含むセルのテキスト結合・全角括弧のNFKC半角化・エリア略称とmachi判定の優先順位・KSIのエスケープ済みJSON抽出など、キャンプ場土地バッチ5〜10（W2・消込表#472）の実装時に見つけた個別の差異への回帰テストのみ（18ケース）。網羅的なカバレッジ方針は未策定（今後の課題）。
