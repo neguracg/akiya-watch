@@ -799,6 +799,83 @@ sites:
     filter_keywords: "@camp_tiers"
     note: "ez_fujisanと同一parse(parse_ez)。2026-09-05 Invoke-WebRequest再実測 HTTP 200(196,948B)。div.articleList 110件・ページャなし(単一ページ)((b)確認は docs/research/20260905_camp_sites_candidates.md #2で完了済み)。"
 
+  # ---- スマイミー静岡 売土地（宅建サポートセンター。既存sumaimy_rent_*と同一基盤の
+  #   売買/土地カテゴリ。市町別URLのためfilter_keywords不要。9市町とも2026-09-05
+  #   Invoke-WebRequest実測HTTP 200((b)確認は docs/research/20260905_camp_sites_candidates.md
+  #   #1で完了済み)。ページャはsumaimy_rent_*と同一AJAX形式・最大3頁(SUMAIMY_MAX_PAGES共用)----
+  - id: sumaimy_land_gotemba
+    name: スマイミー静岡 売土地 御殿場市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/御殿場市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(84,310B)・li.item-block 10件/頁・3頁中(21件)。1件目: 御殿場市萩原1287-3 1,927万円 243.19m2。"
+  - id: sumaimy_land_kannami
+    name: スマイミー静岡 売土地 田方郡函南町
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/田方郡函南町"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(81,811B)・10件/頁・3頁中。函南町仁田4-1 850万円 200.58m2(古家付土地→classify_shubetsuで古家付き土地へ再分類)を含む。"
+  - id: sumaimy_land_izu
+    name: スマイミー静岡 売土地 伊豆市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/伊豆市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(82,048B)・10件/頁・7頁中(SUMAIMY_MAX_PAGES=3で先頭30件まで取得)。伊豆市佐野317-4 450万円 305.64m2を含む。"
+  - id: sumaimy_land_fujinomiya
+    name: スマイミー静岡 売土地 富士宮市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/富士宮市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "2026-09-05実測 HTTP 200(83,181B)・10件/頁・14頁中(3頁=30件まで取得)。"
+  - id: sumaimy_land_susono
+    name: スマイミー静岡 売土地 裾野市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/裾野市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・83,217B)・10件/頁・4頁中(21件相当)。"
+  - id: sumaimy_land_izunokuni
+    name: スマイミー静岡 売土地 伊豆の国市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/伊豆の国市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・84,330B)・10件/頁・4頁中。伊豆の国市長崎350-4 1,380万円 204.97m2を含む。"
+  - id: sumaimy_land_oyama
+    name: スマイミー静岡 売土地 駿東郡小山町
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/駿東郡小山町"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・82,911B)・10件/頁・3頁中。駿東郡小山町須走 500万円 200.88m2を含む。"
+  - id: sumaimy_land_atami
+    name: スマイミー静岡 売土地 熱海市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/熱海市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・84,328B)・10件/頁・7頁中(3頁=30件まで取得)。"
+  - id: sumaimy_land_fuji
+    name: スマイミー静岡 売土地 富士市
+    url: "https://www.shizuoka.fudohsan.jp/一覧/買う-土地/地域/富士市"
+    status: verified
+    channel: "①"
+    kind: 土地
+    tab: camp
+    note: "追加調査分(2026-09-05実測 HTTP 200・84,546B)・10件/頁・18頁中(3頁=30件まで取得。全9市町中最多在庫)。"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ

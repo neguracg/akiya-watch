@@ -2622,6 +2622,86 @@ def parse_sumaimy_rent(first_html, base_url, filter_keywords, filters, session) 
 
 
 # ---------------------------------------------------------------------------
+# スマイミー静岡 売土地 アダプタ（sumaimy_rentと同一基盤・市町別URL・沼津IC圏拡大
+#   バッチ2・W2）。カード構造はsumaimy_rentと共通(li.item-block・pc版header)だが、
+#   売買のため 敷金/礼金/間取り は無く、価格は総額(parse_price_man。賃貸のparse_rent_man
+#   は使わない)、面積は p.area の .num03（(実測)/(公簿)等の接頭辞付きでも
+#   _first_sqm がそのまま拾える）。ページャは賃貸版と同一AJAX形式(_takken_total_pages/
+#   _takken_loadbase・SUMAIMY_MAX_PAGES=3を共用)。市町別URLのためfilter_keywords不要。
+# ---------------------------------------------------------------------------
+
+def _extract_sumaimy_land_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("li.item-block"):
+        url = ""
+        for a in card.find_all("a", href=True):
+            if "物件" in urllib.parse.unquote(a["href"]):
+                url = normalize_url(a["href"], base_url)
+                break
+        if not url:
+            continue
+
+        hdr = card.select_one("div.item-block_header.pc") or card
+        title_el = hdr.select_one("p.title")
+        location = title_el.get_text(" ", strip=True) if title_el else ""
+        if filter_keywords and not any(kw in location for kw in filter_keywords):
+            continue
+
+        price_p = hdr.select_one("p.price")
+        price = None
+        if price_p:
+            n1 = price_p.select_one(".num01")
+            n2 = price_p.select_one(".num02")
+            price_text = (n1.get_text(strip=True) if n1 else "") + (n2.get_text(strip=True) if n2 else "")
+            price = parse_price_man(price_text)
+
+        area_p = hdr.select_one("p.area")
+        area = None
+        if area_p:
+            n3 = area_p.select_one(".num03")
+            area = _first_sqm(n3.get_text(" ", strip=True)) if n3 else None
+
+        card_text = card.get_text(" ", strip=True)
+        out.append(_make_record(url, location, price, area, False, card_text, filters,
+                                location=location, default_type="更地"))
+    return out
+
+
+def parse_sumaimy_land(first_html, base_url, filter_keywords, filters, session) -> list:
+    """スマイミー静岡 売土地アダプタ。既存parse_sumaimy_rentと同一ページャ基盤。"""
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "li.item-block"):
+        raise BotBlocked(f"スマイミー静岡 売土地 ソフトブロック（{len(first_html)}B）: {base_url}")
+
+    all_props = _extract_sumaimy_land_cards(soup, base_url, filter_keywords, filters)
+    total = _takken_total_pages(soup)
+    loadbase = _takken_loadbase(soup)
+    page = 1
+    while loadbase and page < min(total, SUMAIMY_MAX_PAGES):
+        if not _site_time_left():
+            log.warning(f"[sumaimy_land] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        page += 1
+        time.sleep(random.uniform(2, 5))
+        nxt = urllib.parse.urljoin(base_url, loadbase + f"/page/{page}")
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[sumaimy_land] page {page} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        all_props.extend(_extract_sumaimy_land_cards(
+            BeautifulSoup(html, "html.parser"), base_url, filter_keywords, filters))
+
+    seen = set()
+    out = []
+    for r in all_props:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            out.append(r)
+    log.info(f"[sumaimy_land] pages={page} cards={len(out)}")
+    return out
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3024,6 +3104,9 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("suumo_rent_"), parse_suumo_rent),
     (lambda sid: sid.startswith("suumo_"), parse_suumo),
     (lambda sid: sid.startswith("takken_"), parse_takken),
+    # sumaimy_land_ は sumaimy_ の特殊化なので必ず先に置く（後だと sumaimy_ に食われて
+    # 賃貸用パーサ(parse_sumaimy_rent)が誤って呼ばれる。suumo_rent_/suumo_ と同じ理由）。
+    (lambda sid: sid.startswith("sumaimy_land_"), parse_sumaimy_land),
     (lambda sid: sid.startswith("sumaimy_"), parse_sumaimy_rent),
     # lifull_rent_ は lifull_ の特殊化なので必ず先に置く（後だと lifull_ に食われて
     # 売買用パーサ(parse_lifull)が誤って呼ばれる。suumo_rent_/suumo_ と同じ理由）。
