@@ -46,5 +46,11 @@ jobs:
             echo "変更なし（コミットせず）"
           else
             git commit -m "Actions定期実行: $(date -u +%Y-%m-%dT%H:%MZ) クロール結果を更新"
-            git push
+            # 実行中(約40〜55分)に人のコミットが main へ入ると push が non-fast-forward で弾かれ、
+            # クロール結果が丸ごと捨てられる（2026-09-05 実証・docs/BUGLOG.md）。push 直前に
+            # 取り込んでから押す。生成物(reports/data/SOURCES.md)は人が触らない前提なので競合しない。
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              echo "push retry $i"; sleep 15
+            done
           fi
