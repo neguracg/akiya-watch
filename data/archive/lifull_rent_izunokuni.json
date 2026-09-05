@@ -604,28 +604,6 @@
     "removed_on": "2026-08-20",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/a94fdee8c1a05548cdd6351b6cf20193dcc81448/|ペイサージュＮＫII": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-19",
-    "location": "静岡県伊豆の国市四日町",
-    "price_man": 8.85,
-    "area_sqm": 56.5,
-    "url": "https://www.homes.co.jp/chintai/room/a94fdee8c1a05548cdd6351b6cf20193dcc81448/",
-    "text": "ペイサージュＮＫII",
-    "removed_on": "2026-08-20",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/c2c3944927b2e1c7ebd76d0bc4c263683c6e9877/|ペイサージュＮＫII": {
-    "first_seen": "2026-08-13",
-    "last_seen": "2026-08-19",
-    "location": "静岡県伊豆の国市四日町",
-    "price_man": 8.05,
-    "area_sqm": 44.7,
-    "url": "https://www.homes.co.jp/chintai/room/c2c3944927b2e1c7ebd76d0bc4c263683c6e9877/",
-    "text": "ペイサージュＮＫII",
-    "removed_on": "2026-08-20",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/a8e65563d61b4821a4a6e90c46e04f481dbbf0be/|ＤＯＭＵＳ　ＲＩＰＡ　II": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-19",
@@ -1000,39 +978,6 @@
     "removed_on": "2026-09-01",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/|パーシモンスクエア": {
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-01",
-    "location": "静岡県伊豆の国市寺家705-1",
-    "price_man": 6.9,
-    "area_sqm": 62.8,
-    "url": "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/",
-    "text": "パーシモンスクエア",
-    "removed_on": "2026-09-02",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/36896f153c551414f8b16279a02ace3d56fcf681/|さくら": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-09-01",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 8.05,
-    "area_sqm": 59.2,
-    "url": "https://www.homes.co.jp/chintai/room/36896f153c551414f8b16279a02ace3d56fcf681/",
-    "text": "さくら",
-    "removed_on": "2026-09-02",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/f97c30b30080d6bf9d231e8e030b52847c24436e/|ＪＵＦＡ　ジュファ": {
-    "first_seen": "2026-08-23",
-    "last_seen": "2026-09-01",
-    "location": "静岡県伊豆の国市南條",
-    "price_man": 6.8,
-    "area_sqm": 47.9,
-    "url": "https://www.homes.co.jp/chintai/room/f97c30b30080d6bf9d231e8e030b52847c24436e/",
-    "text": "ＪＵＦＡ　ジュファ",
-    "removed_on": "2026-09-02",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/75308ea19c1e86bb7cf38461a4cbfbc1b771bc22/|エテルナメンテ": {
     "first_seen": "2026-08-20",
     "last_seen": "2026-09-01",
@@ -1240,6 +1185,138 @@
     "url": "https://www.homes.co.jp/chintai/room/c10ba68dab8a0e335f3535141e8278ac534bdc11/",
     "text": "ポルトフィーノ長岡",
     "removed_on": "2026-09-04",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/3eaac0c02b72c3ac3e3b6833a565e973d8fd0b12/|レオネクストＦＲＥＥＤＯＭ": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.9,
+    "area_sqm": 46.9,
+    "url": "https://www.homes.co.jp/chintai/room/3eaac0c02b72c3ac3e3b6833a565e973d8fd0b12/",
+    "text": "レオネクストＦＲＥＥＤＯＭ",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/7eed9d8f3c91b2cfd608c76dd800aa30a18ddb06/|レオネクストＦＲＥＥＤＯＭ": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.8,
+    "area_sqm": 46.9,
+    "url": "https://www.homes.co.jp/chintai/room/7eed9d8f3c91b2cfd608c76dd800aa30a18ddb06/",
+    "text": "レオネクストＦＲＥＥＤＯＭ",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/2e85fdf5b088aff89b350261b1993e2805722f6d/|レオネクストＦＲＥＥＤＯＭ": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.8,
+    "area_sqm": 46.9,
+    "url": "https://www.homes.co.jp/chintai/room/2e85fdf5b088aff89b350261b1993e2805722f6d/",
+    "text": "レオネクストＦＲＥＥＤＯＭ",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/8481b25cef597e6dd29e23ffac5075edd330ad93/|レオネクストＦＲＥＥＤＯＭ": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.8,
+    "area_sqm": 46.9,
+    "url": "https://www.homes.co.jp/chintai/room/8481b25cef597e6dd29e23ffac5075edd330ad93/",
+    "text": "レオネクストＦＲＥＥＤＯＭ",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/5b7614f63068145bfa1ab77753932dbadbb082d2/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩15分": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 5.9,
+    "area_sqm": 44.2,
+    "url": "https://www.homes.co.jp/chintai/room/5b7614f63068145bfa1ab77753932dbadbb082d2/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩15分",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/218c499350d67cc4034c7b88cf4b1bebd578e0cf/|レオネクストレジデンス田京": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.7,
+    "area_sqm": 44.9,
+    "url": "https://www.homes.co.jp/chintai/room/218c499350d67cc4034c7b88cf4b1bebd578e0cf/",
+    "text": "レオネクストレジデンス田京",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/f3f93262cebfe9159acdbd771c572a31c1110d25/|レオネクストレジデンス田京": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.6,
+    "area_sqm": 44.9,
+    "url": "https://www.homes.co.jp/chintai/room/f3f93262cebfe9159acdbd771c572a31c1110d25/",
+    "text": "レオネクストレジデンス田京",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/14dafb77051af593f0f070a3a9ff5becff54b5ab/|レオネクストレジデンス田京": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.0,
+    "area_sqm": 44.9,
+    "url": "https://www.homes.co.jp/chintai/room/14dafb77051af593f0f070a3a9ff5becff54b5ab/",
+    "text": "レオネクストレジデンス田京",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/8864c497b0035ea3796aa56add5686deba87130b/|レオネクストレジデンス田京": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.0,
+    "area_sqm": 44.9,
+    "url": "https://www.homes.co.jp/chintai/room/8864c497b0035ea3796aa56add5686deba87130b/",
+    "text": "レオネクストレジデンス田京",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/55b6040d096c31efa05223e4e1459c4620a049f4/|オーレ日吉": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 6.2,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/55b6040d096c31efa05223e4e1459c4620a049f4/",
+    "text": "オーレ日吉",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/4103302c8a714d06af2c5b6c7fc5474baff07885/|オーレ日吉": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 5.9,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/4103302c8a714d06af2c5b6c7fc5474baff07885/",
+    "text": "オーレ日吉",
+    "removed_on": "2026-09-05",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/e980df343de3fc5be671aac44c09dd2b12c9d9dd/|オーレ日吉": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 5.9,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/e980df343de3fc5be671aac44c09dd2b12c9d9dd/",
+    "text": "オーレ日吉",
+    "removed_on": "2026-09-05",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

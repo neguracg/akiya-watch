@@ -1,0 +1,37 @@
+{
+  "keys": {
+    "https://10wa.co.jp/baibai/syousai/0/1454dat.html|駿東郡小山町中島": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "駿東郡小山町中島",
+      "price_man": 1180,
+      "area_sqm": 230.2,
+      "url": "https://10wa.co.jp/baibai/syousai/0/1454dat.html",
+      "text": "駿東郡小山町中島",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 16.9,
+      "verdict": "不適合",
+      "interest": [
+        "外輪山西麓"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "小山町",
+      "tab": "camp"
+    }
+  },
+  "hash": "9525cb84839e5506",
+  "fetched_at": "2026-09-05T19:17:43.570956"
+}

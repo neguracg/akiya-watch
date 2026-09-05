@@ -1,0 +1,35 @@
+{
+  "keys": {
+    "https://www.at-house.jp/uri-tochi/detail-67f1dedaec7f7003d675b7ef/|駿東郡小山町藤曲": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "駿東郡小山町藤曲",
+      "price_man": 1280,
+      "area_sqm": 594.0,
+      "url": "https://www.at-house.jp/uri-tochi/detail-67f1dedaec7f7003d675b7ef/",
+      "text": "駿東郡小山町藤曲",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 7.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "小山町",
+      "tab": "camp"
+    }
+  },
+  "hash": "57b2199e72727771",
+  "fetched_at": "2026-09-05T19:17:55.433170"
+}

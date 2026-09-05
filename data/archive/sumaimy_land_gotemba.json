@@ -1,1 +1,24 @@
-{}
+{
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176170|御殿場市萩原1287-3": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "御殿場市萩原1287-3",
+    "price_man": 1927,
+    "area_sqm": 243.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176170",
+    "text": "御殿場市萩原1287-3",
+    "removed_on": "2026-09-05",
+    "site_name": "スマイミー静岡 売土地 御殿場市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151041|御殿場市新橋": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "御殿場市新橋",
+    "price_man": 9700,
+    "area_sqm": 2762.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151041",
+    "text": "御殿場市新橋",
+    "removed_on": "2026-09-05",
+    "site_name": "スマイミー静岡 売土地 御殿場市"
+  }
+}

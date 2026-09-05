@@ -1,8 +1,40 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162782|裾野市須山": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "裾野市須山",
+      "price_man": 95,
+      "area_sqm": 564.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162782",
+      "text": "裾野市須山",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "—",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 0.6,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167142|裾野市須山2255-842": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市須山2255-842",
       "price_man": 1390,
       "area_sqm": 1149.0,
@@ -34,7 +66,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169770|裾野市千福が丘２丁目": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市千福が丘２丁目",
       "price_man": 1100,
       "area_sqm": 1247.0,
@@ -63,7 +95,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175220|裾野市佐野": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市佐野",
       "price_man": 1300,
       "area_sqm": 164.3,
@@ -95,7 +127,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175940|裾野市茶畑": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑",
       "price_man": 1856,
       "area_sqm": 168.2,
@@ -115,7 +147,9 @@
       "setsudo": null,
       "tsubo_man": 36.5,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -124,7 +158,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175941|裾野市茶畑": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑",
       "price_man": 1995,
       "area_sqm": 219.9,
@@ -144,7 +178,9 @@
       "setsudo": null,
       "tsubo_man": 30.0,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -153,7 +189,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174084|裾野市茶畑": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑",
       "price_man": 1659,
       "area_sqm": 166.2,
@@ -173,7 +209,9 @@
       "setsudo": null,
       "tsubo_man": 33.0,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -182,7 +220,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167942|裾野市岩波": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市岩波",
       "price_man": 1500,
       "area_sqm": 280.6,
@@ -214,7 +252,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71524|裾野市茶畑168-96": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑168-96",
       "price_man": 1300,
       "area_sqm": 200.3,
@@ -234,7 +272,9 @@
       "setsudo": null,
       "tsubo_man": 21.5,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -243,7 +283,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154072|裾野市佐野828-5": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市佐野828-5",
       "price_man": 920,
       "area_sqm": 191.8,
@@ -272,7 +312,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166994|裾野市深良": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市深良",
       "price_man": 1420,
       "area_sqm": 270.3,
@@ -294,7 +334,8 @@
       "verdict": "不適合",
       "interest": [
         "調整区域",
-        "無指定"
+        "無指定",
+        "外輪山西麓"
       ],
       "caution": [],
       "ng_areas": [],
@@ -304,7 +345,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173760|裾野市水窪": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市水窪",
       "price_man": 1580,
       "area_sqm": 186.5,
@@ -333,7 +374,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173758|裾野市水窪": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市水窪",
       "price_man": 1590,
       "area_sqm": 169.3,
@@ -362,7 +403,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173757|裾野市水窪": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市水窪",
       "price_man": 1590,
       "area_sqm": 171.8,
@@ -391,7 +432,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172777|裾野市平松": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市平松",
       "price_man": 890,
       "area_sqm": 100.7,
@@ -420,7 +461,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171102|裾野市茶畑": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑",
       "price_man": 3000,
       "area_sqm": 740.0,
@@ -440,7 +481,9 @@
       "setsudo": null,
       "tsubo_man": 13.4,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -449,7 +492,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168043|裾野市須山": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市須山",
       "price_man": 230,
       "area_sqm": 526.0,
@@ -481,7 +524,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155173|裾野市須山2255ー3527": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市須山2255ー3527",
       "price_man": 330,
       "area_sqm": 464.9,
@@ -513,7 +556,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069|裾野市茶畑193－１": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市茶畑193－１",
       "price_man": 2288,
       "area_sqm": 205.8,
@@ -533,7 +576,9 @@
       "setsudo": null,
       "tsubo_man": 36.8,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -542,7 +587,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169206|裾野市葛山": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市葛山",
       "price_man": 1500,
       "area_sqm": 466.3,
@@ -574,7 +619,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172786|裾野市石脇": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市石脇",
       "price_man": 2150,
       "area_sqm": 295.7,
@@ -603,7 +648,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/136795|裾野市今里148-45他3筆": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市今里148-45他3筆",
       "price_man": 200,
       "area_sqm": 164.0,
@@ -635,7 +680,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153346|裾野市須山2255-1795": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市須山2255-1795",
       "price_man": 100,
       "area_sqm": 899.0,
@@ -667,7 +712,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/79661|裾野市千福": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市千福",
       "price_man": 1078,
       "area_sqm": 713.0,
@@ -696,7 +741,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164760|裾野市須山": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市須山",
       "price_man": 800,
       "area_sqm": 3173.0,
@@ -728,7 +773,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175386|裾野市岩波": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市岩波",
       "price_man": 1500,
       "area_sqm": 155.6,
@@ -757,7 +802,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175385|裾野市岩波": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市岩波",
       "price_man": 1550,
       "area_sqm": 155.3,
@@ -786,7 +831,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158630|裾野市公文名": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市公文名",
       "price_man": 1390,
       "area_sqm": 241.1,
@@ -818,7 +863,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171269|裾野市平松": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市平松",
       "price_man": 1980,
       "area_sqm": 279.6,
@@ -847,7 +892,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165124|裾野市御宿": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
+      "last_seen": "2026-09-05",
       "location": "裾野市御宿",
       "price_man": 1800,
       "area_sqm": 2048.0,
@@ -873,40 +918,8 @@
       "zokujinsei": false,
       "machi": "裾野市",
       "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147729|裾野市葛山730-2": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "location": "裾野市葛山730-2",
-      "price_man": 900,
-      "area_sqm": 256.9,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147729",
-      "text": "裾野市葛山730-2",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "調整区域の建替えは既存宅地要件等の確認が必要＝本命候補",
-      "chimoku": "—",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 11.6,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "camp"
     }
   },
-  "hash": "5b9e1f7daa86ea97",
-  "fetched_at": "2026-09-04T23:58:36.039307"
+  "hash": "f2e1238fdbce7db7",
+  "fetched_at": "2026-09-05T19:03:30.453943"
 }

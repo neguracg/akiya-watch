@@ -1,1 +1,24 @@
-{}
+{
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174059|富士市中島": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "富士市中島",
+    "price_man": 2000,
+    "area_sqm": 333.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174059",
+    "text": "富士市中島",
+    "removed_on": "2026-09-05",
+    "site_name": "スマイミー静岡 売土地 富士市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175557|富士市一色": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "富士市一色",
+    "price_man": 750,
+    "area_sqm": 315.2,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175557",
+    "text": "富士市一色",
+    "removed_on": "2026-09-05",
+    "site_name": "スマイミー静岡 売土地 富士市"
+  }
+}

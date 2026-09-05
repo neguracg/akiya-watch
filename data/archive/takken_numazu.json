@@ -702,5 +702,49 @@
     "text": "売土地 沼津市岡宮",
     "removed_on": "2026-09-01",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169697/settle/1|売土地 沼津市本郷町8-12　(1)号地": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-04",
+    "location": "沼津市本郷町8-12　(1)号地",
+    "price_man": 1300,
+    "area_sqm": 158.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169697/settle/1",
+    "text": "売土地 沼津市本郷町8-12　(1)号地",
+    "removed_on": "2026-09-05",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162589/settle/1|売住宅 沼津市大岡": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-04",
+    "location": "沼津市大岡",
+    "price_man": 5000,
+    "area_sqm": 1600.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162589/settle/1",
+    "text": "売住宅 沼津市大岡",
+    "removed_on": "2026-09-05",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167217/settle/1|売土地 沼津市西熊堂": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-04",
+    "location": "沼津市西熊堂",
+    "price_man": 1830,
+    "area_sqm": 169.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167217/settle/1",
+    "text": "売土地 沼津市西熊堂",
+    "removed_on": "2026-09-05",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152384/settle/1|売土地 沼津市本字松下七反田": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-04",
+    "location": "沼津市本字松下七反田",
+    "price_man": 1080,
+    "area_sqm": 237.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152384/settle/1",
+    "text": "売土地 沼津市本字松下七反田",
+    "removed_on": "2026-09-05",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

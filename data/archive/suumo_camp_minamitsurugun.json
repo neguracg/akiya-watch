@@ -1,1 +1,24 @@
-{}
+{
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21317517/|平野 100万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "山梨県南都留郡山中湖村平野2197-752",
+    "price_man": 100,
+    "area_sqm": 661.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21317517/",
+    "text": "平野 100万円",
+    "removed_on": "2026-09-05",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_78789991/|山中 700万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-04",
+    "location": "山梨県南都留郡山中湖村山中",
+    "price_man": 700,
+    "area_sqm": 395.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_78789991/",
+    "text": "山中 700万円",
+    "removed_on": "2026-09-05",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  }
+}
