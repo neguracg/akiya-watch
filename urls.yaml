@@ -302,6 +302,16 @@ sites:
     status: verified
     channel: "②"
     kind: 空き家/売買
+  # ---- W4追加(箱根外輪山西麓・2026-09-05・消込表#479): 裾野市は更地/家付き7市町に
+  #   含まれるためtab未指定(home)。御殿場市/小山町はtab:campの方（jmty_land_camp付近）へ。
+  #   URLは docs/research/20260905_hakone_west_oaza_and_sites.md #3 から一字一句コピー。
+  #   2026-09-05 Invoke-WebRequestで再実測(a): HTTP 200・99,888B ----
+  - id: takken_susono
+    name: 空き家バンクしずおか 裾野市
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/裾野市/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
 
   # ==== ② 公的誘導型: その他（ハッシュ監視） ====
   - id: lifull_akiyabank
@@ -787,6 +797,36 @@ sites:
     tab: camp
     filter_keywords: "@camp_tiers"  # 2026-09-05: 旧Tier一覧(19市町)丸写しを一本化(消込表#472)
     note: "jmty_landと同一URLをcamp圏キーワードで再抽出。個人出品の山林・広い土地の掘り出し物狙い"
+
+  # ---- 箱根外輪山西麓(W4・2026-09-05・消込表#479): 御殿場市/小山町は更地/家付き
+  #   7市町に含まれないためtab:camp（裾野市はhome側のtakken_susonoを参照）。
+  #   URLは docs/research/20260905_hakone_west_oaza_and_sites.md から一字一句コピーし、
+  #   2026-09-05 Invoke-WebRequestで再実測(a)済み ----
+  - id: takken_gotemba
+    name: 空き家バンクしずおか 御殿場市
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/御殿場市/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+    tab: camp
+    note: "2026-09-05実測: HTTP 200・100,516B"
+  - id: takken_oyama
+    name: 空き家バンクしずおか 駿東郡小山町
+    url: "https://akiya-bank.shizuoka.fudohsan.jp/一覧/買う-定住タイプ/地域/駿東郡小山町/"
+    status: verified
+    channel: "②"
+    kind: 空き家/売買
+    tab: camp
+    note: "2026-09-05実測: HTTP 200・99,612B"
+  - id: jmty_land_gotemba
+    name: ジモティー 御殿場市 土地
+    url: "https://jmty.jp/shizuoka/est-land/g-all/a-448-gotemba"
+    status: verified
+    channel: "④"
+    kind: 土地/個人
+    tab: camp
+    filter_keywords: "@camp_tiers"
+    note: "jmty_land/jmty_land_campは県全体1URL+ページャ最大3頁のため御殿場市まで届かない。市町別URLで直接届かせる。2026-09-05実測: HTTP 200・183,502B"
 
   # ---- ⑦追加(沼津IC圏拡大バッチ2・W2・2026-09-05・消込表#472): 新規パーサ5本。
   #   URLは docs/research/20260905_camp_sites_candidates.md から一字一句コピーし、
