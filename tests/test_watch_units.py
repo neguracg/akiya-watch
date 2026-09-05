@@ -504,3 +504,279 @@ def test_interest_group_existing_interest_keywords_still_apply():
         "御殿場市深沢 市街化調整区域の売土地", filters_with_keyword, location="御殿場市深沢",
     )
     assert set(rec["interest"]) == {"市街化調整区域", "外輪山西麓"}
+# 9. LIFULL 土地(tochi) th/td不一致時のフォールバック（消込表#480・2026-09-05）。
+#    _lifull_card_specs は「価格を含むテーブルのth数=td数」の時だけ採用していたが、
+#    土地カードの価格テーブル(class=unitSummary)は1行目<tr class=raSpecRow>（データ行。
+#    各tdがth列と1:1で並ぶ）の直後に、建築会社名/一言コメントの<tr>(memberDataRow等)が
+#    1〜2行続く構造で、そのtdがテーブル全体のtd数に混入しth9/td10・th9/td11のように
+#    不一致になり、specs={}→area_sqm/price_manが両方Noneになっていた
+#    （実測: LIFULL土地7サイト210件中188件=89.5%。docs/tasks/20260905_lifull_area_fix.md）。
+#    以下のtable断片は2026-09-05に実際にfetchした伊豆の国市/三島市の土地一覧HTMLから
+#    構造をそのまま切り出し、物件ID・施工会社名だけ匿名化したもの（所在地は市町までの
+#    一般名詞のみ・個人情報なし）。
+# ---------------------------------------------------------------------------
+
+# 実測shape (9,11)：末尾2行(建物種別"更地"の行＋徒歩分/施工会社名の行)が混入する型。
+_LIFULL_TOCHI_TABLE_TH9_TD11 = """
+<table class="unitSummary">
+  <thead>
+    <tr>
+      <th class="visited">​</th>
+      <th class="price">価格</th>
+      <th class="space">土地面積</th>
+      <th class="space">坪（坪単価）</th>
+      <th class="space">建ぺい率/容積率</th>
+      <th class="">画像</th>
+      <th class="favorite">お気に入り</th>
+      <th class="detail">詳細</th>
+      <th class="check"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="raSpecRow">
+      <td class="visited new"></td>
+      <td class="price"><span class="priceLabel"><span class="num">1,500</span>万円</span></td>
+      <td class="space">299.09m²</td>
+      <td class="space">90.47坪（16.6万円）</td>
+      <td class="space">60% / 200%</td>
+      <td class="">11枚</td>
+      <td class="favorite">お気に入りに登録</td>
+      <td class="detail" rowspan="3"><a href="/tochi/b-90000000000001/">詳細を見る</a></td>
+      <td class="check" rowspan="3"></td>
+    </tr>
+    <tr class="memberDataRow"><td class="memberNameBox" colspan="7">更地</td></tr>
+    <tr class="memberDataRow"><td class="memberNameBox" colspan="7">サンプル小学校徒歩約10分 （サンプル建設株式会社）</td></tr>
+  </tbody>
+</table>
+"""
+
+# 実測shape (9,10)：末尾1行(コメント＋施工会社名が同一セル)のみ混入する型。
+_LIFULL_TOCHI_TABLE_TH9_TD10 = """
+<table class="unitSummary">
+  <thead>
+    <tr>
+      <th class="visited">​</th>
+      <th class="price">価格</th>
+      <th class="space">土地面積</th>
+      <th class="space">坪（坪単価）</th>
+      <th class="space">建ぺい率/容積率</th>
+      <th class="">画像</th>
+      <th class="favorite">お気に入り</th>
+      <th class="detail">詳細</th>
+      <th class="check"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="raSpecRow">
+      <td class="visited new"></td>
+      <td class="price"><span class="priceLabel"><span class="num">2,700</span>万円</span></td>
+      <td class="space">729.22m²</td>
+      <td class="space">220.58坪（12.3万円）</td>
+      <td class="space">60% / 200%</td>
+      <td class="">8枚</td>
+      <td class="favorite">お気に入りに登録</td>
+      <td class="detail" rowspan="2"><a href="/tochi/b-90000000000002/">詳細を見る</a></td>
+      <td class="check" rowspan="2"></td>
+    </tr>
+    <tr class="memberDataRow"><td class="memberNameBox" colspan="7">広さ220.58坪の贅沢。日当り良好。（サンプル建設株式会社）</td></tr>
+  </tbody>
+</table>
+"""
+
+
+def test_lifull_card_specs_th9_td11_uses_first_row_fallback():
+    soup = BeautifulSoup(_LIFULL_TOCHI_TABLE_TH9_TD11, "html.parser")
+    specs = watch._lifull_card_specs(soup)
+    assert watch._first_sqm(specs.get("土地面積", "")) == 299.1
+    assert watch.parse_price_man(specs.get("価格", "")) == 1500
+
+
+def test_lifull_card_specs_th9_td10_uses_first_row_fallback():
+    soup = BeautifulSoup(_LIFULL_TOCHI_TABLE_TH9_TD10, "html.parser")
+    specs = watch._lifull_card_specs(soup)
+    assert watch._first_sqm(specs.get("土地面積", "")) == 729.2
+    assert watch.parse_price_man(specs.get("価格", "")) == 2700
+
+
+def test_lifull_card_specs_aligned_table_unchanged():
+    # 2026-06-22からの既存挙動（テーブル全体でth数=td数が最初から揃うテーブル。
+    # 実測の中古戸建/一部の土地カードで使われる class=verticalTable 型）が
+    # 今回のフォールバック追加で壊れていないこと（従来どおり①の分岐で採用される）。
+    html = """
+    <table class="verticalTable"><tbody>
+      <tr><th>価格</th><td colspan="3"><span class="priceLabel"><span class="num">3,220万円</span></span></td></tr>
+      <tr><th>交通所在地</th><td colspan="3">JR「三島」駅 徒歩14分 静岡県三島市</td></tr>
+      <tr><th>土地面積</th><td>136.52m²</td><th>用途地域</th><td>第一種中高層住居専用地域</td></tr>
+    </tbody></table>
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    specs = watch._lifull_card_specs(soup)
+    assert watch._first_sqm(specs.get("土地面積", "")) == 136.5
+    assert watch.parse_price_man(specs.get("価格", "")) == 3220
+
+
+def test_lifull_card_specs_returns_empty_when_first_row_also_mismatches():
+    # フォールバックすら救えない構造（1行目のtd数もth数と合わない＝実在しない
+    # 想定外の壊れ方）では、位置がズレたまま誤った値を拾わず{}のまま
+    # ＝area/priceはNoneになる（2026-06-22の教訓「先頭セルのズレで誤値になる」を
+    # 壊さないことの安全側テスト。誤って何か拾うより無地の方が安全）。
+    html = """
+    <table class="unitSummary">
+      <thead><tr><th>価格</th><th>土地面積</th><th>建ぺい率/容積率</th><th>用途地域</th></tr></thead>
+      <tbody>
+        <tr class="raSpecRow"><td>2,000万円</td><td>500.00m²</td></tr>
+        <tr class="memberDataRow"><td colspan="2">コメント</td></tr>
+      </tbody>
+    </table>
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    assert watch._lifull_card_specs(soup) == {}
+
+
+def test_lifull_card_specs_fallback_uses_numeric_cell_text_for_sup_safety():
+    # 現状のLIFULL実データに<sup>分断は無い（実測で確認済み・docs/tasks/
+    # 20260905_lifull_area_fix.md）が、誤値防止の要求どおりフォールバック経路も
+    # _numeric_cell_text(区切り無しget_text)経由にしてあるため、将来<sup>分断された
+    # セルに遭遇しても安全であることの防御テスト（" "区切りだと"495m 2"になり
+    # _first_sqmが一致しなくなる＝表4のsup分断回帰と同じ原因）。
+    html = """
+    <table class="unitSummary">
+      <thead><tr><th>価格</th><th>土地面積</th><th>画像</th></tr></thead>
+      <tbody>
+        <tr class="raSpecRow"><td>1,000万円</td><td>495m<sup>2</sup></td><td>3枚</td></tr>
+        <tr class="memberDataRow"><td colspan="3">コメント</td></tr>
+      </tbody>
+    </table>
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    specs = watch._lifull_card_specs(soup)
+    assert watch._first_sqm(specs.get("土地面積", "")) == 495.0
+
+
+def test_extract_lifull_cards_recovers_area_end_to_end():
+    # _lifull_card_specsのフォールバックが_extract_lifull_cards経由でも
+    # area_sqm/price_man/種別まで正しく届くことを確認する結合テスト。
+    html = f"""
+    <div class="mod-mergeBuilding--sale">
+      <p class="bukkenName">静岡県伊豆の国市サンプル町</p>
+      {_LIFULL_TOCHI_TABLE_TH9_TD11}
+    </div>
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    out = watch._extract_lifull_cards(
+        soup, "https://www.homes.co.jp/tochi/shizuoka/izunokuni-city/list/",
+        ["伊豆の国"], BASE_FILTERS,
+    )
+    assert len(out) == 1
+    rec = out[0]
+    assert rec["area_sqm"] == 299.1
+    assert rec["price_man"] == 1500
+    assert rec["shubetsu"] == "更地"
+    assert rec["url"].endswith("/tochi/b-90000000000001/")
+
+
+def test_extract_lifull_cards_filter_keyword_mismatch_still_excludes():
+    # フォールバック追加後もfilter_keywords絞り込み自体は変わらないこと
+    # （別市町のキーワードでは除外される）。
+    html = f"""
+    <div class="mod-mergeBuilding--sale">
+      <p class="bukkenName">静岡県伊豆の国市サンプル町</p>
+      {_LIFULL_TOCHI_TABLE_TH9_TD11}
+    </div>
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    out = watch._extract_lifull_cards(
+        soup, "https://www.homes.co.jp/tochi/shizuoka/izunokuni-city/list/",
+        ["三島"], BASE_FILTERS,
+    )
+    assert out == []
+
+
+# ---------------------------------------------------------------------------
+# 9b. 中古戸建(kodate)のunitSummaryは入れ子table構造（消込表#480・同一コミットで
+#    発見・修正した回帰）。フォールバックの初版（1行目の直下tdの個数だけをth数と
+#    照合）は、実際に三島市の中古戸建で area_sqm を 100%→0% に退行させた。
+#
+#    原因: 外側<table class=unitSummary>は自前の<thead>を持たず、価格/間取り/
+#    土地面積/建物面積の各<th>は<td class="info">の中にネストされた
+#    <table class=verticalTable>の中にある。find_all("th"/"td")は子孫を
+#    再帰的に拾うため、外側テーブルを見ているつもりで内側テーブルのth/tdを拾って
+#    しまい、外側の1行目(画像セル/info セル/お気に入り/チェック=4個)と内側の
+#    th(価格/間取り/土地面積/建物面積=4個)がtd数だけ偶然一致し、
+#    「価格→掲載画像枚数」「間取り→全フィールド結合テキスト」のように無関係な
+#    列同士を誤ってzipしていた（土地(tochi)のunitSummaryには入れ子tableが無く
+#    この事故が起きないため、表9の回帰テストだけでは検出できなかった）。
+#    修正: th/tdの収集を「このテーブル自身が直接の祖先であるもの」だけに絞り、
+#    入れ子table分は自動的に除外→外側テーブルは自前th=0件で素通りし、内側の
+#    verticalTableがcard.find_all("table")の別要素として独立に判定され、
+#    従来どおり4/4一致で正しく取れる。
+# ---------------------------------------------------------------------------
+
+_LIFULL_KODATE_CARD_NESTED_TABLE = """
+<div class="mod-mergeBuilding--sale">
+  <p class="bukkenName">中古戸建　静岡県三島市サンプル町</p>
+  <table class="unitSummary">
+    <tbody>
+      <tr class="raSpecRow">
+        <td class="visited new">
+          <div class="buildingMeta"><a href="/kodate/b-90000000000003/">掲載画像8枚</a></div>
+        </td>
+        <td class="info">
+          <table class="verticalTable">
+            <tbody>
+              <tr>
+                <th>価格</th>
+                <td><span class="priceLabel"><span class="num">2,649</span>万円</span></td>
+                <th>間取り</th>
+                <td>3LDK</td>
+              </tr>
+              <tr>
+                <th>土地面積</th>
+                <td>197.88m²</td>
+                <th>建物面積</th>
+                <td>98.12m²</td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="relatedKeywordsData"><ul><li><span>駐車場あり</span></li></ul></div>
+        </td>
+        <td class="favorite"></td>
+        <td class="check" rowspan="3"></td>
+      </tr>
+      <tr class="memberDataRow">
+        <td class="memberNameBox" colspan="2">
+          <p class="textFeatureComment">サンプルコメント</p>
+          <div><p>（サンプル不動産株式会社）</p></div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+"""
+
+
+def test_lifull_card_specs_ignores_nested_table_cells():
+    # 外側table(unitSummary)は自前のth/tdを持たない（全て内側verticalTableの中）
+    # ため素通りし、内側table自身が独立に4/4一致で採用されること。
+    soup = BeautifulSoup(_LIFULL_KODATE_CARD_NESTED_TABLE, "html.parser")
+    specs = watch._lifull_card_specs(soup)
+    assert watch._first_sqm(specs.get("土地面積", "")) == 197.9
+    assert watch.parse_price_man(specs.get("価格", "")) == 2649
+    # 退行時の症状の固定: 誤った1行目フォールバックが採用されると
+    # 「価格」キーの値が外側の画像枚数セル由来の"掲載画像8枚"になってしまい、
+    # parse_price_manがNoneを返す（実際に一度この退行を作ってしまい、
+    # 自己テストで発見・同一コミットで修正した）。
+    assert specs.get("価格") != "掲載画像8枚"
+
+
+def test_extract_lifull_cards_kodate_nested_table_end_to_end():
+    soup = BeautifulSoup(_LIFULL_KODATE_CARD_NESTED_TABLE, "html.parser")
+    out = watch._extract_lifull_cards(
+        soup, "https://www.homes.co.jp/kodate/chuko/shizuoka/mishima-city/list/",
+        ["三島"], BASE_FILTERS,
+    )
+    assert len(out) == 1
+    rec = out[0]
+    assert rec["area_sqm"] == 197.9
+    assert rec["price_man"] == 2649
+    assert rec["shubetsu"] == "中古戸建"

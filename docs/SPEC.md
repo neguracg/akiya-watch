@@ -336,7 +336,7 @@ urls.yaml(sites)
 | `sumaimy_land_` | `parse_sumaimy_land` | ページャ（AJAX load、takkenと同基盤）・最大3頁。売買のため価格は総額(`parse_price_man`) | 9 |
 | `sumaimy_`（`sumaimy_land_`除く） | `parse_sumaimy_rent` | 同上。賃貸のため価格は月額(`parse_rent_man`) | 9 |
 | `lifull_rent_` | `parse_lifull_rent` | 単一ページ（202レート制限のため追従なし） | 3 |
-| `lifull_`（`lifull_akiyabank`除く） | `parse_lifull` | 単一ページ | 15 |
+| `lifull_`（`lifull_akiyabank`除く） | `parse_lifull` | 単一ページ（specsテーブルはth/td不一致時フォールバックあり） | 15 |
 | `ieichiba`（`ieichiba_shizuoka`/`ieichiba_shizuoka_camp`/`ieichiba_sanrin`） | `parse_ieichiba` | 単一ページ（一覧に面積なし） | 3 |
 | `mano_` | `parse_mano` | 単一ページ | 1 |
 | `fudosoken_` | `parse_fudosoken` | 単一ページ | 1 |
