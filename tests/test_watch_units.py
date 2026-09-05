@@ -402,3 +402,84 @@ def test_robots_percent_encoding_is_normalized_before_matching():
     robots_txt = "User-agent: *\nDisallow: /search/\nAllow: /search/real%2Destate/$\n"
     session = _FakeRobotsSession(robots_txt)
     assert watch.robots_allowed("https://kankocho.jp/search/real-estate/", session) is True
+
+
+# ---------------------------------------------------------------------------
+# 9. 地区グループ「外輪山西麓」（指示書 docs/tasks/20260905_hakone_west_impl.md・
+#    W4・2026-09-05）: filters.interest_groups は「machi(市町) + 大字」の両方が
+#    一致したときだけグループ名を interest へ追加する。大字名だけの一致にはしない
+#    （「神山」は箱根町にも、「東山」は熱海市にもあるため、machiの確定側で機構的に
+#    除外されることを回帰テストにする。指示書A末尾の単体テスト4件に対応）。
+# ---------------------------------------------------------------------------
+
+_HAKONE_WEST_FILTERS = {
+    **BASE_FILTERS,
+    "interest_groups": {
+        "外輪山西麓": {
+            "御殿場市": ["深沢", "東田中", "二子", "東山", "二の岡", "神山", "沼田", "萩蕪", "大坂"],
+            "裾野市": ["茶畑", "深良", "久根"],
+            "小山町": ["竹之下", "新柴", "桑木", "中島"],
+        },
+    },
+}
+
+
+def test_interest_group_matches_when_machi_and_oaza_both_hit():
+    rec = watch._make_record(
+        "https://example.com/1", "テスト物件", 500, 1500, False,
+        "御殿場市深沢の売土地", _HAKONE_WEST_FILTERS, location="御殿場市深沢",
+    )
+    assert rec["interest"] == ["外輪山西麓"]
+    assert rec["machi"] == "御殿場市"
+
+
+def test_interest_group_does_not_match_same_oaza_name_in_different_town():
+    # 「神山」は御殿場市側の対象大字だが、同名の大字が箱根町にもある。
+    # machiが箱根町に確定するため、大字名の文字列一致だけでは付かない。
+    rec = watch._make_record(
+        "https://example.com/2", "テスト物件", 500, 1500, False,
+        "箱根町神山の売土地", _HAKONE_WEST_FILTERS, location="箱根町神山",
+    )
+    assert rec["interest"] == []
+    assert rec["machi"] == "箱根町"
+
+
+def test_interest_group_does_not_match_same_oaza_name_in_unrelated_city():
+    # 「東山」は御殿場市側の対象大字だが、同名の大字が熱海市にもある。
+    rec = watch._make_record(
+        "https://example.com/3", "テスト物件", 500, 1500, False,
+        "熱海市東山の売土地", _HAKONE_WEST_FILTERS, location="熱海市東山",
+    )
+    assert rec["interest"] == []
+    assert rec["machi"] == "熱海市"
+
+
+def test_interest_group_badge_appears_once_even_with_two_oaza_hits():
+    rec = watch._make_record(
+        "https://example.com/4", "テスト物件", 500, 1500, False,
+        "御殿場市深沢字二子の売土地", _HAKONE_WEST_FILTERS, location="御殿場市深沢字二子",
+    )
+    assert rec["interest"] == ["外輪山西麓"]  # 深沢・二子の2大字が一致してもバッジは1つ
+
+
+def test_interest_group_not_inherited_by_rent_when_explicitly_reset():
+    # urls.yaml の filters.rent は interest_groups: {} を明示指定して基本を継承しない
+    # 設計（camp/home=未指定は基本を継承する。既存のrent上書き方式に合わせる）。
+    rent_filters = {**_HAKONE_WEST_FILTERS, "interest_groups": {}}
+    rec = watch._make_record(
+        "https://example.com/5", "テスト物件", 3, None, False,
+        "御殿場市深沢の賃貸", rent_filters, location="御殿場市深沢",
+        shubetsu_override="賃貸その他",
+    )
+    assert rec["interest"] == []
+
+
+def test_interest_group_existing_interest_keywords_still_apply():
+    # 既存のinterest_keywords判定は変えない（同じinterestリストへの追記であり
+    # 上書きではないこと）。
+    filters_with_keyword = {**_HAKONE_WEST_FILTERS, "interest_keywords": ["市街化調整区域"]}
+    rec = watch._make_record(
+        "https://example.com/6", "テスト物件", 500, 1500, False,
+        "御殿場市深沢 市街化調整区域の売土地", filters_with_keyword, location="御殿場市深沢",
+    )
+    assert set(rec["interest"]) == {"市街化調整区域", "外輪山西麓"}

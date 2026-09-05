@@ -699,6 +699,19 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     ng_hay = (location or "") + " " + flag_text
     ng_areas = [a for a in filters.get("exclude_areas", []) if a in ng_hay]
 
+    # 地区グループ（2026-09-05・指示書W4）: 「machi(市町) + 大字」の両方が一致した
+    # ときだけグループ名を本命バッジとして追加する（大字名だけの一致にしない。
+    # 「神山」は箱根町にも、「東山」は熱海市にもあるため）。machiはこの直後の
+    # 戻り値と同じ extract_machi(location or flag_text) を使い、二重計算を避けるため
+    # ここで確定して最後の "machi" フィールドにも使い回す。既存のinterest_keywords
+    # 判定（上2行）は変えず、同じ interest リストへ追記するだけ（表示・保存経路は共通）。
+    machi = extract_machi(location or flag_text)
+    oaza_hay = location or flag_text
+    for group_name, towns in (filters.get("interest_groups") or {}).items():
+        oazas = (towns or {}).get(machi)
+        if oazas and group_name not in interest and any(oaza in oaza_hay for oaza in oazas):
+            interest.append(group_name)
+
     is_rent = shubetsu_override is not None
     if is_rent:
         shubetsu, shubetsu_reason = shubetsu_override, "賃貸カテゴリ（掲載種別）"
@@ -748,7 +761,7 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
         "caution": caution,
         "ng_areas": ng_areas,
         "location": location,
-        "machi": extract_machi(location or flag_text),
+        "machi": machi,
         "madori": madori,
         "chikunen": chikunen,
         "kanrihi": kanrihi_yen,
@@ -4536,6 +4549,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
              + "<span id='interestKwText'>"
              + escape("、".join(filters.get("interest_keywords", [])) or "なし") + "</span>"
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。"
+                     "地区グループ（例: 外輪山西麓）も緑の好材料バッジとして表示されます。"
                      "賃貸タブでは売買と意味が違うため、内容が入れ替わります。") + "</div>")
     H.append("<div><span class='lbl lbl-minus'>マイナス要素（注意点）</span> "
              + "<span id='cautionKwText'>"
