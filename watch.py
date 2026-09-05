@@ -673,6 +673,29 @@ def ceiling_for(shubetsu: str, filters: dict) -> int:
     return by_type.get(shubetsu, filters.get("price_max_man", 1000))
 
 
+_KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）
+
+
+def _oaza_hit(oaza: str, text: str) -> bool:
+    """大字名がtext中に単独の地名として出現するかを判定する（interest_groups用）。
+
+    地番は「大字名+数字」で続くのが通常のため、一致直後が別の漢字だと「地名の続き」
+    （＝実は別の大字）である疑いが強い。例: 御殿場市の対象大字「神山」は、一致直後に
+    「平」が続く「神山平」（対象外の別の大字。2026-09-05実測で本番データに出現し発見）
+    まで拾ってしまう。直後が「字」（大字+字+小字の継続。例:「深沢字二子」）のときだけは
+    正しい継続として許容し、それ以外の漢字が続く場合は不一致として扱う。
+    """
+    start = 0
+    while True:
+        idx = text.find(oaza, start)
+        if idx == -1:
+            return False
+        tail = text[idx + len(oaza): idx + len(oaza) + 1]
+        if not tail or tail == "字" or not _KANJI_RE.match(tail):
+            return True
+        start = idx + 1  # この出現は別地名の一部。次の出現を探す
+
+
 def _make_record(url, text, price, area, area_est, flag_text, filters,
                  location="", default_type="更地", shubetsu_override=None,
                  madori=None, chikunen=None, kanrihi_yen=None,
@@ -709,7 +732,7 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     oaza_hay = location or flag_text
     for group_name, towns in (filters.get("interest_groups") or {}).items():
         oazas = (towns or {}).get(machi)
-        if oazas and group_name not in interest and any(oaza in oaza_hay for oaza in oazas):
+        if oazas and group_name not in interest and any(_oaza_hit(oaza, oaza_hay) for oaza in oazas):
             interest.append(group_name)
 
     is_rent = shubetsu_override is not None

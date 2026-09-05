@@ -474,6 +474,27 @@ def test_interest_group_not_inherited_by_rent_when_explicitly_reset():
     assert rec["interest"] == []
 
 
+def test_interest_group_does_not_match_oaza_as_prefix_of_different_oaza():
+    # 2026-09-05実測(takken_gotemba本番データ)で発見: 対象大字「神山」が、対象外の
+    # 別の大字「神山平」(御殿場市・二次圏だが今回の承認リストには入っていない)の
+    # 一部として誤爆していた。一致直後に別の漢字(「平」)が続く場合は不一致とする。
+    rec = watch._make_record(
+        "https://example.com/7", "テスト物件", 500, 1500, False,
+        "御殿場市神山平２丁目の売土地", _HAKONE_WEST_FILTERS, location="御殿場市神山平２丁目2-2",
+    )
+    assert rec["interest"] == []
+    assert rec["machi"] == "御殿場市"
+
+
+def test_interest_group_matches_oaza_followed_by_banchi_number():
+    # 上のケースの対比: 「神山」単体+地番(数字)なら正しく一致すること。
+    rec = watch._make_record(
+        "https://example.com/8", "テスト物件", 500, 1500, False,
+        "御殿場市神山350-1の売土地", _HAKONE_WEST_FILTERS, location="御殿場市神山350-1",
+    )
+    assert rec["interest"] == ["外輪山西麓"]
+
+
 def test_interest_group_existing_interest_keywords_still_apply():
     # 既存のinterest_keywords判定は変えない（同じinterestリストへの追記であり
     # 上書きではないこと）。
