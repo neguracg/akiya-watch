@@ -1470,3 +1470,10 @@ sources_extra:
     status: フェーズ2
     http: 200(JS)
     note: "React SPA(本文がJS描画・静的HTMLは空)。物件個別ページ/zero/{地域}/{slug}/は静的な可能性あり、sitemap.xml監視での実装余地。0円譲渡の山林・土地が出る本命チャネルなのでブラウザ自動化フェーズで再挑戦"
+  - channel: "③-B"
+    name: 東名地産（裾野市の地場業者）
+    kind: 土地/中古戸建
+    url: "https://www.tomeichisan.co.jp/area1c1/city_cr22220/"
+    status: 保留(要判断)
+    http: 200
+    note: "指示書W4(#9)は本命候補だったが、2026-09-05にサイト自身のナビ(トップ→タブ「賃貸」/「売買」)を辿って調査した結果、静的に発見できる唯一の市町別一覧URL(本欄url)は「賃貸」タブ側だった(li th=部屋番号/所在階/賃料/管理費・共益費/敷金保証金/礼金/間取り/面積の賃貸専用テーブル構造。IWR実測: HTTP 200・裾野=64語・賃料=14件・価格/総額=0件・敷金=15件)。トップの「売買」タブは土地(area2b3)/戸建(area3b2)/マンション(area4b1)の3カテゴリともボタン(JS)で、静的な市町別href(area1c1/city_cr22220と同型の`/areaNbM/city_crXXXXX/`)がHTML内に一切無い(area2b3/area3b2/area4b1それぞれのページを実測してもcity系リンク0件。/areaNbM/city_cr22220/を直接試すと3カテゴリとも404)。ブラウザ自動化なしでは売買側の市町絞込に到達できない(SPEC.md§10の制約に抵触)。加えてrobots.txtがanthropic-ai/Claude-Web/GPTBot等のAI系UAを名指しでAllow: /llms.txtのみに制限しており(Disallow:/の明示は無いため技術的には許可扱いになるが)運営者がAIクローラの深追いを望んでいない意思表示と読める。2つの理由が独立に成立するため見送り。在庫が増えJS無しの一覧が生えたら再調査。"
