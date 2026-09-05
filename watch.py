@@ -3282,6 +3282,314 @@ def parse_tokyu_resort(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
+# 高根不動産 アダプタ（takane-re.jp。地場業者自社HP・channel③-B・御殿場市上小林606
+#   ／静岡県知事免許(8)第10020号。httpのみ＝HTTPS非対応のためURLはhttpのまま扱う）
+#   カード = a[title][href*="details.html"] を含む<tr>（レガシーfont/tableレイアウトで
+#   CSSクラスがほぼ無いため、列位置ではなく各tdの中身（㎡/坪→面積、万円/億→価格）で
+#   判定する＝列順が入れ替わっても壊れない）。所在地 = a["title"]（例
+#   "静岡県御殿場市大堰 大堰売農地"）。
+#   「成約済/売止/申込済」は価格欄がその文字列だけの行と、価格の後ろに status が
+#   同居する行（例: 上小林売農地=「1,075万円」+「申込済」）の2パターンがあり、
+#   後者は価格が数値として取れるため残す。指示書の要件は「価格欄が数値でない行を
+#   落とす」なので、parse_price_manがNoneを返す行（＝成約済/売止単独）だけ落とす。
+#   単一ページ（実測3URLともページャなし。UT/OT合わせても100件未満）。
+# ---------------------------------------------------------------------------
+
+def _extract_takane_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for a in soup.select('a[title][href*="details.html"]'):
+        tr = a.find_parent("tr")
+        if not tr:
+            continue
+        tds = tr.find_all("td")
+        if not tds:
+            continue
+        location = a.get("title") or _numeric_cell_text(a)
+        price = None
+        for td in tds:
+            t = _numeric_cell_text(td)
+            if "万円" in t or "億" in t:
+                price = parse_price_man(t)
+                break
+        if price is None:
+            continue  # 価格欄が数値でない行（成約済/売止 単独）は落とす
+        area = None
+        for td in tds:
+            t = _numeric_cell_text(td)
+            if "㎡" in t or "m2" in t or "m²" in t or "坪" in t:
+                v = _first_sqm(t)
+                if v is not None:
+                    area = v
+                    break
+        url = normalize_url(a["href"], base_url)
+        row_text = tr.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + row_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location, price, area, False, row_text, filters,
+                                location=location, default_type="更地"))
+    return out
+
+
+def parse_takane(first_html, base_url, filter_keywords, filters, session):
+    """高根不動産アダプタ。単一ページ（実測でページャなし）。"""
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, 'a[title][href*="details.html"]'):
+        raise BotBlocked(f"高根不動産 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_takane_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[takane] cards={len(dedup)} (1ページ): {base_url}")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# 住和 アダプタ（10wa.co.jp。地場業者自社HP・channel③-B。運営=有限会社住和
+#   （TEL 0550-83-2222＝御殿場市局番。静岡県知事免許（６）第11512号。2026-09-05
+#   Invoke-WebRequestでフッタの会員票を直接確認。WebFetchが返した
+#   「株式会社十和／富士市」は誤読＝現物と食い違うため採用しない）。
+#   カード = table.station-table 内、価格 span.yachin を含む<tr>（直後に続く
+#   <tr><td colspan=6>説明文</td></tr> はspan.yachinを持たないため自然に除外される）。
+#   td順序: [0]物件番号(詳細リンク) [1]価格 [2]住所1 [3]土地面積/私道面積 [4]地目/用途地域1
+#   [5]現況/引渡時期 [6]詳細。面積セルは "253m<sup>2</sup>...&nbsp;" のように<sup>で
+#   分断されるため _numeric_cell_text 必須。単一ページ（実測でページャなし）。
+# ---------------------------------------------------------------------------
+
+def _extract_juwa_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for price_span in soup.select("span.yachin"):
+        tr = price_span.find_parent("tr")
+        if not tr:
+            continue
+        tds = tr.find_all("td")
+        if len(tds) < 4:
+            continue
+        a = tds[0].find("a", href=True)
+        if not a:
+            continue
+        price = parse_price_man(_numeric_cell_text(price_span))
+        location = _numeric_cell_text(tds[2])
+        area = _first_sqm(_numeric_cell_text(tds[3]))
+        url = normalize_url(a["href"], base_url)
+        row_text = tr.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + row_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or row_text[:60], price, area, False,
+                                row_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_juwa(first_html, base_url, filter_keywords, filters, session):
+    """住和アダプタ。単一ページ（実測でページャなし）。"""
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "span.yachin"):
+        raise BotBlocked(f"住和 ソフトブロック（{len(first_html)}B）: {base_url}")
+    out = _extract_juwa_cards(soup, base_url, filter_keywords, filters)
+    seen, dedup = set(), []
+    for r in out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[juwa] cards={len(dedup)} (1ページ): {base_url}")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# ハウスドゥ.com アダプタ（housedo.com。FC加盟店の自社在庫・channel③-B。
+#   「加盟の店舗はすべて独立企業により経営」＝各加盟店固有の物件一覧）
+#   カード = table.bukkendetails（1物件=1table）。見出し行 th.bukken-tit 内の
+#   a.detailEstate が詳細URL+所在地の簡易テキスト。価格/所在地/面積は各行の
+#   th→次のtd兄弟（_housedo_field_map）で拾う（1行に複数th/tdペアがあるレイアウト
+#   のため th.find_next_sibling("td") で個別対応させる＝列位置に依存しない）。
+#   面積は「土地面積」thを優先し、無ければ「建物面積」th（マンション等）へ
+#   フォールバック（parse_athomeの土地優先ロジックと同じ考え方）。面積セルは
+#   "112.62m<sup>2</sup>" のように<sup>で分断されるため _numeric_cell_text 必須。
+#   ページャ = ul.pager 内の実リンク(li a[href]。"?pageNum=N"はサイト自身が
+#   出力する値をそのまま辿る＝生成しない)。
+# ---------------------------------------------------------------------------
+
+HOUSEDO_MAX_PAGES = 10
+
+
+def _housedo_field_map(table) -> dict:
+    """1物件分のtable.bukkendetails内、各行のth→直後のtd兄弟をラベル→値セルの
+    辞書にする。1行に複数th/tdペアがあっても find_next_sibling("td") はth毎に
+    個別対応するため正しく分かれる（例: 建物面積/間取り/建物構造の3ペアが同じtr）。"""
+    fields = {}
+    for tr in table.select("tr"):
+        for th in tr.find_all("th", recursive=False):
+            td = th.find_next_sibling("td")
+            if td is not None:
+                key = th.get_text(strip=True)
+                if key and key not in fields:
+                    fields[key] = td
+    return fields
+
+
+def _housedo_next_url(soup, base_url):
+    """ページャの次頁リンク(ul.pager li a[href]。class="next"）をそのまま返す（無ければNone）。"""
+    nxt = soup.select_one("ul.pager li.next a[href]")
+    if nxt and nxt.get("href"):
+        return normalize_url(nxt["href"], base_url)
+    return None
+
+
+def _extract_housedo_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for table in soup.select("table.bukkendetails"):
+        header_th = table.select_one("th.bukken-tit")
+        a = header_th.find("a", href=True) if header_th else None
+        if not a:
+            continue
+        url = normalize_url(a["href"], base_url)
+        fields = _housedo_field_map(table)
+        price_td = fields.get("価格")
+        price = parse_price_man(_numeric_cell_text(price_td)) if price_td is not None else None
+        addr_td = fields.get("所在地")
+        location = _numeric_cell_text(addr_td) if addr_td is not None else a.get_text(strip=True)
+        area_td = fields.get("土地面積") or fields.get("建物面積")
+        area = _first_sqm(_numeric_cell_text(area_td)) if area_td is not None else None
+        card_text = table.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_housedo(first_html, base_url, filter_keywords, filters, session):
+    """ハウスドゥ.comアダプタ。ページャ("次へ"の実リンク追従)・最大HOUSEDO_MAX_PAGES頁。"""
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "table.bukkendetails"):
+        raise BotBlocked(f"ハウスドゥ.com ソフトブロック（{len(first_html)}B）: {base_url}")
+    all_out = _extract_housedo_cards(soup, base_url, filter_keywords, filters)
+    page_url = base_url
+    page = 1
+    seen_urls = {base_url}
+    while True:
+        if not _site_time_left():
+            log.warning(f"[housedo] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        nxt = _housedo_next_url(soup, page_url)
+        if not nxt or page >= HOUSEDO_MAX_PAGES:
+            break
+        if nxt in seen_urls:
+            log.warning(f"[housedo] 次ページURLが既出（ループ）→打ち切り: {nxt}")
+            break
+        time.sleep(random.uniform(3, 7))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[housedo] page {page + 1} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        soup = BeautifulSoup(html, "html.parser")
+        cards = _extract_housedo_cards(soup, nxt, filter_keywords, filters)
+        if not cards:
+            log.warning(f"[housedo] page {page + 1} カード0件 → 打ち切り")
+            break
+        all_out.extend(cards)
+        seen_urls.add(nxt)
+        page_url = nxt
+        page += 1
+
+    seen, dedup = set(), []
+    for r in all_out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[housedo] pages={page} cards={len(dedup)}")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
+# アットハウス アダプタ（at-house.jp。御殿場市二枚橋239・地場業者自社HP・channel③-B。
+#   ストレッチ枠(研究資料#19)。「売買のおすすめ」カルーセルではなく「地域から探す」の
+#   全件一覧を採用（purchase.html→/uri-tochi/→(静的href)/uri-tochi/shizuoka/→
+#   (静的href)/uri-tochi/shizuoka/result/{slug}-city.html。2026-09-05実測でサイト自身の
+#   ページ内リンクを辿って発見＝URLを推測・生成していない）。
+#   カード = div.article-object（不動産創研=parse_fudosokenと同型cellNレイアウト。
+#   画像がimg4.athome.jp配信＝athome系の業者向けテンプレートの疑い）。
+#   所在地 = td.cell1（_fudosoken_locationを流用＝先頭のspan.bold沿線表記を除去）。
+#   価格 = td.cell3（"1,298万円15.61万円"の順で価格→坪単価が連結されるが、
+#   parse_price_manは最初に見つかった"N万"だけを拾うため坪単価を誤読しない）。
+#   面積 = td.cell4（土地面積。"275.00㎡（83.18坪）-"）。
+#   ページャ = ul.article-pager li.pager-next a[href]（1頁のみの時は現在頁への
+#   自己ループURLになるため、既出URL打ち切りで自然に止まる＝ページ数を数えない）。
+# ---------------------------------------------------------------------------
+
+ATHOUSE_MAX_PAGES = 10
+
+
+def _athouse_next_url(soup, base_url):
+    nxt = soup.select_one("ul.article-pager li.pager-next a[href]")
+    if nxt and nxt.get("href"):
+        return normalize_url(nxt["href"], base_url)
+    return None
+
+
+def _extract_athouse_cards(soup, base_url, filter_keywords, filters) -> list:
+    out = []
+    for card in soup.select("div.article-object"):
+        name_a = card.select_one("p.object-name a[href]")
+        if not name_a:
+            continue
+        url = normalize_url(name_a["href"], base_url)
+        c1 = card.select_one(".cell1")
+        location = _fudosoken_location(c1) if c1 else name_a.get_text(strip=True)
+        c3 = card.select_one(".cell3")
+        price = parse_price_man(_numeric_cell_text(c3)) if c3 else None
+        c4 = card.select_one(".cell4")
+        area = _first_sqm(_numeric_cell_text(c4)) if c4 else None
+        card_text = card.get_text(" ", strip=True)
+        if filter_keywords and not any(kw in (location + " " + card_text) for kw in filter_keywords):
+            continue
+        out.append(_make_record(url, location or card_text[:60], price, area, False,
+                                card_text, filters, location=location, default_type="更地"))
+    return out
+
+
+def parse_athouse(first_html, base_url, filter_keywords, filters, session):
+    """アットハウスアダプタ。ページャ("次へ"の実リンク追従)・最大ATHOUSE_MAX_PAGES頁。"""
+    soup = BeautifulSoup(first_html, "html.parser")
+    if _page_blocked(first_html, soup, "div.article-object"):
+        raise BotBlocked(f"アットハウス ソフトブロック（{len(first_html)}B）: {base_url}")
+    all_out = _extract_athouse_cards(soup, base_url, filter_keywords, filters)
+    page_url = base_url
+    page = 1
+    seen_urls = {base_url}
+    while True:
+        if not _site_time_left():
+            log.warning(f"[athouse] サイト時間予算超過でページ追従打ち切り page={page}")
+            break
+        nxt = _athouse_next_url(soup, page_url)
+        if not nxt or page >= ATHOUSE_MAX_PAGES or nxt in seen_urls:
+            break
+        time.sleep(random.uniform(3, 7))
+        code, html = fetch(nxt, session)
+        if code != 200:
+            log.warning(f"[athouse] page {page + 1} HTTP {code} - ページ追従を打ち切り（URLは変更しない）")
+            break
+        soup = BeautifulSoup(html, "html.parser")
+        cards = _extract_athouse_cards(soup, nxt, filter_keywords, filters)
+        if not cards:
+            log.warning(f"[athouse] page {page + 1} カード0件 → 打ち切り")
+            break
+        all_out.extend(cards)
+        seen_urls.add(nxt)
+        page_url = nxt
+        page += 1
+
+    seen, dedup = set(), []
+    for r in all_out:
+        if r["key"] not in seen:
+            seen.add(r["key"])
+            dedup.append(r)
+    log.info(f"[athouse] pages={page} cards={len(dedup)}")
+    return dedup
+
+
+# ---------------------------------------------------------------------------
 # ジモティー アダプタ（jmty.jp/shizuoka/est-hou・est-land 共通構造。個人掲示板・channel④）
 #   カード = li.p-articles-list-item（"is-highlighted u-color-background-highlight" 等の
 #   追加クラスが付く場合があるが、CSSクラスセレクタは部分一致（複数クラスの1つでも可）
@@ -3718,6 +4026,11 @@ SITE_ADAPTERS = [
     (lambda sid: sid.startswith("foreste_"), parse_foreste),
     (lambda sid: sid.startswith("asagiri_"), parse_asagiri),
     (lambda sid: sid.startswith("tokyu_resort_"), parse_tokyu_resort),
+    # W4追加(箱根外輪山西麓・2026-09-05・消込表#479): 新規パーサ4本。
+    (lambda sid: sid.startswith("takane_"), parse_takane),
+    (lambda sid: sid.startswith("juwa_"), parse_juwa),
+    (lambda sid: sid.startswith("housedo_"), parse_housedo),
+    (lambda sid: sid.startswith("athouse_"), parse_athouse),
     (lambda sid: sid.startswith("akiya_athome_rent_"), parse_akiya_athome_rent),
     (lambda sid: sid.startswith("chintai_net_"), parse_chintai_net),
     (lambda sid: sid.startswith("eheya_"), parse_eheya),
@@ -4954,6 +5267,10 @@ const SITE_PREFIXES=[
   {full:'フォレステ',short:'フォレステ'},
   {full:'朝霧高原',short:'朝霧高原'},
   {full:'東急リゾート',short:'東急リゾート'},
+  {full:'高根不動産',short:'高根不動産'},
+  {full:'住和',short:'住和'},
+  {full:'ハウスドゥ.com',short:'ハウスドゥ'},
+  {full:'アットハウス',short:'アットハウス'},
 ];
 function shortSite(name){
   name=name||'';

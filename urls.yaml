@@ -1046,6 +1046,76 @@ sites:
     filter_keywords: "@camp_tiers"
     note: "robots: /search/real-estate/$ のみ許可＝クエリ無し・1頁目のみ(2頁目以降・?page=等クエリ付きはDisallow: /search/が勝ち不許可。robots_allowed()で実測確認済み)。2026-09-05実測 HTTP 200(1,010,468B)・1頁目REAL_ESTATE 50件・圏内一致3件(南都留郡鳴沢村10872番1 11万円/233m2、南都留郡鳴沢村11074番33 31万円/167m2、静岡県伊豆市土肥804番地 185万円/4774.1m2=適合)。parse_kankocho_ksiはページャ追従・pageSize付与をしない(2頁目以降はDisallowのため)。"
 
+  # ---- 箱根外輪山西麓(W4・2026-09-05・消込表#479): 新規パーサ4本(高根不動産/住和/
+  #   ハウスドゥ.com/アットハウス)。URLは docs/research/20260905_hakone_west_oaza_and_sites.md
+  #   から一字一句コピーし(アットハウスのみ研究資料が未確定だったため、サイト自身の
+  #   ページ内リンクを実際に辿って一覧URLを発見＝推測していない。詳細はnote参照)、
+  #   追加前に Invoke-WebRequest で再実測(a)済み ----
+  - id: takane_gotemba_sanrin
+    name: 高根不動産 事業用・山林農地 御殿場市
+    url: "http://www.takane-re.jp/tochi_busines/gotenba.html"
+    status: verified
+    channel: "③-B"
+    kind: 山林/農地/事業用地
+    tab: camp
+    note: "(有)高根不動産・御殿場市上小林606・静岡県知事免許(8)第10020号。httpのみ(HTTPS非対応のためURLはhttpのまま)。2026-09-05実測: HTTP 200・63,299B・6件（うち成約済/売止2件は価格欄が数値でないためparse側で落とす）。上小林売農地4,444.00m2/1,075万円（価格欄に「申込済」が同居するが価格自体は数値で取れるため残す）・大堰売農地1,958.00m2/472万円を実データで確認。単一ページ（ページャなし）"
+  - id: takane_gotemba_tochi
+    name: 高根不動産 売土地 御殿場市
+    url: "http://www.takane-re.jp/tochi/gotenba.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "httpのみ。2026-09-05実測: HTTP 200・150,016B・a[title][href*=details.html]で機械カウント29件。深沢・東田中(一次圏)・二の岡(別荘地帯)を含む。単一ページ（ページャなし）"
+  - id: takane_oyama_tochi
+    name: 高根不動産 売土地 小山町
+    url: "http://www.takane-re.jp/tochi/oyama.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "httpのみ。2026-09-05実測: HTTP 200・75,643B・11件。竹之下(一次圏トップ)売土地-1/2/3を含む。単一ページ（ページャなし）"
+  - id: juwa_gotemba_tochi
+    name: 住和 売土地 御殿場市
+    url: "https://10wa.co.jp/baibai/search279.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "運営=有限会社住和（TEL 0550-83-2222＝御殿場市局番・静岡県知事免許（６）第11512号。2026-09-05 Invoke-WebRequestでフッタの会員票を直接確認。WebFetchが返した「株式会社十和/富士市」は誤読のため不採用）。ハブ（b_bukken.html）ではなく本URL（一覧ページ）を直接指定。2026-09-05実測: HTTP 200・29,429B（2日おきに更新される旨の表記あり）・6件。深沢340万円/253m2（地目その他・上物有＝山林的な物件）を実データで確認。単一ページ（ページャなし）"
+  - id: juwa_oyama_tochi
+    name: 住和 売土地 小山町
+    url: "https://10wa.co.jp/baibai/1-0t.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "juwa_gotemba_tochiと同一運営（有限会社住和）・同一parse。2026-09-05実測: HTTP 200・7,665B・1件（中島1,180万円/230.21m2）。単一ページ（ページャなし）"
+  - id: housedo_gotemba
+    name: ハウスドゥ.com 御殿場市
+    url: "https://www.housedo.com/御殿場市/list/"
+    status: verified
+    channel: "③-B"
+    kind: 土地/中古戸建/新築戸建
+    tab: camp
+    note: "ハウスドゥFC加盟店の自社在庫（「加盟の店舗はすべて独立企業により経営」）。2026-09-05実測: HTTP 200・141,616B・41件・3頁（ページャの実リンク?pageNum=2/3をサイト自身の出力からそのまま辿る。生成しない）。塚原（土地）1,753万円/340.84m2、深沢・神山（一次圏）を含む"
+  - id: athouse_land_gotemba
+    name: アットハウス 売土地 御殿場市
+    url: "https://www.at-house.jp/uri-tochi/shizuoka/result/gotemba-city.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "ストレッチ枠（研究資料#19）。研究時点は「売買のおすすめ物件」カルーセル（全在庫でない）しか未確認だったため、2026-09-05にサイト自身のナビ（purchase.html→静的href /uri-tochi/→静的href /uri-tochi/shizuoka/→本URL）を実際に辿って全件一覧URLを発見（推測していない）。運営=御殿場市二枚橋239・代表 加藤正弘。2026-09-05実測: HTTP 200・46,609B・3件（total-count表示で確認）。杉名沢1,298万円/275.00m2を実データで確認。単一ページ（次頁リンクは1頁のみの時は現在頁への自己ループになる）"
+  - id: athouse_land_oyama
+    name: アットハウス 売土地 小山町
+    url: "https://www.at-house.jp/uri-tochi/shizuoka/result/sunto_oyama-city.html"
+    status: verified
+    channel: "③-B"
+    kind: 土地
+    tab: camp
+    note: "athouse_land_gotembaと同一運営・同一parse。2026-09-05実測: HTTP 200・42,058B・在庫少数（detail要素の実測で1件相当）。単一ページ"
+
   # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
   #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
   # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ
