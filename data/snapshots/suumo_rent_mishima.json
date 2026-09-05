@@ -43,7 +43,7 @@
       "chikunen": "築13年 2階建",
       "kanrihi": 3900,
       "shikikin": null,
-      "reikin": null,
+      "reikin": "7.2万円",
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
       "chimoku": "—",
@@ -940,7 +940,7 @@
       "text": "ヴェルデ　壱町田",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
+      "madori": "1LDK",
       "chikunen": "築20年 2階建",
       "kanrihi": 5500,
       "shikikin": null,
@@ -1191,20 +1191,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104428127/|コーポラス杉山　III": {
+    "https://suumo.jp/chintai/jnc_000104428127/|コーポラス杉山III": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.5,
       "area_sqm": 67.3,
       "url": "https://suumo.jp/chintai/jnc_000104428127/",
-      "text": "コーポラス杉山　III",
+      "text": "コーポラス杉山III",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
-      "chikunen": "築27年 3階建",
+      "chikunen": "築27年 地下1地上3階建",
       "kanrihi": null,
-      "shikikin": "13万円",
+      "shikikin": null,
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -1278,13 +1278,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109443810/?bc=100524128962|メゾン小山": {
+    "https://suumo.jp/chintai/jnc_000109443810/?bc=100524181288|メゾン小山": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 52.1,
-      "url": "https://suumo.jp/chintai/jnc_000109443810/?bc=100524128962",
+      "url": "https://suumo.jp/chintai/jnc_000109443810/?bc=100524181288",
       "text": "メゾン小山",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1307,14 +1307,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000100898134/?bc=100467065028|平喜Ａ": {
+    "https://suumo.jp/chintai/jnc_000100898134/?bc=100524263437|平喜A": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 5.2,
       "area_sqm": 40.9,
-      "url": "https://suumo.jp/chintai/jnc_000100898134/?bc=100467065028",
-      "text": "平喜Ａ",
+      "url": "https://suumo.jp/chintai/jnc_000100898134/?bc=100524263437",
+      "text": "平喜A",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2DK",
@@ -1336,13 +1336,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107495997/?bc=100509266777|プランドール": {
+    "https://suumo.jp/chintai/jnc_000107495997/?bc=100509267251|プランドール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.3,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000107495997/?bc=100509266777",
+      "url": "https://suumo.jp/chintai/jnc_000107495997/?bc=100509267251",
       "text": "プランドール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1394,13 +1394,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000092444625/?bc=100466051454|プランドール": {
+    "https://suumo.jp/chintai/jnc_000092444625/?bc=100466052854|プランドール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.6,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000092444625/?bc=100466051454",
+      "url": "https://suumo.jp/chintai/jnc_000092444625/?bc=100466052854",
       "text": "プランドール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1423,13 +1423,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000096483122/?bc=100501209630|プランドール": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000096483122/?bc=100515530326|プランドール": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.6,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000096483122/?bc=100501209630",
+      "url": "https://suumo.jp/chintai/jnc_000096483122/?bc=100515530326",
       "text": "プランドール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1452,13 +1452,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106404091/?bc=100501209608|プランドール": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000106404091/?bc=100513826231|プランドール": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.6,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000106404091/?bc=100501209608",
+      "url": "https://suumo.jp/chintai/jnc_000106404091/?bc=100513826231",
       "text": "プランドール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1481,13 +1481,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000091674179/?bc=100501259418|プランドール": {
+    "https://suumo.jp/chintai/jnc_000091674179/?bc=100501317438|プランドール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.7,
       "area_sqm": 33.0,
-      "url": "https://suumo.jp/chintai/jnc_000091674179/?bc=100501259418",
+      "url": "https://suumo.jp/chintai/jnc_000091674179/?bc=100501317438",
       "text": "プランドール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1597,13 +1597,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000033977044/?bc=100517462657|ラフィーネ花畑": {
+    "https://suumo.jp/chintai/jnc_000033977044/?bc=100520231724|ラフィーネ花畑": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 5.2,
       "area_sqm": 27.7,
-      "url": "https://suumo.jp/chintai/jnc_000033977044/?bc=100517462657",
+      "url": "https://suumo.jp/chintai/jnc_000033977044/?bc=100520231724",
       "text": "ラフィーネ花畑",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1655,13 +1655,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109011268/?bc=100520915938|レオパレスジュセル": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000109011268/?bc=100520671808|レオパレスジュセル": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 5.9,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000109011268/?bc=100520915938",
+      "url": "https://suumo.jp/chintai/jnc_000109011268/?bc=100520671808",
       "text": "レオパレスジュセル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1684,13 +1684,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108490734/?bc=100515713143|レオパレスジュセル": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108490734/?bc=100515466193|レオパレスジュセル": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 6.3,
       "area_sqm": 22.4,
-      "url": "https://suumo.jp/chintai/jnc_000108490734/?bc=100515713143",
+      "url": "https://suumo.jp/chintai/jnc_000108490734/?bc=100515466193",
       "text": "レオパレスジュセル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1742,14 +1742,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109051642/?bc=100521037924|ヒルズ・若松町III": {
+    "https://suumo.jp/chintai/jnc_000109051642/?bc=100522327803|ヒルズ・若松町ＩＩＩ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 8.3,
       "area_sqm": 59.4,
-      "url": "https://suumo.jp/chintai/jnc_000109051642/?bc=100521037924",
-      "text": "ヒルズ・若松町III",
+      "url": "https://suumo.jp/chintai/jnc_000109051642/?bc=100522327803",
+      "text": "ヒルズ・若松町ＩＩＩ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -1771,14 +1771,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109592916/?bc=100525286775|ヒルズ・若松町III": {
+    "https://suumo.jp/chintai/jnc_000109592916/?bc=100525143946|ヒルズ・若松町ＩＩＩ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 8.3,
       "area_sqm": 59.4,
-      "url": "https://suumo.jp/chintai/jnc_000109592916/?bc=100525286775",
-      "text": "ヒルズ・若松町III",
+      "url": "https://suumo.jp/chintai/jnc_000109592916/?bc=100525143946",
+      "text": "ヒルズ・若松町ＩＩＩ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -1945,18 +1945,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109324640/?bc=100523921775|ヴィライースト": {
+    "https://suumo.jp/chintai/jnc_000109324640/?bc=100524135758|ヴィライースト": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 7.1,
       "area_sqm": 72.8,
-      "url": "https://suumo.jp/chintai/jnc_000109324640/?bc=100523921775",
+      "url": "https://suumo.jp/chintai/jnc_000109324640/?bc=100524135758",
       "text": "ヴィライースト",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸その他",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
-      "chikunen": "築19年 2階建",
+      "chikunen": "築20年 地上2階建",
       "kanrihi": 4000,
       "shikikin": null,
       "reikin": null,
@@ -2032,13 +2032,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000075794159/?bc=100520343470|ドリームカーサ": {
-      "first_seen": "2026-08-31",
+    "https://suumo.jp/chintai/jnc_000075794159/?bc=100521398117|ドリームカーサ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉１",
       "price_man": 4.5,
       "area_sqm": 28.4,
-      "url": "https://suumo.jp/chintai/jnc_000075794159/?bc=100520343470",
+      "url": "https://suumo.jp/chintai/jnc_000075794159/?bc=100521398117",
       "text": "ドリームカーサ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2148,14 +2148,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000029523104/?bc=100524128873|K.グランディールII": {
+    "https://suumo.jp/chintai/jnc_000029523104/?bc=100524135757|ＫグランディールII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 4.7,
       "area_sqm": 45.0,
-      "url": "https://suumo.jp/chintai/jnc_000029523104/?bc=100524128873",
-      "text": "K.グランディールII",
+      "url": "https://suumo.jp/chintai/jnc_000029523104/?bc=100524135757",
+      "text": "ＫグランディールII",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2DK",
@@ -2322,13 +2322,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107425845/?bc=100468704288|シャルマンコーポ三島": {
+    "https://suumo.jp/chintai/jnc_000107425845/?bc=100467909175|シャルマンコーポ三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 8.0,
       "area_sqm": 55.9,
-      "url": "https://suumo.jp/chintai/jnc_000107425845/?bc=100468704288",
+      "url": "https://suumo.jp/chintai/jnc_000107425845/?bc=100467909175",
       "text": "シャルマンコーポ三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2351,13 +2351,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108771827/?bc=100525134548|シャルマンコーポ三島": {
+    "https://suumo.jp/chintai/jnc_000108771827/?bc=100525134541|シャルマンコーポ三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 12.0,
       "area_sqm": 75.0,
-      "url": "https://suumo.jp/chintai/jnc_000108771827/?bc=100525134548",
+      "url": "https://suumo.jp/chintai/jnc_000108771827/?bc=100525134541",
       "text": "シャルマンコーポ三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2380,13 +2380,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108167661/?bc=100517455403|ＳＨＩＮＥ　ＦＯＲＴ": {
+    "https://suumo.jp/chintai/jnc_000108167661/?bc=100514371213|ＳＨＩＮＥ　ＦＯＲＴ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中央町",
       "price_man": 16.0,
-      "area_sqm": 57.6,
-      "url": "https://suumo.jp/chintai/jnc_000108167661/?bc=100517455403",
+      "area_sqm": 57.4,
+      "url": "https://suumo.jp/chintai/jnc_000108167661/?bc=100514371213",
       "text": "ＳＨＩＮＥ　ＦＯＲＴ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2409,13 +2409,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109429926/?bc=100525080584|ＳＨＩＮＥ　ＦＯＲＴ": {
+    "https://suumo.jp/chintai/jnc_000109429926/?bc=100524399252|ＳＨＩＮＥ　ＦＯＲＴ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中央町",
       "price_man": 16.0,
       "area_sqm": 57.4,
-      "url": "https://suumo.jp/chintai/jnc_000109429926/?bc=100525080584",
+      "url": "https://suumo.jp/chintai/jnc_000109429926/?bc=100524399252",
       "text": "ＳＨＩＮＥ　ＦＯＲＴ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2467,14 +2467,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108495940/?bc=100515469353|伊豆箱根鉄道駿豆線 三島田町駅 3階建 築2年": {
+    "https://suumo.jp/chintai/jnc_000108495940/?bc=100516317018|ＪＲ東海道本線 三島駅 3階建 築2年": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中央町",
       "price_man": 16.0,
       "area_sqm": 57.6,
-      "url": "https://suumo.jp/chintai/jnc_000108495940/?bc=100515469353",
-      "text": "伊豆箱根鉄道駿豆線 三島田町駅 3階建 築2年",
+      "url": "https://suumo.jp/chintai/jnc_000108495940/?bc=100516317018",
+      "text": "ＪＲ東海道本線 三島駅 3階建 築2年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -2484,7 +2484,7 @@
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": null,
@@ -2496,14 +2496,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109592912/?bc=100524953938|伊豆箱根鉄道駿豆線 三島田町駅 3階建 築2年": {
+    "https://suumo.jp/chintai/jnc_000109592912/?bc=100524953938|ＪＲ東海道本線 三島駅 3階建 築2年": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中央町",
       "price_man": 16.0,
       "area_sqm": 57.4,
       "url": "https://suumo.jp/chintai/jnc_000109592912/?bc=100524953938",
-      "text": "伊豆箱根鉄道駿豆線 三島田町駅 3階建 築2年",
+      "text": "ＪＲ東海道本線 三島駅 3階建 築2年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -2513,7 +2513,7 @@
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": null,
@@ -2612,13 +2612,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106047524/?bc=100498314611|フルハウスＫ　Ｂ": {
+    "https://suumo.jp/chintai/jnc_000106047524/?bc=100498620860|フルハウスＫ　Ｂ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 6.0,
       "area_sqm": 55.5,
-      "url": "https://suumo.jp/chintai/jnc_000106047524/?bc=100498314611",
+      "url": "https://suumo.jp/chintai/jnc_000106047524/?bc=100498620860",
       "text": "フルハウスＫ　Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2641,13 +2641,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000041425836/?bc=100521338383|ロイヤルパレス徳倉": {
+    "https://suumo.jp/chintai/jnc_000041425836/?bc=100522329099|ロイヤルパレス徳倉": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 6.0,
-      "area_sqm": 68.1,
-      "url": "https://suumo.jp/chintai/jnc_000041425836/?bc=100521338383",
+      "area_sqm": 67.8,
+      "url": "https://suumo.jp/chintai/jnc_000041425836/?bc=100522329099",
       "text": "ロイヤルパレス徳倉",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2699,13 +2699,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106047522/?bc=100481745365|フルハウスＫ　Ａ": {
+    "https://suumo.jp/chintai/jnc_000106047522/?bc=100522356181|フルハウスＫ　Ａ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 6.0,
       "area_sqm": 55.5,
-      "url": "https://suumo.jp/chintai/jnc_000106047522/?bc=100481745365",
+      "url": "https://suumo.jp/chintai/jnc_000106047522/?bc=100522356181",
       "text": "フルハウスＫ　Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2728,14 +2728,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108856260/?bc=100521546907|ＳＵＮＭＡＬＬ　ＤＡＩＢＡ　Ａ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108856260/?bc=100519525800|SUNMALL　DAIBA　A": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大場",
       "price_man": 5.5,
       "area_sqm": 49.8,
-      "url": "https://suumo.jp/chintai/jnc_000108856260/?bc=100521546907",
-      "text": "ＳＵＮＭＡＬＬ　ＤＡＩＢＡ　Ａ",
+      "url": "https://suumo.jp/chintai/jnc_000108856260/?bc=100519525800",
+      "text": "SUNMALL　DAIBA　A",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -2757,13 +2757,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109449222/?bc=100524625992|伊豆箱根鉄道駿豆線 大場駅 3階建 築20年": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000109449222/?bc=100524069570|伊豆箱根鉄道駿豆線 大場駅 3階建 築20年": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 6.7,
       "area_sqm": 56.6,
-      "url": "https://suumo.jp/chintai/jnc_000109449222/?bc=100524625992",
+      "url": "https://suumo.jp/chintai/jnc_000109449222/?bc=100524069570",
       "text": "伊豆箱根鉄道駿豆線 大場駅 3階建 築20年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2786,13 +2786,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109384120/?bc=100523732416|ヘルプストベルク": {
+    "https://suumo.jp/chintai/jnc_000109384120/?bc=100523763623|ヘルプストベルク": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 6.7,
       "area_sqm": 56.6,
-      "url": "https://suumo.jp/chintai/jnc_000109384120/?bc=100523732416",
+      "url": "https://suumo.jp/chintai/jnc_000109384120/?bc=100523763623",
       "text": "ヘルプストベルク",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2902,14 +2902,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105125444/?bc=100491068592|フルハウスＹ　A棟": {
+    "https://suumo.jp/chintai/jnc_000105125444/?bc=100522327284|フルハウスＹ　Ａ棟": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 6.8,
       "area_sqm": 63.0,
-      "url": "https://suumo.jp/chintai/jnc_000105125444/?bc=100491068592",
-      "text": "フルハウスＹ　A棟",
+      "url": "https://suumo.jp/chintai/jnc_000105125444/?bc=100522327284",
+      "text": "フルハウスＹ　Ａ棟",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -2931,13 +2931,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000086222330/?bc=100524283863|オーキッド・すぎさわ": {
+    "https://suumo.jp/chintai/jnc_000086222330/?bc=100524581725|オーキッド・すぎさわ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 6.7,
       "area_sqm": 52.9,
-      "url": "https://suumo.jp/chintai/jnc_000086222330/?bc=100524283863",
+      "url": "https://suumo.jp/chintai/jnc_000086222330/?bc=100524581725",
       "text": "オーキッド・すぎさわ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -2960,17 +2960,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000099203228/?bc=100512071419|カンパネッロ": {
+    "https://suumo.jp/chintai/jnc_000099203228/?bc=100513057831|カンパネッロ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 6.8,
       "area_sqm": 53.1,
-      "url": "https://suumo.jp/chintai/jnc_000099203228/?bc=100512071419",
+      "url": "https://suumo.jp/chintai/jnc_000099203228/?bc=100513057831",
       "text": "カンパネッロ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2DK",
+      "madori": "2LDK",
       "chikunen": "築16年 3階建",
       "kanrihi": 4750,
       "shikikin": null,
@@ -3018,13 +3018,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000064555977/?bc=100513622239|グランコート幸原": {
+    "https://suumo.jp/chintai/jnc_000064555977/?bc=100518599785|グランコート幸原": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 6.7,
       "area_sqm": 53.8,
-      "url": "https://suumo.jp/chintai/jnc_000064555977/?bc=100513622239",
+      "url": "https://suumo.jp/chintai/jnc_000064555977/?bc=100518599785",
       "text": "グランコート幸原",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3047,13 +3047,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109410057/?bc=100520087175|グランドゥソレイユ": {
+    "https://suumo.jp/chintai/jnc_000109410057/?bc=100521422043|グランドゥソレイユ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.0,
       "area_sqm": 53.2,
-      "url": "https://suumo.jp/chintai/jnc_000109410057/?bc=100520087175",
+      "url": "https://suumo.jp/chintai/jnc_000109410057/?bc=100521422043",
       "text": "グランドゥソレイユ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3076,13 +3076,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109218574/?bc=100522253270|グランドゥソレイユ": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000109218574/?bc=100522238187|グランドゥソレイユ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.1,
       "area_sqm": 53.2,
-      "url": "https://suumo.jp/chintai/jnc_000109218574/?bc=100522253270",
+      "url": "https://suumo.jp/chintai/jnc_000109218574/?bc=100522238187",
       "text": "グランドゥソレイユ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3134,13 +3134,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108827098/?bc=100504567801|アビタシオンＡ": {
+    "https://suumo.jp/chintai/jnc_000108827098/?bc=100505404707|アビタシオンＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.6,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000108827098/?bc=100504567801",
+      "url": "https://suumo.jp/chintai/jnc_000108827098/?bc=100505404707",
       "text": "アビタシオンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3192,13 +3192,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106839533/?bc=100507919069|アビタシオンＡ": {
+    "https://suumo.jp/chintai/jnc_000106839533/?bc=100507201630|アビタシオンＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000106839533/?bc=100507919069",
+      "url": "https://suumo.jp/chintai/jnc_000106839533/?bc=100507201630",
       "text": "アビタシオンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3221,13 +3221,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107358539/?bc=100511539425|アビタシオンＡ": {
+    "https://suumo.jp/chintai/jnc_000107358539/?bc=100509371500|アビタシオンＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000107358539/?bc=100511539425",
+      "url": "https://suumo.jp/chintai/jnc_000107358539/?bc=100509371500",
       "text": "アビタシオンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3250,13 +3250,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104797771/?bc=100491359566|アビタシオンＡ": {
+    "https://suumo.jp/chintai/jnc_000104797771/?bc=100490895550|アビタシオンＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 7.0,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000104797771/?bc=100491359566",
+      "url": "https://suumo.jp/chintai/jnc_000104797771/?bc=100490895550",
       "text": "アビタシオンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3308,14 +3308,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108711560/?bc=000059560757|ベアテスPTMIII": {
+    "https://suumo.jp/chintai/jnc_000108711560/?bc=100520470171|ベアテスＰＴＭIII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.9,
       "area_sqm": 52.9,
-      "url": "https://suumo.jp/chintai/jnc_000108711560/?bc=000059560757",
-      "text": "ベアテスPTMIII",
+      "url": "https://suumo.jp/chintai/jnc_000108711560/?bc=100520470171",
+      "text": "ベアテスＰＴＭIII",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -3337,13 +3337,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109222269/?bc=100522359619|メゾンド・シュシュ": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000109222269/?bc=100522253304|メゾンド・シュシュ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 5.9,
       "area_sqm": 41.2,
-      "url": "https://suumo.jp/chintai/jnc_000109222269/?bc=100522359619",
+      "url": "https://suumo.jp/chintai/jnc_000109222269/?bc=100522253304",
       "text": "メゾンド・シュシュ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3366,13 +3366,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106375356/?bc=100428876501|ローズコートＳＵＧＩＹＡＭＡ": {
+    "https://suumo.jp/chintai/jnc_000106375356/?bc=100428876664|ローズコートＳＵＧＩＹＡＭＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.7,
       "area_sqm": 49.5,
-      "url": "https://suumo.jp/chintai/jnc_000106375356/?bc=100428876501",
+      "url": "https://suumo.jp/chintai/jnc_000106375356/?bc=100428876664",
       "text": "ローズコートＳＵＧＩＹＡＭＡ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3395,13 +3395,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107240138/?bc=100516888262|アヴニールドゥモエ": {
+    "https://suumo.jp/chintai/jnc_000107240138/?bc=100510531053|アヴニールドゥモエ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 5.4,
       "area_sqm": 55.2,
-      "url": "https://suumo.jp/chintai/jnc_000107240138/?bc=100516888262",
+      "url": "https://suumo.jp/chintai/jnc_000107240138/?bc=100510531053",
       "text": "アヴニールドゥモエ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3424,13 +3424,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108073534/?bc=100507037983|アヴニールドゥモエ": {
+    "https://suumo.jp/chintai/jnc_000108073534/?bc=100507195677|アヴニールドゥモエ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 5.9,
       "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000108073534/?bc=100507037983",
+      "url": "https://suumo.jp/chintai/jnc_000108073534/?bc=100507195677",
       "text": "アヴニールドゥモエ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3453,17 +3453,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108073535/?bc=100506669209|アヴニールドゥモエ": {
+    "https://suumo.jp/chintai/jnc_000108073535/?bc=100517974629|アヴニールドゥモエ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 5.9,
       "area_sqm": 55.2,
-      "url": "https://suumo.jp/chintai/jnc_000108073535/?bc=100506669209",
+      "url": "https://suumo.jp/chintai/jnc_000108073535/?bc=100517974629",
       "text": "アヴニールドゥモエ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
+      "madori": "3DK",
       "chikunen": "築31年 4階建",
       "kanrihi": 3000,
       "shikikin": null,
@@ -3482,13 +3482,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109106986/?bc=100522327630|ルナ　ジュイエ": {
+    "https://suumo.jp/chintai/jnc_000109106986/?bc=100521285843|ルナ　ジュイエ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 7.0,
       "area_sqm": 60.9,
-      "url": "https://suumo.jp/chintai/jnc_000109106986/?bc=100522327630",
+      "url": "https://suumo.jp/chintai/jnc_000109106986/?bc=100521285843",
       "text": "ルナ　ジュイエ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3540,18 +3540,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103765271/?bc=100512592878|セジュールオサダ３号館": {
+    "https://suumo.jp/chintai/jnc_000103765271/?bc=100479789943|セジュールオサダ　３号館": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 6.5,
-      "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000103765271/?bc=100512592878",
-      "text": "セジュールオサダ３号館",
+      "area_sqm": 57.8,
+      "url": "https://suumo.jp/chintai/jnc_000103765271/?bc=100479789943",
+      "text": "セジュールオサダ　３号館",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
-      "chikunen": "築22年 2階建",
+      "chikunen": "築28年 2階建",
       "kanrihi": null,
       "shikikin": "13万円",
       "reikin": null,
@@ -3569,18 +3569,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107211593/?bc=100506962074|セジュールオサダ３号館": {
+    "https://suumo.jp/chintai/jnc_000107211593/?bc=100506962074|セジュールオサダ　３号館": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 6.5,
       "area_sqm": 59.5,
       "url": "https://suumo.jp/chintai/jnc_000107211593/?bc=100506962074",
-      "text": "セジュールオサダ３号館",
+      "text": "セジュールオサダ　３号館",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
-      "chikunen": "築22年 2階建",
+      "chikunen": "築28年 2階建",
       "kanrihi": null,
       "shikikin": "13万円",
       "reikin": null,
@@ -3598,13 +3598,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108813444/?bc=100512864303|アウローラ": {
+    "https://suumo.jp/chintai/jnc_000108813444/?bc=100512071426|アウローラ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市八反畑",
       "price_man": 4.7,
       "area_sqm": 26.4,
-      "url": "https://suumo.jp/chintai/jnc_000108813444/?bc=100512864303",
+      "url": "https://suumo.jp/chintai/jnc_000108813444/?bc=100512071426",
       "text": "アウローラ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3627,13 +3627,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103866788/?bc=100491359618|アウローラ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000103866788/?bc=100486192066|アウローラ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市八反畑",
       "price_man": 5.1,
       "area_sqm": 26.4,
-      "url": "https://suumo.jp/chintai/jnc_000103866788/?bc=100491359618",
+      "url": "https://suumo.jp/chintai/jnc_000103866788/?bc=100486192066",
       "text": "アウローラ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3656,13 +3656,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106029819/?bc=100499827573|アウローラ": {
+    "https://suumo.jp/chintai/jnc_000106029819/?bc=100498445720|アウローラ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市八反畑",
       "price_man": 6.2,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000106029819/?bc=100499827573",
+      "url": "https://suumo.jp/chintai/jnc_000106029819/?bc=100498445720",
       "text": "アウローラ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3714,13 +3714,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105260159/?bc=100507801143|アウローラ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000105260159/?bc=100499827644|アウローラ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市八反畑",
       "price_man": 6.5,
       "area_sqm": 53.3,
-      "url": "https://suumo.jp/chintai/jnc_000105260159/?bc=100507801143",
+      "url": "https://suumo.jp/chintai/jnc_000105260159/?bc=100499827644",
       "text": "アウローラ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3743,13 +3743,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109084897/?bc=100474858932|エマージュ　ＥＭＡＧＥ": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000109084897/?bc=100474288703|エマージュ　ＥＭＡＧＥ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大場",
       "price_man": 5.3,
       "area_sqm": 42.6,
-      "url": "https://suumo.jp/chintai/jnc_000109084897/?bc=100474858932",
+      "url": "https://suumo.jp/chintai/jnc_000109084897/?bc=100474288703",
       "text": "エマージュ　ＥＭＡＧＥ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3859,13 +3859,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105238301/?bc=100491764766|アビタシオンタカダ": {
+    "https://suumo.jp/chintai/jnc_000105238301/?bc=100518156237|アビタシオンタカダ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 5.8,
       "area_sqm": 49.8,
-      "url": "https://suumo.jp/chintai/jnc_000105238301/?bc=100491764766",
+      "url": "https://suumo.jp/chintai/jnc_000105238301/?bc=100518156237",
       "text": "アビタシオンタカダ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3888,13 +3888,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107915428/?bc=100512792645|グリーングラスＮ": {
+    "https://suumo.jp/chintai/jnc_000107915428/?bc=100512410394|グリーングラスＮ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 5.6,
       "area_sqm": 49.0,
-      "url": "https://suumo.jp/chintai/jnc_000107915428/?bc=100512792645",
+      "url": "https://suumo.jp/chintai/jnc_000107915428/?bc=100512410394",
       "text": "グリーングラスＮ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3946,13 +3946,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108121555/?bc=100515575587|ヒルサイドテラス並木": {
+    "https://suumo.jp/chintai/jnc_000108121555/?bc=100514088855|ヒルサイドテラス並木": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.3,
       "area_sqm": 46.3,
-      "url": "https://suumo.jp/chintai/jnc_000108121555/?bc=100515575587",
+      "url": "https://suumo.jp/chintai/jnc_000108121555/?bc=100514088855",
       "text": "ヒルサイドテラス並木",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -3975,13 +3975,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108209461/?bc=100515145719|グリーングラスＳ": {
+    "https://suumo.jp/chintai/jnc_000108209461/?bc=100514821258|グリーングラスＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 7.0,
       "area_sqm": 68.8,
-      "url": "https://suumo.jp/chintai/jnc_000108209461/?bc=100515145719",
+      "url": "https://suumo.jp/chintai/jnc_000108209461/?bc=100514821258",
       "text": "グリーングラスＳ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4033,17 +4033,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108235228/?bc=100514975485|グリーングラスＳ": {
+    "https://suumo.jp/chintai/jnc_000108235228/?bc=100515297780|グリーングラスＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 7.4,
       "area_sqm": 68.8,
-      "url": "https://suumo.jp/chintai/jnc_000108235228/?bc=100514975485",
+      "url": "https://suumo.jp/chintai/jnc_000108235228/?bc=100515297780",
       "text": "グリーングラスＳ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
+      "madori": "2SLDK",
       "chikunen": "築21年 3階建",
       "kanrihi": 5750,
       "shikikin": null,
@@ -4062,13 +4062,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108827090/?bc=100498204650|ミクアルト": {
+    "https://suumo.jp/chintai/jnc_000108827090/?bc=100499039594|ミクアルト": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 6.4,
       "area_sqm": 43.6,
-      "url": "https://suumo.jp/chintai/jnc_000108827090/?bc=100498204650",
+      "url": "https://suumo.jp/chintai/jnc_000108827090/?bc=100499039594",
       "text": "ミクアルト",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4091,13 +4091,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106021640/?bc=100502814806|ミクアルト": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000106021640/?bc=100499223040|ミクアルト": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 6.6,
       "area_sqm": 43.6,
-      "url": "https://suumo.jp/chintai/jnc_000106021640/?bc=100502814806",
+      "url": "https://suumo.jp/chintai/jnc_000106021640/?bc=100499223040",
       "text": "ミクアルト",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4120,13 +4120,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000100640246/?bc=100425392512|カーサプラシード": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000100640246/?bc=100425551595|カーサプラシード": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 4.95,
       "area_sqm": 37.1,
-      "url": "https://suumo.jp/chintai/jnc_000100640246/?bc=100425392512",
+      "url": "https://suumo.jp/chintai/jnc_000100640246/?bc=100425551595",
       "text": "カーサプラシード",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4149,14 +4149,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109274957/?bc=100523851739|カメリア Ｂ": {
+    "https://suumo.jp/chintai/jnc_000109274957/?bc=100524450449|カメリアB": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉２",
       "price_man": 6.1,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000109274957/?bc=100523851739",
-      "text": "カメリア Ｂ",
+      "url": "https://suumo.jp/chintai/jnc_000109274957/?bc=100524450449",
+      "text": "カメリアB",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -4178,13 +4178,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109384122/?bc=100524182353|ヴィクトワールレーブ": {
+    "https://suumo.jp/chintai/jnc_000109384122/?bc=100523683598|ヴィクトワールレーブ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.5,
       "area_sqm": 58.9,
-      "url": "https://suumo.jp/chintai/jnc_000109384122/?bc=100524182353",
+      "url": "https://suumo.jp/chintai/jnc_000109384122/?bc=100523683598",
       "text": "ヴィクトワールレーブ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4265,13 +4265,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106447595/?bc=100498677352|カメリア・コート": {
+    "https://suumo.jp/chintai/jnc_000106447595/?bc=100499076876|カメリア・コート": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉",
       "price_man": 5.8,
       "area_sqm": 57.1,
-      "url": "https://suumo.jp/chintai/jnc_000106447595/?bc=100498677352",
+      "url": "https://suumo.jp/chintai/jnc_000106447595/?bc=100499076876",
       "text": "カメリア・コート",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4323,43 +4323,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000087739156/?bc=100486647607|コーナスガーデンA": {
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
-      "location": "静岡県三島市徳倉１",
-      "price_man": 6.5,
-      "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000087739156/?bc=100486647607",
-      "text": "コーナスガーデンA",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
-      "chikunen": "築29年 4階建",
-      "kanrihi": 3000,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
-    "https://suumo.jp/chintai/jnc_000051361922/?bc=100512361164|コーナスガーデンA": {
+    "https://suumo.jp/chintai/jnc_000087739156/?bc=100485028747|コーナスガーデンＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉１",
       "price_man": 6.5,
       "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000051361922/?bc=100512361164",
-      "text": "コーナスガーデンA",
+      "url": "https://suumo.jp/chintai/jnc_000087739156/?bc=100485028747",
+      "text": "コーナスガーデンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
@@ -4381,14 +4352,43 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000096395359/?bc=100504491728|コーナスガーデンA": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000051361922/?bc=100506666080|コーナスガーデンＡ": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "location": "静岡県三島市徳倉１",
+      "price_man": 6.5,
+      "area_sqm": 66.2,
+      "url": "https://suumo.jp/chintai/jnc_000051361922/?bc=100506666080",
+      "text": "コーナスガーデンＡ",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3LDK",
+      "chikunen": "築29年 4階建",
+      "kanrihi": 3000,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
+    "https://suumo.jp/chintai/jnc_000096395359/?bc=100504491728|コーナスガーデンＡ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉１",
       "price_man": 6.5,
       "area_sqm": 66.2,
       "url": "https://suumo.jp/chintai/jnc_000096395359/?bc=100504491728",
-      "text": "コーナスガーデンA",
+      "text": "コーナスガーデンＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
@@ -4410,13 +4410,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000041351654/?bc=100524105853|ウィングラッシア": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000041351654/?bc=100524019803|ウィングラッシア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市緑町",
       "price_man": 6.5,
-      "area_sqm": 41.6,
-      "url": "https://suumo.jp/chintai/jnc_000041351654/?bc=100524105853",
+      "area_sqm": 41.5,
+      "url": "https://suumo.jp/chintai/jnc_000041351654/?bc=100524019803",
       "text": "ウィングラッシア",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4439,13 +4439,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000013952846/?bc=100510919471|ワンロード・加茂川": {
+    "https://suumo.jp/chintai/jnc_000013952846/?bc=100511411021|ワンロード・加茂川": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.5,
       "area_sqm": 57.9,
-      "url": "https://suumo.jp/chintai/jnc_000013952846/?bc=100510919471",
+      "url": "https://suumo.jp/chintai/jnc_000013952846/?bc=100511411021",
       "text": "ワンロード・加茂川",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4497,13 +4497,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107417807/?bc=100508509509|ローズコートＳ": {
+    "https://suumo.jp/chintai/jnc_000107417807/?bc=100522327981|ローズコートＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 6.2,
       "area_sqm": 47.6,
-      "url": "https://suumo.jp/chintai/jnc_000107417807/?bc=100508509509",
+      "url": "https://suumo.jp/chintai/jnc_000107417807/?bc=100522327981",
       "text": "ローズコートＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4555,13 +4555,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109384130/?bc=100523565524|ローズコートＳ": {
+    "https://suumo.jp/chintai/jnc_000109384130/?bc=100524206371|ローズコートＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 6.3,
       "area_sqm": 57.8,
-      "url": "https://suumo.jp/chintai/jnc_000109384130/?bc=100523565524",
+      "url": "https://suumo.jp/chintai/jnc_000109384130/?bc=100524206371",
       "text": "ローズコートＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4584,14 +4584,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000064081043/?bc=100483045753|LIFE LIKE 21 II": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000064081043/?bc=100475810650|ＬＩＦＥ　ＬＩＫＥ２１II": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町３",
       "price_man": 5.5,
       "area_sqm": 23.8,
-      "url": "https://suumo.jp/chintai/jnc_000064081043/?bc=100483045753",
-      "text": "LIFE LIKE 21 II",
+      "url": "https://suumo.jp/chintai/jnc_000064081043/?bc=100475810650",
+      "text": "ＬＩＦＥ　ＬＩＫＥ２１II",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -4613,13 +4613,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109335413/?bc=100523232930|エアリー向山": {
+    "https://suumo.jp/chintai/jnc_000109335413/?bc=100523565562|エアリー向山": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.3,
       "area_sqm": 36.3,
-      "url": "https://suumo.jp/chintai/jnc_000109335413/?bc=100523232930",
+      "url": "https://suumo.jp/chintai/jnc_000109335413/?bc=100523565562",
       "text": "エアリー向山",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4642,13 +4642,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105174145/?bc=100495680039|ベルベデーレ": {
+    "https://suumo.jp/chintai/jnc_000105174145/?bc=100509241275|ベルベデーレ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市西旭ケ丘町",
       "price_man": 5.8,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000105174145/?bc=100495680039",
+      "url": "https://suumo.jp/chintai/jnc_000105174145/?bc=100509241275",
       "text": "ベルベデーレ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4671,13 +4671,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108441521/?bc=100516225191|エレシエル": {
+    "https://suumo.jp/chintai/jnc_000108441521/?bc=100522327806|エレシエル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108441521/?bc=100516225191",
+      "url": "https://suumo.jp/chintai/jnc_000108441521/?bc=100522327806",
       "text": "エレシエル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4700,13 +4700,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108441522/?bc=100516790632|エレシエル": {
+    "https://suumo.jp/chintai/jnc_000108441522/?bc=100516899234|エレシエル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108441522/?bc=100516790632",
+      "url": "https://suumo.jp/chintai/jnc_000108441522/?bc=100516899234",
       "text": "エレシエル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4729,13 +4729,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108441520/?bc=100516225190|エレシエル": {
+    "https://suumo.jp/chintai/jnc_000108441520/?bc=100516938291|エレシエル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.0,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108441520/?bc=100516225190",
+      "url": "https://suumo.jp/chintai/jnc_000108441520/?bc=100516938291",
       "text": "エレシエル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4787,13 +4787,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108441526/?bc=100516938286|エレシエル": {
+    "https://suumo.jp/chintai/jnc_000108441526/?bc=100522355955|エレシエル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 37.6,
-      "url": "https://suumo.jp/chintai/jnc_000108441526/?bc=100516938286",
+      "url": "https://suumo.jp/chintai/jnc_000108441526/?bc=100522355955",
       "text": "エレシエル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4816,13 +4816,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108441525/?bc=100516938298|エレシエル": {
+    "https://suumo.jp/chintai/jnc_000108441525/?bc=100522327710|エレシエル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 37.6,
-      "url": "https://suumo.jp/chintai/jnc_000108441525/?bc=100516938298",
+      "url": "https://suumo.jp/chintai/jnc_000108441525/?bc=100522327710",
       "text": "エレシエル",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -4932,14 +4932,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109330867/?bc=100009631571|ベアテスPTMII": {
+    "https://suumo.jp/chintai/jnc_000109330867/?bc=100523181626|ベアテスＰＴＭII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 7.2,
       "area_sqm": 58.0,
-      "url": "https://suumo.jp/chintai/jnc_000109330867/?bc=100009631571",
-      "text": "ベアテスPTMII",
+      "url": "https://suumo.jp/chintai/jnc_000109330867/?bc=100523181626",
+      "text": "ベアテスＰＴＭII",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -4961,15 +4961,44 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104663969/?bc=100487483091|コトー萩": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000104663969/?bc=100522327411|コトー萩": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000104663969/?bc=100487483091",
+      "url": "https://suumo.jp/chintai/jnc_000104663969/?bc=100522327411",
       "text": "コトー萩",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3DK",
+      "chikunen": "築33年 3階建",
+      "kanrihi": 5000,
+      "shikikin": null,
+      "reikin": "5.8万円",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
+    "https://suumo.jp/chintai/jnc_000104663971/?bc=100522328827|コトー萩": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "location": "静岡県三島市萩",
+      "price_man": 5.8,
+      "area_sqm": 55.4,
+      "url": "https://suumo.jp/chintai/jnc_000104663971/?bc=100522328827",
+      "text": "コトー萩",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
       "chikunen": "築33年 3階建",
@@ -4990,15 +5019,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104663971/?bc=100487526982|コトー萩": {
+    "https://suumo.jp/chintai/jnc_000108735205/?bc=100522327610|コトー萩": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000104663971/?bc=100487526982",
+      "url": "https://suumo.jp/chintai/jnc_000108735205/?bc=100522327610",
       "text": "コトー萩",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
       "chikunen": "築33年 3階建",
@@ -5019,44 +5048,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108735205/?bc=100522328005|コトー萩": {
+    "https://suumo.jp/chintai/jnc_000106952832/?bc=100522328954|コトー萩": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000108735205/?bc=100522328005",
+      "url": "https://suumo.jp/chintai/jnc_000106952832/?bc=100522328954",
       "text": "コトー萩",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3DK",
-      "chikunen": "築33年 3階建",
-      "kanrihi": 5000,
-      "shikikin": null,
-      "reikin": "5.8万円",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
-    "https://suumo.jp/chintai/jnc_000106952832/?bc=100522328016|コトー萩": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-04",
-      "location": "静岡県三島市萩",
-      "price_man": 5.8,
-      "area_sqm": 55.4,
-      "url": "https://suumo.jp/chintai/jnc_000106952832/?bc=100522328016",
-      "text": "コトー萩",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
       "chikunen": "築33年 3階建",
@@ -5135,13 +5135,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109280564/?bc=100518299999|スペースＫIII": {
+    "https://suumo.jp/chintai/jnc_000109280564/?bc=100523509876|スペースＫIII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市東町",
       "price_man": 6.0,
       "area_sqm": 40.0,
-      "url": "https://suumo.jp/chintai/jnc_000109280564/?bc=100518299999",
+      "url": "https://suumo.jp/chintai/jnc_000109280564/?bc=100523509876",
       "text": "スペースＫIII",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5164,13 +5164,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108451913/?bc=100510585080|ドミールアップワン": {
+    "https://suumo.jp/chintai/jnc_000108451913/?bc=100511738413|ドミールアップワン": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.0,
       "area_sqm": 38.8,
-      "url": "https://suumo.jp/chintai/jnc_000108451913/?bc=100510585080",
+      "url": "https://suumo.jp/chintai/jnc_000108451913/?bc=100511738413",
       "text": "ドミールアップワン",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5222,13 +5222,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000036874039/?bc=100500294847|サンモール中島Ａ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000036874039/?bc=100499429182|サンモール中島Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 4.8,
       "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000036874039/?bc=100500294847",
+      "url": "https://suumo.jp/chintai/jnc_000036874039/?bc=100499429182",
       "text": "サンモール中島Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5251,13 +5251,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104999939/?bc=100491273182|サンモール中島Ａ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000104999939/?bc=100489832319|サンモール中島Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 5.3,
       "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000104999939/?bc=100491273182",
+      "url": "https://suumo.jp/chintai/jnc_000104999939/?bc=100489832319",
       "text": "サンモール中島Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5280,18 +5280,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108635740/?bc=100519264612|アクアハイム大宮": {
+    "https://suumo.jp/chintai/jnc_000108635740/?bc=100517712639|アクアハイム大宮": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 7.2,
-      "area_sqm": 60.5,
-      "url": "https://suumo.jp/chintai/jnc_000108635740/?bc=100519264612",
+      "area_sqm": 59.6,
+      "url": "https://suumo.jp/chintai/jnc_000108635740/?bc=100517712639",
       "text": "アクアハイム大宮",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
-      "chikunen": "築30年 3階建",
+      "chikunen": "築32年 3階建",
       "kanrihi": 3000,
       "shikikin": null,
       "reikin": null,
@@ -5309,14 +5309,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109291925/?bc=100522804834|カメリアA": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000109291925/?bc=100522804834|カメリア Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉２",
       "price_man": 6.1,
       "area_sqm": 53.0,
       "url": "https://suumo.jp/chintai/jnc_000109291925/?bc=100522804834",
-      "text": "カメリアA",
+      "text": "カメリア Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -5338,14 +5338,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109291924/?bc=100522857927|カメリアA": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000109291924/?bc=100523637804|カメリア Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉２",
       "price_man": 6.6,
       "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000109291924/?bc=100522857927",
-      "text": "カメリアA",
+      "url": "https://suumo.jp/chintai/jnc_000109291924/?bc=100523637804",
+      "text": "カメリア Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -5396,13 +5396,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104569421/?bc=100490242946|フォルトゥーナ三島": {
+    "https://suumo.jp/chintai/jnc_000104569421/?bc=100488295344|フォルトゥーナ三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
-      "area_sqm": 53.5,
-      "url": "https://suumo.jp/chintai/jnc_000104569421/?bc=100490242946",
+      "area_sqm": 60.0,
+      "url": "https://suumo.jp/chintai/jnc_000104569421/?bc=100488295344",
       "text": "フォルトゥーナ三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5425,17 +5425,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105521417/?bc=100440506612|リバーサイド中島Ａ": {
+    "https://suumo.jp/chintai/jnc_000105521417/?bc=100465617138|リバーサイド中島Ａ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 5.2,
       "area_sqm": 50.6,
-      "url": "https://suumo.jp/chintai/jnc_000105521417/?bc=100440506612",
+      "url": "https://suumo.jp/chintai/jnc_000105521417/?bc=100465617138",
       "text": "リバーサイド中島Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3DK",
+      "madori": "3K",
       "chikunen": "築36年 2階建",
       "kanrihi": 3000,
       "shikikin": null,
@@ -5454,13 +5454,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106550852/?bc=100507919084|リバーサイド中島Ａ": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000106550852/?bc=100515749864|リバーサイド中島Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 5.8,
       "area_sqm": 50.6,
-      "url": "https://suumo.jp/chintai/jnc_000106550852/?bc=100507919084",
+      "url": "https://suumo.jp/chintai/jnc_000106550852/?bc=100515749864",
       "text": "リバーサイド中島Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5483,18 +5483,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105586896/?bc=100494386161|リバーサイド中島": {
+    "https://suumo.jp/chintai/jnc_000105586896/?bc=100494560240|リバーサイド中島Ｂ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 5.2,
       "area_sqm": 50.6,
-      "url": "https://suumo.jp/chintai/jnc_000105586896/?bc=100494386161",
-      "text": "リバーサイド中島",
+      "url": "https://suumo.jp/chintai/jnc_000105586896/?bc=100494560240",
+      "text": "リバーサイド中島Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
-      "chikunen": "築35年 2階建",
+      "chikunen": "築36年 2階建",
       "kanrihi": 3000,
       "shikikin": null,
       "reikin": null,
@@ -5512,13 +5512,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000090291908/?bc=100509130802|クレストールスズキＡ": {
+    "https://suumo.jp/chintai/jnc_000090291908/?bc=100508509504|クレストールスズキＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.0,
       "area_sqm": 51.5,
-      "url": "https://suumo.jp/chintai/jnc_000090291908/?bc=100509130802",
+      "url": "https://suumo.jp/chintai/jnc_000090291908/?bc=100508509504",
       "text": "クレストールスズキＡ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5541,13 +5541,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107665003/?bc=100516496666|リヴェール": {
+    "https://suumo.jp/chintai/jnc_000107665003/?bc=100510544306|リヴェール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.0,
       "area_sqm": 42.1,
-      "url": "https://suumo.jp/chintai/jnc_000107665003/?bc=100516496666",
+      "url": "https://suumo.jp/chintai/jnc_000107665003/?bc=100510544306",
       "text": "リヴェール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5628,13 +5628,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105260157/?bc=100502658444|セルカ・リーオ": {
+    "https://suumo.jp/chintai/jnc_000105260157/?bc=100492025365|セルカ・リーオ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市壱町田",
       "price_man": 6.8,
       "area_sqm": 43.6,
-      "url": "https://suumo.jp/chintai/jnc_000105260157/?bc=100502658444",
+      "url": "https://suumo.jp/chintai/jnc_000105260157/?bc=100492025365",
       "text": "セルカ・リーオ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5657,13 +5657,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108599830/?bc=100517527412|サウスガーデン": {
+    "https://suumo.jp/chintai/jnc_000108599830/?bc=100517603457|サウスガーデン": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.2,
       "area_sqm": 49.1,
-      "url": "https://suumo.jp/chintai/jnc_000108599830/?bc=100517527412",
+      "url": "https://suumo.jp/chintai/jnc_000108599830/?bc=100517603457",
       "text": "サウスガーデン",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5715,14 +5715,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104350795/?bc=100522327255|Ｆｅｌｉｚ（フェリース）": {
+    "https://suumo.jp/chintai/jnc_000104350795/?bc=100485168373|Feliz（フェリース）": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.8,
       "area_sqm": 30.3,
-      "url": "https://suumo.jp/chintai/jnc_000104350795/?bc=100522327255",
-      "text": "Ｆｅｌｉｚ（フェリース）",
+      "url": "https://suumo.jp/chintai/jnc_000104350795/?bc=100485168373",
+      "text": "Feliz（フェリース）",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
@@ -5860,13 +5860,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102962849/?bc=100474157933|ミレニアム・パレ": {
+    "https://suumo.jp/chintai/jnc_000102962849/?bc=100482862063|ミレニアム・パレ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 6.7,
       "area_sqm": 62.5,
-      "url": "https://suumo.jp/chintai/jnc_000102962849/?bc=100474157933",
+      "url": "https://suumo.jp/chintai/jnc_000102962849/?bc=100482862063",
       "text": "ミレニアム・パレ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5889,13 +5889,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109239811/?bc=100522374329|ミレニアム・パレ": {
+    "https://suumo.jp/chintai/jnc_000109239811/?bc=100524016601|ミレニアム・パレ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 6.8,
       "area_sqm": 62.5,
-      "url": "https://suumo.jp/chintai/jnc_000109239811/?bc=100522374329",
+      "url": "https://suumo.jp/chintai/jnc_000109239811/?bc=100524016601",
       "text": "ミレニアム・パレ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -5918,18 +5918,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108464303/?bc=100514141074|イーフラッツ山本": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108464303/?bc=100517934214|イーフラッツ山本": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市御園",
       "price_man": 6.5,
       "area_sqm": 63.3,
-      "url": "https://suumo.jp/chintai/jnc_000108464303/?bc=100514141074",
+      "url": "https://suumo.jp/chintai/jnc_000108464303/?bc=100517934214",
       "text": "イーフラッツ山本",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
-      "chikunen": "築25年 4階建",
+      "chikunen": "築26年 4階建",
       "kanrihi": 2000,
       "shikikin": null,
       "reikin": null,
@@ -6005,14 +6005,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000050143234/?bc=100514385087|セジュールオサダ5号館": {
+    "https://suumo.jp/chintai/jnc_000050143234/?bc=100516677472|セジュールオサダ５号館": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町３",
       "price_man": 7.5,
       "area_sqm": 68.2,
-      "url": "https://suumo.jp/chintai/jnc_000050143234/?bc=100514385087",
-      "text": "セジュールオサダ5号館",
+      "url": "https://suumo.jp/chintai/jnc_000050143234/?bc=100516677472",
+      "text": "セジュールオサダ５号館",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
@@ -6034,13 +6034,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108847893/?bc=100519457751|ニューグランポルテＴＳ": {
+    "https://suumo.jp/chintai/jnc_000108847893/?bc=100524805630|ニューグランポルテＴＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 7.35,
       "area_sqm": 36.3,
-      "url": "https://suumo.jp/chintai/jnc_000108847893/?bc=100519457751",
+      "url": "https://suumo.jp/chintai/jnc_000108847893/?bc=100524805630",
       "text": "ニューグランポルテＴＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6063,13 +6063,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108185433/?bc=100514648691|ニューグランポルテＴＳ": {
+    "https://suumo.jp/chintai/jnc_000108185433/?bc=100522327988|ニューグランポルテＴＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 8.05,
       "area_sqm": 43.5,
-      "url": "https://suumo.jp/chintai/jnc_000108185433/?bc=100514648691",
+      "url": "https://suumo.jp/chintai/jnc_000108185433/?bc=100522327988",
       "text": "ニューグランポルテＴＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6411,13 +6411,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108000173/?bc=100513909462|ココペリ": {
+    "https://suumo.jp/chintai/jnc_000108000173/?bc=100513509311|ココペリ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市梅名",
       "price_man": 7.2,
       "area_sqm": 62.5,
-      "url": "https://suumo.jp/chintai/jnc_000108000173/?bc=100513909462",
+      "url": "https://suumo.jp/chintai/jnc_000108000173/?bc=100513509311",
       "text": "ココペリ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6440,14 +6440,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107280193/?bc=100503854750|アムールフジ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107280193/?bc=100489184878|アムール・フジ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市佐野",
       "price_man": 4.5,
       "area_sqm": 48.0,
-      "url": "https://suumo.jp/chintai/jnc_000107280193/?bc=100503854750",
-      "text": "アムールフジ",
+      "url": "https://suumo.jp/chintai/jnc_000107280193/?bc=100489184878",
+      "text": "アムール・フジ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -6469,14 +6469,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000092524135/?bc=100504943485|アムールフジ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000092524135/?bc=100504943485|アムール・フジ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市佐野",
       "price_man": 4.8,
       "area_sqm": 48.0,
       "url": "https://suumo.jp/chintai/jnc_000092524135/?bc=100504943485",
-      "text": "アムールフジ",
+      "text": "アムール・フジ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -6614,13 +6614,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108711555/?bc=100518300045|アミティ加茂川": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108711555/?bc=100518362502|アミティ加茂川": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.3,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000108711555/?bc=100518300045",
+      "url": "https://suumo.jp/chintai/jnc_000108711555/?bc=100518362502",
       "text": "アミティ加茂川",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6643,13 +6643,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107179126/?bc=100505969681|ヘリテージ宮町": {
+    "https://suumo.jp/chintai/jnc_000107179126/?bc=100522327823|ヘリテージ宮町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 6.6,
       "area_sqm": 33.9,
-      "url": "https://suumo.jp/chintai/jnc_000107179126/?bc=100505969681",
+      "url": "https://suumo.jp/chintai/jnc_000107179126/?bc=100522327823",
       "text": "ヘリテージ宮町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6730,13 +6730,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107179130/?bc=100505969801|ヘリテージ宮町": {
+    "https://suumo.jp/chintai/jnc_000107179130/?bc=100522328092|ヘリテージ宮町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 7.0,
       "area_sqm": 33.9,
-      "url": "https://suumo.jp/chintai/jnc_000107179130/?bc=100505969801",
+      "url": "https://suumo.jp/chintai/jnc_000107179130/?bc=100522328092",
       "text": "ヘリテージ宮町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6759,13 +6759,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107179127/?bc=100505957334|ヘリテージ宮町": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107179127/?bc=100522327236|ヘリテージ宮町": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 7.1,
       "area_sqm": 34.8,
-      "url": "https://suumo.jp/chintai/jnc_000107179127/?bc=100505957334",
+      "url": "https://suumo.jp/chintai/jnc_000107179127/?bc=100522327236",
       "text": "ヘリテージ宮町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6788,13 +6788,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107179134/?bc=100505969705|ヘリテージ宮町": {
+    "https://suumo.jp/chintai/jnc_000107179134/?bc=100522327686|ヘリテージ宮町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 7.1,
       "area_sqm": 33.9,
-      "url": "https://suumo.jp/chintai/jnc_000107179134/?bc=100505969705",
+      "url": "https://suumo.jp/chintai/jnc_000107179134/?bc=100522327686",
       "text": "ヘリテージ宮町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6817,13 +6817,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107179133/?bc=100505957335|ヘリテージ宮町": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107179133/?bc=100522327193|ヘリテージ宮町": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 7.4,
       "area_sqm": 34.8,
-      "url": "https://suumo.jp/chintai/jnc_000107179133/?bc=100505957335",
+      "url": "https://suumo.jp/chintai/jnc_000107179133/?bc=100522327193",
       "text": "ヘリテージ宮町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6875,13 +6875,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102445126/?bc=100469584089|井ノ上ハイツ": {
+    "https://suumo.jp/chintai/jnc_000102445126/?bc=100515153131|井ノ上ハイツ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 56.7,
-      "url": "https://suumo.jp/chintai/jnc_000102445126/?bc=100469584089",
+      "url": "https://suumo.jp/chintai/jnc_000102445126/?bc=100515153131",
       "text": "井ノ上ハイツ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6933,13 +6933,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000098878709/?bc=100438862854|リジエールII": {
+    "https://suumo.jp/chintai/jnc_000098878709/?bc=100439084058|リジエールII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 8.65,
       "area_sqm": 43.5,
-      "url": "https://suumo.jp/chintai/jnc_000098878709/?bc=100438862854",
+      "url": "https://suumo.jp/chintai/jnc_000098878709/?bc=100439084058",
       "text": "リジエールII",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -6991,13 +6991,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107876570/?bc=100512049039|ファミーユ二日町": {
+    "https://suumo.jp/chintai/jnc_000107876570/?bc=100513826167|ファミーユ二日町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南二日町",
       "price_man": 6.8,
       "area_sqm": 62.1,
-      "url": "https://suumo.jp/chintai/jnc_000107876570/?bc=100512049039",
+      "url": "https://suumo.jp/chintai/jnc_000107876570/?bc=100513826167",
       "text": "ファミーユ二日町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7107,13 +7107,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109142813/?bc=100522112453|ローズコート加茂": {
+    "https://suumo.jp/chintai/jnc_000109142813/?bc=100522466785|ローズコート加茂": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.4,
       "area_sqm": 51.1,
-      "url": "https://suumo.jp/chintai/jnc_000109142813/?bc=100522112453",
+      "url": "https://suumo.jp/chintai/jnc_000109142813/?bc=100522466785",
       "text": "ローズコート加茂",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7339,14 +7339,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107947036/?bc=100514069550|サンフローラ Ｂ": {
+    "https://suumo.jp/chintai/jnc_000107947036/?bc=100517866480|サンフローラ　Ｂ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 5.0,
       "area_sqm": 43.5,
-      "url": "https://suumo.jp/chintai/jnc_000107947036/?bc=100514069550",
-      "text": "サンフローラ Ｂ",
+      "url": "https://suumo.jp/chintai/jnc_000107947036/?bc=100517866480",
+      "text": "サンフローラ　Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -7368,14 +7368,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108549272/?bc=100518484475|サンフローラ Ｂ": {
+    "https://suumo.jp/chintai/jnc_000108549272/?bc=100518484475|サンフローラ　Ｂ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市安久",
       "price_man": 5.6,
       "area_sqm": 43.5,
       "url": "https://suumo.jp/chintai/jnc_000108549272/?bc=100518484475",
-      "text": "サンフローラ Ｂ",
+      "text": "サンフローラ　Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -7397,13 +7397,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000100731767/?bc=100523637808|カーサセレーソ": {
+    "https://suumo.jp/chintai/jnc_000100731767/?bc=100524283859|カーサセレーソ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市文教町１",
       "price_man": 5.0,
       "area_sqm": 30.4,
-      "url": "https://suumo.jp/chintai/jnc_000100731767/?bc=100523637808",
+      "url": "https://suumo.jp/chintai/jnc_000100731767/?bc=100524283859",
       "text": "カーサセレーソ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7484,13 +7484,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108354153/?bc=100465617752|エクセレントＴＡＫＡ－Ａ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000108354153/?bc=100515530602|エクセレントＴＡＫＡ－Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 4.9,
       "area_sqm": 50.6,
-      "url": "https://suumo.jp/chintai/jnc_000108354153/?bc=100465617752",
+      "url": "https://suumo.jp/chintai/jnc_000108354153/?bc=100515530602",
       "text": "エクセレントＴＡＫＡ－Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7513,13 +7513,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108354152/?bc=100503760914|エクセレントＴＡＫＡ－Ａ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108354152/?bc=100510223874|エクセレントＴＡＫＡ－Ａ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 5.4,
-      "area_sqm": 50.6,
-      "url": "https://suumo.jp/chintai/jnc_000108354152/?bc=100503760914",
+      "area_sqm": 50.0,
+      "url": "https://suumo.jp/chintai/jnc_000108354152/?bc=100510223874",
       "text": "エクセレントＴＡＫＡ－Ａ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7571,13 +7571,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107271907/?bc=100507723176|アン・ソレイユ": {
+    "https://suumo.jp/chintai/jnc_000107271907/?bc=100508395060|アン・ソレイユ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 5.4,
       "area_sqm": 31.5,
-      "url": "https://suumo.jp/chintai/jnc_000107271907/?bc=100507723176",
+      "url": "https://suumo.jp/chintai/jnc_000107271907/?bc=100508395060",
       "text": "アン・ソレイユ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7658,13 +7658,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000026280366/?bc=100518482597|ツインベル長澤": {
+    "https://suumo.jp/chintai/jnc_000026280366/?bc=100522327549|ツインベル長澤": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 7.2,
       "area_sqm": 67.6,
-      "url": "https://suumo.jp/chintai/jnc_000026280366/?bc=100518482597",
+      "url": "https://suumo.jp/chintai/jnc_000026280366/?bc=100522327549",
       "text": "ツインベル長澤",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -7745,13 +7745,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106998512/?bc=100470247443|Casa Takekura": {
+    "https://suumo.jp/chintai/jnc_000106998512/?bc=100470371139|Casa Takekura": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市柳郷地",
       "price_man": 7.7,
       "area_sqm": 50.7,
-      "url": "https://suumo.jp/chintai/jnc_000106998512/?bc=100470247443",
+      "url": "https://suumo.jp/chintai/jnc_000106998512/?bc=100470371139",
       "text": "Casa Takekura",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8180,13 +8180,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000064959055/?bc=100517332483|ＪＲ東海道本線 三島駅 3階建 築23年": {
+    "https://suumo.jp/chintai/jnc_000064959055/?bc=100517162768|ＪＲ東海道本線 三島駅 3階建 築23年": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 5.2,
       "area_sqm": 27.7,
-      "url": "https://suumo.jp/chintai/jnc_000064959055/?bc=100517332483",
+      "url": "https://suumo.jp/chintai/jnc_000064959055/?bc=100517162768",
       "text": "ＪＲ東海道本線 三島駅 3階建 築23年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8267,17 +8267,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106884082/?bc=100504633155|アンソレイエ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000106884082/?bc=100513826246|アンソレイエ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 34.2,
-      "url": "https://suumo.jp/chintai/jnc_000106884082/?bc=100504633155",
+      "url": "https://suumo.jp/chintai/jnc_000106884082/?bc=100513826246",
       "text": "アンソレイエ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
+      "madori": "1SK",
       "chikunen": "築14年 2階建",
       "kanrihi": 5500,
       "shikikin": null,
@@ -8296,13 +8296,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000050077752/?bc=100524283883|グランド　ボヌール": {
-      "first_seen": "2026-08-31",
+    "https://suumo.jp/chintai/jnc_000050077752/?bc=100524581731|グランド　ボヌール": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 4.8,
       "area_sqm": 29.7,
-      "url": "https://suumo.jp/chintai/jnc_000050077752/?bc=100524283883",
+      "url": "https://suumo.jp/chintai/jnc_000050077752/?bc=100524581731",
       "text": "グランド　ボヌール",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8354,13 +8354,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107298873/?bc=100507565985|ソフィア南本町": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107298873/?bc=100507632004|ソフィア南本町": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南本町",
       "price_man": 6.1,
       "area_sqm": 31.4,
-      "url": "https://suumo.jp/chintai/jnc_000107298873/?bc=100507565985",
+      "url": "https://suumo.jp/chintai/jnc_000107298873/?bc=100507632004",
       "text": "ソフィア南本町",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8383,13 +8383,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108847892/?bc=100520990100|ディアス萩 Ｂ": {
+    "https://suumo.jp/chintai/jnc_000108847892/?bc=100521005196|ディアス萩 Ｂ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市萩",
       "price_man": 5.2,
       "area_sqm": 43.5,
-      "url": "https://suumo.jp/chintai/jnc_000108847892/?bc=100520990100",
+      "url": "https://suumo.jp/chintai/jnc_000108847892/?bc=100521005196",
       "text": "ディアス萩 Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8412,44 +8412,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108342607/?bc=100511539417|アラモ　ファミリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108342607/?bc=100513057731|アラモファミリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中田町",
       "price_man": 6.2,
       "area_sqm": 29.2,
-      "url": "https://suumo.jp/chintai/jnc_000108342607/?bc=100511539417",
-      "text": "アラモ　ファミリア",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
-      "chikunen": "築9年 3階建",
-      "kanrihi": 6600,
-      "shikikin": null,
-      "reikin": "6.82万円",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
-    "https://suumo.jp/chintai/jnc_000109561199/?bc=100522972442|アラモ　ファミリア": {
-      "first_seen": "2026-09-03",
-      "last_seen": "2026-09-04",
-      "location": "静岡県三島市中田町",
-      "price_man": 6.2,
-      "area_sqm": 29.2,
-      "url": "https://suumo.jp/chintai/jnc_000109561199/?bc=100522972442",
-      "text": "アラモ　ファミリア",
-      "shubetsu": "賃貸アパート",
+      "url": "https://suumo.jp/chintai/jnc_000108342607/?bc=100513057731",
+      "text": "アラモファミリア",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
       "chikunen": "築9年 3階建",
@@ -8470,13 +8441,42 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108711559/?bc=100518300114|グランディオーレＳ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000109561199/?bc=100522972442|アラモファミリア": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "location": "静岡県三島市中田町",
+      "price_man": 6.2,
+      "area_sqm": 29.2,
+      "url": "https://suumo.jp/chintai/jnc_000109561199/?bc=100522972442",
+      "text": "アラモファミリア",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "ワンルーム",
+      "chikunen": "築9年 3階建",
+      "kanrihi": 6600,
+      "shikikin": null,
+      "reikin": "6.2万円",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
+    "https://suumo.jp/chintai/jnc_000108711559/?bc=100518362532|グランディオーレＳ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南町",
       "price_man": 5.8,
       "area_sqm": 33.7,
-      "url": "https://suumo.jp/chintai/jnc_000108711559/?bc=100518300114",
+      "url": "https://suumo.jp/chintai/jnc_000108711559/?bc=100518362532",
       "text": "グランディオーレＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8499,13 +8499,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108905126/?bc=100519897053|グランディオーレＳ": {
+    "https://suumo.jp/chintai/jnc_000108905126/?bc=100520192815|グランディオーレＳ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南町",
       "price_man": 5.8,
       "area_sqm": 33.7,
-      "url": "https://suumo.jp/chintai/jnc_000108905126/?bc=100519897053",
+      "url": "https://suumo.jp/chintai/jnc_000108905126/?bc=100520192815",
       "text": "グランディオーレＳ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8644,13 +8644,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109330863/?bc=100523694695|ロイヤルヒルズ加茂": {
+    "https://suumo.jp/chintai/jnc_000109330863/?bc=100524338978|ロイヤルヒルズ加茂": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 8.9,
       "area_sqm": 93.0,
-      "url": "https://suumo.jp/chintai/jnc_000109330863/?bc=100523694695",
+      "url": "https://suumo.jp/chintai/jnc_000109330863/?bc=100524338978",
       "text": "ロイヤルヒルズ加茂",
       "shubetsu": "賃貸その他",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8673,13 +8673,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000099450401/?bc=100521038737|ロイヤルヒルズ加茂": {
+    "https://suumo.jp/chintai/jnc_000099450401/?bc=100521399368|ロイヤルヒルズ加茂": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 11.5,
       "area_sqm": 111.7,
-      "url": "https://suumo.jp/chintai/jnc_000099450401/?bc=100521038737",
+      "url": "https://suumo.jp/chintai/jnc_000099450401/?bc=100521399368",
       "text": "ロイヤルヒルズ加茂",
       "shubetsu": "賃貸その他",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -8702,14 +8702,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109267227/?bc=100522950601|アルコバレーノII": {
+    "https://suumo.jp/chintai/jnc_000109267227/?bc=100522972450|アルコバレーノ　II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 5.0,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000109267227/?bc=100522950601",
-      "text": "アルコバレーノII",
+      "url": "https://suumo.jp/chintai/jnc_000109267227/?bc=100522972450",
+      "text": "アルコバレーノ　II",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -8731,14 +8731,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108830874/?bc=100519086805|アルコバレーノII": {
+    "https://suumo.jp/chintai/jnc_000108830874/?bc=100521961121|アルコバレーノ　II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 5.2,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108830874/?bc=100519086805",
-      "text": "アルコバレーノII",
+      "url": "https://suumo.jp/chintai/jnc_000108830874/?bc=100521961121",
+      "text": "アルコバレーノ　II",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
@@ -8760,14 +8760,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108793714/?bc=100518997537|アルコバレーノII": {
+    "https://suumo.jp/chintai/jnc_000108793714/?bc=100518997537|アルコバレーノ　II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 5.3,
       "area_sqm": 29.4,
       "url": "https://suumo.jp/chintai/jnc_000108793714/?bc=100518997537",
-      "text": "アルコバレーノII",
+      "text": "アルコバレーノ　II",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
@@ -8789,14 +8789,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106286500/?bc=100501190151|アルコバレーノII": {
+    "https://suumo.jp/chintai/jnc_000106286500/?bc=100501190151|アルコバレーノ　II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 5.4,
       "area_sqm": 29.4,
       "url": "https://suumo.jp/chintai/jnc_000106286500/?bc=100501190151",
-      "text": "アルコバレーノII",
+      "text": "アルコバレーノ　II",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
@@ -8992,13 +8992,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108193408/?bc=100514762022|リヴェールコッコロ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108193408/?bc=100524280045|リヴェールコッコロ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市平田",
       "price_man": 8.1,
       "area_sqm": 58.4,
-      "url": "https://suumo.jp/chintai/jnc_000108193408/?bc=100514762022",
+      "url": "https://suumo.jp/chintai/jnc_000108193408/?bc=100524280045",
       "text": "リヴェールコッコロ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9021,13 +9021,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109410055/?bc=100513825970|アムール": {
+    "https://suumo.jp/chintai/jnc_000109410055/?bc=100524016557|アムール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.45,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000109410055/?bc=100513825970",
+      "url": "https://suumo.jp/chintai/jnc_000109410055/?bc=100524016557",
       "text": "アムール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9035,7 +9035,7 @@
       "chikunen": "築21年 2階建",
       "kanrihi": 5500,
       "shikikin": null,
-      "reikin": "3万円",
+      "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
       "chimoku": "—",
@@ -9079,13 +9079,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000070717896/?bc=100505615108|アムール": {
+    "https://suumo.jp/chintai/jnc_000070717896/?bc=100505667001|アムール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.65,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000070717896/?bc=100505615108",
+      "url": "https://suumo.jp/chintai/jnc_000070717896/?bc=100505667001",
       "text": "アムール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9108,13 +9108,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000087315038/?bc=100419417732|アムール": {
+    "https://suumo.jp/chintai/jnc_000087315038/?bc=100444576489|アムール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.65,
       "area_sqm": 50.4,
-      "url": "https://suumo.jp/chintai/jnc_000087315038/?bc=100419417732",
+      "url": "https://suumo.jp/chintai/jnc_000087315038/?bc=100444576489",
       "text": "アムール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9195,13 +9195,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107324812/?bc=100507757284|グランメゾン白瀧公園": {
+    "https://suumo.jp/chintai/jnc_000107324812/?bc=100522356237|グランメゾン白瀧公園": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市芝本町",
       "price_man": 4.7,
       "area_sqm": 26.4,
-      "url": "https://suumo.jp/chintai/jnc_000107324812/?bc=100507757284",
+      "url": "https://suumo.jp/chintai/jnc_000107324812/?bc=100522356237",
       "text": "グランメゾン白瀧公園",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9369,13 +9369,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000089735888/?bc=100513959421|ヴィラ停雲": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000089735888/?bc=100516827168|ヴィラ停雲": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 4.3,
       "area_sqm": 22.5,
-      "url": "https://suumo.jp/chintai/jnc_000089735888/?bc=100513959421",
+      "url": "https://suumo.jp/chintai/jnc_000089735888/?bc=100516827168",
       "text": "ヴィラ停雲",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9427,13 +9427,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105666274/?bc=100513826203|ヴィラ停雲": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000105666274/?bc=100498445718|ヴィラ停雲": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 7.0,
       "area_sqm": 47.1,
-      "url": "https://suumo.jp/chintai/jnc_000105666274/?bc=100513826203",
+      "url": "https://suumo.jp/chintai/jnc_000105666274/?bc=100498445718",
       "text": "ヴィラ停雲",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9514,14 +9514,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000077448992/?bc=100478029227|ファミール下加茂II": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000077448992/?bc=100478029227|ファミール下加茂II B": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 4.7,
       "area_sqm": 40.9,
       "url": "https://suumo.jp/chintai/jnc_000077448992/?bc=100478029227",
-      "text": "ファミール下加茂II",
+      "text": "ファミール下加茂II B",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -9543,14 +9543,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107825617/?bc=100477973635|ファミール下加茂II": {
+    "https://suumo.jp/chintai/jnc_000107825617/?bc=100481251486|ファミール下加茂II B": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 4.8,
-      "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000107825617/?bc=100477973635",
-      "text": "ファミール下加茂II",
+      "area_sqm": 40.9,
+      "url": "https://suumo.jp/chintai/jnc_000107825617/?bc=100481251486",
+      "text": "ファミール下加茂II B",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -9630,13 +9630,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108701510/?bc=100518300052|ジュネス": {
+    "https://suumo.jp/chintai/jnc_000108701510/?bc=100518362581|ジュネス": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南二日町",
       "price_man": 5.2,
       "area_sqm": 28.8,
-      "url": "https://suumo.jp/chintai/jnc_000108701510/?bc=100518300052",
+      "url": "https://suumo.jp/chintai/jnc_000108701510/?bc=100518362581",
       "text": "ジュネス",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9659,13 +9659,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106856831/?bc=100506874710|ジュネス": {
+    "https://suumo.jp/chintai/jnc_000106856831/?bc=100522327644|ジュネス": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南二日町",
       "price_man": 5.2,
       "area_sqm": 28.8,
-      "url": "https://suumo.jp/chintai/jnc_000106856831/?bc=100506874710",
+      "url": "https://suumo.jp/chintai/jnc_000106856831/?bc=100522327644",
       "text": "ジュネス",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9775,13 +9775,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108073533/?bc=100522327778|ドミールさつき": {
+    "https://suumo.jp/chintai/jnc_000108073533/?bc=100522327632|ドミールさつき": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市新谷",
       "price_man": 4.5,
       "area_sqm": 28.6,
-      "url": "https://suumo.jp/chintai/jnc_000108073533/?bc=100522327778",
+      "url": "https://suumo.jp/chintai/jnc_000108073533/?bc=100522327632",
       "text": "ドミールさつき",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9833,13 +9833,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000050062283/?bc=100515260452|ドミールさつき": {
+    "https://suumo.jp/chintai/jnc_000050062283/?bc=100518846997|ドミールさつき": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市新谷",
       "price_man": 4.7,
       "area_sqm": 28.8,
-      "url": "https://suumo.jp/chintai/jnc_000050062283/?bc=100515260452",
+      "url": "https://suumo.jp/chintai/jnc_000050062283/?bc=100518846997",
       "text": "ドミールさつき",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9862,13 +9862,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000090164210/?bc=100515193587|パークサイド一番町": {
+    "https://suumo.jp/chintai/jnc_000090164210/?bc=100513807709|パークサイド一番町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市一番町",
       "price_man": 6.7,
       "area_sqm": 36.3,
-      "url": "https://suumo.jp/chintai/jnc_000090164210/?bc=100515193587",
+      "url": "https://suumo.jp/chintai/jnc_000090164210/?bc=100513807709",
       "text": "パークサイド一番町",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -9920,13 +9920,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109092015/?bc=100521173368|カサグランデ": {
+    "https://suumo.jp/chintai/jnc_000109092015/?bc=100521460464|カサグランデ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市末広町",
       "price_man": 4.5,
       "area_sqm": 25.1,
-      "url": "https://suumo.jp/chintai/jnc_000109092015/?bc=100521173368",
+      "url": "https://suumo.jp/chintai/jnc_000109092015/?bc=100521460464",
       "text": "カサグランデ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10036,13 +10036,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107500629/?bc=100509241232|アルコバレーノＩ": {
+    "https://suumo.jp/chintai/jnc_000107500629/?bc=100509325016|アルコバレーノＩ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.8,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000107500629/?bc=100509241232",
+      "url": "https://suumo.jp/chintai/jnc_000107500629/?bc=100509325016",
       "text": "アルコバレーノＩ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10065,13 +10065,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108813442/?bc=100514821104|アルコバレーノＩ": {
+    "https://suumo.jp/chintai/jnc_000108813442/?bc=100515145725|アルコバレーノＩ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.8,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108813442/?bc=100514821104",
+      "url": "https://suumo.jp/chintai/jnc_000108813442/?bc=100515145725",
       "text": "アルコバレーノＩ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10268,13 +10268,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108701509/?bc=100009313666|セボージャ": {
+    "https://suumo.jp/chintai/jnc_000108701509/?bc=100520231727|セボージャ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉２",
       "price_man": 5.2,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000108701509/?bc=100009313666",
+      "url": "https://suumo.jp/chintai/jnc_000108701509/?bc=100520231727",
       "text": "セボージャ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10413,15 +10413,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000013953797/?bc=100491359576|ペアシティ榊": {
+    "https://suumo.jp/chintai/jnc_000013953797/?bc=100325453851|ペアシティ榊Ａ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 5.8,
       "area_sqm": 51.0,
-      "url": "https://suumo.jp/chintai/jnc_000013953797/?bc=100491359576",
-      "text": "ペアシティ榊",
-      "shubetsu": "賃貸マンション",
+      "url": "https://suumo.jp/chintai/jnc_000013953797/?bc=100325453851",
+      "text": "ペアシティ榊Ａ",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
       "chikunen": "築39年 2階建",
@@ -10442,15 +10442,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000013953798/?bc=100059502894|ペアシティ榊": {
+    "https://suumo.jp/chintai/jnc_000013953798/?bc=100465652414|ペアシティ榊Ａ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 5.8,
       "area_sqm": 51.0,
-      "url": "https://suumo.jp/chintai/jnc_000013953798/?bc=100059502894",
-      "text": "ペアシティ榊",
-      "shubetsu": "賃貸マンション",
+      "url": "https://suumo.jp/chintai/jnc_000013953798/?bc=100465652414",
+      "text": "ペアシティ榊Ａ",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3K",
       "chikunen": "築39年 2階建",
@@ -10500,13 +10500,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000057584214/?bc=100511551574|メゾン若松第一": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000057584214/?bc=100488644299|メゾン若松第一": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市若松町",
       "price_man": 5.0,
-      "area_sqm": 42.2,
-      "url": "https://suumo.jp/chintai/jnc_000057584214/?bc=100511551574",
+      "area_sqm": 43.0,
+      "url": "https://suumo.jp/chintai/jnc_000057584214/?bc=100488644299",
       "text": "メゾン若松第一",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10732,13 +10732,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000013953695/?bc=100500135819|メゾンアストリア": {
+    "https://suumo.jp/chintai/jnc_000013953695/?bc=100501691719|メゾンアストリア": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 6.7,
       "area_sqm": 58.8,
-      "url": "https://suumo.jp/chintai/jnc_000013953695/?bc=100500135819",
+      "url": "https://suumo.jp/chintai/jnc_000013953695/?bc=100501691719",
       "text": "メゾンアストリア",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10848,13 +10848,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000101141589/?bc=100524843466|フォルシュ・ジェイ２": {
+    "https://suumo.jp/chintai/jnc_000101141589/?bc=100502066913|フォルシュ・ジェイ２": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 5.0,
       "area_sqm": 45.1,
-      "url": "https://suumo.jp/chintai/jnc_000101141589/?bc=100524843466",
+      "url": "https://suumo.jp/chintai/jnc_000101141589/?bc=100502066913",
       "text": "フォルシュ・ジェイ２",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10935,13 +10935,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108263865/?bc=100515432025|ボザール峯": {
+    "https://suumo.jp/chintai/jnc_000108263865/?bc=100515297929|ボザール峯": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 4.7,
       "area_sqm": 29.8,
-      "url": "https://suumo.jp/chintai/jnc_000108263865/?bc=100515432025",
+      "url": "https://suumo.jp/chintai/jnc_000108263865/?bc=100515297929",
       "text": "ボザール峯",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -10993,14 +10993,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000063936112/?bc=100510684295|R-1　TOKURA": {
+    "https://suumo.jp/chintai/jnc_000063936112/?bc=100510684295|Ｒ－１ＴＯＫＵＲＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 4.2,
       "area_sqm": 25.6,
       "url": "https://suumo.jp/chintai/jnc_000063936112/?bc=100510684295",
-      "text": "R-1　TOKURA",
+      "text": "Ｒ－１ＴＯＫＵＲＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -11022,14 +11022,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000098694675/?bc=100518422351|R-1　TOKURA": {
+    "https://suumo.jp/chintai/jnc_000098694675/?bc=100509681020|Ｒ－１ＴＯＫＵＲＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 4.5,
-      "area_sqm": 25.6,
-      "url": "https://suumo.jp/chintai/jnc_000098694675/?bc=100518422351",
-      "text": "R-1　TOKURA",
+      "area_sqm": 29.3,
+      "url": "https://suumo.jp/chintai/jnc_000098694675/?bc=100509681020",
+      "text": "Ｒ－１ＴＯＫＵＲＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -11080,14 +11080,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108735206/?bc=100518553047|TOi et moi（トワエモア）　壱番館": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108735206/?bc=100522351829|ＴＯｉ　ｅｔ　ｍｏｉ（トワエモア）　壱番館": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.5,
       "area_sqm": 62.1,
-      "url": "https://suumo.jp/chintai/jnc_000108735206/?bc=100518553047",
-      "text": "TOi et moi（トワエモア）　壱番館",
+      "url": "https://suumo.jp/chintai/jnc_000108735206/?bc=100522351829",
+      "text": "ＴＯｉ　ｅｔ　ｍｏｉ（トワエモア）　壱番館",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
@@ -11109,14 +11109,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000055646428/?bc=100502814824|ＴＯＫＵＲＡＧＡＲＤＥＮＨＩＬＬ’Ｓ": {
+    "https://suumo.jp/chintai/jnc_000055646428/?bc=100502814824|ＴＯＫＵＲＡ　ＧＡＲＤＥＮ　ＨＩＬＬ’Ｓ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉",
       "price_man": 4.5,
       "area_sqm": 29.5,
       "url": "https://suumo.jp/chintai/jnc_000055646428/?bc=100502814824",
-      "text": "ＴＯＫＵＲＡＧＡＲＤＥＮＨＩＬＬ’Ｓ",
+      "text": "ＴＯＫＵＲＡ　ＧＡＲＤＥＮ　ＨＩＬＬ’Ｓ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1DK",
@@ -11138,20 +11138,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000022863712/?bc=100429787869|ＴＯＫＵＲＡＧＡＲＤＥＮＨＩＬＬ’Ｓ": {
+    "https://suumo.jp/chintai/jnc_000022863712/?bc=100439779780|ＴＯＫＵＲＡ　ＧＡＲＤＥＮ　ＨＩＬＬ’Ｓ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉",
       "price_man": 4.6,
       "area_sqm": 29.4,
-      "url": "https://suumo.jp/chintai/jnc_000022863712/?bc=100429787869",
-      "text": "ＴＯＫＵＲＡＧＡＲＤＥＮＨＩＬＬ’Ｓ",
+      "url": "https://suumo.jp/chintai/jnc_000022863712/?bc=100439779780",
+      "text": "ＴＯＫＵＲＡ　ＧＡＲＤＥＮ　ＨＩＬＬ’Ｓ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1DK",
       "chikunen": "築27年 3階建",
       "kanrihi": null,
-      "shikikin": null,
+      "shikikin": "9.2万円",
       "reikin": "4.6万円",
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -11167,13 +11167,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108368425/?bc=100516613874|タウニィエード": {
+    "https://suumo.jp/chintai/jnc_000108368425/?bc=100517092362|タウニィエード": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 4.5,
       "area_sqm": 48.7,
-      "url": "https://suumo.jp/chintai/jnc_000108368425/?bc=100516613874",
+      "url": "https://suumo.jp/chintai/jnc_000108368425/?bc=100517092362",
       "text": "タウニィエード",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11457,13 +11457,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000076156286/?bc=100512368444|エフハイム": {
+    "https://suumo.jp/chintai/jnc_000076156286/?bc=100497507366|エフハイム": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 4.8,
       "area_sqm": 39.7,
-      "url": "https://suumo.jp/chintai/jnc_000076156286/?bc=100512368444",
+      "url": "https://suumo.jp/chintai/jnc_000076156286/?bc=100497507366",
       "text": "エフハイム",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11573,13 +11573,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109112147/?bc=100521778355|アクアハイム三島": {
+    "https://suumo.jp/chintai/jnc_000109112147/?bc=100521580519|アクアハイム三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 3.7,
       "area_sqm": 24.4,
-      "url": "https://suumo.jp/chintai/jnc_000109112147/?bc=100521778355",
+      "url": "https://suumo.jp/chintai/jnc_000109112147/?bc=100521580519",
       "text": "アクアハイム三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11602,13 +11602,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109163777/?bc=100523955079|アクアハイム三島": {
+    "https://suumo.jp/chintai/jnc_000109163777/?bc=100521778354|アクアハイム三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 3.7,
       "area_sqm": 24.4,
-      "url": "https://suumo.jp/chintai/jnc_000109163777/?bc=100523955079",
+      "url": "https://suumo.jp/chintai/jnc_000109163777/?bc=100521778354",
       "text": "アクアハイム三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11631,13 +11631,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108771826/?bc=100520876848|アクアハイム三島": {
+    "https://suumo.jp/chintai/jnc_000108771826/?bc=100520826136|アクアハイム三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 3.7,
       "area_sqm": 24.4,
-      "url": "https://suumo.jp/chintai/jnc_000108771826/?bc=100520876848",
+      "url": "https://suumo.jp/chintai/jnc_000108771826/?bc=100520826136",
       "text": "アクアハイム三島",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11689,13 +11689,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107940986/?bc=100520791234|シティハイムスズキ": {
+    "https://suumo.jp/chintai/jnc_000107940986/?bc=100520825742|シティハイムスズキ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大場",
       "price_man": 4.2,
       "area_sqm": 38.9,
-      "url": "https://suumo.jp/chintai/jnc_000107940986/?bc=100520791234",
+      "url": "https://suumo.jp/chintai/jnc_000107940986/?bc=100520825742",
       "text": "シティハイムスズキ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11805,13 +11805,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107196238/?bc=100506938358|Ｍ Ｓｔａｇｅ Ｓａｅ(エムステージサエ)": {
+    "https://suumo.jp/chintai/jnc_000107196238/?bc=100506939297|Ｍ Ｓｔａｇｅ Ｓａｅ(エムステージサエ)": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 4.3,
       "area_sqm": 30.3,
-      "url": "https://suumo.jp/chintai/jnc_000107196238/?bc=100506938358",
+      "url": "https://suumo.jp/chintai/jnc_000107196238/?bc=100506939297",
       "text": "Ｍ Ｓｔａｇｅ Ｓａｅ(エムステージサエ)",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -11834,14 +11834,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108354155/?bc=100511411112|フレグランス杉山Ｅ棟": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108354155/?bc=100512319949|フレグランス杉山 Ｅ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 4.3,
       "area_sqm": 42.6,
-      "url": "https://suumo.jp/chintai/jnc_000108354155/?bc=100511411112",
-      "text": "フレグランス杉山Ｅ棟",
+      "url": "https://suumo.jp/chintai/jnc_000108354155/?bc=100512319949",
+      "text": "フレグランス杉山 Ｅ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2K",
@@ -11863,14 +11863,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107756301/?bc=100511129721|フレグランス杉山Ｅ棟": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107756301/?bc=100511129721|フレグランス杉山 Ｅ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 4.6,
       "area_sqm": 42.6,
       "url": "https://suumo.jp/chintai/jnc_000107756301/?bc=100511129721",
-      "text": "フレグランス杉山Ｅ棟",
+      "text": "フレグランス杉山 Ｅ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2DK",
@@ -12037,13 +12037,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108635742/?bc=100519020087|リデンテ南町": {
+    "https://suumo.jp/chintai/jnc_000108635742/?bc=100518955466|リデンテ南町": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市南町",
       "price_man": 4.8,
       "area_sqm": 39.6,
-      "url": "https://suumo.jp/chintai/jnc_000108635742/?bc=100519020087",
+      "url": "https://suumo.jp/chintai/jnc_000108635742/?bc=100518955466",
       "text": "リデンテ南町",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -12074,7 +12074,7 @@
       "area_sqm": 23.2,
       "url": "https://suumo.jp/chintai/jnc_000105909703/?bc=100513062207",
       "text": "エミネンスプラザ",
-      "shubetsu": "賃貸マンション",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
       "chikunen": "築31年 3階建",
@@ -12095,15 +12095,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106416368/?bc=100503789972|エミネンスプラザ": {
+    "https://suumo.jp/chintai/jnc_000106416368/?bc=100517807546|エミネンスプラザ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.0,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000106416368/?bc=100503789972",
+      "url": "https://suumo.jp/chintai/jnc_000106416368/?bc=100517807546",
       "text": "エミネンスプラザ",
-      "shubetsu": "賃貸マンション",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
       "chikunen": "築31年 3階建",
@@ -12124,15 +12124,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108927934/?bc=100501317559|エミネンスプラザ": {
+    "https://suumo.jp/chintai/jnc_000108927934/?bc=100501452284|エミネンスプラザ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.0,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000108927934/?bc=100501317559",
+      "url": "https://suumo.jp/chintai/jnc_000108927934/?bc=100501452284",
       "text": "エミネンスプラザ",
-      "shubetsu": "賃貸マンション",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
       "chikunen": "築31年 3階建",
@@ -12153,15 +12153,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107965783/?bc=100512763400|エミネンスプラザ": {
+    "https://suumo.jp/chintai/jnc_000107965783/?bc=100517807545|エミネンスプラザ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.1,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000107965783/?bc=100512763400",
+      "url": "https://suumo.jp/chintai/jnc_000107965783/?bc=100517807545",
       "text": "エミネンスプラザ",
-      "shubetsu": "賃貸マンション",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
       "chikunen": "築31年 3階建",
@@ -12182,15 +12182,15 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108927935/?bc=100513624747|エミネンスプラザ": {
+    "https://suumo.jp/chintai/jnc_000108927935/?bc=100513808892|エミネンスプラザ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町２",
       "price_man": 4.1,
       "area_sqm": 23.2,
-      "url": "https://suumo.jp/chintai/jnc_000108927935/?bc=100513624747",
+      "url": "https://suumo.jp/chintai/jnc_000108927935/?bc=100513808892",
       "text": "エミネンスプラザ",
-      "shubetsu": "賃貸マンション",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
       "chikunen": "築31年 3階建",
@@ -12356,13 +12356,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105828278/?bc=100498445814|アレグリア": {
+    "https://suumo.jp/chintai/jnc_000105828278/?bc=100499234839|アレグリア": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市東本町２",
       "price_man": 4.1,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000105828278/?bc=100498445814",
+      "url": "https://suumo.jp/chintai/jnc_000105828278/?bc=100499234839",
       "text": "アレグリア",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -12385,13 +12385,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103034036/?bc=100501602416|アレグリア": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000103034036/?bc=100496517432|アレグリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市東本町２",
       "price_man": 4.1,
       "area_sqm": 27.1,
-      "url": "https://suumo.jp/chintai/jnc_000103034036/?bc=100501602416",
+      "url": "https://suumo.jp/chintai/jnc_000103034036/?bc=100496517432",
       "text": "アレグリア",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13052,14 +13052,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108912923/?bc=100521231722|エクセレントTAKA　B": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108912923/?bc=100521231722|エクセレントＴＡＫＡ　Ｂ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 3.5,
       "area_sqm": 24.7,
       "url": "https://suumo.jp/chintai/jnc_000108912923/?bc=100521231722",
-      "text": "エクセレントTAKA　B",
+      "text": "エクセレントＴＡＫＡ　Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -13081,14 +13081,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108891130/?bc=100521231733|エクセレントTAKA　B": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108891130/?bc=100519818388|エクセレントＴＡＫＡ　Ｂ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 3.9,
       "area_sqm": 24.7,
-      "url": "https://suumo.jp/chintai/jnc_000108891130/?bc=100521231733",
-      "text": "エクセレントTAKA　B",
+      "url": "https://suumo.jp/chintai/jnc_000108891130/?bc=100519818388",
+      "text": "エクセレントＴＡＫＡ　Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1K",
@@ -13110,13 +13110,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000097450040/?bc=100517850065|サンシティ西島": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000097450040/?bc=100514110245|サンシティ西島": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 3.5,
       "area_sqm": 35.9,
-      "url": "https://suumo.jp/chintai/jnc_000097450040/?bc=100517850065",
+      "url": "https://suumo.jp/chintai/jnc_000097450040/?bc=100514110245",
       "text": "サンシティ西島",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13168,13 +13168,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109449224/?bc=100524069578|望月ハイツ": {
-      "first_seen": "2026-08-29",
+    "https://suumo.jp/chintai/jnc_000109449224/?bc=100524181182|望月ハイツ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市寿町",
       "price_man": 3.5,
       "area_sqm": 24.2,
-      "url": "https://suumo.jp/chintai/jnc_000109449224/?bc=100524069578",
+      "url": "https://suumo.jp/chintai/jnc_000109449224/?bc=100524181182",
       "text": "望月ハイツ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13255,20 +13255,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105338892/?bc=100492557238|classroom": {
+    "https://suumo.jp/chintai/jnc_000105338892/?bc=100500097117|classroom": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 18.3,
-      "url": "https://suumo.jp/chintai/jnc_000105338892/?bc=100492557238",
+      "url": "https://suumo.jp/chintai/jnc_000105338892/?bc=100500097117",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
       "chikunen": "築48年 3階建",
       "kanrihi": 15000,
-      "shikikin": null,
+      "shikikin": "3万円",
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -13313,13 +13313,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104380273/?bc=100486208255|classroom": {
+    "https://suumo.jp/chintai/jnc_000104380273/?bc=100486647621|classroom": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 17.1,
-      "url": "https://suumo.jp/chintai/jnc_000104380273/?bc=100486208255",
+      "url": "https://suumo.jp/chintai/jnc_000104380273/?bc=100486647621",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13342,20 +13342,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103627439/?bc=100460340738|classroom": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000103627439/?bc=100480883473|classroom": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 15.6,
-      "url": "https://suumo.jp/chintai/jnc_000103627439/?bc=100460340738",
+      "url": "https://suumo.jp/chintai/jnc_000103627439/?bc=100480883473",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
       "chikunen": "築48年 3階建",
       "kanrihi": 15000,
-      "shikikin": "3万円",
+      "shikikin": null,
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -13371,20 +13371,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103627438/?bc=100435145020|classroom": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000103627438/?bc=100480884825|classroom": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 15.6,
-      "url": "https://suumo.jp/chintai/jnc_000103627438/?bc=100435145020",
+      "url": "https://suumo.jp/chintai/jnc_000103627438/?bc=100480884825",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "ワンルーム",
       "chikunen": "築48年 3階建",
       "kanrihi": 15000,
-      "shikikin": "3万円",
+      "shikikin": null,
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -13429,13 +13429,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000069228038/?bc=100480883468|classroom": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000069228038/?bc=100480888971|classroom": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 14.1,
-      "url": "https://suumo.jp/chintai/jnc_000069228038/?bc=100480883468",
+      "url": "https://suumo.jp/chintai/jnc_000069228038/?bc=100480888971",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13487,13 +13487,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000072754821/?bc=100349187091|classroom": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000072754821/?bc=100349188370|classroom": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 4.9,
       "area_sqm": 22.2,
-      "url": "https://suumo.jp/chintai/jnc_000072754821/?bc=100349187091",
+      "url": "https://suumo.jp/chintai/jnc_000072754821/?bc=100349188370",
       "text": "classroom",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13516,13 +13516,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107590887/?bc=100502601441|NYビル": {
+    "https://suumo.jp/chintai/jnc_000107590887/?bc=100515530753|NYビル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 3.0,
       "area_sqm": 19.4,
-      "url": "https://suumo.jp/chintai/jnc_000107590887/?bc=100502601441",
+      "url": "https://suumo.jp/chintai/jnc_000107590887/?bc=100515530753",
       "text": "NYビル",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13574,13 +13574,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107590888/?bc=100501951994|NYビル": {
+    "https://suumo.jp/chintai/jnc_000107590888/?bc=100515530660|NYビル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 3.2,
       "area_sqm": 19.4,
-      "url": "https://suumo.jp/chintai/jnc_000107590888/?bc=100501951994",
+      "url": "https://suumo.jp/chintai/jnc_000107590888/?bc=100515530660",
       "text": "NYビル",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13603,13 +13603,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107590890/?bc=100502601439|NYビル": {
+    "https://suumo.jp/chintai/jnc_000107590890/?bc=100515530368|NYビル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 3.3,
       "area_sqm": 21.1,
-      "url": "https://suumo.jp/chintai/jnc_000107590890/?bc=100502601439",
+      "url": "https://suumo.jp/chintai/jnc_000107590890/?bc=100515530368",
       "text": "NYビル",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13632,13 +13632,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107597471/?bc=100503094772|NYビル": {
+    "https://suumo.jp/chintai/jnc_000107597471/?bc=100502260596|NYビル": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 3.5,
       "area_sqm": 21.1,
-      "url": "https://suumo.jp/chintai/jnc_000107597471/?bc=100503094772",
+      "url": "https://suumo.jp/chintai/jnc_000107597471/?bc=100502260596",
       "text": "NYビル",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13893,13 +13893,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106849991/?bc=100488902344|ＡＲＩＯＧＡＴＯ（アリオガト）": {
+    "https://suumo.jp/chintai/jnc_000106849991/?bc=100489024258|ＡＲＩＯＧＡＴＯ（アリオガト）": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 12.5,
       "area_sqm": 81.0,
-      "url": "https://suumo.jp/chintai/jnc_000106849991/?bc=100488902344",
+      "url": "https://suumo.jp/chintai/jnc_000106849991/?bc=100489024258",
       "text": "ＡＲＩＯＧＡＴＯ（アリオガト）",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -13951,13 +13951,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109351965/?bc=100523358689|ＰＩＫＯ": {
+    "https://suumo.jp/chintai/jnc_000109351965/?bc=100521344163|ＰＩＫＯ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大社町",
       "price_man": 5.8,
       "area_sqm": 31.6,
-      "url": "https://suumo.jp/chintai/jnc_000109351965/?bc=100523358689",
+      "url": "https://suumo.jp/chintai/jnc_000109351965/?bc=100521344163",
       "text": "ＰＩＫＯ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14067,13 +14067,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000101706348/?bc=100374016423|アベニュー３５": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000101706348/?bc=100372284540|アベニュー３５": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市幸原町１",
       "price_man": 2.6,
-      "area_sqm": 19.5,
-      "url": "https://suumo.jp/chintai/jnc_000101706348/?bc=100374016423",
+      "area_sqm": 21.1,
+      "url": "https://suumo.jp/chintai/jnc_000101706348/?bc=100372284540",
       "text": "アベニュー３５",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14357,13 +14357,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109436497/?bc=100492378469|ブラン　ノワール": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000109436497/?bc=100513826188|ブラン　ノワール": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 5.45,
       "area_sqm": 44.7,
-      "url": "https://suumo.jp/chintai/jnc_000109436497/?bc=100492378469",
+      "url": "https://suumo.jp/chintai/jnc_000109436497/?bc=100513826188",
       "text": "ブラン　ノワール",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14473,13 +14473,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108354143/?bc=100515669853|マルシオン・マルジュ": {
-      "first_seen": "2026-08-28",
+    "https://suumo.jp/chintai/jnc_000108354143/?bc=100521482433|マルシオン・マルジュ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市壱町田",
       "price_man": 6.3,
       "area_sqm": 65.7,
-      "url": "https://suumo.jp/chintai/jnc_000108354143/?bc=100515669853",
+      "url": "https://suumo.jp/chintai/jnc_000108354143/?bc=100521482433",
       "text": "マルシオン・マルジュ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14531,13 +14531,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109163776/?bc=100465618745|マルシオン・マルジュ": {
-      "first_seen": "2026-08-31",
+    "https://suumo.jp/chintai/jnc_000109163776/?bc=100467693139|マルシオン・マルジュ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市壱町田",
       "price_man": 6.5,
       "area_sqm": 65.7,
-      "url": "https://suumo.jp/chintai/jnc_000109163776/?bc=100465618745",
+      "url": "https://suumo.jp/chintai/jnc_000109163776/?bc=100467693139",
       "text": "マルシオン・マルジュ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14676,13 +14676,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109182190/?bc=100498445697|パルク長伏": {
+    "https://suumo.jp/chintai/jnc_000109182190/?bc=100497431894|パルク長伏": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 5.98,
       "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000109182190/?bc=100498445697",
+      "url": "https://suumo.jp/chintai/jnc_000109182190/?bc=100497431894",
       "text": "パルク長伏",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14734,13 +14734,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103521154/?bc=100484556831|パルク長伏": {
+    "https://suumo.jp/chintai/jnc_000103521154/?bc=100498432762|パルク長伏": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.48,
       "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000103521154/?bc=100484556831",
+      "url": "https://suumo.jp/chintai/jnc_000103521154/?bc=100498432762",
       "text": "パルク長伏",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -14763,13 +14763,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105681828/?bc=100504897819|パルク長伏": {
+    "https://suumo.jp/chintai/jnc_000105681828/?bc=100517866433|パルク長伏": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.6,
       "area_sqm": 65.6,
-      "url": "https://suumo.jp/chintai/jnc_000105681828/?bc=100504897819",
+      "url": "https://suumo.jp/chintai/jnc_000105681828/?bc=100517866433",
       "text": "パルク長伏",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15053,13 +15053,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108411294/?bc=100516357512|コウヒロハイムＣ": {
+    "https://suumo.jp/chintai/jnc_000108411294/?bc=100516027701|コウヒロハイムＣ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市壱町田",
       "price_man": 5.6,
       "area_sqm": 48.4,
-      "url": "https://suumo.jp/chintai/jnc_000108411294/?bc=100516357512",
+      "url": "https://suumo.jp/chintai/jnc_000108411294/?bc=100516027701",
       "text": "コウヒロハイムＣ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15140,13 +15140,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105426417/?bc=100512596138|伊豆箱根鉄道駿豆線 大場駅 3階建 築28年": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000105426417/?bc=100493207069|伊豆箱根鉄道駿豆線 大場駅 3階建 築28年": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市多呂",
       "price_man": 6.5,
       "area_sqm": 66.0,
-      "url": "https://suumo.jp/chintai/jnc_000105426417/?bc=100512596138",
+      "url": "https://suumo.jp/chintai/jnc_000105426417/?bc=100493207069",
       "text": "伊豆箱根鉄道駿豆線 大場駅 3階建 築28年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15256,13 +15256,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106849990/?bc=100428873096|プチソレイユ": {
+    "https://suumo.jp/chintai/jnc_000106849990/?bc=100522327199|プチソレイユ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉３",
       "price_man": 5.5,
       "area_sqm": 53.6,
-      "url": "https://suumo.jp/chintai/jnc_000106849990/?bc=100428873096",
+      "url": "https://suumo.jp/chintai/jnc_000106849990/?bc=100522327199",
       "text": "プチソレイユ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15517,13 +15517,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000094277256/?bc=100469199671|ユニヴェールＫＯＤＡＭＡ": {
+    "https://suumo.jp/chintai/jnc_000094277256/?bc=100478255398|ユニヴェールＫＯＤＡＭＡ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 5.0,
       "area_sqm": 57.3,
-      "url": "https://suumo.jp/chintai/jnc_000094277256/?bc=100469199671",
+      "url": "https://suumo.jp/chintai/jnc_000094277256/?bc=100478255398",
       "text": "ユニヴェールＫＯＤＡＭＡ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15662,13 +15662,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000064391962/?bc=100517866458|ハイムやすらぎ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000064391962/?bc=100383880695|ハイムやすらぎ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 6.2,
       "area_sqm": 58.0,
-      "url": "https://suumo.jp/chintai/jnc_000064391962/?bc=100517866458",
+      "url": "https://suumo.jp/chintai/jnc_000064391962/?bc=100383880695",
       "text": "ハイムやすらぎ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15691,13 +15691,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102981497/?bc=100508155932|ハイムやすらぎ": {
+    "https://suumo.jp/chintai/jnc_000102981497/?bc=100517866479|ハイムやすらぎ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市青木",
       "price_man": 6.2,
       "area_sqm": 58.0,
-      "url": "https://suumo.jp/chintai/jnc_000102981497/?bc=100508155932",
+      "url": "https://suumo.jp/chintai/jnc_000102981497/?bc=100517866479",
       "text": "ハイムやすらぎ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -15981,13 +15981,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109561197/?bc=100520705610|スペースＫII": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000109561197/?bc=100521610393|スペースＫII": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 5.7,
       "area_sqm": 42.4,
-      "url": "https://suumo.jp/chintai/jnc_000109561197/?bc=100520705610",
+      "url": "https://suumo.jp/chintai/jnc_000109561197/?bc=100521610393",
       "text": "スペースＫII",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -16155,13 +16155,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000088953655/?bc=100514141124|グランデ北沢II": {
+    "https://suumo.jp/chintai/jnc_000088953655/?bc=100517536789|グランデ北沢II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市北沢",
       "price_man": 6.3,
       "area_sqm": 48.9,
-      "url": "https://suumo.jp/chintai/jnc_000088953655/?bc=100514141124",
+      "url": "https://suumo.jp/chintai/jnc_000088953655/?bc=100517536789",
       "text": "グランデ北沢II",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -16184,13 +16184,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108127165/?bc=100514141084|グランデ北沢II": {
+    "https://suumo.jp/chintai/jnc_000108127165/?bc=100518020374|グランデ北沢II": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市北沢",
       "price_man": 6.3,
       "area_sqm": 48.9,
-      "url": "https://suumo.jp/chintai/jnc_000108127165/?bc=100514141084",
+      "url": "https://suumo.jp/chintai/jnc_000108127165/?bc=100518020374",
       "text": "グランデ北沢II",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -16329,14 +16329,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106242983/?bc=100455632202|ドミール・アトレ": {
-      "first_seen": "2026-08-27",
+    "https://suumo.jp/chintai/jnc_000106242983/?bc=100455632202|ドミールアトレ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 5.9,
       "area_sqm": 55.1,
       "url": "https://suumo.jp/chintai/jnc_000106242983/?bc=100455632202",
-      "text": "ドミール・アトレ",
+      "text": "ドミールアトレ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2DK",
@@ -16358,17 +16358,17 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106602318/?bc=100491359544|ドミール・アトレ": {
-      "first_seen": "2026-09-01",
+    "https://suumo.jp/chintai/jnc_000106602318/?bc=100455566069|ドミールアトレ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市徳倉４",
       "price_man": 5.9,
       "area_sqm": 55.1,
-      "url": "https://suumo.jp/chintai/jnc_000106602318/?bc=100491359544",
-      "text": "ドミール・アトレ",
+      "url": "https://suumo.jp/chintai/jnc_000106602318/?bc=100455566069",
+      "text": "ドミールアトレ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
+      "madori": "2DK",
       "chikunen": "築22年 3階建",
       "kanrihi": 3400,
       "shikikin": null,
@@ -16474,13 +16474,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106047528/?bc=100498306406|ルミエール花の木　B": {
+    "https://suumo.jp/chintai/jnc_000106047528/?bc=100498314566|ルミエール花の木　B": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 6.2,
       "area_sqm": 48.7,
-      "url": "https://suumo.jp/chintai/jnc_000106047528/?bc=100498306406",
+      "url": "https://suumo.jp/chintai/jnc_000106047528/?bc=100498314566",
       "text": "ルミエール花の木　B",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -16503,20 +16503,20 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000104439110/?bc=100500285074|メゾンＭロード　II": {
+    "https://suumo.jp/chintai/jnc_000104439110/?bc=100485535360|メゾンMロードII": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 7.8,
       "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000104439110/?bc=100500285074",
-      "text": "メゾンＭロード　II",
+      "url": "https://suumo.jp/chintai/jnc_000104439110/?bc=100485535360",
+      "text": "メゾンMロードII",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3LDK",
       "chikunen": "築24年 3階建",
       "kanrihi": null,
-      "shikikin": "15.6万円",
+      "shikikin": "1.56万円",
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -16532,18 +16532,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000015174180/?bc=100036801898|伊豆箱根鉄道駿豆線 大場駅 2階建 築31年": {
+    "https://suumo.jp/chintai/jnc_000015174180/?bc=100467646069|伊豆箱根鉄道駿豆線 大場駅 2階建 築29年": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 6.0,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000015174180/?bc=100036801898",
-      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築31年",
-      "shubetsu": "賃貸マンション",
+      "url": "https://suumo.jp/chintai/jnc_000015174180/?bc=100467646069",
+      "text": "伊豆箱根鉄道駿豆線 大場駅 2階建 築29年",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
-      "chikunen": "築31年 2階建",
+      "chikunen": "築29年 2階建",
       "kanrihi": null,
       "shikikin": null,
       "reikin": null,
@@ -16561,13 +16561,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000086008729/?bc=100500393154|メゾン・ド・ファミーユ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000086008729/?bc=100502976979|メゾン・ド・ファミーユ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市壱町田",
       "price_man": 5.7,
       "area_sqm": 55.3,
-      "url": "https://suumo.jp/chintai/jnc_000086008729/?bc=100500393154",
+      "url": "https://suumo.jp/chintai/jnc_000086008729/?bc=100502976979",
       "text": "メゾン・ド・ファミーユ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -16938,14 +16938,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000015174179/?bc=100428691940|ストークハウス・園田": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000015174179/?bc=100440344021|ストークハウス　園田": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中島",
       "price_man": 6.0,
       "area_sqm": 59.5,
-      "url": "https://suumo.jp/chintai/jnc_000015174179/?bc=100428691940",
-      "text": "ストークハウス・園田",
+      "url": "https://suumo.jp/chintai/jnc_000015174179/?bc=100440344021",
+      "text": "ストークハウス　園田",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
@@ -16967,14 +16967,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000055686579/?bc=100441709744|グランデュオ北村Ａ": {
+    "https://suumo.jp/chintai/jnc_000055686579/?bc=100477482018|グランデュオ北村A": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 7.0,
       "area_sqm": 62.9,
-      "url": "https://suumo.jp/chintai/jnc_000055686579/?bc=100441709744",
-      "text": "グランデュオ北村Ａ",
+      "url": "https://suumo.jp/chintai/jnc_000055686579/?bc=100477482018",
+      "text": "グランデュオ北村A",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
@@ -16996,18 +16996,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103799917/?bc=100441709866|グランデュオ北村Ｄ": {
+    "https://suumo.jp/chintai/jnc_000103799917/?bc=100477420924|グランデュオ北村D": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 7.0,
       "area_sqm": 62.9,
-      "url": "https://suumo.jp/chintai/jnc_000103799917/?bc=100441709866",
-      "text": "グランデュオ北村Ｄ",
+      "url": "https://suumo.jp/chintai/jnc_000103799917/?bc=100477420924",
+      "text": "グランデュオ北村D",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "3DK",
-      "chikunen": "築20年 3階建",
+      "chikunen": "築22年 3階建",
       "kanrihi": 3000,
       "shikikin": null,
       "reikin": "7万円",
@@ -17518,14 +17518,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106047526/?bc=100503455581|ルミエール花の木Ａ": {
+    "https://suumo.jp/chintai/jnc_000106047526/?bc=100498306486|ルミエール花の木　A": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.9,
       "area_sqm": 37.6,
-      "url": "https://suumo.jp/chintai/jnc_000106047526/?bc=100503455581",
-      "text": "ルミエール花の木Ａ",
+      "url": "https://suumo.jp/chintai/jnc_000106047526/?bc=100498306486",
+      "text": "ルミエール花の木　A",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2K",
@@ -18069,13 +18069,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108127166/?bc=100514141119|グランデ北沢": {
+    "https://suumo.jp/chintai/jnc_000108127166/?bc=100518020377|グランデ北沢": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市北沢",
       "price_man": 7.8,
       "area_sqm": 58.1,
-      "url": "https://suumo.jp/chintai/jnc_000108127166/?bc=100514141119",
+      "url": "https://suumo.jp/chintai/jnc_000108127166/?bc=100518020377",
       "text": "グランデ北沢",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18098,13 +18098,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102768566/?bc=100491986391|カーサカシワザキ": {
+    "https://suumo.jp/chintai/jnc_000102768566/?bc=100518020372|カーサカシワザキ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大場",
       "price_man": 4.8,
       "area_sqm": 58.3,
-      "url": "https://suumo.jp/chintai/jnc_000102768566/?bc=100491986391",
+      "url": "https://suumo.jp/chintai/jnc_000102768566/?bc=100518020372",
       "text": "カーサカシワザキ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18127,13 +18127,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000097894643/?bc=100332125693|カーサカシワザキ": {
+    "https://suumo.jp/chintai/jnc_000097894643/?bc=100518020384|カーサカシワザキ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大場",
       "price_man": 4.8,
       "area_sqm": 58.3,
-      "url": "https://suumo.jp/chintai/jnc_000097894643/?bc=100332125693",
+      "url": "https://suumo.jp/chintai/jnc_000097894643/?bc=100518020384",
       "text": "カーサカシワザキ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18214,13 +18214,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108401625/?bc=100503213810|レオパレスアーバン　イースト": {
+    "https://suumo.jp/chintai/jnc_000108401625/?bc=100514629167|レオパレスアーバン　イースト": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市東町",
       "price_man": 4.2,
       "area_sqm": 19.9,
-      "url": "https://suumo.jp/chintai/jnc_000108401625/?bc=100503213810",
+      "url": "https://suumo.jp/chintai/jnc_000108401625/?bc=100514629167",
       "text": "レオパレスアーバン　イースト",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18562,13 +18562,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951047/?bc=100522328117|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951047/?bc=100522351871|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.54,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951047/?bc=100522328117",
+      "url": "https://suumo.jp/chintai/jnc_000108951047/?bc=100522351871",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18591,13 +18591,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951048/?bc=100522328085|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951048/?bc=100522351835|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.54,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951048/?bc=100522328085",
+      "url": "https://suumo.jp/chintai/jnc_000108951048/?bc=100522351835",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18620,13 +18620,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951049/?bc=100522328042|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951049/?bc=100522351866|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.54,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951049/?bc=100522328042",
+      "url": "https://suumo.jp/chintai/jnc_000108951049/?bc=100522351866",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18649,13 +18649,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951046/?bc=100522351927|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951046/?bc=100521178462|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.54,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951046/?bc=100522351927",
+      "url": "https://suumo.jp/chintai/jnc_000108951046/?bc=100521178462",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18678,13 +18678,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951045/?bc=100522351907|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951045/?bc=100521178450|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.7,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951045/?bc=100522351907",
+      "url": "https://suumo.jp/chintai/jnc_000108951045/?bc=100521178450",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18707,13 +18707,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108951050/?bc=100522328070|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108951050/?bc=100522351874|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 6.7,
       "area_sqm": 43.2,
-      "url": "https://suumo.jp/chintai/jnc_000108951050/?bc=100522328070",
+      "url": "https://suumo.jp/chintai/jnc_000108951050/?bc=100522351874",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18736,13 +18736,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108956545/?bc=100522327812|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108956545/?bc=100522351837|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 7.51,
       "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000108956545/?bc=100522327812",
+      "url": "https://suumo.jp/chintai/jnc_000108956545/?bc=100522351837",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18765,13 +18765,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108956542/?bc=100522328052|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108956542/?bc=100522351909|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 7.51,
       "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000108956542/?bc=100522328052",
+      "url": "https://suumo.jp/chintai/jnc_000108956542/?bc=100522351909",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18794,13 +18794,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108956544/?bc=100522328011|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108956544/?bc=100522351847|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 7.51,
       "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000108956544/?bc=100522328011",
+      "url": "https://suumo.jp/chintai/jnc_000108956544/?bc=100522351847",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18823,13 +18823,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108956543/?bc=100522327564|プラス・ウィステリア": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108956543/?bc=100522351843|プラス・ウィステリア": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市松本",
       "price_man": 7.51,
       "area_sqm": 55.0,
-      "url": "https://suumo.jp/chintai/jnc_000108956543/?bc=100522327564",
+      "url": "https://suumo.jp/chintai/jnc_000108956543/?bc=100522351843",
       "text": "プラス・ウィステリア",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18939,13 +18939,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000089553719/?bc=100380329646|セゾンフェリーチェ": {
+    "https://suumo.jp/chintai/jnc_000089553719/?bc=100383054563|セゾンフェリーチェ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
-      "url": "https://suumo.jp/chintai/jnc_000089553719/?bc=100380329646",
+      "url": "https://suumo.jp/chintai/jnc_000089553719/?bc=100383054563",
       "text": "セゾンフェリーチェ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18968,13 +18968,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106973453/?bc=100510478339|セゾンフェリーチェ": {
-      "first_seen": "2026-09-02",
+    "https://suumo.jp/chintai/jnc_000106973453/?bc=100517866475|セゾンフェリーチェ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
-      "url": "https://suumo.jp/chintai/jnc_000106973453/?bc=100510478339",
+      "url": "https://suumo.jp/chintai/jnc_000106973453/?bc=100517866475",
       "text": "セゾンフェリーチェ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -18997,13 +18997,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000094063303/?bc=100519180688|セゾンフェリーチェ": {
+    "https://suumo.jp/chintai/jnc_000094063303/?bc=100519069602|セゾンフェリーチェ": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
-      "url": "https://suumo.jp/chintai/jnc_000094063303/?bc=100519180688",
+      "url": "https://suumo.jp/chintai/jnc_000094063303/?bc=100519069602",
       "text": "セゾンフェリーチェ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -19200,13 +19200,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000068951733/?bc=100492440520|伊豆箱根鉄道駿豆線 三島田町駅 3階建 築27年": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000068951733/?bc=100492625004|伊豆箱根鉄道駿豆線 三島田町駅 3階建 築27年": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市東町",
       "price_man": 6.9,
       "area_sqm": 67.2,
-      "url": "https://suumo.jp/chintai/jnc_000068951733/?bc=100492440520",
+      "url": "https://suumo.jp/chintai/jnc_000068951733/?bc=100492625004",
       "text": "伊豆箱根鉄道駿豆線 三島田町駅 3階建 築27年",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -19258,13 +19258,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108711557/?bc=100521631295|ヴィオラ　Ｎ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000108711557/?bc=100521421871|ヴィオラ　Ｎ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 7.6,
       "area_sqm": 61.5,
-      "url": "https://suumo.jp/chintai/jnc_000108711557/?bc=100521631295",
+      "url": "https://suumo.jp/chintai/jnc_000108711557/?bc=100521421871",
       "text": "ヴィオラ　Ｎ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -19374,13 +19374,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000030919113/?bc=100465832021|エステート沼上": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000030919113/?bc=100519961457|エステート沼上": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市日の出町",
       "price_man": 5.9,
       "area_sqm": 56.0,
-      "url": "https://suumo.jp/chintai/jnc_000030919113/?bc=100465832021",
+      "url": "https://suumo.jp/chintai/jnc_000030919113/?bc=100519961457",
       "text": "エステート沼上",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -19461,13 +19461,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000083606701/?bc=100500285073|メゾンＭロード": {
+    "https://suumo.jp/chintai/jnc_000083606701/?bc=100499605271|メゾンＭロード": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市谷田",
       "price_man": 5.5,
-      "area_sqm": 53.0,
-      "url": "https://suumo.jp/chintai/jnc_000083606701/?bc=100500285073",
+      "area_sqm": 52.1,
+      "url": "https://suumo.jp/chintai/jnc_000083606701/?bc=100499605271",
       "text": "メゾンＭロード",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -19954,13 +19954,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107769272/?bc=100517974600|グランディール": {
+    "https://suumo.jp/chintai/jnc_000107769272/?bc=100511426853|グランディール": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市長伏",
       "price_man": 6.7,
       "area_sqm": 62.8,
-      "url": "https://suumo.jp/chintai/jnc_000107769272/?bc=100517974600",
+      "url": "https://suumo.jp/chintai/jnc_000107769272/?bc=100511426853",
       "text": "グランディール",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -20853,14 +20853,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106884079/?bc=100505820124|ロワール ２３": {
+    "https://suumo.jp/chintai/jnc_000106884079/?bc=100515530426|ロワール　２３": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.7,
       "area_sqm": 46.1,
-      "url": "https://suumo.jp/chintai/jnc_000106884079/?bc=100505820124",
-      "text": "ロワール ２３",
+      "url": "https://suumo.jp/chintai/jnc_000106884079/?bc=100515530426",
+      "text": "ロワール　２３",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -20882,14 +20882,14 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108193401/?bc=100514825611|ロワール ２３": {
+    "https://suumo.jp/chintai/jnc_000108193401/?bc=100515376713|ロワール　２３": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市加茂",
       "price_man": 6.8,
       "area_sqm": 57.8,
-      "url": "https://suumo.jp/chintai/jnc_000108193401/?bc=100514825611",
-      "text": "ロワール ２３",
+      "url": "https://suumo.jp/chintai/jnc_000108193401/?bc=100515376713",
+      "text": "ロワール　２３",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "1LDK",
@@ -21056,13 +21056,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107011002/?bc=100518537659|グランシャリオ－Ｋ": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000107011002/?bc=100506830577|グランシャリオ－Ｋ": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町２",
       "price_man": 7.0,
       "area_sqm": 40.4,
-      "url": "https://suumo.jp/chintai/jnc_000107011002/?bc=100518537659",
+      "url": "https://suumo.jp/chintai/jnc_000107011002/?bc=100506830577",
       "text": "グランシャリオ－Ｋ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -21317,21 +21317,21 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106609508/?bc=100511539412|ハイツ浅賀": {
+    "https://suumo.jp/chintai/jnc_000106609508/?bc=100502759841|ハイツ浅賀": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市川原ケ谷",
       "price_man": 7.5,
       "area_sqm": 72.6,
-      "url": "https://suumo.jp/chintai/jnc_000106609508/?bc=100511539412",
+      "url": "https://suumo.jp/chintai/jnc_000106609508/?bc=100502759841",
       "text": "ハイツ浅賀",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "2LDK",
       "chikunen": "築24年 2階建",
       "kanrihi": null,
-      "shikikin": "7.5万円",
-      "reikin": "7.5万円",
+      "shikikin": null,
+      "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
       "chimoku": "—",
@@ -21462,13 +21462,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000107271898/?bc=100517515448|言の葉": {
+    "https://suumo.jp/chintai/jnc_000107271898/?bc=100514251467|言の葉": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町１",
       "price_man": 5.2,
       "area_sqm": 27.2,
-      "url": "https://suumo.jp/chintai/jnc_000107271898/?bc=100517515448",
+      "url": "https://suumo.jp/chintai/jnc_000107271898/?bc=100514251467",
       "text": "言の葉",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -21781,13 +21781,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000081364116/?bc=100473552110|アーデン三島": {
-      "first_seen": "2026-09-03",
+    "https://suumo.jp/chintai/jnc_000081364116/?bc=100473726905|アーデン三島": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町３",
       "price_man": 5.9,
       "area_sqm": 29.2,
-      "url": "https://suumo.jp/chintai/jnc_000081364116/?bc=100473552110",
+      "url": "https://suumo.jp/chintai/jnc_000081364116/?bc=100473726905",
       "text": "アーデン三島",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -21810,13 +21810,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000084438146/?bc=100475810497|アーデン三島": {
+    "https://suumo.jp/chintai/jnc_000084438146/?bc=100465832286|アーデン三島": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
       "location": "静岡県三島市大宮町３",
       "price_man": 6.1,
       "area_sqm": 33.6,
-      "url": "https://suumo.jp/chintai/jnc_000084438146/?bc=100475810497",
+      "url": "https://suumo.jp/chintai/jnc_000084438146/?bc=100465832286",
       "text": "アーデン三島",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -21956,6 +21956,6 @@
       "tab": "rent"
     }
   },
-  "hash": "a1e768ce7ced801e",
-  "fetched_at": "2026-09-04T21:01:08.033883"
+  "hash": "d3076e9791947da7",
+  "fetched_at": "2026-09-04T23:48:56.913202"
 }

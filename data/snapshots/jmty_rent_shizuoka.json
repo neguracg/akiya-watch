@@ -1,14 +1,14 @@
 {
   "keys": {
-    "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203|◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)": {
-      "first_seen": "2026-08-29",
+    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
+      "first_seen": "2026-07-25",
       "last_seen": "2026-09-04",
-      "location": "静岡 沼津市 片浜駅 アパート",
-      "price_man": 3.69,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203",
-      "text": "◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)",
-      "shubetsu": "賃貸アパート",
+      "location": "静岡 沼津市 原駅 マンション",
+      "price_man": 2.0,
+      "area_sqm": 20.0,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
+      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": null,
       "chikunen": null,
@@ -58,15 +58,15 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
-      "first_seen": "2026-07-25",
+    "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203|◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)": {
+      "first_seen": "2026-08-29",
       "last_seen": "2026-09-04",
-      "location": "静岡 沼津市 原駅 マンション",
-      "price_man": 2.0,
-      "area_sqm": 20.0,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
-      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...",
-      "shubetsu": "賃貸マンション",
+      "location": "静岡 沼津市 片浜駅 アパート",
+      "price_man": 3.69,
+      "area_sqm": null,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-est_vh_4103020203",
+      "text": "◆敷金・礼金が無料！◆ビレッジハウス今沢2号棟 (203号室)",
+      "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": null,
       "chikunen": null,
@@ -423,6 +423,6 @@
       "tab": "rent"
     }
   },
-  "hash": "638425e4360f6e03",
-  "fetched_at": "2026-09-04T21:27:49.801991"
+  "hash": "05959fd0abd3e6a7",
+  "fetched_at": "2026-09-05T00:16:35.014441"
 }

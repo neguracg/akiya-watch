@@ -1,13 +1,13 @@
 {
   "keys": {
-    "https://furusato-net.co.jp/bukken/18397a|静岡県 伊東市": {
-      "first_seen": "2026-08-05",
+    "https://kankocho.jp/items/70962/|【再値下げ】土地（233.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
-      "location": "静岡県 伊東市",
-      "price_man": 880,
-      "area_sqm": 281.0,
-      "url": "https://furusato-net.co.jp/bukken/18397a",
-      "text": "静岡県 伊東市",
+      "location": "南都留郡鳴沢村10872番1",
+      "price_man": 11,
+      "area_sqm": 233.0,
+      "url": "https://kankocho.jp/items/70962/",
+      "text": "【再値下げ】土地（233.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -20,25 +20,25 @@
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 10.4,
+      "tsubo_man": 0.2,
       "verdict": "不適合",
       "interest": [],
       "caution": [
-        "温泉"
+        "別荘地"
       ],
       "ng_areas": [],
       "zokujinsei": false,
-      "machi": "伊東市",
+      "machi": "鳴沢村",
       "tab": "camp"
     },
-    "https://furusato-net.co.jp/bukken/18396a|静岡県 伊東市": {
-      "first_seen": "2026-07-12",
+    "https://kankocho.jp/items/70658/|【再値下げ】土地（167.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
-      "location": "静岡県 伊東市",
-      "price_man": 2780,
-      "area_sqm": 510.1,
-      "url": "https://furusato-net.co.jp/bukken/18396a",
-      "text": "静岡県 伊東市",
+      "location": "南都留郡鳴沢村11074番33",
+      "price_man": 31,
+      "area_sqm": 167.0,
+      "url": "https://kankocho.jp/items/70658/",
+      "text": "【再値下げ】土地（167.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -51,25 +51,25 @@
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 18.0,
+      "tsubo_man": 0.6,
       "verdict": "不適合",
       "interest": [],
       "caution": [
-        "温泉"
+        "別荘地"
       ],
       "ng_areas": [],
       "zokujinsei": false,
-      "machi": "伊東市",
+      "machi": "鳴沢村",
       "tab": "camp"
     },
-    "https://furusato-net.co.jp/bukken/18277a|静岡県 南伊豆町": {
-      "first_seen": "2026-07-12",
+    "https://kankocho.jp/items/71597/|静岡県伊豆市土肥の土地付き建物": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-04",
-      "location": "静岡県 南伊豆町",
-      "price_man": null,
-      "area_sqm": 501.8,
-      "url": "https://furusato-net.co.jp/bukken/18277a",
-      "text": "静岡県 南伊豆町",
+      "location": "静岡県伊豆市土肥８０４番地",
+      "price_man": 185,
+      "area_sqm": 4774.1,
+      "url": "https://kankocho.jp/items/71597/",
+      "text": "静岡県伊豆市土肥の土地付き建物",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -82,16 +82,16 @@
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
+      "tsubo_man": 0.1,
+      "verdict": "適合",
       "interest": [],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
-      "machi": "南伊豆町",
+      "machi": "伊豆市",
       "tab": "camp"
     }
   },
-  "hash": "99b7c9bef07b2f02",
-  "fetched_at": "2026-09-05T00:02:40.548609"
+  "hash": "c63498222232688e",
+  "fetched_at": "2026-09-05T00:03:06.594523"
 }
