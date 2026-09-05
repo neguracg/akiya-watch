@@ -1151,13 +1151,40 @@ def _lifull_card_specs(card):
     # 中古戸建(kodate)のカードは 価格テーブルが先頭に画像/要約セルを持ち td数が th数と
     # 食い違う（例 th4・td10）ため、位置揃えの zip が破綻して価格が「掲載画像N枚」に
     # なる。揃ったテーブル(土地=9/9, 中古戸建の整列テーブル=4/4)を選べば両方で正しく取れる。
+    #
+    # 【2026-09-05 消込表#480】土地(tochi)の価格テーブル(class=unitSummary)は th9個に
+    # 対し、1行目<tr>(class=raSpecRow。データ行で各tdがth列と1:1で並ぶ)の直後に、
+    # 建築会社名/一言コメントを持つ<tr>(class=memberDataRow等)が1〜2行続く構造で、
+    # そのtdがテーブル全体のtd数に混入し th9/td10・th9/td11のように不一致になる
+    # （実測: LIFULL土地7サイト210件中188件=89.5%がこの構造。
+    # docs/tasks/20260905_lifull_area_fix.md）。不一致のときは tbody 先頭の<tr>直下の
+    # tdだけに絞って再照合する（後続の comment 行を無視するだけ）。
+    #
+    # ★ th/td の収集は「このテーブル自身が直接持つもの」だけに絞る（入れ子table除外）。
+    # 中古戸建(kodate)のunitSummaryは同じ<td>の中にさらに<table class=verticalTable>
+    # (価格/間取り/土地面積/建物面積のth4個を持つ本体)を入れ子で持つ構造で、絞りが
+    # 無いと find_all("th"/"td") が入れ子tableの中身まで再帰的に拾ってしまい、
+    # 外側の無関係な列(画像枚数セル等)と内側のth4個がtd数だけ偶然一致して誤対応する
+    # （実測: 三島市中古戸建で発見。修正の初版がこれで area_sqm を100%→0%に退行させた
+    # ため、横展開の自己テストで判明・同一コミットで直した）。絞れば外側テーブルは
+    # 自前のth/tdを持たず「価格」も無いため素通りし、入れ子テーブル自身が
+    # card.find_all("table")の次の要素として独立に判定される＝従来どおり4/4で一致。
     for t in card.find_all("table"):
-        ths = [x.get_text(strip=True) for x in t.find_all("th")]
+        ths = [x.get_text(strip=True) for x in t.find_all("th") if x.find_parent("table") is t]
         if "価格" not in ths:
             continue
-        tds = [x.get_text(" ", strip=True) for x in t.find_all("td")]
+        tds_el = [x for x in t.find_all("td") if x.find_parent("table") is t]
+        tds = [x.get_text(" ", strip=True) for x in tds_el]
         if len(tds) == len(ths):
             return dict(zip(ths, tds))
+        tbody = t.find("tbody")
+        first_tr = tbody.find("tr") if tbody else None
+        if first_tr is not None:
+            row_tds_el = [x for x in first_tr.find_all("td", recursive=False)
+                          if x.find_parent("table") is t]
+            if len(row_tds_el) == len(ths):
+                row_tds = [_numeric_cell_text(x) for x in row_tds_el]
+                return dict(zip(ths, row_tds))
     return {}
 
 
