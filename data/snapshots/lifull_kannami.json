@@ -684,6 +684,39 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://www.homes.co.jp/tochi/b-1341600001673/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
+      "price_man": 85,
+      "area_sqm": 368.0,
+      "url": "https://www.homes.co.jp/tochi/b-1341600001673/",
+      "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 0.8,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/tochi/b-33327580000075/|田方郡函南町上沢 (函南駅)": {
       "first_seen": "2026-08-22",
       "last_seen": "2026-09-05",
@@ -833,39 +866,6 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1341600001673/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
-      "location": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-      "price_man": 85,
-      "area_sqm": 368.0,
-      "url": "https://www.homes.co.jp/tochi/b-1341600001673/",
-      "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 0.8,
-      "verdict": "適合",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/tochi/b-1265050002403/|田方郡函南町平井 (大場駅)": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-05",
@@ -896,6 +896,6 @@
       "tab": "home"
     }
   },
-  "hash": "c3d05a9d0eade48e",
-  "fetched_at": "2026-09-05T19:11:35.845411"
+  "hash": "41b36e6d62430c6b",
+  "fetched_at": "2026-09-05T23:58:57.713450"
 }

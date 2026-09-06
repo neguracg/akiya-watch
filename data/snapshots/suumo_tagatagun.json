@@ -416,6 +416,35 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21644944/|平井（函南駅） 880万円": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "静岡県田方郡函南町平井",
+      "price_man": 880,
+      "area_sqm": 300.5,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_21644944/",
+      "text": "平井（函南駅） 880万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 9.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_75575308/|建築条件なし！南面道路にて陽当良好。建物解体後の更地にてお引渡し予定です。": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-09-05",
@@ -765,6 +794,6 @@
       "tab": "home"
     }
   },
-  "hash": "eeeabbd8835c67b1",
-  "fetched_at": "2026-09-05T18:59:08.476229"
+  "hash": "7ad600dfcc0238e8",
+  "fetched_at": "2026-09-05T23:46:30.631720"
 }

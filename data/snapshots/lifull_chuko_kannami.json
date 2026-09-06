@@ -822,38 +822,6 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-09-05",
-      "location": "ヒューマンヒルズ函南77号地",
-      "price_man": 2150,
-      "area_sqm": 324.7,
-      "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
-      "text": "ヒューマンヒルズ函南77号地",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 21.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "借地",
-        "定期借地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1341600001884/|南箱根ダイヤランド戸建": {
       "first_seen": "2026-08-22",
       "last_seen": "2026-09-05",
@@ -883,6 +851,38 @@
       "ng_areas": [
         "南箱根ダイヤランド"
       ],
+      "zokujinsei": false,
+      "machi": "",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-09-05",
+      "location": "ヒューマンヒルズ函南77号地",
+      "price_man": 2150,
+      "area_sqm": 324.7,
+      "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
+      "text": "ヒューマンヒルズ函南77号地",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 21.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "借地",
+        "定期借地"
+      ],
+      "ng_areas": [],
       "zokujinsei": false,
       "machi": "",
       "tab": "home"
@@ -917,6 +917,6 @@
       "tab": "home"
     }
   },
-  "hash": "cca80dbdf9e542da",
-  "fetched_at": "2026-09-05T19:13:12.730189"
+  "hash": "4d367268bacd8c38",
+  "fetched_at": "2026-09-06T00:00:27.290139"
 }

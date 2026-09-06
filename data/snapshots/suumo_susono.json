@@ -414,35 +414,6 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/|人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-09-05",
-      "location": "静岡県裾野市二ツ屋10-5",
-      "price_man": 1680,
-      "area_sqm": 304.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/",
-      "text": "人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 18.3,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74416999/|茶畑（裾野駅） 1680万円": {
       "first_seen": "2026-06-17",
       "last_seen": "2026-09-05",
@@ -468,6 +439,35 @@
       "interest": [
         "外輪山西麓"
       ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "home"
+    },
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/|人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪": {
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-09-05",
+      "location": "静岡県裾野市二ツ屋10-5",
+      "price_man": 1680,
+      "area_sqm": 304.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/",
+      "text": "人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 18.3,
+      "verdict": "不適合",
+      "interest": [],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -769,6 +769,6 @@
       "tab": "home"
     }
   },
-  "hash": "774f3e898e7f7200",
-  "fetched_at": "2026-09-05T18:53:03.856937"
+  "hash": "092e4ee5ef2784cf",
+  "fetched_at": "2026-09-05T23:39:47.146570"
 }

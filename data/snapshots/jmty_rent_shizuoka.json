@@ -1,13 +1,13 @@
 {
   "keys": {
-    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
+    "https://jmty.jp/shizuoka/est-hou/article-a79x6|初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-05",
       "location": "静岡 沼津市 原駅 マンション",
-      "price_man": 2.0,
-      "area_sqm": 20.0,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
-      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...",
+      "price_man": 2.5,
+      "area_sqm": null,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-a79x6",
+      "text": "初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": null,
@@ -29,14 +29,14 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://jmty.jp/shizuoka/est-hou/article-a79x6|初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...": {
+    "https://jmty.jp/shizuoka/est-hou/article-le0nq|初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-05",
       "location": "静岡 沼津市 原駅 マンション",
-      "price_man": 2.5,
-      "area_sqm": null,
-      "url": "https://jmty.jp/shizuoka/est-hou/article-a79x6",
-      "text": "初期費用０円！ららぽーとできました！防犯カメラあり！駅まで車で7...",
+      "price_man": 2.0,
+      "area_sqm": 20.0,
+      "url": "https://jmty.jp/shizuoka/est-hou/article-le0nq",
+      "text": "初期費用０円！バストイレ別！ららぽーとできました！駅まで車で7分...",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": null,
@@ -394,6 +394,6 @@
       "tab": "rent"
     }
   },
-  "hash": "b580a4f328adb032",
-  "fetched_at": "2026-09-05T19:22:01.582831"
+  "hash": "6d351a89b89de5be",
+  "fetched_at": "2026-09-06T00:09:08.962329"
 }

@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128656|熱海市上多賀": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-05",
+      "location": "熱海市上多賀",
+      "price_man": 288,
+      "area_sqm": 71.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128656",
+      "text": "熱海市上多賀",
+      "shubetsu": "古家付き土地",
+      "shubetsu_reason": "土地＋古家/上物の表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 13.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163971|熱海市上多賀": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-05",
@@ -852,39 +881,8 @@
       "zokujinsei": false,
       "machi": "熱海市",
       "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125816|熱海市網代627-840": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
-      "location": "熱海市網代627-840",
-      "price_man": 200,
-      "area_sqm": 165.3,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125816",
-      "text": "熱海市網代627-840",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 4.0,
-      "verdict": "不適合",
-      "interest": [
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "camp"
     }
   },
-  "hash": "fec6f77556c0f6f0",
-  "fetched_at": "2026-09-05T19:19:14.996498"
+  "hash": "ec627841c2e3395e",
+  "fetched_at": "2026-09-06T00:06:26.074745"
 }
