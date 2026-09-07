@@ -196,5 +196,16 @@
     "text": "JR御殿場線 下土狩駅 徒歩12分",
     "removed_on": "2026-09-05",
     "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-33323360001104/|JR東海道本線 沼津駅 5.4km": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-05",
+    "location": "JR東海道本線 沼津駅 5.4km",
+    "price_man": 2880,
+    "area_sqm": 165.8,
+    "url": "https://www.homes.co.jp/kodate/b-33323360001104/",
+    "text": "JR東海道本線 沼津駅 5.4km",
+    "removed_on": "2026-09-06",
+    "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

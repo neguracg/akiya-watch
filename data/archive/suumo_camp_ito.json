@@ -131,17 +131,6 @@
     "removed_on": "2026-08-28",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/|宇佐美 2700万円": {
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-08-28",
-    "location": "静岡県伊東市宇佐美",
-    "price_man": 2700,
-    "area_sqm": 889.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78570583/",
-    "text": "宇佐美 2700万円",
-    "removed_on": "2026-08-29",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20607113/|【お気軽にお問合せください♪】": {
     "first_seen": "2026-07-12",
     "last_seen": "2026-08-29",
@@ -239,6 +228,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21418690/",
     "text": "【デグチエステート】伊東市吉田丸池土地",
     "removed_on": "2026-09-05",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20858161/|【伊東市富戸土地】木々の緑と穏やかな空気に囲まれた富戸エリア。": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-09-05",
+    "location": "静岡県伊東市富戸1317-1106",
+    "price_man": 60,
+    "area_sqm": 383.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20858161/",
+    "text": "【伊東市富戸土地】木々の緑と穏やかな空気に囲まれた富戸エリア。",
+    "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/|富戸（富戸駅） 300万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-09-05",
+    "location": "静岡県伊東市富戸",
+    "price_man": 300,
+    "area_sqm": 1090.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/",
+    "text": "富戸（富戸駅） 300万円",
+    "removed_on": "2026-09-06",
     "site_name": "SUUMO 土地 伊東市"
   }
 }

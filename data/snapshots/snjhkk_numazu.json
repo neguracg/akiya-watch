@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59728/index.html|静岡県沼津市下香貫": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "location": "静岡県沼津市下香貫",
       "price_man": 3398,
       "area_sqm": 297.1,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59726/index.html|静岡県沼津市大塚": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "location": "静岡県沼津市大塚",
       "price_man": 630,
       "area_sqm": 103.3,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59724/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "location": "静岡県沼津市大岡",
       "price_man": 4180,
       "area_sqm": 184.4,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59721/index.html|静岡県沼津市大手町1丁目": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "location": "静岡県沼津市大手町1丁目",
       "price_man": 3298,
       "area_sqm": null,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59719/index.html|静岡県沼津市小林台": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-05",
+      "last_seen": "2026-09-06",
       "location": "静岡県沼津市小林台",
       "price_man": 3080,
       "area_sqm": 106.0,
@@ -146,6 +146,6 @@
       "tab": "home"
     }
   },
-  "hash": "50ce6d8f4340b330",
-  "fetched_at": "2026-09-05T23:59:02.790499"
+  "hash": "75a14d315620d8c8",
+  "fetched_at": "2026-09-06T23:58:07.642638"
 }

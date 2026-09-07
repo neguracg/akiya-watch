@@ -911,5 +911,38 @@
     "text": "今泉８（吉原本町駅） 3900万円",
     "removed_on": "2026-09-05",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77862514/|〇●アトモ●〇ご案内可能です♪": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-05",
+    "location": "静岡県富士市今泉９-1517-3",
+    "price_man": 300,
+    "area_sqm": 109.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77862514/",
+    "text": "〇●アトモ●〇ご案内可能です♪",
+    "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77219479/|今泉（吉原駅） 660万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-05",
+    "location": "静岡県富士市今泉2663-8",
+    "price_man": 660,
+    "area_sqm": 126.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77219479/",
+    "text": "今泉（吉原駅） 660万円",
+    "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20765333/|今泉（岳南原田駅） 930万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-05",
+    "location": "静岡県富士市今泉",
+    "price_man": 930,
+    "area_sqm": 186.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20765333/",
+    "text": "今泉（岳南原田駅） 930万円",
+    "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 富士市"
   }
 }
