@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "location": "静岡県三島市西若町",
+      "price_man": 2890,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59732/index.html",
+      "text": "静岡県三島市西若町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59729/index.html|静岡県三島市南本町": {
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県三島市南本町",
       "price_man": 4598,
       "area_sqm": 123.3,
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県三島市藤代町",
       "price_man": 3980,
       "area_sqm": 103.5,
@@ -60,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59652/index.html|静岡県三島市文教町2丁目": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県三島市文教町2丁目",
       "price_man": 3680,
       "area_sqm": 127.4,
@@ -88,6 +117,6 @@
       "tab": "home"
     }
   },
-  "hash": "bf93b31c41f3b2ba",
-  "fetched_at": "2026-09-06T23:46:05.804498"
+  "hash": "ba79245fa08f33de",
+  "fetched_at": "2026-09-08T00:15:34.287206"
 }

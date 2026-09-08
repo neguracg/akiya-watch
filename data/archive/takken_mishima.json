@@ -394,5 +394,16 @@
     "text": "売土地 三島市徳倉２丁目",
     "removed_on": "2026-09-05",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176816/settle/1|新築売住宅 三島市南本町": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-06",
+    "location": "三島市南本町",
+    "price_man": 4598,
+    "area_sqm": 123.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176816/settle/1",
+    "text": "新築売住宅 三島市南本町",
+    "removed_on": "2026-09-07",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

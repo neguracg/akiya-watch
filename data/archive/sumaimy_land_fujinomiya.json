@@ -109,17 +109,6 @@
     "removed_on": "2026-09-05",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176756|富士宮市小泉": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "location": "富士宮市小泉",
-    "price_man": 650,
-    "area_sqm": 143.9,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176756",
-    "text": "富士宮市小泉",
-    "removed_on": "2026-09-05",
-    "site_name": "スマイミー静岡 売土地 富士宮市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160713|富士宮市淀師": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
@@ -250,6 +239,61 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151410",
     "text": "富士宮市若の宮町670、670-2、669",
     "removed_on": "2026-09-05",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/27319|富士宮市上井出３４７２−７": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-06",
+    "location": "富士宮市上井出３４７２−７",
+    "price_man": 960,
+    "area_sqm": 799.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/27319",
+    "text": "富士宮市上井出３４７２−７",
+    "removed_on": "2026-09-07",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135607|富士宮市上井出3469-7": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-06",
+    "location": "富士宮市上井出3469-7",
+    "price_man": 500,
+    "area_sqm": 665.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135607",
+    "text": "富士宮市上井出3469-7",
+    "removed_on": "2026-09-07",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174252|富士宮市内野": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-06",
+    "location": "富士宮市内野",
+    "price_man": 200,
+    "area_sqm": 402.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174252",
+    "text": "富士宮市内野",
+    "removed_on": "2026-09-07",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162598|富士宮市上井出3472-25": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-06",
+    "location": "富士宮市上井出3472-25",
+    "price_man": 1015,
+    "area_sqm": 1119.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162598",
+    "text": "富士宮市上井出3472-25",
+    "removed_on": "2026-09-07",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99928|富士宮市猪之頭1287-85": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-06",
+    "location": "富士宮市猪之頭1287-85",
+    "price_man": 49,
+    "area_sqm": 671.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99928",
+    "text": "富士宮市猪之頭1287-85",
+    "removed_on": "2026-09-07",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   }
 }

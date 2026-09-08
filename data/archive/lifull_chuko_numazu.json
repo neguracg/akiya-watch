@@ -207,5 +207,16 @@
     "text": "JR東海道本線 沼津駅 5.4km",
     "removed_on": "2026-09-06",
     "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002596/|沼津市大岡中古住宅": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-06",
+    "location": "沼津市大岡中古住宅",
+    "price_man": 3390,
+    "area_sqm": 150.6,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002596/",
+    "text": "沼津市大岡中古住宅",
+    "removed_on": "2026-09-07",
+    "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

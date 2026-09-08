@@ -2,7 +2,7 @@
   "keys": {
     "https://www.housedo.com/used_ikkodate/4856098.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 1680,
       "area_sqm": 203.3,
@@ -29,38 +29,9 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
-    "https://www.housedo.com/new_ikkodate/4841369.html|御殿場市萩原": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
-      "location": "御殿場市萩原",
-      "price_man": 3480,
-      "area_sqm": 183.5,
-      "url": "https://www.housedo.com/new_ikkodate/4841369.html",
-      "text": "御殿場市萩原",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 62.7,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
-    },
     "https://www.housedo.com/new_ikkodate/4830054.html|御殿場市東田中１丁目": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市東田中１丁目",
       "price_man": 3690,
       "area_sqm": 179.0,
@@ -91,7 +62,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4830051.html|御殿場市東田中１丁目": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市東田中１丁目",
       "price_man": 3690,
       "area_sqm": 167.6,
@@ -122,7 +93,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4789278.html|御殿場市北久原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市北久原",
       "price_man": 2980,
       "area_sqm": 181.2,
@@ -151,7 +122,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4789264.html|御殿場市北久原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市北久原",
       "price_man": 2880,
       "area_sqm": 219.9,
@@ -180,7 +151,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4782306.html|御殿場市萩原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市萩原",
       "price_man": 3580,
       "area_sqm": 157.7,
@@ -209,7 +180,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4777948.html|御殿場市北久原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市北久原",
       "price_man": 2980,
       "area_sqm": 181.2,
@@ -238,7 +209,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4777922.html|御殿場市北久原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市北久原",
       "price_man": 2880,
       "area_sqm": 219.9,
@@ -267,7 +238,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4745019.html|御殿場市新橋": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市新橋",
       "price_man": 2500,
       "area_sqm": 234.0,
@@ -296,7 +267,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4743512.html|御殿場市新橋": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市新橋",
       "price_man": 2500,
       "area_sqm": 292.8,
@@ -325,7 +296,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4739969.html|御殿場市中畑": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市中畑",
       "price_man": 1350,
       "area_sqm": 493.4,
@@ -354,7 +325,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4727764.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 2090,
       "area_sqm": 222.6,
@@ -383,7 +354,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4725140.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 2090,
       "area_sqm": 222.6,
@@ -412,7 +383,7 @@
     },
     "https://www.housedo.com/new_ikkodate/4712855.html|御殿場市萩原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市萩原",
       "price_man": 3480,
       "area_sqm": 183.5,
@@ -441,7 +412,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4695767.html|御殿場市二枚橋": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市二枚橋",
       "price_man": 1348,
       "area_sqm": 141.1,
@@ -470,7 +441,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4694691.html|御殿場市竈": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市竈",
       "price_man": 3100,
       "area_sqm": 253.3,
@@ -499,7 +470,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4677909.html|御殿場市神山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市神山",
       "price_man": 1780,
       "area_sqm": 267.6,
@@ -530,7 +501,7 @@
     },
     "https://www.housedo.com/tochi/4620946.html|御殿場市塚原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市塚原",
       "price_man": 1753,
       "area_sqm": 340.8,
@@ -559,7 +530,7 @@
     },
     "https://www.housedo.com/tochi/4620940.html|御殿場市塚原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市塚原",
       "price_man": 1645,
       "area_sqm": 362.5,
@@ -588,7 +559,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4563320.html|御殿場市深沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市深沢",
       "price_man": 2680,
       "area_sqm": 380.5,
@@ -619,7 +590,7 @@
     },
     "https://www.housedo.com/tochi/4524908.html|御殿場市御殿場": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市御殿場",
       "price_man": 1600,
       "area_sqm": 169.6,
@@ -648,7 +619,7 @@
     },
     "https://www.housedo.com/tochi/4524902.html|御殿場市御殿場": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市御殿場",
       "price_man": 1800,
       "area_sqm": 166.5,
@@ -677,7 +648,7 @@
     },
     "https://www.housedo.com/tochi/4524809.html|御殿場市御殿場": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市御殿場",
       "price_man": 1900,
       "area_sqm": 148.1,
@@ -706,7 +677,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4521139.html|御殿場市神山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市神山",
       "price_man": 1380,
       "area_sqm": 203.5,
@@ -737,7 +708,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4487701.html|御殿場市神山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市神山",
       "price_man": 1780,
       "area_sqm": 267.6,
@@ -768,7 +739,7 @@
     },
     "https://www.housedo.com/tochi/4452668.html|御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市保土沢",
       "price_man": 1080,
       "area_sqm": 212.9,
@@ -797,7 +768,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4401826.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 2349,
       "area_sqm": 225.2,
@@ -826,7 +797,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4397204.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 2349,
       "area_sqm": 225.2,
@@ -855,7 +826,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4327823.html|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市川島田",
       "price_man": 1680,
       "area_sqm": 203.3,
@@ -884,7 +855,7 @@
     },
     "https://www.housedo.com/used_mansion/4303789.html|御殿場市新橋": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市新橋",
       "price_man": 500,
       "area_sqm": null,
@@ -913,7 +884,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4173622.html|御殿場市大坂": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市大坂",
       "price_man": 3780,
       "area_sqm": 189.1,
@@ -944,7 +915,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4173614.html|御殿場市深沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市深沢",
       "price_man": 2380,
       "area_sqm": 410.9,
@@ -975,7 +946,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4173180.html|御殿場市中山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市中山",
       "price_man": 1749,
       "area_sqm": 192.6,
@@ -1004,7 +975,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4171194.html|御殿場市神山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市神山",
       "price_man": 3480,
       "area_sqm": 626.0,
@@ -1035,7 +1006,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4171138.html|御殿場市二の岡１丁目": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市二の岡１丁目",
       "price_man": 1980,
       "area_sqm": 185.6,
@@ -1066,7 +1037,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4166621.html|御殿場市竈": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市竈",
       "price_man": 2780,
       "area_sqm": 211.2,
@@ -1095,7 +1066,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4116137.html|御殿場市竈": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市竈",
       "price_man": 2780,
       "area_sqm": 211.2,
@@ -1124,7 +1095,7 @@
     },
     "https://www.housedo.com/used_ikkodate/4099819.html|御殿場市中山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市中山",
       "price_man": 1749,
       "area_sqm": 192.6,
@@ -1153,7 +1124,7 @@
     },
     "https://www.housedo.com/used_ikkodate/3779448.html|御殿場市深沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市深沢",
       "price_man": 2380,
       "area_sqm": 410.9,
@@ -1184,7 +1155,7 @@
     },
     "https://www.housedo.com/used_ikkodate/3221433.html|御殿場市大坂": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市大坂",
       "price_man": 3780,
       "area_sqm": 189.1,
@@ -1215,7 +1186,7 @@
     },
     "https://www.housedo.com/used_ikkodate/3174849.html|御殿場市神山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "御殿場市神山",
       "price_man": 3480,
       "area_sqm": 626.0,
@@ -1245,6 +1216,6 @@
       "tab": "camp"
     }
   },
-  "hash": "f57dbf7345f732f8",
-  "fetched_at": "2026-09-06T23:54:03.051305"
+  "hash": "4b1515e6428c0a79",
+  "fetched_at": "2026-09-08T00:22:34.981895"
 }

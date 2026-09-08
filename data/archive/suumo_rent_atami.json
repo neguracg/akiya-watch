@@ -527,17 +527,6 @@
     "removed_on": "2026-08-16",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000103467838/|ＪＲ伊東線 伊豆多賀駅 2階建 築34年": {
-    "first_seen": "2026-08-08",
-    "last_seen": "2026-08-16",
-    "location": "静岡県熱海市下多賀",
-    "price_man": 12.3,
-    "area_sqm": 80.1,
-    "url": "https://suumo.jp/chintai/jnc_000103467838/",
-    "text": "ＪＲ伊東線 伊豆多賀駅 2階建 築34年",
-    "removed_on": "2026-08-17",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000094271604/|石黒ハイツ": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-16",
@@ -901,17 +890,6 @@
     "removed_on": "2026-09-01",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000090352365/?bc=100522262068|シャトーテル赤根崎": {
-    "first_seen": "2026-08-27",
-    "last_seen": "2026-08-31",
-    "location": "静岡県熱海市上多賀",
-    "price_man": 6.0,
-    "area_sqm": 26.7,
-    "url": "https://suumo.jp/chintai/jnc_000090352365/?bc=100522262068",
-    "text": "シャトーテル赤根崎",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000088751966/?bc=100368009320|シャトーテル赤根崎": {
     "first_seen": "2026-08-27",
     "last_seen": "2026-08-31",
@@ -1240,6 +1218,50 @@
     "url": "https://suumo.jp/chintai/jnc_000108004922/?bc=100513104050",
     "text": "熱海クリフサイド",
     "removed_on": "2026-09-06",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000092257885/|ＪＲ東海道本線 熱海駅 4階建 築53年": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-06",
+    "location": "静岡県熱海市清水町",
+    "price_man": 6.2,
+    "area_sqm": 38.0,
+    "url": "https://suumo.jp/chintai/jnc_000092257885/",
+    "text": "ＪＲ東海道本線 熱海駅 4階建 築53年",
+    "removed_on": "2026-09-07",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000090352365/|シャトーテル赤根崎": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-06",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 6.0,
+    "area_sqm": 26.7,
+    "url": "https://suumo.jp/chintai/jnc_000090352365/",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-09-07",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000063086903/|シャトーテル赤根崎": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-06",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 6.5,
+    "area_sqm": 22.1,
+    "url": "https://suumo.jp/chintai/jnc_000063086903/",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-09-07",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904|ＪＲ伊東線 伊豆多賀駅 2階建 築34年": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-06",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 12.3,
+    "area_sqm": 80.1,
+    "url": "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904",
+    "text": "ＪＲ伊東線 伊豆多賀駅 2階建 築34年",
+    "removed_on": "2026-09-07",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }

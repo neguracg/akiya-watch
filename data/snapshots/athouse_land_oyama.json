@@ -2,7 +2,7 @@
   "keys": {
     "https://www.at-house.jp/uri-tochi/detail-67f1dedaec7f7003d675b7ef/|駿東郡小山町藤曲": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "駿東郡小山町藤曲",
       "price_man": 1280,
       "area_sqm": 594.0,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "6328b3adfb105d66",
-  "fetched_at": "2026-09-07T00:05:02.687420"
+  "hash": "bec734b650ebe212",
+  "fetched_at": "2026-09-08T00:32:04.192911"
 }

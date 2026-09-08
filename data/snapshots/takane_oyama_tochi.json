@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_oyama/subashiri_300-15/details.html|静岡県駿東郡小山町須走 須走売土地300-15": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県駿東郡小山町須走 須走売土地300-15",
       "price_man": 920,
       "area_sqm": 1120.0,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/tochi_oyama/issiki/details.html|静岡県駿東郡小山町一色 一色事業用売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県駿東郡小山町一色 一色事業用売土地",
       "price_man": 4000,
       "area_sqm": 1851.0,
@@ -60,7 +60,7 @@
     },
     "http://www.takane-re.jp/tochi_oyama/yousawa_880/details.html|静岡県駿東郡小山町用沢 用沢売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県駿東郡小山町用沢 用沢売土地",
       "price_man": 1450,
       "area_sqm": 403.2,
@@ -89,5 +89,5 @@
     }
   },
   "hash": "d0679a4ec417058f",
-  "fetched_at": "2026-09-07T00:08:06.090655"
+  "fetched_at": "2026-09-08T00:35:00.868908"
 }

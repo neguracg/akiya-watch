@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_busines/kamikobayashi/details.html|静岡県御殿場市上小林 上小林売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県御殿場市上小林 上小林売農地",
       "price_man": 1075,
       "area_sqm": 4444.0,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/tochi_busines/oozeki/details.html|静岡県御殿場市大堰 大堰売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県御殿場市大堰 大堰売農地",
       "price_man": 472,
       "area_sqm": 1958.0,
@@ -60,7 +60,7 @@
     },
     "http://www.takane-re.jp/chintai_gotenba/kawashimata_982-1/details.html|静岡県御殿場市川島田 川島田貸倉庫": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-06",
+      "last_seen": "2026-09-07",
       "location": "静岡県御殿場市川島田 川島田貸倉庫",
       "price_man": 17,
       "area_sqm": 99.4,
@@ -89,5 +89,5 @@
     }
   },
   "hash": "c9b7f0f57a21549a",
-  "fetched_at": "2026-09-06T23:33:33.715851"
+  "fetched_at": "2026-09-08T00:03:04.732248"
 }
