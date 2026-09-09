@@ -417,17 +417,6 @@
     "removed_on": "2026-09-04",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_76414396/|事業用地として、２３５２㎡（７１１坪）の広さが魅力の土地。": {
-    "first_seen": "2026-08-28",
-    "last_seen": "2026-09-04",
-    "location": "静岡県裾野市金沢",
-    "price_man": 5000,
-    "area_sqm": 2353.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_76414396/",
-    "text": "事業用地として、２３５２㎡（７１１坪）の広さが魅力の土地。",
-    "removed_on": "2026-09-05",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆": {
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-05",
@@ -448,6 +437,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "見学から思い出いっぱい標高900ｍ越☆富士山も見えて素敵な時間を過ごせる！",
     "removed_on": "2026-09-07",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|十里木高原の別荘地の売り土地！遊んで良し、住んで良し、ひろびろ340坪以上": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "十里木高原の別荘地の売り土地！遊んで良し、住んで良し、ひろびろ340坪以上",
+    "removed_on": "2026-09-08",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

@@ -361,5 +361,16 @@
     "text": "幸原町１（三島駅） 2880万円",
     "removed_on": "2026-09-04",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21193680/|加茂 2150万円": {
+    "first_seen": "2026-07-02",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市加茂",
+    "price_man": 2150,
+    "area_sqm": 169.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21193680/",
+    "text": "加茂 2150万円",
+    "removed_on": "2026-09-08",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

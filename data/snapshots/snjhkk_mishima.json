@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県三島市西若町",
       "price_man": 2890,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59729/index.html|静岡県三島市南本町": {
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県三島市南本町",
       "price_man": 4598,
       "area_sqm": 123.3,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県三島市藤代町",
       "price_man": 3980,
       "area_sqm": 103.5,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59652/index.html|静岡県三島市文教町2丁目": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県三島市文教町2丁目",
       "price_man": 3680,
       "area_sqm": 127.4,
@@ -117,6 +117,6 @@
       "tab": "home"
     }
   },
-  "hash": "ba79245fa08f33de",
-  "fetched_at": "2026-09-08T00:15:34.287206"
+  "hash": "24a2721337a7af1a",
+  "fetched_at": "2026-09-09T00:06:11.928948"
 }

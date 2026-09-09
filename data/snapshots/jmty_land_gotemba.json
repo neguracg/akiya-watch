@@ -2,7 +2,7 @@
   "keys": {
     "https://jmty.jp/shizuoka/est-land/article-1n5mrf|No.E0104【静岡県御殿場市東山】土地（農地・田畑）あげます...": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 24705.8,
@@ -31,7 +31,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-15uhlt|御殿場深沢売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 御殿場駅 土地販売/土地売買",
       "price_man": 390,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-10elgo|御殿場ICすぐ（550m）で交通に至便な立地。買い物施設も便利な...": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 御殿場駅 土地販売/土地売買",
       "price_man": 1780,
       "area_sqm": 85.6,
@@ -89,7 +89,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-11nayj|御殿場インター目の前、土地、駐輪場、看板用地✨": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 御殿場駅 土地販売/土地売買",
       "price_man": 30,
       "area_sqm": null,
@@ -118,7 +118,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-wr22p|土地を買いませんか": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 富士岡駅 土地販売/土地売買",
       "price_man": 1200,
       "area_sqm": null,
@@ -147,7 +147,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-l2jr9|売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 土地販売/土地売買",
       "price_man": 1800,
       "area_sqm": 198.3,
@@ -176,7 +176,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-gry0q|キッチン用品": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 土地販売/土地売買",
       "price_man": 0,
       "area_sqm": null,
@@ -205,7 +205,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-gqj7q|土地売買": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 御殿場市 土地販売/土地売買",
       "price_man": 1800,
       "area_sqm": 198.3,
@@ -233,6 +233,6 @@
       "tab": "camp"
     }
   },
-  "hash": "ef2bced5ed71b027",
-  "fetched_at": "2026-09-08T00:27:29.729559"
+  "hash": "8f363a0ed61d2c21",
+  "fetched_at": "2026-09-09T00:17:42.538082"
 }

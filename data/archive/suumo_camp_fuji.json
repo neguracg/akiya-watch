@@ -890,17 +890,6 @@
     "removed_on": "2026-09-05",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20899607/|新富士ＩＣから車で５分の利便性の良い立地。約１，１００坪の土地。": {
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-04",
-    "location": "静岡県富士市大淵",
-    "price_man": 3100,
-    "area_sqm": 3621.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20899607/",
-    "text": "新富士ＩＣから車で５分の利便性の良い立地。約１，１００坪の土地。",
-    "removed_on": "2026-09-05",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20682560/|今泉８（吉原本町駅） 3900万円": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-04",
@@ -943,6 +932,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20765333/",
     "text": "今泉（岳南原田駅） 930万円",
     "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20842554/|東南角地で日当り良好、解体更地渡し、建築条件なしです。": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-07",
+    "location": "静岡県富士市松岡",
+    "price_man": 1390,
+    "area_sqm": 200.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20842554/",
+    "text": "東南角地で日当り良好、解体更地渡し、建築条件なしです。",
+    "removed_on": "2026-09-08",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21236947/|整った街並み、全区画50坪以上のゆとりある分譲地。": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-07",
+    "location": "静岡県富士市厚原",
+    "price_man": 1430,
+    "area_sqm": 200.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21236947/",
+    "text": "整った街並み、全区画50坪以上のゆとりある分譲地。",
+    "removed_on": "2026-09-08",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/|【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-07",
+    "location": "静岡県富士市本市場",
+    "price_man": null,
+    "area_sqm": 157.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/",
+    "text": "【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！",
+    "removed_on": "2026-09-08",
     "site_name": "SUUMO 土地 富士市"
   }
 }

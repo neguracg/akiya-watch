@@ -2,7 +2,7 @@
   "keys": {
     "https://buy.s-est.co.jp/land/318207/|伊豆市佐野　（修善寺駅）住宅用地92坪": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県伊豆市佐野317-4",
       "price_man": 450,
       "area_sqm": 305.6,
@@ -31,7 +31,7 @@
     },
     "https://buy.s-est.co.jp/land/85601/|伊豆市八幡　日当たり良好な約93坪の住宅用地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県伊豆市八幡670-1",
       "price_man": 630,
       "area_sqm": 307.0,
@@ -60,7 +60,7 @@
     },
     "https://buy.s-est.co.jp/land/131169/|伊豆市佐野　約39坪の整形地　建築条件はありません": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県伊豆市佐野435-5",
       "price_man": 200,
       "area_sqm": 131.2,
@@ -89,7 +89,7 @@
     },
     "https://buy.s-est.co.jp/land/143247/|伊豆市佐野　緑あふれる別荘地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡県伊豆市佐野869-369",
       "price_man": 30,
       "area_sqm": 268.0,
@@ -119,6 +119,6 @@
       "tab": "camp"
     }
   },
-  "hash": "146cf38171f86f4d",
-  "fetched_at": "2026-09-08T00:25:49.269092"
+  "hash": "92e56d47e000b6fb",
+  "fetched_at": "2026-09-09T00:16:07.988125"
 }

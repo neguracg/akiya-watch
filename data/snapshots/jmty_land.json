@@ -2,7 +2,7 @@
   "keys": {
     "https://jmty.jp/shizuoka/est-land/article-1n5mai|No.E0100【静岡県沼津市桃里】土地（農地・田）あげます！譲...": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 沼津市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 848.0,
@@ -31,7 +31,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
       "price_man": 70,
       "area_sqm": 240.0,
@@ -61,14 +61,14 @@
       "machi": "三島市",
       "tab": "home"
     },
-    "https://jmty.jp/shizuoka/est-land/article-1rcyt7|＜9/15迄お申込み限定＞　300万円　分譲宅地　伊豆の国市大仁...": {
-      "first_seen": "2026-08-29",
-      "last_seen": "2026-09-07",
+    "https://jmty.jp/shizuoka/est-land/article-1rcyt7|＜決算期限定＞　300万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡...": {
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 300,
-      "area_sqm": null,
+      "area_sqm": 132.0,
       "url": "https://jmty.jp/shizuoka/est-land/article-1rcyt7",
-      "text": "＜9/15迄お申込み限定＞　300万円　分譲宅地　伊豆の国市大仁...",
+      "text": "＜決算期限定＞　300万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡...",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -81,8 +81,8 @@
       "chimoku": "宅地",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
+      "tsubo_man": 7.5,
+      "verdict": "不適合",
       "interest": [],
       "caution": [],
       "ng_areas": [],
@@ -92,7 +92,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rayxp|【約292坪】伊豆の国市中｜キャンプ・資材置き場・事業用地におすすめ": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-09-07",
+      "last_seen": "2026-09-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 965.0,
@@ -120,6 +120,6 @@
       "tab": "home"
     }
   },
-  "hash": "1955a3e92eefe791",
-  "fetched_at": "2026-09-08T00:00:00.083214"
+  "hash": "03e677330fe7ee40",
+  "fetched_at": "2026-09-08T23:51:52.779135"
 }

@@ -208,17 +208,6 @@
     "removed_on": "2026-09-04",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/|城ケ崎大型用地【デグチステート】～伊東市～": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-09-04",
-    "location": "静岡県伊東市富戸",
-    "price_man": 29500,
-    "area_sqm": 66341.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/",
-    "text": "城ケ崎大型用地【デグチステート】～伊東市～",
-    "removed_on": "2026-09-05",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21418690/|【デグチエステート】伊東市吉田丸池土地": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-09-05",
@@ -250,6 +239,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/",
     "text": "富戸（富戸駅） 300万円",
     "removed_on": "2026-09-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21644953/|吉田（川奈駅） 850万円": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-07",
+    "location": "静岡県伊東市吉田７４７－２５７",
+    "price_man": 850,
+    "area_sqm": 50.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21644953/",
+    "text": "吉田（川奈駅） 850万円",
+    "removed_on": "2026-09-08",
     "site_name": "SUUMO 土地 伊東市"
   }
 }

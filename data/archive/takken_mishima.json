@@ -405,5 +405,16 @@
     "text": "新築売住宅 三島市南本町",
     "removed_on": "2026-09-07",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177103/settle/1|新築売住宅 三島市谷田": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "location": "三島市谷田",
+    "price_man": 3090,
+    "area_sqm": 151.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177103/settle/1",
+    "text": "新築売住宅 三島市谷田",
+    "removed_on": "2026-09-08",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

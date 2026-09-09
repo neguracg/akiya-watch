@@ -1451,28 +1451,6 @@
     "removed_on": "2026-09-05",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/9bb8fd0242cc75dc3408a873af73332fcfb28493/|ヒルズ・若松町ＩＩＩ": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
-    "location": "静岡県三島市若松町",
-    "price_man": 8.3,
-    "area_sqm": 59.4,
-    "url": "https://www.homes.co.jp/chintai/room/9bb8fd0242cc75dc3408a873af73332fcfb28493/",
-    "text": "ヒルズ・若松町ＩＩＩ",
-    "removed_on": "2026-09-06",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/44267b9121cd70f165d057057e4453d7a6fc09d3/|ヒルズ・若松町ＩＩＩ": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-05",
-    "location": "静岡県三島市若松町",
-    "price_man": 8.3,
-    "area_sqm": 59.4,
-    "url": "https://www.homes.co.jp/chintai/room/44267b9121cd70f165d057057e4453d7a6fc09d3/",
-    "text": "ヒルズ・若松町ＩＩＩ",
-    "removed_on": "2026-09-06",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/bd94dd56a75ebd15ed6616d0a0acc103ac76f8f1/|ヘリテージ宮町": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-09-05",
@@ -1550,37 +1528,103 @@
     "removed_on": "2026-09-07",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/846d1ddc8b62c9bd23786a79a41d4ea5d0500fd7/|グランデ北沢II": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-06",
-    "location": "静岡県三島市北沢",
-    "price_man": 7.8,
+  "https://www.homes.co.jp/chintai/room/70cf040359215b7d12802a824d4a29777998a4ca/|セルカ・リーオ": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市壱町田166-12",
+    "price_man": 6.6,
+    "area_sqm": 41.0,
+    "url": "https://www.homes.co.jp/chintai/room/70cf040359215b7d12802a824d4a29777998a4ca/",
+    "text": "セルカ・リーオ",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/19772400a5307dc8a41fd187a2226b54243daeaa/|オーキッド・すぎさわ": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市安久",
+    "price_man": 6.7,
+    "area_sqm": 52.9,
+    "url": "https://www.homes.co.jp/chintai/room/19772400a5307dc8a41fd187a2226b54243daeaa/",
+    "text": "オーキッド・すぎさわ",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/efdbff4e28d705c079c992be297832fe38c7bc0e/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市大宮町1丁目",
+    "price_man": 8.05,
+    "area_sqm": 43.5,
+    "url": "https://www.homes.co.jp/chintai/room/efdbff4e28d705c079c992be297832fe38c7bc0e/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/754b4552137971c592bc76a590f9d71945e4162e/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市大宮町1丁目",
+    "price_man": 7.1,
+    "area_sqm": 34.8,
+    "url": "https://www.homes.co.jp/chintai/room/754b4552137971c592bc76a590f9d71945e4162e/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/e27d40bacaa4eb0ad9811b4c8b7ee34d621de24e/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市大宮町1丁目",
+    "price_man": 6.9,
+    "area_sqm": 33.9,
+    "url": "https://www.homes.co.jp/chintai/room/e27d40bacaa4eb0ad9811b4c8b7ee34d621de24e/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/000fadae307c5b82b6f1ae3fa2e404f8d089a8d2/|ヘリテージ宮町": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市大宮町1丁目",
+    "price_man": 6.8,
+    "area_sqm": 34.8,
+    "url": "https://www.homes.co.jp/chintai/room/000fadae307c5b82b6f1ae3fa2e404f8d089a8d2/",
+    "text": "ヘリテージ宮町",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/2c8c396a7bd36bbb562e2c198872c26e15d0d633/|JR東海道本線 三島駅 バス6分 一丁田下車 徒歩5分": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市壱町田",
+    "price_man": 7.5,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/2c8c396a7bd36bbb562e2c198872c26e15d0d633/",
+    "text": "JR東海道本線 三島駅 バス6分 一丁田下車 徒歩5分",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/f948fc08f2ff334772d88673f12d3d64c6393b42/|リバーガーデン壱番": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市一番町",
+    "price_man": 6.3,
+    "area_sqm": 30.3,
+    "url": "https://www.homes.co.jp/chintai/room/f948fc08f2ff334772d88673f12d3d64c6393b42/",
+    "text": "リバーガーデン壱番",
+    "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/|タウンリバティＩＩ": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-07",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 8.3,
     "area_sqm": 58.1,
-    "url": "https://www.homes.co.jp/chintai/room/846d1ddc8b62c9bd23786a79a41d4ea5d0500fd7/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-09-07",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/282e3626ae5a6c69664ad734b5a800615e89b17c/|グランデ北沢II": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-06",
-    "location": "静岡県三島市北沢",
-    "price_man": 6.3,
-    "area_sqm": 48.9,
-    "url": "https://www.homes.co.jp/chintai/room/282e3626ae5a6c69664ad734b5a800615e89b17c/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-09-07",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/c4e3a01c0b2041020b7f3274bda0b3ead9168bf9/|グランデ北沢II": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-06",
-    "location": "静岡県三島市北沢",
-    "price_man": 6.3,
-    "area_sqm": 48.9,
-    "url": "https://www.homes.co.jp/chintai/room/c4e3a01c0b2041020b7f3274bda0b3ead9168bf9/",
-    "text": "グランデ北沢II",
-    "removed_on": "2026-09-07",
+    "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
+    "text": "タウンリバティＩＩ",
+    "removed_on": "2026-09-08",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }
