@@ -1,1 +1,24 @@
-{}
+{
+  "https://kankocho.jp/items/71597/|静岡県伊豆市土肥の土地付き建物": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-08",
+    "location": "静岡県伊豆市土肥８０４番地",
+    "price_man": 634,
+    "area_sqm": 4774.1,
+    "url": "https://kankocho.jp/items/71597/",
+    "text": "静岡県伊豆市土肥の土地付き建物",
+    "removed_on": "2026-09-09",
+    "site_name": "KSI官公庁オークション 不動産（公売・現状渡し）"
+  },
+  "https://kankocho.jp/items/70658/|【再値下げ】土地（167.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-08",
+    "location": "南都留郡鳴沢村11074番33",
+    "price_man": 31,
+    "area_sqm": 167.0,
+    "url": "https://kankocho.jp/items/70658/",
+    "text": "【再値下げ】土地（167.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地",
+    "removed_on": "2026-09-09",
+    "site_name": "KSI官公庁オークション 不動産（公売・現状渡し）"
+  }
+}

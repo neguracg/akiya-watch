@@ -934,17 +934,6 @@
     "removed_on": "2026-09-06",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20842554/|東南角地で日当り良好、解体更地渡し、建築条件なしです。": {
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-07",
-    "location": "静岡県富士市松岡",
-    "price_man": 1390,
-    "area_sqm": 200.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20842554/",
-    "text": "東南角地で日当り良好、解体更地渡し、建築条件なしです。",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21236947/|整った街並み、全区画50坪以上のゆとりある分譲地。": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-07",
@@ -965,6 +954,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/",
     "text": "【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！",
     "removed_on": "2026-09-08",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/|富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-08",
+    "location": "静岡県富士市森島",
+    "price_man": 980,
+    "area_sqm": 170.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/",
+    "text": "富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！",
+    "removed_on": "2026-09-09",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_71060427/|大淵 1750万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-08",
+    "location": "静岡県富士市大淵",
+    "price_man": 1750,
+    "area_sqm": 1123.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_71060427/",
+    "text": "大淵 1750万円",
+    "removed_on": "2026-09-09",
     "site_name": "SUUMO 土地 富士市"
   }
 }

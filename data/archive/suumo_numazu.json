@@ -1637,5 +1637,16 @@
     "text": "原（原駅） 2310万円",
     "removed_on": "2026-09-08",
     "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76799662/|東原（片浜駅） 580万円": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-08",
+    "location": "静岡県沼津市東原",
+    "price_man": 580,
+    "area_sqm": 175.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76799662/",
+    "text": "東原（片浜駅） 580万円",
+    "removed_on": "2026-09-09",
+    "site_name": "SUUMO 土地 沼津市"
   }
 }

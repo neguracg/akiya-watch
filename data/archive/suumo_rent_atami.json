@@ -1296,5 +1296,38 @@
     "text": "つたやビル",
     "removed_on": "2026-09-08",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106375351/?bc=100497000473|コーポ和田": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-08",
+    "location": "静岡県熱海市和田町",
+    "price_man": 6.5,
+    "area_sqm": 42.9,
+    "url": "https://suumo.jp/chintai/jnc_000106375351/?bc=100497000473",
+    "text": "コーポ和田",
+    "removed_on": "2026-09-09",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000105537930/?bc=100413775069|熱海パンシオン": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-08",
+    "location": "静岡県熱海市海光町",
+    "price_man": 8.5,
+    "area_sqm": 34.0,
+    "url": "https://suumo.jp/chintai/jnc_000105537930/?bc=100413775069",
+    "text": "熱海パンシオン",
+    "removed_on": "2026-09-09",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109274956/?bc=100518191981|笠間マンション２階": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-08",
+    "location": "静岡県熱海市清水町",
+    "price_man": 4.5,
+    "area_sqm": 24.0,
+    "url": "https://suumo.jp/chintai/jnc_000109274956/?bc=100518191981",
+    "text": "笠間マンション２階",
+    "removed_on": "2026-09-09",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

@@ -208,17 +208,6 @@
     "removed_on": "2026-08-31",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165425|貸マンション 三島市多呂１１１－１": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-31",
-    "location": "三島市多呂１１１－１",
-    "price_man": 4.8,
-    "area_sqm": 55.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165425",
-    "text": "貸マンション 三島市多呂１１１－１",
-    "removed_on": "2026-08-31",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173039|貸店舗（建物一括） 三島市玉川341": {
     "first_seen": "2026-08-17",
     "last_seen": "2026-08-31",
@@ -239,50 +228,6 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109155",
     "text": "貸駐車場 三島市谷田1124-152",
     "removed_on": "2026-08-31",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165880|貸マンション 三島市西本町５－１９": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-31",
-    "location": "三島市西本町５－１９",
-    "price_man": 7.2,
-    "area_sqm": 55.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165880",
-    "text": "貸マンション 三島市西本町５－１９",
-    "removed_on": "2026-09-01",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118947|貸店舗（建物一部） 三島市八反畑109-7": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-01",
-    "location": "三島市八反畑109-7",
-    "price_man": 16.5,
-    "area_sqm": 107.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118947",
-    "text": "貸店舗（建物一部） 三島市八反畑109-7",
-    "removed_on": "2026-09-01",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131792|貸アパート 三島市安久656-1": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-01",
-    "location": "三島市安久656-1",
-    "price_man": 5.5,
-    "area_sqm": 52.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/131792",
-    "text": "貸アパート 三島市安久656-1",
-    "removed_on": "2026-09-01",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167863|貸アパート 三島市安久206": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-01",
-    "location": "三島市安久206",
-    "price_man": 7.0,
-    "area_sqm": 69.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167863",
-    "text": "貸アパート 三島市安久206",
-    "removed_on": "2026-09-01",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173518|貸倉庫 三島市御園77-2": {
@@ -307,17 +252,6 @@
     "removed_on": "2026-09-01",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34510|貸アパート 三島市谷田100-6": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-01",
-    "location": "三島市谷田100-6",
-    "price_man": 4.9,
-    "area_sqm": 42.1,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34510",
-    "text": "貸アパート 三島市谷田100-6",
-    "removed_on": "2026-09-02",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160070|貸店舗・事務所定期借家 三島市御園489番地7": {
     "first_seen": "2026-08-24",
     "last_seen": "2026-09-05",
@@ -338,6 +272,72 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164639",
     "text": "貸戸建住宅 三島市多呂146-14",
     "removed_on": "2026-09-07",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175816|貸アパート 三島市川原ケ谷270-18": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-09-08",
+    "location": "三島市川原ケ谷270-18",
+    "price_man": 5.2,
+    "area_sqm": 53.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175816",
+    "text": "貸アパート 三島市川原ケ谷270-18",
+    "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57475|貸アパート 三島市柳郷地48-1": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-09-08",
+    "location": "三島市柳郷地48-1",
+    "price_man": 6.0,
+    "area_sqm": 65.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57475",
+    "text": "貸アパート 三島市柳郷地48-1",
+    "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31314|貸駐車場 三島市谷田170-1": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-09-08",
+    "location": "三島市谷田170-1",
+    "price_man": 0.45,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/31314",
+    "text": "貸駐車場 三島市谷田170-1",
+    "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107904|貸マンション 三島市西若町": {
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-09-08",
+    "location": "三島市西若町",
+    "price_man": 4.7,
+    "area_sqm": 27.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107904",
+    "text": "貸マンション 三島市西若町",
+    "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/92818|貸マンション 三島市若松町": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-09-08",
+    "location": "三島市若松町",
+    "price_man": 6.5,
+    "area_sqm": 67.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/92818",
+    "text": "貸マンション 三島市若松町",
+    "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101974|貸戸建住宅 三島市中63-1": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-09-08",
+    "location": "三島市中63-1",
+    "price_man": 5.9,
+    "area_sqm": 46.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101974",
+    "text": "貸戸建住宅 三島市中63-1",
+    "removed_on": "2026-09-09",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

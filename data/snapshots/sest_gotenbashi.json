@@ -2,7 +2,7 @@
   "keys": {
     "https://buy.s-est.co.jp/land/358883/|御殿場市　萩原（御殿場駅）住宅用地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "静岡県御殿場市萩原348-2",
       "price_man": 2500,
       "area_sqm": 258.0,
@@ -31,7 +31,7 @@
     },
     "https://buy.s-est.co.jp/land/210625/|【価格改定】御殿場市二枚橋　売土地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "静岡県御殿場市二枚橋514-16",
       "price_man": 1140,
       "area_sqm": 246.0,
@@ -59,6 +59,6 @@
       "tab": "camp"
     }
   },
-  "hash": "a9ce27d7a1c1e626",
-  "fetched_at": "2026-09-09T00:02:43.113929"
+  "hash": "a93a114d6ba4ab45",
+  "fetched_at": "2026-09-10T00:02:40.852389"
 }

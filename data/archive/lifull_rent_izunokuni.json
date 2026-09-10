@@ -1231,37 +1231,48 @@
     "removed_on": "2026-09-08",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/148653d02f4b8a6bd50e545731379527eeacc659/|南箱根グラン・ビュー": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-09-07",
-    "location": "静岡県伊豆の国市奈古谷",
-    "price_man": 6.3,
-    "area_sqm": 45.1,
-    "url": "https://www.homes.co.jp/chintai/room/148653d02f4b8a6bd50e545731379527eeacc659/",
-    "text": "南箱根グラン・ビュー",
-    "removed_on": "2026-09-08",
+  "https://www.homes.co.jp/chintai/room/82fe2dd719439f9bd2e713f0fcdf6e92c4fa551b/|セピアム21": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-08",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.5,
+    "area_sqm": 61.0,
+    "url": "https://www.homes.co.jp/chintai/room/82fe2dd719439f9bd2e713f0fcdf6e92c4fa551b/",
+    "text": "セピアム21",
+    "removed_on": "2026-09-09",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/1f7afff8cdaf89f6cf6cfe6e4c95994028dab7ad/|南箱根グラン・ビュー": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-09-07",
-    "location": "静岡県伊豆の国市奈古谷",
-    "price_man": 7.5,
-    "area_sqm": 56.4,
-    "url": "https://www.homes.co.jp/chintai/room/1f7afff8cdaf89f6cf6cfe6e4c95994028dab7ad/",
-    "text": "南箱根グラン・ビュー",
-    "removed_on": "2026-09-08",
+  "https://www.homes.co.jp/chintai/room/eed5248aa44a6f15720c326ca00f873efd3aee59/|セピアム21": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-08",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.5,
+    "area_sqm": 61.0,
+    "url": "https://www.homes.co.jp/chintai/room/eed5248aa44a6f15720c326ca00f873efd3aee59/",
+    "text": "セピアム21",
+    "removed_on": "2026-09-09",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/717fe476225885efca50bb6ecd239a21fbb6398d/|南箱根グラン・ビュー": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-09-07",
-    "location": "静岡県伊豆の国市奈古谷",
-    "price_man": 7.5,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/717fe476225885efca50bb6ecd239a21fbb6398d/",
-    "text": "南箱根グラン・ビュー",
-    "removed_on": "2026-09-08",
+  "https://www.homes.co.jp/chintai/room/2d0e0495773c76bc2ad201e9311de63ed8ac3974/|セピアム21": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-08",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.5,
+    "area_sqm": 65.0,
+    "url": "https://www.homes.co.jp/chintai/room/2d0e0495773c76bc2ad201e9311de63ed8ac3974/",
+    "text": "セピアム21",
+    "removed_on": "2026-09-09",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/27ecd81a93a2930fb75147f6f8af67fc4ccdd8e6/|セピアム21": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-08",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.5,
+    "area_sqm": 61.0,
+    "url": "https://www.homes.co.jp/chintai/room/27ecd81a93a2930fb75147f6f8af67fc4ccdd8e6/",
+    "text": "セピアム21",
+    "removed_on": "2026-09-09",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

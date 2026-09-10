@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176666|富士市厚原2155-14": {
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-09",
+      "location": "富士市厚原2155-14",
+      "price_man": 1430,
+      "area_sqm": 204.6,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176666",
+      "text": "富士市厚原2155-14",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 23.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177175|富士市柚木200-3": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市柚木200-3",
       "price_man": 1480,
       "area_sqm": 211.0,
@@ -31,7 +60,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171822|富士市入山瀬": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市入山瀬",
       "price_man": 500,
       "area_sqm": 198.0,
@@ -63,7 +92,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161883|富士市江尾": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市江尾",
       "price_man": 500,
       "area_sqm": 328.9,
@@ -92,7 +121,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163728|富士市今泉2513-1": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市今泉2513-1",
       "price_man": 1300,
       "area_sqm": 291.6,
@@ -121,7 +150,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175130|富士市久沢": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市久沢",
       "price_man": 1400,
       "area_sqm": 2479.0,
@@ -153,7 +182,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139419|富士市神谷455-1、456": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市神谷455-1、456",
       "price_man": 1080,
       "area_sqm": 577.0,
@@ -182,7 +211,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167667|富士市比奈": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市比奈",
       "price_man": 920,
       "area_sqm": 176.4,
@@ -211,7 +240,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172093|富士市水戸島２丁目": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市水戸島２丁目",
       "price_man": 880,
       "area_sqm": 106.9,
@@ -240,7 +269,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174140|富士市さんどまき": {
       "first_seen": "2026-09-06",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市さんどまき",
       "price_man": 980,
       "area_sqm": 156.0,
@@ -269,7 +298,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177049|富士市森下47番8": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市森下47番8",
       "price_man": 1080,
       "area_sqm": 199.0,
@@ -298,7 +327,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177026|富士市宇東川東町163-10": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市宇東川東町163-10",
       "price_man": 980,
       "area_sqm": 168.0,
@@ -327,7 +356,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176991|富士市川成新町": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市川成新町",
       "price_man": 1645,
       "area_sqm": 339.9,
@@ -356,7 +385,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150300|富士市今泉４丁目870-1、-3、-4、5": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市今泉４丁目870-1、-3、-4、5",
       "price_man": 2450,
       "area_sqm": 612.1,
@@ -385,7 +414,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176551|富士市広見西本町": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市広見西本町",
       "price_man": 1385,
       "area_sqm": 228.9,
@@ -414,7 +443,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169232|富士市比奈": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市比奈",
       "price_man": 900,
       "area_sqm": 195.0,
@@ -443,7 +472,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140067|富士市比奈1291-31": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市比奈1291-31",
       "price_man": 650,
       "area_sqm": 197.4,
@@ -472,7 +501,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170334|富士市今泉": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市今泉",
       "price_man": 360,
       "area_sqm": 202.8,
@@ -501,7 +530,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160552|富士市天間1152": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市天間1152",
       "price_man": 550,
       "area_sqm": 1231.0,
@@ -530,7 +559,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176825|富士市比奈1007-1": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市比奈1007-1",
       "price_man": 1130,
       "area_sqm": 175.7,
@@ -559,7 +588,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176826|富士市比奈1007-1": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市比奈1007-1",
       "price_man": 980,
       "area_sqm": 168.2,
@@ -588,7 +617,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175488|富士市宇東川東町": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市宇東川東町",
       "price_man": 980,
       "area_sqm": 168.0,
@@ -617,7 +646,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165409|富士市中里": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市中里",
       "price_man": 1205,
       "area_sqm": 159.4,
@@ -646,7 +675,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/46262|富士市富士見台２丁目3-14": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市富士見台２丁目3-14",
       "price_man": 1200,
       "area_sqm": 249.5,
@@ -675,7 +704,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/77988|富士市大淵": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市大淵",
       "price_man": 1199,
       "area_sqm": 991.0,
@@ -707,7 +736,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176827|富士市八幡町84-8": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市八幡町84-8",
       "price_man": 1890,
       "area_sqm": 216.3,
@@ -736,7 +765,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174324|富士市大淵": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市大淵",
       "price_man": 1316,
       "area_sqm": 272.0,
@@ -765,7 +794,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142862|富士市宮島298－11": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市宮島298－11",
       "price_man": 900,
       "area_sqm": 210.2,
@@ -794,7 +823,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170987|富士市久沢": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市久沢",
       "price_man": 1217,
       "area_sqm": 217.7,
@@ -823,7 +852,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167950|富士市岩淵": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "富士市岩淵",
       "price_man": 1200,
       "area_sqm": 324.0,
@@ -849,37 +878,8 @@
       "zokujinsei": false,
       "machi": "富士市",
       "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167911|富士市吉原１丁目": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-08",
-      "location": "富士市吉原１丁目",
-      "price_man": 8800,
-      "area_sqm": 1124.1,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167911",
-      "text": "富士市吉原１丁目",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 25.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "富士市",
-      "tab": "camp"
     }
   },
-  "hash": "228139ac84b23c9f",
-  "fetched_at": "2026-09-09T00:27:52.335486"
+  "hash": "5433e24121491daf",
+  "fetched_at": "2026-09-10T00:28:45.720314"
 }

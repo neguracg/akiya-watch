@@ -1099,28 +1099,6 @@
     "removed_on": "2026-08-29",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/|パラーシオ": {
-    "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
-    "location": "静岡県三島市大場",
-    "price_man": 7.5,
-    "area_sqm": 56.1,
-    "url": "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/",
-    "text": "パラーシオ",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/|パラーシオ": {
-    "first_seen": "2026-08-28",
-    "last_seen": "2026-08-29",
-    "location": "静岡県三島市大場",
-    "price_man": 7.5,
-    "area_sqm": 56.1,
-    "url": "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/",
-    "text": "パラーシオ",
-    "removed_on": "2026-08-29",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/c4ba9f86970026a6d1688dd8103bc77b425354df/|ヘリテージ宮町": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-08-31",
@@ -1625,6 +1603,28 @@
     "url": "https://www.homes.co.jp/chintai/room/d1e41bf67681538aa1a583b8621a73376ca08e97/",
     "text": "タウンリバティＩＩ",
     "removed_on": "2026-09-08",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ccb096a8f71545eb34b0220a1ea9a64aa974dc05/|ヴィオラ　Ｎ": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-08",
+    "location": "静岡県三島市長伏",
+    "price_man": 7.6,
+    "area_sqm": 61.5,
+    "url": "https://www.homes.co.jp/chintai/room/ccb096a8f71545eb34b0220a1ea9a64aa974dc05/",
+    "text": "ヴィオラ　Ｎ",
+    "removed_on": "2026-09-09",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/e608ae40e357bb0d8231d360ba7315c94e9c350a/|ヴィオラ　Ｎ": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-08",
+    "location": "静岡県三島市長伏",
+    "price_man": 5.1,
+    "area_sqm": 31.0,
+    "url": "https://www.homes.co.jp/chintai/room/e608ae40e357bb0d8231d360ba7315c94e9c350a/",
+    "text": "ヴィオラ　Ｎ",
+    "removed_on": "2026-09-09",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

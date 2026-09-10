@@ -2,7 +2,7 @@
   "keys": {
     "https://10wa.co.jp/baibai/syousai/0/1454dat.html|駿東郡小山町中島": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-08",
+      "last_seen": "2026-09-09",
       "location": "駿東郡小山町中島",
       "price_man": 1180,
       "area_sqm": 230.2,
@@ -32,6 +32,6 @@
       "tab": "camp"
     }
   },
-  "hash": "745e185150deb7aa",
-  "fetched_at": "2026-09-09T00:22:46.590302"
+  "hash": "60a61619a8bbe20d",
+  "fetched_at": "2026-09-10T00:23:05.086446"
 }
