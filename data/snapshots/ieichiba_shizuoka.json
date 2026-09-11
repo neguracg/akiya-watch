@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "location": "静岡県裾野市",
       "price_man": 150,
       "area_sqm": null,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "8a4c634e1477570e",
-  "fetched_at": "2026-09-09T23:53:46.470114"
+  "hash": "fb1b0f88c117b61a",
+  "fetched_at": "2026-09-10T23:45:28.639818"
 }

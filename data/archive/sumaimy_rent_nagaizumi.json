@@ -43,28 +43,6 @@
     "removed_on": "2026-08-24",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167169|貸アパート 駿東郡長泉町上土狩471-1": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-08-27",
-    "location": "駿東郡長泉町上土狩471-1",
-    "price_man": 5.5,
-    "area_sqm": 46.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167169",
-    "text": "貸アパート 駿東郡長泉町上土狩471-1",
-    "removed_on": "2026-08-28",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278|貸アパート 駿東郡長泉町下土狩323-18": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-09-01",
-    "location": "駿東郡長泉町下土狩323-18",
-    "price_man": 4.8,
-    "area_sqm": 39.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278",
-    "text": "貸アパート 駿東郡長泉町下土狩323-18",
-    "removed_on": "2026-09-01",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176312|貸アパート 駿東郡長泉町納米里461-13": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-09-02",
@@ -118,6 +96,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157440",
     "text": "貸マンション 駿東郡長泉町下土狩",
     "removed_on": "2026-09-09",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/85470|貸マンション 駿東郡長泉町竹原": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-09",
+    "location": "駿東郡長泉町竹原",
+    "price_man": 3.5,
+    "area_sqm": 22.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/85470",
+    "text": "貸マンション 駿東郡長泉町竹原",
+    "removed_on": "2026-09-10",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/83280|貸マンション 駿東郡長泉町竹原": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-09",
+    "location": "駿東郡長泉町竹原",
+    "price_man": 3.5,
+    "area_sqm": 22.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/83280",
+    "text": "貸マンション 駿東郡長泉町竹原",
+    "removed_on": "2026-09-10",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   }
 }

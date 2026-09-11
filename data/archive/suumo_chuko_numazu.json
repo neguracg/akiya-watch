@@ -824,17 +824,6 @@
     "removed_on": "2026-09-01",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20651577/|自然あふれる閑静な住宅街となっております。幹線道路も近い！": {
-    "first_seen": "2026-07-02",
-    "last_seen": "2026-08-31",
-    "location": "静岡県沼津市岡一色",
-    "price_man": 2080,
-    "area_sqm": 153.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20651577/",
-    "text": "自然あふれる閑静な住宅街となっております。幹線道路も近い！",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79055873/|☆人気のファインアヴェニューシリーズ♪オール電化や吹抜け等の充実の設備。": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-09-02",
@@ -921,6 +910,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20905151/",
     "text": "東間門２（沼津駅） 2580万円",
     "removed_on": "2026-09-08",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21443163/|リフォーム済み物件！いつでもご内見可能です！月々４万円台で購入可能です！": {
+    "first_seen": "2026-08-07",
+    "last_seen": "2026-09-09",
+    "location": "静岡県沼津市岡宮",
+    "price_man": 1390,
+    "area_sqm": 154.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21443163/",
+    "text": "リフォーム済み物件！いつでもご内見可能です！月々４万円台で購入可能です！",
+    "removed_on": "2026-09-10",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

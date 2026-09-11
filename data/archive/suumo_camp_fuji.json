@@ -934,28 +934,6 @@
     "removed_on": "2026-09-06",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21236947/|整った街並み、全区画50坪以上のゆとりある分譲地。": {
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-07",
-    "location": "静岡県富士市厚原",
-    "price_man": 1430,
-    "area_sqm": 200.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21236947/",
-    "text": "整った街並み、全区画50坪以上のゆとりある分譲地。",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/|【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！": {
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-07",
-    "location": "静岡県富士市本市場",
-    "price_man": null,
-    "area_sqm": 157.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21190931/",
-    "text": "【N-STAGE】生活に便利な施設が揃った本市場エリアに分譲地誕生！",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/|富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！": {
     "first_seen": "2026-09-03",
     "last_seen": "2026-09-08",
@@ -976,6 +954,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_71060427/",
     "text": "大淵 1750万円",
     "removed_on": "2026-09-09",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74797775/|大月線まで徒歩１分": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
+    "location": "静岡県富士市伝法",
+    "price_man": 468,
+    "area_sqm": 106.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74797775/",
+    "text": "大月線まで徒歩１分",
+    "removed_on": "2026-09-10",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78713037/|周辺に商業施設が充実しています！ファミリー層の多い閑静な住宅街です！": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-09",
+    "location": "静岡県富士市青葉町",
+    "price_man": 8240,
+    "area_sqm": 495.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78713037/",
+    "text": "周辺に商業施設が充実しています！ファミリー層の多い閑静な住宅街です！",
+    "removed_on": "2026-09-10",
     "site_name": "SUUMO 土地 富士市"
   }
 }
