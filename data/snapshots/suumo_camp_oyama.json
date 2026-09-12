@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "4eeb89a265993b59",
-  "fetched_at": "2026-09-11T00:10:29.534355"
+  "keys": {
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/|大胡田 2000万円": {
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "location": "静岡県駿東郡小山町大胡田",
+      "price_man": 2000,
+      "area_sqm": 580.1,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/",
+      "text": "大胡田 2000万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 11.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "小山町",
+      "tab": "camp"
+    }
+  },
+  "hash": "17e3554786cda137",
+  "fetched_at": "2026-09-12T00:20:36.654586"
 }

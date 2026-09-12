@@ -284,5 +284,27 @@
     "text": "静岡県沼津市足高",
     "removed_on": "2026-09-04",
     "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59721/index.html|静岡県沼津市大手町1丁目": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-10",
+    "location": "静岡県沼津市大手町1丁目",
+    "price_man": 3298,
+    "area_sqm": null,
+    "url": "https://www.snjhkk.com/s_r_59721/index.html",
+    "text": "静岡県沼津市大手町1丁目",
+    "removed_on": "2026-09-11",
+    "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59719/index.html|静岡県沼津市小林台": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-10",
+    "location": "静岡県沼津市小林台",
+    "price_man": 3080,
+    "area_sqm": 106.0,
+    "url": "https://www.snjhkk.com/s_r_59719/index.html",
+    "text": "静岡県沼津市小林台",
+    "removed_on": "2026-09-11",
+    "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
   }
 }

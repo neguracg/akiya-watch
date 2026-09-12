@@ -65,17 +65,6 @@
     "removed_on": "2026-09-07",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_74014956/|国道246号線に面する敷地は間口が約４２ｍもあり、とっても目立ちます！": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-07",
-    "location": "神奈川県秦野市落合",
-    "price_man": 5800,
-    "area_sqm": 465.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_74014956/",
-    "text": "国道246号線に面する敷地は間口が約４２ｍもあり、とっても目立ちます！",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_76482587/|☆敷地面積４７坪、全2区画☆渋沢駅徒歩12分☆小学校、中学校が近い住宅地": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-07",
@@ -118,6 +107,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21244256/",
     "text": "《建築条件ナシ売地》駅徒歩約１２分×学校・スーパーまでも近く住環境が良い",
     "removed_on": "2026-09-10",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21146751/|鶴巻南２（鶴巻温泉駅） 2480万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-10",
+    "location": "神奈川県秦野市鶴巻南２-15-5",
+    "price_man": 2480,
+    "area_sqm": 173.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21146751/",
+    "text": "鶴巻南２（鶴巻温泉駅） 2480万円",
+    "removed_on": "2026-09-11",
     "site_name": "SUUMO 土地 秦野市"
   }
 }
