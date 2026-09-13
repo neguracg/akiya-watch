@@ -1,8 +1,39 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/65785|貸アパート 伊豆の国市南條７９４－１": {
+      "first_seen": "2026-09-12",
+      "last_seen": "2026-09-12",
+      "location": "伊豆の国市南條７９４－１",
+      "price_man": 4.9,
+      "area_sqm": 60.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/65785",
+      "text": "貸アパート 伊豆の国市南條７９４－１",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3DK",
+      "chikunen": "1991年2月",
+      "kanrihi": null,
+      "shikikin": "1ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175297|貸マンション 伊豆の国市四日町357-5": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町357-5",
       "price_man": 5.7,
       "area_sqm": 42.5,
@@ -33,7 +64,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161172|貸マンション 伊豆の国市四日町357-5": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町357-5",
       "price_man": 5.7,
       "area_sqm": 42.5,
@@ -64,7 +95,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144329|貸店舗・事務所 伊豆の国市大仁540-1-2": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市大仁540-1-2",
       "price_man": 7.8,
       "area_sqm": 94.5,
@@ -98,7 +129,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/65603|貸アパート 伊豆の国市南條７６６－２": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市南條７６６－２",
       "price_man": 4.3,
       "area_sqm": 40.0,
@@ -130,7 +161,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135464|貸マンション 伊豆の国市南條": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市南條",
       "price_man": 4.1,
       "area_sqm": 35.4,
@@ -162,7 +193,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175248|貸アパート 伊豆の国市四日町894": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町894",
       "price_man": 3.7,
       "area_sqm": 39.9,
@@ -191,7 +222,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175242|貸アパート 伊豆の国市四日町894": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町894",
       "price_man": 3.5,
       "area_sqm": 25.0,
@@ -220,7 +251,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172658|貸駐車場 伊豆の国市三福189-5": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市三福189-5",
       "price_man": 0.5,
       "area_sqm": null,
@@ -252,7 +283,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/10412|貸駐車場 伊豆の国市四日町107": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町107",
       "price_man": 0.35,
       "area_sqm": null,
@@ -284,7 +315,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48604|貸駐車場 伊豆の国市田京": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京",
       "price_man": 0.5,
       "area_sqm": null,
@@ -316,7 +347,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/98027|貸店舗（建物一部） 伊豆の国市御門67-10": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市御門67-10",
       "price_man": 8.8,
       "area_sqm": 59.6,
@@ -349,7 +380,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176475|貸店舗（建物一部） 伊豆の国市大仁591-2": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市大仁591-2",
       "price_man": 7.0,
       "area_sqm": 49.9,
@@ -382,7 +413,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156448|貸戸建住宅 伊豆の国市田京692-15": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京692-15",
       "price_man": 4.0,
       "area_sqm": 50.9,
@@ -413,7 +444,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/112315|貸戸建住宅 伊豆の国市守木53-3": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市守木53-3",
       "price_man": 5.5,
       "area_sqm": 42.5,
@@ -445,7 +476,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172885|貸戸建住宅 伊豆の国市御門55-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市御門55-1",
       "price_man": 5.0,
       "area_sqm": 49.7,
@@ -477,7 +508,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171015|貸戸建住宅 伊豆の国市田京753-7": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京753-7",
       "price_man": 6.0,
       "area_sqm": 83.6,
@@ -508,7 +539,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175434|貸アパート 伊豆の国市田京658-12": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京658-12",
       "price_man": 5.2,
       "area_sqm": 44.7,
@@ -537,7 +568,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/45614|貸アパート 伊豆の国市田京751-5": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京751-5",
       "price_man": 4.0,
       "area_sqm": 35.5,
@@ -566,7 +597,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125423|貸アパート 伊豆の国市田京751-5": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京751-5",
       "price_man": 4.2,
       "area_sqm": 35.5,
@@ -595,7 +626,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172674|貸アパート 伊豆の国市田京109-1": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京109-1",
       "price_man": 6.5,
       "area_sqm": 62.3,
@@ -626,7 +657,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99578|貸アパート 伊豆の国市田京647-6": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京647-6",
       "price_man": 5.0,
       "area_sqm": 46.4,
@@ -655,7 +686,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166227|貸アパート 伊豆の国市田京658-13": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京658-13",
       "price_man": 6.9,
       "area_sqm": 73.7,
@@ -684,7 +715,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90888|貸アパート 伊豆の国市三福825-1": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市三福825-1",
       "price_man": 4.0,
       "area_sqm": 39.7,
@@ -713,7 +744,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48494|貸アパート 伊豆の国市四日町417-1": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市四日町417-1",
       "price_man": 5.5,
       "area_sqm": 53.6,
@@ -745,7 +776,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101417|貸アパート 伊豆の国市大仁444": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市大仁444",
       "price_man": 3.5,
       "area_sqm": 23.5,
@@ -774,7 +805,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/109513|貸アパート 伊豆の国市大仁66-5": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市大仁66-5",
       "price_man": 4.5,
       "area_sqm": 40.9,
@@ -803,7 +834,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/115525|貸アパート 伊豆の国市田京658-12": {
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京658-12",
       "price_man": 5.4,
       "area_sqm": 44.7,
@@ -832,7 +863,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111418|貸アパート 伊豆の国市田京707-27": {
       "first_seen": "2026-08-28",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市田京707-27",
       "price_man": 5.0,
       "area_sqm": 50.9,
@@ -861,7 +892,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101423|貸アパート 伊豆の国市白山堂378": {
       "first_seen": "2026-08-13",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "伊豆の国市白山堂378",
       "price_man": 5.0,
       "area_sqm": 49.7,
@@ -889,37 +920,8 @@
       "zokujinsei": false,
       "machi": "伊豆の国市",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/119649|貸アパート 伊豆の国市三福543": {
-      "first_seen": "2026-08-28",
-      "last_seen": "2026-09-11",
-      "location": "伊豆の国市三福543",
-      "price_man": 5.3,
-      "area_sqm": 49.6,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/119649",
-      "text": "貸アパート 伊豆の国市三福543",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
-      "chikunen": "1995年1月",
-      "kanrihi": null,
-      "shikikin": "5.30万円",
-      "reikin": "5.30万円",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "rent"
     }
   },
-  "hash": "bb9bf897608f4162",
-  "fetched_at": "2026-09-11T23:58:23.173992"
+  "hash": "86c144e3bd9bcfd7",
+  "fetched_at": "2026-09-12T23:48:27.866801"
 }

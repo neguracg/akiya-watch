@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/|大胡田 2000万円": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "静岡県駿東郡小山町大胡田",
       "price_man": 2000,
       "area_sqm": 580.1,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "17e3554786cda137",
-  "fetched_at": "2026-09-12T00:20:36.654586"
+  "hash": "42024580b8323e48",
+  "fetched_at": "2026-09-13T00:11:29.555014"
 }

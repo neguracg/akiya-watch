@@ -2,7 +2,7 @@
   "keys": {
     "https://foreste.yamaichiba.com/sz009-shizuoka-okabecho/|山林物件　静岡県藤枝市岡部町": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "静岡県藤枝市岡部町",
       "price_man": 54,
       "area_sqm": 7400.0,
@@ -31,7 +31,7 @@
     },
     "https://foreste.yamaichiba.com/sz006-shizuoka-yoshizu/|山林物件　静岡市葵区吉津": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "静岡市葵区吉津",
       "price_man": 140,
       "area_sqm": 318600.0,
@@ -60,7 +60,7 @@
     },
     "https://foreste.yamaichiba.com/sz002-shizuoka-oohira/|山林物件　静岡市清水区大平①": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "静岡市清水区大平①",
       "price_man": 90,
       "area_sqm": 64200.0,
@@ -89,7 +89,7 @@
     },
     "https://foreste.yamaichiba.com/sz003-shizuoka-oohira/|山林物件　静岡市清水区大平②": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
       "location": "静岡市清水区大平②",
       "price_man": 160,
       "area_sqm": 164200.0,
@@ -117,6 +117,6 @@
       "tab": "camp"
     }
   },
-  "hash": "579b8b8d66e766c5",
-  "fetched_at": "2026-09-12T00:14:12.798969"
+  "hash": "53e36f805342270a",
+  "fetched_at": "2026-09-13T00:05:16.644402"
 }

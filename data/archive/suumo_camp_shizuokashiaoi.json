@@ -142,15 +142,26 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21209707/|徒歩5分圏内にスーパー、ドラッグストア、幼稚園など揃っていて生活便利な立地": {
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20833918/|【解体更地渡し】静岡駅まで車で6分(2800ｍ)！多用途に対応できる整形地": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-10",
-    "location": "静岡県静岡市葵区東千代田２",
-    "price_man": 2800,
-    "area_sqm": 138.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21209707/",
-    "text": "徒歩5分圏内にスーパー、ドラッグストア、幼稚園など揃っていて生活便利な立地",
-    "removed_on": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "location": "静岡県静岡市葵区井宮町主要地",
+    "price_man": 1690,
+    "area_sqm": 91.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20833918/",
+    "text": "【解体更地渡し】静岡駅まで車で6分(2800ｍ)！多用途に対応できる整形地",
+    "removed_on": "2026-09-12",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20618996/|解体・更地・測量渡し／四季の豊かさを感じられる薩摩緑地近く♪／小学校近く♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-11",
+    "location": "静岡県静岡市葵区籠上",
+    "price_man": 3540,
+    "area_sqm": 198.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20618996/",
+    "text": "解体・更地・測量渡し／四季の豊かさを感じられる薩摩緑地近く♪／小学校近く♪",
+    "removed_on": "2026-09-12",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }
