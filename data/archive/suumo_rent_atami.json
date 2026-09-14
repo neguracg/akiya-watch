@@ -1264,17 +1264,6 @@
     "removed_on": "2026-09-09",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000094271604/|石黒ハイツ": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-09",
-    "location": "静岡県熱海市中央町",
-    "price_man": 9.8,
-    "area_sqm": 63.2,
-    "url": "https://suumo.jp/chintai/jnc_000094271604/",
-    "text": "石黒ハイツ",
-    "removed_on": "2026-09-10",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000095834257/|マリンバースTAGA": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-09-10",
@@ -1283,17 +1272,6 @@
     "area_sqm": 55.7,
     "url": "https://suumo.jp/chintai/jnc_000095834257/",
     "text": "マリンバースTAGA",
-    "removed_on": "2026-09-11",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
-  "https://suumo.jp/chintai/jnc_000103467838/|ＪＲ伊東線 伊豆多賀駅 2階建 築34年": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-09-10",
-    "location": "静岡県熱海市下多賀",
-    "price_man": 12.3,
-    "area_sqm": 80.1,
-    "url": "https://suumo.jp/chintai/jnc_000103467838/",
-    "text": "ＪＲ伊東線 伊豆多賀駅 2階建 築34年",
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 賃貸 熱海市"
   },
@@ -1319,37 +1297,191 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000102712608/|エンゼルシーサイド南熱海": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-11",
-    "location": "静岡県熱海市上多賀",
-    "price_man": 12.0,
-    "area_sqm": 49.5,
-    "url": "https://suumo.jp/chintai/jnc_000102712608/",
-    "text": "エンゼルシーサイド南熱海",
-    "removed_on": "2026-09-12",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
-  "https://suumo.jp/chintai/jnc_000108994345/?bc=100520607318|熱海スカイハイツ": {
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-09-11",
+  "https://suumo.jp/chintai/jnc_000108994345/|熱海スカイハイツ": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
     "location": "静岡県熱海市春日町",
     "price_man": 5.5,
     "area_sqm": 25.8,
-    "url": "https://suumo.jp/chintai/jnc_000108994345/?bc=100520607318",
+    "url": "https://suumo.jp/chintai/jnc_000108994345/",
     "text": "熱海スカイハイツ",
-    "removed_on": "2026-09-12",
+    "removed_on": "2026-09-13",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000069669930/?bc=100521027902|熱海スカイハイツ": {
-    "first_seen": "2026-08-21",
-    "last_seen": "2026-09-11",
+  "https://suumo.jp/chintai/jnc_000084032288/|熱海スカイハイツ": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市春日町",
+    "price_man": 9.0,
+    "area_sqm": 55.1,
+    "url": "https://suumo.jp/chintai/jnc_000084032288/",
+    "text": "熱海スカイハイツ",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000069669930/|熱海スカイハイツ": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
     "location": "静岡県熱海市春日町",
     "price_man": 11.0,
     "area_sqm": 55.1,
-    "url": "https://suumo.jp/chintai/jnc_000069669930/?bc=100521027902",
+    "url": "https://suumo.jp/chintai/jnc_000069669930/",
     "text": "熱海スカイハイツ",
-    "removed_on": "2026-09-12",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109443805/|コーポ秋山A": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 6.5,
+    "area_sqm": 60.1,
+    "url": "https://suumo.jp/chintai/jnc_000109443805/",
+    "text": "コーポ秋山A",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000102944606/|西島アパート": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 5.0,
+    "area_sqm": 36.4,
+    "url": "https://suumo.jp/chintai/jnc_000102944606/",
+    "text": "西島アパート",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000102944607/|西島アパート": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 5.5,
+    "area_sqm": 49.5,
+    "url": "https://suumo.jp/chintai/jnc_000102944607/",
+    "text": "西島アパート",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000102712608/?bc=100471799784|エンゼルシーサイド南熱海": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 12.0,
+    "area_sqm": 49.5,
+    "url": "https://suumo.jp/chintai/jnc_000102712608/?bc=100471799784",
+    "text": "エンゼルシーサイド南熱海",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904|ＪＲ伊東線 伊豆多賀駅 2階建 築34年": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 12.3,
+    "area_sqm": 80.1,
+    "url": "https://suumo.jp/chintai/jnc_000103467838/?bc=100477530904",
+    "text": "ＪＲ伊東線 伊豆多賀駅 2階建 築34年",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000094271604/?bc=100326272702|石黒ハイツ": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市中央町",
+    "price_man": 9.8,
+    "area_sqm": 63.2,
+    "url": "https://suumo.jp/chintai/jnc_000094271604/?bc=100326272702",
+    "text": "石黒ハイツ",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109443806/?bc=100524003557|ルシーヌ南熱海": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 6.2,
+    "area_sqm": 45.9,
+    "url": "https://suumo.jp/chintai/jnc_000109443806/?bc=100524003557",
+    "text": "ルシーヌ南熱海",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000107544709/?bc=100509575161|サンサン貸家": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 8.8,
+    "area_sqm": 79.5,
+    "url": "https://suumo.jp/chintai/jnc_000107544709/?bc=100509575161",
+    "text": "サンサン貸家",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108014073/?bc=100513169052|ＪＲ伊東線 網代駅 地下2地上2階建 築31年": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 5.8,
+    "area_sqm": 40.0,
+    "url": "https://suumo.jp/chintai/jnc_000108014073/?bc=100513169052",
+    "text": "ＪＲ伊東線 網代駅 地下2地上2階建 築31年",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000071013130/?bc=100509736370|マシガーナ二番館": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市青葉町",
+    "price_man": 6.5,
+    "area_sqm": 57.1,
+    "url": "https://suumo.jp/chintai/jnc_000071013130/?bc=100509736370",
+    "text": "マシガーナ二番館",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000106223266/?bc=100469735326|サニーハイツ": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市青葉町",
+    "price_man": 6.5,
+    "area_sqm": 45.6,
+    "url": "https://suumo.jp/chintai/jnc_000106223266/?bc=100469735326",
+    "text": "サニーハイツ",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108157906/?bc=100514404576|石井アパート": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 3.6,
+    "area_sqm": 33.0,
+    "url": "https://suumo.jp/chintai/jnc_000108157906/?bc=100514404576",
+    "text": "石井アパート",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000082860529/?bc=100330729896|杉山アパート": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 3.3,
+    "area_sqm": 34.8,
+    "url": "https://suumo.jp/chintai/jnc_000082860529/?bc=100330729896",
+    "text": "杉山アパート",
+    "removed_on": "2026-09-13",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000105639607/?bc=100273356656|ウエルカム泉": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-12",
+    "location": "静岡県熱海市泉",
+    "price_man": 4.8,
+    "area_sqm": 51.1,
+    "url": "https://suumo.jp/chintai/jnc_000105639607/?bc=100273356656",
+    "text": "ウエルカム泉",
+    "removed_on": "2026-09-13",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }

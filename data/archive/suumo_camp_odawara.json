@@ -142,15 +142,15 @@
     "removed_on": "2026-09-12",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21112418/|桑原（富水駅） 1300万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-11",
-    "location": "神奈川県小田原市桑原",
-    "price_man": 1300,
-    "area_sqm": 164.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21112418/",
-    "text": "桑原（富水駅） 1300万円",
-    "removed_on": "2026-09-12",
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21629805/|【当日予約OK・本日見学可能】9/12(土)13(日)現地集合・平日も可": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-12",
+    "location": "神奈川県小田原市国府津2731",
+    "price_man": 2180,
+    "area_sqm": 155.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21629805/",
+    "text": "【当日予約OK・本日見学可能】9/12(土)13(日)現地集合・平日も可",
+    "removed_on": "2026-09-13",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

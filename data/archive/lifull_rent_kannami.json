@@ -1165,61 +1165,6 @@
     "removed_on": "2026-09-10",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/|シティパレス柿島": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-09-09",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.3,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-09-10",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/|シティパレス柿島": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-09-09",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.2,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-09-10",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/f8c23f71e03d57d9b483feeda749a29900ee462a/|セリアージュ": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-09-10",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.37,
-    "area_sqm": 66.2,
-    "url": "https://www.homes.co.jp/chintai/room/f8c23f71e03d57d9b483feeda749a29900ee462a/",
-    "text": "セリアージュ",
-    "removed_on": "2026-09-11",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/7f39781078b1cdf094936695f29d6688a483b4bc/|セリアージュ": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-09-10",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.6,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/7f39781078b1cdf094936695f29d6688a483b4bc/",
-    "text": "セリアージュ",
-    "removed_on": "2026-09-11",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/205f5d9c40bab2b1f21f500e6bc24a0f86600a99/|セリアージュ": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-09-10",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.41,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/205f5d9c40bab2b1f21f500e6bc24a0f86600a99/",
-    "text": "セリアージュ",
-    "removed_on": "2026-09-11",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-11",
@@ -1242,59 +1187,92 @@
     "removed_on": "2026-09-12",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/682ae10776e1c6b7e3e04d2407ad3a34a346af1d/|グランペール函南": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-11",
-    "location": "静岡県田方郡函南町大土肥",
+  "https://www.homes.co.jp/chintai/room/508a47d86f6511faaf06755ff56df82c4b7b10c8/|マンハッタンパレス": {
+    "first_seen": "2026-07-26",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.9,
+    "area_sqm": 33.1,
+    "url": "https://www.homes.co.jp/chintai/room/508a47d86f6511faaf06755ff56df82c4b7b10c8/",
+    "text": "マンハッタンパレス",
+    "removed_on": "2026-09-13",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/6d4a1f425d1714614a113ca7b8846e91824b3552/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/6d4a1f425d1714614a113ca7b8846e91824b3552/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-09-13",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d70c5fb4314a0e22339789288cd86bf24c55e50e/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/d70c5fb4314a0e22339789288cd86bf24c55e50e/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-09-13",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/792dddac9994b3d51b5447378b60c2bcfaf0c6f6/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/792dddac9994b3d51b5447378b60c2bcfaf0c6f6/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-09-13",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/b5a889dec27b868de392733ed40b689b5f95789b/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/b5a889dec27b868de392733ed40b689b5f95789b/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-09-13",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町柏谷",
     "price_man": 7.6,
-    "area_sqm": 60.5,
-    "url": "https://www.homes.co.jp/chintai/room/682ae10776e1c6b7e3e04d2407ad3a34a346af1d/",
-    "text": "グランペール函南",
-    "removed_on": "2026-09-12",
+    "area_sqm": 58.2,
+    "url": "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
+    "removed_on": "2026-09-13",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/a29cd0b72fff9ad5f5ada84593e03a70c8a31eaa/|グランペール函南": {
+  "https://www.homes.co.jp/chintai/room/1d6150772bbc2626ea3d407d3195ac48496b5194/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
     "first_seen": "2026-09-06",
-    "last_seen": "2026-09-11",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 7.6,
-    "area_sqm": 60.5,
-    "url": "https://www.homes.co.jp/chintai/room/a29cd0b72fff9ad5f5ada84593e03a70c8a31eaa/",
-    "text": "グランペール函南",
-    "removed_on": "2026-09-12",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/8d6a86d4bc0962fb61d2cb9f0d81fc35653d245f/|グランペール函南": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-11",
-    "location": "静岡県田方郡函南町大土肥",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町柏谷",
     "price_man": 7.4,
-    "area_sqm": 60.5,
-    "url": "https://www.homes.co.jp/chintai/room/8d6a86d4bc0962fb61d2cb9f0d81fc35653d245f/",
-    "text": "グランペール函南",
-    "removed_on": "2026-09-12",
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/1d6150772bbc2626ea3d407d3195ac48496b5194/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
+    "removed_on": "2026-09-13",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/6b62931fb083efac6a43711a9c3a660e67679e39/|グランペール函南": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-11",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 7.4,
-    "area_sqm": 60.5,
-    "url": "https://www.homes.co.jp/chintai/room/6b62931fb083efac6a43711a9c3a660e67679e39/",
-    "text": "グランペール函南",
-    "removed_on": "2026-09-12",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/b103e52860be5a27d2d2e86e45476566ed3463f1/|グランペール函南": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-11",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 7.8,
-    "area_sqm": 60.5,
-    "url": "https://www.homes.co.jp/chintai/room/b103e52860be5a27d2d2e86e45476566ed3463f1/",
-    "text": "グランペール函南",
-    "removed_on": "2026-09-12",
+  "https://www.homes.co.jp/chintai/room/ca9d6e02076e3613b7507d293c8ba9c538543479/|レジェンド　Ｃ": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-09-12",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 11.5,
+    "area_sqm": 104.4,
+    "url": "https://www.homes.co.jp/chintai/room/ca9d6e02076e3613b7507d293c8ba9c538543479/",
+    "text": "レジェンド　Ｃ",
+    "removed_on": "2026-09-13",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

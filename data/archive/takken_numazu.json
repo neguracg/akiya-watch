@@ -713,5 +713,16 @@
     "text": "売土地 沼津市上香貫二瀬川町",
     "removed_on": "2026-09-07",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158384/settle/1|売アパート 沼津市大岡": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-12",
+    "location": "沼津市大岡",
+    "price_man": 5820,
+    "area_sqm": 328.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158384/settle/1",
+    "text": "売アパート 沼津市大岡",
+    "removed_on": "2026-09-13",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

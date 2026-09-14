@@ -2,7 +2,7 @@
   "keys": {
     "https://www.shin-rin.net/archives/711|東海　\t\t\t\t\t\t\t\t\t　物件No.037": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-12",
+      "last_seen": "2026-09-13",
       "location": "静岡県 富士宮市",
       "price_man": null,
       "area_sqm": 69437.0,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "1cd33908ba3a5da0",
-  "fetched_at": "2026-09-13T00:05:11.693401"
+  "hash": "5591ff8cd268f4e2",
+  "fetched_at": "2026-09-14T00:16:34.988002"
 }
