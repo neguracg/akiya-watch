@@ -98,15 +98,26 @@
     "removed_on": "2026-09-01",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
-    "first_seen": "2026-09-11",
-    "last_seen": "2026-09-12",
-    "location": "南箱根ダイヤランド　売戸建",
-    "price_man": 1600,
-    "area_sqm": 307.5,
-    "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
-    "text": "南箱根ダイヤランド　売戸建",
-    "removed_on": "2026-09-13",
+  "https://www.homes.co.jp/kodate/b-1452060000052/|南箱根ダイヤランド": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-09-13",
+    "location": "南箱根ダイヤランド",
+    "price_man": 3550,
+    "area_sqm": 308.0,
+    "url": "https://www.homes.co.jp/kodate/b-1452060000052/",
+    "text": "南箱根ダイヤランド",
+    "removed_on": "2026-09-15",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-39036990000092/|ヒューマンヒルズ函南": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-09-13",
+    "location": "ヒューマンヒルズ函南",
+    "price_man": 1980,
+    "area_sqm": 253.9,
+    "url": "https://www.homes.co.jp/kodate/b-39036990000092/",
+    "text": "ヒューマンヒルズ函南",
+    "removed_on": "2026-09-15",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

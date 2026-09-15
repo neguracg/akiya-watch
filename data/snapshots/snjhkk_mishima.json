@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59796/index.html|静岡県三島市青木": {
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "location": "静岡県三島市青木",
+      "price_man": 3280,
+      "area_sqm": 108.2,
+      "url": "https://www.snjhkk.com/s_r_59796/index.html",
+      "text": "静岡県三島市青木",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 100.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59795/index.html|静岡県三島市梅名": {
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "location": "静岡県三島市梅名",
       "price_man": 4280,
       "area_sqm": 156.0,
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "location": "静岡県三島市西若町",
       "price_man": 2890,
       "area_sqm": null,
@@ -58,38 +87,9 @@
       "machi": "三島市",
       "tab": "home"
     },
-    "https://www.snjhkk.com/s_r_59729/index.html|静岡県三島市南本町": {
-      "first_seen": "2026-09-06",
-      "last_seen": "2026-09-13",
-      "location": "静岡県三島市南本町",
-      "price_man": 4598,
-      "area_sqm": 123.3,
-      "url": "https://www.snjhkk.com/s_r_59729/index.html",
-      "text": "静岡県三島市南本町",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 123.3,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "home"
-    },
     "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "location": "静岡県三島市藤代町",
       "price_man": 3980,
       "area_sqm": 103.5,
@@ -117,6 +117,6 @@
       "tab": "home"
     }
   },
-  "hash": "1d5ece646d9ac69b",
-  "fetched_at": "2026-09-14T00:10:14.391737"
+  "hash": "c7ce2cdbf2ea52bc",
+  "fetched_at": "2026-09-15T00:30:23.453095"
 }

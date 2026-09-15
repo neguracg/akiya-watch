@@ -54,17 +54,6 @@
     "removed_on": "2026-09-07",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21240340/|■静鉄「新清水」駅徒歩８分！スーパー徒歩３分、コンビニ徒歩４分の好立地！": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-07",
-    "location": "静岡県静岡市清水区千歳町",
-    "price_man": 6980,
-    "area_sqm": 1086.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21240340/",
-    "text": "■静鉄「新清水」駅徒歩８分！スーパー徒歩３分、コンビニ徒歩４分の好立地！",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_76663327/|キレイな街並み。エスポット隣、買物便利で住みよい環境。": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-08",
@@ -85,6 +74,50 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20624734/",
     "text": "■【陽当たり良好／敷地広々】■【お買い物スポット多数／交通アクセス良好】",
     "removed_on": "2026-09-12",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_77518475/|＼周辺環境案内可能／月々３万円台！建築条件なし！住宅ローン相談承ります♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-13",
+    "location": "静岡県静岡市清水区押切",
+    "price_man": 1380,
+    "area_sqm": 130.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_77518475/",
+    "text": "＼周辺環境案内可能／月々３万円台！建築条件なし！住宅ローン相談承ります♪",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20168708/|第六中学校至近◎建築条件無し◎お好きなハウスメーカーで建築出来ます！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-13",
+    "location": "静岡県静岡市清水区石川新町3-67",
+    "price_man": 1080,
+    "area_sqm": 181.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20168708/",
+    "text": "第六中学校至近◎建築条件無し◎お好きなハウスメーカーで建築出来ます！",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20645614/|＼建築条件なし！／月々４万円台！建築条件なし！住宅ローン相談承ります♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-13",
+    "location": "静岡県静岡市清水区沼田町",
+    "price_man": 1595,
+    "area_sqm": 135.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20645614/",
+    "text": "＼建築条件なし！／月々４万円台！建築条件なし！住宅ローン相談承ります♪",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/|☆９月７日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-13",
+    "location": "静岡県静岡市清水区吉川",
+    "price_man": 1990,
+    "area_sqm": 183.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/",
+    "text": "☆９月７日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

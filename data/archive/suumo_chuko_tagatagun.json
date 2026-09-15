@@ -472,26 +472,37 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_97678859/|畑毛 970万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-09-10",
-    "location": "静岡県田方郡函南町畑毛",
-    "price_man": 970,
-    "area_sqm": 647.4,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_97678859/",
-    "text": "畑毛 970万円",
-    "removed_on": "2026-09-11",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21343751/|◇◆陽当たり＆眺望良好な立地◆◇☆伊豆縦貫道へのアクセス良好♪": {
+    "first_seen": "2026-07-23",
+    "last_seen": "2026-09-13",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 350,
+    "area_sqm": 172.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21343751/",
+    "text": "◇◆陽当たり＆眺望良好な立地◆◇☆伊豆縦貫道へのアクセス良好♪",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/|丹那 980万円": {
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-09-10",
-    "location": "静岡県田方郡函南町丹那",
-    "price_man": 980,
-    "area_sqm": 342.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21001729/",
-    "text": "丹那 980万円",
-    "removed_on": "2026-09-11",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_71621641/|平井 690万円": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 690,
+    "area_sqm": 384.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_71621641/",
+    "text": "平井 690万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21576183/|【見学会開催】自社売主物件につき随時内覧可能です。ご希望日をお知らせくださ": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-13",
+    "location": "静岡県田方郡函南町柏谷1277-81",
+    "price_man": 999,
+    "area_sqm": 226.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21576183/",
+    "text": "【見学会開催】自社売主物件につき随時内覧可能です。ご希望日をお知らせくださ",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

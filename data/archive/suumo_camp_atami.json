@@ -98,15 +98,37 @@
     "removed_on": "2026-08-29",
     "site_name": "SUUMO 土地 熱海市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/|泉 980万円": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-09-10",
-    "location": "静岡県熱海市泉",
-    "price_man": 980,
-    "area_sqm": 3175.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_80945041/",
-    "text": "泉 980万円",
-    "removed_on": "2026-09-11",
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76712265/|泉元宮上分 250万円": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-09-13",
+    "location": "静岡県熱海市泉元宮上分",
+    "price_man": 250,
+    "area_sqm": 185.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_76712265/",
+    "text": "泉元宮上分 250万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_93802535/|和田町（来宮駅） 1000万円": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県熱海市和田町",
+    "price_man": 1000,
+    "area_sqm": 145.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_93802535/",
+    "text": "和田町（来宮駅） 1000万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_70846964/|熱海（熱海駅） 2500万円": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県熱海市熱海",
+    "price_man": 2500,
+    "area_sqm": 1184.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_70846964/",
+    "text": "熱海（熱海駅） 2500万円",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 熱海市"
   }
 }

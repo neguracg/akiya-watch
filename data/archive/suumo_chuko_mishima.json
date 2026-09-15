@@ -1341,17 +1341,6 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20830364/|【見学会開催】【リフォーム済】前面道路の幅員約6ｍ。車通りが少ない閑静な": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-09-11",
-    "location": "静岡県三島市東大場１-15-11",
-    "price_man": 2029,
-    "area_sqm": 207.4,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20830364/",
-    "text": "【見学会開催】【リフォーム済】前面道路の幅員約6ｍ。車通りが少ない閑静な",
-    "removed_on": "2026-09-12",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21130543/|築年数約5年の注文住宅！": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-09-11",
@@ -1394,6 +1383,72 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21032216/",
     "text": "三島市南田町、4LDKの戸建です！",
     "removed_on": "2026-09-13",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21060092/|【リフォーム実施中☆】●〇アトモ〇●いつでもご案内できます♪": {
+    "first_seen": "2026-08-04",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21060092/",
+    "text": "【リフォーム実施中☆】●〇アトモ〇●いつでもご案内できます♪",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21683704/|【現況販売　10月1日以降はリフォーム予定】": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市富士ビレッジ18-5",
+    "price_man": 1599,
+    "area_sqm": 198.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21683704/",
+    "text": "【現況販売　10月1日以降はリフォーム予定】",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20942479/|【見学会開催】東小学校が至近（100ｍ）の5LDK住宅。": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市東町8-4",
+    "price_man": 1699,
+    "area_sqm": 148.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20942479/",
+    "text": "【見学会開催】東小学校が至近（100ｍ）の5LDK住宅。",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21698672/|富士見台（三島駅） 2370万円": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市富士見台",
+    "price_man": 2370,
+    "area_sqm": 194.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21698672/",
+    "text": "富士見台（三島駅） 2370万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21698622/|錦が丘（三島二日町駅） 2399万円": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市錦が丘",
+    "price_man": 2399,
+    "area_sqm": 187.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21698622/",
+    "text": "錦が丘（三島二日町駅） 2399万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|9/13（日）13時-16時・オープンハウス●萩リフォーム住宅●内覧可能♪": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-13",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
+    "text": "9/13（日）13時-16時・オープンハウス●萩リフォーム住宅●内覧可能♪",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

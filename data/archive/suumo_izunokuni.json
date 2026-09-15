@@ -593,17 +593,6 @@
     "removed_on": "2026-09-10",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|親御さんも安心な立地☆大学に自宅から通学も叶える！「原木」駅徒歩約17分☆": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-09",
-    "location": "静岡県伊豆の国市長崎350-4",
-    "price_man": 1150,
-    "area_sqm": 201.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-    "text": "親御さんも安心な立地☆大学に自宅から通学も叶える！「原木」駅徒歩約17分☆",
-    "removed_on": "2026-09-10",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|ファミリーも嬉しい！主要道路へのアクセス◎原木駅徒歩約18分": {
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-09",
@@ -668,6 +657,61 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042521/",
     "text": "共働きに嬉しい通勤アクセス◎！国道136迄約1.2km！原木駅徒歩約18分",
     "removed_on": "2026-09-11",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|忙しいあなたに！主要道路アクセス◎原木駅徒歩約18分の利便性の高い立地": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県伊豆の国市長崎350-6",
+    "price_man": 1150,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
+    "text": "忙しいあなたに！主要道路アクセス◎原木駅徒歩約18分の利便性の高い立地",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県伊豆の国市長崎350-4",
+    "price_man": 1150,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+    "text": "マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|お子様のいる世帯オススメ！敷地ゆったり約60坪☆主要道路へアクセス◎": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県伊豆の国市長崎350-8",
+    "price_man": 1180,
+    "area_sqm": 201.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/",
+    "text": "お子様のいる世帯オススメ！敷地ゆったり約60坪☆主要道路へアクセス◎",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042521/|明るいくらしを叶える南側道路！「原木」駅徒歩約18分で通勤通学にも便利です": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-13",
+    "location": "静岡県伊豆の国市長崎350-4",
+    "price_man": 1380,
+    "area_sqm": 205.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042521/",
+    "text": "明るいくらしを叶える南側道路！「原木」駅徒歩約18分で通勤通学にも便利です",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21411852/|奈古谷 4450万円": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-09-13",
+    "location": "静岡県伊豆の国市奈古谷",
+    "price_man": 4450,
+    "area_sqm": 3652.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21411852/",
+    "text": "奈古谷 4450万円",
+    "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 伊豆の国市"
   }
 }

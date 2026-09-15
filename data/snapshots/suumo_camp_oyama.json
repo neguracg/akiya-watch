@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/|藤曲（駿河小山駅） 880万円": {
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "location": "静岡県駿東郡小山町藤曲",
+      "price_man": 880,
+      "area_sqm": 272.4,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/",
+      "text": "藤曲（駿河小山駅） 880万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 10.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "小山町",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/|大胡田 2000万円": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-13",
+      "last_seen": "2026-09-15",
       "location": "静岡県駿東郡小山町大胡田",
       "price_man": 2000,
       "area_sqm": 580.1,
@@ -30,6 +59,6 @@
       "tab": "camp"
     }
   },
-  "hash": "cf2d7626574f0344",
-  "fetched_at": "2026-09-14T00:22:53.585734"
+  "hash": "74c3f29993c1d3ec",
+  "fetched_at": "2026-09-15T00:42:46.589187"
 }

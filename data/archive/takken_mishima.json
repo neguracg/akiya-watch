@@ -383,5 +383,27 @@
     "text": "新築売住宅 三島市谷田",
     "removed_on": "2026-09-08",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171724/settle/1|売土地 三島市谷田1159-297": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-09-13",
+    "location": "三島市谷田1159-297",
+    "price_man": 3500,
+    "area_sqm": 490.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171724/settle/1",
+    "text": "売土地 三島市谷田1159-297",
+    "removed_on": "2026-09-15",
+    "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1|売住宅 三島市青木381-16,15,14": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-13",
+    "location": "三島市青木381-16,15,14",
+    "price_man": 1300,
+    "area_sqm": 136.7,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172783/settle/1",
+    "text": "売住宅 三島市青木381-16,15,14",
+    "removed_on": "2026-09-15",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }
