@@ -1,36 +1,5 @@
 {
   "keys": {
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56466|貸アパート 裾野市公文名２５７－１": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-09-15",
-      "location": "裾野市公文名２５７－１",
-      "price_man": 3.7,
-      "area_sqm": 27.1,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56466",
-      "text": "貸アパート 裾野市公文名２５７－１",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2K",
-      "chikunen": "1998年4月",
-      "kanrihi": null,
-      "shikikin": "1ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "rent"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176972|貸アパート 裾野市伊豆島田824-2": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-15",
@@ -121,6 +90,37 @@
       "caution": [
         "店舗"
       ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "rent"
+    },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56466|貸アパート 裾野市公文名２５７－１": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-09-15",
+      "location": "裾野市公文名２５７－１",
+      "price_man": 3.7,
+      "area_sqm": 27.1,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56466",
+      "text": "貸アパート 裾野市公文名２５７－１",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2K",
+      "chikunen": "1998年4月",
+      "kanrihi": null,
+      "shikikin": "1ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "裾野市",
@@ -826,6 +826,6 @@
       "tab": "rent"
     }
   },
-  "hash": "5e1e0f3f177e1c28",
-  "fetched_at": "2026-09-15T00:50:10.864543"
+  "hash": "377c26d5349cdbbb",
+  "fetched_at": "2026-09-16T00:33:32.747696"
 }

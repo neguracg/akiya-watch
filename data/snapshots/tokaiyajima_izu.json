@@ -529,14 +529,14 @@
       "machi": "下田市",
       "tab": "camp"
     },
-    "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=|【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 new 物": {
-      "first_seen": "2026-09-02",
+    "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=|【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 物件の詳細": {
+      "first_seen": "2026-09-15",
       "last_seen": "2026-09-15",
       "location": "静岡県下田市須崎57-1　アーバンヒルズ下田リゾート",
       "price_man": 398,
       "area_sqm": null,
       "url": "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=",
-      "text": "【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 new 物",
+      "text": "【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 物件の詳細",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -2674,6 +2674,6 @@
       "tab": "camp"
     }
   },
-  "hash": "e22565c9c06458e4",
-  "fetched_at": "2026-09-15T00:35:54.053339"
+  "hash": "3bb1e7fb2480f012",
+  "fetched_at": "2026-09-16T00:19:27.303428"
 }

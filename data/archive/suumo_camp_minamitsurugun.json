@@ -20,5 +20,27 @@
     "text": "山中 700万円",
     "removed_on": "2026-09-05",
     "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21437442/|河口 800万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-15",
+    "location": "山梨県南都留郡富士河口湖町河口",
+    "price_man": 800,
+    "area_sqm": 552.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21437442/",
+    "text": "河口 800万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21678983/|200坪超の広々敷地！建築条件なしで自由に建築可能": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-15",
+    "location": "山梨県南都留郡富士河口湖町船津",
+    "price_man": 1090,
+    "area_sqm": 910.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21678983/",
+    "text": "200坪超の広々敷地！建築条件なしで自由に建築可能",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
   }
 }

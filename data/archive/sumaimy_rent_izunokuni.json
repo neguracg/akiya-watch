@@ -54,28 +54,6 @@
     "removed_on": "2026-08-28",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/92155|貸マンション 伊豆の国市大仁450－7": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-27",
-    "location": "伊豆の国市大仁450－7",
-    "price_man": 5.0,
-    "area_sqm": 53.1,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/92155",
-    "text": "貸マンション 伊豆の国市大仁450－7",
-    "removed_on": "2026-08-28",
-    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/127181|貸マンション 伊豆の国市大仁450－1－2": {
-    "first_seen": "2026-08-17",
-    "last_seen": "2026-08-27",
-    "location": "伊豆の国市大仁450－1－2",
-    "price_man": 3.8,
-    "area_sqm": 26.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/127181",
-    "text": "貸マンション 伊豆の国市大仁450－1－2",
-    "removed_on": "2026-08-28",
-    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/107473|貸アパート 伊豆の国市田京351-1": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-31",
@@ -349,6 +327,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/119649",
     "text": "貸アパート 伊豆の国市三福543",
     "removed_on": "2026-09-12",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111418|貸アパート 伊豆の国市田京707-27": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-09-15",
+    "location": "伊豆の国市田京707-27",
+    "price_man": 5.0,
+    "area_sqm": 50.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111418",
+    "text": "貸アパート 伊豆の国市田京707-27",
+    "removed_on": "2026-09-15",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101423|貸アパート 伊豆の国市白山堂378": {
+    "first_seen": "2026-08-13",
+    "last_seen": "2026-09-15",
+    "location": "伊豆の国市白山堂378",
+    "price_man": 5.0,
+    "area_sqm": 49.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101423",
+    "text": "貸アパート 伊豆の国市白山堂378",
+    "removed_on": "2026-09-15",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   }
 }

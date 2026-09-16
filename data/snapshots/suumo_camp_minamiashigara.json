@@ -174,35 +174,6 @@
       "machi": "南足柄市",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_76420112/|塚原（塚原駅） 880万円": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
-      "location": "神奈川県南足柄市塚原",
-      "price_man": 880,
-      "area_sqm": 135.2,
-      "url": "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_76420112/",
-      "text": "塚原（塚原駅） 880万円",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 21.5,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "南足柄市",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_20894368/|「大雄山」駅徒歩7分♪建築条件なし♪55.67坪の土地♪": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-15",
@@ -813,6 +784,6 @@
       "tab": "camp"
     }
   },
-  "hash": "e53050360b32be6d",
-  "fetched_at": "2026-09-15T00:49:40.529442"
+  "hash": "4e16511b0698713f",
+  "fetched_at": "2026-09-16T00:32:59.678596"
 }

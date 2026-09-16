@@ -1,13 +1,13 @@
 {
   "keys": {
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916|伊豆の国市長崎350-6": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911|伊豆の国市長崎350-4": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-15",
-      "location": "伊豆の国市長崎350-6",
-      "price_man": 1150,
-      "area_sqm": 201.0,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916",
-      "text": "伊豆の国市長崎350-6",
+      "location": "伊豆の国市長崎350-4",
+      "price_man": 1380,
+      "area_sqm": 205.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911",
+      "text": "伊豆の国市長崎350-4",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -20,7 +20,7 @@
       "chimoku": "—",
       "toshikeikaku": "市街化調整区域",
       "setsudo": null,
-      "tsubo_man": 18.9,
+      "tsubo_man": 22.3,
       "verdict": "不適合",
       "interest": [
         "調整区域",
@@ -64,14 +64,14 @@
       "machi": "伊豆の国市",
       "tab": "camp"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911|伊豆の国市長崎350-4": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916|伊豆の国市長崎350-6": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-15",
-      "location": "伊豆の国市長崎350-4",
-      "price_man": 1380,
-      "area_sqm": 205.0,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911",
-      "text": "伊豆の国市長崎350-4",
+      "location": "伊豆の国市長崎350-6",
+      "price_man": 1150,
+      "area_sqm": 201.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916",
+      "text": "伊豆の国市長崎350-6",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -84,7 +84,7 @@
       "chimoku": "—",
       "toshikeikaku": "市街化調整区域",
       "setsudo": null,
-      "tsubo_man": 22.3,
+      "tsubo_man": 18.9,
       "verdict": "不適合",
       "interest": [
         "調整区域",
@@ -924,6 +924,6 @@
       "tab": "camp"
     }
   },
-  "hash": "932e790d134def4b",
-  "fetched_at": "2026-09-15T00:41:01.492696"
+  "hash": "c62f321d0bdcc9dc",
+  "fetched_at": "2026-09-16T00:24:13.340988"
 }

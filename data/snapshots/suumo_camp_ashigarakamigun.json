@@ -406,35 +406,6 @@
       "machi": "松田町",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_77513660/|井ノ口 780万円": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
-      "location": "神奈川県足柄上郡中井町井ノ口",
-      "price_man": 780,
-      "area_sqm": 178.9,
-      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_77513660/",
-      "text": "井ノ口 780万円",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 14.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "中井町",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_20765742/|延沢（開成駅） 780万円": {
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-15",
@@ -462,6 +433,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "開成町",
+      "tab": "camp"
+    },
+    "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_77513660/|井ノ口 780万円": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-15",
+      "location": "神奈川県足柄上郡中井町井ノ口",
+      "price_man": 780,
+      "area_sqm": 178.9,
+      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_77513660/",
+      "text": "井ノ口 780万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 14.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "中井町",
       "tab": "camp"
     },
     "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_21057524/|吉田島（新松田駅） 900万円": {
@@ -1306,6 +1306,6 @@
       "tab": "camp"
     }
   },
-  "hash": "eee306ad59ba4664",
-  "fetched_at": "2026-09-15T00:51:10.520083"
+  "hash": "5fef4b39eee72239",
+  "fetched_at": "2026-09-16T00:34:28.059937"
 }

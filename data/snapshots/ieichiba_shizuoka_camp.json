@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://www.ieichiba.com/project/P202600824%E4%BC%8A%E6%9D%B1%E9%8E%8C%E7%94%B0S|静岡県伊東市": {
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "location": "静岡県伊東市",
+      "price_man": 300,
+      "area_sqm": null,
+      "url": "https://www.ieichiba.com/project/P202600824%E4%BC%8A%E6%9D%B1%E9%8E%8C%E7%94%B0S",
+      "text": "静岡県伊東市",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "別荘地",
+        "温泉"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊東市",
+      "tab": "camp"
+    },
     "https://www.ieichiba.com/project/P202600804%E4%BC%8A%E6%9D%B1%E9%8E%8C%E7%94%B0W|静岡県伊東市": {
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-15",
@@ -244,6 +276,6 @@
       "tab": "camp"
     }
   },
-  "hash": "f5b50ed0cfd262b0",
-  "fetched_at": "2026-09-15T00:49:08.846238"
+  "hash": "d728bae0e3842f77",
+  "fetched_at": "2026-09-16T00:32:33.042336"
 }

@@ -1395,5 +1395,16 @@
     "text": "石黒ハイツ",
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000099016046/|フォレスト泉": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-15",
+    "location": "静岡県熱海市泉",
+    "price_man": 5.2,
+    "area_sqm": 25.3,
+    "url": "https://suumo.jp/chintai/jnc_000099016046/",
+    "text": "フォレスト泉",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

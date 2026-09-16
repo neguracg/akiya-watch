@@ -176,14 +176,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|富士山の見える広大な敷地で豊かな思い出☆標高900m越えで空気も美味しい！": {
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|自宅から富士山が見える絶景な立地☆広々340坪以上、都心から100km圏内": {
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-15",
       "location": "静岡県裾野市須山",
       "price_man": 1390,
       "area_sqm": 1149.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-      "text": "富士山の見える広大な敷地で豊かな思い出☆標高900m越えで空気も美味しい！",
+      "text": "自宅から富士山が見える絶景な立地☆広々340坪以上、都心から100km圏内",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -736,6 +736,6 @@
       "tab": "home"
     }
   },
-  "hash": "6618351200ce652f",
-  "fetched_at": "2026-09-15T00:21:32.334845"
+  "hash": "ad777c959bc6e068",
+  "fetched_at": "2026-09-16T00:04:58.722349"
 }

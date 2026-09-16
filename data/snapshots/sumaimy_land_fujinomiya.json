@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145880|富士宮市杉田509-18": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-15",
+      "location": "富士宮市杉田509-18",
+      "price_man": 600,
+      "area_sqm": 226.2,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145880",
+      "text": "富士宮市杉田509-18",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "田",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 8.8,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士宮市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171494|富士宮市小泉": {
       "first_seen": "2026-09-12",
       "last_seen": "2026-09-15",
@@ -84,38 +116,6 @@
       "tsubo_man": 1.1,
       "verdict": "不適合",
       "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "富士宮市",
-      "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145880|富士宮市杉田509-18": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
-      "location": "富士宮市杉田509-18",
-      "price_man": 600,
-      "area_sqm": 226.2,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145880",
-      "text": "富士宮市杉田509-18",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
-      "chimoku": "田",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 8.8,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -898,6 +898,6 @@
       "tab": "camp"
     }
   },
-  "hash": "f14bee3a8a75d2e3",
-  "fetched_at": "2026-09-15T00:27:52.424996"
+  "hash": "306d3084d0a2b805",
+  "fetched_at": "2026-09-16T00:11:11.855705"
 }

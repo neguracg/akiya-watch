@@ -131,17 +131,6 @@
     "removed_on": "2026-08-28",
     "site_name": "東海ヤジマ 伊豆の物件一覧（土地・戸建）"
   },
-  "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=|【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 物件の詳細": {
-    "first_seen": "2026-08-10",
-    "last_seen": "2026-09-01",
-    "location": "静岡県下田市須崎57-1　アーバンヒルズ下田リゾート",
-    "price_man": 480,
-    "area_sqm": null,
-    "url": "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=",
-    "text": "【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 物件の詳細",
-    "removed_on": "2026-09-02",
-    "site_name": "東海ヤジマ 伊豆の物件一覧（土地・戸建）"
-  },
   "https://tokaiyajima.com/fudo/10314?bk=&shu=&mid=&nor=|＜河津町見高＞緑豊かな静かな住環境／庭付き5DK": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-10",
@@ -183,6 +172,17 @@
     "area_sqm": 699.0,
     "url": "https://tokaiyajima.com/fudo/11461?bk=os2&shu=&mid=&nor=",
     "text": "＜南伊豆町大瀬＞海まで約100ｍの自然豊かな売土地",
+    "removed_on": "2026-09-15",
+    "site_name": "東海ヤジマ 伊豆の物件一覧（土地・戸建）"
+  },
+  "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=|【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 new 物": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-15",
+    "location": "静岡県下田市須崎57-1　アーバンヒルズ下田リゾート",
+    "price_man": 398,
+    "area_sqm": null,
+    "url": "https://tokaiyajima.com/fudo/10934?bk=os2&shu=&mid=&nor=",
+    "text": "【↓値下↓伊豆下田・爪木崎】充実の設備を誇る南向きペット可！ ～温泉・サウナ・プール付き～【売・マンション】 new 物",
     "removed_on": "2026-09-15",
     "site_name": "東海ヤジマ 伊豆の物件一覧（土地・戸建）"
   }

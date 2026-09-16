@@ -522,27 +522,27 @@
       "machi": "沼津市",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-1582660000007/|沼津市西間門 (沼津駅)": {
-      "first_seen": "2026-09-12",
+    "https://www.homes.co.jp/tochi/b-33313380000007/|沼津市五月町 (沼津駅)": {
+      "first_seen": "2026-09-15",
       "last_seen": "2026-09-15",
-      "location": "沼津市西間門 (沼津駅)",
-      "price_man": 950,
-      "area_sqm": 138.8,
-      "url": "https://www.homes.co.jp/tochi/b-1582660000007/",
-      "text": "沼津市西間門 (沼津駅)",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "location": "沼津市五月町 (沼津駅)",
+      "price_man": 1250,
+      "area_sqm": 138.0,
+      "url": "https://www.homes.co.jp/tochi/b-33313380000007/",
+      "text": "沼津市五月町 (沼津駅)",
+      "shubetsu": "古家付き土地",
+      "shubetsu_reason": "土地＋古家/上物の表記",
       "madori": null,
       "chikunen": null,
       "kanrihi": null,
       "shikikin": null,
       "reikin": null,
       "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 22.6,
+      "tsubo_man": 29.9,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -873,6 +873,6 @@
       "tab": "home"
     }
   },
-  "hash": "363827d3a554453f",
-  "fetched_at": "2026-09-15T00:30:17.331555"
+  "hash": "eeeecaa0676aad43",
+  "fetched_at": "2026-09-16T00:13:38.463516"
 }

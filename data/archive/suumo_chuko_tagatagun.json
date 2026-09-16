@@ -504,5 +504,27 @@
     "text": "【見学会開催】自社売主物件につき随時内覧可能です。ご希望日をお知らせくださ",
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21120490/|丹那 880万円": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-09-15",
+    "location": "静岡県田方郡函南町丹那",
+    "price_man": 880,
+    "area_sqm": 415.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21120490/",
+    "text": "丹那 880万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20367305/|畑 948万円": {
+    "first_seen": "2026-08-01",
+    "last_seen": "2026-09-15",
+    "location": "静岡県田方郡函南町畑",
+    "price_man": 948,
+    "area_sqm": 298.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20367305/",
+    "text": "畑 948万円",
+    "removed_on": "2026-09-15",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

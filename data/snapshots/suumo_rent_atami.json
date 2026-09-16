@@ -1,20 +1,20 @@
 {
   "keys": {
-    "https://suumo.jp/chintai/jnc_000099016046/|フォレスト泉": {
+    "https://suumo.jp/chintai/jnc_000109852219/|ハイネス来の宮熱海グリーンサイド": {
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-15",
-      "location": "静岡県熱海市泉",
-      "price_man": 5.2,
-      "area_sqm": 25.3,
-      "url": "https://suumo.jp/chintai/jnc_000099016046/",
-      "text": "フォレスト泉",
-      "shubetsu": "賃貸アパート",
+      "location": "静岡県熱海市福道町",
+      "price_man": 8.8,
+      "area_sqm": 49.9,
+      "url": "https://suumo.jp/chintai/jnc_000109852219/",
+      "text": "ハイネス来の宮熱海グリーンサイド",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
-      "chikunen": "築22年 2階建",
-      "kanrihi": null,
-      "shikikin": "5.2万円",
-      "reikin": null,
+      "madori": "2DK",
+      "chikunen": "築52年 12階建",
+      "kanrihi": 40000,
+      "shikikin": "8.8万円",
+      "reikin": "8.8万円",
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
       "chimoku": "—",
@@ -1775,6 +1775,35 @@
       "machi": "熱海市",
       "tab": "rent"
     },
+    "https://suumo.jp/chintai/jnc_000099016046/?bc=100234995921|フォレスト泉": {
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-15",
+      "location": "静岡県熱海市泉",
+      "price_man": 5.2,
+      "area_sqm": 25.3,
+      "url": "https://suumo.jp/chintai/jnc_000099016046/?bc=100234995921",
+      "text": "フォレスト泉",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "ワンルーム",
+      "chikunen": "築22年 2階建",
+      "kanrihi": null,
+      "shikikin": "5.2万円",
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "rent"
+    },
     "https://suumo.jp/chintai/jnc_000093375144/?bc=100515575644|咲見町ハイツ": {
       "first_seen": "2026-08-21",
       "last_seen": "2026-09-15",
@@ -2414,6 +2443,6 @@
       "tab": "rent"
     }
   },
-  "hash": "dd6f111dd6217ef3",
-  "fetched_at": "2026-09-15T00:27:21.794024"
+  "hash": "e479facaf298766d",
+  "fetched_at": "2026-09-16T00:10:38.464100"
 }

@@ -348,35 +348,6 @@
       "machi": "長泉町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002597/|長泉町東野中古住宅": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-09-15",
-      "location": "長泉町東野中古住宅",
-      "price_man": 12800,
-      "area_sqm": 631.6,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002597/",
-      "text": "長泉町東野中古住宅",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 67.0,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1292700001103/|スルガ平　戸建て": {
       "first_seen": "2026-07-04",
       "last_seen": "2026-09-15",
@@ -404,6 +375,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002597/|長泉町東野中古住宅": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-09-15",
+      "location": "長泉町東野中古住宅",
+      "price_man": 12800,
+      "area_sqm": 631.6,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002597/",
+      "text": "長泉町東野中古住宅",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 67.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1455260000537/|太陽工発電搭載デグチエステート駿東郡長泉町東野中古住宅": {
@@ -465,6 +465,6 @@
       "tab": "home"
     }
   },
-  "hash": "b289cb7d5902b323",
-  "fetched_at": "2026-09-15T00:49:55.746963"
+  "hash": "d80145fc3699c66e",
+  "fetched_at": "2026-09-16T00:33:14.981686"
 }

@@ -1,37 +1,5 @@
 {
-  "keys": {
-    "https://kankocho.jp/items/70962/|【再値下げ】土地（233.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
-      "location": "南都留郡鳴沢村10872番1",
-      "price_man": 11,
-      "area_sqm": 233.0,
-      "url": "https://kankocho.jp/items/70962/",
-      "text": "【再値下げ】土地（233.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 0.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "鳴沢村",
-      "tab": "camp"
-    }
-  },
-  "hash": "36026c1024e37b8b",
-  "fetched_at": "2026-09-15T00:36:40.316681"
+  "keys": {},
+  "hash": "78dfb7f04356f0d4",
+  "fetched_at": "2026-09-16T00:20:10.170563"
 }

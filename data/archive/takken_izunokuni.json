@@ -141,5 +141,16 @@
     "text": "売アパート 伊豆の国市古奈221-2",
     "removed_on": "2026-09-04",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155384/settle/1|売住宅 伊豆の国市韮山山木1225-127": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-09-15",
+    "location": "伊豆の国市韮山山木1225-127",
+    "price_man": 900,
+    "area_sqm": 287.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155384/settle/1",
+    "text": "売住宅 伊豆の国市韮山山木1225-127",
+    "removed_on": "2026-09-15",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

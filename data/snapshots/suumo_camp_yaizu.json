@@ -1044,14 +1044,14 @@
       "machi": "焼津市",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21059178/|中里（焼津駅） 650万円": {
-      "first_seen": "2026-09-04",
+    "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_74932833/|150号バイパス近く、通勤もお出かけも快適！理想の住まいを見つけましょ♪": {
+      "first_seen": "2026-09-11",
       "last_seen": "2026-09-15",
       "location": "静岡県焼津市中里",
       "price_man": 650,
       "area_sqm": 205.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21059178/",
-      "text": "中里（焼津駅） 650万円",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_74932833/",
+      "text": "150号バイパス近く、通勤もお出かけも快適！理想の住まいを見つけましょ♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -1102,14 +1102,14 @@
       "machi": "焼津市",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_74932833/|150号バイパス近く、通勤もお出かけも快適！理想の住まいを見つけましょ♪": {
-      "first_seen": "2026-09-11",
+    "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21059178/|中里（焼津駅） 650万円": {
+      "first_seen": "2026-09-04",
       "last_seen": "2026-09-15",
       "location": "静岡県焼津市中里",
       "price_man": 650,
       "area_sqm": 205.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_74932833/",
-      "text": "150号バイパス近く、通勤もお出かけも快適！理想の住まいを見つけましょ♪",
+      "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21059178/",
+      "text": "中里（焼津駅） 650万円",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -2002,6 +2002,6 @@
       "tab": "camp"
     }
   },
-  "hash": "d40831b662bcf673",
-  "fetched_at": "2026-09-15T00:47:22.429932"
+  "hash": "4029af407f36f46e",
+  "fetched_at": "2026-09-16T00:30:40.730648"
 }

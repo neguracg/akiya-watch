@@ -42,5 +42,27 @@
     "text": "御殿場市御殿場",
     "removed_on": "2026-09-10",
     "site_name": "ハウスドゥ.com 御殿場市"
+  },
+  "https://www.housedo.com/new_ikkodate/4777948.html|御殿場市北久原": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-15",
+    "location": "御殿場市北久原",
+    "price_man": 2980,
+    "area_sqm": 181.2,
+    "url": "https://www.housedo.com/new_ikkodate/4777948.html",
+    "text": "御殿場市北久原",
+    "removed_on": "2026-09-15",
+    "site_name": "ハウスドゥ.com 御殿場市"
+  },
+  "https://www.housedo.com/new_ikkodate/4712855.html|御殿場市萩原": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-15",
+    "location": "御殿場市萩原",
+    "price_man": 3480,
+    "area_sqm": 183.5,
+    "url": "https://www.housedo.com/new_ikkodate/4712855.html",
+    "text": "御殿場市萩原",
+    "removed_on": "2026-09-15",
+    "site_name": "ハウスドゥ.com 御殿場市"
   }
 }
