@@ -152,5 +152,27 @@
     "text": "並木町（渋沢駅） 1980万円",
     "removed_on": "2026-09-13",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21497825/|上大槻 280万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-15",
+    "location": "神奈川県秦野市上大槻",
+    "price_man": 280,
+    "area_sqm": 71.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21497825/",
+    "text": "上大槻 280万円",
+    "removed_on": "2026-09-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20506794/|「建築条件なし」現地は高台。たっぷり入る日差しを満喫してください。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-15",
+    "location": "神奈川県秦野市曽屋",
+    "price_man": 680,
+    "area_sqm": 166.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20506794/",
+    "text": "「建築条件なし」現地は高台。たっぷり入る日差しを満喫してください。",
+    "removed_on": "2026-09-17",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

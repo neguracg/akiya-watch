@@ -175,17 +175,6 @@
     "removed_on": "2026-08-29",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173518|貸倉庫 三島市御園77-2": {
-    "first_seen": "2026-08-18",
-    "last_seen": "2026-09-01",
-    "location": "三島市御園77-2",
-    "price_man": 22.0,
-    "area_sqm": 149.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173518",
-    "text": "貸倉庫 三島市御園77-2",
-    "removed_on": "2026-09-01",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160070|貸店舗・事務所定期借家 三島市御園489番地7": {
     "first_seen": "2026-08-24",
     "last_seen": "2026-09-05",
@@ -404,6 +393,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175764",
     "text": "貸店舗・事務所定期借家 三島市北田町3-62",
     "removed_on": "2026-09-15",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175784|貸店舗・事務所定期借家 三島市北田町3-62": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-15",
+    "location": "三島市北田町3-62",
+    "price_man": 15.4,
+    "area_sqm": 108.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175784",
+    "text": "貸店舗・事務所定期借家 三島市北田町3-62",
+    "removed_on": "2026-09-17",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

@@ -1406,5 +1406,27 @@
     "text": "フォレスト泉",
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109654359/?bc=100522892584|ＪＲ東海道本線 熱海駅 地上2階建 築50年": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-09-15",
+    "location": "静岡県熱海市桃山町",
+    "price_man": 14.0,
+    "area_sqm": 144.5,
+    "url": "https://suumo.jp/chintai/jnc_000109654359/?bc=100522892584",
+    "text": "ＪＲ東海道本線 熱海駅 地上2階建 築50年",
+    "removed_on": "2026-09-17",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109505479/?bc=100524053705|熱海テラス松本荘 1階": {
+    "first_seen": "2026-09-02",
+    "last_seen": "2026-09-15",
+    "location": "静岡県熱海市紅葉ガ丘町",
+    "price_man": 3.5,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000109505479/?bc=100524053705",
+    "text": "熱海テラス松本荘 1階",
+    "removed_on": "2026-09-17",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

@@ -1,8 +1,39 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-land/article-1rvcy1|宇佐美みのりの村別荘地の土地をお譲りします。※物件価格は0円です...": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "静岡 伊東市 宇佐美駅 土地販売/土地売買",
+      "price_man": null,
+      "area_sqm": null,
+      "url": "https://jmty.jp/shizuoka/est-land/article-1rvcy1",
+      "text": "宇佐美みのりの村別荘地の土地をお譲りします。※物件価格は0円です...",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊東市",
+      "tab": "camp"
+    },
     "https://jmty.jp/shizuoka/est-land/article-1jma8g|No.E762【静岡県伊豆市冷川】別荘地1筆あげます！": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 伊豆市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 615.0,
@@ -33,7 +64,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1k2pcw|No.E811【静岡県伊豆の国市中】別荘地1筆あげます！": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 228.0,
@@ -64,7 +95,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1n5mai|No.E0100【静岡県沼津市桃里】土地（農地・田）あげます！譲...": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 沼津市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 848.0,
@@ -93,7 +124,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rkrgl|【静岡県袋井市松原】☆販売価格：1万円☆想定利回り：高利回りが期...": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 富士宮市 芝川駅 土地販売/土地売買",
       "price_man": 1,
       "area_sqm": null,
@@ -122,7 +153,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
       "price_man": 70,
       "area_sqm": 240.0,
@@ -154,7 +185,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1razbm|【蓄電向き】富士宮市｜約467坪・原野": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 富士宮市 土地販売/土地売買",
       "price_man": 1200,
       "area_sqm": 1542.0,
@@ -183,7 +214,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rayxp|【約292坪】伊豆の国市中｜キャンプ・資材置き場・事業用地におすすめ": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 965.0,
@@ -212,7 +243,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1rar1l|【国道136号近く】下田市六丁目": {
       "first_seen": "2026-08-21",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-09-17",
       "location": "静岡 下田市 土地販売/土地売買",
       "price_man": 90,
       "area_sqm": 140.0,
@@ -240,6 +271,6 @@
       "tab": "camp"
     }
   },
-  "hash": "2ff00b7a447e0abb",
-  "fetched_at": "2026-09-16T00:11:32.785405"
+  "hash": "83aedf8c373a2e90",
+  "fetched_at": "2026-09-17T00:18:46.910165"
 }

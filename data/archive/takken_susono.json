@@ -1,1 +1,13 @@
-{}
+{
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174862/settle/1|売住宅 裾野市茶畑": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-15",
+    "location": "裾野市茶畑",
+    "price_man": 1000,
+    "area_sqm": 187.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174862/settle/1",
+    "text": "売住宅 裾野市茶畑",
+    "removed_on": "2026-09-17",
+    "site_name": "空き家バンクしずおか 裾野市"
+  }
+}
