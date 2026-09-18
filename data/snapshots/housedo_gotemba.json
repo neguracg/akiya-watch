@@ -149,35 +149,6 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
-    "https://www.housedo.com/new_ikkodate/4789278.html|御殿場市北久原": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-17",
-      "location": "御殿場市北久原",
-      "price_man": 2980,
-      "area_sqm": 181.2,
-      "url": "https://www.housedo.com/new_ikkodate/4789278.html",
-      "text": "御殿場市北久原",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 54.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
-    },
     "https://www.housedo.com/new_ikkodate/4789264.html|御殿場市北久原": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-09-17",
@@ -1129,6 +1100,6 @@
       "tab": "camp"
     }
   },
-  "hash": "d1809bc687a3b4e4",
-  "fetched_at": "2026-09-17T00:28:09.836135"
+  "hash": "6b63ca2c2e4005b7",
+  "fetched_at": "2026-09-18T00:17:56.738076"
 }

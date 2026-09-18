@@ -394,38 +394,6 @@
       "machi": "伊豆の国市",
       "tab": "camp"
     },
-    "https://www.e-z.co.jp/sale/4ms/4ms-0005480.html|ラ・メティエ　戸別温泉とサウナ付きのリゾー...": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-17",
-      "location": "田方郡函南町字南谷下17...",
-      "price_man": 850,
-      "area_sqm": 77.2,
-      "url": "https://www.e-z.co.jp/sale/4ms/4ms-0005480.html",
-      "text": "ラ・メティエ　戸別温泉とサウナ付きのリゾー...",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 36.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "別荘地",
-        "温泉"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "camp"
-    },
     "https://www.e-z.co.jp/sale/2kd/2kd-0005491.html|南箱根ダイヤランド　大自然の緑と花々に囲ま...": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-17",
@@ -887,6 +855,6 @@
       "tab": "camp"
     }
   },
-  "hash": "6116928add749fb4",
-  "fetched_at": "2026-09-17T00:13:16.598779"
+  "hash": "4a5cbeaf28887a20",
+  "fetched_at": "2026-09-18T00:03:46.932351"
 }

@@ -735,5 +735,16 @@
     "text": "売土地 沼津市大岡798-1他",
     "removed_on": "2026-09-15",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175321/settle/1|売住宅 沼津市我入道東町": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-09-17",
+    "location": "沼津市我入道東町",
+    "price_man": 350,
+    "area_sqm": 106.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175321/settle/1",
+    "text": "売住宅 沼津市我入道東町",
+    "removed_on": "2026-09-17",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

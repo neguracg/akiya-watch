@@ -1247,35 +1247,6 @@
       "machi": "富士河口湖町",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_76343261/|山中湖畔まで徒歩5分☆保養所☆建物はそのまま利用可能☆Ｐ8台以上駐車可": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-17",
-      "location": "山梨県南都留郡山中湖村山中",
-      "price_man": 7960,
-      "area_sqm": 1936.0,
-      "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_76343261/",
-      "text": "山中湖畔まで徒歩5分☆保養所☆建物はそのまま利用可能☆Ｐ8台以上駐車可",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 13.6,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "山中湖村",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_74394225/|小立（河口湖駅） 8900万円": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-17",
@@ -1335,6 +1306,6 @@
       "tab": "camp"
     }
   },
-  "hash": "c1b5d0d70d8dcf7e",
-  "fetched_at": "2026-09-17T00:44:10.989925"
+  "hash": "355e03e94bdfbf9c",
+  "fetched_at": "2026-09-18T00:33:26.884462"
 }

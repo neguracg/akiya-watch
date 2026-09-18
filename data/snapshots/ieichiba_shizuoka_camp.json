@@ -17,7 +17,7 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
+      "chimoku": "畑",
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": null,
@@ -278,6 +278,6 @@
       "tab": "camp"
     }
   },
-  "hash": "6191809dd40a170b",
-  "fetched_at": "2026-09-17T00:40:36.430706"
+  "hash": "018b7f5605cb06cf",
+  "fetched_at": "2026-09-18T00:30:02.862878"
 }

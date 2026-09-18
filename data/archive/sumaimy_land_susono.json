@@ -1,15 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147729|裾野市葛山730-2": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "location": "裾野市葛山730-2",
-    "price_man": 900,
-    "area_sqm": 256.9,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147729",
-    "text": "裾野市葛山730-2",
-    "removed_on": "2026-09-05",
-    "site_name": "スマイミー静岡 売土地 裾野市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165124|裾野市御宿": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-09",
@@ -30,6 +19,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171269",
     "text": "裾野市平松",
     "removed_on": "2026-09-15",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175385|裾野市岩波": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-17",
+    "location": "裾野市岩波",
+    "price_man": 1550,
+    "area_sqm": 155.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175385",
+    "text": "裾野市岩波",
+    "removed_on": "2026-09-17",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158630|裾野市公文名": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-17",
+    "location": "裾野市公文名",
+    "price_man": 1390,
+    "area_sqm": 241.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158630",
+    "text": "裾野市公文名",
+    "removed_on": "2026-09-17",
     "site_name": "スマイミー静岡 売土地 裾野市"
   }
 }

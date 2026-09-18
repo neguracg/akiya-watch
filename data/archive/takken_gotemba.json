@@ -20,5 +20,27 @@
     "text": "売土地 御殿場市御殿場312-1",
     "removed_on": "2026-09-15",
     "site_name": "空き家バンクしずおか 御殿場市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174420/settle/1|売土地 御殿場市川島田1446-10": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "御殿場市川島田1446-10",
+    "price_man": 12000,
+    "area_sqm": 1756.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174420/settle/1",
+    "text": "売土地 御殿場市川島田1446-10",
+    "removed_on": "2026-09-17",
+    "site_name": "空き家バンクしずおか 御殿場市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174423/settle/1|売土地 御殿場市川島田1446-10": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "御殿場市川島田1446-10",
+    "price_man": 6000,
+    "area_sqm": 878.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174423/settle/1",
+    "text": "売土地 御殿場市川島田1446-10",
+    "removed_on": "2026-09-17",
+    "site_name": "空き家バンクしずおか 御殿場市"
   }
 }

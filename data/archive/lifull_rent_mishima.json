@@ -1923,5 +1923,49 @@
     "text": "レオネクストディアス",
     "removed_on": "2026-09-17",
     "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d72a4c6b9e2c3375a907101ab8437e4fd6c19d04/|セルカ・シャロン": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市文教町2丁目4-26",
+    "price_man": 6.5,
+    "area_sqm": 40.6,
+    "url": "https://www.homes.co.jp/chintai/room/d72a4c6b9e2c3375a907101ab8437e4fd6c19d04/",
+    "text": "セルカ・シャロン",
+    "removed_on": "2026-09-17",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ace76c2235d6f4bc5772847cdf0079e6528c602f/|セルカ・シャロン": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市文教町2丁目4-26",
+    "price_man": 6.5,
+    "area_sqm": 40.6,
+    "url": "https://www.homes.co.jp/chintai/room/ace76c2235d6f4bc5772847cdf0079e6528c602f/",
+    "text": "セルカ・シャロン",
+    "removed_on": "2026-09-17",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/|パラーシオ": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市大場",
+    "price_man": 7.5,
+    "area_sqm": 56.1,
+    "url": "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/",
+    "text": "パラーシオ",
+    "removed_on": "2026-09-17",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/|パラーシオ": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市大場",
+    "price_man": 7.5,
+    "area_sqm": 56.1,
+    "url": "https://www.homes.co.jp/chintai/room/7a7621cf351721c6d8513185b748bd3fc74d15b4/",
+    "text": "パラーシオ",
+    "removed_on": "2026-09-17",
+    "site_name": "LIFULL 賃貸 三島市"
   }
 }

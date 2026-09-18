@@ -1,5 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173467|貸戸建住宅 裾野市茶畑2016-10": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-09-17",
+      "location": "裾野市茶畑2016-10",
+      "price_man": 7.5,
+      "area_sqm": 106.8,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173467",
+      "text": "貸戸建住宅 裾野市茶畑2016-10",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "5LDK",
+      "chikunen": "1985年7月",
+      "kanrihi": null,
+      "shikikin": "1ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "畑",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "礼金無",
+        "戸建"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/80390|貸店舗（建物一部） 裾野市平松389": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-17",
@@ -731,38 +763,6 @@
       "machi": "裾野市",
       "tab": "rent"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173467|貸戸建住宅 裾野市茶畑2016-10": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-09-17",
-      "location": "裾野市茶畑2016-10",
-      "price_man": 7.5,
-      "area_sqm": 106.8,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173467",
-      "text": "貸戸建住宅 裾野市茶畑2016-10",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "5LDK",
-      "chikunen": "1985年7月",
-      "kanrihi": null,
-      "shikikin": "1ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "畑",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "礼金無",
-        "戸建"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "rent"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172607|貸アパート 裾野市麦塚40-1": {
       "first_seen": "2026-07-25",
       "last_seen": "2026-09-17",
@@ -795,6 +795,6 @@
       "tab": "rent"
     }
   },
-  "hash": "2a9010b8eec68745",
-  "fetched_at": "2026-09-17T00:41:41.610166"
+  "hash": "d7048e99b4423ad4",
+  "fetched_at": "2026-09-18T00:31:05.657873"
 }

@@ -461,17 +461,6 @@
     "removed_on": "2026-09-10",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆": {
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-10",
-    "location": "静岡県裾野市茶畑",
-    "price_man": 890,
-    "area_sqm": 182.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/",
-    "text": "■ 茶畑富士見台売地 ■建築条件ナシ♪整形地！裾野駅徒歩4分の好立地☆",
-    "removed_on": "2026-09-11",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|ひろびろ340坪以上！富士山が見えるので見学から楽しい時間が過ごせます！": {
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
@@ -514,6 +503,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "富士山の見える広大な敷地で豊かな思い出☆標高900m越えで空気も美味しい！",
     "removed_on": "2026-09-15",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77533939/|建築条件無■9/10更新■【ミサワホーム】モデルハウス同時見学可能です": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
+    "location": "静岡県裾野市水窪",
+    "price_man": 2830,
+    "area_sqm": 200.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77533939/",
+    "text": "建築条件無■9/10更新■【ミサワホーム】モデルハウス同時見学可能です",
+    "removed_on": "2026-09-17",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

@@ -33,7 +33,7 @@
       "first_seen": "2026-08-07",
       "last_seen": "2026-09-17",
       "location": "静岡県田方郡函南町間宮",
-      "price_man": 2980,
+      "price_man": 2850,
       "area_sqm": 128.5,
       "url": "https://www.snjhkk.com/s_r_59446/index.html",
       "text": "静岡県田方郡函南町間宮",
@@ -49,7 +49,7 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 76.7,
+      "tsubo_man": 73.3,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -62,7 +62,7 @@
       "first_seen": "2026-08-07",
       "last_seen": "2026-09-17",
       "location": "静岡県田方郡函南町柏谷",
-      "price_man": 2980,
+      "price_man": 2780,
       "area_sqm": 309.4,
       "url": "https://www.snjhkk.com/s_r_59445/index.html",
       "text": "静岡県田方郡函南町柏谷",
@@ -78,7 +78,7 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 31.8,
+      "tsubo_man": 29.7,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -320,6 +320,6 @@
       "tab": "home"
     }
   },
-  "hash": "0bc78e2c7e89e29b",
-  "fetched_at": "2026-09-17T00:04:27.535103"
+  "hash": "2e0bc35a1dfc5cec",
+  "fetched_at": "2026-09-17T23:54:48.829510"
 }

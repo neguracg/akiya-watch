@@ -1017,6 +1017,35 @@
       "machi": "湯河原町",
       "tab": "camp"
     },
+    "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_71905790/|仙石原 3700万円": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "神奈川県足柄下郡箱根町仙石原",
+      "price_man": 3700,
+      "area_sqm": 991.0,
+      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_71905790/",
+      "text": "仙石原 3700万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 12.3,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "箱根町",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_82495511/|岩（真鶴駅） 3980万円": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-17",
@@ -1511,6 +1540,6 @@
       "tab": "camp"
     }
   },
-  "hash": "bc3dfec6d3660957",
-  "fetched_at": "2026-09-17T00:42:51.918211"
+  "hash": "3c8396bf922a28f8",
+  "fetched_at": "2026-09-18T00:32:15.810620"
 }

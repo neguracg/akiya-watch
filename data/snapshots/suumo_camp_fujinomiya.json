@@ -1914,6 +1914,35 @@
       "machi": "富士宮市",
       "tab": "camp"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77345190/|源道寺町（源道寺駅） 2090万円": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "静岡県富士宮市源道寺町125",
+      "price_man": 2090,
+      "area_sqm": 360.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77345190/",
+      "text": "源道寺町（源道寺駅） 2090万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 19.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士宮市",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20900792/|【デグチエステート】山本横巻土地建築条件なし！自由に建築会社を選べます": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-17",
@@ -2002,6 +2031,6 @@
       "tab": "camp"
     }
   },
-  "hash": "bf5be81cc21055c2",
-  "fetched_at": "2026-09-17T00:34:47.697106"
+  "hash": "b6fb53417f5ffbe4",
+  "fetched_at": "2026-09-18T00:24:31.812091"
 }

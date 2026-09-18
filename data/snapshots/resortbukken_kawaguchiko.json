@@ -635,6 +635,35 @@
       "machi": "裾野市",
       "tab": "camp"
     },
+    "https://resort-bukken.com/detail/5202|南都留郡富士河口湖町 大石 貸別荘 2LDK 5,500万円 河口湖の自然に囲まれた高台に佇む、一棟貸しのプライベートな": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "南都留郡富士河口湖町 大石",
+      "price_man": 5500,
+      "area_sqm": null,
+      "url": "https://resort-bukken.com/detail/5202",
+      "text": "南都留郡富士河口湖町 大石 貸別荘 2LDK 5,500万円 河口湖の自然に囲まれた高台に佇む、一棟貸しのプライベートな",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士河口湖町",
+      "tab": "camp"
+    },
     "https://resort-bukken.com/detail/5168|富士吉田市 上吉田東 中古住宅 続きを見たい 富士山ビュー 富士山 500m 民泊可 日本マウント株式会社": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-17",
@@ -1263,6 +1292,6 @@
       "tab": "camp"
     }
   },
-  "hash": "b05615581871fac1",
-  "fetched_at": "2026-09-17T00:40:54.178698"
+  "hash": "ce03b1b7069360f0",
+  "fetched_at": "2026-09-18T00:30:23.484635"
 }

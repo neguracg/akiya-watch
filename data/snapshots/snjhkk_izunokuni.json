@@ -289,8 +289,37 @@
       "zokujinsei": false,
       "machi": "伊豆の国市",
       "tab": "home"
+    },
+    "https://www.snjhkk.com/s_r_58887/index.html|静岡県伊豆の国市吉田": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "静岡県伊豆の国市吉田",
+      "price_man": 1750,
+      "area_sqm": 422.4,
+      "url": "https://www.snjhkk.com/s_r_58887/index.html",
+      "text": "静岡県伊豆の国市吉田",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 13.7,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "home"
     }
   },
-  "hash": "8873c71589f3129c",
-  "fetched_at": "2026-09-17T00:11:54.921087"
+  "hash": "47d2d62456dd3a35",
+  "fetched_at": "2026-09-18T00:02:22.067896"
 }

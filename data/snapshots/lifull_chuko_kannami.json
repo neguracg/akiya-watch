@@ -91,6 +91,39 @@
       "machi": "函南町",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-1452060000052/|南箱根ダイヤランド": {
+      "first_seen": "2026-09-17",
+      "last_seen": "2026-09-17",
+      "location": "南箱根ダイヤランド",
+      "price_man": 3550,
+      "area_sqm": 308.0,
+      "url": "https://www.homes.co.jp/kodate/b-1452060000052/",
+      "text": "南箱根ダイヤランド",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 38.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "温泉"
+      ],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
+      "zokujinsei": false,
+      "machi": "",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-1111450005500/|南箱根ダイヤランド戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-17",
@@ -693,6 +726,39 @@
       "machi": "",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-33310640000837/|伊豆エメラルドタウン　ログハウス": {
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-09-17",
+      "location": "伊豆エメラルドタウン　ログハウス",
+      "price_man": 390,
+      "area_sqm": 246.0,
+      "url": "https://www.homes.co.jp/kodate/b-33310640000837/",
+      "text": "伊豆エメラルドタウン　ログハウス",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 5.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "別荘地"
+      ],
+      "ng_areas": [
+        "エメラルドタウン"
+      ],
+      "zokujinsei": false,
+      "machi": "",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-33303660001139/|南箱根ダイヤランド　戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-17",
@@ -727,39 +793,6 @@
       "machi": "",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-33310640000837/|伊豆エメラルドタウン　ログハウス": {
-      "first_seen": "2026-07-30",
-      "last_seen": "2026-09-17",
-      "location": "伊豆エメラルドタウン　ログハウス",
-      "price_man": 390,
-      "area_sqm": 246.0,
-      "url": "https://www.homes.co.jp/kodate/b-33310640000837/",
-      "text": "伊豆エメラルドタウン　ログハウス",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 5.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [
-        "エメラルドタウン"
-      ],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1500050000260/|売中古戸建　函南町塚本": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-17",
@@ -787,6 +820,38 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "函南町",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-09-17",
+      "location": "ヒューマンヒルズ函南77号地",
+      "price_man": 2150,
+      "area_sqm": 324.7,
+      "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
+      "text": "ヒューマンヒルズ函南77号地",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 21.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "借地",
+        "定期借地"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1341600001884/|南箱根ダイヤランド戸建": {
@@ -822,67 +887,6 @@
       "machi": "",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1508430000083/|ヒューマンヒルズ函南77号地": {
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-09-17",
-      "location": "ヒューマンヒルズ函南77号地",
-      "price_man": 2150,
-      "area_sqm": 324.7,
-      "url": "https://www.homes.co.jp/kodate/b-1508430000083/",
-      "text": "ヒューマンヒルズ函南77号地",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 21.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "借地",
-        "定期借地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
-    "https://www.homes.co.jp/kodate/b-1265050002649/|函南町上沢中古住宅 離れ付": {
-      "first_seen": "2026-09-13",
-      "last_seen": "2026-09-17",
-      "location": "函南町上沢中古住宅 離れ付",
-      "price_man": 998,
-      "area_sqm": 238.0,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002649/",
-      "text": "函南町上沢中古住宅 離れ付",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 13.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
       "first_seen": "2026-09-15",
       "last_seen": "2026-09-17",
@@ -915,6 +919,6 @@
       "tab": "home"
     }
   },
-  "hash": "e63e91124579a7aa",
-  "fetched_at": "2026-09-17T00:33:15.140354"
+  "hash": "7fbac755b43a3a11",
+  "fetched_at": "2026-09-18T00:22:59.707480"
 }
