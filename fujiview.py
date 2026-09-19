@@ -51,17 +51,18 @@ def oaza_hit(oaza: str, text: str) -> bool:
 
 
 def _prefix_hit(oaza: str, residual: str) -> bool:
-    """residual の先頭が oaza と一致し、oaza_hit と同じ「直後が別漢字なら地名の続き」
-    ガードも通るか（先頭位置だけに適用した版）。
+    """residual の先頭が oaza と一致するか（先頭一致には「直後が別漢字なら不一致」の
+    ガードを掛けない）。
 
-    「神山」しか候補に無いとき、残り文字列「神山平２丁目…」の先頭を素朴な startswith
-    だけで判定すると誤って「神山」に一致してしまう（神山/神山平問題。WORKLOG
-    2026-09-05 W4・指示書 docs/tasks/20260919_fujimap_link.md カイシュウ5問#4）。
+    oaza_hit() のガードは interest_groups のように候補が「対象の大字だけ」（不完全な集合）
+    のときに要る（「神山」しか候補に無いと「神山平」を神山と誤認する）。ここで使う候補は
+    fujimap の e-Stat 小地域表＝その市町の大字の**完全な一覧**なので、より長い大字名が
+    実在すれば必ず候補にあり、lookup() の「最長一致」がそれを選ぶ（神山/神山平は両方が
+    行として存在する。2026-09-19 実データで確認）。逆にガードを掛けると
+    「奈古谷小松ケ原」（大字 奈古谷 の中の字名）のような正当な細分が全部落ちる
+    （2026-09-19 実測: 未照合270件のうち61件がこの型）。
     """
-    if not residual.startswith(oaza):
-        return False
-    tail = residual[len(oaza): len(oaza) + 1]
-    return (not tail) or tail == "字" or not _KANJI_RE.match(tail)
+    return bool(oaza) and residual.startswith(oaza)
 
 
 def load_table(path=None):
@@ -107,7 +108,7 @@ def lookup(location: str, machi: str) -> dict | None:
        machiの直後からを残り文字列、含まれなければtext全体を残り文字列とする。
        残り文字列の先頭の「大字」は除く。
     3. その市町のoaza一覧のうち残り文字列の先頭に一致する最長のものを採用
-       （神山/神山平のガード付き。_prefix_hit）。無ければ、残り文字列中に oaza_hit() で
+       （ガード無し・最長一致。_prefix_hit）。無ければ、残り文字列中に oaza_hit() で
        単独の地名として出現する最長のものを採用。それも無ければNone。
     4. 戻り値 {"lo":p10,"hi":p90,"med":p50,"max":max,"n":n,"oaza":採用した大字名,"method":method}。
     """

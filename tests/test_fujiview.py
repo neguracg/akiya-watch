@@ -63,14 +63,25 @@ def test_lookup_prefers_longest_prefix_match_kamiyama_vs_kamiyamadaira():
     assert hit["oaza"] == "神山平"
 
 
-def test_lookup_returns_none_when_only_kamiyama_candidate_and_text_is_kamiyamadaira():
-    # 対象大字が「神山」だけの索引だと、「神山平」の一部として誤って「神山」に
-    # 一致してはいけない（直後が別の漢字「平」＝地名の続きの疑い）。
+def test_lookup_prefix_match_has_no_kanji_guard_when_longer_name_absent():
+    # 候補が fujimap の大字「完全一覧」である前提で、先頭一致にはガードを掛けない。
+    # 索引に「神山」しか無い（＝その市町に「神山平」という大字が存在しない）なら、
+    # 「神山平…」は大字 神山 の中の字名として神山に寄せる。奈古谷小松ケ原→奈古谷 と同じ型
+    # （2026-09-19 実測: ガード有りでは未照合270件中61件がこの型で落ちていた）。
     fujiview._index_cache["御殿場市"] = {
         "神山": fujiview._index_cache["御殿場市"]["神山"],
     }
     hit = fujiview.lookup("御殿場市神山平２丁目2-2", "御殿場市")
-    assert hit is None
+    assert hit is not None and hit["oaza"] == "神山"
+
+
+def test_lookup_anywhere_fallback_keeps_kanji_guard():
+    # 先頭一致が無いときの「どこかに出現」の経路は oaza_hit() のガードを維持する
+    # （候補が完全一覧でも、住所以外の語の一部に大字名が含まれる誤爆を避ける）。
+    hit = fujiview.lookup("御殿場市 リゾート神山平ヒルズ", "御殿場市")
+    assert hit is not None and hit["oaza"] == "神山平"
+    hit2 = fujiview.lookup("御殿場市 XX神山荘", "御殿場市")
+    assert hit2 is None
 
 
 def test_lookup_returns_none_when_machi_is_empty():
