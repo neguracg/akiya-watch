@@ -84,6 +84,21 @@ def test_lookup_anywhere_fallback_keeps_kanji_guard():
     assert hit2 is None
 
 
+def test_lookup_groups_subdivided_rows_when_oaza_itself_is_absent():
+    # 表に「中之郷」単独行が無く「中之郷かぎあな」「中之郷宮町」しか無いとき、
+    # 住所「富士市中之郷1234-5」は両方を束ねた広めのレンジで返す（method=group）。
+    hit = fujiview.lookup("静岡県富士市中之郷1234-5", "富士市")
+    assert hit is not None and hit["method"] == "group"
+    assert (hit["lo"], hit["hi"], hit["max"], hit["n"]) == (0, 60, 90, 40)
+    assert hit["med"] == 25  # (40*10+20*30)/40
+    assert hit["oaza"].startswith("中之郷")
+    # 「中里」は単独行があるので通常の先頭一致（束ねない）
+    hit2 = fujiview.lookup("富士市中里99", "富士市")
+    assert hit2 is not None and hit2["oaza"] == "中里" and hit2["method"] == "cells"
+    # 2文字未満の先頭では束ねない（「中」だけで中里/中之郷を混ぜない）
+    assert fujiview.lookup("富士市中1", "富士市") is None
+
+
 def test_lookup_returns_none_when_machi_is_empty():
     hit = fujiview.lookup("函南町平井1689-55", "")
     assert hit is None

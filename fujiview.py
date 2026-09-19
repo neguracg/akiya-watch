@@ -109,7 +109,7 @@ def lookup(location: str, machi: str) -> dict | None:
        残り文字列の先頭の「大字」は除く。
     3. その市町のoaza一覧のうち残り文字列の先頭に一致する最長のものを採用
        （ガード無し・最長一致。_prefix_hit）。無ければ、残り文字列中に oaza_hit() で
-       単独の地名として出現する最長のものを採用。それも無ければNone。
+       単独の地名として出現する最長のものを採用。それも無ければ細分名の束ね（_group_lookup）。
     4. 戻り値 {"lo":p10,"hi":p90,"med":p50,"max":max,"n":n,"oaza":採用した大字名,"method":method}。
     """
     idx = load_table()
@@ -132,7 +132,7 @@ def lookup(location: str, machi: str) -> dict | None:
             if oaza_hit(oaza, residual) and (best is None or len(oaza) > len(best)):
                 best = oaza
     if best is None:
-        return None
+        return _group_lookup(candidates, residual)
 
     row = candidates[best]
     return {
@@ -143,6 +143,44 @@ def lookup(location: str, machi: str) -> dict | None:
         "n": row.get("n"),
         "oaza": best,
         "method": row.get("method"),
+    }
+
+
+_HEAD_CUT_RE = re.compile(r"[0-9０-９\-－‐ー、,，字（(「]")
+
+
+def _group_lookup(candidates: dict, residual: str) -> dict | None:
+    """大字そのものの行が無く、細分名（「中之郷かぎあな」「仁科大浜」「井ノ口宮上」）
+    しか表に無いときの救済。住所の残り文字列の先頭（地番・「字」・区切りの手前まで）を
+    大字名とみなし、それで始まる細分の行を**全部まとめて**1つのレンジにする。
+
+    e-Stat の小地域は大字を丸ごと持たず細分だけで持つ市町がある（2026-09-19 実測:
+    富士市152行中「中之郷」単独無し・「中之郷○○」8行）。細分の和集合＝大字なので、
+    レンジは min/max の外側、p10/p90 は各細分の最小/最大を取る（広めに出る側に倒す。
+    「候補を消さない」方針）。中央値は細分の p50 のセル数加重平均（近似）。
+
+    先頭は縮めない（縮めると「富士ヶ嶺…」が「富士見○○」を束ねる誤爆になる。2026-09-19
+    実データで発生）。2文字未満も束ねない。
+    """
+    prefix = _HEAD_CUT_RE.split(residual, 1)[0]
+    if len(prefix) < 2:
+        return None
+    rows = [r for name, r in candidates.items() if name.startswith(prefix)]
+    if not rows:
+        return None
+    n_total = sum(r.get("n") or 0 for r in rows)
+    if n_total > 0:
+        med = round(sum((r.get("p50") or 0) * (r.get("n") or 0) for r in rows) / n_total)
+    else:
+        med = round(sum(r.get("p50") or 0 for r in rows) / len(rows))
+    return {
+        "lo": min(r.get("p10") for r in rows),
+        "hi": max(r.get("p90") for r in rows),
+        "med": med,
+        "max": max(r.get("max") for r in rows),
+        "n": n_total,
+        "oaza": f"{prefix}〜({len(rows)}小地域)",
+        "method": "group",
     }
 
 
