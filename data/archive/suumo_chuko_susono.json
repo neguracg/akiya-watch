@@ -692,17 +692,6 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/|千福が丘３（岩波駅） 1380万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-11",
-    "location": "静岡県裾野市千福が丘３",
-    "price_man": 1380,
-    "area_sqm": 395.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/",
-    "text": "千福が丘３（岩波駅） 1380万円",
-    "removed_on": "2026-09-12",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21351654/|【見学会開催】【現況販売　10月17日以降はリフォーム予定】自社売主物件につ": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-13",
@@ -736,17 +725,6 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！": {
-    "first_seen": "2026-09-11",
-    "last_seen": "2026-09-15",
-    "location": "静岡県裾野市千福が丘１",
-    "price_man": 1399,
-    "area_sqm": 235.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
-    "text": "新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！",
-    "removed_on": "2026-09-15",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-17",
@@ -756,6 +734,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
     "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
     "removed_on": "2026-09-17",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21521515/|対面キッチンと庭につながるリビング、プライバシーに配慮した4LDK": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-09-17",
+    "location": "静岡県裾野市佐野主要地",
+    "price_man": 2800,
+    "area_sqm": 156.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21521515/",
+    "text": "対面キッチンと庭につながるリビング、プライバシーに配慮した4LDK",
+    "removed_on": "2026-09-18",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

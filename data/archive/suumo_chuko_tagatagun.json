@@ -516,15 +516,26 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21717352/|南箱根ダイヤランド_マシンカットの角ログハウス、薪ストーブ付、駐車3台可": {
-    "first_seen": "2026-09-15",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21601288/|◇◆＼MIRAIE売主／◆◇落ち着いた住環境♪コンビニ徒歩圏内♪": {
+    "first_seen": "2026-09-01",
     "last_seen": "2026-09-17",
-    "location": "静岡県田方郡函南町畑",
-    "price_man": 1480,
-    "area_sqm": 375.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21717352/",
-    "text": "南箱根ダイヤランド_マシンカットの角ログハウス、薪ストーブ付、駐車3台可",
-    "removed_on": "2026-09-17",
+    "location": "静岡県田方郡函南町畑毛",
+    "price_man": 280,
+    "area_sqm": 141.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21601288/",
+    "text": "◇◆＼MIRAIE売主／◆◇落ち着いた住環境♪コンビニ徒歩圏内♪",
+    "removed_on": "2026-09-18",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21074468/|桑原（函南駅） 1970万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-09-17",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 1970,
+    "area_sqm": 307.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21074468/",
+    "text": "桑原（函南駅） 1970万円",
+    "removed_on": "2026-09-18",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

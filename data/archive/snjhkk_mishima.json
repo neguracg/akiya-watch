@@ -306,5 +306,27 @@
     "text": "静岡県三島市南本町",
     "removed_on": "2026-09-15",
     "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市西若町",
+    "price_man": 2890,
+    "area_sqm": null,
+    "url": "https://www.snjhkk.com/s_r_59732/index.html",
+    "text": "静岡県三島市西若町",
+    "removed_on": "2026-09-18",
+    "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "静岡県三島市藤代町",
+    "price_man": 3980,
+    "area_sqm": 103.5,
+    "url": "https://www.snjhkk.com/s_r_59725/index.html",
+    "text": "静岡県三島市藤代町",
+    "removed_on": "2026-09-18",
+    "site_name": "家っち(新日本住建販売) 三島市 土地一覧"
   }
 }

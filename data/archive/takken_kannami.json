@@ -185,5 +185,16 @@
     "text": "売土地 田方郡函南町桑原",
     "removed_on": "2026-09-17",
     "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176847/settle/1|売マンション 田方郡函南町仁田": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "田方郡函南町仁田",
+    "price_man": 2390,
+    "area_sqm": 84.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176847/settle/1",
+    "text": "売マンション 田方郡函南町仁田",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 函南町"
   }
 }

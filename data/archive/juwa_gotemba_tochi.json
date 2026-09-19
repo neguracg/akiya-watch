@@ -20,5 +20,27 @@
     "text": "御殿場市御殿場",
     "removed_on": "2026-09-15",
     "site_name": "住和 売土地 御殿場市"
+  },
+  "https://10wa.co.jp/baibai/syousai/0/1497dat.html|御殿場市川島田": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "御殿場市川島田",
+    "price_man": 6000,
+    "area_sqm": 878.4,
+    "url": "https://10wa.co.jp/baibai/syousai/0/1497dat.html",
+    "text": "御殿場市川島田",
+    "removed_on": "2026-09-18",
+    "site_name": "住和 売土地 御殿場市"
+  },
+  "https://10wa.co.jp/baibai/syousai/0/1496dat.html|御殿場市川島田": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-09-17",
+    "location": "御殿場市川島田",
+    "price_man": 12000,
+    "area_sqm": 1756.8,
+    "url": "https://10wa.co.jp/baibai/syousai/0/1496dat.html",
+    "text": "御殿場市川島田",
+    "removed_on": "2026-09-18",
+    "site_name": "住和 売土地 御殿場市"
   }
 }

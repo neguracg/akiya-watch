@@ -317,5 +317,27 @@
     "text": "JR東海道本線 熱海駅 17km",
     "removed_on": "2026-09-15",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460002344/|伊豆の国市奈古谷　中古戸建": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-17",
+    "location": "伊豆の国市奈古谷　中古戸建",
+    "price_man": 980,
+    "area_sqm": 677.0,
+    "url": "https://www.homes.co.jp/kodate/b-1490460002344/",
+    "text": "伊豆の国市奈古谷　中古戸建",
+    "removed_on": "2026-09-18",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1489770000681/|伊豆の国市奈古谷 中古戸建": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-09-17",
+    "location": "伊豆の国市奈古谷 中古戸建",
+    "price_man": 180,
+    "area_sqm": 97.7,
+    "url": "https://www.homes.co.jp/kodate/b-1489770000681/",
+    "text": "伊豆の国市奈古谷 中古戸建",
+    "removed_on": "2026-09-18",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

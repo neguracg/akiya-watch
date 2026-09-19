@@ -152,5 +152,27 @@
     "text": "売住宅 伊豆の国市韮山山木1225-127",
     "removed_on": "2026-09-15",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911/settle/1|売土地 伊豆の国市長崎350-4": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-09-17",
+    "location": "伊豆の国市長崎350-4",
+    "price_man": 1380,
+    "area_sqm": 205.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132911/settle/1",
+    "text": "売土地 伊豆の国市長崎350-4",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176844/settle/1|売マンション 伊豆の国市長岡": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "伊豆の国市長岡",
+    "price_man": 1080,
+    "area_sqm": 79.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176844/settle/1",
+    "text": "売マンション 伊豆の国市長岡",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

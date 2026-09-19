@@ -746,5 +746,82 @@
     "text": "売住宅 沼津市我入道東町",
     "removed_on": "2026-09-17",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177213/settle/1|売マンション 沼津市平町": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-17",
+    "location": "沼津市平町",
+    "price_man": 2590,
+    "area_sqm": 74.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177213/settle/1",
+    "text": "売マンション 沼津市平町",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176835/settle/1|売住宅 沼津市岡宮1344-87": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "沼津市岡宮1344-87",
+    "price_man": 1190,
+    "area_sqm": 154.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176835/settle/1",
+    "text": "売住宅 沼津市岡宮1344-87",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176841/settle/1|売マンション 沼津市三園町": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "沼津市三園町",
+    "price_man": 2490,
+    "area_sqm": 75.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176841/settle/1",
+    "text": "売マンション 沼津市三園町",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176845/settle/1|売マンション 沼津市大岡": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "沼津市大岡",
+    "price_man": 2090,
+    "area_sqm": 65.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176845/settle/1",
+    "text": "売マンション 沼津市大岡",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176846/settle/1|売マンション 沼津市高沢町": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "沼津市高沢町",
+    "price_man": 3190,
+    "area_sqm": 77.5,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176846/settle/1",
+    "text": "売マンション 沼津市高沢町",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176850/settle/1|売マンション 沼津市上土町": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-17",
+    "location": "沼津市上土町",
+    "price_man": 2590,
+    "area_sqm": 77.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176850/settle/1",
+    "text": "売マンション 沼津市上土町",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1|売アパート 沼津市我入道秋葉町": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-17",
+    "location": "沼津市我入道秋葉町",
+    "price_man": 1980,
+    "area_sqm": 208.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1",
+    "text": "売アパート 沼津市我入道秋葉町",
+    "removed_on": "2026-09-18",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }
