@@ -1,0 +1,21 @@
+{
+  "generated": "2026-09-19T00:00:00+09:00",
+  "scale": "富士山可視度 0-100（地形のみ。樹木・建物は非考慮）",
+  "bounds": [[34.9, 138.7], [35.4, 139.1]],
+  "mesh_interval_m": 200,
+  "source": {"viewshed": "test-fixture", "boundary": "test-fixture"},
+  "rows": [
+    {"pref": "静岡県", "city": "函南町", "oaza": "平井", "lat": 35.10, "lon": 138.98,
+     "n": 123, "min": 0, "p10": 5, "p50": 40, "p90": 80, "max": 95, "method": "cells"},
+    {"pref": "静岡県", "city": "函南町", "oaza": "丹那", "lat": 35.09, "lon": 138.96,
+     "n": 88, "min": 10, "p10": 60, "p50": 63, "p90": 65, "max": 70, "method": "cells"},
+    {"pref": "静岡県", "city": "函南町", "oaza": "畑毛", "lat": 35.08, "lon": 138.97,
+     "n": 0, "min": 0, "p10": 0, "p50": 0, "p90": 0, "max": 0, "method": "point"},
+    {"pref": "静岡県", "city": "御殿場市", "oaza": "神山", "lat": 35.29, "lon": 138.95,
+     "n": 40, "min": 30, "p10": 55, "p50": 58, "p90": 62, "max": 68, "method": "cells"},
+    {"pref": "静岡県", "city": "御殿場市", "oaza": "神山平", "lat": 35.30, "lon": 138.96,
+     "n": 15, "min": 20, "p10": 25, "p50": 30, "p90": 35, "max": 42, "method": "cells"},
+    {"pref": "静岡県", "city": "伊豆市", "oaza": "冷川", "lat": 34.95, "lon": 138.93,
+     "n": 60, "min": 40, "p10": 70, "p50": 75, "p90": 82, "max": 90, "method": "cells"}
+  ]
+}
