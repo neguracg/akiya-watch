@@ -21,9 +21,13 @@ state-api/.env
 
 # data/ 配下は原則無視するが、snapshots/ と archive/ は GitHub Actions の差分判定
 # （新着/消滅）にスナップショット持ち越しが必須なので追跡する。一時ファイル等は無視。
+# fujimap/ は兄弟プロジェクトfujimapが生成する大字別富士山可視度データ（fujiview.py が
+# 読む唯一の入力）で、クロールとは無関係に手動更新するため追跡する（data/fujimap/README.md
+# 参照。2026-09-19 指示書docs/tasks/20260919_fujimap_link.md C）。
 data/*
 !data/snapshots/
 !data/archive/
+!data/fujimap/
 
 # Claude Code のローカル設定（ユーザー名・絶対パスを含むため公開リポジトリには載せない）
 .claude/
