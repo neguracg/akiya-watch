@@ -673,27 +673,17 @@ def ceiling_for(shubetsu: str, filters: dict) -> int:
     return by_type.get(shubetsu, filters.get("price_max_man", 1000))
 
 
-_KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）
+_KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）。fujiview._prefix_hit等でも使う定数
 
-
-def _oaza_hit(oaza: str, text: str) -> bool:
-    """大字名がtext中に単独の地名として出現するかを判定する（interest_groups用）。
-
-    地番は「大字名+数字」で続くのが通常のため、一致直後が別の漢字だと「地名の続き」
-    （＝実は別の大字）である疑いが強い。例: 御殿場市の対象大字「神山」は、一致直後に
-    「平」が続く「神山平」（対象外の別の大字。2026-09-05実測で本番データに出現し発見）
-    まで拾ってしまう。直後が「字」（大字+字+小字の継続。例:「深沢字二子」）のときだけは
-    正しい継続として許容し、それ以外の漢字が続く場合は不一致として扱う。
-    """
-    start = 0
-    while True:
-        idx = text.find(oaza, start)
-        if idx == -1:
-            return False
-        tail = text[idx + len(oaza): idx + len(oaza) + 1]
-        if not tail or tail == "字" or not _KANJI_RE.match(tail):
-            return True
-        start = idx + 1  # この出現は別地名の一部。次の出現を探す
+# fujimap連携（大字→富士山可視度）の読込・照合ロジックは fujiview.py が単独所有
+# （# @owns 宣言。指示書 docs/tasks/20260919_fujimap_link.md カイシュウ5問#5）。
+# watch.py は呼ぶだけ。ここは元々 _oaza_hit（interest_groups用）の定義そのものだった
+# 場所で、移設後もこの位置でimportする（1000行ラチェット規約により行数純増の編集が
+# 遮断されるため、削除した定義の跡地に置く）。従来名のまま参照できるよう別名import
+# する（既存テストは watch._oaza_hit のまま変更不要）。build_html_report/
+# write_csv_report からは fujiview.lookup()/fujiview.summarize() をモジュール経由で呼ぶ。
+import fujiview
+from fujiview import oaza_hit as _oaza_hit
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
