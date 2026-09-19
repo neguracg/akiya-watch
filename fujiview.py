@@ -158,3 +158,23 @@ def summarize(hit: dict):
     if hit["hi"] - hit["lo"] <= 5:
         return str(hit["med"]), hit["max"]
     return f"{hit['lo']}〜{hit['hi']}", hit["max"]
+
+
+# ---- watch.py からの呼び出し口（1行で済ませ、None処理もここに閉じ込める）----
+
+def embed_fields(location: str, machi: str) -> dict:
+    """build_html_report のJSON埋め込み用。fuji/fuji_lo/fuji_med/fuji_max/fuji_n/fuji_oaza
+    の6キーを返す（ヒット無しは全部None）。watch.py側のJS（snapOf/cellHtmlInnerのcase
+    'fuji'）はこの6キー名と対応する。"""
+    hit = lookup(location, machi)
+    if hit is None:
+        return {"fuji": None, "fuji_lo": None, "fuji_med": None,
+                "fuji_max": None, "fuji_n": None, "fuji_oaza": None}
+    return {"fuji": hit["hi"], "fuji_lo": hit["lo"], "fuji_med": hit["med"],
+            "fuji_max": hit["max"], "fuji_n": hit["n"], "fuji_oaza": hit["oaza"]}
+
+
+def csv_fields(location: str, machi: str):
+    """write_csv_report用。(表示ラベル, 最大値) を返す（ヒット無しは ("","") ＝空欄）。"""
+    hit = lookup(location, machi)
+    return ("", "") if hit is None else summarize(hit)

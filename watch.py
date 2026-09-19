@@ -4719,7 +4719,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
                 "loc": p["location"] or p["text"],
                 "price": p["price_man"],
                 "area": p["area_sqm"],
-                "tsubo": p.get("tsubo_man"),
+                "tsubo": p.get("tsubo_man"), **fujiview.embed_fields(p["location"] or p["text"], p.get("machi", "")),  # 富士山可視度(fujimap連携B。fujiview.py単独所有)
                 "chimoku": p.get("chimoku", "—"),
                 "toshi": p.get("toshikeikaku", "—"),
                 "setsudo": p.get("setsudo"),
@@ -5332,7 +5332,7 @@ function colsFor(tab){
   return [
     {k:'price',l:'価格'},
     {k:'area',l:'面積'},
-    {k:'tsubo',l:'坪単価',f:'range'},
+    {k:'tsubo',l:'坪単価',f:'range'},...(tab==='camp'?[{k:'fuji',l:'富士山',f:'range'}]:[]),  // 富士山可視度はcampタブだけ(fujimap連携B)
     {k:'shubetsu',l:'種別',f:'check',opts:TYPES},
     {k:'rb',l:'建築可否',f:'check',opts:['○','△','×','不明']},
     {k:'site',l:'掲載サイト',f:'check',opts:siteOptsForTab(tab)},
@@ -5349,7 +5349,7 @@ function esc(s){s=(s==null?'':String(s));return s.replace(/[&<>"]/g,c=>({'&':'&a
 function numOrNull(v){v=(''+(v==null?'':v)).trim();return v===''?null:parseFloat(v);}
 function hPrice(v){if(v==null)return'';if(v<=300)return'background:#1a7d36;color:#fff';if(v<=600)return'background:#66bb6a';if(v<=1000)return'background:#ffe082';if(v<=2000)return'background:#ffb74d';return'background:#ef9a9a';}
 function hArea(v){if(v==null)return'';if(v>=990)return'background:#1a7d36;color:#fff';if(v>=660)return'background:#66bb6a';if(v>=495)return'background:#ffe082';if(v>=330)return'background:#ffb74d';return'background:#ef9a9a';}
-function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#fff';if(v<=5)return'background:#66bb6a';if(v<=10)return'background:#ffe082';if(v<=20)return'background:#ffb74d';return'background:#ef9a9a';}
+function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#fff';if(v<=5)return'background:#66bb6a';if(v<=10)return'background:#ffe082';if(v<=20)return'background:#ffb74d';return'background:#ef9a9a';} /* 富士山:高いほど濃い緑(fujimap連携B) */ function hFuji(v){if(v==null)return'';if(v>=80)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=20)return'background:#ffb74d';return'background:#ef9a9a';}
 // 賃貸タブ専用ヒートマップ（家賃は万円/月・面積は建物専有面積なので売買の土地面積とは尺度が違う）
 function hRent(v){if(v==null)return'';if(v<=3)return'background:#1a7d36;color:#fff';if(v<=4)return'background:#66bb6a';if(v<=5)return'background:#ffe082';if(v<=7)return'background:#ffb74d';return'background:#ef9a9a';}
 function hAreaRent(v){if(v==null)return'';if(v>=90)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=25)return'background:#ffb74d';return'background:#ef9a9a';}
@@ -5651,7 +5651,7 @@ function saveAreas(){lsSave(LS_EXAREAS,EXAREAS);}
 function snapOf(rep){
   const keys=['url','dk','loc','price','area','tsubo','shubetsu','shubetsu_reason',
     'rb','rbreason','setsudo','machi','chimoku','first_seen','site','interests','cautions','zokujin','tab',
-    'madori','chikunen','kanrihi','shikikin','reikin'];
+    'madori','chikunen','kanrihi','shikikin','reikin','fuji','fuji_lo','fuji_med','fuji_max','fuji_n','fuji_oaza'];
   const o={}; keys.forEach(k=>o[k]=rep[k]); return o;
 }
 function bdkOf(g){return g.rep.dk||g.dk;}
@@ -5765,7 +5765,7 @@ function cellHtmlInner(k,d,g){
     }
     case 'tsubo':
       return "<td style='"+hTsubo(d.tsubo)+"'>"+(d.tsubo==null?'—':d.tsubo)+"</td>";
-    case 'shubetsu':
+    case 'fuji':return d.fuji==null?"<td style='"+hFuji(d.fuji)+"'>—</td>":"<td style='"+hFuji(d.fuji)+"' title='"+esc("大字:"+(d.fuji_oaza||'')+" 最小/中央/最大="+d.fuji_lo+"/"+d.fuji_med+"/"+d.fuji_max+"（200mメッシュ"+(d.fuji_n||0)+"個）")+"'>"+(d.fuji_max===0?'0':(d.fuji-d.fuji_lo<=5?String(d.fuji_med):(d.fuji_lo+'〜'+d.fuji)))+"</td>";case 'shubetsu':
       return "<td title='"+esc(d.shubetsu_reason)+"'>"+esc(d.shubetsu)+"</td>";
     case 'rb':{
       const rbTitle=d.rbreason+(d.setsudo?(' / 接道:'+d.setsudo):'');
@@ -5859,7 +5859,7 @@ function legendRow(ncol,tab){
   return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
     +"<span class=lgline>価格(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b> 万円</span>"
     +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b> ㎡</span>"
-    +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"
+    +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"+(tab==='camp'?"<span class=lgline>富士山: 大字ごとの可視度0〜100（数字2つはレンジ・地形のみの機械判定）</span>":"")
     +"<span class=lgline>検出日(新しいほど濃い緑):<b style='background:#1a7d36;color:#fff'>1週間以内</b><b style='background:#66bb6a'>2週間以内</b><b style='background:#ffe082'>3週間以内</b><b style='background:#ffb74d'>4週間以内</b><b>それ以前</b></span>"
     +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
     +"</td></tr></tfoot>";
@@ -6254,7 +6254,7 @@ def write_csv_report(path: Path, results: list) -> None:
         w = csv.writer(f)
         w.writerow(["サイト", "市町", "種別", "種別根拠", "所在地", "価格(万円)", "土地面積(㎡)",
                     "坪単価(万円/坪)", "種別上限(万円)", "地目", "都市計画", "接道",
-                    "建築可否", "建築可否理由", "属人性", "検出日", "フラグ", "詳細URL", "判定"])
+                    "建築可否", "建築可否理由", "属人性", "検出日", "フラグ", "詳細URL", "判定", "富士山可視度(p10-p90)", "富士山可視度(最大)"])
         for r in results:
             for p in r["props"]:
                 w.writerow([
@@ -6276,7 +6276,7 @@ def write_csv_report(path: Path, results: list) -> None:
                     p.get("first_seen") or "",
                     _flag_text(p),
                     p["url"],
-                    p["verdict"],
+                    p["verdict"], *fujiview.csv_fields(p["location"] or p["text"], p.get("machi", "")),  # 富士山可視度2列(fujimap連携B)
                 ])
 
 

@@ -41,3 +41,4 @@ IT初心者向けの配布用マニュアルは `docs/manual/物件さがしツ�
 | 監視サイトの稼働状況 | `SOURCES.md`（自動生成） |
 | 初期の要件定義（2026-06・経緯として保存） | `docs/requirements.md`（封印済み） |
 | ★/非表示の同期API | `state-api/README.md` |
+| 富士山可視度データ（fujimap連携）の出所・更新手順 | `data/fujimap/README.md` |
