@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/|藤曲（駿河小山駅） 880万円": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県駿東郡小山町藤曲",
       "price_man": 880,
       "area_sqm": 272.4,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/|大胡田 2000万円": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県駿東郡小山町大胡田",
       "price_man": 2000,
       "area_sqm": 580.1,
@@ -59,6 +59,6 @@
       "tab": "camp"
     }
   },
-  "hash": "371f961d80b50a71",
-  "fetched_at": "2026-09-19T00:21:55.218023"
+  "hash": "1c97dd0dde0cdb2e",
+  "fetched_at": "2026-09-19T15:45:09.582251"
 }

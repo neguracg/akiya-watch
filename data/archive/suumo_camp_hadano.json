@@ -185,5 +185,16 @@
     "text": "～間取りは自由設計～≪建築条件外し可≫",
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403244/|渋沢１（渋沢駅） 2380万円": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-18",
+    "location": "神奈川県秦野市渋沢１",
+    "price_man": 2380,
+    "area_sqm": 223.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403244/",
+    "text": "渋沢１（渋沢駅） 2380万円",
+    "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59844/index.html|静岡県沼津市東椎路": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県沼津市東椎路",
       "price_man": 3398,
       "area_sqm": 166.0,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59801/index.html|静岡県沼津市西椎路": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県沼津市西椎路",
       "price_man": 2880,
       "area_sqm": 218.0,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59800/index.html|静岡県沼津市平町": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県沼津市平町",
       "price_man": 2590,
       "area_sqm": null,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59799/index.html|静岡県沼津市下香貫木ノ宮": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-09-19",
       "location": "静岡県沼津市下香貫木ノ宮",
       "price_man": 2480,
       "area_sqm": 137.1,
@@ -117,6 +117,6 @@
       "tab": "home"
     }
   },
-  "hash": "54d1a89dca7a0c8c",
-  "fetched_at": "2026-09-19T00:19:56.437876"
+  "hash": "71b0070eef55bd60",
+  "fetched_at": "2026-09-19T15:43:00.930454"
 }

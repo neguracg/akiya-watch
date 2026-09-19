@@ -120,17 +120,6 @@
     "removed_on": "2026-09-13",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-33328330000545/|裾野市須山 (十里木高原7丁目)": {
-    "first_seen": "2026-07-07",
-    "last_seen": "2026-09-13",
-    "location": "裾野市須山 (十里木高原7丁目)",
-    "price_man": 280,
-    "area_sqm": 561.0,
-    "url": "https://www.homes.co.jp/tochi/b-33328330000545/",
-    "text": "裾野市須山 (十里木高原7丁目)",
-    "removed_on": "2026-09-15",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-33317990000176/|裾野市千福が丘2丁目 (裾野駅)": {
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-15",
@@ -173,6 +162,17 @@
     "url": "https://www.homes.co.jp/tochi/b-33319390000040/",
     "text": "裾野市葛山",
     "removed_on": "2026-09-18",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1540930000131/|裾野市二ツ屋 (裾野駅)": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-18",
+    "location": "裾野市二ツ屋 (裾野駅)",
+    "price_man": 1380,
+    "area_sqm": 128.0,
+    "url": "https://www.homes.co.jp/tochi/b-1540930000131/",
+    "text": "裾野市二ツ屋 (裾野駅)",
+    "removed_on": "2026-09-19",
     "site_name": "LIFULL 土地 裾野市"
   }
 }

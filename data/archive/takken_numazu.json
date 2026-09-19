@@ -813,15 +813,26 @@
     "removed_on": "2026-09-18",
     "site_name": "空き家バンクしずおか 沼津市"
   },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1|売アパート 沼津市我入道秋葉町": {
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145532/settle/1|売土地 沼津市若葉町969番1": {
     "first_seen": "2026-06-21",
-    "last_seen": "2026-09-17",
-    "location": "沼津市我入道秋葉町",
-    "price_man": 1980,
-    "area_sqm": 208.3,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172561/settle/1",
-    "text": "売アパート 沼津市我入道秋葉町",
-    "removed_on": "2026-09-18",
+    "last_seen": "2026-09-18",
+    "location": "沼津市若葉町969番1",
+    "price_man": 2700,
+    "area_sqm": 194.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145532/settle/1",
+    "text": "売土地 沼津市若葉町969番1",
+    "removed_on": "2026-09-19",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149174/settle/1|売住宅 沼津市岡宮": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-18",
+    "location": "沼津市岡宮",
+    "price_man": 1680,
+    "area_sqm": 109.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149174/settle/1",
+    "text": "売住宅 沼津市岡宮",
+    "removed_on": "2026-09-19",
     "site_name": "空き家バンクしずおか 沼津市"
   }
 }
