@@ -262,5 +262,38 @@
     "text": "城ケ崎大型用地【デグチステート】～伊東市～",
     "removed_on": "2026-09-17",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20858161/|【伊東市富戸土地】木々の緑と穏やかな空気に囲まれた富戸エリア。": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
+    "location": "静岡県伊東市富戸1317-1106",
+    "price_man": 60,
+    "area_sqm": 383.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20858161/",
+    "text": "【伊東市富戸土地】木々の緑と穏やかな空気に囲まれた富戸エリア。",
+    "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/|329坪の高台の広い土地": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
+    "location": "静岡県伊東市富戸1317-4916",
+    "price_man": 300,
+    "area_sqm": 1090.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78682886/",
+    "text": "329坪の高台の広い土地",
+    "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21260737/|大原３（伊東駅） 680万円": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-19",
+    "location": "静岡県伊東市大原３",
+    "price_man": 680,
+    "area_sqm": 122.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21260737/",
+    "text": "大原３（伊東駅） 680万円",
+    "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

@@ -373,17 +373,6 @@
     "removed_on": "2026-09-10",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160011|貸店舗（建物一部）定期借家 熱海市昭和町15-5": {
-    "first_seen": "2026-08-29",
-    "last_seen": "2026-09-09",
-    "location": "熱海市昭和町15-5",
-    "price_man": 15.0,
-    "area_sqm": 63.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160011",
-    "text": "貸店舗（建物一部）定期借家 熱海市昭和町15-5",
-    "removed_on": "2026-09-10",
-    "site_name": "スマイミー静岡 賃貸 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/148097|貸店舗（建物一部） 熱海市中央町14-7": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-09-10",
@@ -942,6 +931,17 @@
     "area_sqm": 41.9,
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166814",
     "text": "貸アパート 熱海市伊豆山488-5",
+    "removed_on": "2026-09-19",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/100509|貸駐車場 熱海市和田町": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-19",
+    "location": "熱海市和田町",
+    "price_man": 1.0,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/100509",
+    "text": "貸駐車場 熱海市和田町",
     "removed_on": "2026-09-19",
     "site_name": "スマイミー静岡 賃貸 熱海市"
   }

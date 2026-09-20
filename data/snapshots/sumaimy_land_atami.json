@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159928|熱海市青葉町": {
+      "first_seen": "2026-09-19",
+      "last_seen": "2026-09-19",
+      "location": "熱海市青葉町",
+      "price_man": 380,
+      "area_sqm": 3469.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159928",
+      "text": "熱海市青葉町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 0.4,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170440|熱海市下多賀": {
       "first_seen": "2026-09-18",
       "last_seen": "2026-09-19",
@@ -858,39 +887,8 @@
       "zokujinsei": false,
       "machi": "熱海市",
       "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/61631|熱海市下多賀1565-3": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-19",
-      "location": "熱海市下多賀1565-3",
-      "price_man": 780,
-      "area_sqm": 257.0,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/61631",
-      "text": "熱海市下多賀1565-3",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 10.0,
-      "verdict": "不適合",
-      "interest": [
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "camp"
     }
   },
-  "hash": "edcb8b70d0e05af0",
-  "fetched_at": "2026-09-19T15:51:05.482248"
+  "hash": "d255ed50e2a0b7c1",
+  "fetched_at": "2026-09-20T00:29:13.072239"
 }

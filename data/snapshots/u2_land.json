@@ -1676,35 +1676,6 @@
       "machi": "沼津市",
       "tab": "home"
     },
-    "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/|三島市 萩": {
-      "first_seen": "2026-08-01",
-      "last_seen": "2026-09-19",
-      "location": "三島市 萩",
-      "price_man": 2280,
-      "area_sqm": 182.0,
-      "url": "https://www.u2japan-mishima-k.com/bkndetail/758518977/room106234834/",
-      "text": "三島市 萩",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 41.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "home"
-    },
     "https://www.u2japan-mishima-k.com/bkndetail/1276368178/room106440757/|駿東郡長泉町 南一色": {
       "first_seen": "2026-08-07",
       "last_seen": "2026-09-19",
@@ -1764,6 +1735,6 @@
       "tab": "home"
     }
   },
-  "hash": "32f1dc4b2eb15f68",
-  "fetched_at": "2026-09-19T15:34:57.238017"
+  "hash": "d11e59befa5d8f37",
+  "fetched_at": "2026-09-20T00:14:38.448465"
 }

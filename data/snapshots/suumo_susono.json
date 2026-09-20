@@ -354,14 +354,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/|人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪": {
-      "first_seen": "2026-07-12",
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74416999/|茶畑（裾野駅） 1680万円": {
+      "first_seen": "2026-06-17",
       "last_seen": "2026-09-19",
-      "location": "静岡県裾野市二ツ屋10-5",
+      "location": "静岡県裾野市茶畑",
       "price_man": 1680,
-      "area_sqm": 304.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/",
-      "text": "人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪",
+      "area_sqm": 339.7,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74416999/",
+      "text": "茶畑（裾野駅） 1680万円",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -371,12 +371,14 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
+      "chimoku": "畑",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 18.3,
+      "tsubo_man": 16.3,
       "verdict": "不適合",
-      "interest": [],
+      "interest": [
+        "外輪山西麓"
+      ],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -412,14 +414,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74416999/|茶畑（裾野駅） 1680万円": {
-      "first_seen": "2026-06-17",
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/|人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪": {
+      "first_seen": "2026-07-12",
       "last_seen": "2026-09-19",
-      "location": "静岡県裾野市茶畑",
+      "location": "静岡県裾野市二ツ屋10-5",
       "price_man": 1680,
-      "area_sqm": 339.7,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74416999/",
-      "text": "茶畑（裾野駅） 1680万円",
+      "area_sqm": 304.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77407626/",
+      "text": "人気の二ツ屋より広めの土地のご紹介。R246号線　旧246号線へのアクセス良好♪",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -429,14 +431,12 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "畑",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 16.3,
+      "tsubo_man": 18.3,
       "verdict": "不適合",
-      "interest": [
-        "外輪山西麓"
-      ],
+      "interest": [],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -765,6 +765,6 @@
       "tab": "home"
     }
   },
-  "hash": "eacdd23496fb143c",
-  "fetched_at": "2026-09-19T15:20:35.627129"
+  "hash": "9ee88f9d51b731ac",
+  "fetched_at": "2026-09-20T00:01:40.118583"
 }

@@ -196,5 +196,16 @@
     "text": "渋沢１（渋沢駅） 2380万円",
     "removed_on": "2026-09-19",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79013413/|南矢名２（東海大学前駅） 500万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-19",
+    "location": "神奈川県秦野市南矢名２",
+    "price_man": 500,
+    "area_sqm": 122.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79013413/",
+    "text": "南矢名２（東海大学前駅） 500万円",
+    "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }
