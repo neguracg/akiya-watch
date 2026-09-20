@@ -143,3 +143,31 @@ def test_summarize_wide_range_returns_lo_to_hi_label():
     assert hit is not None and hit["hi"] - hit["lo"] > 5
     label, mx = fujiview.summarize(hit)
     assert (label, mx) == ("5〜80", 95)
+
+
+# ---------------------------------------------------------------------------
+# help_html(): 参考情報detailsの直後に足す説明ブロック（指示書D。DOC_BASE_URL未設定/設定の
+# 出し分けと、campタブ限定の出し分けフック class='fujihelp' の存在を回帰させる）
+# ---------------------------------------------------------------------------
+
+def test_help_html_without_doc_base_url_has_no_link_but_has_guidance_text(monkeypatch):
+    monkeypatch.setattr(fujiview, "DOC_BASE_URL", None)
+    html = fujiview.help_html()
+    assert "<a href" not in html
+    assert "score.html" in html and "index.html" in html  # 案内テキストとしては触れる
+
+
+def test_help_html_with_doc_base_url_has_two_links(monkeypatch):
+    monkeypatch.setattr(fujiview, "DOC_BASE_URL", "https://example.negura.website/fujimap")
+    html = fujiview.help_html()
+    assert html.count("<a href") == 2
+    assert "<a href='https://example.negura.website/fujimap/index.html'" in html
+    assert "<a href='https://example.negura.website/fujimap/score.html'" in html
+
+
+def test_help_html_has_fujihelp_class_for_camp_tab_only_toggle():
+    # campタブ以外では出さないCSS出し分け(body[data-tab=camp] .fujihelp{display:block})の
+    # フックとなるクラス名が消えていないことの回帰
+    html = fujiview.help_html()
+    assert "fujihelp" in html
+    assert "<details class='refbox cond fujihelp'>" in html

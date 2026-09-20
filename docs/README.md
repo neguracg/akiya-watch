@@ -42,3 +42,4 @@ IT初心者向けの配布用マニュアルは `docs/manual/物件さがしツ�
 | 初期の要件定義（2026-06・経緯として保存） | `docs/requirements.md`（封印済み） |
 | ★/非表示の同期API | `state-api/README.md` |
 | 富士山可視度データ（fujimap連携）の出所・更新手順 | `data/fujimap/README.md` |
+| 富士山の見え度合い（0〜100）の説明・読み方の正本 | fujimap `docs/score.html`（一覧側は要約のみ＝`fujiview.help_html()`） |

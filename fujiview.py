@@ -17,9 +17,15 @@
 import json
 import re
 import unicodedata
+from html import escape
 from pathlib import Path
 
 DEFAULT_TABLE_PATH = Path(__file__).resolve().parent / "data" / "fujimap" / "oaza_scores.json"
+
+# マップ本体と詳しい説明（fujimap docs/index.html・score.html）の公開先URL。
+# 置き場が未決のため既定は None（未設定）。決まったらこの1行だけ書き換える。
+# None のときは一覧にはリンクを出さず「PCのfujimapで見る」案内だけを出す。
+DOC_BASE_URL = None
 
 _KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）
 
@@ -189,7 +195,8 @@ def summarize(hit: dict):
 
     HTML側はJS（watch.py の _FILTER_JS 内 cellHtmlInner の case 'fuji'）が同じ規則を
     実装しており、同じ知識を2箇所に持たないよう規則の定義自体はここが正本（両側の
-    コードコメントで相互参照する）。
+    コードコメントで相互参照する）。この規則自体の「なぜ」（読み方・限界）の説明文は
+    help_html()、さらに詳しい考え方は fujimap `docs/score.html` が正本（2026-09-20）。
     規則: 最大値0→"0"（見えない）／p90-p10<=5→中央値1つだけ／それ以外→"下限〜上限"。
     """
     if hit["max"] == 0:
@@ -200,6 +207,50 @@ def summarize(hit: dict):
 
 
 # ---- watch.py からの呼び出し口（1行で済ませ、None処理もここに閉じ込める）----
+
+def help_html() -> str:
+    """build_html_report が「参考情報（バッジの見方）」detailsの直後に足す、富士山可視度
+    そのものの説明ブロック。HTMLエスケープ済みの完成した文字列を返す（呼び出し側watch.py
+    は素通しで H.append する。指示書 docs/tasks/20260920_fuji_help_link.md）。
+
+    説明文言の正本はここ（watch.py には置かない）。ここは要約で、詳しい考え方・計算方法は
+    兄弟プロジェクト fujimap の `docs/score.html` が正本（同じ説明を2箇所に書かない）。
+
+    class='fujihelp' はキャンプ場土地タブ以外での非表示フック。watch.py 側CSSの
+    `.fujihelp{display:none}` と `body[data-tab=camp] .fujihelp{display:block}` が対になる
+    （JS側の分岐は作らずCSSだけで出し分ける。1000行ラチェットのため watch.py 側は
+    既存行の書き換えのみで足りるようにこちらで完成HTMLを組む設計）。
+    """
+    if DOC_BASE_URL:
+        base = escape(DOC_BASE_URL)
+        links = (f"<a href='{base}/index.html' target='_blank' rel='noopener'>"
+                 "富士山が見える場所マップ（地図）</a> ／ "
+                 f"<a href='{base}/score.html' target='_blank' rel='noopener'>"
+                 "点数の考え方（詳しい説明）</a>")
+    else:
+        links = ("詳しい説明: PCの <code>C:\\Claude\\31_fujimap\\docs\\index.html</code> ／ "
+                 "<code>score.html</code>（fujimapフォルダ）")
+    return (
+        "<details class='refbox cond fujihelp'>"
+        "<summary>富士山の見え度合いとは（0〜100）</summary>"
+        "<div><b>富士山（キャンプ場土地タブの列）</b></div>"
+        "<div>富士山の<b>どこまで</b>見えるかを0〜100で表した数字。"
+        "100＝麓の方まで見える、30＝頭だけ、0＝山頂も地形に隠れる。</div>"
+        "<div><code>0</code>＝その大字はどこも見えない／<code>78</code>＝ばらつきが小さくだいたい78／"
+        "<code>10〜30</code>＝下位10%〜上位90%のレンジ／<code>—</code>＝住所から大字を特定できなかった</div>"
+        "<div>セルにマウスを乗せる（スマホは長押し）と 大字名・最小/中央/最大・メッシュ数が出る。"
+        "<b>一番良い地点は「最大」を見る</b>。</div>"
+        "<div>並べ替え・絞り込みはレンジの<b>右側の数字</b>で効く"
+        "（一部でも良く見える大字を残すため）。</div>"
+        "<div class='note'>地形だけの判定。樹木・建物は見ていないので、"
+        "木を伐れば見える場所も「見えない」と出る。</div>"
+        "<div class='note'>大字単位なので、広い大字ほどレンジは広い。"
+        "レンジが同じでも中央値は違う（例: 函南町の平井と丹那はどちらも "
+        "<code>0〜82</code> だが中央値は72と33）。</div>"
+        f"<div>{links}</div>"
+        "</details>"
+    )
+
 
 def embed_fields(location: str, machi: str) -> dict:
     """build_html_report のJSON埋め込み用。fuji/fuji_lo/fuji_med/fuji_max/fuji_n/fuji_oaza

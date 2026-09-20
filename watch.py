@@ -4910,7 +4910,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
              + _help("所在地の後ろに、好材料は緑・注意点は赤の目印が付きます。除外はしません。"
                      "賃貸タブでは売買と意味が違うため、内容が入れ替わります。") + "</div>")
     H.append("<div class='note'>" + disclaimer.replace("<p class='note'>", "").replace("</p>", "") + "</div>")
-    H.append("</details>")
+    H.append("</details>" + fujiview.help_html())  # 富士山可視度の説明(campタブのみ表示・所有はfujiview.py)
 
     # ---- モバイル専用: 列フィルタ/並べ替えチップ（モバイルでは列を間引いて表のまま表示する
     #   ため、間引いて隠した列にはth.colタップが届かない。その列への絞り込み/並べ替え導線として
@@ -5073,7 +5073,7 @@ _REPORT_CSS = (
     ".refbox summary::before{content:'\\25b6  ';font-size:10px;}"
     ".refbox[open] summary::before{content:'\\25bc  ';}"
     ".refbox summary:hover{color:#333;}"
-    ".refbox .cond{margin-top:4px;}"
+    ".refbox .cond{margin-top:4px;}.fujihelp{display:none;}body[data-tab=camp] .fujihelp{display:block;}"
     # ---- 非表示確認モーダル ----
     "#hideModal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:100;"
     "justify-content:center;align-items:center;}"
@@ -5859,7 +5859,7 @@ function legendRow(ncol,tab){
   return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
     +"<span class=lgline>価格(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤300</b><b style='background:#66bb6a'>≤600</b><b style='background:#ffe082'>≤1000</b><b style='background:#ffb74d'>≤2000</b><b style='background:#ef9a9a'>&gt;2000</b> 万円</span>"
     +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥990</b><b style='background:#66bb6a'>≥660</b><b style='background:#ffe082'>≥495</b><b style='background:#ffb74d'>≥330</b> ㎡</span>"
-    +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"+(tab==='camp'?"<span class=lgline>富士山: 大字ごとの可視度0〜100（数字2つはレンジ・地形のみの機械判定）</span>":"")
+    +"<span class=lgline>坪単価(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤2</b><b style='background:#66bb6a'>≤5</b><b style='background:#ffe082'>≤10</b><b style='background:#ffb74d'>≤20</b><b style='background:#ef9a9a'>&gt;20</b> 万円/坪</span>"+(tab==='camp'?"<span class=lgline>富士山: 大字ごとの可視度0〜100（数字2つはレンジ・地形のみの機械判定。見方は↑参考情報）</span>":"")
     +"<span class=lgline>検出日(新しいほど濃い緑):<b style='background:#1a7d36;color:#fff'>1週間以内</b><b style='background:#66bb6a'>2週間以内</b><b style='background:#ffe082'>3週間以内</b><b style='background:#ffb74d'>4週間以内</b><b>それ以前</b></span>"
     +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
     +"</td></tr></tfoot>";
