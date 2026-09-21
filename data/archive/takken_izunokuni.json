@@ -174,5 +174,16 @@
     "text": "売マンション 伊豆の国市長岡",
     "removed_on": "2026-09-18",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165994/settle/1|売土地 伊豆の国市南江間1930番38": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-09-19",
+    "location": "伊豆の国市南江間1930番38",
+    "price_man": 750,
+    "area_sqm": 199.1,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165994/settle/1",
+    "text": "売土地 伊豆の国市南江間1930番38",
+    "removed_on": "2026-09-20",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

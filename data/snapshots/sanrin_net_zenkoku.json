@@ -2,7 +2,7 @@
   "keys": {
     "https://www.sanrin.net/forest_detail.php?id=371|静岡県富士宮市加藤窪": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-09-20",
       "location": "静岡県富士宮市加藤窪",
       "price_man": 200,
       "area_sqm": 4967.0,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "f369466195914d12",
-  "fetched_at": "2026-09-20T00:16:50.815995"
+  "hash": "ac728ff1ddf20197",
+  "fetched_at": "2026-09-21T00:15:39.124527"
 }

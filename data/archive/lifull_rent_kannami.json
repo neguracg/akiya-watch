@@ -1132,17 +1132,6 @@
     "removed_on": "2026-09-18",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/f77f338972f9c98da03807d8e77b83f86f657842/|ヴィル・スクエア": {
-    "first_seen": "2026-08-07",
-    "last_seen": "2026-09-17",
-    "location": "静岡県田方郡函南町上沢",
-    "price_man": 7.3,
-    "area_sqm": 62.1,
-    "url": "https://www.homes.co.jp/chintai/room/f77f338972f9c98da03807d8e77b83f86f657842/",
-    "text": "ヴィル・スクエア",
-    "removed_on": "2026-09-18",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/65b2b1430d2512987fac79f289e349839de5d14a/|グランドール高城Ｃ": {
     "first_seen": "2026-07-27",
     "last_seen": "2026-09-17",
@@ -1306,6 +1295,17 @@
     "url": "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/",
     "text": "シティパレス柿島",
     "removed_on": "2026-09-19",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-09-19",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.6,
+    "area_sqm": 58.2,
+    "url": "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
+    "removed_on": "2026-09-20",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }
