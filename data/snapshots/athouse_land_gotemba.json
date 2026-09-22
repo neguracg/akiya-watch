@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.at-house.jp/uri-tochi/detail-6323c530ce03c249fa43532d/|御殿場市西田中": {
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "location": "御殿場市西田中",
+      "price_man": 1230,
+      "area_sqm": 175.0,
+      "url": "https://www.at-house.jp/uri-tochi/detail-6323c530ce03c249fa43532d/",
+      "text": "御殿場市西田中",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 23.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "御殿場市",
+      "tab": "camp"
+    },
     "https://www.at-house.jp/uri-tochi/detail-68c90cbf1bbca2070d11b89b/|御殿場市杉名沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市杉名沢",
       "price_man": 1298,
       "area_sqm": 275.0,
@@ -31,7 +60,7 @@
     },
     "https://www.at-house.jp/uri-tochi/detail-6473f11c83588c13d54fe09b/|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市川島田",
       "price_man": 1300,
       "area_sqm": 188.2,
@@ -60,7 +89,7 @@
     },
     "https://www.at-house.jp/uri-tochi/detail-693a198bf8a8a4e1d7e9bc59/|御殿場市塚原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市塚原",
       "price_man": 1585,
       "area_sqm": 338.1,
@@ -88,6 +117,6 @@
       "tab": "camp"
     }
   },
-  "hash": "8ba29a7adb115ad3",
-  "fetched_at": "2026-09-21T00:01:16.098483"
+  "hash": "430914ca47db4805",
+  "fetched_at": "2026-09-22T00:44:27.947046"
 }

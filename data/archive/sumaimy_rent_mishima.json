@@ -416,5 +416,16 @@
     "text": "貸事務所定期借家 三島市一番町15-32",
     "removed_on": "2026-09-18",
     "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176465|貸駐車場 三島市梅名477-10": {
+    "first_seen": "2026-08-20",
+    "last_seen": "2026-09-20",
+    "location": "三島市梅名477-10",
+    "price_man": 0.5,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176465",
+    "text": "貸駐車場 三島市梅名477-10",
+    "removed_on": "2026-09-22",
+    "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

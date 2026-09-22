@@ -2,7 +2,7 @@
   "keys": {
     "https://kankocho.jp/items/71960/|【再値下げ】土地（167.0㎡）山梨県鳴沢村 紅葉台センチュリーヴィラ別荘地": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "南都留郡鳴沢村11074番33",
       "price_man": 22,
       "area_sqm": 167.0,
@@ -32,6 +32,6 @@
       "tab": "camp"
     }
   },
-  "hash": "b6c17df0a0a0aabe",
-  "fetched_at": "2026-09-21T00:16:25.908037"
+  "hash": "6edf184d6574316e",
+  "fetched_at": "2026-09-22T00:57:48.173149"
 }

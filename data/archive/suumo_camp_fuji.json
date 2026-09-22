@@ -1076,5 +1076,16 @@
     "text": "周辺に商業施設が充実しています！ファミリー層の多い閑静な住宅街です！",
     "removed_on": "2026-09-20",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77065565/|横割４（富士駅） 1480万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-09-20",
+    "location": "静岡県富士市横割４",
+    "price_man": 1480,
+    "area_sqm": 162.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77065565/",
+    "text": "横割４（富士駅） 1480万円",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

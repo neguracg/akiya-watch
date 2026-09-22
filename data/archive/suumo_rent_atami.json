@@ -1,15 +1,4 @@
 {
-  "https://suumo.jp/chintai/jnc_000107544710/|東海マンション": {
-    "first_seen": "2026-07-25",
-    "last_seen": "2026-07-25",
-    "location": "静岡県熱海市中央町",
-    "price_man": 8.8,
-    "area_sqm": 25.2,
-    "url": "https://suumo.jp/chintai/jnc_000107544710/",
-    "text": "東海マンション",
-    "removed_on": "2026-07-25",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000107932915/|ソフィア熱海デイサス": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-07-25",
@@ -1581,6 +1570,17 @@
     "url": "https://suumo.jp/chintai/jnc_000108216283/?bc=100387539188",
     "text": "プラムハイツ",
     "removed_on": "2026-09-19",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000090352365/?bc=100522262068|シャトーテル赤根崎": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-20",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 6.0,
+    "area_sqm": 26.7,
+    "url": "https://suumo.jp/chintai/jnc_000090352365/?bc=100522262068",
+    "text": "シャトーテル赤根崎",
+    "removed_on": "2026-09-22",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }

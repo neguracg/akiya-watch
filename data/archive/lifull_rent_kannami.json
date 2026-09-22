@@ -1275,28 +1275,6 @@
     "removed_on": "2026-09-19",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/|シティパレス柿島": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.3,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/17a7f008c2b4e4244ead9eabc16f61c66b6e42e7/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/|シティパレス柿島": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.2,
-    "area_sqm": 52.0,
-    "url": "https://www.homes.co.jp/chintai/room/82b7954903185f6b3be32875aea8b9c5ccaacc52/",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-19",
@@ -1306,6 +1284,28 @@
     "url": "https://www.homes.co.jp/chintai/room/e41119475643ac2bd113da7ef900badf19cb8e1b/",
     "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
     "removed_on": "2026-09-20",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/c3b58bac89fe33c3155f9b25c01f1871d03602db/|フォレスト　Ａ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 6.5,
+    "area_sqm": 50.3,
+    "url": "https://www.homes.co.jp/chintai/room/c3b58bac89fe33c3155f9b25c01f1871d03602db/",
+    "text": "フォレスト　Ａ",
+    "removed_on": "2026-09-22",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/0f0fc67db1b67831124d1888b37e50bde523296d/|フォレスト　Ａ": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 6.5,
+    "area_sqm": 50.3,
+    "url": "https://www.homes.co.jp/chintai/room/0f0fc67db1b67831124d1888b37e50bde523296d/",
+    "text": "フォレスト　Ａ",
+    "removed_on": "2026-09-22",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

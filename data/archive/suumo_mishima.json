@@ -427,5 +427,16 @@
     "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。",
     "removed_on": "2026-09-20",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21705880/|【見学会開催】東小学校が至近（100ｍ）": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-20",
+    "location": "静岡県三島市東町8-4",
+    "price_man": 1899,
+    "area_sqm": 148.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21705880/",
+    "text": "【見学会開催】東小学校が至近（100ｍ）",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

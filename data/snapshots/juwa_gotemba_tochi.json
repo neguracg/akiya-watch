@@ -2,7 +2,7 @@
   "keys": {
     "https://10wa.co.jp/baibai/syousai/0/1457dat.html|御殿場市深沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市深沢",
       "price_man": 340,
       "area_sqm": 253.0,
@@ -34,7 +34,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1484dat.html|御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市保土沢",
       "price_man": 912,
       "area_sqm": 167.6,
@@ -65,7 +65,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1501dat.html|御殿場市印野": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市印野",
       "price_man": 960,
       "area_sqm": 269.0,
@@ -96,7 +96,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1504dat.html|御殿場市深沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市深沢",
       "price_man": 1080,
       "area_sqm": 360.3,
@@ -128,7 +128,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1393dat.html|御殿場市中山": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市中山",
       "price_man": 1100,
       "area_sqm": 162.7,
@@ -157,7 +157,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1502dat.html|御殿場市御殿場": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市御殿場",
       "price_man": 1250,
       "area_sqm": 330.4,
@@ -186,7 +186,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1509dat.html|御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市保土沢",
       "price_man": 1505,
       "area_sqm": 283.9,
@@ -217,7 +217,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1508dat.html|御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市保土沢",
       "price_man": 1565,
       "area_sqm": 298.2,
@@ -248,7 +248,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/91dat.html|御殿場市川島田★": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市川島田★",
       "price_man": 1570,
       "area_sqm": 209.7,
@@ -279,7 +279,7 @@
     },
     "https://10wa.co.jp/baibai/syousai/0/1493dat.html|御殿場市萩原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-20",
+      "last_seen": "2026-09-22",
       "location": "御殿場市萩原",
       "price_man": 2350,
       "area_sqm": 407.3,
@@ -310,5 +310,5 @@
     }
   },
   "hash": "75e508d3be233d69",
-  "fetched_at": "2026-09-21T00:01:00.962521"
+  "fetched_at": "2026-09-22T00:44:19.129704"
 }
