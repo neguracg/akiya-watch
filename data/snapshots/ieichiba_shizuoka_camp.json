@@ -276,37 +276,8 @@
       "zokujinsei": false,
       "machi": "熱海市",
       "tab": "camp"
-    },
-    "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
-      "first_seen": "2026-09-18",
-      "last_seen": "2026-09-22",
-      "location": "静岡県裾野市",
-      "price_man": 150,
-      "area_sqm": null,
-      "url": "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98",
-      "text": "静岡県裾野市",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "camp"
     }
   },
-  "hash": "ffcc749e7e849906",
-  "fetched_at": "2026-09-22T01:10:41.912357"
+  "hash": "49c965c169ba2c1f",
+  "fetched_at": "2026-09-23T00:34:45.080033"
 }

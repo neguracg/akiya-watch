@@ -295,5 +295,27 @@
     "text": "大原３（伊東駅） 680万円",
     "removed_on": "2026-09-19",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21121425/|猪戸１（伊東駅） 850万円": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-22",
+    "location": "静岡県伊東市猪戸１-6-20",
+    "price_man": 850,
+    "area_sqm": 79.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21121425/",
+    "text": "猪戸１（伊東駅） 850万円",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20900797/|鎌田（南伊東駅） 1320万円": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-22",
+    "location": "静岡県伊東市鎌田",
+    "price_man": 1320,
+    "area_sqm": 481.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20900797/",
+    "text": "鎌田（南伊東駅） 1320万円",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

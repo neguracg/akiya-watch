@@ -457,16 +457,16 @@
       "machi": "",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1111450005466/|南箱根ダイヤランド　売戸建": {
+    "https://www.homes.co.jp/kodate/b-1265050002142/|函南町間宮中古住宅": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-22",
-      "location": "南箱根ダイヤランド　売戸建",
-      "price_man": 1580,
-      "area_sqm": 316.0,
-      "url": "https://www.homes.co.jp/kodate/b-1111450005466/",
-      "text": "南箱根ダイヤランド　売戸建",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "location": "函南町間宮中古住宅",
+      "price_man": 3880,
+      "area_sqm": 166.8,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002142/",
+      "text": "函南町間宮中古住宅",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
       "madori": null,
       "chikunen": null,
       "kanrihi": null,
@@ -477,15 +477,13 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 16.5,
+      "tsubo_man": 76.9,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
+      "ng_areas": [],
       "zokujinsei": false,
-      "machi": "",
+      "machi": "函南町",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1508430000123/|ヒューマンヒルズ函南１２２号地": {
@@ -517,16 +515,16 @@
       "machi": "",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002142/|函南町間宮中古住宅": {
+    "https://www.homes.co.jp/kodate/b-1111450005466/|南箱根ダイヤランド　売戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-22",
-      "location": "函南町間宮中古住宅",
-      "price_man": 3880,
-      "area_sqm": 166.8,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002142/",
-      "text": "函南町間宮中古住宅",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
+      "location": "南箱根ダイヤランド　売戸建",
+      "price_man": 1580,
+      "area_sqm": 316.0,
+      "url": "https://www.homes.co.jp/kodate/b-1111450005466/",
+      "text": "南箱根ダイヤランド　売戸建",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
       "madori": null,
       "chikunen": null,
       "kanrihi": null,
@@ -537,13 +535,15 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 76.9,
+      "tsubo_man": 16.5,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
-      "ng_areas": [],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
       "zokujinsei": false,
-      "machi": "函南町",
+      "machi": "",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1490460002405/|函南町平井　中古戸建": {
@@ -608,7 +608,7 @@
       "first_seen": "2026-07-03",
       "last_seen": "2026-09-22",
       "location": "南箱根ダイヤランド戸建",
-      "price_man": 2380,
+      "price_man": 2350,
       "area_sqm": 356.2,
       "url": "https://www.homes.co.jp/kodate/b-1341600001836/",
       "text": "南箱根ダイヤランド戸建",
@@ -624,7 +624,7 @@
       "chimoku": "田",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 22.1,
+      "tsubo_man": 21.8,
       "verdict": "適合",
       "interest": [],
       "caution": [
@@ -917,6 +917,6 @@
       "tab": "home"
     }
   },
-  "hash": "d841b02270d3e485",
-  "fetched_at": "2026-09-22T01:03:13.282908"
+  "hash": "06012c120a1083ee",
+  "fetched_at": "2026-09-23T00:27:40.913598"
 }

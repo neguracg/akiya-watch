@@ -1308,17 +1308,6 @@
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000108779746/|平鶴ビル": {
-    "first_seen": "2026-09-02",
-    "last_seen": "2026-09-17",
-    "location": "静岡県熱海市中央町",
-    "price_man": 8.5,
-    "area_sqm": 55.0,
-    "url": "https://suumo.jp/chintai/jnc_000108779746/",
-    "text": "平鶴ビル",
-    "removed_on": "2026-09-18",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000102944606/|西島アパート": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-17",
@@ -1580,6 +1569,39 @@
     "area_sqm": 26.7,
     "url": "https://suumo.jp/chintai/jnc_000090352365/?bc=100522262068",
     "text": "シャトーテル赤根崎",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109852219/|ハイネス来の宮熱海グリーンサイド": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-22",
+    "location": "静岡県熱海市福道町",
+    "price_man": 8.8,
+    "area_sqm": 49.9,
+    "url": "https://suumo.jp/chintai/jnc_000109852219/",
+    "text": "ハイネス来の宮熱海グリーンサイド",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108779746/?bc=100385456048|平鶴ビル": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-22",
+    "location": "静岡県熱海市中央町",
+    "price_man": 8.5,
+    "area_sqm": 55.0,
+    "url": "https://suumo.jp/chintai/jnc_000108779746/?bc=100385456048",
+    "text": "平鶴ビル",
+    "removed_on": "2026-09-22",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109764280/?bc=100404610874|ビヨンド": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-22",
+    "location": "静岡県熱海市昭和町",
+    "price_man": 7.2,
+    "area_sqm": 47.9,
+    "url": "https://suumo.jp/chintai/jnc_000109764280/?bc=100404610874",
+    "text": "ビヨンド",
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 賃貸 熱海市"
   }

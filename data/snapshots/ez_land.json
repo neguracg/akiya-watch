@@ -3010,37 +3010,6 @@
       "machi": "熱海市",
       "tab": "camp"
     },
-    "https://www.e-z.co.jp/sale/1tc/1tc-0004394.html|伊東市竹の内　約82坪　利便性良好・平坦な土地": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
-      "location": "伊東市竹の内",
-      "price_man": 3500,
-      "area_sqm": 273.0,
-      "url": "https://www.e-z.co.jp/sale/1tc/1tc-0004394.html",
-      "text": "伊東市竹の内　約82坪　利便性良好・平坦な土地",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 42.4,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "温泉"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊東市",
-      "tab": "camp"
-    },
     "https://www.e-z.co.jp/sale/1tc/1tc-0005384.html|熱海市伊豆山　296坪の広い敷地　海を一望す...": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-22",
@@ -3574,6 +3543,6 @@
       "tab": "camp"
     }
   },
-  "hash": "00438d83cea8a6fb",
-  "fetched_at": "2026-09-22T01:07:48.946625"
+  "hash": "2e464b62f9993556",
+  "fetched_at": "2026-09-23T00:32:02.061509"
 }

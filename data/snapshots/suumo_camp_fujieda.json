@@ -1541,35 +1541,6 @@
       "machi": "藤枝市",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_75578607/|◆JR「藤枝」駅まで徒歩約12分の立地": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
-      "location": "静岡県藤枝市瀬戸新屋",
-      "price_man": 2000,
-      "area_sqm": 285.3,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_75578607/",
-      "text": "◆JR「藤枝」駅まで徒歩約12分の立地",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 23.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "藤枝市",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_75382379/|南東面道路！住環境良し。藤枝駅徒歩約13分！小学校、中学校近く！": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-09-22",
@@ -1919,6 +1890,6 @@
       "tab": "camp"
     }
   },
-  "hash": "c416457c09b932f3",
-  "fetched_at": "2026-09-22T01:09:05.173736"
+  "hash": "a0bd13b0fd011a0b",
+  "fetched_at": "2026-09-23T00:33:16.169155"
 }

@@ -2034,14 +2034,36 @@
     "removed_on": "2026-09-22",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/2df5d9679db95903552561f4732496665d11af79/|JR東海道新幹線 三島駅 バス10分 加茂入口下車 徒歩23分": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-20",
-    "location": "静岡県三島市加茂",
+  "https://www.homes.co.jp/chintai/room/dc06f63c485dfeb413b7407bfeefed7e602eaaad/|グリーングラスS": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-22",
+    "location": "静岡県三島市富士ビレッジ33-8",
     "price_man": 7.0,
-    "area_sqm": 57.9,
-    "url": "https://www.homes.co.jp/chintai/room/2df5d9679db95903552561f4732496665d11af79/",
-    "text": "JR東海道新幹線 三島駅 バス10分 加茂入口下車 徒歩23分",
+    "area_sqm": 68.8,
+    "url": "https://www.homes.co.jp/chintai/room/dc06f63c485dfeb413b7407bfeefed7e602eaaad/",
+    "text": "グリーングラスS",
+    "removed_on": "2026-09-22",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-22",
+    "location": "静岡県三島市加屋町",
+    "price_man": 12.5,
+    "area_sqm": 64.5,
+    "url": "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/",
+    "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
+    "removed_on": "2026-09-22",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ca92116a22ab4ed4ab23ac83d5f9587b25bd9973/|グランエスシャリオ": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-22",
+    "location": "静岡県三島市南二日町",
+    "price_man": 6.5,
+    "area_sqm": 41.6,
+    "url": "https://www.homes.co.jp/chintai/room/ca92116a22ab4ed4ab23ac83d5f9587b25bd9973/",
+    "text": "グランエスシャリオ",
     "removed_on": "2026-09-22",
     "site_name": "LIFULL 賃貸 三島市"
   }
