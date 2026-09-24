@@ -1604,5 +1604,27 @@
     "text": "ビヨンド",
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109946276/|熱海サニーハイツ": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-22",
+    "location": "静岡県熱海市海光町",
+    "price_man": 10.5,
+    "area_sqm": 40.0,
+    "url": "https://suumo.jp/chintai/jnc_000109946276/",
+    "text": "熱海サニーハイツ",
+    "removed_on": "2026-09-24",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108451910/?bc=100516254468|つたやビル": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-22",
+    "location": "静岡県熱海市渚町",
+    "price_man": 20.0,
+    "area_sqm": 30.0,
+    "url": "https://suumo.jp/chintai/jnc_000108451910/?bc=100516254468",
+    "text": "つたやビル",
+    "removed_on": "2026-09-24",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59848/index.html|静岡県沼津市錦町本": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "静岡県沼津市錦町本",
       "price_man": 170,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59847/index.html|静岡県沼津市杉崎町": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "静岡県沼津市杉崎町",
       "price_man": 690,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59844/index.html|静岡県沼津市東椎路": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "静岡県沼津市東椎路",
       "price_man": 3398,
       "area_sqm": 166.0,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59801/index.html|静岡県沼津市西椎路": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "静岡県沼津市西椎路",
       "price_man": 2880,
       "area_sqm": 218.0,
@@ -117,6 +117,6 @@
       "tab": "home"
     }
   },
-  "hash": "cd6cf342522c3a3f",
-  "fetched_at": "2026-09-23T00:26:12.781543"
+  "hash": "aa51b9c447606fdd",
+  "fetched_at": "2026-09-24T00:44:31.654837"
 }

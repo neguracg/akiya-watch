@@ -317,5 +317,27 @@
     "text": "鎌田（南伊東駅） 1320万円",
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/|伊東市竹の内二丁目土地６５６坪の敷地！伊東駅まで徒歩１２分": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-22",
+    "location": "静岡県伊東市竹の内２-３－３",
+    "price_man": 18092,
+    "area_sqm": 2169.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/",
+    "text": "伊東市竹の内二丁目土地６５６坪の敷地！伊東駅まで徒歩１２分",
+    "removed_on": "2026-09-24",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/|【デグチエステート】伊東市城ケ崎土地": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-22",
+    "location": "静岡県伊東市富戸",
+    "price_man": 29500,
+    "area_sqm": 66341.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/",
+    "text": "【デグチエステート】伊東市城ケ崎土地",
+    "removed_on": "2026-09-24",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

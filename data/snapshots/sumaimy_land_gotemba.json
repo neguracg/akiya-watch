@@ -1,8 +1,41 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145252|御殿場市東田中1816-7": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-24",
+      "location": "御殿場市東田中1816-7",
+      "price_man": 3980,
+      "area_sqm": 507.9,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145252",
+      "text": "御殿場市東田中1816-7",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "田",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 25.9,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定",
+        "外輪山西麓"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "御殿場市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/60303|御殿場市西田中479-3": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市西田中479-3",
       "price_man": 1230,
       "area_sqm": 175.0,
@@ -31,7 +64,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/98632|御殿場市東田中632-3": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市東田中632-3",
       "price_man": 450,
       "area_sqm": 217.0,
@@ -62,7 +95,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175987|御殿場市保土沢307-8": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市保土沢307-8",
       "price_man": 1565,
       "area_sqm": 298.2,
@@ -94,7 +127,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175990|御殿場市保土沢": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市保土沢",
       "price_man": 1505,
       "area_sqm": 283.9,
@@ -126,7 +159,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175203|御殿場市御殿場311-4": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市御殿場311-4",
       "price_man": 1250,
       "area_sqm": 330.4,
@@ -155,7 +188,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176790|御殿場市御殿場": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市御殿場",
       "price_man": 1296,
       "area_sqm": 194.8,
@@ -184,7 +217,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135915|御殿場市川島田1314-2": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市川島田1314-2",
       "price_man": 1570,
       "area_sqm": 220.9,
@@ -216,7 +249,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161989|御殿場市大坂": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市大坂",
       "price_man": 580,
       "area_sqm": 201.6,
@@ -247,7 +280,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/72789|御殿場市川島田": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市川島田",
       "price_man": 1360,
       "area_sqm": 209.8,
@@ -279,7 +312,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175154|御殿場市印野2444-1": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市印野2444-1",
       "price_man": 960,
       "area_sqm": 269.0,
@@ -311,7 +344,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175889|御殿場市深沢1248-22": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市深沢1248-22",
       "price_man": 1080,
       "area_sqm": 360.3,
@@ -344,7 +377,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154464|御殿場市萩原1343-19": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市萩原1343-19",
       "price_man": 1680,
       "area_sqm": 225.7,
@@ -373,7 +406,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132057|御殿場市中山462-9": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市中山462-9",
       "price_man": 1100,
       "area_sqm": 162.7,
@@ -402,7 +435,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169645|御殿場市保土沢": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市保土沢",
       "price_man": 912,
       "area_sqm": 167.6,
@@ -434,7 +467,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173180|御殿場市萩原": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市萩原",
       "price_man": 2350,
       "area_sqm": 407.3,
@@ -464,42 +497,9 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145252|御殿場市東田中1816-7": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-09-22",
-      "location": "御殿場市東田中1816-7",
-      "price_man": 3980,
-      "area_sqm": 507.9,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145252",
-      "text": "御殿場市東田中1816-7",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
-      "chimoku": "田",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 25.9,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定",
-        "外輪山西麓"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151041|御殿場市新橋": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "location": "御殿場市新橋",
       "price_man": 9700,
       "area_sqm": 2762.2,
@@ -530,6 +530,6 @@
       "tab": "camp"
     }
   },
-  "hash": "d6188fa125e0eca9",
-  "fetched_at": "2026-09-22T23:58:52.051290"
+  "hash": "5d5221b9832cbe87",
+  "fetched_at": "2026-09-24T00:12:35.530739"
 }

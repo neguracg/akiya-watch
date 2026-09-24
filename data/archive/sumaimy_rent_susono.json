@@ -64,5 +64,16 @@
     "text": "貸アパート 裾野市岩波240-4",
     "removed_on": "2026-09-17",
     "site_name": "スマイミー静岡 賃貸 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170723|貸マンション 裾野市佐野": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-22",
+    "location": "裾野市佐野",
+    "price_man": 6.0,
+    "area_sqm": 61.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170723",
+    "text": "貸マンション 裾野市佐野",
+    "removed_on": "2026-09-24",
+    "site_name": "スマイミー静岡 賃貸 裾野市"
   }
 }

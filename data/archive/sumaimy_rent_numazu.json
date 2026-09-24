@@ -4201,17 +4201,6 @@
     "removed_on": "2026-09-17",
     "site_name": "スマイミー静岡 賃貸 沼津市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145452|貸事業用地 沼津市若葉町152": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-17",
-    "location": "沼津市若葉町152",
-    "price_man": 33.0,
-    "area_sqm": 1223.1,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145452",
-    "text": "貸事業用地 沼津市若葉町152",
-    "removed_on": "2026-09-17",
-    "site_name": "スマイミー静岡 賃貸 沼津市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169509|貸工場 沼津市西間門24-5": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-17",
@@ -4936,6 +4925,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177421",
     "text": "貸アパート 沼津市沼北町１丁目5-12",
     "removed_on": "2026-09-22",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/26699|貸マンション 沼津市千本常盤町": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-22",
+    "location": "沼津市千本常盤町",
+    "price_man": 5.5,
+    "area_sqm": 62.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/26699",
+    "text": "貸マンション 沼津市千本常盤町",
+    "removed_on": "2026-09-24",
     "site_name": "スマイミー静岡 賃貸 沼津市"
   }
 }
