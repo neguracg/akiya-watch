@@ -119,5 +119,38 @@
     "text": "サンモール山下",
     "removed_on": "2026-09-15",
     "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007870000000001074250009/|ネオステージ原木": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 4.2,
+    "area_sqm": 47.5,
+    "url": "https://www.chintai.net/detail/bk-C030007870000000001074250009/",
+    "text": "ネオステージ原木",
+    "removed_on": "2026-09-25",
+    "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007870000000001074250008/|ネオステージ原木": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 4.2,
+    "area_sqm": 47.5,
+    "url": "https://www.chintai.net/detail/bk-C030007870000000001074250008/",
+    "text": "ネオステージ原木",
+    "removed_on": "2026-09-25",
+    "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007870000000001092940001/|セフィラオオムラ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-09-24",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 4.0,
+    "area_sqm": 36.4,
+    "url": "https://www.chintai.net/detail/bk-C030007870000000001092940001/",
+    "text": "セフィラオオムラ",
+    "removed_on": "2026-09-25",
+    "site_name": "CHINTAI 伊豆の国市"
   }
 }

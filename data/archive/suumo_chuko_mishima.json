@@ -1495,17 +1495,6 @@
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/|６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-17",
-    "location": "静岡県三島市長伏",
-    "price_man": 15800,
-    "area_sqm": 2131.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/",
-    "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
-    "removed_on": "2026-09-18",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21006021/|【今日見たい！に対応♪】三島市東町で、価格を重視したい方へ。": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-09-18",
@@ -1570,6 +1559,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
     "text": "9/20（日）13時-16時・オープンハウス●萩リフォーム住宅●内覧可能♪",
     "removed_on": "2026-09-22",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21744654/|藤代町（三島駅） 3980万円": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-24",
+    "location": "静岡県三島市藤代町",
+    "price_man": 3980,
+    "area_sqm": 103.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21744654/",
+    "text": "藤代町（三島駅） 3980万円",
+    "removed_on": "2026-09-25",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

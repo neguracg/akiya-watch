@@ -1990,17 +1990,6 @@
     "removed_on": "2026-09-19",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/9317e06581cb421e6493e3865312d8e3a9bb13f1/|クレシア": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-19",
-    "location": "静岡県三島市加茂",
-    "price_man": 7.0,
-    "area_sqm": 57.9,
-    "url": "https://www.homes.co.jp/chintai/room/9317e06581cb421e6493e3865312d8e3a9bb13f1/",
-    "text": "クレシア",
-    "removed_on": "2026-09-20",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/b10df9d6c54da3fd58944594dd0da0e8c14843dc/|Ｄｒｅａｍｉｏ": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
@@ -2087,6 +2076,39 @@
     "url": "https://www.homes.co.jp/chintai/room/c4e3a01c0b2041020b7f3274bda0b3ead9168bf9/",
     "text": "グランデ北沢II",
     "removed_on": "2026-09-24",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ca1df7f0b423d9416f73684cb77d75c5ec6cbfe7/|Ｄｒｅａｍｉｏ": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-09-24",
+    "location": "静岡県三島市大宮町3丁目",
+    "price_man": 10.2,
+    "area_sqm": 44.0,
+    "url": "https://www.homes.co.jp/chintai/room/ca1df7f0b423d9416f73684cb77d75c5ec6cbfe7/",
+    "text": "Ｄｒｅａｍｉｏ",
+    "removed_on": "2026-09-25",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/2df5d9679db95903552561f4732496665d11af79/|JR東海道新幹線 三島駅 バス10分 加茂入口下車 徒歩23分": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-24",
+    "location": "静岡県三島市加茂",
+    "price_man": 7.0,
+    "area_sqm": 57.9,
+    "url": "https://www.homes.co.jp/chintai/room/2df5d9679db95903552561f4732496665d11af79/",
+    "text": "JR東海道新幹線 三島駅 バス10分 加茂入口下車 徒歩23分",
+    "removed_on": "2026-09-25",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ca92116a22ab4ed4ab23ac83d5f9587b25bd9973/|グランエスシャリオ": {
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-24",
+    "location": "静岡県三島市南二日町",
+    "price_man": 6.5,
+    "area_sqm": 41.6,
+    "url": "https://www.homes.co.jp/chintai/room/ca92116a22ab4ed4ab23ac83d5f9587b25bd9973/",
+    "text": "グランエスシャリオ",
+    "removed_on": "2026-09-25",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

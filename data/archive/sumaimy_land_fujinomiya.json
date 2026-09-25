@@ -626,17 +626,6 @@
     "removed_on": "2026-09-22",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174442|富士宮市万野原新田": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-09-22",
-    "location": "富士宮市万野原新田",
-    "price_man": 740,
-    "area_sqm": 174.2,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174442",
-    "text": "富士宮市万野原新田",
-    "removed_on": "2026-09-24",
-    "site_name": "スマイミー静岡 売土地 富士宮市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167505|富士宮市大岩467-5": {
     "first_seen": "2026-09-12",
     "last_seen": "2026-09-22",
@@ -657,6 +646,50 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155854",
     "text": "富士宮市羽鮒",
     "removed_on": "2026-09-24",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166866|富士宮市小泉": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-24",
+    "location": "富士宮市小泉",
+    "price_man": 220,
+    "area_sqm": 120.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166866",
+    "text": "富士宮市小泉",
+    "removed_on": "2026-09-25",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162231|富士宮市大岩": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-24",
+    "location": "富士宮市大岩",
+    "price_man": 180,
+    "area_sqm": 2038.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162231",
+    "text": "富士宮市大岩",
+    "removed_on": "2026-09-25",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150679|富士宮市黒田43-3": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-24",
+    "location": "富士宮市黒田43-3",
+    "price_man": 480,
+    "area_sqm": 193.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150679",
+    "text": "富士宮市黒田43-3",
+    "removed_on": "2026-09-25",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151665|富士宮市山本609-14": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-24",
+    "location": "富士宮市山本609-14",
+    "price_man": 76,
+    "area_sqm": 252.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151665",
+    "text": "富士宮市山本609-14",
+    "removed_on": "2026-09-25",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   }
 }

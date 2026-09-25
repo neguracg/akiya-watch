@@ -911,5 +911,16 @@
     "text": "売土地 沼津市志下84番6",
     "removed_on": "2026-09-20",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176382/settle/1|売土地 沼津市柳町": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-09-24",
+    "location": "沼津市柳町",
+    "price_man": 1340,
+    "area_sqm": 168.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176382/settle/1",
+    "text": "売土地 沼津市柳町",
+    "removed_on": "2026-09-25",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }
