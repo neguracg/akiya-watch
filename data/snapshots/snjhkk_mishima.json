@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59850/index.html|静岡県三島市鶴喰33-16": {
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "location": "静岡県三島市鶴喰33-16",
+      "price_man": 3698,
+      "area_sqm": 144.9,
+      "url": "https://www.snjhkk.com/s_r_59850/index.html",
+      "text": "静岡県三島市鶴喰33-16",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": "接道した角地！国道136号線",
+      "tsubo_man": 84.4,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59796/index.html|静岡県三島市青木": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市青木",
       "price_man": 3280,
       "area_sqm": 108.2,
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59795/index.html|静岡県三島市梅名": {
       "first_seen": "2026-09-13",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市梅名",
       "price_man": 4280,
       "area_sqm": 156.0,
@@ -60,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市西若町",
       "price_man": 2890,
       "area_sqm": null,
@@ -89,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市藤代町",
       "price_man": 3980,
       "area_sqm": 103.5,
@@ -118,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_59652/index.html|静岡県三島市文教町2丁目": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市文教町2丁目",
       "price_man": 3680,
       "area_sqm": 127.4,
@@ -147,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_59522/index.html|静岡県三島市多呂": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市多呂",
       "price_man": 1980,
       "area_sqm": 231.5,
@@ -176,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_59521/index.html|静岡県三島市富士見台": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市富士見台",
       "price_man": 2350,
       "area_sqm": 194.3,
@@ -205,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_59518/index.html|静岡県三島市松が丘": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市松が丘",
       "price_man": 2500,
       "area_sqm": null,
@@ -234,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_59262/index.html|静岡県三島市新谷": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市新谷",
       "price_man": 2980,
       "area_sqm": 165.4,
@@ -263,7 +292,7 @@
     },
     "https://www.snjhkk.com/s_r_59259/index.html|静岡県三島市芙蓉台3丁目": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県三島市芙蓉台3丁目",
       "price_man": 1480,
       "area_sqm": 280.5,
@@ -289,37 +318,8 @@
       "zokujinsei": false,
       "machi": "三島市",
       "tab": "home"
-    },
-    "https://www.snjhkk.com/s_r_59162/index.html|静岡県三島市松が丘": {
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
-      "location": "静岡県三島市松が丘",
-      "price_man": 2690,
-      "area_sqm": null,
-      "url": "https://www.snjhkk.com/s_r_59162/index.html",
-      "text": "静岡県三島市松が丘",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "home"
     }
   },
-  "hash": "2d236971c2483218",
-  "fetched_at": "2026-09-25T00:31:44.909284"
+  "hash": "4773282acacd3285",
+  "fetched_at": "2026-09-26T00:39:48.129092"
 }

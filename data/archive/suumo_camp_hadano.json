@@ -186,17 +186,6 @@
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403244/|渋沢１（渋沢駅） 2380万円": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-18",
-    "location": "神奈川県秦野市渋沢１",
-    "price_man": 2380,
-    "area_sqm": 223.7,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403244/",
-    "text": "渋沢１（渋沢駅） 2380万円",
-    "removed_on": "2026-09-19",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79013413/|南矢名２（東海大学前駅） 500万円": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-19",
@@ -294,6 +283,28 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20069343/",
     "text": "今泉（秦野駅） 2180万円",
     "removed_on": "2026-09-25",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_71684436/|【積水ハウス】コモンステージ秦野堀川Ⅲ　≪最短当日見学可能！≫": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-25",
+    "location": "神奈川県秦野市堀川字大門706番13（地番）",
+    "price_man": 1040,
+    "area_sqm": 151.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_71684436/",
+    "text": "【積水ハウス】コモンステージ秦野堀川Ⅲ　≪最短当日見学可能！≫",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21390166/|渋沢 5280万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-25",
+    "location": "神奈川県秦野市渋沢",
+    "price_man": 5280,
+    "area_sqm": 776.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21390166/",
+    "text": "渋沢 5280万円",
+    "removed_on": "2026-09-26",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

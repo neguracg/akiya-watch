@@ -86,5 +86,27 @@
     "text": "JR東海道本線 三島駅 徒歩31分",
     "removed_on": "2026-09-25",
     "site_name": "LIFULL 中古戸建 清水町"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000001/|新築戸建　清水町長沢　Ｂ棟": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "新築戸建　清水町長沢　Ｂ棟",
+    "price_man": 2780,
+    "area_sqm": 109.9,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000001/",
+    "text": "新築戸建　清水町長沢　Ｂ棟",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 清水町"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000003/|新築戸建　清水町長沢　Ａ棟": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "新築戸建　清水町長沢　Ａ棟",
+    "price_man": 2780,
+    "area_sqm": 117.7,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000003/",
+    "text": "新築戸建　清水町長沢　Ａ棟",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 清水町"
   }
 }

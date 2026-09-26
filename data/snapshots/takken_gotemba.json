@@ -1,8 +1,69 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177626/settle/1|売住宅 御殿場市萩原1189-8": {
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "location": "御殿場市萩原1189-8",
+      "price_man": 1980,
+      "area_sqm": 111.2,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177626/settle/1",
+      "text": "売住宅 御殿場市萩原1189-8",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 58.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "御殿場市",
+      "tab": "camp"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1|新築売住宅 御殿場市川島田": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-26",
+      "location": "御殿場市川島田",
+      "price_man": 3698,
+      "area_sqm": 222.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1",
+      "text": "新築売住宅 御殿場市川島田",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "田",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 54.9,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "御殿場市",
+      "tab": "camp"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169866/settle/1|売住宅 御殿場市神山平１丁目": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市神山平１丁目",
       "price_man": 1650,
       "area_sqm": 200.9,
@@ -34,7 +95,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145252/settle/1|売土地 御殿場市東田中1816-7": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市東田中1816-7",
       "price_man": 3980,
       "area_sqm": 507.9,
@@ -67,7 +128,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177479/settle/1|売住宅 御殿場市東田中": {
       "first_seen": "2026-09-19",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市東田中",
       "price_man": 2050,
       "area_sqm": 217.9,
@@ -98,7 +159,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175987/settle/1|売土地 御殿場市保土沢307-8": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市保土沢307-8",
       "price_man": 1565,
       "area_sqm": 298.2,
@@ -130,7 +191,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175990/settle/1|売土地 御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市保土沢",
       "price_man": 1505,
       "area_sqm": 283.9,
@@ -162,7 +223,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174236/settle/1|新築売住宅 御殿場市東田中１丁目": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市東田中１丁目",
       "price_man": 3690,
       "area_sqm": 167.6,
@@ -191,41 +252,9 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1|新築売住宅 御殿場市川島田": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
-      "location": "御殿場市川島田",
-      "price_man": 3798,
-      "area_sqm": 222.8,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1",
-      "text": "新築売住宅 御殿場市川島田",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
-      "chimoku": "田",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 56.4,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175203/settle/1|売土地 御殿場市御殿場311-4": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市御殿場311-4",
       "price_man": 1250,
       "area_sqm": 330.4,
@@ -254,7 +283,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/72789/settle/1|売土地 御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市川島田",
       "price_man": 1360,
       "area_sqm": 209.8,
@@ -286,7 +315,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175154/settle/1|売土地 御殿場市印野2444-1": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市印野2444-1",
       "price_man": 960,
       "area_sqm": 269.0,
@@ -318,7 +347,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154464/settle/1|売土地 御殿場市萩原1343-19": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市萩原1343-19",
       "price_man": 1680,
       "area_sqm": 225.7,
@@ -347,7 +376,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/113902/settle/1|売住宅 御殿場市神山平２丁目2-2": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市神山平２丁目2-2",
       "price_man": 2200,
       "area_sqm": 220.7,
@@ -379,7 +408,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132057/settle/1|売土地 御殿場市中山462-9": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市中山462-9",
       "price_man": 1100,
       "area_sqm": 162.7,
@@ -408,7 +437,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145027/settle/1|売マンション 御殿場市茱萸沢624-1": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市茱萸沢624-1",
       "price_man": 1200,
       "area_sqm": 68.2,
@@ -441,7 +470,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169645/settle/1|売土地 御殿場市保土沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市保土沢",
       "price_man": 912,
       "area_sqm": 167.6,
@@ -473,7 +502,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169648/settle/1|売住宅 御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市川島田",
       "price_man": 3200,
       "area_sqm": 236.8,
@@ -502,7 +531,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173180/settle/1|売土地 御殿場市萩原": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市萩原",
       "price_man": 2350,
       "area_sqm": 407.3,
@@ -534,7 +563,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173448/settle/1|売住宅 御殿場市新橋": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市新橋",
       "price_man": 3200,
       "area_sqm": 590.1,
@@ -563,7 +592,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151041/settle/1|売土地 御殿場市新橋": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市新橋",
       "price_man": 9700,
       "area_sqm": 2762.2,
@@ -595,7 +624,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176501/settle/1|売住宅 御殿場市西田中": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "御殿場市西田中",
       "price_man": 3730,
       "area_sqm": 236.5,
@@ -623,6 +652,6 @@
       "tab": "camp"
     }
   },
-  "hash": "e39893773b538de4",
-  "fetched_at": "2026-09-25T00:49:37.622504"
+  "hash": "1e63dda428cf27cb",
+  "fetched_at": "2026-09-26T00:58:49.031332"
 }

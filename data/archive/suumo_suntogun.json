@@ -394,5 +394,27 @@
     "text": "竹原（下土狩駅） 800万円",
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21153820/|下土狩（下土狩駅） 3180万円": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-25",
+    "location": "静岡県駿東郡長泉町下土狩1044-10",
+    "price_man": 3180,
+    "area_sqm": 225.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21153820/",
+    "text": "下土狩（下土狩駅） 3180万円",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21153844/|下土狩（下土狩駅） 3980万円": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-25",
+    "location": "静岡県駿東郡長泉町下土狩1044-11",
+    "price_man": 3980,
+    "area_sqm": 274.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21153844/",
+    "text": "下土狩（下土狩駅） 3980万円",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

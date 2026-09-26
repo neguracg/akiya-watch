@@ -461,17 +461,6 @@
     "removed_on": "2026-09-10",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|ひろびろ340坪以上！富士山が見えるので見学から楽しい時間が過ごせます！": {
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "ひろびろ340坪以上！富士山が見えるので見学から楽しい時間が過ごせます！",
-    "removed_on": "2026-09-11",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78556148/|☆裾野駅まで徒歩6分の好立地♪生活便利施設も近く住みやすい住宅街。": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-09-12",
@@ -547,6 +536,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77533939/",
     "text": "建築条件無■9/17更新■【ミサワホーム】モデルハウス同時見学可能です",
     "removed_on": "2026-09-25",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|シルバーウィーク見学おすすめ☆富士サファリパーク車約4分☆カフェ近所にあり": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-09-25",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "シルバーウィーク見学おすすめ☆富士サファリパーク車約4分☆カフェ近所にあり",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_79235167/|土地購入をお考えの方におすすめなのがこちらの売地": {
+    "first_seen": "2026-06-28",
+    "last_seen": "2026-09-25",
+    "location": "静岡県裾野市深良440-1",
+    "price_man": 1500,
+    "area_sqm": 807.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_79235167/",
+    "text": "土地購入をお考えの方におすすめなのがこちらの売地",
+    "removed_on": "2026-09-26",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

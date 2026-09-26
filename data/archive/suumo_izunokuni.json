@@ -615,17 +615,6 @@
     "removed_on": "2026-09-10",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利": {
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-10",
-    "location": "静岡県伊豆の国市長崎350-4",
-    "price_man": 1150,
-    "area_sqm": 201.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-    "text": "働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利",
-    "removed_on": "2026-09-11",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|お子様のいる世帯に嬉しい、スーパー車10分圏内が充実！忙しい方の味方な立地": {
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-10",
@@ -767,6 +756,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21145042/",
     "text": "☆順天堂大学付属病院近く。市役所や小学校にも近い生活しやすい立地です。",
     "removed_on": "2026-09-19",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|ファミリーも嬉しい！主要道路へのアクセス◎原木駅徒歩約18分で電車通勤も": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-25",
+    "location": "静岡県伊豆の国市長崎350-6",
+    "price_man": 980,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
+    "text": "ファミリーも嬉しい！主要道路へのアクセス◎原木駅徒歩約18分で電車通勤も",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|親御さんも安心な立地☆大学に自宅から通学も叶える！「原木」駅徒歩約17分☆": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-25",
+    "location": "静岡県伊豆の国市長崎350-4",
+    "price_man": 980,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+    "text": "親御さんも安心な立地☆大学に自宅から通学も叶える！「原木」駅徒歩約17分☆",
+    "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|電車通学が自宅から叶います！原木駅徒歩約18分☆お子様と長く生活しやすい": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-25",
+    "location": "静岡県伊豆の国市長崎350-8",
+    "price_man": 1150,
+    "area_sqm": 201.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/",
+    "text": "電車通学が自宅から叶います！原木駅徒歩約18分☆お子様と長く生活しやすい",
+    "removed_on": "2026-09-26",
     "site_name": "SUUMO 土地 伊豆の国市"
   }
 }

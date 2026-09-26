@@ -922,5 +922,16 @@
     "text": "売土地 沼津市柳町",
     "removed_on": "2026-09-25",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175711/settle/1|新築売住宅 沼津市下香貫牛臥": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-25",
+    "location": "沼津市下香貫牛臥",
+    "price_man": 2790,
+    "area_sqm": 322.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175711/settle/1",
+    "text": "新築売住宅 沼津市下香貫牛臥",
+    "removed_on": "2026-09-26",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

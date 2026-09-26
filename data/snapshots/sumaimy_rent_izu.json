@@ -1,8 +1,39 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168645|貸駐車場 伊豆市牧之郷１８２－1": {
+      "first_seen": "2026-07-25",
+      "last_seen": "2026-09-26",
+      "location": "伊豆市牧之郷１８２－1",
+      "price_man": 0.39,
+      "area_sqm": null,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168645",
+      "text": "貸駐車場 伊豆市牧之郷１８２－1",
+      "shubetsu": "駐車場",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169550|貸戸建住宅 伊豆市牧之郷385-5": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市牧之郷385-5",
       "price_man": 4.0,
       "area_sqm": 29.0,
@@ -34,7 +65,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149506|貸アパート 伊豆市小立野91": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市小立野91",
       "price_man": 4.5,
       "area_sqm": 42.2,
@@ -65,7 +96,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/129554|貸駐車場 伊豆市柏久保1163": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市柏久保1163",
       "price_man": 0.35,
       "area_sqm": null,
@@ -96,7 +127,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/66152|貸戸建住宅 伊豆市関野388": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市関野388",
       "price_man": 4.9,
       "area_sqm": 69.0,
@@ -127,7 +158,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145776|貸事務所 伊豆市熊坂415": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市熊坂415",
       "price_man": 7.4,
       "area_sqm": 38.7,
@@ -158,7 +189,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154432|貸戸建住宅 伊豆市上白岩902-1": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市上白岩902-1",
       "price_man": 5.0,
       "area_sqm": 49.7,
@@ -189,7 +220,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161406|貸アパート 伊豆市修善寺732-32": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市修善寺732-32",
       "price_man": 5.0,
       "area_sqm": 48.9,
@@ -218,7 +249,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171007|貸アパート 伊豆市熊坂415": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市熊坂415",
       "price_man": 8.5,
       "area_sqm": 105.8,
@@ -247,7 +278,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/43601|貸アパート 伊豆市柏久保1181": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市柏久保1181",
       "price_man": 4.0,
       "area_sqm": 33.0,
@@ -276,7 +307,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111380|貸アパート 伊豆市柏久保1181": {
       "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "伊豆市柏久保1181",
       "price_man": 4.0,
       "area_sqm": 33.0,
@@ -302,39 +333,8 @@
       "zokujinsei": false,
       "machi": "伊豆市",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168645|貸駐車場 伊豆市牧之郷１８２－1": {
-      "first_seen": "2026-07-25",
-      "last_seen": "2026-09-25",
-      "location": "伊豆市牧之郷１８２－1",
-      "price_man": 0.39,
-      "area_sqm": null,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168645",
-      "text": "貸駐車場 伊豆市牧之郷１８２－1",
-      "shubetsu": "駐車場",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": "2ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆市",
-      "tab": "rent"
     }
   },
-  "hash": "2191ddb040fc6547",
-  "fetched_at": "2026-09-25T00:53:20.050698"
+  "hash": "c288a58f680f4ca2",
+  "fetched_at": "2026-09-26T01:02:49.426766"
 }

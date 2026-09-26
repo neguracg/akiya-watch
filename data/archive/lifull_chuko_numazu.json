@@ -65,17 +65,6 @@
     "removed_on": "2026-08-21",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1500050000635/|売中古戸建　沼津市東椎路": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "売中古戸建　沼津市東椎路",
-    "price_man": 2280,
-    "area_sqm": 141.0,
-    "url": "https://www.homes.co.jp/kodate/b-1500050000635/",
-    "text": "売中古戸建　沼津市東椎路",
-    "removed_on": "2026-08-21",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1316560004844/|沼津市原町中2丁目　中古戸建": {
     "first_seen": "2026-08-19",
     "last_seen": "2026-08-20",
@@ -84,17 +73,6 @@
     "area_sqm": 122.8,
     "url": "https://www.homes.co.jp/kodate/b-1316560004844/",
     "text": "沼津市原町中2丁目　中古戸建",
-    "removed_on": "2026-08-21",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
-  "https://www.homes.co.jp/kodate/b-33323360000822/|JR東海道本線 沼津駅 バス7分 東下石田下車 徒歩2分": {
-    "first_seen": "2026-08-19",
-    "last_seen": "2026-08-20",
-    "location": "JR東海道本線 沼津駅 バス7分 東下石田下車 徒歩2分",
-    "price_man": 2480,
-    "area_sqm": 172.6,
-    "url": "https://www.homes.co.jp/kodate/b-33323360000822/",
-    "text": "JR東海道本線 沼津駅 バス7分 東下石田下車 徒歩2分",
     "removed_on": "2026-08-21",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
@@ -239,6 +217,61 @@
     "url": "https://www.homes.co.jp/kodate/b-33331490000021/",
     "text": "バス 富士急バス下車 徒歩1分",
     "removed_on": "2026-09-19",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000007/|新築戸建　沼津市原II　Ａ棟": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "新築戸建　沼津市原II　Ａ棟",
+    "price_man": 2780,
+    "area_sqm": 130.0,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000007/",
+    "text": "新築戸建　沼津市原II　Ａ棟",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000069/|新築戸建　沼津市原II　Ｂ棟": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "新築戸建　沼津市原II　Ｂ棟",
+    "price_man": 2780,
+    "area_sqm": 129.0,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000069/",
+    "text": "新築戸建　沼津市原II　Ｂ棟",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000135/|中古戸建　下香貫牛臥": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "中古戸建　下香貫牛臥",
+    "price_man": 2999,
+    "area_sqm": 198.4,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000135/",
+    "text": "中古戸建　下香貫牛臥",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000188/|新築戸建 セキュレア沼津大岡IX　3棟　3号地": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-25",
+    "location": "新築戸建 セキュレア沼津大岡IX　3棟　3号地",
+    "price_man": 4378,
+    "area_sqm": 183.4,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000188/",
+    "text": "新築戸建 セキュレア沼津大岡IX　3棟　3号地",
+    "removed_on": "2026-09-26",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1556780000184/|中古戸建　沼津市三枚橋竹ノ岬": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-09-25",
+    "location": "中古戸建　沼津市三枚橋竹ノ岬",
+    "price_man": 2690,
+    "area_sqm": 109.0,
+    "url": "https://www.homes.co.jp/kodate/b-1556780000184/",
+    "text": "中古戸建　沼津市三枚橋竹ノ岬",
+    "removed_on": "2026-09-26",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

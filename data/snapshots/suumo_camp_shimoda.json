@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76806211/|生活便利": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市高馬",
       "price_man": 325,
       "area_sqm": 223.6,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_79192897/|蓮台寺 400万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市蓮台寺",
       "price_man": 400,
       "area_sqm": 132.9,
@@ -60,7 +60,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782601/|白浜 500万円": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市白浜3011-1",
       "price_man": 500,
       "area_sqm": 9958.0,
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782600/|横川 550万円": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市横川",
       "price_man": 550,
       "area_sqm": 220.4,
@@ -118,7 +118,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782598/|横川（稲梓駅） 550万円": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市横川",
       "price_man": 550,
       "area_sqm": 220.4,
@@ -147,7 +147,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76546962/|六丁目 680万円": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市六丁目",
       "price_man": 680,
       "area_sqm": 148.0,
@@ -174,9 +174,38 @@
       "machi": "下田市",
       "tab": "camp"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782615/|750万円": {
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "location": "静岡県下田市",
+      "price_man": 750,
+      "area_sqm": 514.8,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782615/",
+      "text": "750万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 4.8,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "下田市",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782599/|東中 800万円": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市東中",
       "price_man": 800,
       "area_sqm": 178.8,
@@ -203,9 +232,38 @@
       "machi": "下田市",
       "tab": "camp"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782597/|箕作（稲梓駅） 850万円": {
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26",
+      "location": "静岡県下田市箕作",
+      "price_man": 850,
+      "area_sqm": 385.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21782597/",
+      "text": "箕作（稲梓駅） 850万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 7.3,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "下田市",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110857/|白浜 880万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市白浜",
       "price_man": 880,
       "area_sqm": 232.0,
@@ -234,7 +292,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/|河内（蓮台寺駅） 880万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市河内",
       "price_man": 880,
       "area_sqm": 185.0,
@@ -263,7 +321,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_78110858/|須崎 4330万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-09-26",
       "location": "静岡県下田市須崎",
       "price_man": 4330,
       "area_sqm": 8193.0,
@@ -291,6 +349,6 @@
       "tab": "camp"
     }
   },
-  "hash": "66c5ebddec9b2762",
-  "fetched_at": "2026-09-25T00:41:47.224061"
+  "hash": "3862be4dec7b4884",
+  "fetched_at": "2026-09-26T00:50:35.671267"
 }
