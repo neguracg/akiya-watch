@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59848/index.html|静岡県沼津市錦町本": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "location": "静岡県沼津市錦町本",
       "price_man": 170,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59847/index.html|静岡県沼津市杉崎町": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "location": "静岡県沼津市杉崎町",
       "price_man": 690,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59844/index.html|静岡県沼津市東椎路": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-09-26",
+      "last_seen": "2026-09-27",
       "location": "静岡県沼津市東椎路",
       "price_man": 3398,
       "area_sqm": 166.0,
@@ -86,37 +86,8 @@
       "zokujinsei": false,
       "machi": "沼津市",
       "tab": "home"
-    },
-    "https://www.snjhkk.com/s_r_59801/index.html|静岡県沼津市西椎路": {
-      "first_seen": "2026-09-17",
-      "last_seen": "2026-09-26",
-      "location": "静岡県沼津市西椎路",
-      "price_man": 2880,
-      "area_sqm": 218.0,
-      "url": "https://www.snjhkk.com/s_r_59801/index.html",
-      "text": "静岡県沼津市西椎路",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 43.7,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "home"
     }
   },
-  "hash": "ddcfcbeaa7ba6d7e",
-  "fetched_at": "2026-09-26T00:50:11.148910"
+  "hash": "6bf618eb33ecceff",
+  "fetched_at": "2026-09-27T00:38:21.383421"
 }

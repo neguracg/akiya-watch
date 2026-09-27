@@ -692,17 +692,6 @@
     "removed_on": "2026-08-24",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/|レオパレスサン": {
-    "first_seen": "2026-08-24",
-    "last_seen": "2026-08-24",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 5.3,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/69ffe436b6368dc00a22f295bdfdcf2e165ca803/",
-    "text": "レオパレスサン",
-    "removed_on": "2026-08-25",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/edebcd2fd8e16aed80313fa8828b8067f7607058/|レオパレス伊豆長岡": {
     "first_seen": "2026-08-25",
     "last_seen": "2026-08-25",
@@ -1341,50 +1330,6 @@
     "removed_on": "2026-09-19",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/82fe2dd719439f9bd2e713f0fcdf6e92c4fa551b/|セピアム21": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県伊豆の国市原木",
-    "price_man": 6.5,
-    "area_sqm": 61.0,
-    "url": "https://www.homes.co.jp/chintai/room/82fe2dd719439f9bd2e713f0fcdf6e92c4fa551b/",
-    "text": "セピアム21",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/eed5248aa44a6f15720c326ca00f873efd3aee59/|セピアム21": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県伊豆の国市原木",
-    "price_man": 6.5,
-    "area_sqm": 61.0,
-    "url": "https://www.homes.co.jp/chintai/room/eed5248aa44a6f15720c326ca00f873efd3aee59/",
-    "text": "セピアム21",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/2d0e0495773c76bc2ad201e9311de63ed8ac3974/|セピアム21": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県伊豆の国市原木",
-    "price_man": 6.5,
-    "area_sqm": 65.0,
-    "url": "https://www.homes.co.jp/chintai/room/2d0e0495773c76bc2ad201e9311de63ed8ac3974/",
-    "text": "セピアム21",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/27ecd81a93a2930fb75147f6f8af67fc4ccdd8e6/|セピアム21": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県伊豆の国市原木",
-    "price_man": 6.5,
-    "area_sqm": 61.0,
-    "url": "https://www.homes.co.jp/chintai/room/27ecd81a93a2930fb75147f6f8af67fc4ccdd8e6/",
-    "text": "セピアム21",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/7587a3b95de8ffb80df13a7ebb19d58d8afa566a/|ドルチェ伊豆長岡": {
     "first_seen": "2026-09-07",
     "last_seen": "2026-09-24",
@@ -1526,6 +1471,39 @@
     "url": "https://www.homes.co.jp/chintai/room/fbfc9737ad200200bfce27e46ec5b56610963914/",
     "text": "ポルトフィーノ長岡",
     "removed_on": "2026-09-26",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/148653d02f4b8a6bd50e545731379527eeacc659/|南箱根グラン・ビュー": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "location": "静岡県伊豆の国市奈古谷",
+    "price_man": 6.3,
+    "area_sqm": 45.1,
+    "url": "https://www.homes.co.jp/chintai/room/148653d02f4b8a6bd50e545731379527eeacc659/",
+    "text": "南箱根グラン・ビュー",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/1f7afff8cdaf89f6cf6cfe6e4c95994028dab7ad/|南箱根グラン・ビュー": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "location": "静岡県伊豆の国市奈古谷",
+    "price_man": 7.5,
+    "area_sqm": 56.4,
+    "url": "https://www.homes.co.jp/chintai/room/1f7afff8cdaf89f6cf6cfe6e4c95994028dab7ad/",
+    "text": "南箱根グラン・ビュー",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/717fe476225885efca50bb6ecd239a21fbb6398d/|南箱根グラン・ビュー": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "location": "静岡県伊豆の国市奈古谷",
+    "price_man": 7.5,
+    "area_sqm": 54.5,
+    "url": "https://www.homes.co.jp/chintai/room/717fe476225885efca50bb6ecd239a21fbb6398d/",
+    "text": "南箱根グラン・ビュー",
+    "removed_on": "2026-09-27",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

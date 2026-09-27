@@ -109,15 +109,26 @@
     "removed_on": "2026-08-29",
     "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_59044/index.html|静岡県伊豆の国市長岡": {
-    "first_seen": "2026-06-25",
-    "last_seen": "2026-09-19",
+  "https://www.snjhkk.com/s_r_57996/index.html|静岡県伊豆の国市長岡": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
     "location": "静岡県伊豆の国市長岡",
-    "price_man": 1400,
-    "area_sqm": 354.1,
-    "url": "https://www.snjhkk.com/s_r_59044/index.html",
+    "price_man": 2280,
+    "area_sqm": null,
+    "url": "https://www.snjhkk.com/s_r_57996/index.html",
     "text": "静岡県伊豆の国市長岡",
-    "removed_on": "2026-09-19",
+    "removed_on": "2026-09-27",
+    "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_57585/index.html|静岡県伊豆の国市南條": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "location": "静岡県伊豆の国市南條",
+    "price_man": 750,
+    "area_sqm": 199.5,
+    "url": "https://www.snjhkk.com/s_r_57585/index.html",
+    "text": "静岡県伊豆の国市南條",
+    "removed_on": "2026-09-27",
     "site_name": "家っち(新日本住建販売) 伊豆の国市 土地一覧"
   }
 }

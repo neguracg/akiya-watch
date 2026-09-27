@@ -890,17 +890,6 @@
     "removed_on": "2026-08-17",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/fc51a3de4c177d376f8438fe1f218f29a16f2ea1/|フェリス・カーサ": {
-    "first_seen": "2026-08-11",
-    "last_seen": "2026-08-18",
-    "location": "静岡県三島市萩",
-    "price_man": 7.95,
-    "area_sqm": 39.2,
-    "url": "https://www.homes.co.jp/chintai/room/fc51a3de4c177d376f8438fe1f218f29a16f2ea1/",
-    "text": "フェリス・カーサ",
-    "removed_on": "2026-08-19",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/888ccfa4e61fc17b4b117b1df994ea279300e2b9/|Ｋｏｙｏｍｉ": {
     "first_seen": "2026-08-12",
     "last_seen": "2026-08-18",
@@ -1891,17 +1880,6 @@
     "removed_on": "2026-09-17",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/2c8c396a7bd36bbb562e2c198872c26e15d0d633/|JR東海道本線 三島駅 バス6分 一丁田下車 徒歩5分": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-17",
-    "location": "静岡県三島市壱町田",
-    "price_man": 7.5,
-    "area_sqm": 50.4,
-    "url": "https://www.homes.co.jp/chintai/room/2c8c396a7bd36bbb562e2c198872c26e15d0d633/",
-    "text": "JR東海道本線 三島駅 バス6分 一丁田下車 徒歩5分",
-    "removed_on": "2026-09-18",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/a777cceb099c6e62ce57e619a62872f7acf703e1/|JR東海道本線 三島駅 徒歩8分": {
     "first_seen": "2026-09-10",
     "last_seen": "2026-09-17",
@@ -2098,6 +2076,127 @@
     "url": "https://www.homes.co.jp/chintai/room/b9e7ee6965e57e78dad7603caee90d03d843be80/",
     "text": "パラーシオ",
     "removed_on": "2026-09-26",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/4888fcc9d55d9204c26f6d02f29e7c581a3a711f/|ヴィラ停雲": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市大宮町1丁目10-28",
+    "price_man": 4.5,
+    "area_sqm": 22.5,
+    "url": "https://www.homes.co.jp/chintai/room/4888fcc9d55d9204c26f6d02f29e7c581a3a711f/",
+    "text": "ヴィラ停雲",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/9a4e0de3ae4a34ab2cbb516f4bfd5ae00867904d/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.75,
+    "area_sqm": 47.7,
+    "url": "https://www.homes.co.jp/chintai/room/9a4e0de3ae4a34ab2cbb516f4bfd5ae00867904d/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/6ccfcff6d41a73dfb4bccc7aa1a5db324b5a95d0/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.75,
+    "area_sqm": 47.7,
+    "url": "https://www.homes.co.jp/chintai/room/6ccfcff6d41a73dfb4bccc7aa1a5db324b5a95d0/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/92d3cd6adab01a06616558f48d08d43d25bc3114/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.55,
+    "area_sqm": 47.7,
+    "url": "https://www.homes.co.jp/chintai/room/92d3cd6adab01a06616558f48d08d43d25bc3114/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/48a98fd4b52f4ab5af9c1af826de10d73416bcce/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.55,
+    "area_sqm": 47.7,
+    "url": "https://www.homes.co.jp/chintai/room/48a98fd4b52f4ab5af9c1af826de10d73416bcce/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/d340752b1e587b3d1c848bab160a6000e608b591/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.55,
+    "area_sqm": 47.7,
+    "url": "https://www.homes.co.jp/chintai/room/d340752b1e587b3d1c848bab160a6000e608b591/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/c04ec97f7ec6a4ada8e1295c56047fb725b86577/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.2,
+    "area_sqm": 39.2,
+    "url": "https://www.homes.co.jp/chintai/room/c04ec97f7ec6a4ada8e1295c56047fb725b86577/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/ae97cb67f27a6ca91e9d88b589826a20a0e91a48/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.0,
+    "area_sqm": 39.2,
+    "url": "https://www.homes.co.jp/chintai/room/ae97cb67f27a6ca91e9d88b589826a20a0e91a48/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/9edb8a73077afd7694f18deb077310dcbf9a3d89/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.0,
+    "area_sqm": 39.2,
+    "url": "https://www.homes.co.jp/chintai/room/9edb8a73077afd7694f18deb077310dcbf9a3d89/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/50089da3e332afdc4ad6bd981e412503a386e3b4/|アムール・エ・ペ　II": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市萩",
+    "price_man": 7.0,
+    "area_sqm": 39.2,
+    "url": "https://www.homes.co.jp/chintai/room/50089da3e332afdc4ad6bd981e412503a386e3b4/",
+    "text": "アムール・エ・ペ　II",
+    "removed_on": "2026-09-27",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/1e28f3e8ce340a6afd2519e27ccc2240cbccbf84/|リベラ　エレンシア": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-26",
+    "location": "静岡県三島市川原ケ谷",
+    "price_man": 10.4,
+    "area_sqm": 73.0,
+    "url": "https://www.homes.co.jp/chintai/room/1e28f3e8ce340a6afd2519e27ccc2240cbccbf84/",
+    "text": "リベラ　エレンシア",
+    "removed_on": "2026-09-27",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

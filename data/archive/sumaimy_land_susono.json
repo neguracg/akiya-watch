@@ -1,15 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158630|裾野市公文名": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-17",
-    "location": "裾野市公文名",
-    "price_man": 1390,
-    "area_sqm": 241.1,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158630",
-    "text": "裾野市公文名",
-    "removed_on": "2026-09-17",
-    "site_name": "スマイミー静岡 売土地 裾野市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175940|裾野市茶畑": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-22",
@@ -41,6 +30,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132223",
     "text": "裾野市須山2255-5293",
     "removed_on": "2026-09-25",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164760|裾野市須山": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-26",
+    "location": "裾野市須山",
+    "price_man": 800,
+    "area_sqm": 3173.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164760",
+    "text": "裾野市須山",
+    "removed_on": "2026-09-27",
     "site_name": "スマイミー静岡 売土地 裾野市"
   }
 }

@@ -252,17 +252,6 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/|城ケ崎大型用地【デグチステート】～伊東市～": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-15",
-    "location": "静岡県伊東市富戸",
-    "price_man": 29500,
-    "area_sqm": 66341.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/",
-    "text": "城ケ崎大型用地【デグチステート】～伊東市～",
-    "removed_on": "2026-09-17",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20858161/|【伊東市富戸土地】木々の緑と穏やかな空気に囲まれた富戸エリア。": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-19",
@@ -318,17 +307,6 @@
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/|伊東市竹の内二丁目土地６５６坪の敷地！伊東駅まで徒歩１２分": {
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-09-22",
-    "location": "静岡県伊東市竹の内２-３－３",
-    "price_man": 18092,
-    "area_sqm": 2169.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/",
-    "text": "伊東市竹の内二丁目土地６５６坪の敷地！伊東駅まで徒歩１２分",
-    "removed_on": "2026-09-24",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/|【デグチエステート】伊東市城ケ崎土地": {
     "first_seen": "2026-08-31",
     "last_seen": "2026-09-22",
@@ -338,6 +316,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21214874/",
     "text": "【デグチエステート】伊東市城ケ崎土地",
     "removed_on": "2026-09-24",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/|竹の内２（伊東駅） 1億8092万円": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-26",
+    "location": "静岡県伊東市竹の内２-３－３",
+    "price_man": 18092,
+    "area_sqm": 2169.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21667707/",
+    "text": "竹の内２（伊東駅） 1億8092万円",
+    "removed_on": "2026-09-27",
     "site_name": "SUUMO 土地 伊東市"
   }
 }
