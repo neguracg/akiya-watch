@@ -295,5 +295,27 @@
     "text": "韮山山木（韮山駅） 900万円",
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21594375/|韮山多田富士見ニュータウン 790万円": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-27",
+    "location": "静岡県伊豆の国市韮山多田富士見ニュータウン",
+    "price_man": 790,
+    "area_sqm": 333.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21594375/",
+    "text": "韮山多田富士見ニュータウン 790万円",
+    "removed_on": "2026-09-28",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21376091/|天野 2880万円": {
+    "first_seen": "2026-08-11",
+    "last_seen": "2026-09-27",
+    "location": "静岡県伊豆の国市天野",
+    "price_man": 2880,
+    "area_sqm": 463.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21376091/",
+    "text": "天野 2880万円",
+    "removed_on": "2026-09-28",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
   }
 }

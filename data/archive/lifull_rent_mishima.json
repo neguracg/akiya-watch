@@ -2198,5 +2198,49 @@
     "text": "リベラ　エレンシア",
     "removed_on": "2026-09-27",
     "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/1a9b636f72b79aae8717bd60e8b35c86cc5b2547/|ロワール　23": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-27",
+    "location": "静岡県三島市加茂",
+    "price_man": 6.8,
+    "area_sqm": 57.8,
+    "url": "https://www.homes.co.jp/chintai/room/1a9b636f72b79aae8717bd60e8b35c86cc5b2547/",
+    "text": "ロワール　23",
+    "removed_on": "2026-09-28",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/8de05381ccda24a1203430e983b53f27d873e11a/|ロワール　23": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-09-27",
+    "location": "静岡県三島市加茂",
+    "price_man": 6.8,
+    "area_sqm": 57.8,
+    "url": "https://www.homes.co.jp/chintai/room/8de05381ccda24a1203430e983b53f27d873e11a/",
+    "text": "ロワール　23",
+    "removed_on": "2026-09-28",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/887d2a83706245463e606f898d2112e2da13470d/|ロワール　23": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-27",
+    "location": "静岡県三島市加茂",
+    "price_man": 6.7,
+    "area_sqm": 46.1,
+    "url": "https://www.homes.co.jp/chintai/room/887d2a83706245463e606f898d2112e2da13470d/",
+    "text": "ロワール　23",
+    "removed_on": "2026-09-28",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/6f25df4792a90a68b6714ad0c23a0ec281a8171d/|ロワール　23": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-09-27",
+    "location": "静岡県三島市加茂",
+    "price_man": 6.7,
+    "area_sqm": 46.1,
+    "url": "https://www.homes.co.jp/chintai/room/6f25df4792a90a68b6714ad0c23a0ec281a8171d/",
+    "text": "ロワール　23",
+    "removed_on": "2026-09-28",
+    "site_name": "LIFULL 賃貸 三島市"
   }
 }

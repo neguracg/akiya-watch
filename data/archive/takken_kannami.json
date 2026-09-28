@@ -196,5 +196,16 @@
     "text": "売マンション 田方郡函南町仁田",
     "removed_on": "2026-09-18",
     "site_name": "空き家バンクしずおか 函南町"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/127079/settle/1|売土地 田方郡函南町平井1258番4": {
+    "first_seen": "2026-07-09",
+    "last_seen": "2026-09-27",
+    "location": "田方郡函南町平井1258番4",
+    "price_man": 280,
+    "area_sqm": 99.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/127079/settle/1",
+    "text": "売土地 田方郡函南町平井1258番4",
+    "removed_on": "2026-09-28",
+    "site_name": "空き家バンクしずおか 函南町"
   }
 }
