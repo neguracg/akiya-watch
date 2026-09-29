@@ -152,5 +152,16 @@
     "text": "セフィラオオムラ",
     "removed_on": "2026-09-25",
     "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030010620000000005032380504/|La・Casa": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-28",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 12.2,
+    "area_sqm": 86.1,
+    "url": "https://www.chintai.net/detail/bk-C030010620000000005032380504/",
+    "text": "La・Casa",
+    "removed_on": "2026-09-29",
+    "site_name": "CHINTAI 伊豆の国市"
   }
 }

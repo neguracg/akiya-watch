@@ -263,28 +263,6 @@
     "removed_on": "2026-09-01",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1490460002293/|伊豆の国市北江間　中古戸建": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "伊豆の国市北江間　中古戸建",
-    "price_man": 650,
-    "area_sqm": 200.2,
-    "url": "https://www.homes.co.jp/kodate/b-1490460002293/",
-    "text": "伊豆の国市北江間　中古戸建",
-    "removed_on": "2026-09-01",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
-  "https://www.homes.co.jp/kodate/b-33303660001172/|富士見ニュータウン": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-09-01",
-    "location": "富士見ニュータウン",
-    "price_man": 250,
-    "area_sqm": 246.3,
-    "url": "https://www.homes.co.jp/kodate/b-33303660001172/",
-    "text": "富士見ニュータウン",
-    "removed_on": "2026-09-01",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1500050000713/|売中古戸建　伊豆の国市墹之上": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-10",
@@ -349,6 +327,28 @@
     "url": "https://www.homes.co.jp/kodate/b-33334000000029/",
     "text": "伊豆の国市天野戸建て",
     "removed_on": "2026-09-28",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000270/|売中古戸建　伊豆の国市大仁": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-28",
+    "location": "売中古戸建　伊豆の国市大仁",
+    "price_man": 3200,
+    "area_sqm": 160.6,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000270/",
+    "text": "売中古戸建　伊豆の国市大仁",
+    "removed_on": "2026-09-29",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000602/|売中古戸建　伊豆の国市大仁": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-28",
+    "location": "売中古戸建　伊豆の国市大仁",
+    "price_man": 1800,
+    "area_sqm": 210.7,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000602/",
+    "text": "売中古戸建　伊豆の国市大仁",
+    "removed_on": "2026-09-29",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

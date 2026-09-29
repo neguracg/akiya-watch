@@ -317,5 +317,16 @@
     "text": "南矢名 1200万円",
     "removed_on": "2026-09-28",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_73906494/|上大槻（秦野駅） 780万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-28",
+    "location": "神奈川県秦野市上大槻959番地6",
+    "price_man": 780,
+    "area_sqm": 149.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_73906494/",
+    "text": "上大槻（秦野駅） 780万円",
+    "removed_on": "2026-09-29",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

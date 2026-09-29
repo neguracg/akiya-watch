@@ -120,17 +120,6 @@
     "removed_on": "2026-09-13",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1265050001981/|裾野市金沢 (岩波駅)": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-09-20",
-    "location": "裾野市金沢 (岩波駅)",
-    "price_man": 3400,
-    "area_sqm": 681.3,
-    "url": "https://www.homes.co.jp/tochi/b-1265050001981/",
-    "text": "裾野市金沢 (岩波駅)",
-    "removed_on": "2026-09-24",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-33328330000545/|裾野市須山 (十里木高原7丁目)": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-24",
@@ -164,15 +153,26 @@
     "removed_on": "2026-09-28",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1265050002073/|裾野市今里 (岩波駅)": {
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-09-27",
-    "location": "裾野市今里 (岩波駅)",
-    "price_man": 700,
-    "area_sqm": 191.3,
-    "url": "https://www.homes.co.jp/tochi/b-1265050002073/",
-    "text": "裾野市今里 (岩波駅)",
-    "removed_on": "2026-09-28",
+  "https://www.homes.co.jp/tochi/b-1556780000073/|裾野市須山 (岩波駅)": {
+    "first_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
+    "location": "裾野市須山 (岩波駅)",
+    "price_man": 1100,
+    "area_sqm": 3582.0,
+    "url": "https://www.homes.co.jp/tochi/b-1556780000073/",
+    "text": "裾野市須山 (岩波駅)",
+    "removed_on": "2026-09-29",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1436870001951/|裾野市平松 (裾野駅)": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-28",
+    "location": "裾野市平松 (裾野駅)",
+    "price_man": 1880,
+    "area_sqm": 279.5,
+    "url": "https://www.homes.co.jp/tochi/b-1436870001951/",
+    "text": "裾野市平松 (裾野駅)",
+    "removed_on": "2026-09-29",
     "site_name": "LIFULL 土地 裾野市"
   }
 }

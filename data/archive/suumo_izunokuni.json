@@ -659,17 +659,6 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！": {
-    "first_seen": "2026-09-11",
-    "last_seen": "2026-09-13",
-    "location": "静岡県伊豆の国市長崎350-4",
-    "price_man": 1150,
-    "area_sqm": 201.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-    "text": "マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！",
-    "removed_on": "2026-09-15",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|お子様のいる世帯オススメ！敷地ゆったり約60坪☆主要道路へアクセス◎": {
     "first_seen": "2026-09-11",
     "last_seen": "2026-09-13",
@@ -778,6 +767,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/",
     "text": "電車通学が自宅から叶います！原木駅徒歩約18分☆お子様と長く生活しやすい",
     "removed_on": "2026-09-26",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-28",
+    "location": "静岡県伊豆の国市長崎350-4",
+    "price_man": 980,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+    "text": "働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利",
+    "removed_on": "2026-09-29",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-28",
+    "location": "静岡県伊豆の国市長崎350-6",
+    "price_man": 980,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
+    "text": "マイカー通勤に！国道136まで約1.2ｋｍ☆車10分圏内のスーパーも充実！",
+    "removed_on": "2026-09-29",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|主要道路へアクセス◎スーパーが車10分圏内に充実の生活利便性の高さが魅力": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-28",
+    "location": "静岡県伊豆の国市長崎350-8",
+    "price_man": 1150,
+    "area_sqm": 201.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/",
+    "text": "主要道路へアクセス◎スーパーが車10分圏内に充実の生活利便性の高さが魅力",
+    "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 伊豆の国市"
   }
 }

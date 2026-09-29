@@ -471,5 +471,16 @@
     "text": "売土地 三島市幸原町２丁目",
     "removed_on": "2026-09-28",
     "site_name": "空き家バンクしずおか 三島市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173520/settle/1|売土地 三島市徳倉４丁目": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-09-28",
+    "location": "三島市徳倉４丁目",
+    "price_man": 1280,
+    "area_sqm": 314.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173520/settle/1",
+    "text": "売土地 三島市徳倉４丁目",
+    "removed_on": "2026-09-29",
+    "site_name": "空き家バンクしずおか 三島市"
   }
 }

@@ -262,5 +262,60 @@
     "text": "伊豆市熊坂",
     "removed_on": "2026-09-26",
     "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159813|伊豆市修善寺": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-28",
+    "location": "伊豆市修善寺",
+    "price_man": 500,
+    "area_sqm": 457.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159813",
+    "text": "伊豆市修善寺",
+    "removed_on": "2026-09-29",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159136|伊豆市下白岩": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-28",
+    "location": "伊豆市下白岩",
+    "price_man": 150,
+    "area_sqm": 500.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159136",
+    "text": "伊豆市下白岩",
+    "removed_on": "2026-09-29",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140120|伊豆市下白岩": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-28",
+    "location": "伊豆市下白岩",
+    "price_man": 1,
+    "area_sqm": 510.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140120",
+    "text": "伊豆市下白岩",
+    "removed_on": "2026-09-29",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143115|伊豆市徳永": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-28",
+    "location": "伊豆市徳永",
+    "price_man": 10000,
+    "area_sqm": 268779.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143115",
+    "text": "伊豆市徳永",
+    "removed_on": "2026-09-29",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/124683|伊豆市上白岩1876-50": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-28",
+    "location": "伊豆市上白岩1876-50",
+    "price_man": 50,
+    "area_sqm": 263.1,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/124683",
+    "text": "伊豆市上白岩1876-50",
+    "removed_on": "2026-09-29",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
   }
 }

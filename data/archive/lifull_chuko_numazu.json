@@ -241,17 +241,6 @@
     "removed_on": "2026-09-27",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1541500000001/|沼津市吉田町戸建": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-09-26",
-    "location": "沼津市吉田町戸建",
-    "price_man": 2000,
-    "area_sqm": 102.5,
-    "url": "https://www.homes.co.jp/kodate/b-1541500000001/",
-    "text": "沼津市吉田町戸建",
-    "removed_on": "2026-09-27",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1265050002084/|沼津市青野中古住宅": {
     "first_seen": "2026-09-26",
     "last_seen": "2026-09-26",
@@ -283,6 +272,50 @@
     "url": "https://www.homes.co.jp/kodate/b-1265050002520/",
     "text": "沼津市大岡中古住宅",
     "removed_on": "2026-09-28",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000672/|JR御殿場線 大岡駅 徒歩32分": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-28",
+    "location": "JR御殿場線 大岡駅 徒歩32分",
+    "price_man": 2080,
+    "area_sqm": 153.9,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000672/",
+    "text": "JR御殿場線 大岡駅 徒歩32分",
+    "removed_on": "2026-09-29",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000710/|売中古戸建　沼津市江原町": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-09-28",
+    "location": "売中古戸建　沼津市江原町",
+    "price_man": 4178,
+    "area_sqm": 109.2,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000710/",
+    "text": "売中古戸建　沼津市江原町",
+    "removed_on": "2026-09-29",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000490/|売中古戸建　沼津市北今沢": {
+    "first_seen": "2026-07-24",
+    "last_seen": "2026-09-28",
+    "location": "売中古戸建　沼津市北今沢",
+    "price_man": 2980,
+    "area_sqm": 235.0,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000490/",
+    "text": "売中古戸建　沼津市北今沢",
+    "removed_on": "2026-09-29",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000635/|売中古戸建　沼津市東椎路": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-28",
+    "location": "売中古戸建　沼津市東椎路",
+    "price_man": 2280,
+    "area_sqm": 141.0,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000635/",
+    "text": "売中古戸建　沼津市東椎路",
+    "removed_on": "2026-09-29",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }
