@@ -504,5 +504,16 @@
     "text": "売中古戸建　三島市徳倉3丁目",
     "removed_on": "2026-09-29",
     "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460001920/|三島市東大場1丁目　中古戸建": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "location": "三島市東大場1丁目　中古戸建",
+    "price_man": 2980,
+    "area_sqm": 209.7,
+    "url": "https://www.homes.co.jp/kodate/b-1490460001920/",
+    "text": "三島市東大場1丁目　中古戸建",
+    "removed_on": "2026-09-30",
+    "site_name": "LIFULL 中古戸建 三島市"
   }
 }

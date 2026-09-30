@@ -142,17 +142,6 @@
     "removed_on": "2026-08-14",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-33303660000993/|JR東海道本線 熱海駅 16km": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-08-15",
-    "location": "JR東海道本線 熱海駅 16km",
-    "price_man": 1350,
-    "area_sqm": 416.0,
-    "url": "https://www.homes.co.jp/kodate/b-33303660000993/",
-    "text": "JR東海道本線 熱海駅 16km",
-    "removed_on": "2026-08-16",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-33332300000035/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩29分": {
     "first_seen": "2026-08-14",
     "last_seen": "2026-08-16",
@@ -349,6 +338,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1500050000602/",
     "text": "売中古戸建　伊豆の国市大仁",
     "removed_on": "2026-09-29",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33303660001149/|JR東海道本線 熱海駅 13.5km": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-09-29",
+    "location": "JR東海道本線 熱海駅 13.5km",
+    "price_man": 1180,
+    "area_sqm": 245.8,
+    "url": "https://www.homes.co.jp/kodate/b-33303660001149/",
+    "text": "JR東海道本線 熱海駅 13.5km",
+    "removed_on": "2026-09-30",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

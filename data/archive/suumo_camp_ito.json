@@ -317,5 +317,27 @@
     "text": "竹の内２（伊東駅） 1億8092万円",
     "removed_on": "2026-09-27",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21670594/|桜ガ丘２（南伊東駅） 4200万円": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-09-29",
+    "location": "静岡県伊東市桜ガ丘２",
+    "price_man": 4200,
+    "area_sqm": 743.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21670594/",
+    "text": "桜ガ丘２（南伊東駅） 4200万円",
+    "removed_on": "2026-09-30",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77713425/|玖須美元和田（川奈駅） 6500万円": {
+    "first_seen": "2026-08-31",
+    "last_seen": "2026-09-29",
+    "location": "静岡県伊東市玖須美元和田",
+    "price_man": 6500,
+    "area_sqm": 2265.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77713425/",
+    "text": "玖須美元和田（川奈駅） 6500万円",
+    "removed_on": "2026-09-30",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

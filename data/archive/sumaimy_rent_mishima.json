@@ -449,5 +449,16 @@
     "text": "貸アパート 三島市谷田100-6",
     "removed_on": "2026-09-29",
     "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172008|貸マンション 三島市一番町18-25": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-09-29",
+    "location": "三島市一番町18-25",
+    "price_man": 15.0,
+    "area_sqm": 64.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172008",
+    "text": "貸マンション 三島市一番町18-25",
+    "removed_on": "2026-09-30",
+    "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

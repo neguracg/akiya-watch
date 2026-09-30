@@ -219,17 +219,6 @@
     "removed_on": "2026-09-26",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78943124/|住みやすい空間の条件の1つに前面道路が6m以上あるところを入れてみては": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-25",
-    "location": "静岡県静岡市清水区三保",
-    "price_man": 698,
-    "area_sqm": 234.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78943124/",
-    "text": "住みやすい空間の条件の1つに前面道路が6m以上あるところを入れてみては",
-    "removed_on": "2026-09-26",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78607329/|NEW PRICE！徒歩圏内にイオン清水店があり買物も便利な立地です♪": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-25",
@@ -294,6 +283,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/",
     "text": "☆９月２４日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分",
     "removed_on": "2026-09-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20002297/|解体更地渡し可・建築条件無！！！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-09-29",
+    "location": "静岡県静岡市清水区有東坂１",
+    "price_man": 3500,
+    "area_sqm": 297.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20002297/",
+    "text": "解体更地渡し可・建築条件無！！！",
+    "removed_on": "2026-09-30",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

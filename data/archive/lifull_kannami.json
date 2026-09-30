@@ -65,17 +65,6 @@
     "removed_on": "2026-09-27",
     "site_name": "LIFULL 土地 函南町"
   },
-  "https://www.homes.co.jp/tochi/b-1220300000713/|田方郡函南町柏谷 (大場駅)": {
-    "first_seen": "2026-09-24",
-    "last_seen": "2026-09-26",
-    "location": "田方郡函南町柏谷 (大場駅)",
-    "price_man": 529,
-    "area_sqm": 189.7,
-    "url": "https://www.homes.co.jp/tochi/b-1220300000713/",
-    "text": "田方郡函南町柏谷 (大場駅)",
-    "removed_on": "2026-09-27",
-    "site_name": "LIFULL 土地 函南町"
-  },
   "https://www.homes.co.jp/tochi/b-33306070000012/|田方郡函南町平井 (大場駅)": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-27",
@@ -162,6 +151,17 @@
     "url": "https://www.homes.co.jp/tochi/b-1500050000469/",
     "text": "田方郡函南町柏谷 (伊豆仁田駅)",
     "removed_on": "2026-09-29",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-1265050002636/|田方郡函南町肥田 (伊豆仁田駅)": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-29",
+    "location": "田方郡函南町肥田 (伊豆仁田駅)",
+    "price_man": 680,
+    "area_sqm": 252.6,
+    "url": "https://www.homes.co.jp/tochi/b-1265050002636/",
+    "text": "田方郡函南町肥田 (伊豆仁田駅)",
+    "removed_on": "2026-09-30",
     "site_name": "LIFULL 土地 函南町"
   }
 }
