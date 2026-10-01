@@ -328,5 +328,38 @@
     "text": "上大槻（秦野駅） 780万円",
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/|西田原 1280万円": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-30",
+    "location": "神奈川県秦野市西田原",
+    "price_man": 1280,
+    "area_sqm": 155.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/",
+    "text": "西田原 1280万円",
+    "removed_on": "2026-10-01",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/|渋沢（渋沢駅） 1380万円": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-30",
+    "location": "神奈川県秦野市渋沢1428-3",
+    "price_man": 1380,
+    "area_sqm": 147.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/",
+    "text": "渋沢（渋沢駅） 1380万円",
+    "removed_on": "2026-10-01",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21200646/|今泉（秦野駅） 1600万円": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-09-30",
+    "location": "神奈川県秦野市今泉281-1",
+    "price_man": 1600,
+    "area_sqm": 151.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21200646/",
+    "text": "今泉（秦野駅） 1600万円",
+    "removed_on": "2026-10-01",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

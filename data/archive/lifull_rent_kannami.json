@@ -1121,39 +1121,6 @@
     "removed_on": "2026-09-18",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-18",
-    "location": "静岡県田方郡函南町仁田191-6",
-    "price_man": 7.4,
-    "area_sqm": 62.8,
-    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
-    "text": "オーポン　ヒルズ",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/|セリアージュ": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-18",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.37,
-    "area_sqm": 66.2,
-    "url": "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/",
-    "text": "セリアージュ",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/bc705ff8d429d3220f24759951432ec38be1fc50/|セリアージュ": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-18",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.6,
-    "area_sqm": 54.5,
-    "url": "https://www.homes.co.jp/chintai/room/bc705ff8d429d3220f24759951432ec38be1fc50/",
-    "text": "セリアージュ",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/9afb4ab4f9d6e309a2169c99516f2d0484e87ad6/|セリアージュ": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-18",
@@ -1462,48 +1429,37 @@
     "removed_on": "2026-09-30",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/792dddac9994b3d51b5447378b60c2bcfaf0c6f6/|ＫＭＴ沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-29",
+  "https://www.homes.co.jp/chintai/room/ae14b9f559487c7e99738be0064fd09275f7aa08/|ロイヤルレジデンス　Ｃ": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-09-30",
     "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://www.homes.co.jp/chintai/room/792dddac9994b3d51b5447378b60c2bcfaf0c6f6/",
-    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
-    "removed_on": "2026-09-30",
+    "price_man": 7.9,
+    "area_sqm": 67.1,
+    "url": "https://www.homes.co.jp/chintai/room/ae14b9f559487c7e99738be0064fd09275f7aa08/",
+    "text": "ロイヤルレジデンス　Ｃ",
+    "removed_on": "2026-10-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/d70c5fb4314a0e22339789288cd86bf24c55e50e/|ＫＭＴ沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://www.homes.co.jp/chintai/room/d70c5fb4314a0e22339789288cd86bf24c55e50e/",
-    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
-    "removed_on": "2026-09-30",
+  "https://www.homes.co.jp/chintai/room/4b5564fd2530a643de7675a6939212f56cb2b01a/|ひまわりはうすII": {
+    "first_seen": "2026-08-19",
+    "last_seen": "2026-09-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 8.8,
+    "area_sqm": 76.0,
+    "url": "https://www.homes.co.jp/chintai/room/4b5564fd2530a643de7675a6939212f56cb2b01a/",
+    "text": "ひまわりはうすII",
+    "removed_on": "2026-10-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/b5a889dec27b868de392733ed40b689b5f95789b/|ＫＭＴ沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://www.homes.co.jp/chintai/room/b5a889dec27b868de392733ed40b689b5f95789b/",
-    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
-    "removed_on": "2026-09-30",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/6d4a1f425d1714614a113ca7b8846e91824b3552/|ＫＭＴ沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://www.homes.co.jp/chintai/room/6d4a1f425d1714614a113ca7b8846e91824b3552/",
-    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
-    "removed_on": "2026-09-30",
+  "https://www.homes.co.jp/chintai/room/8b101a2c391f78a1b989696cbbde2578dffd7057/|ひまわりはうすII": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-09-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 8.8,
+    "area_sqm": 76.0,
+    "url": "https://www.homes.co.jp/chintai/room/8b101a2c391f78a1b989696cbbde2578dffd7057/",
+    "text": "ひまわりはうすII",
+    "removed_on": "2026-10-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

@@ -164,37 +164,15 @@
     "removed_on": "2026-09-26",
     "site_name": "LIFULL 土地 清水町"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000679/|駿東郡清水町徳倉 (伊豆仁田駅)": {
-    "first_seen": "2026-07-10",
-    "last_seen": "2026-09-28",
-    "location": "駿東郡清水町徳倉 (伊豆仁田駅)",
-    "price_man": 1580,
-    "area_sqm": 367.5,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000679/",
-    "text": "駿東郡清水町徳倉 (伊豆仁田駅)",
-    "removed_on": "2026-09-29",
-    "site_name": "LIFULL 土地 清水町"
-  },
-  "https://www.homes.co.jp/tochi/b-1500050000474/|駿東郡清水町長沢 (大岡駅)": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-09-28",
-    "location": "駿東郡清水町長沢 (大岡駅)",
-    "price_man": 700,
-    "area_sqm": 83.9,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000474/",
-    "text": "駿東郡清水町長沢 (大岡駅)",
-    "removed_on": "2026-09-29",
-    "site_name": "LIFULL 土地 清水町"
-  },
-  "https://www.homes.co.jp/tochi/b-1500050000401/|駿東郡清水町徳倉 (大場駅)": {
-    "first_seen": "2026-06-19",
-    "last_seen": "2026-09-28",
-    "location": "駿東郡清水町徳倉 (大場駅)",
-    "price_man": 1390,
-    "area_sqm": 254.0,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000401/",
-    "text": "駿東郡清水町徳倉 (大場駅)",
-    "removed_on": "2026-09-29",
+  "https://www.homes.co.jp/tochi/b-1571200000005/|駿東郡清水町新宿": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-09-30",
+    "location": "駿東郡清水町新宿",
+    "price_man": 4380,
+    "area_sqm": 302.2,
+    "url": "https://www.homes.co.jp/tochi/b-1571200000005/",
+    "text": "駿東郡清水町新宿",
+    "removed_on": "2026-10-01",
     "site_name": "LIFULL 土地 清水町"
   }
 }

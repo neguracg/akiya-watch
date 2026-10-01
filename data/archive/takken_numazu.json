@@ -1054,5 +1054,16 @@
     "text": "売工場 沼津市原",
     "removed_on": "2026-09-30",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175405/settle/1|売住宅 沼津市岡宮": {
+    "first_seen": "2026-07-18",
+    "last_seen": "2026-09-30",
+    "location": "沼津市岡宮",
+    "price_man": 1500,
+    "area_sqm": 155.4,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175405/settle/1",
+    "text": "売住宅 沼津市岡宮",
+    "removed_on": "2026-10-01",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

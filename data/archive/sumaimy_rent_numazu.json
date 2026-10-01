@@ -5113,5 +5113,60 @@
     "text": "貸店舗・事務所 沼津市高沢町",
     "removed_on": "2026-09-30",
     "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173538|貸アパート 沼津市西間門34-4": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "location": "沼津市西間門34-4",
+    "price_man": 4.9,
+    "area_sqm": 29.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173538",
+    "text": "貸アパート 沼津市西間門34-4",
+    "removed_on": "2026-10-01",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/40429|貸マンション 沼津市中瀬町1-3": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "location": "沼津市中瀬町1-3",
+    "price_man": 6.5,
+    "area_sqm": 44.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/40429",
+    "text": "貸マンション 沼津市中瀬町1-3",
+    "removed_on": "2026-10-01",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175718|貸アパート 沼津市大岡1260-2": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "location": "沼津市大岡1260-2",
+    "price_man": 6.25,
+    "area_sqm": 33.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175718",
+    "text": "貸アパート 沼津市大岡1260-2",
+    "removed_on": "2026-10-01",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173053|貸アパート 沼津市下香貫七面1156": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "location": "沼津市下香貫七面1156",
+    "price_man": 7.1,
+    "area_sqm": 50.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173053",
+    "text": "貸アパート 沼津市下香貫七面1156",
+    "removed_on": "2026-10-01",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176319|貸アパート 沼津市西椎路811-1": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
+    "location": "沼津市西椎路811-1",
+    "price_man": 4.25,
+    "area_sqm": 42.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176319",
+    "text": "貸アパート 沼津市西椎路811-1",
+    "removed_on": "2026-10-01",
+    "site_name": "スマイミー静岡 賃貸 沼津市"
   }
 }
