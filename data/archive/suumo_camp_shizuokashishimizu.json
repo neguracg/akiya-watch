@@ -295,5 +295,38 @@
     "text": "解体更地渡し可・建築条件無！！！",
     "removed_on": "2026-09-30",
     "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_76175382/|全５区画！　１区画４０坪以上！": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-01",
+    "location": "静岡県静岡市清水区楠353-4他",
+    "price_man": 1380,
+    "area_sqm": 138.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_76175382/",
+    "text": "全５区画！　１区画４０坪以上！",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21711238/|小中学校徒歩１０分圏内◎建築条件無し◎": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-01",
+    "location": "静岡県静岡市清水区堂林２-16-3",
+    "price_man": 2150,
+    "area_sqm": 143.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21711238/",
+    "text": "小中学校徒歩１０分圏内◎建築条件無し◎",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21151749/|☆建築条件なし分譲地☆間口広々並列3台駐車可能": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-01",
+    "location": "静岡県静岡市清水区吉川835",
+    "price_man": 2300,
+    "area_sqm": 139.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21151749/",
+    "text": "☆建築条件なし分譲地☆間口広々並列3台駐車可能",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

@@ -416,5 +416,16 @@
     "text": "下土狩（下土狩駅） 3980万円",
     "removed_on": "2026-09-26",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21742312/|下土狩（三島駅） 999万円": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-01",
+    "location": "静岡県駿東郡長泉町下土狩1-7",
+    "price_man": 999,
+    "area_sqm": 74.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21742312/",
+    "text": "下土狩（三島駅） 999万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

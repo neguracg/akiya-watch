@@ -1461,5 +1461,27 @@
     "text": "ひまわりはうすII",
     "removed_on": "2026-10-01",
     "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d9ba707e57802e16ef1698206e7f9a5e4d068600/|ロイヤルレジデンス　Ｃ": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-10-01",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.9,
+    "area_sqm": 67.1,
+    "url": "https://www.homes.co.jp/chintai/room/d9ba707e57802e16ef1698206e7f9a5e4d068600/",
+    "text": "ロイヤルレジデンス　Ｃ",
+    "removed_on": "2026-10-02",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/2fdf123aaba0d2555f968ed1e329662d40436787/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩4分": {
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-01",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.9,
+    "area_sqm": 68.8,
+    "url": "https://www.homes.co.jp/chintai/room/2fdf123aaba0d2555f968ed1e329662d40436787/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩4分",
+    "removed_on": "2026-10-02",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

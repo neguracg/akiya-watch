@@ -438,5 +438,27 @@
     "text": "南西道路の７３坪",
     "removed_on": "2026-09-30",
     "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21233763/|安倍口新田 890万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-01",
+    "location": "静岡県静岡市葵区安倍口新田500-26",
+    "price_man": 890,
+    "area_sqm": 145.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21233763/",
+    "text": "安倍口新田 890万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20176398/|水落町（静岡駅） 7480万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-01",
+    "location": "静岡県静岡市葵区水落町",
+    "price_man": 7480,
+    "area_sqm": 279.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20176398/",
+    "text": "水落町（静岡駅） 7480万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

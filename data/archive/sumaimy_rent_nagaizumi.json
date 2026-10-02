@@ -120,28 +120,6 @@
     "removed_on": "2026-09-30",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978|貸戸建住宅 駿東郡長泉町下土狩105-28": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-29",
-    "location": "駿東郡長泉町下土狩105-28",
-    "price_man": 10.0,
-    "area_sqm": 94.2,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171978",
-    "text": "貸戸建住宅 駿東郡長泉町下土狩105-28",
-    "removed_on": "2026-09-30",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291|貸マンション 駿東郡長泉町下土狩175-7": {
-    "first_seen": "2026-09-05",
-    "last_seen": "2026-09-29",
-    "location": "駿東郡長泉町下土狩175-7",
-    "price_man": 6.5,
-    "area_sqm": 58.4,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154291",
-    "text": "貸マンション 駿東郡長泉町下土狩175-7",
-    "removed_on": "2026-09-30",
-    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137376|貸戸建住宅 駿東郡長泉町東野515-126": {
     "first_seen": "2026-09-05",
     "last_seen": "2026-09-29",
@@ -151,6 +129,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137376",
     "text": "貸戸建住宅 駿東郡長泉町東野515-126",
     "removed_on": "2026-09-30",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176312|貸アパート 駿東郡長泉町納米里461-13": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-01",
+    "location": "駿東郡長泉町納米里461-13",
+    "price_man": 5.2,
+    "area_sqm": 29.7,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176312",
+    "text": "貸アパート 駿東郡長泉町納米里461-13",
+    "removed_on": "2026-10-02",
+    "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278|貸アパート 駿東郡長泉町下土狩323-18": {
+    "first_seen": "2026-09-10",
+    "last_seen": "2026-10-01",
+    "location": "駿東郡長泉町下土狩323-18",
+    "price_man": 4.8,
+    "area_sqm": 39.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140278",
+    "text": "貸アパート 駿東郡長泉町下土狩323-18",
+    "removed_on": "2026-10-02",
     "site_name": "スマイミー静岡 賃貸 駿東郡長泉町"
   }
 }

@@ -1186,5 +1186,16 @@
     "text": "☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。",
     "removed_on": "2026-09-30",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78465292/|平垣（柚木駅） 1700万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-01",
+    "location": "静岡県富士市平垣字天神河原152番3他",
+    "price_man": 1700,
+    "area_sqm": 150.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78465292/",
+    "text": "平垣（柚木駅） 1700万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

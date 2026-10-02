@@ -218,5 +218,27 @@
     "text": "売住宅 伊豆の国市奈古谷エメラルドタウン",
     "removed_on": "2026-09-30",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165205/settle/1|売住宅 伊豆の国市奈古谷": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-01",
+    "location": "伊豆の国市奈古谷",
+    "price_man": 550,
+    "area_sqm": 358.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165205/settle/1",
+    "text": "売住宅 伊豆の国市奈古谷",
+    "removed_on": "2026-10-02",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177449/settle/1|売マンション 伊豆の国市長岡": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-01",
+    "location": "伊豆の国市長岡",
+    "price_man": 1080,
+    "area_sqm": 79.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177449/settle/1",
+    "text": "売マンション 伊豆の国市長岡",
+    "removed_on": "2026-10-02",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

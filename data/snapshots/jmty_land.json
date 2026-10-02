@@ -2,7 +2,7 @@
   "keys": {
     "https://jmty.jp/shizuoka/est-land/article-1fvz1c|№E526【静岡県伊豆の国市奈古谷】別荘地（山林）1筆あげます！...": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 伊豆の国市 原木駅 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 272.0,
@@ -33,7 +33,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1mbxm9|分譲宅地　伊豆の国市大仁Ａ　139㎡（42坪）": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 650,
       "area_sqm": 139.0,
@@ -62,7 +62,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1mbxm5|480→350万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡（40坪）": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 350,
       "area_sqm": 132.0,
@@ -91,7 +91,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-19fibm|価格応談　分譲宅地２区画まとめて　静岡県伊豆の国市　投資・建売用...": {
       "first_seen": "2026-09-19",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": null,
@@ -120,7 +120,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1k2pcw|No.E811【静岡県伊豆の国市中】別荘地1筆あげます！": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 228.0,
@@ -151,7 +151,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-02",
       "location": "静岡 裾野市 御殿場駅 土地販売/土地売買",
       "price_man": 28,
       "area_sqm": null,
@@ -181,6 +181,6 @@
       "tab": "home"
     }
   },
-  "hash": "318eee408bcba3cd",
-  "fetched_at": "2026-10-01T01:05:46.892817"
+  "hash": "ec3de76afd6a4fdc",
+  "fetched_at": "2026-10-02T01:19:50.395344"
 }

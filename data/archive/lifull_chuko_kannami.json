@@ -130,5 +130,16 @@
     "text": "函南町上沢中古住宅 離れ付",
     "removed_on": "2026-10-01",
     "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1111450005068/|南箱根ダイヤランド　売戸建": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-10-01",
+    "location": "南箱根ダイヤランド　売戸建",
+    "price_man": 1980,
+    "area_sqm": 374.0,
+    "url": "https://www.homes.co.jp/kodate/b-1111450005068/",
+    "text": "南箱根ダイヤランド　売戸建",
+    "removed_on": "2026-10-02",
+    "site_name": "LIFULL 中古戸建 函南町"
   }
 }

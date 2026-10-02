@@ -53,5 +53,16 @@
     "text": "売土地 御殿場市保土沢",
     "removed_on": "2026-09-30",
     "site_name": "空き家バンクしずおか 御殿場市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177626/settle/1|売住宅 御殿場市萩原1189-8": {
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-10-01",
+    "location": "御殿場市萩原1189-8",
+    "price_man": 1980,
+    "area_sqm": 111.2,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177626/settle/1",
+    "text": "売住宅 御殿場市萩原1189-8",
+    "removed_on": "2026-10-02",
+    "site_name": "空き家バンクしずおか 御殿場市"
   }
 }

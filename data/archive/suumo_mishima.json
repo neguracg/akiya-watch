@@ -526,5 +526,27 @@
     "text": "大場（大場駅） 1990万円",
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21631553/|徳倉３（三島駅） 1150万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-01",
+    "location": "静岡県三島市徳倉３",
+    "price_man": 1150,
+    "area_sqm": 146.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21631553/",
+    "text": "徳倉３（三島駅） 1150万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78043370/|谷田（三島二日町駅） 1840万円": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-10-01",
+    "location": "静岡県三島市谷田字西ノ久保５８９番外",
+    "price_man": 1840,
+    "area_sqm": 173.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_78043370/",
+    "text": "谷田（三島二日町駅） 1840万円",
+    "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 三島市"
   }
 }
