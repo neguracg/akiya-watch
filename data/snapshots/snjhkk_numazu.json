@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59875/index.html|静岡県沼津市平町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市平町",
       "price_man": 1580,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59848/index.html|静岡県沼津市錦町本": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市錦町本",
       "price_man": 170,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59847/index.html|静岡県沼津市杉崎町": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市杉崎町",
       "price_man": 690,
       "area_sqm": null,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59844/index.html|静岡県沼津市東椎路": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市東椎路",
       "price_man": 3398,
       "area_sqm": 166.0,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59801/index.html|静岡県沼津市西椎路": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市西椎路",
       "price_man": 2880,
       "area_sqm": 218.0,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_59800/index.html|静岡県沼津市平町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市平町",
       "price_man": 2590,
       "area_sqm": null,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_59799/index.html|静岡県沼津市下香貫木ノ宮": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市下香貫木ノ宮",
       "price_man": 2480,
       "area_sqm": 137.1,
@@ -205,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_59797/index.html|静岡県沼津市西熊堂": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市西熊堂",
       "price_man": 2880,
       "area_sqm": 245.6,
@@ -234,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_59735/index.html|静岡県沼津市平町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市平町",
       "price_man": 1490,
       "area_sqm": null,
@@ -263,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_59734/index.html|静岡県沼津市岡一色": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市岡一色",
       "price_man": 1990,
       "area_sqm": null,
@@ -292,7 +292,7 @@
     },
     "https://www.snjhkk.com/s_r_59733/index.html|静岡県沼津市西間門": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市西間門",
       "price_man": 2780,
       "area_sqm": 142.3,
@@ -321,7 +321,7 @@
     },
     "https://www.snjhkk.com/s_r_59728/index.html|静岡県沼津市下香貫": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "静岡県沼津市下香貫",
       "price_man": 3398,
       "area_sqm": 297.1,
@@ -349,6 +349,6 @@
       "tab": "home"
     }
   },
-  "hash": "cc013b7e52b47438",
-  "fetched_at": "2026-10-02T01:45:52.609624"
+  "hash": "2af86755ed5269db",
+  "fetched_at": "2026-10-03T01:22:40.652888"
 }

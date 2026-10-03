@@ -1528,17 +1528,6 @@
     "removed_on": "2026-10-02",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/620c088d9c10654b5e268b9b6abfa311c8480e86/|伊豆箱根鉄道駿豆線 伊豆長岡駅 バス5分 中条下車 徒歩3分": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-01",
-    "location": "静岡県伊豆の国市寺家",
-    "price_man": 6.2,
-    "area_sqm": 50.4,
-    "url": "https://www.homes.co.jp/chintai/room/620c088d9c10654b5e268b9b6abfa311c8480e86/",
-    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 バス5分 中条下車 徒歩3分",
-    "removed_on": "2026-10-02",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/bddce6e982a20be90b42ce360d93be2eefe2d802/|伊豆箱根鉄道駿豆線 伊豆長岡駅 バス5分 中条下車 徒歩3分": {
     "first_seen": "2026-09-30",
     "last_seen": "2026-10-01",
@@ -1680,6 +1669,39 @@
     "url": "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/",
     "text": "和光　ビル",
     "removed_on": "2026-10-02",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/0a196ee684ed3e0af3c7a1b37e61e27f6b925c0a/|パーシモンスクエア": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-02",
+    "location": "静岡県伊豆の国市寺家705-1",
+    "price_man": 6.9,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/0a196ee684ed3e0af3c7a1b37e61e27f6b925c0a/",
+    "text": "パーシモンスクエア",
+    "removed_on": "2026-10-03",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/|プリマヴェーラ": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-10-02",
+    "location": "静岡県伊豆の国市三福",
+    "price_man": 8.0,
+    "area_sqm": 74.2,
+    "url": "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/",
+    "text": "プリマヴェーラ",
+    "removed_on": "2026-10-03",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/453bc4b915a350ec1ebb993b3ac82f7e6d0db0b9/|メルヴィーユイズミ": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-02",
+    "location": "静岡県伊豆の国市南江間",
+    "price_man": 6.5,
+    "area_sqm": 65.8,
+    "url": "https://www.homes.co.jp/chintai/room/453bc4b915a350ec1ebb993b3ac82f7e6d0db0b9/",
+    "text": "メルヴィーユイズミ",
+    "removed_on": "2026-10-03",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

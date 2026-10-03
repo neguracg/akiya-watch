@@ -208,17 +208,6 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/|約20mの専用通路の先に広がるプライベート性の高い100坪超のゆとりある敷地": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-13",
-    "location": "静岡県静岡市葵区安東３",
-    "price_man": 6580,
-    "area_sqm": 360.4,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/",
-    "text": "約20mの専用通路の先に広がるプライベート性の高い100坪超のゆとりある敷地",
-    "removed_on": "2026-09-15",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20260814/|【パナソニックホームズ】全1区画の整形地「パークナードテラス北安東5丁目」": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-15",
@@ -459,6 +448,72 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20176398/",
     "text": "水落町（静岡駅） 7480万円",
     "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20978759/|●当社売主物件●建築条件なし●売主にて解体測量後のお渡し予定です。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区北安東４",
+    "price_man": 3480,
+    "area_sqm": 226.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20978759/",
+    "text": "●当社売主物件●建築条件なし●売主にて解体測量後のお渡し予定です。",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_72094357/|瀬名６（草薙駅） 590万円": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区瀬名６",
+    "price_man": 590,
+    "area_sqm": 99.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_72094357/",
+    "text": "瀬名６（草薙駅） 590万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77907557/|瀬名川３（草薙駅） 1100万円": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区瀬名川３",
+    "price_man": 1100,
+    "area_sqm": 121.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77907557/",
+    "text": "瀬名川３（草薙駅） 1100万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21547111/|与一３ 1750万円": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区与一３-223-1",
+    "price_man": 1750,
+    "area_sqm": 125.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21547111/",
+    "text": "与一３ 1750万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/|安東３（日吉町駅） 6580万円": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区安東３",
+    "price_man": 6580,
+    "area_sqm": 360.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/",
+    "text": "安東３（日吉町駅） 6580万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20659381/|瀬名１ 7115万円": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-02",
+    "location": "静岡県静岡市葵区瀬名１",
+    "price_man": 7115,
+    "area_sqm": 485.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20659381/",
+    "text": "瀬名１ 7115万円",
+    "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

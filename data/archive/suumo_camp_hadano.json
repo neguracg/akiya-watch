@@ -120,17 +120,6 @@
     "removed_on": "2026-09-11",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21568225/|堀西（渋沢駅） 600万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-12",
-    "location": "神奈川県秦野市堀西",
-    "price_man": 600,
-    "area_sqm": 165.0,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21568225/",
-    "text": "堀西（渋沢駅） 600万円",
-    "removed_on": "2026-09-13",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78923039/|南西角地で約52坪の敷地！陽当り・通風良好！建築条件無くご検討頂けます！": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-12",
@@ -329,28 +318,6 @@
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/|西田原 1280万円": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-30",
-    "location": "神奈川県秦野市西田原",
-    "price_man": 1280,
-    "area_sqm": 155.9,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/",
-    "text": "西田原 1280万円",
-    "removed_on": "2026-10-01",
-    "site_name": "SUUMO 土地 秦野市"
-  },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/|渋沢（渋沢駅） 1380万円": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-30",
-    "location": "神奈川県秦野市渋沢1428-3",
-    "price_man": 1380,
-    "area_sqm": 147.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/",
-    "text": "渋沢（渋沢駅） 1380万円",
-    "removed_on": "2026-10-01",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21200646/|今泉（秦野駅） 1600万円": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-30",
@@ -415,6 +382,83 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788918/",
     "text": "本町１（秦野駅） 3280万円",
     "removed_on": "2026-10-02",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21568225/|建築条件無×広々約50坪の売地です！": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市堀西",
+    "price_man": 600,
+    "area_sqm": 165.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21568225/",
+    "text": "建築条件無×広々約50坪の売地です！",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20687603/|〇ゆとりのある56坪の敷地♪●南道路で陽当たり良好♪〇閑静な住宅街♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市戸川",
+    "price_man": 990,
+    "area_sqm": 188.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20687603/",
+    "text": "〇ゆとりのある56坪の敷地♪●南道路で陽当たり良好♪〇閑静な住宅街♪",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/|緑豊かな開発分譲地国道２４６すぐで交通の便が良い": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市平沢239-2",
+    "price_man": 1330,
+    "area_sqm": 125.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/",
+    "text": "緑豊かな開発分譲地国道２４６すぐで交通の便が良い",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21482809/|富士山の見える87坪超の土地出ました！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市曽屋",
+    "price_man": 1450,
+    "area_sqm": 288.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21482809/",
+    "text": "富士山の見える87坪超の土地出ました！",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21765143/|現地見学会も随時開催しておりますので、お気軽にお問い合せください！": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市名古木",
+    "price_man": 1680,
+    "area_sqm": 330.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21765143/",
+    "text": "現地見学会も随時開催しておりますので、お気軽にお問い合せください！",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21476138/|今泉（秦野駅） 1898万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市今泉",
+    "price_man": 1898,
+    "area_sqm": 154.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21476138/",
+    "text": "今泉（秦野駅） 1898万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788878/|本町１（秦野駅） 2980万円": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-02",
+    "location": "神奈川県秦野市本町１",
+    "price_man": 2980,
+    "area_sqm": 183.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788878/",
+    "text": "本町１（秦野駅） 2980万円",
+    "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

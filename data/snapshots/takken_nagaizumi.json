@@ -1,8 +1,40 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164970/settle/1|売住宅 駿東郡長泉町東野": {
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03",
+      "location": "駿東郡長泉町東野",
+      "price_man": 2700,
+      "area_sqm": 883.9,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164970/settle/1",
+      "text": "売住宅 駿東郡長泉町東野",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "調整区域の建替えは既存宅地要件等の確認が必要＝本命候補",
+      "chimoku": "田",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 10.1,
+      "verdict": "適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177860/settle/1|売マンション 駿東郡長泉町竹原": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町竹原",
       "price_man": 1590,
       "area_sqm": 72.4,
@@ -33,7 +65,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177870/settle/1|売マンション 駿東郡長泉町下土狩": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町下土狩",
       "price_man": 2190,
       "area_sqm": 72.0,
@@ -64,7 +96,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177848/settle/1|売土地 駿東郡長泉町下土狩1169-2": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町下土狩1169-2",
       "price_man": 7980,
       "area_sqm": 486.5,
@@ -93,7 +125,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139461/settle/1|売土地 駿東郡長泉町本宿": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町本宿",
       "price_man": 1450,
       "area_sqm": 138.5,
@@ -122,7 +154,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164962/settle/1|売マンション 駿東郡長泉町中土狩370-17": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町中土狩370-17",
       "price_man": 5180,
       "area_sqm": 91.1,
@@ -153,7 +185,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173457/settle/1|売マンション 駿東郡長泉町下土狩": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町下土狩",
       "price_man": 3980,
       "area_sqm": 55.5,
@@ -184,7 +216,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160566/settle/1|売土地 駿東郡長泉町東野": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町東野",
       "price_man": 700,
       "area_sqm": 818.0,
@@ -216,7 +248,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163134/settle/1|売住宅 駿東郡長泉町下土狩": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町下土狩",
       "price_man": 2400,
       "area_sqm": 224.0,
@@ -245,7 +277,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171596/settle/1|売土地 駿東郡長泉町下土狩": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-10-02",
+      "last_seen": "2026-10-03",
       "location": "駿東郡長泉町下土狩",
       "price_man": 1250,
       "area_sqm": 73.6,
@@ -273,6 +305,6 @@
       "tab": "home"
     }
   },
-  "hash": "9642664c440e16ff",
-  "fetched_at": "2026-10-02T01:46:24.024926"
+  "hash": "8868dffdf49e9312",
+  "fetched_at": "2026-10-03T01:23:11.241718"
 }

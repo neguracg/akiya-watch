@@ -1,1 +1,24 @@
-{}
+{
+  "https://buy.s-est.co.jp/land/297098/|富士市中之郷　約92坪　住宅用地（建築条件なし）": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "静岡県富士市中之郷2676-5",
+    "price_man": 900,
+    "area_sqm": 307.0,
+    "url": "https://buy.s-est.co.jp/land/297098/",
+    "text": "富士市中之郷　約92坪　住宅用地（建築条件なし）",
+    "removed_on": "2026-10-03",
+    "site_name": "しずなび 富士市 土地"
+  },
+  "https://buy.s-est.co.jp/land/187720/|富士市中之郷　土地": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-02",
+    "location": "静岡県富士市中之郷3159-19",
+    "price_man": 620,
+    "area_sqm": 246.2,
+    "url": "https://buy.s-est.co.jp/land/187720/",
+    "text": "富士市中之郷　土地",
+    "removed_on": "2026-10-03",
+    "site_name": "しずなび 富士市 土地"
+  }
+}

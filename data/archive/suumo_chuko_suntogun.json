@@ -230,15 +230,15 @@
     "removed_on": "2026-09-25",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/|コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪": {
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-10-01",
-    "location": "静岡県駿東郡清水町中徳倉",
-    "price_man": 1980,
-    "area_sqm": 164.8,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20755150/",
-    "text": "コンビニ・スーパー・ドラッグストアが徒歩圏内！閑静な住宅街に位置します♪",
-    "removed_on": "2026-10-02",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_75031451/|東野 350万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-02",
+    "location": "静岡県駿東郡長泉町東野",
+    "price_man": 350,
+    "area_sqm": 307.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_75031451/",
+    "text": "東野 350万円",
+    "removed_on": "2026-10-03",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }

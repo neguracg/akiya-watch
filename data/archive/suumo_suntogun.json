@@ -427,5 +427,38 @@
     "text": "下土狩（三島駅） 999万円",
     "removed_on": "2026-10-02",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/|柿田（三島広小路駅） 1880万円": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-10-02",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 1880,
+    "area_sqm": 138.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570726/",
+    "text": "柿田（三島広小路駅） 1880万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/|柿田（三島広小路駅） 1880万円": {
+    "first_seen": "2026-08-28",
+    "last_seen": "2026-10-02",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 1880,
+    "area_sqm": 138.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21570725/",
+    "text": "柿田（三島広小路駅） 1880万円",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_75886069/|敷地約101坪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-02",
+    "location": "静岡県駿東郡清水町徳倉",
+    "price_man": 2200,
+    "area_sqm": 337.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_75886069/",
+    "text": "敷地約101坪",
+    "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

@@ -2199,28 +2199,6 @@
     "removed_on": "2026-09-29",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-09-30",
-    "location": "静岡県三島市加屋町",
-    "price_man": 12.5,
-    "area_sqm": 64.5,
-    "url": "https://www.homes.co.jp/chintai/room/0f05d09a0ce6cce6fc86930de2a5438c386f4270/",
-    "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
-    "removed_on": "2026-10-01",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/|ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-09-30",
-    "location": "静岡県三島市加屋町",
-    "price_man": 11.8,
-    "area_sqm": 64.5,
-    "url": "https://www.homes.co.jp/chintai/room/d6588054200855e1888cc8a82b54b7cf1331dad9/",
-    "text": "ＧＲＡＳＳ　ＦＩＥＬＤＳ　ＳＥＲＥＮＡ　ＶＩＩＩ",
-    "removed_on": "2026-10-01",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/846d1ddc8b62c9bd23786a79a41d4ea5d0500fd7/|グランデ北沢II": {
     "first_seen": "2026-09-26",
     "last_seen": "2026-09-30",
@@ -2329,6 +2307,17 @@
     "url": "https://www.homes.co.jp/chintai/room/e18671be153c096a200ba90c0cbde0bc20cfbee1/",
     "text": "ヴィラ停雲",
     "removed_on": "2026-10-02",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/664645f252cc44f911ed647544b0209bf7f82720/|ラウレアK": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-02",
+    "location": "静岡県三島市加茂川町11-10",
+    "price_man": 7.0,
+    "area_sqm": 41.0,
+    "url": "https://www.homes.co.jp/chintai/room/664645f252cc44f911ed647544b0209bf7f82720/",
+    "text": "ラウレアK",
+    "removed_on": "2026-10-03",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

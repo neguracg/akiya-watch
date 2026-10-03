@@ -109,17 +109,6 @@
     "removed_on": "2026-09-15",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
-    "location": "南箱根ダイヤランド　売戸建",
-    "price_man": 1600,
-    "area_sqm": 307.5,
-    "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
-    "text": "南箱根ダイヤランド　売戸建",
-    "removed_on": "2026-10-01",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
   "https://www.homes.co.jp/kodate/b-1265050002649/|函南町上沢中古住宅 離れ付": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-30",
@@ -140,6 +129,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1111450005068/",
     "text": "南箱根ダイヤランド　売戸建",
     "removed_on": "2026-10-02",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000564/|売中古戸建　田方郡函南町仁田": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-02",
+    "location": "売中古戸建　田方郡函南町仁田",
+    "price_man": 2100,
+    "area_sqm": 114.1,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000564/",
+    "text": "売中古戸建　田方郡函南町仁田",
+    "removed_on": "2026-10-03",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }
