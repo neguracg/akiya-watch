@@ -1,8 +1,75 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173001/settle/1|売住宅 田方郡函南町平井": {
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-10-04",
+      "location": "田方郡函南町平井",
+      "price_man": 980,
+      "area_sqm": 408.0,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173001/settle/1",
+      "text": "売住宅 田方郡函南町平井",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 7.9,
+      "verdict": "適合",
+      "interest": [
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174489/settle/1|売住宅 田方郡函南町畑": {
+      "first_seen": "2026-06-22",
+      "last_seen": "2026-10-04",
+      "location": "田方郡函南町畑",
+      "price_man": 950,
+      "area_sqm": 295.4,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174489/settle/1",
+      "text": "売住宅 田方郡函南町畑",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "調整区域の建替えは既存宅地要件等の確認が必要＝本命候補",
+      "chimoku": "畑",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 10.6,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [
+        "南箱根ダイヤランド"
+      ],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171641/settle/1|売アパート 田方郡函南町大竹": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町大竹",
       "price_man": 600,
       "area_sqm": 206.6,
@@ -34,7 +101,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177868/settle/1|売マンション 田方郡函南町仁田": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町仁田",
       "price_man": 2390,
       "area_sqm": 84.3,
@@ -65,7 +132,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177829/settle/1|売土地 田方郡函南町平井": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 100,
       "area_sqm": 207.0,
@@ -97,7 +164,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177825/settle/1|売住宅 田方郡函南町平井1371-83": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井1371-83",
       "price_man": 1280,
       "area_sqm": 168.8,
@@ -126,7 +193,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168035/settle/1|新築売住宅 田方郡函南町仁田826-5": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町仁田826-5",
       "price_man": 1990,
       "area_sqm": 119.1,
@@ -155,7 +222,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177157/settle/1|新築売住宅 田方郡函南町仁田": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町仁田",
       "price_man": 4180,
       "area_sqm": 159.2,
@@ -184,7 +251,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174642/settle/1|新築売住宅 田方郡函南町仁田": {
       "first_seen": "2026-06-26",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町仁田",
       "price_man": 4180,
       "area_sqm": 183.6,
@@ -213,7 +280,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172053/settle/1|新築売住宅 田方郡函南町間宮": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町間宮",
       "price_man": 2850,
       "area_sqm": 128.5,
@@ -242,7 +309,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177712/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 500,
       "area_sqm": 286.0,
@@ -278,7 +345,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171540/settle/1|売土地 田方郡函南町畑毛478-7": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町畑毛478-7",
       "price_man": 130,
       "area_sqm": 252.0,
@@ -309,7 +376,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175234/settle/1|売住宅 田方郡函南町畑": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町畑",
       "price_man": 1280,
       "area_sqm": 277.0,
@@ -343,7 +410,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139026/settle/1|売アパート 田方郡函南町塚本939-4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町塚本939-4",
       "price_man": 5500,
       "area_sqm": 771.5,
@@ -375,7 +442,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/146283/settle/1|売土地 田方郡函南町柏谷1264-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町柏谷1264-1",
       "price_man": 280,
       "area_sqm": 996.0,
@@ -404,7 +471,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111023/settle/1|売住宅 田方郡函南町平井南箱根ダイヤランド": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井南箱根ダイヤランド",
       "price_man": 380,
       "area_sqm": 290.0,
@@ -440,7 +507,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128773/settle/1|売住宅 田方郡函南町平井1733-633": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井1733-633",
       "price_man": 290,
       "area_sqm": 378.0,
@@ -472,7 +539,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/167122/settle/1|売住宅 田方郡函南町柏谷": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町柏谷",
       "price_man": 1390,
       "area_sqm": 347.1,
@@ -501,7 +568,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168271/settle/1|売住宅 田方郡函南町塚本": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町塚本",
       "price_man": 1480,
       "area_sqm": 603.0,
@@ -533,7 +600,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/168927/settle/1|売住宅 田方郡函南町大土肥": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町大土肥",
       "price_man": 2490,
       "area_sqm": 248.0,
@@ -562,7 +629,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174189/settle/1|売住宅 田方郡函南町畑毛389-3": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町畑毛389-3",
       "price_man": 480,
       "area_sqm": 165.3,
@@ -594,7 +661,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159531/settle/1|売住宅 田方郡函南町丹那": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町丹那",
       "price_man": 2650,
       "area_sqm": 370.5,
@@ -626,7 +693,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177161/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 200,
       "area_sqm": 207.0,
@@ -657,7 +724,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/149239/settle/1|売住宅 田方郡函南町平井1753-1387": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井1753-1387",
       "price_man": 980,
       "area_sqm": 233.0,
@@ -688,43 +755,9 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174489/settle/1|売住宅 田方郡函南町畑": {
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-10-03",
-      "location": "田方郡函南町畑",
-      "price_man": 1250,
-      "area_sqm": 295.4,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174489/settle/1",
-      "text": "売住宅 田方郡函南町畑",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "調整区域の建替えは既存宅地要件等の確認が必要＝本命候補",
-      "chimoku": "畑",
-      "toshikeikaku": "市街化調整区域",
-      "setsudo": null,
-      "tsubo_man": 14.0,
-      "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161158/settle/1|売住宅 田方郡函南町平井1247番の4": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井1247番の4",
       "price_man": 2700,
       "area_sqm": 424.8,
@@ -753,7 +786,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/124718/settle/1|売土地 田方郡函南町肥田917-1": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町肥田917-1",
       "price_man": 3500,
       "area_sqm": 1400.6,
@@ -785,7 +818,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176664/settle/1|売土地 田方郡函南町大土肥": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町大土肥",
       "price_man": 1650,
       "area_sqm": 195.2,
@@ -814,7 +847,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174222/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 590,
       "area_sqm": 543.0,
@@ -847,7 +880,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/126876/settle/1|売土地 田方郡函南町肥田68-2": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町肥田68-2",
       "price_man": 1453,
       "area_sqm": 686.0,
@@ -879,7 +912,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135423/settle/1|売住宅 田方郡函南町平井南箱根ダイヤランド1753-737": {
       "first_seen": "2026-08-17",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井南箱根ダイヤランド1753-737",
       "price_man": 480,
       "area_sqm": 379.0,
@@ -913,7 +946,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171294/settle/1|売土地 田方郡函南町平井": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 150,
       "area_sqm": 356.9,
@@ -945,7 +978,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176391/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-08-18",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 3298,
       "area_sqm": 236.1,
@@ -979,7 +1012,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160715/settle/1|売土地 田方郡函南町上沢768-14": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町上沢768-14",
       "price_man": 250,
       "area_sqm": 169.2,
@@ -1011,7 +1044,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/59401/settle/1|売土地 田方郡函南町平井１２８４－１６、１２８４－２、": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井１２８４－１６、１２８４－２、",
       "price_man": 2100,
       "area_sqm": 321.5,
@@ -1040,7 +1073,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/92609/settle/1|売土地 田方郡函南町上沢": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町上沢",
       "price_man": 50,
       "area_sqm": 332.0,
@@ -1072,7 +1105,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163601/settle/1|売住宅 田方郡函南町畑毛": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町畑毛",
       "price_man": 1480,
       "area_sqm": 742.0,
@@ -1104,7 +1137,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175975/settle/1|売住宅 田方郡函南町桑原": {
       "first_seen": "2026-08-04",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町桑原",
       "price_man": 100,
       "area_sqm": 238.7,
@@ -1138,7 +1171,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175958/settle/1|売住宅 田方郡函南町平井南箱根ダイヤランド": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井南箱根ダイヤランド",
       "price_man": 550,
       "area_sqm": 246.6,
@@ -1172,7 +1205,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175939/settle/1|売土地 田方郡函南町仁田": {
       "first_seen": "2026-08-03",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町仁田",
       "price_man": 1580,
       "area_sqm": 312.2,
@@ -1204,7 +1237,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/124611/settle/1|売土地 田方郡函南町肥田": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町肥田",
       "price_man": 3500,
       "area_sqm": 1400.6,
@@ -1236,7 +1269,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175917/settle/1|売住宅 田方郡函南町畑529-135": {
       "first_seen": "2026-08-02",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町畑529-135",
       "price_man": 1480,
       "area_sqm": 301.7,
@@ -1268,7 +1301,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165995/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 750,
       "area_sqm": 365.0,
@@ -1303,7 +1336,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/120470/settle/1|売住宅 田方郡函南町平井1720番７４他": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井1720番７４他",
       "price_man": 3500,
       "area_sqm": 1924.8,
@@ -1335,7 +1368,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156063/settle/1|売住宅 田方郡函南町上沢": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町上沢",
       "price_man": 750,
       "area_sqm": 339.0,
@@ -1367,7 +1400,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173699/settle/1|売住宅 田方郡函南町平井": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町平井",
       "price_man": 965,
       "area_sqm": 241.4,
@@ -1396,7 +1429,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175644/settle/1|売住宅 田方郡函南町柏谷": {
       "first_seen": "2026-07-24",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町柏谷",
       "price_man": 1200,
       "area_sqm": 183.3,
@@ -1425,7 +1458,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/128604/settle/1|売土地 田方郡函南町上沢951-205": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町上沢951-205",
       "price_man": 50,
       "area_sqm": 449.0,
@@ -1457,7 +1490,7 @@
     },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/61857/settle/1|売土地 田方郡函南町丹那南箱根ダイヤランド529－587": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町丹那南箱根ダイヤランド529－587",
       "price_man": 200,
       "area_sqm": 363.6,
@@ -1491,42 +1524,9 @@
       "machi": "函南町",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173001/settle/1|売住宅 田方郡函南町平井": {
-      "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
-      "location": "田方郡函南町平井",
-      "price_man": 980,
-      "area_sqm": 408.0,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173001/settle/1",
-      "text": "売住宅 田方郡函南町平井",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 7.9,
-      "verdict": "適合",
-      "interest": [
-        "無指定"
-      ],
-      "caution": [],
-      "ng_areas": [
-        "南箱根ダイヤランド"
-      ],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/153293/settle/1|売住宅 田方郡函南町肥田408-9": {
       "first_seen": "2026-06-14",
-      "last_seen": "2026-10-03",
+      "last_seen": "2026-10-04",
       "location": "田方郡函南町肥田408-9",
       "price_man": 1500,
       "area_sqm": 145.6,
@@ -1554,6 +1554,6 @@
       "tab": "home"
     }
   },
-  "hash": "1373a200ecfa9b3b",
-  "fetched_at": "2026-10-03T00:55:03.454385"
+  "hash": "683db41570e83bfd",
+  "fetched_at": "2026-10-04T00:21:24.429940"
 }

@@ -516,15 +516,26 @@
     "removed_on": "2026-10-01",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-37260450000033/|三島市三恵台": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-10-02",
-    "location": "三島市三恵台",
-    "price_man": 1980,
-    "area_sqm": 202.6,
-    "url": "https://www.homes.co.jp/kodate/b-37260450000033/",
-    "text": "三島市三恵台",
-    "removed_on": "2026-10-03",
+  "https://www.homes.co.jp/kodate/b-1500050000501/|売中古戸建　三島市御園": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-03",
+    "location": "売中古戸建　三島市御園",
+    "price_man": 3280,
+    "area_sqm": 201.1,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000501/",
+    "text": "売中古戸建　三島市御園",
+    "removed_on": "2026-10-04",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1490460001877/|三島市御園　中古戸建": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-03",
+    "location": "三島市御園　中古戸建",
+    "price_man": 3280,
+    "area_sqm": 220.2,
+    "url": "https://www.homes.co.jp/kodate/b-1490460001877/",
+    "text": "三島市御園　中古戸建",
+    "removed_on": "2026-10-04",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

@@ -351,15 +351,15 @@
     "removed_on": "2026-10-02",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-33303660001172/|富士見ニュータウン": {
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
-    "location": "富士見ニュータウン",
-    "price_man": 250,
-    "area_sqm": 246.3,
-    "url": "https://www.homes.co.jp/kodate/b-33303660001172/",
-    "text": "富士見ニュータウン",
-    "removed_on": "2026-10-03",
+  "https://www.homes.co.jp/kodate/b-1341600001706/|JR東海道本線 熱海駅 15.4km": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-03",
+    "location": "JR東海道本線 熱海駅 15.4km",
+    "price_man": 1380,
+    "area_sqm": 225.1,
+    "url": "https://www.homes.co.jp/kodate/b-1341600001706/",
+    "text": "JR東海道本線 熱海駅 15.4km",
+    "removed_on": "2026-10-04",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

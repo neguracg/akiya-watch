@@ -219,17 +219,6 @@
     "removed_on": "2026-09-29",
     "site_name": "LIFULL 中古戸建 裾野市"
   },
-  "https://www.homes.co.jp/kodate/b-1564140000160/|裾野市千福が丘4丁目　戸建て": {
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-09-29",
-    "location": "裾野市千福が丘4丁目　戸建て",
-    "price_man": 3700,
-    "area_sqm": 250.4,
-    "url": "https://www.homes.co.jp/kodate/b-1564140000160/",
-    "text": "裾野市千福が丘4丁目　戸建て",
-    "removed_on": "2026-09-30",
-    "site_name": "LIFULL 中古戸建 裾野市"
-  },
   "https://www.homes.co.jp/kodate/b-1316560004373/|裾野市千福が丘1丁目　中古戸建": {
     "first_seen": "2026-09-28",
     "last_seen": "2026-09-30",
@@ -250,6 +239,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1443010007452/",
     "text": "裾野市千福が丘1丁目",
     "removed_on": "2026-10-02",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-33326400000193/|JR御殿場線 裾野駅 6.1km": {
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-10-02",
+    "location": "JR御殿場線 裾野駅 6.1km",
+    "price_man": 3700,
+    "area_sqm": 250.4,
+    "url": "https://www.homes.co.jp/kodate/b-33326400000193/",
+    "text": "JR御殿場線 裾野駅 6.1km",
+    "removed_on": "2026-10-04",
     "site_name": "LIFULL 中古戸建 裾野市"
   }
 }
