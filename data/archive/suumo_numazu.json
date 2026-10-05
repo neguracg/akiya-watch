@@ -2133,28 +2133,6 @@
     "removed_on": "2026-10-02",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76747984/|解体更地渡し、建築条件なしです": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-10-02",
-    "location": "静岡県沼津市高砂町",
-    "price_man": 450,
-    "area_sqm": 65.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_76747984/",
-    "text": "解体更地渡し、建築条件なしです",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 沼津市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74456530/|東椎路（片浜駅） 650万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-10-02",
-    "location": "静岡県沼津市東椎路",
-    "price_man": 650,
-    "area_sqm": 88.4,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74456530/",
-    "text": "東椎路（片浜駅） 650万円",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 沼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|公共交通機関・マイカー勢ともにオススメ！バス停徒歩約７分、高速ＩＣ車約３分": {
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
@@ -2208,6 +2186,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20905786/",
     "text": "原（原駅） 2310万円",
     "removed_on": "2026-10-03",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74312427/|東熊堂（沼津駅） 1980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-04",
+    "location": "静岡県沼津市東熊堂",
+    "price_man": 1980,
+    "area_sqm": 487.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74312427/",
+    "text": "東熊堂（沼津駅） 1980万円",
+    "removed_on": "2026-10-05",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

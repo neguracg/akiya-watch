@@ -1715,50 +1715,6 @@
     "removed_on": "2026-10-01",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_76151820/|日当たり良好富士山見えます": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-10-02",
-    "location": "静岡県三島市谷田",
-    "price_man": 900,
-    "area_sqm": 158.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_76151820/",
-    "text": "日当たり良好富士山見えます",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78935621/|北側には自然あふれる山々越しに富士山、南側には三島の街並みの向こうに駿河湾": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-10-02",
-    "location": "静岡県三島市芙蓉台３-12-5",
-    "price_man": 1480,
-    "area_sqm": 258.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78935621/",
-    "text": "北側には自然あふれる山々越しに富士山、南側には三島の街並みの向こうに駿河湾",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_74405003/|閑静な住宅街にたたずむ日本家屋。敷地はゆったり約120坪。": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-10-02",
-    "location": "静岡県三島市芙蓉台２",
-    "price_man": 1990,
-    "area_sqm": 396.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_74405003/",
-    "text": "閑静な住宅街にたたずむ日本家屋。敷地はゆったり約120坪。",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_79034922/|閑静な住宅地、土地100坪以上、眺望良好、駐車２台可、高台に立地": {
-    "first_seen": "2026-08-16",
-    "last_seen": "2026-10-02",
-    "location": "静岡県三島市芙蓉台３",
-    "price_man": 2600,
-    "area_sqm": 495.8,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_79034922/",
-    "text": "閑静な住宅地、土地100坪以上、眺望良好、駐車２台可、高台に立地",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|10/3(（土）)13-15時オープンハウス●萩リフォーム住宅●内覧可能♪": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-10-02",
@@ -1779,6 +1735,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_77717583/",
     "text": "機能的で使いやすいシステムキッチン付きなので、お料理を楽しめます",
     "removed_on": "2026-10-04",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78834566/|東町（三島田町駅） 1780万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-04",
+    "location": "静岡県三島市東町7-34",
+    "price_man": 1780,
+    "area_sqm": 120.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78834566/",
+    "text": "東町（三島田町駅） 1780万円",
+    "removed_on": "2026-10-05",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|10/3(（土）)13-15時オープンハウス●萩リフォーム住宅●家具設置済♪": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-04",
+    "location": "静岡県三島市萩",
+    "price_man": 2649,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
+    "text": "10/3(（土）)13-15時オープンハウス●萩リフォーム住宅●家具設置済♪",
+    "removed_on": "2026-10-05",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

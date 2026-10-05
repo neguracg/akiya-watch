@@ -460,5 +460,16 @@
     "text": "本町１（秦野駅） 2980万円",
     "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_77755995/|敷地面積　179.68㎡　５４．３５坪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-04",
+    "location": "神奈川県秦野市南矢名855-4",
+    "price_man": 230,
+    "area_sqm": 179.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_77755995/",
+    "text": "敷地面積　179.68㎡　５４．３５坪",
+    "removed_on": "2026-10-05",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

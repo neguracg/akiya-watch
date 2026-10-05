@@ -372,5 +372,16 @@
     "text": "桜ガ丘２（南伊東駅） 4200万円",
     "removed_on": "2026-10-04",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/|池 400万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-10-04",
+    "location": "静岡県伊東市池615-63",
+    "price_man": 400,
+    "area_sqm": 414.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_76445688/",
+    "text": "池 400万円",
+    "removed_on": "2026-10-05",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

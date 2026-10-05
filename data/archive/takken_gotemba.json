@@ -64,5 +64,16 @@
     "text": "売住宅 御殿場市萩原1189-8",
     "removed_on": "2026-10-02",
     "site_name": "空き家バンクしずおか 御殿場市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1|新築売住宅 御殿場市川島田": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-04",
+    "location": "御殿場市川島田",
+    "price_man": 3698,
+    "area_sqm": 222.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173319/settle/1",
+    "text": "新築売住宅 御殿場市川島田",
+    "removed_on": "2026-10-05",
+    "site_name": "空き家バンクしずおか 御殿場市"
   }
 }

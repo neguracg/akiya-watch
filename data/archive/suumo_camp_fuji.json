@@ -1274,5 +1274,16 @@
     "text": "川成島（新富士駅） 1990万円",
     "removed_on": "2026-10-04",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21218669/|中里（須津駅） 1000万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-04",
+    "location": "静岡県富士市中里",
+    "price_man": 1000,
+    "area_sqm": 212.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21218669/",
+    "text": "中里（須津駅） 1000万円",
+    "removed_on": "2026-10-05",
+    "site_name": "SUUMO 土地 富士市"
   }
 }
