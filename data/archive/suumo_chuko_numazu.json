@@ -1198,17 +1198,6 @@
     "removed_on": "2026-09-28",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20937638/|大岡（下土狩駅） 2299万円": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-09-28",
-    "location": "静岡県沼津市大岡",
-    "price_man": 2299,
-    "area_sqm": 163.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20937638/",
-    "text": "大岡（下土狩駅） 2299万円",
-    "removed_on": "2026-09-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20898518/|土地49坪の広々とした5SLDK再生住宅が月々6万円台から登場です！各部屋収納付き": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-09-28",
@@ -1228,17 +1217,6 @@
     "area_sqm": 121.7,
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_77639940/",
     "text": "◆我入道東町モダンガレージハウス◆エアコン3台付、リフォーム済。内覧可能で",
-    "removed_on": "2026-09-29",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/|江原町（沼津駅） 6700万円": {
-    "first_seen": "2026-07-01",
-    "last_seen": "2026-09-28",
-    "location": "静岡県沼津市江原町",
-    "price_man": 6700,
-    "area_sqm": 409.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/",
-    "text": "江原町（沼津駅） 6700万円",
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
@@ -1361,6 +1339,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20905151/",
     "text": "東間門２（沼津駅） 2580万円",
     "removed_on": "2026-10-03",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21823498/|【期間限定現況販売】自社売主物件につき随時内覧可能です。": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-05",
+    "location": "静岡県沼津市岡宮1421番22",
+    "price_man": 1649,
+    "area_sqm": 165.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21823498/",
+    "text": "【期間限定現況販売】自社売主物件につき随時内覧可能です。",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79143561/|大岡（沼津駅） 2990万円": {
+    "first_seen": "2026-07-07",
+    "last_seen": "2026-10-05",
+    "location": "静岡県沼津市大岡",
+    "price_man": 2990,
+    "area_sqm": 199.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_79143561/",
+    "text": "大岡（沼津駅） 2990万円",
+    "removed_on": "2026-10-06",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

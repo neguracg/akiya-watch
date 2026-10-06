@@ -285,28 +285,6 @@
     "removed_on": "2026-09-29",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175297|貸マンション 伊豆の国市四日町357-5": {
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-28",
-    "location": "伊豆の国市四日町357-5",
-    "price_man": 5.7,
-    "area_sqm": 42.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175297",
-    "text": "貸マンション 伊豆の国市四日町357-5",
-    "removed_on": "2026-09-29",
-    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161172|貸マンション 伊豆の国市四日町357-5": {
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-09-28",
-    "location": "伊豆の国市四日町357-5",
-    "price_man": 5.7,
-    "area_sqm": 42.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161172",
-    "text": "貸マンション 伊豆の国市四日町357-5",
-    "removed_on": "2026-09-29",
-    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144329|貸店舗・事務所 伊豆の国市大仁540-1-2": {
     "first_seen": "2026-09-09",
     "last_seen": "2026-09-28",
@@ -349,6 +327,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/78268",
     "text": "貸アパート 伊豆の国市神島107-1",
     "removed_on": "2026-10-02",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175114|貸店舗・事務所 伊豆の国市吉田357-2-2": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-05",
+    "location": "伊豆の国市吉田357-2-2",
+    "price_man": 22.0,
+    "area_sqm": 131.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175114",
+    "text": "貸店舗・事務所 伊豆の国市吉田357-2-2",
+    "removed_on": "2026-10-06",
+    "site_name": "スマイミー静岡 賃貸 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34102|貸戸建住宅 伊豆の国市大仁831-2": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-10-05",
+    "location": "伊豆の国市大仁831-2",
+    "price_man": 5.0,
+    "area_sqm": 48.4,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/34102",
+    "text": "貸戸建住宅 伊豆の国市大仁831-2",
+    "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 賃貸 伊豆の国市"
   }
 }

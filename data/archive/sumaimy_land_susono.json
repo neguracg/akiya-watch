@@ -1,26 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175940|裾野市茶畑": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-22",
-    "location": "裾野市茶畑",
-    "price_man": 1856,
-    "area_sqm": 168.2,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175940",
-    "text": "裾野市茶畑",
-    "removed_on": "2026-09-24",
-    "site_name": "スマイミー静岡 売土地 裾野市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175941|裾野市茶畑": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-22",
-    "location": "裾野市茶畑",
-    "price_man": 1995,
-    "area_sqm": 219.9,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175941",
-    "text": "裾野市茶畑",
-    "removed_on": "2026-09-24",
-    "site_name": "スマイミー静岡 売土地 裾野市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132223|裾野市須山2255-5293": {
     "first_seen": "2026-09-17",
     "last_seen": "2026-09-24",
@@ -52,6 +30,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/136795",
     "text": "裾野市今里148-45他3筆",
     "removed_on": "2026-10-02",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175386|裾野市岩波": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "裾野市岩波",
+    "price_man": 1400,
+    "area_sqm": 155.6,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175386",
+    "text": "裾野市岩波",
+    "removed_on": "2026-10-06",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069|裾野市茶畑193－１": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "裾野市茶畑193－１",
+    "price_man": 2288,
+    "area_sqm": 205.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069",
+    "text": "裾野市茶畑193－１",
+    "removed_on": "2026-10-06",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169206|裾野市葛山": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "裾野市葛山",
+    "price_man": 1500,
+    "area_sqm": 466.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169206",
+    "text": "裾野市葛山",
+    "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 売土地 裾野市"
   }
 }

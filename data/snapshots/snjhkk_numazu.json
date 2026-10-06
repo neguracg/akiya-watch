@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59919/index.html|静岡県沼津市大岡": {
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "location": "静岡県沼津市大岡",
+      "price_man": 2198,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59919/index.html",
+      "text": "静岡県沼津市大岡",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59916/index.html|静岡県沼津市中瀬町": {
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県沼津市中瀬町",
       "price_man": 2798,
       "area_sqm": 102.3,
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59915/index.html|静岡県沼津市大手町1丁目": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県沼津市大手町1丁目",
       "price_man": 3690,
       "area_sqm": null,
@@ -60,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59913/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県沼津市大岡",
       "price_man": 498,
       "area_sqm": null,
@@ -89,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59912/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県沼津市大岡",
       "price_man": 1280,
       "area_sqm": 140.2,
@@ -118,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_59875/index.html|静岡県沼津市平町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県沼津市平町",
       "price_man": 1580,
       "area_sqm": null,
@@ -146,6 +175,6 @@
       "tab": "home"
     }
   },
-  "hash": "fe64504f18cc9dcb",
-  "fetched_at": "2026-10-05T00:52:37.157304"
+  "hash": "27e8a12e5b0e4b27",
+  "fetched_at": "2026-10-06T02:29:17.083722"
 }

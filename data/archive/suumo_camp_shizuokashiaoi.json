@@ -461,28 +461,6 @@
     "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_72094357/|瀬名６（草薙駅） 590万円": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-10-02",
-    "location": "静岡県静岡市葵区瀬名６",
-    "price_man": 590,
-    "area_sqm": 99.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_72094357/",
-    "text": "瀬名６（草薙駅） 590万円",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77907557/|瀬名川３（草薙駅） 1100万円": {
-    "first_seen": "2026-09-18",
-    "last_seen": "2026-10-02",
-    "location": "静岡県静岡市葵区瀬名川３",
-    "price_man": 1100,
-    "area_sqm": 121.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77907557/",
-    "text": "瀬名川３（草薙駅） 1100万円",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/|安東３（日吉町駅） 6580万円": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-10-02",
@@ -525,6 +503,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77428201/",
     "text": "●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪",
     "removed_on": "2026-10-05",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21503890/|☆９月２８日更新☆売主☆全３区画☆建築条件なし☆": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-05",
+    "location": "静岡県静岡市葵区羽高町",
+    "price_man": 1150,
+    "area_sqm": 155.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21503890/",
+    "text": "☆９月２８日更新☆売主☆全３区画☆建築条件なし☆",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/|●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "静岡県静岡市葵区新伝馬３",
+    "price_man": 1965,
+    "area_sqm": 130.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/",
+    "text": "●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77150773/|☆９月２８日更新☆☆ひろびろ５６・５坪☆建築条件はありません☆解体更地渡し": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-05",
+    "location": "静岡県静岡市葵区上足洗２",
+    "price_man": 4250,
+    "area_sqm": 186.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77150773/",
+    "text": "☆９月２８日更新☆☆ひろびろ５６・５坪☆建築条件はありません☆解体更地渡し",
+    "removed_on": "2026-10-06",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

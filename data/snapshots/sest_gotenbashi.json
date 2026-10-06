@@ -2,7 +2,7 @@
   "keys": {
     "https://buy.s-est.co.jp/land/365577/|御殿場市神山　売土地　神山小学校・富士岡中学校区": {
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県御殿場市神山1316-22",
       "price_man": 950,
       "area_sqm": 207.2,
@@ -33,7 +33,7 @@
     },
     "https://buy.s-est.co.jp/land/358883/|御殿場市　萩原（御殿場駅）住宅用地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県御殿場市萩原348-2",
       "price_man": 2500,
       "area_sqm": 258.0,
@@ -62,7 +62,7 @@
     },
     "https://buy.s-est.co.jp/land/210625/|【価格改定】御殿場市二枚橋　売土地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "location": "静岡県御殿場市二枚橋514-16",
       "price_man": 1140,
       "area_sqm": 246.0,
@@ -90,6 +90,6 @@
       "tab": "camp"
     }
   },
-  "hash": "aa634f95ed2ae60a",
-  "fetched_at": "2026-10-05T00:38:47.459923"
+  "hash": "252ac798c2835634",
+  "fetched_at": "2026-10-06T02:15:59.921955"
 }

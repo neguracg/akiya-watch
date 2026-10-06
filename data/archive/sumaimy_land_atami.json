@@ -296,17 +296,6 @@
     "removed_on": "2026-10-03",
     "site_name": "スマイミー静岡 売土地 熱海市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163971|熱海市上多賀": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-03",
-    "location": "熱海市上多賀",
-    "price_man": 1950,
-    "area_sqm": 2964.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163971",
-    "text": "熱海市上多賀",
-    "removed_on": "2026-10-04",
-    "site_name": "スマイミー静岡 売土地 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174497|熱海市春日町15-24": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-03",
@@ -316,6 +305,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174497",
     "text": "熱海市春日町15-24",
     "removed_on": "2026-10-04",
+    "site_name": "スマイミー静岡 売土地 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175106|熱海市網代627-536他": {
+    "first_seen": "2026-09-20",
+    "last_seen": "2026-10-05",
+    "location": "熱海市網代627-536他",
+    "price_man": 2500,
+    "area_sqm": 519.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175106",
+    "text": "熱海市網代627-536他",
+    "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 売土地 熱海市"
   }
 }

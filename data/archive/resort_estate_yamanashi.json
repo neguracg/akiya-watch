@@ -263,17 +263,6 @@
     "removed_on": "2026-10-05",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   },
-  "https://resort-estate.com/detail/5403|物件No.5403 山梨県南都留郡富士河口湖町富士ヶ嶺 2LDK 2,600万円 〇6000坪を超える広大な敷地。〇富士": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-10-04",
-    "location": "",
-    "price_man": 2600,
-    "area_sqm": null,
-    "url": "https://resort-estate.com/detail/5403",
-    "text": "物件No.5403 山梨県南都留郡富士河口湖町富士ヶ嶺 2LDK 2,600万円 〇6000坪を超える広大な敷地。〇富士",
-    "removed_on": "2026-10-05",
-    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
-  },
   "https://resort-estate.com/detail/5512|物件No.5512 山梨県南都留郡山中湖 6LDK 6,000万円 広大な敷地！母家・別棟・BBQスペース等があります！": {
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-04",
@@ -384,17 +373,6 @@
     "removed_on": "2026-10-05",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   },
-  "https://resort-estate.com/detail/5439|物件No.5439 山梨県南都留郡山中湖村山中 5LDK 3,550万円 〇堅牢な構造〇充実した設備〇快適な生活環境〇高": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-10-04",
-    "location": "",
-    "price_man": 3550,
-    "area_sqm": null,
-    "url": "https://resort-estate.com/detail/5439",
-    "text": "物件No.5439 山梨県南都留郡山中湖村山中 5LDK 3,550万円 〇堅牢な構造〇充実した設備〇快適な生活環境〇高",
-    "removed_on": "2026-10-05",
-    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
-  },
   "https://resort-estate.com/detail/5276|物件No.5276 山梨県富士河口湖町富士ヶ嶺高原別荘地「富士ドクタービレッジ」 3LDK 580万円 標高1000Ｍ避": {
     "first_seen": "2026-09-08",
     "last_seen": "2026-10-04",
@@ -404,6 +382,28 @@
     "url": "https://resort-estate.com/detail/5276",
     "text": "物件No.5276 山梨県富士河口湖町富士ヶ嶺高原別荘地「富士ドクタービレッジ」 3LDK 580万円 標高1000Ｍ避",
     "removed_on": "2026-10-05",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5452|物件No.5452 山梨県鳴沢村「京王スバル二次別荘地」 2LDK 700万円 〇富士山の裾野・標高約1,100mに位置": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-05",
+    "location": "",
+    "price_man": 700,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5452",
+    "text": "物件No.5452 山梨県鳴沢村「京王スバル二次別荘地」 2LDK 700万円 〇富士山の裾野・標高約1,100mに位置",
+    "removed_on": "2026-10-06",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5329|物件No.5329 山梨県南都留郡鳴沢村鳴沢「丸紅富士桜別荘地」 6LDK 20,000万円 ショートゴルフコース、BB": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-05",
+    "location": "",
+    "price_man": 20000,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5329",
+    "text": "物件No.5329 山梨県南都留郡鳴沢村鳴沢「丸紅富士桜別荘地」 6LDK 20,000万円 ショートゴルフコース、BB",
+    "removed_on": "2026-10-06",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   }
 }

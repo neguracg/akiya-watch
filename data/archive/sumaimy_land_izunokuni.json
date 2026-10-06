@@ -43,17 +43,6 @@
     "removed_on": "2026-10-02",
     "site_name": "スマイミー静岡 売土地 伊豆の国市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/66902|伊豆の国市原木1131-8": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-02",
-    "location": "伊豆の国市原木1131-8",
-    "price_man": 750,
-    "area_sqm": 136.5,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/66902",
-    "text": "伊豆の国市原木1131-8",
-    "removed_on": "2026-10-03",
-    "site_name": "スマイミー静岡 売土地 伊豆の国市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99970|伊豆の国市古奈1139-3": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-04",
@@ -63,6 +52,17 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99970",
     "text": "伊豆の国市古奈1139-3",
     "removed_on": "2026-10-05",
+    "site_name": "スマイミー静岡 売土地 伊豆の国市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164976|伊豆の国市古奈": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "伊豆の国市古奈",
+    "price_man": 780,
+    "area_sqm": 239.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164976",
+    "text": "伊豆の国市古奈",
+    "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 売土地 伊豆の国市"
   }
 }

@@ -471,5 +471,16 @@
     "text": "徳倉 1200万円",
     "removed_on": "2026-10-05",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21512272/|上土狩（長泉なめり駅） 2880万円": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-10-05",
+    "location": "静岡県駿東郡長泉町上土狩",
+    "price_man": 2880,
+    "area_sqm": 154.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21512272/",
+    "text": "上土狩（長泉なめり駅） 2880万円",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

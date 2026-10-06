@@ -351,15 +351,26 @@
     "removed_on": "2026-10-05",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21763972/|■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■": {
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-10-04",
-    "location": "静岡県静岡市清水区下野中",
-    "price_man": 2000,
-    "area_sqm": 175.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21763972/",
-    "text": "■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■",
-    "removed_on": "2026-10-05",
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20624734/|■【陽当たり良好／敷地広々】■【お買い物スポット多数／交通アクセス良好】": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05",
+    "location": "静岡県静岡市清水区宮加三",
+    "price_man": 1598,
+    "area_sqm": 256.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20624734/",
+    "text": "■【陽当たり良好／敷地広々】■【お買い物スポット多数／交通アクセス良好】",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/|☆９月２８日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-05",
+    "location": "静岡県静岡市清水区吉川",
+    "price_man": 1990,
+    "area_sqm": 183.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/",
+    "text": "☆９月２８日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分",
+    "removed_on": "2026-10-06",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

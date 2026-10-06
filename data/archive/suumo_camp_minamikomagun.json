@@ -43,15 +43,103 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 南巨摩郡（身延町）"
   },
-  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_78358495/|長澤 470万円": {
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20565264/|鰍沢（鰍沢口駅） 450万円": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町鰍沢",
+    "price_man": 450,
+    "area_sqm": 206.6,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20565264/",
+    "text": "鰍沢（鰍沢口駅） 450万円",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_72664999/|下山（波高島駅） 480万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡身延町下山231-126、127",
+    "price_man": 480,
+    "area_sqm": 483.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_72664999/",
+    "text": "下山（波高島駅） 480万円",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21804008/|高速ICと山川が間近で自然と利便性が調和する、心地よい暮らしが叶う土地。": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-05",
     "location": "山梨県南巨摩郡富士川町長澤",
-    "price_man": 470,
-    "area_sqm": 210.0,
-    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_78358495/",
-    "text": "長澤 470万円",
-    "removed_on": "2026-09-29",
+    "price_man": 550,
+    "area_sqm": 240.8,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21804008/",
+    "text": "高速ICと山川が間近で自然と利便性が調和する、心地よい暮らしが叶う土地。",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20452539/|長澤（市川大門駅） 690万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町長澤",
+    "price_man": 690,
+    "area_sqm": 308.8,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20452539/",
+    "text": "長澤（市川大門駅） 690万円",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21237894/|セブンイレブン増穂長沢新町店まで徒歩8分。167.58坪の広々とした角地。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町長澤",
+    "price_man": 730,
+    "area_sqm": 554.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21237894/",
+    "text": "セブンイレブン増穂長沢新町店まで徒歩8分。167.58坪の広々とした角地。",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20985762/|セブンイレブン増穂長沢新町店まで徒歩3分。132.19坪の広々とした角地。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町長澤",
+    "price_man": 850,
+    "area_sqm": 437.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_20985762/",
+    "text": "セブンイレブン増穂長沢新町店まで徒歩3分。132.19坪の広々とした角地。",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21071820/|ショッピングモールが近く利便性の高い立地。94.37坪のゆとりある雑種地": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町大椚",
+    "price_man": 870,
+    "area_sqm": 312.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21071820/",
+    "text": "ショッピングモールが近く利便性の高い立地。94.37坪のゆとりある雑種地",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21404853/|約93.73坪のゆとりある建築条件なし売地。陽当たり・通風良好。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町長澤",
+    "price_man": 890,
+    "area_sqm": 309.9,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21404853/",
+    "text": "約93.73坪のゆとりある建築条件なし売地。陽当たり・通風良好。",
+    "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 南巨摩郡（身延町）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21086145/|広めの土地をお探しの方には嬉しい197.53坪の事業用地です。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-05",
+    "location": "山梨県南巨摩郡富士川町青柳町",
+    "price_man": 1180,
+    "area_sqm": 653.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21086145/",
+    "text": "広めの土地をお探しの方には嬉しい197.53坪の事業用地です。",
+    "removed_on": "2026-10-06",
     "site_name": "SUUMO 土地 南巨摩郡（身延町）"
   }
 }
