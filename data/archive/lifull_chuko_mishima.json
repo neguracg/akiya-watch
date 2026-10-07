@@ -87,17 +87,6 @@
     "removed_on": "2026-06-29",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1265050002471/|三島市錦が丘中古住宅": {
-    "first_seen": "2026-06-28",
-    "last_seen": "2026-07-01",
-    "location": "三島市錦が丘中古住宅",
-    "price_man": 2499,
-    "area_sqm": 187.7,
-    "url": "https://www.homes.co.jp/kodate/b-1265050002471/",
-    "text": "三島市錦が丘中古住宅",
-    "removed_on": "2026-07-02",
-    "site_name": "LIFULL 中古戸建 三島市"
-  },
   "https://www.homes.co.jp/kodate/b-33333810000583/|三島市東町　築12年　中古住宅": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-07-03",
@@ -547,6 +536,17 @@
     "url": "https://www.homes.co.jp/kodate/b-37260450000033/",
     "text": "三島市三恵台",
     "removed_on": "2026-10-06",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1443010009885/|三島市錦が丘": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "location": "三島市錦が丘",
+    "price_man": 2350,
+    "area_sqm": 187.7,
+    "url": "https://www.homes.co.jp/kodate/b-1443010009885/",
+    "text": "三島市錦が丘",
+    "removed_on": "2026-10-07",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }

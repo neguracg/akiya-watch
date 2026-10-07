@@ -109,28 +109,6 @@
     "removed_on": "2026-10-05",
     "site_name": "LIFULL 土地 函南町"
   },
-  "https://www.homes.co.jp/tochi/b-37260450000006/|田方郡函南町畑毛 (函南駅)": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-04",
-    "location": "田方郡函南町畑毛 (函南駅)",
-    "price_man": 500,
-    "area_sqm": 249.4,
-    "url": "https://www.homes.co.jp/tochi/b-37260450000006/",
-    "text": "田方郡函南町畑毛 (函南駅)",
-    "removed_on": "2026-10-05",
-    "site_name": "LIFULL 土地 函南町"
-  },
-  "https://www.homes.co.jp/tochi/b-37260450000009/|田方郡函南町桑原 (函南駅)": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-04",
-    "location": "田方郡函南町桑原 (函南駅)",
-    "price_man": 4800,
-    "area_sqm": 1951.4,
-    "url": "https://www.homes.co.jp/tochi/b-37260450000009/",
-    "text": "田方郡函南町桑原 (函南駅)",
-    "removed_on": "2026-10-05",
-    "site_name": "LIFULL 土地 函南町"
-  },
   "https://www.homes.co.jp/tochi/b-1265050002636/|田方郡函南町肥田 (伊豆仁田駅)": {
     "first_seen": "2026-10-04",
     "last_seen": "2026-10-04",
@@ -153,17 +131,6 @@
     "removed_on": "2026-10-06",
     "site_name": "LIFULL 土地 函南町"
   },
-  "https://www.homes.co.jp/tochi/b-1220300000713/|田方郡函南町柏谷 (大場駅)": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "location": "田方郡函南町柏谷 (大場駅)",
-    "price_man": 579,
-    "area_sqm": 189.7,
-    "url": "https://www.homes.co.jp/tochi/b-1220300000713/",
-    "text": "田方郡函南町柏谷 (大場駅)",
-    "removed_on": "2026-10-06",
-    "site_name": "LIFULL 土地 函南町"
-  },
   "https://www.homes.co.jp/tochi/b-1341600001673/|田方郡函南町平井南箱根ダイヤランド (熱海駅)": {
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-05",
@@ -173,6 +140,39 @@
     "url": "https://www.homes.co.jp/tochi/b-1341600001673/",
     "text": "田方郡函南町平井南箱根ダイヤランド (熱海駅)",
     "removed_on": "2026-10-06",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-33329530000002/|田方郡函南町平井南箱根ダイヤランド": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-06",
+    "location": "田方郡函南町平井南箱根ダイヤランド",
+    "price_man": 10,
+    "area_sqm": 223.0,
+    "url": "https://www.homes.co.jp/tochi/b-33329530000002/",
+    "text": "田方郡函南町平井南箱根ダイヤランド",
+    "removed_on": "2026-10-07",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-1500050000652/|田方郡函南町柏谷 (大場駅)": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-06",
+    "location": "田方郡函南町柏谷 (大場駅)",
+    "price_man": 1295,
+    "area_sqm": 327.8,
+    "url": "https://www.homes.co.jp/tochi/b-1500050000652/",
+    "text": "田方郡函南町柏谷 (大場駅)",
+    "removed_on": "2026-10-07",
+    "site_name": "LIFULL 土地 函南町"
+  },
+  "https://www.homes.co.jp/tochi/b-1265050002037/|田方郡函南町柏谷 (伊豆仁田駅)": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "location": "田方郡函南町柏谷 (伊豆仁田駅)",
+    "price_man": 590,
+    "area_sqm": 163.1,
+    "url": "https://www.homes.co.jp/tochi/b-1265050002037/",
+    "text": "田方郡函南町柏谷 (伊豆仁田駅)",
+    "removed_on": "2026-10-07",
     "site_name": "LIFULL 土地 函南町"
   }
 }

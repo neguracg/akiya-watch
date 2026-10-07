@@ -516,17 +516,6 @@
     "removed_on": "2026-10-06",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/|●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-05",
-    "location": "静岡県静岡市葵区新伝馬３",
-    "price_man": 1965,
-    "area_sqm": 130.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/",
-    "text": "●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪",
-    "removed_on": "2026-10-06",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77150773/|☆９月２８日更新☆☆ひろびろ５６・５坪☆建築条件はありません☆解体更地渡し": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-10-05",
@@ -536,6 +525,72 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77150773/",
     "text": "☆９月２８日更新☆☆ひろびろ５６・５坪☆建築条件はありません☆解体更地渡し",
     "removed_on": "2026-10-06",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21649994/|＼解体更地測量後渡し！／理想の住まいを自由に描ける、建築条件なしの整形地♪": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区秋山町",
+    "price_man": 1050,
+    "area_sqm": 91.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21649994/",
+    "text": "＼解体更地測量後渡し！／理想の住まいを自由に描ける、建築条件なしの整形地♪",
+    "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21258366/|価格変更しました！更地でのお引渡になります。建築条件無。一括購入も可！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区昭府１",
+    "price_man": 2490,
+    "area_sqm": 191.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21258366/",
+    "text": "価格変更しました！更地でのお引渡になります。建築条件無。一括購入も可！",
+    "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/|新伝馬３ 1965万円～2133万円": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区新伝馬３",
+    "price_man": 1965,
+    "area_sqm": 130.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/",
+    "text": "新伝馬３ 1965万円～2133万円",
+    "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_78909122/|整形分譲地。南東道路で陽当たり良好。静穏な街並みの中に快適な利便性を備えて": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区千代田３",
+    "price_man": 2430,
+    "area_sqm": 101.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_78909122/",
+    "text": "整形分譲地。南東道路で陽当たり良好。静穏な街並みの中に快適な利便性を備えて",
+    "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21564156/|ヨシコン分譲地【解放感・大規模開発×利便性】を訴求する王道スタイル": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区沓谷１",
+    "price_man": 2739,
+    "area_sqm": 135.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21564156/",
+    "text": "ヨシコン分譲地【解放感・大規模開発×利便性】を訴求する王道スタイル",
+    "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20705164/|瀬名１ 7115万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-06",
+    "location": "静岡県静岡市葵区瀬名１",
+    "price_man": 7115,
+    "area_sqm": 485.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20705164/",
+    "text": "瀬名１ 7115万円",
+    "removed_on": "2026-10-07",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

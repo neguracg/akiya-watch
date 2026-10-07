@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59918/index.html|静岡県三島市東大場1丁目": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市東大場1丁目",
       "price_man": 1080,
       "area_sqm": 222.7,
@@ -33,7 +33,7 @@
     },
     "https://www.snjhkk.com/s_r_59876/index.html|静岡県三島市東壱町田": {
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市東壱町田",
       "price_man": 1890,
       "area_sqm": 180.1,
@@ -62,7 +62,7 @@
     },
     "https://www.snjhkk.com/s_r_59874/index.html|静岡県三島市長伏": {
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市長伏",
       "price_man": 980,
       "area_sqm": null,
@@ -91,7 +91,7 @@
     },
     "https://www.snjhkk.com/s_r_59850/index.html|静岡県三島市鶴喰33-16": {
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市鶴喰33-16",
       "price_man": 3698,
       "area_sqm": 144.9,
@@ -120,7 +120,7 @@
     },
     "https://www.snjhkk.com/s_r_59796/index.html|静岡県三島市青木": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市青木",
       "price_man": 3280,
       "area_sqm": 108.2,
@@ -149,7 +149,7 @@
     },
     "https://www.snjhkk.com/s_r_59795/index.html|静岡県三島市梅名": {
       "first_seen": "2026-09-13",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市梅名",
       "price_man": 4280,
       "area_sqm": 156.0,
@@ -178,7 +178,7 @@
     },
     "https://www.snjhkk.com/s_r_59732/index.html|静岡県三島市西若町": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市西若町",
       "price_man": 2890,
       "area_sqm": null,
@@ -207,7 +207,7 @@
     },
     "https://www.snjhkk.com/s_r_59725/index.html|静岡県三島市藤代町": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "location": "静岡県三島市藤代町",
       "price_man": 3980,
       "area_sqm": 103.5,
@@ -235,6 +235,6 @@
       "tab": "home"
     }
   },
-  "hash": "41437851b52bda96",
-  "fetched_at": "2026-10-06T02:19:23.168316"
+  "hash": "d62aefed53417ce7",
+  "fetched_at": "2026-10-07T01:29:38.147477"
 }
