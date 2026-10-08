@@ -1,8 +1,40 @@
 {
   "keys": {
+    "https://jmty.jp/shizuoka/est-land/article-1idnhv|大特価 静岡県三島市大場 240㎡  仲介料無し！": {
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "location": "静岡 三島市 三島田町駅 土地販売/土地売買",
+      "price_man": 70,
+      "area_sqm": 240.0,
+      "url": "https://jmty.jp/shizuoka/est-land/article-1idnhv",
+      "text": "大特価 静岡県三島市大場 240㎡  仲介料無し！",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 1.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [
+        "別荘地",
+        "管理費"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "home"
+    },
     "https://jmty.jp/shizuoka/est-land/article-1sb6fc|【伊豆の別荘地】静岡県田方郡函南町平井　土地": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 田方郡 函南駅 土地販売/土地売買",
       "price_man": 35,
       "area_sqm": null,
@@ -35,7 +67,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1k2pcw|No.E811【静岡県伊豆の国市中】別荘地1筆あげます！": {
       "first_seen": "2026-09-09",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 228.0,
@@ -66,7 +98,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1fvz1c|№E526【静岡県伊豆の国市奈古谷】別荘地（山林）1筆あげます！...": {
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 伊豆の国市 原木駅 土地販売/土地売買",
       "price_man": null,
       "area_sqm": 272.0,
@@ -97,7 +129,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1mbxm9|分譲宅地　伊豆の国市大仁Ａ　139㎡（42坪）": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 650,
       "area_sqm": 139.0,
@@ -126,7 +158,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1mbxm5|480→350万円　分譲宅地　伊豆の国市大仁Ｂ　132㎡（40坪）": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": 350,
       "area_sqm": 132.0,
@@ -155,7 +187,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-19fibm|価格応談　分譲宅地２区画まとめて　静岡県伊豆の国市　投資・建売用...": {
       "first_seen": "2026-09-19",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 伊豆の国市 土地販売/土地売買",
       "price_man": null,
       "area_sqm": null,
@@ -184,7 +216,7 @@
     },
     "https://jmty.jp/shizuoka/est-land/article-1nn8ez|個人所有の富士急十里木高原別荘地　格安でお譲りします♪ 　価格交...": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "location": "静岡 裾野市 御殿場駅 土地販売/土地売買",
       "price_man": 28,
       "area_sqm": null,
@@ -214,6 +246,6 @@
       "tab": "home"
     }
   },
-  "hash": "d0cd0f7a30a95157",
-  "fetched_at": "2026-10-07T01:15:04.587623"
+  "hash": "429f57c10872943c",
+  "fetched_at": "2026-10-08T01:35:42.461835"
 }
