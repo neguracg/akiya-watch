@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_gotenba/niihashi_1289-621/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 1400,
       "area_sqm": 244.9,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/itazuma_233-2/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 2000,
       "area_sqm": 556.9,
@@ -60,7 +60,7 @@
     },
     "http://www.takane-re.jp/tochi_busines/kamikobayashi/details.html|静岡県御殿場市上小林 上小林売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市上小林 上小林売農地",
       "price_man": 1075,
       "area_sqm": 4444.0,
@@ -89,7 +89,7 @@
     },
     "http://www.takane-re.jp/tochi_busines/oozeki/details.html|静岡県御殿場市大堰 大堰売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市大堰 大堰売農地",
       "price_man": 472,
       "area_sqm": 1958.0,
@@ -116,38 +116,9 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
-    "http://www.takane-re.jp/tochi_gotenba/nakayama/details.html|静岡県御殿場市中山 中山売土地": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
-      "location": "静岡県御殿場市中山 中山売土地",
-      "price_man": 1050,
-      "area_sqm": 252.1,
-      "url": "http://www.takane-re.jp/tochi_gotenba/nakayama/details.html",
-      "text": "静岡県御殿場市中山 中山売土地",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 13.8,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
-    },
     "http://www.takane-re.jp/tochi_gotenba/higashitanaka_02/details.html|静岡県御殿場市東田中 東田中売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市東田中 東田中売土地",
       "price_man": 3229,
       "area_sqm": 427.1,
@@ -178,7 +149,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/ohsaka/details.html|静岡県御殿場市大坂 大坂売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-09",
       "location": "静岡県御殿場市大坂 大坂売土地",
       "price_man": 580,
       "area_sqm": 201.6,
@@ -208,6 +179,6 @@
       "tab": "camp"
     }
   },
-  "hash": "4cba49000941939a",
-  "fetched_at": "2026-10-07T01:35:56.542622"
+  "hash": "35d8193a2ac4f518",
+  "fetched_at": "2026-10-09T02:07:32.808024"
 }

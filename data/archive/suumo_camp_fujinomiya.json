@@ -98,17 +98,6 @@
     "removed_on": "2026-09-13",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|キャンプ好きなアクティブ世帯に是非！敷地約68坪、アウトドアにも便利な立地": {
-    "first_seen": "2026-09-11",
-    "last_seen": "2026-09-13",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "キャンプ好きなアクティブ世帯に是非！敷地約68坪、アウトドアにも便利な立地",
-    "removed_on": "2026-09-15",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地約68坪豊かな暮らし！バス停「子安神社」徒歩約3分！コンビニ徒歩約5分": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-09-15",
@@ -327,6 +316,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
     "text": "小さなお子様の居る世帯におすすめな立地！コンビニ徒歩約5分、幼稚園近隣！",
     "removed_on": "2026-10-07",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21144454/|☆建築条件無し！住宅用地として利用可！現況は駐車場利用です。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-08",
+    "location": "静岡県富士宮市大中里",
+    "price_man": 380,
+    "area_sqm": 305.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21144454/",
+    "text": "☆建築条件無し！住宅用地として利用可！現況は駐車場利用です。",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|約68坪で駐車もしやすくゆとりのある敷地です。コンビニ徒歩約５分の便利立地": {
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "約68坪で駐車もしやすくゆとりのある敷地です。コンビニ徒歩約５分の便利立地",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_79183850/|【富士宮市】【デグチエステート】猪之頭横道上土地": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-10-08",
+    "location": "静岡県富士宮市猪之頭203-1　外４筆",
+    "price_man": 1000,
+    "area_sqm": 1324.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_79183850/",
+    "text": "【富士宮市】【デグチエステート】猪之頭横道上土地",
+    "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }

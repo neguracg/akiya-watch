@@ -75,5 +75,16 @@
     "text": "新築売住宅 御殿場市川島田",
     "removed_on": "2026-10-05",
     "site_name": "空き家バンクしずおか 御殿場市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177957/settle/1|売マンション 御殿場市新橋1208-1": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-08",
+    "location": "御殿場市新橋1208-1",
+    "price_man": 250,
+    "area_sqm": 55.3,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177957/settle/1",
+    "text": "売マンション 御殿場市新橋1208-1",
+    "removed_on": "2026-10-09",
+    "site_name": "空き家バンクしずおか 御殿場市"
   }
 }

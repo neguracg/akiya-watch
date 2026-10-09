@@ -1154,17 +1154,6 @@
     "removed_on": "2026-10-03",
     "site_name": "空き家バンクしずおか 沼津市"
   },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48565/settle/1|売住宅 沼津市足高３２２番地２２１": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-10-02",
-    "location": "沼津市足高３２２番地２２１",
-    "price_man": 3480,
-    "area_sqm": 175.6,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48565/settle/1",
-    "text": "売住宅 沼津市足高３２２番地２２１",
-    "removed_on": "2026-10-03",
-    "site_name": "空き家バンクしずおか 沼津市"
-  },
   "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169715/settle/1|売土地 沼津市本郷町": {
     "first_seen": "2026-06-21",
     "last_seen": "2026-10-03",
@@ -1218,6 +1207,17 @@
     "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177108/settle/1",
     "text": "売住宅 沼津市吉田町",
     "removed_on": "2026-10-06",
+    "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1|売土地 沼津市庄栄町": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-08",
+    "location": "沼津市庄栄町",
+    "price_man": 2300,
+    "area_sqm": 164.8,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1",
+    "text": "売土地 沼津市庄栄町",
+    "removed_on": "2026-10-09",
     "site_name": "空き家バンクしずおか 沼津市"
   }
 }

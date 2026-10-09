@@ -406,17 +406,6 @@
     "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/|緑豊かな開発分譲地国道２４６すぐで交通の便が良い": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-02",
-    "location": "神奈川県秦野市平沢239-2",
-    "price_man": 1330,
-    "area_sqm": 125.0,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/",
-    "text": "緑豊かな開発分譲地国道２４６すぐで交通の便が良い",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21482809/|富士山の見える87坪超の土地出ました！": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-02",
@@ -472,37 +461,48 @@
     "removed_on": "2026-10-05",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21514213/|堀山下 1360万円～1380万円": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-10-06",
-    "location": "神奈川県秦野市堀山下571番5",
-    "price_man": 1360,
-    "area_sqm": 125.7,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21514213/",
-    "text": "堀山下 1360万円～1380万円",
-    "removed_on": "2026-10-07",
-    "site_name": "SUUMO 土地 秦野市"
-  },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78596526/|南が丘５（秦野駅） 1880万円": {
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78013899/|◆陽当たり良好◆小学校・ホームセンター・公園が徒歩10分圏内と充実の環境": {
     "first_seen": "2026-09-04",
-    "last_seen": "2026-10-06",
-    "location": "神奈川県秦野市南が丘５",
-    "price_man": 1880,
-    "area_sqm": 239.1,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78596526/",
-    "text": "南が丘５（秦野駅） 1880万円",
-    "removed_on": "2026-10-07",
+    "last_seen": "2026-10-08",
+    "location": "神奈川県秦野市堀川",
+    "price_man": 1380,
+    "area_sqm": 145.8,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78013899/",
+    "text": "◆陽当たり良好◆小学校・ホームセンター・公園が徒歩10分圏内と充実の環境",
+    "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21695946/|若松町（渋沢駅） 2350万円": {
-    "first_seen": "2026-09-12",
-    "last_seen": "2026-10-06",
-    "location": "神奈川県秦野市若松町",
-    "price_man": 2350,
-    "area_sqm": 215.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21695946/",
-    "text": "若松町（渋沢駅） 2350万円",
-    "removed_on": "2026-10-07",
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21599083/|建築条件はございません。住環境・日当たり良好で閑静な住宅街です。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-08",
+    "location": "神奈川県秦野市緑町15-21",
+    "price_man": 1950,
+    "area_sqm": 158.8,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21599083/",
+    "text": "建築条件はございません。住環境・日当たり良好で閑静な住宅街です。",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/|平沢（渋沢駅） 1330万円～1580万円": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-08",
+    "location": "神奈川県秦野市平沢239-2",
+    "price_man": 1330,
+    "area_sqm": 125.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20191985/",
+    "text": "平沢（渋沢駅） 1330万円～1580万円",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20376048/|南矢名 2300万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-08",
+    "location": "神奈川県秦野市南矢名",
+    "price_man": 2300,
+    "area_sqm": 542.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20376048/",
+    "text": "南矢名 2300万円",
+    "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

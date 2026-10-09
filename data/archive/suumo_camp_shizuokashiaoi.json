@@ -592,5 +592,49 @@
     "text": "瀬名１ 7115万円",
     "removed_on": "2026-10-07",
     "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21519178/|◆建築条件なし◆南側道路のため日当たり良好！！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-08",
+    "location": "静岡県静岡市葵区籠上",
+    "price_man": 850,
+    "area_sqm": 93.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21519178/",
+    "text": "◆建築条件なし◆南側道路のため日当たり良好！！",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20752445/|山崎１ 1250万円": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-10-08",
+    "location": "静岡県静岡市葵区山崎１(地番8-4)",
+    "price_man": 1250,
+    "area_sqm": 112.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20752445/",
+    "text": "山崎１ 1250万円",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/|スーパー、金融機関徒歩圏内": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-10-08",
+    "location": "静岡県静岡市葵区北番町95-4",
+    "price_man": 1511,
+    "area_sqm": 76.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/",
+    "text": "スーパー、金融機関徒歩圏内",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/|小学校まで徒歩５分ほど。静清バイパス瀬名IC・商店街なども車で５分ほど。": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-10-08",
+    "location": "静岡県静岡市葵区瀬名３-7-8",
+    "price_man": 1850,
+    "area_sqm": 166.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/",
+    "text": "小学校まで徒歩５分ほど。静清バイパス瀬名IC・商店街なども車で５分ほど。",
+    "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 静岡市葵区"
   }
 }
