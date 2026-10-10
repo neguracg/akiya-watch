@@ -504,5 +504,27 @@
     "text": "南矢名 2300万円",
     "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20431180/|南矢名 1195万円": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-09",
+    "location": "神奈川県秦野市南矢名1130番105",
+    "price_man": 1195,
+    "area_sqm": 184.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20431180/",
+    "text": "南矢名 1195万円",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788878/|【小田急不動産鶴川店】建築条件付き売地ではございません◎駅徒歩5分の立地": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-09",
+    "location": "神奈川県秦野市本町１",
+    "price_man": 2980,
+    "area_sqm": 183.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788878/",
+    "text": "【小田急不動産鶴川店】建築条件付き売地ではございません◎駅徒歩5分の立地",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

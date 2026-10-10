@@ -241,17 +241,6 @@
     "removed_on": "2026-09-01",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1490460002362/|伊豆の国市花坂　中古戸建": {
-    "first_seen": "2026-08-31",
-    "last_seen": "2026-08-31",
-    "location": "伊豆の国市花坂　中古戸建",
-    "price_man": 750,
-    "area_sqm": 1059.9,
-    "url": "https://www.homes.co.jp/kodate/b-1490460002362/",
-    "text": "伊豆の国市花坂　中古戸建",
-    "removed_on": "2026-09-01",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1500050000713/|売中古戸建　伊豆の国市墹之上": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-09-10",
@@ -329,17 +318,6 @@
     "removed_on": "2026-09-30",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1490460002293/|伊豆の国市北江間　中古戸建": {
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-30",
-    "location": "伊豆の国市北江間　中古戸建",
-    "price_man": 650,
-    "area_sqm": 200.2,
-    "url": "https://www.homes.co.jp/kodate/b-1490460002293/",
-    "text": "伊豆の国市北江間　中古戸建",
-    "removed_on": "2026-10-01",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-33303660000993/|JR東海道本線 熱海駅 16km": {
     "first_seen": "2026-09-30",
     "last_seen": "2026-10-01",
@@ -360,6 +338,39 @@
     "url": "https://www.homes.co.jp/kodate/b-1341600001706/",
     "text": "JR東海道本線 熱海駅 15.4km",
     "removed_on": "2026-10-04",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-89420000408/|伊豆の国市三福中古戸建": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-09",
+    "location": "伊豆の国市三福中古戸建",
+    "price_man": 2980,
+    "area_sqm": 332.6,
+    "url": "https://www.homes.co.jp/kodate/b-89420000408/",
+    "text": "伊豆の国市三福中古戸建",
+    "removed_on": "2026-10-10",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33303660000702/|JR東海道本線 熱海駅 15km": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-10-09",
+    "location": "JR東海道本線 熱海駅 15km",
+    "price_man": 380,
+    "area_sqm": 337.0,
+    "url": "https://www.homes.co.jp/kodate/b-33303660000702/",
+    "text": "JR東海道本線 熱海駅 15km",
+    "removed_on": "2026-10-10",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1489770000745/|伊豆の国市奈古谷 中古戸建": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-09",
+    "location": "伊豆の国市奈古谷 中古戸建",
+    "price_man": 180,
+    "area_sqm": 97.7,
+    "url": "https://www.homes.co.jp/kodate/b-1489770000745/",
+    "text": "伊豆の国市奈古谷 中古戸建",
+    "removed_on": "2026-10-10",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

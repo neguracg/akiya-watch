@@ -538,17 +538,6 @@
     "removed_on": "2026-10-07",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21258366/|価格変更しました！更地でのお引渡になります。建築条件無。一括購入も可！": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-06",
-    "location": "静岡県静岡市葵区昭府１",
-    "price_man": 2490,
-    "area_sqm": 191.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21258366/",
-    "text": "価格変更しました！更地でのお引渡になります。建築条件無。一括購入も可！",
-    "removed_on": "2026-10-07",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21540147/|新伝馬３ 1965万円～2133万円": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-06",
@@ -635,6 +624,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/",
     "text": "小学校まで徒歩５分ほど。静清バイパス瀬名IC・商店街なども車で５分ほど。",
     "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20836297/|閑静な住宅地に105坪のゆとりある売土地": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-09",
+    "location": "静岡県静岡市葵区千代１",
+    "price_man": 4000,
+    "area_sqm": 350.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20836297/",
+    "text": "閑静な住宅地に105坪のゆとりある売土地",
+    "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

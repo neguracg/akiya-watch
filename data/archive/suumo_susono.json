@@ -571,17 +571,6 @@
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|ひろびろ340坪以上！富士山が見えるので見学から楽しい時間が過ごせます！": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-09-28",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "ひろびろ340坪以上！富士山が見えるので見学から楽しい時間が過ごせます！",
-    "removed_on": "2026-09-29",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|雄大な富士山が間近に見える☆都心から100km圏内の移住先としても良い立地": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-09-29",
@@ -668,6 +657,61 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "広大な340坪以上の敷地！豊かな自然はお子様の情操教育・野鳥観察にも◎",
     "removed_on": "2026-10-09",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77533939/|建築条件無■10/1更新■裾野市水窪１区画": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-09",
+    "location": "静岡県裾野市水窪",
+    "price_man": 2830,
+    "area_sqm": 200.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77533939/",
+    "text": "建築条件無■10/1更新■裾野市水窪１区画",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|移住先としても選ばれる自然豊かな都心100km圏内の富士山が見える別荘地！": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-09",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "移住先としても選ばれる自然豊かな都心100km圏内の富士山が見える別荘地！",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20935308/|佐野（裾野駅） 1570万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-09",
+    "location": "静岡県裾野市佐野",
+    "price_man": 1570,
+    "area_sqm": 157.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20935308/",
+    "text": "佐野（裾野駅） 1570万円",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20935307/|【裾野市佐野　全５区画】残り２区画となりました！自然豊かな閑静な住宅街♪": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-09",
+    "location": "静岡県裾野市佐野",
+    "price_man": 1650,
+    "area_sqm": 155.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20935307/",
+    "text": "【裾野市佐野　全５区画】残り２区画となりました！自然豊かな閑静な住宅街♪",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21761766/|建築条件無し！！土地６０坪前後の整形地。現地からは富士山も見えます。": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-09",
+    "location": "静岡県裾野市佐野",
+    "price_man": 1930,
+    "area_sqm": 195.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21761766/",
+    "text": "建築条件無し！！土地６０坪前後の整形地。現地からは富士山も見えます。",
+    "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

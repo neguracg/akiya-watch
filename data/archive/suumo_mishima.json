@@ -526,5 +526,27 @@
     "text": "イトーヨーカドー徒歩９分！自由設計で叶う家事ラクな間取りと安心の全２６区画",
     "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21533981/|富士ビレッジ（三島駅） 1880万円": {
+    "first_seen": "2026-08-23",
+    "last_seen": "2026-10-09",
+    "location": "静岡県三島市富士ビレッジ",
+    "price_man": 1880,
+    "area_sqm": 200.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21533981/",
+    "text": "富士ビレッジ（三島駅） 1880万円",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/|土地面積１００坪以上、建築条件なし": {
+    "first_seen": "2026-08-03",
+    "last_seen": "2026-10-09",
+    "location": "静岡県三島市文教町２-4777",
+    "price_man": 3880,
+    "area_sqm": 346.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/",
+    "text": "土地面積１００坪以上、建築条件なし",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

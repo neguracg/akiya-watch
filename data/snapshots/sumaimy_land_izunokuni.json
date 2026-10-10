@@ -1,13 +1,13 @@
 {
   "keys": {
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916|伊豆の国市長崎350-6": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
-      "location": "伊豆の国市長崎350-6",
-      "price_man": 980,
-      "area_sqm": 201.0,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916",
-      "text": "伊豆の国市長崎350-6",
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99970|伊豆の国市古奈1139-3": {
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10",
+      "location": "伊豆の国市古奈1139-3",
+      "price_man": 800,
+      "area_sqm": 139.6,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/99970",
+      "text": "伊豆の国市古奈1139-3",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -16,16 +16,13 @@
       "shikikin": null,
       "reikin": null,
       "rebuild_mark": "△",
-      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
       "chimoku": "—",
-      "toshikeikaku": "市街化調整区域",
+      "toshikeikaku": "市街化区域",
       "setsudo": null,
-      "tsubo_man": 16.1,
+      "tsubo_man": 18.9,
       "verdict": "不適合",
-      "interest": [
-        "調整区域",
-        "無指定"
-      ],
+      "interest": [],
       "caution": [],
       "ng_areas": [],
       "zokujinsei": false,
@@ -34,7 +31,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132918|伊豆の国市長崎350-8": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市長崎350-8",
       "price_man": 1150,
       "area_sqm": 201.5,
@@ -64,9 +61,41 @@
       "machi": "伊豆の国市",
       "tab": "camp"
     },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916|伊豆の国市長崎350-6": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-10-10",
+      "location": "伊豆の国市長崎350-6",
+      "price_man": 980,
+      "area_sqm": 201.0,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/132916",
+      "text": "伊豆の国市長崎350-6",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化調整区域は原則新築不可・許可要件次第＝本命候補",
+      "chimoku": "—",
+      "toshikeikaku": "市街化調整区域",
+      "setsudo": null,
+      "tsubo_man": 16.1,
+      "verdict": "不適合",
+      "interest": [
+        "調整区域",
+        "無指定"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156379|伊豆の国市古奈": {
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市古奈",
       "price_man": 2480,
       "area_sqm": 355.6,
@@ -95,7 +124,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173408|伊豆の国市北江間": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市北江間",
       "price_man": 750,
       "area_sqm": 366.2,
@@ -127,7 +156,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/119700|伊豆の国市大仁360-2": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市大仁360-2",
       "price_man": 1350,
       "area_sqm": 443.7,
@@ -156,7 +185,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143272|伊豆の国市四日町1005-1": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市四日町1005-1",
       "price_man": 1300,
       "area_sqm": 190.1,
@@ -185,7 +214,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/66902|伊豆の国市原木1131-8": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市原木1131-8",
       "price_man": 750,
       "area_sqm": 136.5,
@@ -214,7 +243,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175551|伊豆の国市天野": {
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市天野",
       "price_man": 1080,
       "area_sqm": 363.0,
@@ -246,7 +275,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173222|伊豆の国市原木": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市原木",
       "price_man": 980,
       "area_sqm": 165.1,
@@ -275,7 +304,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177909|伊豆の国市原木": {
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市原木",
       "price_man": 980,
       "area_sqm": 166.1,
@@ -304,7 +333,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177910|伊豆の国市原木": {
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市原木",
       "price_man": 950,
       "area_sqm": 165.5,
@@ -333,7 +362,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175245|伊豆の国市古奈347-1": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市古奈347-1",
       "price_man": 1866,
       "area_sqm": 247.7,
@@ -362,7 +391,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177803|伊豆の国市奈古谷": {
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市奈古谷",
       "price_man": 500,
       "area_sqm": 273.1,
@@ -394,7 +423,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/40007|伊豆の国市大仁465-2": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市大仁465-2",
       "price_man": 1400,
       "area_sqm": 162.8,
@@ -423,7 +452,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165628|伊豆の国市大仁858-2": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市大仁858-2",
       "price_man": 1480,
       "area_sqm": 310.9,
@@ -455,7 +484,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111173|伊豆の国市奈古谷小松ケ原2227-215": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市奈古谷小松ケ原2227-215",
       "price_man": 100,
       "area_sqm": 1032.0,
@@ -489,7 +518,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/56345|伊豆の国市四日町1005-1": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市四日町1005-1",
       "price_man": 1300,
       "area_sqm": 190.1,
@@ -518,7 +547,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177305|伊豆の国市天野": {
       "first_seen": "2026-09-13",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市天野",
       "price_man": 1499,
       "area_sqm": 150.5,
@@ -547,7 +576,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139291|伊豆の国市原木38-1": {
       "first_seen": "2026-09-12",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市原木38-1",
       "price_man": 1390,
       "area_sqm": 270.0,
@@ -576,7 +605,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171443|伊豆の国市奈古谷": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市奈古谷",
       "price_man": 780,
       "area_sqm": 381.0,
@@ -609,7 +638,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137719|伊豆の国市長岡370-1・同所370-2": {
       "first_seen": "2026-09-08",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市長岡370-1・同所370-2",
       "price_man": 3160,
       "area_sqm": 873.0,
@@ -638,7 +667,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159455|伊豆の国市韮山多田富士見ニュータウン": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市韮山多田富士見ニュータウン",
       "price_man": 100,
       "area_sqm": 345.0,
@@ -672,7 +701,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138640|伊豆の国市長崎350-7": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市長崎350-7",
       "price_man": 1150,
       "area_sqm": 226.3,
@@ -704,7 +733,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170781|伊豆の国市韮山山木": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市韮山山木",
       "price_man": 250,
       "area_sqm": 616.0,
@@ -736,7 +765,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151881|伊豆の国市宗光寺662-71": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市宗光寺662-71",
       "price_man": 680,
       "area_sqm": 207.9,
@@ -768,7 +797,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/97610|伊豆の国市長岡": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市長岡",
       "price_man": 1480,
       "area_sqm": 343.6,
@@ -797,7 +826,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163205|伊豆の国市田京": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市田京",
       "price_man": 300,
       "area_sqm": 257.2,
@@ -829,7 +858,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/111154|伊豆の国市奈古谷小松ケ原2228-200": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市奈古谷小松ケ原2228-200",
       "price_man": 680,
       "area_sqm": 337.0,
@@ -861,7 +890,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144639|伊豆の国市奈古谷2227-107": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "location": "伊豆の国市奈古谷2227-107",
       "price_man": 80,
       "area_sqm": 495.0,
@@ -890,37 +919,8 @@
       "zokujinsei": false,
       "machi": "伊豆の国市",
       "tab": "camp"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175803|伊豆の国市長岡": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-10-09",
-      "location": "伊豆の国市長岡",
-      "price_man": 1400,
-      "area_sqm": 354.1,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175803",
-      "text": "伊豆の国市長岡",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 13.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "camp"
     }
   },
-  "hash": "6c373894be93e288",
-  "fetched_at": "2026-10-09T02:11:30.548732"
+  "hash": "c09a4d300cefe9c9",
+  "fetched_at": "2026-10-10T01:55:40.057625"
 }

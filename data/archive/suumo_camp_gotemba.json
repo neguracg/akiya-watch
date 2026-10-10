@@ -64,5 +64,27 @@
     "text": "東田中（御殿場駅） 1650万円",
     "removed_on": "2026-09-27",
     "site_name": "SUUMO 土地 御殿場市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21224497/|萩原 990万円": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-09",
+    "location": "静岡県御殿場市萩原３３９－１",
+    "price_man": 990,
+    "area_sqm": 254.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21224497/",
+    "text": "萩原 990万円",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 御殿場市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21666293/|敷地面積約８８坪、北西角地、建築条件なし": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-09",
+    "location": "静岡県御殿場市二の岡１",
+    "price_man": 2750,
+    "area_sqm": 291.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21666293/",
+    "text": "敷地面積約８８坪、北西角地、建築条件なし",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 御殿場市"
   }
 }

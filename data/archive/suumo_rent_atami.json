@@ -2000,5 +2000,27 @@
     "text": "ＪＲ東海道本線 熱海駅 4階建 築53年",
     "removed_on": "2026-10-09",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110195786/|ラ・ヴィ熱海": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-09",
+    "location": "静岡県熱海市林ガ丘町",
+    "price_man": 15.0,
+    "area_sqm": 50.4,
+    "url": "https://suumo.jp/chintai/jnc_000110195786/",
+    "text": "ラ・ヴィ熱海",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110176569/?bc=100529710675|ビレッジハウス熱海1号棟": {
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-09",
+    "location": "静岡県熱海市山手町",
+    "price_man": 3.06,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000110176569/?bc=100529710675",
+    "text": "ビレッジハウス熱海1号棟",
+    "removed_on": "2026-10-10",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

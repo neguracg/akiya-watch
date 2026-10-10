@@ -1209,15 +1209,15 @@
     "removed_on": "2026-10-06",
     "site_name": "空き家バンクしずおか 沼津市"
   },
-  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1|売土地 沼津市庄栄町": {
-    "first_seen": "2026-06-21",
-    "last_seen": "2026-10-08",
-    "location": "沼津市庄栄町",
-    "price_man": 2300,
-    "area_sqm": 164.8,
-    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/161703/settle/1",
-    "text": "売土地 沼津市庄栄町",
-    "removed_on": "2026-10-09",
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175656/settle/1|新築売住宅 沼津市大塚428-1": {
+    "first_seen": "2026-07-25",
+    "last_seen": "2026-10-09",
+    "location": "沼津市大塚428-1",
+    "price_man": 2470,
+    "area_sqm": 161.6,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175656/settle/1",
+    "text": "新築売住宅 沼津市大塚428-1",
+    "removed_on": "2026-10-10",
     "site_name": "空き家バンクしずおか 沼津市"
   }
 }
