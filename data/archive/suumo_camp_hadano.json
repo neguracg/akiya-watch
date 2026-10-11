@@ -526,5 +526,38 @@
     "text": "【小田急不動産鶴川店】建築条件付き売地ではございません◎駅徒歩5分の立地",
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/|西田原 1280万円": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県秦野市西田原",
+    "price_man": 1280,
+    "area_sqm": 155.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/",
+    "text": "西田原 1280万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/|渋沢（渋沢駅） 1380万円": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県秦野市渋沢1428-3",
+    "price_man": 1380,
+    "area_sqm": 147.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/",
+    "text": "渋沢（渋沢駅） 1380万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21433033/|【駅徒歩１３分】40坪越の陽当り良好な立地に間取りは組み換え自由な限定販売": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県秦野市曽屋１",
+    "price_man": 1980,
+    "area_sqm": 132.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21433033/",
+    "text": "【駅徒歩１３分】40坪越の陽当り良好な立地に間取りは組み換え自由な限定販売",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

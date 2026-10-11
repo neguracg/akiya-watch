@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169607|駿東郡小山町藤曲": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-10-11",
+      "location": "駿東郡小山町藤曲",
+      "price_man": 400,
+      "area_sqm": 254.5,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169607",
+      "text": "駿東郡小山町藤曲",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "—",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 5.2,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "小山町",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158437|駿東郡小山町大胡田": {
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町大胡田",
       "price_man": 643,
       "area_sqm": 2126.0,
@@ -34,7 +63,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/26838|駿東郡小山町藤曲590-15": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町藤曲590-15",
       "price_man": 1280,
       "area_sqm": 642.5,
@@ -63,7 +92,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/72570|駿東郡小山町須走232-2": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走232-2",
       "price_man": 720,
       "area_sqm": 200.0,
@@ -92,7 +121,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158401|駿東郡小山町大胡田": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町大胡田",
       "price_man": 2000,
       "area_sqm": 580.1,
@@ -124,7 +153,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171215|駿東郡小山町須走": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走",
       "price_man": 500,
       "area_sqm": 200.9,
@@ -156,7 +185,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162234|駿東郡小山町須走": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走",
       "price_man": 500,
       "area_sqm": 200.9,
@@ -188,7 +217,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159128|駿東郡小山町藤曲": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町藤曲",
       "price_man": 1280,
       "area_sqm": 594.0,
@@ -220,7 +249,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/101494|駿東郡小山町藤曲369-5": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町藤曲369-5",
       "price_man": 880,
       "area_sqm": 264.7,
@@ -249,7 +278,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176339|駿東郡小山町須走": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走",
       "price_man": 500,
       "area_sqm": 592.0,
@@ -281,7 +310,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/143496|駿東郡小山町須走58-118": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走58-118",
       "price_man": 500,
       "area_sqm": 592.0,
@@ -313,7 +342,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/138006|駿東郡小山町中島51-10": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町中島51-10",
       "price_man": 1300,
       "area_sqm": 287.2,
@@ -344,7 +373,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151054|駿東郡小山町中島60-11": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町中島60-11",
       "price_man": 1180,
       "area_sqm": 230.2,
@@ -373,38 +402,9 @@
       "machi": "小山町",
       "tab": "camp"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169607|駿東郡小山町藤曲": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
-      "location": "駿東郡小山町藤曲",
-      "price_man": 400,
-      "area_sqm": 254.5,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169607",
-      "text": "駿東郡小山町藤曲",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
-      "chimoku": "—",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 5.2,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "小山町",
-      "tab": "camp"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175414|駿東郡小山町須走4-4": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町須走4-4",
       "price_man": 2700,
       "area_sqm": 1991.0,
@@ -433,7 +433,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166423|駿東郡小山町菅沼": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町菅沼",
       "price_man": 1758,
       "area_sqm": 430.3,
@@ -462,7 +462,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140627|駿東郡小山町菅沼980-1": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町菅沼980-1",
       "price_man": 790,
       "area_sqm": 277.5,
@@ -491,7 +491,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137583|駿東郡小山町藤曲369-5": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町藤曲369-5",
       "price_man": 880,
       "area_sqm": 264.7,
@@ -520,7 +520,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137566|駿東郡小山町一色335-8": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町一色335-8",
       "price_man": 1120,
       "area_sqm": 200.1,
@@ -549,7 +549,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166431|駿東郡小山町菅沼": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町菅沼",
       "price_man": 1015,
       "area_sqm": 231.3,
@@ -578,7 +578,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137349|駿東郡小山町中島51-10": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町中島51-10",
       "price_man": 1300,
       "area_sqm": 287.2,
@@ -609,7 +609,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/137565|駿東郡小山町一色335-7": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "駿東郡小山町一色335-7",
       "price_man": 1150,
       "area_sqm": 200.1,
@@ -637,6 +637,6 @@
       "tab": "camp"
     }
   },
-  "hash": "2ef6d2b142aca602",
-  "fetched_at": "2026-10-10T01:58:00.047071"
+  "hash": "66e6d10367b0dab9",
+  "fetched_at": "2026-10-11T01:09:25.706093"
 }

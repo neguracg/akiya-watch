@@ -1869,17 +1869,6 @@
     "removed_on": "2026-09-19",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/c79214ee2906bc079dad0899b4e8792c5d8c4d73/|ソレイユ　ノール": {
-    "first_seen": "2026-09-19",
-    "last_seen": "2026-09-19",
-    "location": "静岡県三島市南町17-6",
-    "price_man": 6.4,
-    "area_sqm": 49.0,
-    "url": "https://www.homes.co.jp/chintai/room/c79214ee2906bc079dad0899b4e8792c5d8c4d73/",
-    "text": "ソレイユ　ノール",
-    "removed_on": "2026-09-19",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/b10df9d6c54da3fd58944594dd0da0e8c14843dc/|Ｄｒｅａｍｉｏ": {
     "first_seen": "2026-09-19",
     "last_seen": "2026-09-19",
@@ -2496,17 +2485,6 @@
     "removed_on": "2026-10-08",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/be75a52239925dc4a0514e8ed29a6057be2ef9d6/|（仮）飯塚様長屋住宅": {
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市萩400",
-    "price_man": 11.0,
-    "area_sqm": 85.3,
-    "url": "https://www.homes.co.jp/chintai/room/be75a52239925dc4a0514e8ed29a6057be2ef9d6/",
-    "text": "（仮）飯塚様長屋住宅",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/1e28f3e8ce340a6afd2519e27ccc2240cbccbf84/|リベラエレンシア": {
     "first_seen": "2026-10-01",
     "last_seen": "2026-10-08",
@@ -2529,28 +2507,6 @@
     "removed_on": "2026-10-09",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/b28ef0d1e482c671e9a4985717019a0c991c7d57/|アヴェニール": {
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市徳倉 1丁目5-31",
-    "price_man": 12.0,
-    "area_sqm": 79.5,
-    "url": "https://www.homes.co.jp/chintai/room/b28ef0d1e482c671e9a4985717019a0c991c7d57/",
-    "text": "アヴェニール",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/0a8bd23fd35b4b3357be8b63e68d9cc6a0a8a6ab/|ロイヤルヒルズ加茂": {
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市加茂77-3-1",
-    "price_man": 8.9,
-    "area_sqm": 93.0,
-    "url": "https://www.homes.co.jp/chintai/room/0a8bd23fd35b4b3357be8b63e68d9cc6a0a8a6ab/",
-    "text": "ロイヤルヒルズ加茂",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/555812db04e54d05fda83a061cfbcf774a4c8a01/|フォンテーヌu": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-08",
@@ -2559,94 +2515,6 @@
     "area_sqm": 40.0,
     "url": "https://www.homes.co.jp/chintai/room/555812db04e54d05fda83a061cfbcf774a4c8a01/",
     "text": "フォンテーヌu",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/07d93cec6fb7630bffe0b254c0b409d3703d3699/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 8.0,
-    "area_sqm": 30.1,
-    "url": "https://www.homes.co.jp/chintai/room/07d93cec6fb7630bffe0b254c0b409d3703d3699/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/c1667243ce428c20bb18a46e0d3ed693c50ed565/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 7.8,
-    "area_sqm": 29.9,
-    "url": "https://www.homes.co.jp/chintai/room/c1667243ce428c20bb18a46e0d3ed693c50ed565/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/a22cf42bbda84913057b36c842a4e9ecbbc52bd7/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 7.6,
-    "area_sqm": 29.9,
-    "url": "https://www.homes.co.jp/chintai/room/a22cf42bbda84913057b36c842a4e9ecbbc52bd7/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/64291e95d4ae5bfabc031809f12d3d3d395cc8b0/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 7.5,
-    "area_sqm": 30.1,
-    "url": "https://www.homes.co.jp/chintai/room/64291e95d4ae5bfabc031809f12d3d3d395cc8b0/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/b241c0eef1548c27a359d50e8d7b4463666fdd28/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 7.1,
-    "area_sqm": 30.1,
-    "url": "https://www.homes.co.jp/chintai/room/b241c0eef1548c27a359d50e8d7b4463666fdd28/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/33c0314afe8c78e1b2ef8e671c0cc82cc44a42cb/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 7.1,
-    "area_sqm": 31.4,
-    "url": "https://www.homes.co.jp/chintai/room/33c0314afe8c78e1b2ef8e671c0cc82cc44a42cb/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/b82bea3a093bce6e16768728696787478474fa4a/|Dreamio": {
-    "first_seen": "2026-10-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市大宮町 3丁目4-21",
-    "price_man": 6.8,
-    "area_sqm": 30.1,
-    "url": "https://www.homes.co.jp/chintai/room/b82bea3a093bce6e16768728696787478474fa4a/",
-    "text": "Dreamio",
-    "removed_on": "2026-10-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/43c8c50dcbdc4016e259fd25709ef91c3ecda161/|レアールマンションソレイユ": {
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-08",
-    "location": "静岡県三島市谷田537-1",
-    "price_man": 7.7,
-    "area_sqm": 75.6,
-    "url": "https://www.homes.co.jp/chintai/room/43c8c50dcbdc4016e259fd25709ef91c3ecda161/",
-    "text": "レアールマンションソレイユ",
     "removed_on": "2026-10-09",
     "site_name": "LIFULL 賃貸 三島市"
   },
@@ -2780,6 +2648,116 @@
     "url": "https://www.homes.co.jp/chintai/room/b947d206769cc36f9e88eb323c8bd2035a9e9b50/",
     "text": "フリーデ　エス",
     "removed_on": "2026-10-10",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/9317e06581cb421e6493e3865312d8e3a9bb13f1/|クレシア": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市加茂",
+    "price_man": 7.0,
+    "area_sqm": 57.9,
+    "url": "https://www.homes.co.jp/chintai/room/9317e06581cb421e6493e3865312d8e3a9bb13f1/",
+    "text": "クレシア",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/dc3129ca0f7dab9553d273621b0e03290e3dd04f/|クレシア": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市加茂",
+    "price_man": 7.0,
+    "area_sqm": 57.9,
+    "url": "https://www.homes.co.jp/chintai/room/dc3129ca0f7dab9553d273621b0e03290e3dd04f/",
+    "text": "クレシア",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/3324f27eda970b98086742edf157eb2faa4f0990/|ＸＥＶＯ　Ｋ（ジーボケー）": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市松本",
+    "price_man": 8.2,
+    "area_sqm": 59.2,
+    "url": "https://www.homes.co.jp/chintai/room/3324f27eda970b98086742edf157eb2faa4f0990/",
+    "text": "ＸＥＶＯ　Ｋ（ジーボケー）",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/c9eff4308bb94aa7332fb1d2f4f54d51af8e6c28/|アンソレイエ": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.5,
+    "area_sqm": 34.2,
+    "url": "https://www.homes.co.jp/chintai/room/c9eff4308bb94aa7332fb1d2f4f54d51af8e6c28/",
+    "text": "アンソレイエ",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/804665428cb8622a1802eb73bad4364b6ae02684/|アンソレイエ": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.5,
+    "area_sqm": 34.2,
+    "url": "https://www.homes.co.jp/chintai/room/804665428cb8622a1802eb73bad4364b6ae02684/",
+    "text": "アンソレイエ",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/853de410c97d0a5e66371dfb00c3b5b5e1aa2436/|グランポレール": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市壱町田",
+    "price_man": 6.2,
+    "area_sqm": 40.1,
+    "url": "https://www.homes.co.jp/chintai/room/853de410c97d0a5e66371dfb00c3b5b5e1aa2436/",
+    "text": "グランポレール",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/7df5c80d8aef812dd3b7c68cf50639ef7b4be130/|グランポレール": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市壱町田",
+    "price_man": 6.1,
+    "area_sqm": 40.1,
+    "url": "https://www.homes.co.jp/chintai/room/7df5c80d8aef812dd3b7c68cf50639ef7b4be130/",
+    "text": "グランポレール",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/c0ea5fb51ce913e25a340fcd6a38331a1d871b17/|伊豆箱根鉄道駿豆線 三島二日町駅 徒歩31分": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市松本",
+    "price_man": 8.2,
+    "area_sqm": 59.2,
+    "url": "https://www.homes.co.jp/chintai/room/c0ea5fb51ce913e25a340fcd6a38331a1d871b17/",
+    "text": "伊豆箱根鉄道駿豆線 三島二日町駅 徒歩31分",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/a51c85a977596d855b4c57248d82257befc21456/|ステラガーデン": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市平田",
+    "price_man": 7.7,
+    "area_sqm": 61.0,
+    "url": "https://www.homes.co.jp/chintai/room/a51c85a977596d855b4c57248d82257befc21456/",
+    "text": "ステラガーデン",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/b1f5a52f7e4f3105122fe13208dfecab1de0abe8/|ステラガーデン": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "静岡県三島市平田",
+    "price_man": 6.6,
+    "area_sqm": 46.2,
+    "url": "https://www.homes.co.jp/chintai/room/b1f5a52f7e4f3105122fe13208dfecab1de0abe8/",
+    "text": "ステラガーデン",
+    "removed_on": "2026-10-11",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

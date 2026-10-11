@@ -472,15 +472,15 @@
     "removed_on": "2026-10-09",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1220300000687/|沼津市本郷町　戸建て": {
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-08",
-    "location": "沼津市本郷町　戸建て",
-    "price_man": 2449,
-    "area_sqm": 138.1,
-    "url": "https://www.homes.co.jp/kodate/b-1220300000687/",
-    "text": "沼津市本郷町　戸建て",
-    "removed_on": "2026-10-09",
+  "https://www.homes.co.jp/kodate/b-33333960000009/|沼津市中沢田I": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-10",
+    "location": "沼津市中沢田I",
+    "price_man": 2190,
+    "area_sqm": 133.9,
+    "url": "https://www.homes.co.jp/kodate/b-33333960000009/",
+    "text": "沼津市中沢田I",
+    "removed_on": "2026-10-11",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

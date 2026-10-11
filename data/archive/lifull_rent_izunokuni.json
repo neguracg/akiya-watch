@@ -1385,17 +1385,6 @@
     "removed_on": "2026-10-05",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/c4df30196362e6ffbbc60274c2c4b9aac7950a19/|リアン": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-05",
-    "location": "静岡県伊豆の国市田京",
-    "price_man": 7.1,
-    "area_sqm": 50.1,
-    "url": "https://www.homes.co.jp/chintai/room/c4df30196362e6ffbbc60274c2c4b9aac7950a19/",
-    "text": "リアン",
-    "removed_on": "2026-10-06",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/fab6cd71ba1428aacb9d6d62512aa40253ccb587/|ろはす": {
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-06",
@@ -1834,6 +1823,28 @@
     "url": "https://www.homes.co.jp/chintai/room/34da05cfa8597f18cf5e2b4731d861d28b34178c/",
     "text": "Ｋ・ＩコーポII",
     "removed_on": "2026-10-10",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b101b18fe99dcd466fafd259d203efb69b9ca6b9/|レアールＭ大川": {
+    "first_seen": "2026-10-04",
+    "last_seen": "2026-10-10",
+    "location": "静岡県伊豆の国市富士見",
+    "price_man": 6.9,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/b101b18fe99dcd466fafd259d203efb69b9ca6b9/",
+    "text": "レアールＭ大川",
+    "removed_on": "2026-10-11",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/620c088d9c10654b5e268b9b6abfa311c8480e86/|伊豆箱根鉄道駿豆線 伊豆長岡駅 バス5分 中条下車 徒歩3分": {
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-10",
+    "location": "静岡県伊豆の国市寺家",
+    "price_man": 6.2,
+    "area_sqm": 50.4,
+    "url": "https://www.homes.co.jp/chintai/room/620c088d9c10654b5e268b9b6abfa311c8480e86/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 バス5分 中条下車 徒歩3分",
+    "removed_on": "2026-10-11",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

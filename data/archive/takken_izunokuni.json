@@ -240,5 +240,16 @@
     "text": "売マンション 伊豆の国市長岡",
     "removed_on": "2026-10-02",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171443/settle/1|売土地 伊豆の国市奈古谷": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-10",
+    "location": "伊豆の国市奈古谷",
+    "price_man": 780,
+    "area_sqm": 381.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171443/settle/1",
+    "text": "売土地 伊豆の国市奈古谷",
+    "removed_on": "2026-10-11",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

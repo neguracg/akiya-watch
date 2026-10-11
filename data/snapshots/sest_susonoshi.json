@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://buy.s-est.co.jp/land/375361/|裾野市桃園　土地が売りに出ました": {
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "location": "裾野市桃園186-3",
+      "price_man": 1680,
+      "area_sqm": 232.4,
+      "url": "https://buy.s-est.co.jp/land/375361/",
+      "text": "裾野市桃園　土地が売りに出ました",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 23.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "camp"
+    },
     "https://buy.s-est.co.jp/land/314806/|【土地】裾野市伊豆島田 　裾野市立南小学校・西中学校区": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県裾野市伊豆島田4-5,4-6",
       "price_man": 1980,
       "area_sqm": 149.8,
@@ -31,7 +60,7 @@
     },
     "https://buy.s-est.co.jp/land/174884/|裾野市千福が丘　森林浴を楽しめる　約377坪　売土地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県裾野市千福が丘2-22-4",
       "price_man": 1200,
       "area_sqm": 1247.0,
@@ -60,7 +89,7 @@
     },
     "https://buy.s-est.co.jp/land/133151/|裾野市岩波　売土地　約90坪　岩波駅徒歩5分": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県裾野市岩波56-6",
       "price_man": 1890,
       "area_sqm": 298.7,
@@ -89,7 +118,7 @@
     },
     "https://buy.s-est.co.jp/land/68852/|裾野市須山　約158坪の売土地　富士急十里木別荘地内": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県裾野市須山2255番1327",
       "price_man": 90,
       "area_sqm": 525.0,
@@ -120,7 +149,7 @@
     },
     "https://buy.s-est.co.jp/land/143616/|裾野市須山(十里木高原別荘地あしたか)　　緑あふれる別荘地": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県裾野市須山2255-4895",
       "price_man": 190,
       "area_sqm": 745.0,
@@ -150,6 +179,6 @@
       "tab": "camp"
     }
   },
-  "hash": "603329bee82f6852",
-  "fetched_at": "2026-10-10T01:34:59.669896"
+  "hash": "6bcfd99556d2a103",
+  "fetched_at": "2026-10-11T00:45:33.989372"
 }

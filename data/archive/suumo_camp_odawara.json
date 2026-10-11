@@ -482,5 +482,49 @@
     "text": "小田原市早川古家付き土地～84坪の北東角地～",
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21864631/|小台（富水駅） 1530万円": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県小田原市小台",
+    "price_man": 1530,
+    "area_sqm": 165.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21864631/",
+    "text": "小台（富水駅） 1530万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21844005/|新屋（富水駅） 1680万円": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県小田原市新屋",
+    "price_man": 1680,
+    "area_sqm": 211.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21844005/",
+    "text": "新屋（富水駅） 1680万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21891927/|酒匂５（鴨宮駅） 2100万円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県小田原市酒匂５",
+    "price_man": 2100,
+    "area_sqm": 281.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21891927/",
+    "text": "酒匂５（鴨宮駅） 2100万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/|扇町１（緑町駅） 2380万円": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-10",
+    "location": "神奈川県小田原市扇町１",
+    "price_man": 2380,
+    "area_sqm": 141.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/",
+    "text": "扇町１（緑町駅） 2380万円",
+    "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 小田原市"
   }
 }

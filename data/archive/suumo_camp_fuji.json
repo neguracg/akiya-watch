@@ -1407,28 +1407,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77529295/|342坪の売土地！住宅・店舗・事務所など多用途に対応！富士駅徒歩圏！": {
-    "first_seen": "2026-07-12",
-    "last_seen": "2026-10-09",
-    "location": "静岡県富士市横割４",
-    "price_man": 9800,
-    "area_sqm": 1131.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77529295/",
-    "text": "342坪の売土地！住宅・店舗・事務所など多用途に対応！富士駅徒歩圏！",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21679803/|中野（入山瀬駅） 690万円": {
-    "first_seen": "2026-09-10",
-    "last_seen": "2026-10-09",
-    "location": "静岡県富士市中野４７８番１９",
-    "price_man": 690,
-    "area_sqm": 194.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21679803/",
-    "text": "中野（入山瀬駅） 690万円",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20682560/|今泉８（吉原本町駅） 3300万円": {
     "first_seen": "2026-09-05",
     "last_seen": "2026-10-09",
@@ -1449,6 +1427,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21672838/",
     "text": "解体更地渡し！約70坪！南向！整形地！間口12.7M！閑静な住宅街！",
     "removed_on": "2026-10-10",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21583256/|富士見台５ 1100万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-10",
+    "location": "静岡県富士市富士見台５-3-1",
+    "price_man": 1100,
+    "area_sqm": 230.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21583256/",
+    "text": "富士見台５ 1100万円",
+    "removed_on": "2026-10-11",
     "site_name": "SUUMO 土地 富士市"
   }
 }

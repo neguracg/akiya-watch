@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73016982/|【ミサワホーム】御殿場市二の岡/土地残り2区画！分譲住宅見学可（予約制）": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市二の岡１",
       "price_man": 1730,
       "area_sqm": 182.1,
@@ -33,7 +33,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_77793448/|中畑（御殿場駅） 480万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市中畑",
       "price_man": 480,
       "area_sqm": 1156.4,
@@ -62,7 +62,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21687363/|☆現況更地！お好きなハウスメーカーで建築可能です！子育てに安心の周辺環境！": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市中山",
       "price_man": 600,
       "area_sqm": 147.3,
@@ -91,7 +91,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_76207702/|中畑 680万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市中畑1384-34",
       "price_man": 680,
       "area_sqm": 240.0,
@@ -120,7 +120,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73371293/|中畑 800万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市中畑1384番33",
       "price_man": 800,
       "area_sqm": 254.0,
@@ -149,7 +149,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21899075/|西田中（御殿場駅） 1000万円": {
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市西田中",
       "price_man": 1000,
       "area_sqm": 231.5,
@@ -178,7 +178,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21872736/|二枚橋 1183万円": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市二枚橋",
       "price_man": 1183,
       "area_sqm": 157.9,
@@ -207,7 +207,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20745623/|☆広々とした第２東名高速道路の側道沿い": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市川島田",
       "price_man": 1300,
       "area_sqm": 254.8,
@@ -236,7 +236,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21859273/|西田中（御殿場駅） 1550万円～1930万円": {
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市西田中102-9外",
       "price_man": 1550,
       "area_sqm": 181.4,
@@ -265,7 +265,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_72332638/|二の岡１（御殿場駅） 1780万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市二の岡１",
       "price_man": 1780,
       "area_sqm": 185.6,
@@ -296,7 +296,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20594958/|川島田（御殿場駅） 1800万円": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市川島田",
       "price_man": 1800,
       "area_sqm": 206.0,
@@ -325,7 +325,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20682350/|☆ゆとりある74坪の住宅用地☆　お好きなハウスメーカで建てて下さい！": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市萩原",
       "price_man": 2180,
       "area_sqm": 247.4,
@@ -352,9 +352,40 @@
       "machi": "御殿場市",
       "tab": "camp"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21666293/|二の岡１（御殿場駅） 2750万円": {
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11",
+      "location": "静岡県御殿場市二の岡１",
+      "price_man": 2750,
+      "area_sqm": 291.3,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_21666293/",
+      "text": "二の岡１（御殿場駅） 2750万円",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 31.2,
+      "verdict": "不適合",
+      "interest": [
+        "外輪山西麓"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "御殿場市",
+      "tab": "camp"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_20730422/|☆JAふじ伊豆ファーマーズ御殿場やカインズホーム徒歩圏内": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-11",
       "location": "静岡県御殿場市茱萸沢",
       "price_man": 6800,
       "area_sqm": 1003.2,
@@ -382,6 +413,6 @@
       "tab": "camp"
     }
   },
-  "hash": "5e1ab67cfa55cfdb",
-  "fetched_at": "2026-10-10T01:55:07.551215"
+  "hash": "57b6ce7b12394143",
+  "fetched_at": "2026-10-11T01:06:27.046921"
 }

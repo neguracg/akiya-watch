@@ -703,15 +703,15 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21761766/|建築条件無し！！土地６０坪前後の整形地。現地からは富士山も見えます。": {
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-10-09",
-    "location": "静岡県裾野市佐野",
-    "price_man": 1930,
-    "area_sqm": 195.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21761766/",
-    "text": "建築条件無し！！土地６０坪前後の整形地。現地からは富士山も見えます。",
-    "removed_on": "2026-10-10",
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20801996/|裾野市伊豆島田の約85坪の建築条件無の土地です！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-10",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 2980,
+    "area_sqm": 281.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20801996/",
+    "text": "裾野市伊豆島田の約85坪の建築条件無の土地です！",
+    "removed_on": "2026-10-11",
     "site_name": "SUUMO 土地 裾野市"
   }
 }
