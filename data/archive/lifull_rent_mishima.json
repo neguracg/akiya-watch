@@ -2759,5 +2759,38 @@
     "text": "ステラガーデン",
     "removed_on": "2026-10-11",
     "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/b28ef0d1e482c671e9a4985717019a0c991c7d57/|アヴェニール": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "location": "静岡県三島市徳倉 1丁目5-31",
+    "price_man": 12.0,
+    "area_sqm": 79.5,
+    "url": "https://www.homes.co.jp/chintai/room/b28ef0d1e482c671e9a4985717019a0c991c7d57/",
+    "text": "アヴェニール",
+    "removed_on": "2026-10-12",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/4376eaabb19aeaecbb3215d51ec4b3187b229fe5/|ヴィエント堺屋": {
+    "first_seen": "2026-10-07",
+    "last_seen": "2026-10-11",
+    "location": "静岡県三島市中田町2-16",
+    "price_man": 8.2,
+    "area_sqm": 54.1,
+    "url": "https://www.homes.co.jp/chintai/room/4376eaabb19aeaecbb3215d51ec4b3187b229fe5/",
+    "text": "ヴィエント堺屋",
+    "removed_on": "2026-10-12",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/07d93cec6fb7630bffe0b254c0b409d3703d3699/|Dreamio": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-11",
+    "location": "静岡県三島市大宮町 3丁目4-21",
+    "price_man": 8.0,
+    "area_sqm": 30.1,
+    "url": "https://www.homes.co.jp/chintai/room/07d93cec6fb7630bffe0b254c0b409d3703d3699/",
+    "text": "Dreamio",
+    "removed_on": "2026-10-12",
+    "site_name": "LIFULL 賃貸 三島市"
   }
 }

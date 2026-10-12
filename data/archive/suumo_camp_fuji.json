@@ -1055,17 +1055,6 @@
     "removed_on": "2026-09-22",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_79138853/|敷地広々約１１５坪！南側道路で日当たり良好！": {
-    "first_seen": "2026-09-03",
-    "last_seen": "2026-09-24",
-    "location": "静岡県富士市江尾",
-    "price_man": 1450,
-    "area_sqm": 381.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_79138853/",
-    "text": "敷地広々約１１５坪！南側道路で日当たり良好！",
-    "removed_on": "2026-09-25",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78433239/|■9/18更新【ミサワホーム】毎日がもっと快適に、利便性抜群の理想の土地": {
     "first_seen": "2026-09-18",
     "last_seen": "2026-09-26",
@@ -1438,6 +1427,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21583256/",
     "text": "富士見台５ 1100万円",
     "removed_on": "2026-10-11",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77775191/|クリエイト木の宮店まで約100ｍ！生活便利な立地です": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-11",
+    "location": "静岡県富士市今泉",
+    "price_man": 1950,
+    "area_sqm": 318.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77775191/",
+    "text": "クリエイト木の宮店まで約100ｍ！生活便利な立地です",
+    "removed_on": "2026-10-12",
     "site_name": "SUUMO 土地 富士市"
   }
 }

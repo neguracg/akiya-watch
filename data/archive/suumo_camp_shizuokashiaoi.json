@@ -636,5 +636,16 @@
     "text": "閑静な住宅地に105坪のゆとりある売土地",
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21655062/|あさはた２ 500万円": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-11",
+    "location": "静岡県静岡市葵区あさはた２-2362番1",
+    "price_man": 500,
+    "area_sqm": 214.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21655062/",
+    "text": "あさはた２ 500万円",
+    "removed_on": "2026-10-12",
+    "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.snjhkk.com/s_r_59966/index.html|静岡県沼津市高島町": {
+      "first_seen": "2026-10-12",
+      "last_seen": "2026-10-12",
+      "location": "静岡県沼津市高島町",
+      "price_man": 2680,
+      "area_sqm": null,
+      "url": "https://www.snjhkk.com/s_r_59966/index.html",
+      "text": "静岡県沼津市高島町",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "home"
+    },
     "https://www.snjhkk.com/s_r_59920/index.html|静岡県沼津市西椎路": {
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市西椎路",
       "price_man": 1480,
       "area_sqm": 340.3,
@@ -31,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59919/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市大岡",
       "price_man": 2198,
       "area_sqm": null,
@@ -60,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59916/index.html|静岡県沼津市中瀬町": {
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市中瀬町",
       "price_man": 2798,
       "area_sqm": 102.3,
@@ -89,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59915/index.html|静岡県沼津市大手町1丁目": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市大手町1丁目",
       "price_man": 3690,
       "area_sqm": null,
@@ -118,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_59913/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市大岡",
       "price_man": 498,
       "area_sqm": null,
@@ -147,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_59912/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-11",
+      "last_seen": "2026-10-12",
       "location": "静岡県沼津市大岡",
       "price_man": 1280,
       "area_sqm": 140.2,
@@ -175,6 +204,6 @@
       "tab": "home"
     }
   },
-  "hash": "81a74050bff271f8",
-  "fetched_at": "2026-10-11T01:06:54.194851"
+  "hash": "7370de472745f12e",
+  "fetched_at": "2026-10-12T01:25:03.789831"
 }
