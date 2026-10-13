@@ -890,17 +890,6 @@
     "removed_on": "2026-09-26",
     "site_name": "スマイミー静岡 売土地 富士市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157725|富士市天間": {
-    "first_seen": "2026-09-22",
-    "last_seen": "2026-09-25",
-    "location": "富士市天間",
-    "price_man": 1380,
-    "area_sqm": 507.3,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157725",
-    "text": "富士市天間",
-    "removed_on": "2026-09-26",
-    "site_name": "スマイミー静岡 売土地 富士市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172060|富士市一色": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-09-26",
@@ -1449,6 +1438,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177842",
     "text": "富士市比奈1007-1",
     "removed_on": "2026-10-12",
+    "site_name": "スマイミー静岡 売土地 富士市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156153|富士市今泉": {
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-12",
+    "location": "富士市今泉",
+    "price_man": 820,
+    "area_sqm": 152.9,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/156153",
+    "text": "富士市今泉",
+    "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 富士市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/82371|富士市入山瀬２丁目185－6，-29": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-12",
+    "location": "富士市入山瀬２丁目185－6，-29",
+    "price_man": 645,
+    "area_sqm": 152.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/82371",
+    "text": "富士市入山瀬２丁目185－6，-29",
+    "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 富士市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/8263|富士市宇東川西町574-12": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-12",
+    "location": "富士市宇東川西町574-12",
+    "price_man": 1100,
+    "area_sqm": 170.6,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/8263",
+    "text": "富士市宇東川西町574-12",
+    "removed_on": "2026-10-13",
     "site_name": "スマイミー静岡 売土地 富士市"
   }
 }

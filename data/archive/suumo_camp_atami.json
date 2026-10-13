@@ -163,5 +163,16 @@
     "text": "海まで2km以内、前道６ｍ以上、建築条件なし、平坦地、温泉引き込み可",
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_82861687/|伊豆山 1960万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-10-12",
+    "location": "静岡県熱海市伊豆山",
+    "price_man": 1960,
+    "area_sqm": 334.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_82861687/",
+    "text": "伊豆山 1960万円",
+    "removed_on": "2026-10-13",
+    "site_name": "SUUMO 土地 熱海市"
   }
 }

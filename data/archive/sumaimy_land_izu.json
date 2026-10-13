@@ -1,26 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173183|伊豆市大平柿木": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-08",
-    "location": "伊豆市大平柿木",
-    "price_man": 30,
-    "area_sqm": 115.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173183",
-    "text": "伊豆市大平柿木",
-    "removed_on": "2026-09-09",
-    "site_name": "スマイミー静岡 売土地 伊豆市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157171|伊豆市熊坂": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-10",
-    "location": "伊豆市熊坂",
-    "price_man": 45,
-    "area_sqm": 221.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/157171",
-    "text": "伊豆市熊坂",
-    "removed_on": "2026-09-11",
-    "site_name": "スマイミー静岡 売土地 伊豆市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173566|伊豆市熊坂": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-17",
@@ -117,17 +95,6 @@
     "area_sqm": 222.0,
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173778",
     "text": "伊豆市八幡",
-    "removed_on": "2026-09-17",
-    "site_name": "スマイミー静岡 売土地 伊豆市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175743|伊豆市堀切": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-17",
-    "location": "伊豆市堀切",
-    "price_man": 1,
-    "area_sqm": 220.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175743",
-    "text": "伊豆市堀切",
     "removed_on": "2026-09-17",
     "site_name": "スマイミー静岡 売土地 伊豆市"
   },
@@ -371,6 +338,50 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/41429",
     "text": "伊豆市上白岩",
     "removed_on": "2026-10-12",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139452|伊豆市柳瀬": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-12",
+    "location": "伊豆市柳瀬",
+    "price_man": 1,
+    "area_sqm": 188.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/139452",
+    "text": "伊豆市柳瀬",
+    "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/130114|伊豆市冷川": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-12",
+    "location": "伊豆市冷川",
+    "price_man": 100,
+    "area_sqm": 322.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/130114",
+    "text": "伊豆市冷川",
+    "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/74868|伊豆市柳瀬": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-12",
+    "location": "伊豆市柳瀬",
+    "price_man": 150,
+    "area_sqm": 876.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/74868",
+    "text": "伊豆市柳瀬",
+    "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 伊豆市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/79901|伊豆市熊坂": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-12",
+    "location": "伊豆市熊坂",
+    "price_man": 450,
+    "area_sqm": 347.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/79901",
+    "text": "伊豆市熊坂",
+    "removed_on": "2026-10-13",
     "site_name": "スマイミー静岡 売土地 伊豆市"
   }
 }
