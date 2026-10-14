@@ -1693,17 +1693,6 @@
     "removed_on": "2026-09-17",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|共働き世帯におすすめ！根方街道・高速IC車3分圏内、ららぽーと沼津車約4分": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-17",
-    "location": "静岡県沼津市東椎路1303-37",
-    "price_man": 850,
-    "area_sqm": 115.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/",
-    "text": "共働き世帯におすすめ！根方街道・高速IC車3分圏内、ららぽーと沼津車約4分",
-    "removed_on": "2026-09-17",
-    "site_name": "SUUMO 土地 沼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78936988/|沼津市大塚、土地広々約68坪！ 建築条件なし！現況渡しとなります。": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-09-17",
@@ -2351,6 +2340,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21526649/",
     "text": "南面道路で広々とした土地☆陽当り良好◎カタクラパークまで徒歩4分！",
     "removed_on": "2026-10-13",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|豊かな暮らしを叶える閑静な立地。ららぽーと・根方街道・高速IC車4分圏内☆": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-13",
+    "location": "静岡県沼津市東椎路1303-37",
+    "price_man": 850,
+    "area_sqm": 115.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/",
+    "text": "豊かな暮らしを叶える閑静な立地。ららぽーと・根方街道・高速IC車4分圏内☆",
+    "removed_on": "2026-10-14",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|お子様の居る世帯におすすめ！近隣に衣服・100均・ドラッグストア・スーパー": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-13",
+    "location": "静岡県沼津市原町中３-10-17",
+    "price_man": 1420,
+    "area_sqm": 194.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/",
+    "text": "お子様の居る世帯におすすめ！近隣に衣服・100均・ドラッグストア・スーパー",
+    "removed_on": "2026-10-14",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/|沼津の中心街近く。徒歩で市役所約6分、ドラッグストア約6分、沼津駅約16分": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-13",
+    "location": "静岡県沼津市吉田町28-22",
+    "price_man": 1550,
+    "area_sqm": 193.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
+    "text": "沼津の中心街近く。徒歩で市役所約6分、ドラッグストア約6分、沼津駅約16分",
+    "removed_on": "2026-10-14",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

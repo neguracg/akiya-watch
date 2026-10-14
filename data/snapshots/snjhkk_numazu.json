@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59966/index.html|静岡県沼津市高島町": {
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市高島町",
       "price_man": 2680,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59920/index.html|静岡県沼津市西椎路": {
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市西椎路",
       "price_man": 1480,
       "area_sqm": 340.3,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_59919/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市大岡",
       "price_man": 2198,
       "area_sqm": null,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_59916/index.html|静岡県沼津市中瀬町": {
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市中瀬町",
       "price_man": 2798,
       "area_sqm": 102.3,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_59915/index.html|静岡県沼津市大手町1丁目": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市大手町1丁目",
       "price_man": 3690,
       "area_sqm": null,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_59913/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市大岡",
       "price_man": 498,
       "area_sqm": null,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_59912/index.html|静岡県沼津市大岡": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "location": "静岡県沼津市大岡",
       "price_man": 1280,
       "area_sqm": 140.2,
@@ -204,6 +204,6 @@
       "tab": "home"
     }
   },
-  "hash": "f7bd71dc470685d1",
-  "fetched_at": "2026-10-13T03:18:21.677396"
+  "hash": "926d60417be73f90",
+  "fetched_at": "2026-10-14T01:18:16.192538"
 }
