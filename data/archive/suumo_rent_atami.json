@@ -2121,5 +2121,27 @@
     "text": "ＪＲ東海道本線 熱海駅 4階建 築58年",
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000068596199/|フォーシーズンズ・ガーデン熱海八方苑": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-14",
+    "location": "静岡県熱海市水口町",
+    "price_man": 14.0,
+    "area_sqm": 63.8,
+    "url": "https://suumo.jp/chintai/jnc_000068596199/",
+    "text": "フォーシーズンズ・ガーデン熱海八方苑",
+    "removed_on": "2026-10-15",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109410054/?bc=100523809633|パリーマンション熱海": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-14",
+    "location": "静岡県熱海市昭和町",
+    "price_man": 8.3,
+    "area_sqm": 54.3,
+    "url": "https://suumo.jp/chintai/jnc_000109410054/?bc=100523809633",
+    "text": "パリーマンション熱海",
+    "removed_on": "2026-10-15",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

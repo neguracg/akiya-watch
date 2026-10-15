@@ -1461,5 +1461,16 @@
     "text": "現状渡しのためリフォーム要す。店舗・事務所兼住宅としてもおすすめ☆",
     "removed_on": "2026-10-13",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75291028/|戸田 300万円": {
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-14",
+    "location": "静岡県沼津市戸田",
+    "price_man": 300,
+    "area_sqm": 116.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_75291028/",
+    "text": "戸田 300万円",
+    "removed_on": "2026-10-15",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

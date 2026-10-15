@@ -1648,5 +1648,27 @@
     "text": "バロールＫ＆Ｙ　Ｂ棟",
     "removed_on": "2026-10-14",
     "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
+    "location": "静岡県田方郡函南町仁田191-6",
+    "price_man": 7.4,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
+    "text": "オーポン　ヒルズ",
+    "removed_on": "2026-10-15",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/|セリアージュ": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 8.37,
+    "area_sqm": 66.2,
+    "url": "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/",
+    "text": "セリアージュ",
+    "removed_on": "2026-10-15",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

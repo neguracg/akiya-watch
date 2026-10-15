@@ -1660,50 +1660,6 @@
     "removed_on": "2026-10-10",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/d421f65355b1309882a08edf072cc110e8125b90/|カーサ・ラッフィナート": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 7.75,
-    "area_sqm": 59.2,
-    "url": "https://www.homes.co.jp/chintai/room/d421f65355b1309882a08edf072cc110e8125b90/",
-    "text": "カーサ・ラッフィナート",
-    "removed_on": "2026-10-10",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/016ad8310907ac6eede50c8ddffbb612ee7c507e/|カーサ・ラッフィナート": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 7.55,
-    "area_sqm": 59.2,
-    "url": "https://www.homes.co.jp/chintai/room/016ad8310907ac6eede50c8ddffbb612ee7c507e/",
-    "text": "カーサ・ラッフィナート",
-    "removed_on": "2026-10-10",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/7818fb460da4061995deb49d5e28cc73b10e7091/|カーサ・ラッフィナート": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 7.0,
-    "area_sqm": 51.7,
-    "url": "https://www.homes.co.jp/chintai/room/7818fb460da4061995deb49d5e28cc73b10e7091/",
-    "text": "カーサ・ラッフィナート",
-    "removed_on": "2026-10-10",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
-  "https://www.homes.co.jp/chintai/room/f709e6dde613757df6c1c927ab678fe64f9521ef/|カーサ・ラッフィナート": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県伊豆の国市古奈",
-    "price_man": 6.8,
-    "area_sqm": 51.7,
-    "url": "https://www.homes.co.jp/chintai/room/f709e6dde613757df6c1c927ab678fe64f9521ef/",
-    "text": "カーサ・ラッフィナート",
-    "removed_on": "2026-10-10",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/a94fdee8c1a05548cdd6351b6cf20193dcc81448/|ペイサージュＮＫII": {
     "first_seen": "2026-09-05",
     "last_seen": "2026-10-09",
@@ -1856,6 +1812,28 @@
     "url": "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/",
     "text": "和光　ビル",
     "removed_on": "2026-10-14",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/95fcdd944809638fa528351da32fe11038bdb60c/|グリーン・パレス長岡": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-14",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 8.35,
+    "area_sqm": 59.6,
+    "url": "https://www.homes.co.jp/chintai/room/95fcdd944809638fa528351da32fe11038bdb60c/",
+    "text": "グリーン・パレス長岡",
+    "removed_on": "2026-10-15",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/|パーシモンスクエア": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-14",
+    "location": "静岡県伊豆の国市寺家705-1",
+    "price_man": 6.9,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/",
+    "text": "パーシモンスクエア",
+    "removed_on": "2026-10-15",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

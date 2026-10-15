@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59918/index.html|静岡県三島市東大場1丁目": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "location": "静岡県三島市東大場1丁目",
       "price_man": 1080,
       "area_sqm": 222.7,
@@ -33,7 +33,7 @@
     },
     "https://www.snjhkk.com/s_r_59876/index.html|静岡県三島市東壱町田": {
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "location": "静岡県三島市東壱町田",
       "price_man": 1890,
       "area_sqm": 180.1,
@@ -62,7 +62,7 @@
     },
     "https://www.snjhkk.com/s_r_59874/index.html|静岡県三島市長伏": {
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "location": "静岡県三島市長伏",
       "price_man": 980,
       "area_sqm": null,
@@ -91,7 +91,7 @@
     },
     "https://www.snjhkk.com/s_r_59850/index.html|静岡県三島市鶴喰33-16": {
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-14",
+      "last_seen": "2026-10-15",
       "location": "静岡県三島市鶴喰33-16",
       "price_man": 3698,
       "area_sqm": 144.9,
@@ -119,6 +119,6 @@
       "tab": "home"
     }
   },
-  "hash": "41546e2d8c591a36",
-  "fetched_at": "2026-10-14T01:08:25.983289"
+  "hash": "63c0a8a90887dd83",
+  "fetched_at": "2026-10-15T00:34:43.048446"
 }
