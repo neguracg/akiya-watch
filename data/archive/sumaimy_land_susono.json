@@ -54,17 +54,6 @@
     "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 売土地 裾野市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169206|裾野市葛山": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-05",
-    "location": "裾野市葛山",
-    "price_man": 1500,
-    "area_sqm": 466.3,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169206",
-    "text": "裾野市葛山",
-    "removed_on": "2026-10-06",
-    "site_name": "スマイミー静岡 売土地 裾野市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172777|裾野市平松": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-12",
@@ -96,6 +85,39 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155173",
     "text": "裾野市須山2255ー3527",
     "removed_on": "2026-10-13",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169770|裾野市千福が丘２丁目": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-15",
+    "location": "裾野市千福が丘２丁目",
+    "price_man": 1100,
+    "area_sqm": 1247.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169770",
+    "text": "裾野市千福が丘２丁目",
+    "removed_on": "2026-10-16",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154072|裾野市佐野828-5": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-15",
+    "location": "裾野市佐野828-5",
+    "price_man": 920,
+    "area_sqm": 191.8,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154072",
+    "text": "裾野市佐野828-5",
+    "removed_on": "2026-10-16",
+    "site_name": "スマイミー静岡 売土地 裾野市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166994|裾野市深良": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-15",
+    "location": "裾野市深良",
+    "price_man": 1420,
+    "area_sqm": 270.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166994",
+    "text": "裾野市深良",
+    "removed_on": "2026-10-16",
     "site_name": "スマイミー静岡 売土地 裾野市"
   }
 }

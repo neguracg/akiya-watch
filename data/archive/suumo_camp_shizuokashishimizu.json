@@ -406,17 +406,6 @@
     "removed_on": "2026-10-13",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78660581/|蒲原（新蒲原駅） 800万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-13",
-    "location": "静岡県静岡市清水区蒲原",
-    "price_man": 800,
-    "area_sqm": 71.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78660581/",
-    "text": "蒲原（新蒲原駅） 800万円",
-    "removed_on": "2026-10-14",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/|☆１０月５日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-13",
@@ -425,17 +414,6 @@
     "area_sqm": 183.5,
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/",
     "text": "☆１０月５日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分",
-    "removed_on": "2026-10-14",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21044121/|JR草薙駅まで徒歩約8分の好立地！敷地面積100坪の南東角地！": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-13",
-    "location": "静岡県静岡市清水区楠新田",
-    "price_man": 5980,
-    "area_sqm": 330.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21044121/",
-    "text": "JR草薙駅まで徒歩約8分の好立地！敷地面積100坪の南東角地！",
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
@@ -448,6 +426,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21841671/",
     "text": "ホームポジション◆建築条件なし◆65坪以上の敷地！ユーコープ 徒歩４分！",
     "removed_on": "2026-10-15",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78441257/|物件について知りたい内容があれば、お気軽にお問い合わせください（＾＾）": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-15",
+    "location": "静岡県静岡市清水区八坂西町17-8",
+    "price_man": 898,
+    "area_sqm": 119.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78441257/",
+    "text": "物件について知りたい内容があれば、お気軽にお問い合わせください（＾＾）",
+    "removed_on": "2026-10-16",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

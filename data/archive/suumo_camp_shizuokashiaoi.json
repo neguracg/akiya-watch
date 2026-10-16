@@ -604,28 +604,6 @@
     "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/|スーパー、金融機関徒歩圏内": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県静岡市葵区北番町95-4",
-    "price_man": 1511,
-    "area_sqm": 76.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/",
-    "text": "スーパー、金融機関徒歩圏内",
-    "removed_on": "2026-10-09",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/|小学校まで徒歩５分ほど。静清バイパス瀬名IC・商店街なども車で５分ほど。": {
-    "first_seen": "2026-09-07",
-    "last_seen": "2026-10-08",
-    "location": "静岡県静岡市葵区瀬名３-7-8",
-    "price_man": 1850,
-    "area_sqm": 166.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/",
-    "text": "小学校まで徒歩５分ほど。静清バイパス瀬名IC・商店街なども車で５分ほど。",
-    "removed_on": "2026-10-09",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20836297/|閑静な住宅地に105坪のゆとりある売土地": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-09",
@@ -701,6 +679,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77150773/",
     "text": "☆１０月５日更新☆ひろびろ５６・５坪☆建築条件はありません☆解体更地渡し",
     "removed_on": "2026-10-14",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/|北番町（静岡駅） 1511万9000円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-15",
+    "location": "静岡県静岡市葵区北番町95-4",
+    "price_man": 1511,
+    "area_sqm": 76.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21180514/",
+    "text": "北番町（静岡駅） 1511万9000円",
+    "removed_on": "2026-10-16",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/|瀬名３（草薙駅） 1850万円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-15",
+    "location": "静岡県静岡市葵区瀬名３-7-8",
+    "price_man": 1850,
+    "area_sqm": 166.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21380541/",
+    "text": "瀬名３（草薙駅） 1850万円",
+    "removed_on": "2026-10-16",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

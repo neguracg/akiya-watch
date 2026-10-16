@@ -131,17 +131,6 @@
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地68坪！近隣に幼稚園・コンビニ徒歩約5分！バス停「子安神社」徒歩約3分": {
-    "first_seen": "2026-09-15",
-    "last_seen": "2026-09-17",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "敷地68坪！近隣に幼稚園・コンビニ徒歩約5分！バス停「子安神社」徒歩約3分",
-    "removed_on": "2026-09-18",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20740487/|＼周辺環境案内可能／喧騒から離れたセカンドハウス用地としての活用にも最適♪": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-18",
@@ -437,6 +426,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78315293/",
     "text": "徒歩圏内に何でもあり、子育てにも趣味にもちょうどいい環境！家族の未来が広が",
     "removed_on": "2026-10-15",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|働き盛りに！コンビニ徒歩約5分、スーパードラッグストアが車10分圏内に充実！": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-15",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "働き盛りに！コンビニ徒歩約5分、スーパードラッグストアが車10分圏内に充実！",
+    "removed_on": "2026-10-16",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }

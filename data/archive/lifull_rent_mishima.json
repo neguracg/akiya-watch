@@ -2639,17 +2639,6 @@
     "removed_on": "2026-10-11",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/3324f27eda970b98086742edf157eb2faa4f0990/|ＸＥＶＯ　Ｋ（ジーボケー）": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
-    "location": "静岡県三島市松本",
-    "price_man": 8.2,
-    "area_sqm": 59.2,
-    "url": "https://www.homes.co.jp/chintai/room/3324f27eda970b98086742edf157eb2faa4f0990/",
-    "text": "ＸＥＶＯ　Ｋ（ジーボケー）",
-    "removed_on": "2026-10-11",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/853de410c97d0a5e66371dfb00c3b5b5e1aa2436/|グランポレール": {
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-10",
@@ -2890,6 +2879,28 @@
     "url": "https://www.homes.co.jp/chintai/room/91a14517aabecaf5b68ea25d56858c92d33bc156/",
     "text": "グランドゥール壱町田",
     "removed_on": "2026-10-15",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/02f3f35a105928d64fb1526633a7712f581716e5/|ヴィオラ文教町": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-15",
+    "location": "静岡県三島市文教町1丁目",
+    "price_man": 9.1,
+    "area_sqm": 54.0,
+    "url": "https://www.homes.co.jp/chintai/room/02f3f35a105928d64fb1526633a7712f581716e5/",
+    "text": "ヴィオラ文教町",
+    "removed_on": "2026-10-16",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/33bbb4a697897e44c2d6d9dd3ad937c85e5fd17f/|ヴィオラ文教町": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-15",
+    "location": "静岡県三島市文教町1丁目",
+    "price_man": 9.1,
+    "area_sqm": 35.1,
+    "url": "https://www.homes.co.jp/chintai/room/33bbb4a697897e44c2d6d9dd3ad937c85e5fd17f/",
+    "text": "ヴィオラ文教町",
+    "removed_on": "2026-10-16",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }
