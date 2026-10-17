@@ -21,17 +21,6 @@
     "removed_on": "2026-09-05",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176704|富士宮市中里東町": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "location": "富士宮市中里東町",
-    "price_man": 1960,
-    "area_sqm": 462.8,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176704",
-    "text": "富士宮市中里東町",
-    "removed_on": "2026-09-05",
-    "site_name": "スマイミー静岡 売土地 富士宮市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176094|富士宮市羽鮒": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
@@ -1053,6 +1042,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150739",
     "text": "富士宮市猪之頭",
     "removed_on": "2026-10-16",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170278|富士宮市大岩1102-11": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-16",
+    "location": "富士宮市大岩1102-11",
+    "price_man": 107,
+    "area_sqm": 353.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170278",
+    "text": "富士宮市大岩1102-11",
+    "removed_on": "2026-10-17",
+    "site_name": "スマイミー静岡 売土地 富士宮市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165916|富士宮市黒田": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-16",
+    "location": "富士宮市黒田",
+    "price_man": 2307,
+    "area_sqm": 1271.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165916",
+    "text": "富士宮市黒田",
+    "removed_on": "2026-10-17",
     "site_name": "スマイミー静岡 売土地 富士宮市"
   }
 }

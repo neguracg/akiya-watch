@@ -1825,17 +1825,6 @@
     "removed_on": "2026-09-29",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|交通アクセス◎快適な生活の叶う住環境。高速IC・根方街道へのアクセスが便利": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-09-28",
-    "location": "静岡県沼津市東椎路1303-37",
-    "price_man": 850,
-    "area_sqm": 115.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/",
-    "text": "交通アクセス◎快適な生活の叶う住環境。高速IC・根方街道へのアクセスが便利",
-    "removed_on": "2026-09-29",
-    "site_name": "SUUMO 土地 沼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21794719/|沼津駅徒歩6分×約56坪。利便性に恵まれた整形地": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-09-28",
@@ -1877,17 +1866,6 @@
     "area_sqm": 194.5,
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/",
     "text": "単身世帯に☆近隣に飲食店・スーパー・100均・ジム！徒歩で「原」駅約19分",
-    "removed_on": "2026-09-30",
-    "site_name": "SUUMO 土地 沼津市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/|家族みんなで嬉しい立地！小中学校徒歩圏内で安心☆沼津駅まで徒歩約16分": {
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-09-29",
-    "location": "静岡県沼津市吉田町28-22",
-    "price_man": 1550,
-    "area_sqm": 193.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
-    "text": "家族みんなで嬉しい立地！小中学校徒歩圏内で安心☆沼津駅まで徒歩約16分",
     "removed_on": "2026-09-30",
     "site_name": "SUUMO 土地 沼津市"
   },
@@ -1987,17 +1965,6 @@
     "area_sqm": 115.7,
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/",
     "text": "公共交通機関・マイカー勢ともにオススメ！バス停徒歩約７分、高速ＩＣ車約３分",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 沼津市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|豊かな暮らしを叶える興国寺通り近く。国一車約3分。周辺の商業施設も大充実": {
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
-    "location": "静岡県沼津市原町中３-10-17",
-    "price_man": 1420,
-    "area_sqm": 194.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/",
-    "text": "豊かな暮らしを叶える興国寺通り近く。国一車約3分。周辺の商業施設も大充実",
     "removed_on": "2026-10-03",
     "site_name": "SUUMO 土地 沼津市"
   },
@@ -2285,6 +2252,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
     "text": "働くあなたに嬉しい立地！市役所徒歩約6分！ドラッグストア徒歩約6分!",
     "removed_on": "2026-10-16",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/|バス停「春の木幼稚園前」徒歩約７分。小さなお子様のいる方にもオススメな立地": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "location": "静岡県沼津市東椎路1303-37",
+    "price_man": 850,
+    "area_sqm": 115.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73896964/",
+    "text": "バス停「春の木幼稚園前」徒歩約７分。小さなお子様のいる方にもオススメな立地",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|共働きにおすすめ！スーパー・飲食が徒歩圏内で、忙しくても生活利便性が高い！": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "location": "静岡県沼津市原町中３-10-17",
+    "price_man": 1420,
+    "area_sqm": 194.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/",
+    "text": "共働きにおすすめ！スーパー・飲食が徒歩圏内で、忙しくても生活利便性が高い！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/|働き盛りに嬉しい。ドラッグストア徒歩約6分！「沼津」駅まで徒歩約16分！": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-16",
+    "location": "静岡県沼津市吉田町28-22",
+    "price_man": 1550,
+    "area_sqm": 193.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
+    "text": "働き盛りに嬉しい。ドラッグストア徒歩約6分！「沼津」駅まで徒歩約16分！",
+    "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

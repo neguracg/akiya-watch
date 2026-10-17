@@ -493,5 +493,38 @@
     "text": "徳倉（沼津駅） 2200万円",
     "removed_on": "2026-10-15",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/|【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-16",
+    "location": "静岡県駿東郡清水町伏見字堂之口850-1他",
+    "price_man": 2780,
+    "area_sqm": 151.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20479666/",
+    "text": "【積水ハウス】清水町伏見。45坪以上。整形地。サントムーン柿田川徒歩6分。最",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/|【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-16",
+    "location": "静岡県駿東郡長泉町下土狩字宮脇476番9",
+    "price_man": 5980,
+    "area_sqm": 275.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_74660221/",
+    "text": "【積水ハウス】三島駅徒歩11分。長泉小学校徒歩14分。全２区画。残り１区画。長",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21698578/|【積水ハウス】三島駅徒歩で20分・自転車で5分。新幹線通勤にお勧めです。": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-16",
+    "location": "静岡県駿東郡長泉町中土狩字秋次525-4他",
+    "price_man": null,
+    "area_sqm": 158.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21698578/",
+    "text": "【積水ハウス】三島駅徒歩で20分・自転車で5分。新幹線通勤にお勧めです。",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }
