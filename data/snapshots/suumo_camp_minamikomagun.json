@@ -174,35 +174,6 @@
       "machi": "富士川町",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_71543056/|○落ち着いた住環境の67坪超土地。住宅用地に最適。建築条件なし、お好きな…": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-10-17",
-      "location": "山梨県南巨摩郡富士川町最勝寺",
-      "price_man": 480,
-      "area_sqm": 222.7,
-      "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_71543056/",
-      "text": "○落ち着いた住環境の67坪超土地。住宅用地に最適。建築条件なし、お好きな…",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 7.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "富士川町",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_77509960/|飯富病院・セルバみのぶ店まで徒歩４分": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-10-17",
@@ -230,6 +201,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "身延町",
+      "tab": "camp"
+    },
+    "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_71543056/|○落ち着いた住環境の67坪超土地。住宅用地に最適。建築条件なし、お好きな…": {
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-10-17",
+      "location": "山梨県南巨摩郡富士川町最勝寺",
+      "price_man": 480,
+      "area_sqm": 222.7,
+      "url": "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_71543056/",
+      "text": "○落ち着いた住環境の67坪超土地。住宅用地に最適。建築条件なし、お好きな…",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 7.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "富士川町",
       "tab": "camp"
     },
     "https://suumo.jp/tochi/yamanashi/sc_minamikomagun/nc_21351899/|天神中條（市川大門駅） 584万円": {
@@ -407,6 +407,6 @@
       "tab": "camp"
     }
   },
-  "hash": "b01a8eb03c1a4703",
-  "fetched_at": "2026-10-17T00:49:13.558350"
+  "hash": "19ed83258ce2f10d",
+  "fetched_at": "2026-10-18T00:23:07.727481"
 }

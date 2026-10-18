@@ -581,5 +581,16 @@
     "text": "【建築条件なし！】■敷地面積６０坪以上■全３区画販売",
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21512271/|徳倉３（三島駅） 2350万円": {
+    "first_seen": "2026-08-18",
+    "last_seen": "2026-10-17",
+    "location": "静岡県三島市徳倉３",
+    "price_man": 2350,
+    "area_sqm": 205.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21512271/",
+    "text": "徳倉３（三島駅） 2350万円",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

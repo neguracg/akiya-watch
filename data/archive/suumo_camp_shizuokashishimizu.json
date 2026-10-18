@@ -482,5 +482,27 @@
     "text": "☆建築条件なし分譲地☆間口広々並列3台駐車可能",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_77752036/|追分１ 2250万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "静岡県静岡市清水区追分１-2543-1",
+    "price_man": 2250,
+    "area_sqm": 114.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_77752036/",
+    "text": "追分１ 2250万円",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21929877/|御門台駅から徒歩8分、生活至便な環境の高台に位置する78坪の整形地！": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-17",
+    "location": "静岡県静岡市清水区御門台",
+    "price_man": 2680,
+    "area_sqm": 259.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21929877/",
+    "text": "御門台駅から徒歩8分、生活至便な環境の高台に位置する78坪の整形地！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

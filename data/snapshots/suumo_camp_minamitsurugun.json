@@ -585,7 +585,7 @@
       "last_seen": "2026-10-17",
       "location": "山梨県南都留郡忍野村内野",
       "price_man": 1800,
-      "area_sqm": 995.0,
+      "area_sqm": 958.1,
       "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21086631/",
       "text": "内野 1800万円",
       "shubetsu": "更地",
@@ -600,7 +600,7 @@
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 6.0,
+      "tsubo_man": 6.2,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -1132,6 +1132,6 @@
       "tab": "camp"
     }
   },
-  "hash": "803bab0b9f26c213",
-  "fetched_at": "2026-10-17T00:48:38.459336"
+  "hash": "00884f375cda06f1",
+  "fetched_at": "2026-10-18T00:22:37.274892"
 }

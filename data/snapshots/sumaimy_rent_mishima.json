@@ -1,5 +1,36 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118642|貸駐車場 三島市日の出町": {
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17",
+      "location": "三島市日の出町",
+      "price_man": 0.65,
+      "area_sqm": null,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/118642",
+      "text": "貸駐車場 三島市日の出町",
+      "shubetsu": "駐車場",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "0.65万円",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/48872|貸マンション 三島市松本４０－３": {
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
@@ -905,39 +936,8 @@
       "zokujinsei": false,
       "machi": "三島市",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90984|貸マンション 三島市大宮町２丁目": {
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-17",
-      "location": "三島市大宮町２丁目",
-      "price_man": 6.9,
-      "area_sqm": 65.0,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90984",
-      "text": "貸マンション 三島市大宮町２丁目",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
-      "chikunen": "1994年2月",
-      "kanrihi": 3000,
-      "shikikin": "1ヵ月",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
     }
   },
-  "hash": "6694c45266fce105",
-  "fetched_at": "2026-10-17T00:22:32.979564"
+  "hash": "8ffae64d8c9e4185",
+  "fetched_at": "2026-10-17T23:57:18.971377"
 }

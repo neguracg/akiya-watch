@@ -1479,35 +1479,6 @@
       "machi": "箱根町",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20548187/|元箱根 10億円": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-10-17",
-      "location": "神奈川県足柄下郡箱根町元箱根",
-      "price_man": 100000,
-      "area_sqm": 6044.0,
-      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20548187/",
-      "text": "元箱根 10億円",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 54.7,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "箱根町",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20645222/|仙石原 10億円": {
       "first_seen": "2026-09-04",
       "last_seen": "2026-10-17",
@@ -1538,6 +1509,6 @@
       "tab": "camp"
     }
   },
-  "hash": "b2ec8401ec1ac5ac",
-  "fetched_at": "2026-10-17T00:47:32.372966"
+  "hash": "5c8e52dbf425f0a8",
+  "fetched_at": "2026-10-18T00:21:39.457596"
 }

@@ -424,6 +424,35 @@
       "machi": "",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-1508430000123/|ヒューマンヒルズ函南１２２号地": {
+      "first_seen": "2026-07-11",
+      "last_seen": "2026-10-17",
+      "location": "ヒューマンヒルズ函南１２２号地",
+      "price_man": 1780,
+      "area_sqm": 307.7,
+      "url": "https://www.homes.co.jp/kodate/b-1508430000123/",
+      "text": "ヒューマンヒルズ函南１２２号地",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "宅地",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 19.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-1111450005466/|南箱根ダイヤランド　売戸建": {
       "first_seen": "2026-07-03",
       "last_seen": "2026-10-17",
@@ -451,35 +480,6 @@
       "ng_areas": [
         "南箱根ダイヤランド"
       ],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
-    "https://www.homes.co.jp/kodate/b-1508430000123/|ヒューマンヒルズ函南１２２号地": {
-      "first_seen": "2026-07-11",
-      "last_seen": "2026-10-17",
-      "location": "ヒューマンヒルズ函南１２２号地",
-      "price_man": 1780,
-      "area_sqm": 307.7,
-      "url": "https://www.homes.co.jp/kodate/b-1508430000123/",
-      "text": "ヒューマンヒルズ函南１２２号地",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 19.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
       "zokujinsei": false,
       "machi": "",
       "tab": "home"
@@ -912,6 +912,6 @@
       "tab": "home"
     }
   },
-  "hash": "94b610753a60a786",
-  "fetched_at": "2026-10-17T00:38:45.781668"
+  "hash": "b231d4cce502ca9a",
+  "fetched_at": "2026-10-18T00:12:27.958595"
 }

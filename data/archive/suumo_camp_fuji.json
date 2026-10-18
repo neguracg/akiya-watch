@@ -1484,47 +1484,14 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_90125671/|一色（岳南原田駅） 1070万円": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-16",
-    "location": "静岡県富士市一色74-5",
-    "price_man": 1070,
-    "area_sqm": 203.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_90125671/",
-    "text": "一色（岳南原田駅） 1070万円",
-    "removed_on": "2026-10-17",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/|富士見台５（岳南原田駅） 1120万円": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-16",
-    "location": "静岡県富士市富士見台５-2-90",
-    "price_man": 1120,
-    "area_sqm": 173.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_93911241/",
-    "text": "富士見台５（岳南原田駅） 1120万円",
-    "removed_on": "2026-10-17",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21476034/|松岡（柚木駅） 1760万円": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-16",
-    "location": "静岡県富士市松岡1676-199",
-    "price_man": 1760,
-    "area_sqm": 264.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21476034/",
-    "text": "松岡（柚木駅） 1760万円",
-    "removed_on": "2026-10-17",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/|本町（富士駅） 2580万円": {
-    "first_seen": "2026-10-04",
-    "last_seen": "2026-10-16",
-    "location": "静岡県富士市本町15-29",
-    "price_man": 2580,
-    "area_sqm": 235.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21229832/",
-    "text": "本町（富士駅） 2580万円",
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/|美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-17",
+    "location": "静岡県富士市川成島",
+    "price_man": 1433,
+    "area_sqm": 165.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/",
+    "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 富士市"
   }

@@ -538,17 +538,6 @@
     "removed_on": "2026-10-11",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79062105/|秦野市本町１丁目のうりちで65.15坪の広さ！駅まで450m！": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-15",
-    "location": "神奈川県秦野市本町１-11番地23号",
-    "price_man": 4560,
-    "area_sqm": 215.4,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79062105/",
-    "text": "秦野市本町１丁目のうりちで65.15坪の広さ！駅まで450m！",
-    "removed_on": "2026-10-16",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79129932/|◆敷地７７坪以上◆閑静な住宅地内◆建築条件なし売地": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-16",
@@ -557,6 +546,83 @@
     "area_sqm": 256.1,
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79129932/",
     "text": "◆敷地７７坪以上◆閑静な住宅地内◆建築条件なし売地",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78916576/|駅徒歩17分の好立地！閑静な住宅街に位置した分譲地です！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市北矢名",
+    "price_man": 1280,
+    "area_sqm": 130.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78916576/",
+    "text": "駅徒歩17分の好立地！閑静な住宅街に位置した分譲地です！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746190/|現地見学会も随時開催しておりますので、お気軽にお問い合せください！": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市本町３",
+    "price_man": 1380,
+    "area_sqm": 109.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746190/",
+    "text": "現地見学会も随時開催しておりますので、お気軽にお問い合せください！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21392366/|駅徒歩21分！南エリアに堂々登場！！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市平沢",
+    "price_man": 1480,
+    "area_sqm": 159.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21392366/",
+    "text": "駅徒歩21分！南エリアに堂々登場！！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20730047/|◆広々とした土地面積で、家庭菜園やバーベキューを楽しむスペースがたっぷり♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市堀西",
+    "price_man": 1580,
+    "area_sqm": 222.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20730047/",
+    "text": "◆広々とした土地面積で、家庭菜園やバーベキューを楽しむスペースがたっぷり♪",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746210/|現地見学会も随時開催しておりますので、お気軽にお問い合せください！": {
+    "first_seen": "2026-09-19",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市平沢",
+    "price_man": 1650,
+    "area_sqm": 705.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746210/",
+    "text": "現地見学会も随時開催しておりますので、お気軽にお問い合せください！",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78715087/|夢のマイホーム取得に向けて適切なアドバイスをさせて頂きます。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市鶴巻北２",
+    "price_man": 1780,
+    "area_sqm": 141.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78715087/",
+    "text": "夢のマイホーム取得に向けて適切なアドバイスをさせて頂きます。",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21068970/|敷地約48坪と52坪の開放感あるお土地です。": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-17",
+    "location": "神奈川県秦野市北矢名",
+    "price_man": 1880,
+    "area_sqm": 173.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21068970/",
+    "text": "敷地約48坪と52坪の開放感あるお土地です。",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 秦野市"
   }

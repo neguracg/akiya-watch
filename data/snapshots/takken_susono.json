@@ -1,5 +1,36 @@
 {
   "keys": {
+    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069/settle/1|売土地 裾野市茶畑193－１": {
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-10-17",
+      "location": "裾野市茶畑193－１",
+      "price_man": 2288,
+      "area_sqm": 205.8,
+      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069/settle/1",
+      "text": "売土地 裾野市茶畑193－１",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "△",
+      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
+      "chimoku": "畑",
+      "toshikeikaku": "市街化区域",
+      "setsudo": null,
+      "tsubo_man": 36.8,
+      "verdict": "不適合",
+      "interest": [
+        "外輪山西麓"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "裾野市",
+      "tab": "home"
+    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170502/settle/1|売住宅 裾野市茶畑": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-10-17",
@@ -572,35 +603,6 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175671/settle/1|売住宅 裾野市平松": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-10-17",
-      "location": "裾野市平松",
-      "price_man": 1990,
-      "area_sqm": 160.9,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175671/settle/1",
-      "text": "売住宅 裾野市平松",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
-      "chimoku": "田",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 40.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154641/settle/1|売住宅 裾野市須山": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-10-17",
@@ -975,37 +977,6 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069/settle/1|売土地 裾野市茶畑193－１": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-10-17",
-      "location": "裾野市茶畑193－１",
-      "price_man": 2288,
-      "area_sqm": 205.8,
-      "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/155069/settle/1",
-      "text": "売土地 裾野市茶畑193－１",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "△",
-      "rebuild_reason": "市街化区域だが接道幅員が不明。新築可否は接道要確認",
-      "chimoku": "畑",
-      "toshikeikaku": "市街化区域",
-      "setsudo": null,
-      "tsubo_man": 36.8,
-      "verdict": "不適合",
-      "interest": [
-        "外輪山西麓"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172786/settle/1|売土地 裾野市石脇": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-10-17",
@@ -1097,6 +1068,6 @@
       "tab": "home"
     }
   },
-  "hash": "6abe32d64ab5dd44",
-  "fetched_at": "2026-10-17T00:41:12.352332"
+  "hash": "536677fbb6d2a8e0",
+  "fetched_at": "2026-10-18T00:14:39.899391"
 }

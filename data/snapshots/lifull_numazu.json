@@ -841,14 +841,14 @@
       "machi": "沼津市",
       "tab": "home"
     },
-    "https://www.homes.co.jp/tochi/b-33328870000059/|沼津市本郷町 (沼津駅)": {
+    "https://www.homes.co.jp/tochi/b-1265050002138/|沼津市東原 (片浜駅)": {
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-17",
-      "location": "沼津市本郷町 (沼津駅)",
-      "price_man": 1950,
-      "area_sqm": 194.0,
-      "url": "https://www.homes.co.jp/tochi/b-33328870000059/",
-      "text": "沼津市本郷町 (沼津駅)",
+      "location": "沼津市東原 (片浜駅)",
+      "price_man": 1380,
+      "area_sqm": 265.7,
+      "url": "https://www.homes.co.jp/tochi/b-1265050002138/",
+      "text": "沼津市東原 (片浜駅)",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -858,10 +858,10 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
-      "tsubo_man": 33.2,
+      "tsubo_man": 17.2,
       "verdict": "不適合",
       "interest": [],
       "caution": [],
@@ -871,6 +871,6 @@
       "tab": "home"
     }
   },
-  "hash": "40130abf7d2a5c23",
-  "fetched_at": "2026-10-17T00:26:26.757136"
+  "hash": "2515dbdad81bb92b",
+  "fetched_at": "2026-10-18T00:00:53.676981"
 }

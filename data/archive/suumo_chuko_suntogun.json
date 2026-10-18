@@ -229,5 +229,16 @@
     "text": "元長窪（長泉なめり駅） 1590万円",
     "removed_on": "2026-10-09",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20651477/|伏見（三島駅） 3200万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-17",
+    "location": "静岡県駿東郡清水町伏見",
+    "price_man": 3200,
+    "area_sqm": 257.4,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20651477/",
+    "text": "伏見（三島駅） 3200万円",
+    "removed_on": "2026-10-17",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }
