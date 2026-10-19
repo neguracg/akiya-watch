@@ -109,17 +109,6 @@
     "removed_on": "2026-09-15",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78801876/|高台ならではの圧倒眺望！前面に遮る建物がなく四季を通して富士山を望めます。": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-15",
-    "location": "静岡県静岡市清水区村松",
-    "price_man": 1300,
-    "area_sqm": 305.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78801876/",
-    "text": "高台ならではの圧倒眺望！前面に遮る建物がなく四季を通して富士山を望めます。",
-    "removed_on": "2026-09-17",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20720234/|草薙（草薙駅） 2460万円": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-17",
@@ -351,17 +340,6 @@
     "removed_on": "2026-10-05",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20624734/|■【陽当たり良好／敷地広々】■【お買い物スポット多数／交通アクセス良好】": {
-    "first_seen": "2026-09-28",
-    "last_seen": "2026-10-05",
-    "location": "静岡県静岡市清水区宮加三",
-    "price_man": 1598,
-    "area_sqm": 256.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20624734/",
-    "text": "■【陽当たり良好／敷地広々】■【お買い物スポット多数／交通アクセス良好】",
-    "removed_on": "2026-10-06",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75953234/|☆９月２８日更新☆早くも２区画ご成約！残り１区画！静鉄狐ヶ崎駅から徒歩７分": {
     "first_seen": "2026-09-29",
     "last_seen": "2026-10-05",
@@ -503,6 +481,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21929877/",
     "text": "御門台駅から徒歩8分、生活至便な環境の高台に位置する78坪の整形地！",
     "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21922079/|■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-17",
+    "location": "静岡県静岡市清水区下野中",
+    "price_man": 2000,
+    "area_sqm": 175.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21922079/",
+    "text": "■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■",
+    "removed_on": "2026-10-18",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

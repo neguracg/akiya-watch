@@ -2231,5 +2231,16 @@
     "text": "ビレッジハウス熱海1号棟",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000079549171/?bc=100522193903|金子貸家": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-17",
+    "location": "静岡県熱海市泉",
+    "price_man": 7.0,
+    "area_sqm": 84.0,
+    "url": "https://suumo.jp/chintai/jnc_000079549171/?bc=100522193903",
+    "text": "金子貸家",
+    "removed_on": "2026-10-18",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

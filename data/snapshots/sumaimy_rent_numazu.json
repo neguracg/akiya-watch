@@ -1,8 +1,73 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145452|貸事業用地 沼津市若葉町152": {
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "location": "沼津市若葉町152",
+      "price_man": 33.0,
+      "area_sqm": 1223.1,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145452",
+      "text": "貸事業用地 沼津市若葉町152",
+      "shubetsu": "賃貸その他",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "礼金無"
+      ],
+      "caution": [
+        "事業用"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
+    },
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164303|貸戸建住宅 沼津市大岡3557-1": {
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "location": "沼津市大岡3557-1",
+      "price_man": 14.5,
+      "area_sqm": 70.8,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164303",
+      "text": "貸戸建住宅 沼津市大岡3557-1",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "3LDK",
+      "chikunen": "2025年8月",
+      "kanrihi": 4000,
+      "shikikin": "2ヵ月",
+      "reikin": "無",
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "礼金無",
+        "戸建"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164687|貸事務所 沼津市大手町３丁目2-15": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大手町３丁目2-15",
       "price_man": 32.82,
       "area_sqm": 123.3,
@@ -35,7 +100,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/164686|貸事務所 沼津市大手町３丁目2-15": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大手町３丁目2-15",
       "price_man": 32.82,
       "area_sqm": 123.3,
@@ -68,7 +133,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152815|貸事務所 沼津市大手町３丁目2-15": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大手町３丁目2-15",
       "price_man": 32.82,
       "area_sqm": 123.3,
@@ -101,7 +166,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159097|貸駐車場 沼津市井出218-13": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市井出218-13",
       "price_man": 0.3,
       "area_sqm": null,
@@ -133,7 +198,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159866|貸駐車場 沼津市小諏訪269-1": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市小諏訪269-1",
       "price_man": 0.5,
       "area_sqm": null,
@@ -165,7 +230,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158743|貸駐車場 沼津市東椎路": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市東椎路",
       "price_man": 0.4,
       "area_sqm": null,
@@ -197,7 +262,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/158742|貸駐車場 沼津市大諏訪": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大諏訪",
       "price_man": 0.4,
       "area_sqm": null,
@@ -229,7 +294,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169436|貸アパート 沼津市下香貫2278-1": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市下香貫2278-1",
       "price_man": 4.5,
       "area_sqm": 52.8,
@@ -260,7 +325,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172032|貸店舗（建物一部） 沼津市小諏訪436-2": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市小諏訪436-2",
       "price_man": 8.8,
       "area_sqm": 55.9,
@@ -293,7 +358,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174327|貸マンション 沼津市原620-22": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市原620-22",
       "price_man": 5.9,
       "area_sqm": 72.9,
@@ -325,7 +390,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/26699|貸マンション 沼津市千本常盤町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市千本常盤町",
       "price_man": 5.5,
       "area_sqm": 62.4,
@@ -356,7 +421,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170506|貸アパート 沼津市本松下": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市本松下",
       "price_man": 5.0,
       "area_sqm": 26.5,
@@ -388,7 +453,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/140619|貸アパート 沼津市青野": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市青野",
       "price_man": 4.5,
       "area_sqm": 45.5,
@@ -420,7 +485,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/123275|貸マンション 沼津市神田町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市神田町",
       "price_man": 6.4,
       "area_sqm": 63.7,
@@ -451,7 +516,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/61803|貸マンション 沼津市北高島町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市北高島町",
       "price_man": 6.5,
       "area_sqm": 55.9,
@@ -483,7 +548,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177389|貸アパート 沼津市我入道南条寺50-1": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市我入道南条寺50-1",
       "price_man": 5.6,
       "area_sqm": 58.0,
@@ -514,7 +579,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/169886|貸マンション 沼津市我入道林町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市我入道林町",
       "price_man": 5.0,
       "area_sqm": 48.0,
@@ -546,7 +611,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/38194|貸マンション 沼津市沼北町１丁目6-11": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市沼北町１丁目6-11",
       "price_man": 6.3,
       "area_sqm": 56.8,
@@ -578,7 +643,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/135457|貸マンション 沼津市沼北町１丁目6-11": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市沼北町１丁目6-11",
       "price_man": 6.3,
       "area_sqm": 56.8,
@@ -610,7 +675,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/55578|貸マンション 沼津市南本郷町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市南本郷町",
       "price_man": 6.5,
       "area_sqm": 51.7,
@@ -641,7 +706,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178367|貸店舗・事務所 沼津市江原町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市江原町",
       "price_man": 22.0,
       "area_sqm": 109.8,
@@ -676,7 +741,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178370|貸店舗・事務所 沼津市江原町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市江原町",
       "price_man": 16.5,
       "area_sqm": 78.7,
@@ -711,7 +776,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/105150|貸マンション 沼津市岡宮": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市岡宮",
       "price_man": 8.2,
       "area_sqm": 74.2,
@@ -742,7 +807,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151288|貸マンション 沼津市新宿町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市新宿町",
       "price_man": 6.2,
       "area_sqm": 40.1,
@@ -773,7 +838,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173234|貸アパート 沼津市大岡814-19": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大岡814-19",
       "price_man": 6.9,
       "area_sqm": 53.8,
@@ -804,7 +869,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/174049|貸マンション 沼津市今沢105": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市今沢105",
       "price_man": 6.2,
       "area_sqm": 48.5,
@@ -835,7 +900,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173599|貸アパート 沼津市大岡2500-6": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市大岡2500-6",
       "price_man": 5.7,
       "area_sqm": 33.8,
@@ -866,7 +931,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178351|貸アパート 沼津市下香貫汐入2197-2": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-18",
       "location": "沼津市下香貫汐入2197-2",
       "price_man": 6.75,
       "area_sqm": 50.0,
@@ -894,72 +959,8 @@
       "zokujinsei": false,
       "machi": "沼津市",
       "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177248|貸アパート 沼津市原139-1": {
-      "first_seen": "2026-10-17",
-      "last_seen": "2026-10-17",
-      "location": "沼津市原139-1",
-      "price_man": 2.1,
-      "area_sqm": 24.6,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/177248",
-      "text": "貸アパート 沼津市原139-1",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "ワンルーム",
-      "chikunen": "1993年3月",
-      "kanrihi": 4000,
-      "shikikin": "無",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "敷金無",
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "rent"
-    },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/110592|貸マンション 沼津市西島町": {
-      "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17",
-      "location": "沼津市西島町",
-      "price_man": 6.2,
-      "area_sqm": 63.9,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/110592",
-      "text": "貸マンション 沼津市西島町",
-      "shubetsu": "賃貸マンション",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "3LDK",
-      "chikunen": "1987年11月",
-      "kanrihi": null,
-      "shikikin": "無",
-      "reikin": "無",
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "敷金無",
-        "礼金無"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "rent"
     }
   },
-  "hash": "177f8bd70a8947df",
-  "fetched_at": "2026-10-18T00:01:13.784451"
+  "hash": "73cae6caf930cd90",
+  "fetched_at": "2026-10-19T00:12:59.635088"
 }

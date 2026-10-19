@@ -384,17 +384,6 @@
     "removed_on": "2026-09-01",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20732770/|丹那南箱根ダイヤランド 4600万円": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-09-01",
-    "location": "静岡県田方郡函南町丹那南箱根ダイヤランド",
-    "price_man": 4600,
-    "area_sqm": 393.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20732770/",
-    "text": "丹那南箱根ダイヤランド 4600万円",
-    "removed_on": "2026-09-01",
-    "site_name": "SUUMO 中古戸建 田方郡（函南）"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20820491/|平井南箱根ダイヤランド 2580万円": {
     "first_seen": "2026-07-04",
     "last_seen": "2026-09-02",
@@ -668,6 +657,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20288594/",
     "text": "平井 1980万円",
     "removed_on": "2026-10-17",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77685052/|平井 1980万円": {
+    "first_seen": "2026-07-04",
+    "last_seen": "2026-10-17",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 1980,
+    "area_sqm": 295.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_77685052/",
+    "text": "平井 1980万円",
+    "removed_on": "2026-10-18",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }
