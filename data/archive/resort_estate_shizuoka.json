@@ -405,5 +405,16 @@
     "text": "物件No.1859 伊東市 赤沢 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です",
     "removed_on": "2026-10-18",
     "site_name": "日本マウント 静岡県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/1978|静岡県伊東市八幡野": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊東市八幡野",
+    "price_man": 1780,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/1978",
+    "text": "静岡県伊東市八幡野",
+    "removed_on": "2026-10-20",
+    "site_name": "日本マウント 静岡県 リゾート・田舎物件"
   }
 }

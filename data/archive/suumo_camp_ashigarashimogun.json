@@ -141,5 +141,16 @@
     "text": "元箱根 10億円",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 足柄下郡（箱根町・湯河原町）"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20925298/|土肥３（湯河原駅） 2800万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-18",
+    "location": "神奈川県足柄下郡湯河原町土肥３",
+    "price_man": 2800,
+    "area_sqm": 264.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20925298/",
+    "text": "土肥３（湯河原駅） 2800万円",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 足柄下郡（箱根町・湯河原町）"
   }
 }

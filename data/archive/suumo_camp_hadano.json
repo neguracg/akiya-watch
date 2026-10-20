@@ -505,28 +505,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/|西田原 1280万円": {
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-10",
-    "location": "神奈川県秦野市西田原",
-    "price_man": 1280,
-    "area_sqm": 155.9,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/",
-    "text": "西田原 1280万円",
-    "removed_on": "2026-10-11",
-    "site_name": "SUUMO 土地 秦野市"
-  },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/|渋沢（渋沢駅） 1380万円": {
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-10",
-    "location": "神奈川県秦野市渋沢1428-3",
-    "price_man": 1380,
-    "area_sqm": 147.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/",
-    "text": "渋沢（渋沢駅） 1380万円",
-    "removed_on": "2026-10-11",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21433033/|【駅徒歩１３分】40坪越の陽当り良好な立地に間取りは組み換え自由な限定販売": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-10",
@@ -635,6 +613,39 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21891429/",
     "text": "約11坪の駐車場用地です。カースペース並列2台可（車種による）",
     "removed_on": "2026-10-18",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78588962/|戸川 795万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-18",
+    "location": "神奈川県秦野市戸川",
+    "price_man": 795,
+    "area_sqm": 113.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78588962/",
+    "text": "戸川 795万円",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21870187/|下大槻 1480万円～1680万円": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-18",
+    "location": "神奈川県秦野市下大槻466-1",
+    "price_man": 1480,
+    "area_sqm": 231.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21870187/",
+    "text": "下大槻 1480万円～1680万円",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403015/|渋沢３（渋沢駅） 2380万円": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-18",
+    "location": "神奈川県秦野市渋沢３-1-10",
+    "price_man": 2380,
+    "area_sqm": 173.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21403015/",
+    "text": "渋沢３（渋沢駅） 2380万円",
+    "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

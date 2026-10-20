@@ -824,28 +824,6 @@
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/|須山 1580万円": {
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-13",
-    "location": "静岡県裾野市須山",
-    "price_man": 1580,
-    "area_sqm": 514.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/",
-    "text": "須山 1580万円",
-    "removed_on": "2026-10-14",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21426400/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-10-14",
-    "location": "静岡県裾野市千福が丘１",
-    "price_man": 1350,
-    "area_sqm": 235.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21426400/",
-    "text": "【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪",
-    "removed_on": "2026-10-15",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21450455/|【見学会開催】【現況販売　10月1日以降はリフォーム予定】": {
     "first_seen": "2026-09-20",
     "last_seen": "2026-10-14",
@@ -877,6 +855,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
     "text": "新価格◆千福が丘ナチュラルモダン住宅◆リフォーム済/駐車場2台に拡大予定！",
     "removed_on": "2026-10-17",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21937752/|自社売主物件につき随時内覧可能です。【リフォーム内容】植栽剪定、水回り": {
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
+    "location": "静岡県裾野市佐野676-17",
+    "price_man": 1999,
+    "area_sqm": 166.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21937752/",
+    "text": "自社売主物件につき随時内覧可能です。【リフォーム内容】植栽剪定、水回り",
+    "removed_on": "2026-10-20",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

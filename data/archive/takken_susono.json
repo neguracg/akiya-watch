@@ -42,5 +42,16 @@
     "text": "売土地 裾野市茶畑",
     "removed_on": "2026-10-18",
     "site_name": "空き家バンクしずおか 裾野市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172786/settle/1|売土地 裾野市石脇": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-18",
+    "location": "裾野市石脇",
+    "price_man": 2150,
+    "area_sqm": 295.7,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172786/settle/1",
+    "text": "売土地 裾野市石脇",
+    "removed_on": "2026-10-20",
+    "site_name": "空き家バンクしずおか 裾野市"
   }
 }

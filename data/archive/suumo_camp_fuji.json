@@ -1451,17 +1451,6 @@
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21517825/|今泉（吉原本町駅） 1800万円": {
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-13",
-    "location": "静岡県富士市今泉3399-6",
-    "price_man": 1800,
-    "area_sqm": 278.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21517825/",
-    "text": "今泉（吉原本町駅） 1800万円",
-    "removed_on": "2026-10-14",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78433239/|■10/9更新【ミサワホーム】毎日がもっと快適に、利便性抜群の理想の土地": {
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-16",
@@ -1493,6 +1482,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21168973/",
     "text": "美しい街並みが魅力の大型分譲地。ゆとりある住環境で新生活を。",
     "removed_on": "2026-10-17",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21738898/|◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-18",
+    "location": "静岡県富士市比奈1007-1",
+    "price_man": 980,
+    "area_sqm": 168.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21738898/",
+    "text": "◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21739008/|◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-18",
+    "location": "静岡県富士市比奈1007-1",
+    "price_man": 1130,
+    "area_sqm": 175.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21739008/",
+    "text": "◇◆MIRAIE売主～全2区画分譲地◆◇コンビニ、ドラッグストア徒歩圏内♪",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20859263/|川成島（新富士駅） 1398万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-18",
+    "location": "静岡県富士市川成島",
+    "price_man": 1398,
+    "area_sqm": 165.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20859263/",
+    "text": "川成島（新富士駅） 1398万円",
+    "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 富士市"
   }
 }

@@ -196,5 +196,27 @@
     "text": "平野 500万円",
     "removed_on": "2026-10-18",
     "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_77058120/|長浜 450万円": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-18",
+    "location": "山梨県南都留郡富士河口湖町長浜",
+    "price_man": 450,
+    "area_sqm": 288.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_77058120/",
+    "text": "長浜 450万円",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21959492/|河口 580万円": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "山梨県南都留郡富士河口湖町河口",
+    "price_man": 580,
+    "area_sqm": 162.4,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21959492/",
+    "text": "河口 580万円",
+    "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
   }
 }

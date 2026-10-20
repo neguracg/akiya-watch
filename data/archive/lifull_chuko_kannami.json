@@ -153,15 +153,15 @@
     "removed_on": "2026-10-15",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-1111450004611/|南箱根ダイヤランド　売戸建": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-16",
-    "location": "南箱根ダイヤランド　売戸建",
-    "price_man": 1600,
-    "area_sqm": 307.5,
-    "url": "https://www.homes.co.jp/kodate/b-1111450004611/",
-    "text": "南箱根ダイヤランド　売戸建",
-    "removed_on": "2026-10-17",
+  "https://www.homes.co.jp/kodate/b-1316560004601/|函南町平井　中古戸建": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-10-18",
+    "location": "函南町平井　中古戸建",
+    "price_man": 3150,
+    "area_sqm": 202.5,
+    "url": "https://www.homes.co.jp/kodate/b-1316560004601/",
+    "text": "函南町平井　中古戸建",
+    "removed_on": "2026-10-20",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

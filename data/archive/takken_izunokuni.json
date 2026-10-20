@@ -251,5 +251,27 @@
     "text": "売マンション 伊豆の国市長岡",
     "removed_on": "2026-10-16",
     "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163787/settle/1|売住宅 伊豆の国市小坂": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-18",
+    "location": "伊豆の国市小坂",
+    "price_man": 1180,
+    "area_sqm": 257.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/163787/settle/1",
+    "text": "売住宅 伊豆の国市小坂",
+    "removed_on": "2026-10-20",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154670/settle/1|売アパート 伊豆の国市小坂": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-10-18",
+    "location": "伊豆の国市小坂",
+    "price_man": 1180,
+    "area_sqm": 257.9,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154670/settle/1",
+    "text": "売アパート 伊豆の国市小坂",
+    "removed_on": "2026-10-20",
+    "site_name": "空き家バンクしずおか 伊豆の国市"
   }
 }

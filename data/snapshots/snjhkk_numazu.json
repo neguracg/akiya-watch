@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_60019/index.html|静岡県沼津市南本郷町611番4": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "location": "静岡県沼津市南本郷町611番4",
       "price_man": 3698,
       "area_sqm": 162.4,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59966/index.html|静岡県沼津市高島町": {
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18",
+      "last_seen": "2026-10-20",
       "location": "静岡県沼津市高島町",
       "price_man": 2680,
       "area_sqm": null,
@@ -59,6 +59,6 @@
       "tab": "home"
     }
   },
-  "hash": "2fc38dff6e8d5057",
-  "fetched_at": "2026-10-19T00:22:57.508997"
+  "hash": "514056e4a260c7f5",
+  "fetched_at": "2026-10-20T01:21:39.640415"
 }

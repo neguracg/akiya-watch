@@ -1,26 +1,4 @@
 {
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142485|熱海市伊豆山1102-1": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-11",
-    "location": "熱海市伊豆山1102-1",
-    "price_man": 1960,
-    "area_sqm": 334.6,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142485",
-    "text": "熱海市伊豆山1102-1",
-    "removed_on": "2026-09-12",
-    "site_name": "スマイミー静岡 売土地 熱海市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145869|熱海市伊豆山1102-1他": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-12",
-    "location": "熱海市伊豆山1102-1他",
-    "price_man": 1980,
-    "area_sqm": 337.8,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145869",
-    "text": "熱海市伊豆山1102-1他",
-    "removed_on": "2026-09-13",
-    "site_name": "スマイミー静岡 売土地 熱海市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176192|熱海市下多賀": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-13",
@@ -29,28 +7,6 @@
     "area_sqm": 192.4,
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176192",
     "text": "熱海市下多賀",
-    "removed_on": "2026-09-15",
-    "site_name": "スマイミー静岡 売土地 熱海市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171059|熱海市伊豆山": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-13",
-    "location": "熱海市伊豆山",
-    "price_man": 880,
-    "area_sqm": 410.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171059",
-    "text": "熱海市伊豆山",
-    "removed_on": "2026-09-15",
-    "site_name": "スマイミー静岡 売土地 熱海市"
-  },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170932|熱海市泉": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-13",
-    "location": "熱海市泉",
-    "price_man": 1000,
-    "area_sqm": 6332.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170932",
-    "text": "熱海市泉",
     "removed_on": "2026-09-15",
     "site_name": "スマイミー静岡 売土地 熱海市"
   },
@@ -426,6 +382,50 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/43103",
     "text": "熱海市伊豆山1084-300",
     "removed_on": "2026-10-18",
+    "site_name": "スマイミー静岡 売土地 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125394|熱海市桜町1636－13": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-18",
+    "location": "熱海市桜町1636－13",
+    "price_man": 770,
+    "area_sqm": 76.5,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125394",
+    "text": "熱海市桜町1636－13",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 売土地 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170451|熱海市下多賀": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-18",
+    "location": "熱海市下多賀",
+    "price_man": 550,
+    "area_sqm": 13377.6,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170451",
+    "text": "熱海市下多賀",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 売土地 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175031|熱海市下多賀163-1": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-18",
+    "location": "熱海市下多賀163-1",
+    "price_man": 2500,
+    "area_sqm": 236.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175031",
+    "text": "熱海市下多賀163-1",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 売土地 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172287|熱海市伊豆山": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-18",
+    "location": "熱海市伊豆山",
+    "price_man": 4980,
+    "area_sqm": 3547.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172287",
+    "text": "熱海市伊豆山",
+    "removed_on": "2026-10-20",
     "site_name": "スマイミー静岡 売土地 熱海市"
   }
 }

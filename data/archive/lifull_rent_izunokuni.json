@@ -1923,5 +1923,71 @@
     "text": "ハイツ天のや　Ｂ",
     "removed_on": "2026-10-18",
     "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/|パーシモンスクエア": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市寺家705-1",
+    "price_man": 6.9,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/",
+    "text": "パーシモンスクエア",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/dc0c4550043a1d0f32a664994d509d2b7aa88a15/|和光　ビル": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 9.5,
+    "area_sqm": 64.8,
+    "url": "https://www.homes.co.jp/chintai/room/dc0c4550043a1d0f32a664994d509d2b7aa88a15/",
+    "text": "和光　ビル",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/d5a1b1dfaa6807f470602e45bdbad0df0db5b033/|和光　ビル": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 8.0,
+    "area_sqm": 55.0,
+    "url": "https://www.homes.co.jp/chintai/room/d5a1b1dfaa6807f470602e45bdbad0df0db5b033/",
+    "text": "和光　ビル",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/6f6aa089538dcc2200dfd7f3a9fb999fff49f522/|和光　ビル": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 8.5,
+    "area_sqm": 59.2,
+    "url": "https://www.homes.co.jp/chintai/room/6f6aa089538dcc2200dfd7f3a9fb999fff49f522/",
+    "text": "和光　ビル",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/|和光　ビル": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市古奈",
+    "price_man": 9.0,
+    "area_sqm": 58.0,
+    "url": "https://www.homes.co.jp/chintai/room/510aae0ebdb1e7504dc4b89322174b6cf354f599/",
+    "text": "和光　ビル",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/a75d9657fd2cd2b5f2870b5d07bb9be5f9f3b561/|ｓｔｅｌｌａｒ　II": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-18",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.1,
+    "area_sqm": 48.9,
+    "url": "https://www.homes.co.jp/chintai/room/a75d9657fd2cd2b5f2870b5d07bb9be5f9f3b561/",
+    "text": "ｓｔｅｌｌａｒ　II",
+    "removed_on": "2026-10-20",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

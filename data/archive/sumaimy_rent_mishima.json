@@ -208,17 +208,6 @@
     "removed_on": "2026-10-06",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71813|貸マンション 三島市大宮町１丁目": {
-    "first_seen": "2026-09-27",
-    "last_seen": "2026-10-05",
-    "location": "三島市大宮町１丁目",
-    "price_man": 4.8,
-    "area_sqm": 27.0,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/71813",
-    "text": "貸マンション 三島市大宮町１丁目",
-    "removed_on": "2026-10-06",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/173776|貸アパート 三島市南二日町24-15": {
     "first_seen": "2026-09-22",
     "last_seen": "2026-10-05",
@@ -461,17 +450,6 @@
     "removed_on": "2026-10-17",
     "site_name": "スマイミー静岡 賃貸 三島市"
   },
-  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/122680|貸戸建住宅 三島市萩135": {
-    "first_seen": "2026-10-06",
-    "last_seen": "2026-10-16",
-    "location": "三島市萩135",
-    "price_man": 4.0,
-    "area_sqm": 45.9,
-    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/122680",
-    "text": "貸戸建住宅 三島市萩135",
-    "removed_on": "2026-10-17",
-    "site_name": "スマイミー静岡 賃貸 三島市"
-  },
   "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/176032|貸事業用地 三島市八反畑125-1": {
     "first_seen": "2026-10-06",
     "last_seen": "2026-10-16",
@@ -536,6 +514,28 @@
     "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/90984",
     "text": "貸マンション 三島市大宮町２丁目",
     "removed_on": "2026-10-17",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172008|貸マンション 三島市一番町18-25": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-18",
+    "location": "三島市一番町18-25",
+    "price_man": 15.0,
+    "area_sqm": 64.3,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172008",
+    "text": "貸マンション 三島市一番町18-25",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 賃貸 三島市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151420|貸駐車場 三島市東本町１丁目": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-18",
+    "location": "三島市東本町１丁目",
+    "price_man": 0.5,
+    "area_sqm": null,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/151420",
+    "text": "貸駐車場 三島市東本町１丁目",
+    "removed_on": "2026-10-20",
     "site_name": "スマイミー静岡 賃貸 三島市"
   }
 }

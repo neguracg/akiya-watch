@@ -1032,5 +1032,27 @@
     "text": "貸アパート 熱海市上宿町",
     "removed_on": "2026-10-18",
     "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160011|貸店舗（建物一部）定期借家 熱海市昭和町15-5": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-18",
+    "location": "熱海市昭和町15-5",
+    "price_man": 15.0,
+    "area_sqm": 63.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/160011",
+    "text": "貸店舗（建物一部）定期借家 熱海市昭和町15-5",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
+  },
+  "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114400|貸店舗・事務所 熱海市中央町": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-18",
+    "location": "熱海市中央町",
+    "price_man": 15.0,
+    "area_sqm": 70.0,
+    "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/114400",
+    "text": "貸店舗・事務所 熱海市中央町",
+    "removed_on": "2026-10-20",
+    "site_name": "スマイミー静岡 賃貸 熱海市"
   }
 }
