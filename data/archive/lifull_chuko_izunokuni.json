@@ -373,17 +373,6 @@
     "removed_on": "2026-10-10",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1490460002293/|伊豆の国市北江間　中古戸建": {
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-18",
-    "location": "伊豆の国市北江間　中古戸建",
-    "price_man": 580,
-    "area_sqm": 200.2,
-    "url": "https://www.homes.co.jp/kodate/b-1490460002293/",
-    "text": "伊豆の国市北江間　中古戸建",
-    "removed_on": "2026-10-20",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-33303030000191/|伊豆箱根鉄道駿豆線 田京駅 徒歩32分": {
     "first_seen": "2026-10-10",
     "last_seen": "2026-10-18",
@@ -393,6 +382,17 @@
     "url": "https://www.homes.co.jp/kodate/b-33303030000191/",
     "text": "伊豆箱根鉄道駿豆線 田京駅 徒歩32分",
     "removed_on": "2026-10-20",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-10-20",
+    "location": "伊豆の国市三福　中古戸建",
+    "price_man": 1980,
+    "area_sqm": 128.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
+    "text": "伊豆の国市三福　中古戸建",
+    "removed_on": "2026-10-21",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

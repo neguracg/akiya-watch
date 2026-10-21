@@ -2253,5 +2253,16 @@
     "text": "熱海スカイハイツ",
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108711553/?bc=100518325965|ＪＲ伊東線 網代駅 2階建 築61年": {
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-10-20",
+    "location": "静岡県熱海市下多賀",
+    "price_man": 9.8,
+    "area_sqm": 120.3,
+    "url": "https://suumo.jp/chintai/jnc_000108711553/?bc=100518325965",
+    "text": "ＪＲ伊東線 網代駅 2階建 築61年",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

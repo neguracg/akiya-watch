@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_59967/index.html|静岡県三島市松が丘": {
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "静岡県三島市松が丘",
       "price_man": 1999,
       "area_sqm": null,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "a0676568dd81f0cf",
-  "fetched_at": "2026-10-20T01:11:15.372592"
+  "hash": "d12ff6f34c0c0c39",
+  "fetched_at": "2026-10-21T00:39:51.216878"
 }

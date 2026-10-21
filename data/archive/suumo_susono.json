@@ -571,17 +571,6 @@
     "removed_on": "2026-10-02",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|家族で楽しく思い出を作れる！富士山が見えるゆったりとした敷地は解放感あり": {
-    "first_seen": "2026-09-30",
-    "last_seen": "2026-10-01",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "家族で楽しく思い出を作れる！富士山が見えるゆったりとした敷地は解放感あり",
-    "removed_on": "2026-10-02",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|第二の家に！富士山が見えるので見学から楽しい時間が過ごせます！": {
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-02",
@@ -712,6 +701,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "自宅から富士山が見える絶景な立地☆広々340坪以上、都心から100km圏内",
     "removed_on": "2026-10-20",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|雄大な富士山が間近に見える☆都心から100km圏内の移住先としても良い立地": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "雄大な富士山が間近に見える☆都心から100km圏内の移住先としても良い立地",
+    "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

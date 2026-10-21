@@ -1,8 +1,37 @@
 {
   "keys": {
+    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166230|熱海市下多賀": {
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-10-21",
+      "location": "熱海市下多賀",
+      "price_man": 850,
+      "area_sqm": 165.5,
+      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166230",
+      "text": "熱海市下多賀",
+      "shubetsu": "古家付き土地",
+      "shubetsu_reason": "土地＋古家/上物の表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 17.0,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "熱海市",
+      "tab": "camp"
+    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/159928|熱海市青葉町": {
       "first_seen": "2026-09-19",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市青葉町",
       "price_man": 280,
       "area_sqm": 3469.0,
@@ -31,7 +60,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/145869|熱海市伊豆山1102-1他": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市伊豆山1102-1他",
       "price_man": 1980,
       "area_sqm": 337.8,
@@ -60,7 +89,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/142485|熱海市伊豆山1102-1": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市伊豆山1102-1",
       "price_man": 1960,
       "area_sqm": 334.6,
@@ -89,7 +118,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170932|熱海市泉": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市泉",
       "price_man": 1000,
       "area_sqm": 6332.0,
@@ -118,7 +147,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/171059|熱海市伊豆山": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市伊豆山",
       "price_man": 880,
       "area_sqm": 410.0,
@@ -147,7 +176,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134956|熱海市西熱海町２丁目2-1800-396": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市西熱海町２丁目2-1800-396",
       "price_man": 680,
       "area_sqm": 477.0,
@@ -176,7 +205,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/125816|熱海市網代627-840": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市網代627-840",
       "price_man": 200,
       "area_sqm": 165.3,
@@ -207,7 +236,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/165146|熱海市桜町": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市桜町",
       "price_man": 480,
       "area_sqm": 70.2,
@@ -236,7 +265,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/147044|熱海市伊豆山866-1": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市伊豆山866-1",
       "price_man": 850,
       "area_sqm": 507.0,
@@ -265,7 +294,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144473|熱海市桜町1-32": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市桜町1-32",
       "price_man": 1280,
       "area_sqm": 235.0,
@@ -294,7 +323,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/57938|熱海市伊豆山738": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市伊豆山738",
       "price_man": 4500,
       "area_sqm": 2132.4,
@@ -323,7 +352,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/49140|熱海市小嵐町7": {
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市小嵐町7",
       "price_man": 780,
       "area_sqm": 512.4,
@@ -352,7 +381,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/134809|熱海市水口町２丁目1840-9.13.20": {
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市水口町２丁目1840-9.13.20",
       "price_man": 1880,
       "area_sqm": 643.0,
@@ -381,7 +410,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/83405|熱海市網代": {
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市網代",
       "price_man": 800,
       "area_sqm": 323.0,
@@ -412,7 +441,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/150869|熱海市西山町1742-2": {
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市西山町1742-2",
       "price_man": 200,
       "area_sqm": 296.6,
@@ -441,7 +470,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178239|熱海市紅葉ガ丘町": {
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市紅葉ガ丘町",
       "price_man": 380,
       "area_sqm": 113.0,
@@ -470,7 +499,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/162926|熱海市上宿町": {
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市上宿町",
       "price_man": 6500,
       "area_sqm": 600.8,
@@ -499,7 +528,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/136914|熱海市西山町32": {
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市西山町32",
       "price_man": 5800,
       "area_sqm": 1427.3,
@@ -528,7 +557,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175398|熱海市清水町": {
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市清水町",
       "price_man": 4000,
       "area_sqm": 314.0,
@@ -557,7 +586,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/152416|熱海市下多賀": {
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市下多賀",
       "price_man": 5000,
       "area_sqm": 4164.6,
@@ -588,7 +617,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/144708|熱海市桜町13-1": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市桜町13-1",
       "price_man": 2000,
       "area_sqm": 202.6,
@@ -617,7 +646,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170255|熱海市梅園町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市梅園町",
       "price_man": 1180,
       "area_sqm": 581.9,
@@ -648,7 +677,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/172923|熱海市梅園町": {
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市梅園町",
       "price_man": 680,
       "area_sqm": 293.0,
@@ -677,7 +706,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/170440|熱海市下多賀": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市下多賀",
       "price_man": 550,
       "area_sqm": 1036.0,
@@ -708,7 +737,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/175306|熱海市下多賀": {
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市下多賀",
       "price_man": 200,
       "area_sqm": 102.8,
@@ -737,38 +766,9 @@
       "machi": "熱海市",
       "tab": "camp"
     },
-    "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166230|熱海市下多賀": {
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20",
-      "location": "熱海市下多賀",
-      "price_man": 850,
-      "area_sqm": 165.5,
-      "url": "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/166230",
-      "text": "熱海市下多賀",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 17.0,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "熱海市",
-      "tab": "camp"
-    },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/81775|熱海市西熱海町２丁目1800-396": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市西熱海町２丁目1800-396",
       "price_man": 680,
       "area_sqm": 477.0,
@@ -797,7 +797,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/154524|熱海市上多賀1065-1551": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市上多賀1065-1551",
       "price_man": 380,
       "area_sqm": 467.6,
@@ -828,7 +828,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/87721|熱海市下多賀": {
       "first_seen": "2026-09-24",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市下多賀",
       "price_man": 330,
       "area_sqm": 111.0,
@@ -857,7 +857,7 @@
     },
     "https://www.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/110862|熱海市緑ガ丘町1740-273": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-21",
       "location": "熱海市緑ガ丘町1740-273",
       "price_man": 400,
       "area_sqm": 119.0,
@@ -885,6 +885,6 @@
       "tab": "camp"
     }
   },
-  "hash": "80e82e89be25e12a",
-  "fetched_at": "2026-10-20T01:29:03.764653"
+  "hash": "dada1e3e601e201b",
+  "fetched_at": "2026-10-21T00:58:12.751430"
 }

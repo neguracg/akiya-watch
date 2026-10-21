@@ -240,5 +240,16 @@
     "text": "伏見（三島駅） 3200万円",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21623452/|上土狩（三島駅） 2100万円": {
+    "first_seen": "2026-09-09",
+    "last_seen": "2026-10-20",
+    "location": "静岡県駿東郡長泉町上土狩",
+    "price_man": 2100,
+    "area_sqm": 150.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21623452/",
+    "text": "上土狩（三島駅） 2100万円",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }

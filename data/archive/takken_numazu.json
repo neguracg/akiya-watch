@@ -1241,5 +1241,16 @@
     "text": "新築売住宅 沼津市中沢田423-1",
     "removed_on": "2026-10-17",
     "site_name": "空き家バンクしずおか 沼津市"
+  },
+  "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178298/settle/1|売マンション 沼津市大岡": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-20",
+    "location": "沼津市大岡",
+    "price_man": 1890,
+    "area_sqm": 65.0,
+    "url": "https://akiya-bank.shizuoka.fudohsan.jp/%E7%89%A9%E4%BB%B6/178298/settle/1",
+    "text": "売マンション 沼津市大岡",
+    "removed_on": "2026-10-21",
+    "site_name": "空き家バンクしずおか 沼津市"
   }
 }

@@ -890,17 +890,6 @@
     "removed_on": "2026-10-09",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|主要道路へアクセス◎スーパーが車10分圏内に充実の生活利便性の高さが魅力": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県伊豆の国市長崎350-4",
-    "price_man": 980,
-    "area_sqm": 201.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
-    "text": "主要道路へアクセス◎スーパーが車10分圏内に充実の生活利便性の高さが魅力",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|通勤通学便利！ファミリーも嬉しい！主要道路へのアクセス◎原木駅徒歩約18分": {
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09",
@@ -1055,15 +1044,26 @@
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21863069/|南江間（韮山駅） 1億円": {
-    "first_seen": "2026-10-05",
-    "last_seen": "2026-10-18",
-    "location": "静岡県伊豆の国市南江間",
-    "price_man": 10000,
-    "area_sqm": 2228.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21863069/",
-    "text": "南江間（韮山駅） 1億円",
-    "removed_on": "2026-10-20",
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|親御さんも安心な立地☆大学に自宅から通学も叶える！": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "location": "静岡県伊豆の国市長崎350-4",
+    "price_man": 980,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/",
+    "text": "親御さんも安心な立地☆大学に自宅から通学も叶える！",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|忙しいあなたに！主要道路アクセス◎「原木」駅徒歩約18分の利便性の高い立地": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "location": "静岡県伊豆の国市長崎350-8",
+    "price_man": 1150,
+    "area_sqm": 201.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/",
+    "text": "忙しいあなたに！主要道路アクセス◎「原木」駅徒歩約18分の利便性の高い立地",
+    "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 伊豆の国市"
   }
 }

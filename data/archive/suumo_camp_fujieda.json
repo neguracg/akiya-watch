@@ -262,5 +262,49 @@
     "text": "【積水ハウス】藤枝市田沼4丁目の閑静な住宅地に全5区画の分譲地。藤枝駅徒歩11",
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 藤枝市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_77805211/|藤枝駅まで徒歩約16分♪南向き角地！お買い物便利な立地です(^^♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-20",
+    "location": "静岡県藤枝市青葉町２",
+    "price_man": 2190,
+    "area_sqm": 245.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_77805211/",
+    "text": "藤枝駅まで徒歩約16分♪南向き角地！お買い物便利な立地です(^^♪",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 藤枝市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78904551/|藤枝駅まで徒歩10分！通勤通学、お買い物も便利な立地です♪建築条件なし": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-20",
+    "location": "静岡県藤枝市前島２",
+    "price_man": 3880,
+    "area_sqm": 213.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78904551/",
+    "text": "藤枝駅まで徒歩10分！通勤通学、お買い物も便利な立地です♪建築条件なし",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 藤枝市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_73929495/|潮（焼津駅） 1061万6000円": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-20",
+    "location": "静岡県藤枝市潮",
+    "price_man": 1061,
+    "area_sqm": 584.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_73929495/",
+    "text": "潮（焼津駅） 1061万6000円",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 藤枝市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_20933964/|高岡３（藤枝駅） 2430万円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-20",
+    "location": "静岡県藤枝市高岡３-5-5",
+    "price_man": 2430,
+    "area_sqm": 208.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_20933964/",
+    "text": "高岡３（藤枝駅） 2430万円",
+    "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 藤枝市"
   }
 }

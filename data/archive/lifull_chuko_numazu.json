@@ -461,17 +461,6 @@
     "removed_on": "2026-10-14",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1316560004593/|沼津市中沢田I　E号棟": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "location": "沼津市中沢田I　E号棟",
-    "price_man": 2090,
-    "area_sqm": 133.9,
-    "url": "https://www.homes.co.jp/kodate/b-1316560004593/",
-    "text": "沼津市中沢田I　E号棟",
-    "removed_on": "2026-10-20",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1420270003369/|沼津市大岡戸建": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-18",
@@ -481,6 +470,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1420270003369/",
     "text": "沼津市大岡戸建",
     "removed_on": "2026-10-20",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1475010001418/|沼津市中沢田I　分譲住宅　E号棟": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-20",
+    "location": "沼津市中沢田I　分譲住宅　E号棟",
+    "price_man": 2090,
+    "area_sqm": 133.9,
+    "url": "https://www.homes.co.jp/kodate/b-1475010001418/",
+    "text": "沼津市中沢田I　分譲住宅　E号棟",
+    "removed_on": "2026-10-21",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1316560005088/|沼津市西添町　中古戸建": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-20",
+    "location": "沼津市西添町　中古戸建",
+    "price_man": 2480,
+    "area_sqm": 128.6,
+    "url": "https://www.homes.co.jp/kodate/b-1316560005088/",
+    "text": "沼津市西添町　中古戸建",
+    "removed_on": "2026-10-21",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }
