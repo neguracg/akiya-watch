@@ -2,7 +2,7 @@
   "keys": {
     "https://buy.s-est.co.jp/land/141827/|小山町須走　幼稚園、小学校、中学校が徒歩圏内": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "location": "静岡県駿東郡小山町須走58-174",
       "price_man": 90,
       "area_sqm": 530.7,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "7c5f8af607e3fd5d",
-  "fetched_at": "2026-10-21T01:02:32.604261"
+  "hash": "febd8448c8352408",
+  "fetched_at": "2026-10-22T00:48:41.909117"
 }
