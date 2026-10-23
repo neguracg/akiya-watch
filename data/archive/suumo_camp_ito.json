@@ -438,5 +438,16 @@
     "text": "鎌田（南伊東駅） 1320万円",
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21670594/|桜ガ丘２（南伊東駅） 4200万円": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-21",
+    "location": "静岡県伊東市桜ガ丘２",
+    "price_man": 4200,
+    "area_sqm": 743.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21670594/",
+    "text": "桜ガ丘２（南伊東駅） 4200万円",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

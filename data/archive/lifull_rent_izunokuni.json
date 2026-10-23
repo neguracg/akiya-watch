@@ -1989,5 +1989,27 @@
     "text": "ｓｔｅｌｌａｒ　II",
     "removed_on": "2026-10-20",
     "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/ee302ed1384197f3176f07eb8e6d3b2aea0aeebe/|サンモール山下": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-21",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.5,
+    "area_sqm": 63.2,
+    "url": "https://www.homes.co.jp/chintai/room/ee302ed1384197f3176f07eb8e6d3b2aea0aeebe/",
+    "text": "サンモール山下",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/e92b1f80a07676dcb6c9add562c0815088738d70/|サンモール山下": {
+    "first_seen": "2026-07-27",
+    "last_seen": "2026-10-21",
+    "location": "静岡県伊豆の国市原木",
+    "price_man": 6.2,
+    "area_sqm": 63.2,
+    "url": "https://www.homes.co.jp/chintai/room/e92b1f80a07676dcb6c9add562c0815088738d70/",
+    "text": "サンモール山下",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

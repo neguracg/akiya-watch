@@ -230,17 +230,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 藤枝市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_73929495/|広幡小・中エリアの魅力を満喫！広々176坪でゆとりのある建築計画を♪": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-10",
-    "location": "静岡県藤枝市潮",
-    "price_man": 1061,
-    "area_sqm": 584.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_73929495/",
-    "text": "広幡小・中エリアの魅力を満喫！広々176坪でゆとりのある建築計画を♪",
-    "removed_on": "2026-10-11",
-    "site_name": "SUUMO 土地 藤枝市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_21387481/|ホームポジション◆建築条件なし◆閑静な住宅地の中の整形地！買い物・交通便利": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-14",
@@ -263,28 +252,6 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 藤枝市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_77805211/|藤枝駅まで徒歩約16分♪南向き角地！お買い物便利な立地です(^^♪": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-20",
-    "location": "静岡県藤枝市青葉町２",
-    "price_man": 2190,
-    "area_sqm": 245.4,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_77805211/",
-    "text": "藤枝駅まで徒歩約16分♪南向き角地！お買い物便利な立地です(^^♪",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 土地 藤枝市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78904551/|藤枝駅まで徒歩10分！通勤通学、お買い物も便利な立地です♪建築条件なし": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-20",
-    "location": "静岡県藤枝市前島２",
-    "price_man": 3880,
-    "area_sqm": 213.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78904551/",
-    "text": "藤枝駅まで徒歩10分！通勤通学、お買い物も便利な立地です♪建築条件なし",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 土地 藤枝市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_73929495/|潮（焼津駅） 1061万6000円": {
     "first_seen": "2026-10-13",
     "last_seen": "2026-10-20",
@@ -305,6 +272,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_20933964/",
     "text": "高岡３（藤枝駅） 2430万円",
     "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 藤枝市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78896149/|茶町１ 2380万円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-21",
+    "location": "静岡県藤枝市茶町１",
+    "price_man": 2380,
+    "area_sqm": 558.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujieda/nc_78896149/",
+    "text": "茶町１ 2380万円",
+    "removed_on": "2026-10-23",
     "site_name": "SUUMO 土地 藤枝市"
   }
 }

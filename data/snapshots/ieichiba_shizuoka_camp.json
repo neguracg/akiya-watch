@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202600929%E6%9D%B1%E4%BC%8A%E8%B1%86%E7%94%BA%E7%89%87%E7%80%AC|静岡県東伊豆町": {
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県東伊豆町",
       "price_man": 1980,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
@@ -60,7 +60,7 @@
     },
     "https://www.ieichiba.com/project/P202600827%E4%B8%8B%E7%94%B0%E5%8A%A0%E5%A2%97%E9%87%8EK|静岡県下田市": {
       "first_seen": "2026-09-17",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県下田市",
       "price_man": 1580,
       "area_sqm": null,
@@ -91,7 +91,7 @@
     },
     "https://www.ieichiba.com/project/P202600824%E4%BC%8A%E6%9D%B1%E9%8E%8C%E7%94%B0S|静岡県伊東市": {
       "first_seen": "2026-09-15",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県伊東市",
       "price_man": 300,
       "area_sqm": null,
@@ -123,7 +123,7 @@
     },
     "https://www.ieichiba.com/project/P202600804%E4%BC%8A%E6%9D%B1%E9%8E%8C%E7%94%B0W|静岡県伊東市": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県伊東市",
       "price_man": 50,
       "area_sqm": null,
@@ -155,7 +155,7 @@
     },
     "https://www.ieichiba.com/project/P202500238%E4%BC%8A%E6%9D%B1%E5%B2%A1O|静岡県伊東市": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県伊東市",
       "price_man": 450,
       "area_sqm": null,
@@ -186,7 +186,7 @@
     },
     "https://www.ieichiba.com/project/P202500247%E6%9D%BE%E5%B4%8E%E7%94%BA%E5%B3%B0%E8%BC%AA|静岡県松崎町": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-23",
       "location": "静岡県松崎町",
       "price_man": 2000,
       "area_sqm": null,
@@ -214,6 +214,6 @@
       "tab": "camp"
     }
   },
-  "hash": "26fae4d02a45cc12",
-  "fetched_at": "2026-10-21T00:59:14.290888"
+  "hash": "80786d28c9f98633",
+  "fetched_at": "2026-10-23T00:55:44.878306"
 }

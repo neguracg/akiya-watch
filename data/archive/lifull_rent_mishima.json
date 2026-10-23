@@ -2738,17 +2738,6 @@
     "removed_on": "2026-10-18",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/e3d6281ca19f22c2419475bc58a32b51c6a27306/|グランポレール": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "location": "静岡県三島市壱町田",
-    "price_man": 6.1,
-    "area_sqm": 40.1,
-    "url": "https://www.homes.co.jp/chintai/room/e3d6281ca19f22c2419475bc58a32b51c6a27306/",
-    "text": "グランポレール",
-    "removed_on": "2026-10-18",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/be75a52239925dc4a0514e8ed29a6057be2ef9d6/|（仮）飯塚様長屋住宅": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
@@ -2989,6 +2978,28 @@
     "url": "https://www.homes.co.jp/chintai/room/78d6a583da87b846193f59f83a9b00cd0fa69688/",
     "text": "ノアＡＰＴ",
     "removed_on": "2026-10-21",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/f948fc08f2ff334772d88673f12d3d64c6393b42/|リバーガーデン壱番": {
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-10-21",
+    "location": "静岡県三島市一番町",
+    "price_man": 6.3,
+    "area_sqm": 30.3,
+    "url": "https://www.homes.co.jp/chintai/room/f948fc08f2ff334772d88673f12d3d64c6393b42/",
+    "text": "リバーガーデン壱番",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/24753b5c5b9e3b03e7e8ec2995b8d944f806971e/|リバーガーデン壱番": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-10-21",
+    "location": "静岡県三島市一番町",
+    "price_man": 6.3,
+    "area_sqm": 30.3,
+    "url": "https://www.homes.co.jp/chintai/room/24753b5c5b9e3b03e7e8ec2995b8d944f806971e/",
+    "text": "リバーガーデン壱番",
+    "removed_on": "2026-10-23",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

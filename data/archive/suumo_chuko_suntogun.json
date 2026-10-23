@@ -251,5 +251,16 @@
     "text": "上土狩（三島駅） 2100万円",
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20990760/|東野 7480万円": {
+    "first_seen": "2026-07-13",
+    "last_seen": "2026-10-21",
+    "location": "静岡県駿東郡長泉町東野",
+    "price_man": 7480,
+    "area_sqm": 1211.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20990760/",
+    "text": "東野 7480万円",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }

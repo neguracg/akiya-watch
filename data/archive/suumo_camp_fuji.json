@@ -1538,5 +1538,60 @@
     "text": "横割６（富士駅） 4000万円",
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74797775/|大月線まで徒歩１分": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-10-21",
+    "location": "静岡県富士市伝法",
+    "price_man": 430,
+    "area_sqm": 106.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_74797775/",
+    "text": "大月線まで徒歩１分",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/|富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-21",
+    "location": "静岡県富士市森島",
+    "price_man": 980,
+    "area_sqm": 170.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/",
+    "text": "富士駅まで徒歩１８分！通学・通勤・買い物にも便利な好立地！",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20671630/|【デグチエステート】松岡二ツ家古屋付き土地小学校まで徒歩8分！お子様の通": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-21",
+    "location": "静岡県富士市松岡33-8",
+    "price_man": 1480,
+    "area_sqm": 330.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20671630/",
+    "text": "【デグチエステート】松岡二ツ家古屋付き土地小学校まで徒歩8分！お子様の通",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_73435280/|日当たり良好！約169坪の広々とした土地！富士山が見えます！": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-21",
+    "location": "静岡県富士市原田",
+    "price_man": 1590,
+    "area_sqm": 561.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_73435280/",
+    "text": "日当たり良好！約169坪の広々とした土地！富士山が見えます！",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78857078/|中丸（新富士駅） 3980万円": {
+    "first_seen": "2026-09-03",
+    "last_seen": "2026-10-21",
+    "location": "静岡県富士市中丸",
+    "price_man": 3980,
+    "area_sqm": 2636.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78857078/",
+    "text": "中丸（新富士駅） 3980万円",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

@@ -1484,28 +1484,6 @@
     "removed_on": "2026-10-20",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/852e1de0ee459d6b4287737748bb18801caba672/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩9分": {
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 7.0,
-    "area_sqm": 67.7,
-    "url": "https://www.homes.co.jp/chintai/room/852e1de0ee459d6b4287737748bb18801caba672/",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩9分",
-    "removed_on": "2026-10-20",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/341257c48414326bc12812916e496169ed44286e/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩9分": {
-    "first_seen": "2026-10-18",
-    "last_seen": "2026-10-18",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 7.0,
-    "area_sqm": 68.7,
-    "url": "https://www.homes.co.jp/chintai/room/341257c48414326bc12812916e496169ed44286e/",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩9分",
-    "removed_on": "2026-10-20",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/221b25a78db338883c76fb3c862f8de28e11effe/|グランドール高城Ｃ": {
     "first_seen": "2026-10-18",
     "last_seen": "2026-10-18",
@@ -1625,6 +1603,94 @@
     "url": "https://www.homes.co.jp/chintai/room/6422dbc807f71ad1f3b84b650adbba3e1297081d/",
     "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩17分",
     "removed_on": "2026-10-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/92c849b165cfb68a21c417d6d40eef774172eeb2/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/92c849b165cfb68a21c417d6d40eef774172eeb2/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/331963847b2ece18dd4c6d4d07d5cb8a14711157/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/331963847b2ece18dd4c6d4d07d5cb8a14711157/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/220873cd426de7d1937321c684579482d874f934/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/220873cd426de7d1937321c684579482d874f934/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/76dcf63b5598dccc532a149915b4b0dedb52c875/|ＫＭＴ沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://www.homes.co.jp/chintai/room/76dcf63b5598dccc532a149915b4b0dedb52c875/",
+    "text": "ＫＭＴ沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/1247bd4a750147ab40c08ecb4eeb8e5b52ba01af/|レサージュＡＯＮＯ": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.0,
+    "area_sqm": 67.7,
+    "url": "https://www.homes.co.jp/chintai/room/1247bd4a750147ab40c08ecb4eeb8e5b52ba01af/",
+    "text": "レサージュＡＯＮＯ",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/223c3b14f0cde79fa54da6a4fce9dafc838a5830/|レサージュＡＯＮＯ": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.0,
+    "area_sqm": 68.7,
+    "url": "https://www.homes.co.jp/chintai/room/223c3b14f0cde79fa54da6a4fce9dafc838a5830/",
+    "text": "レサージュＡＯＮＯ",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e5b649bbb490c00c55534ea3f656be7dd681d79d/|伊豆箱根鉄道駿豆線 大場駅 徒歩17分": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.0,
+    "area_sqm": 53.0,
+    "url": "https://www.homes.co.jp/chintai/room/e5b649bbb490c00c55534ea3f656be7dd681d79d/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩17分",
+    "removed_on": "2026-10-23",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/3e29cb3660289045dbe671f46e8b5b4a0151bf19/|伊豆箱根鉄道駿豆線 大場駅 徒歩17分": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-21",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.0,
+    "area_sqm": 53.0,
+    "url": "https://www.homes.co.jp/chintai/room/3e29cb3660289045dbe671f46e8b5b4a0151bf19/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩17分",
+    "removed_on": "2026-10-23",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

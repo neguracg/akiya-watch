@@ -2232,28 +2232,6 @@
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 賃貸 熱海市"
   },
-  "https://suumo.jp/chintai/jnc_000046826986/?bc=100525551867|熱海スカイハイツ": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "location": "静岡県熱海市春日町",
-    "price_man": 5.5,
-    "area_sqm": 26.9,
-    "url": "https://suumo.jp/chintai/jnc_000046826986/?bc=100525551867",
-    "text": "熱海スカイハイツ",
-    "removed_on": "2026-10-20",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
-  "https://suumo.jp/chintai/jnc_000069669930/?bc=100521027902|熱海スカイハイツ": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "location": "静岡県熱海市春日町",
-    "price_man": 11.0,
-    "area_sqm": 55.1,
-    "url": "https://suumo.jp/chintai/jnc_000069669930/?bc=100521027902",
-    "text": "熱海スカイハイツ",
-    "removed_on": "2026-10-20",
-    "site_name": "SUUMO 賃貸 熱海市"
-  },
   "https://suumo.jp/chintai/jnc_000108711553/?bc=100518325965|ＪＲ伊東線 網代駅 2階建 築61年": {
     "first_seen": "2026-08-21",
     "last_seen": "2026-10-20",
@@ -2263,6 +2241,39 @@
     "url": "https://suumo.jp/chintai/jnc_000108711553/?bc=100518325965",
     "text": "ＪＲ伊東線 網代駅 2階建 築61年",
     "removed_on": "2026-10-21",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000046826986/|熱海スカイハイツ": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
+    "location": "静岡県熱海市春日町",
+    "price_man": 5.5,
+    "area_sqm": 26.9,
+    "url": "https://suumo.jp/chintai/jnc_000046826986/",
+    "text": "熱海スカイハイツ",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000069669930/|熱海スカイハイツ": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-21",
+    "location": "静岡県熱海市春日町",
+    "price_man": 11.0,
+    "area_sqm": 55.1,
+    "url": "https://suumo.jp/chintai/jnc_000069669930/",
+    "text": "熱海スカイハイツ",
+    "removed_on": "2026-10-23",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109505479/?bc=100524053705|熱海テラス松本荘 1階": {
+    "first_seen": "2026-10-02",
+    "last_seen": "2026-10-21",
+    "location": "静岡県熱海市紅葉ガ丘町",
+    "price_man": 3.5,
+    "area_sqm": 29.0,
+    "url": "https://suumo.jp/chintai/jnc_000109505479/?bc=100524053705",
+    "text": "熱海テラス松本荘 1階",
+    "removed_on": "2026-10-23",
     "site_name": "SUUMO 賃貸 熱海市"
   }
 }
