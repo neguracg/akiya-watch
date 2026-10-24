@@ -626,17 +626,6 @@
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/|☆各線「小田原」駅徒歩11分☆建築条件なし売地": {
-    "first_seen": "2026-10-11",
-    "last_seen": "2026-10-18",
-    "location": "神奈川県小田原市扇町１",
-    "price_man": 2380,
-    "area_sqm": 141.2,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/",
-    "text": "☆各線「小田原」駅徒歩11分☆建築条件なし売地",
-    "removed_on": "2026-10-20",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21891425/|☆「富水」駅徒歩8分☆建築条件なしの売地です！": {
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-20",
@@ -646,6 +635,61 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21891425/",
     "text": "☆「富水」駅徒歩8分☆建築条件なしの売地です！",
     "removed_on": "2026-10-21",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21850010/|土地50坪以上、駅まで平坦、前道６ｍ以上、角地、整形地、建築条件なし、都市ガ": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県小田原市曽我光海4-20",
+    "price_man": 1180,
+    "area_sqm": 185.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21850010/",
+    "text": "土地50坪以上、駅まで平坦、前道６ｍ以上、角地、整形地、建築条件なし、都市ガ",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20865847/|【スギホーム】土地価格＋1900万で自由設計！デザイン×品質×コスパ": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県小田原市飯田岡496-10",
+    "price_man": 1190,
+    "area_sqm": 132.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20865847/",
+    "text": "【スギホーム】土地価格＋1900万で自由設計！デザイン×品質×コスパ",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/|扇町１（緑町駅） 2380万円": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県小田原市扇町１",
+    "price_man": 2380,
+    "area_sqm": 141.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/",
+    "text": "扇町１（緑町駅） 2380万円",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_76680441/|物件総数4638件！その他未公開・新着物件多数！お気軽にお問合せください！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県小田原市中村原",
+    "price_man": 2380,
+    "area_sqm": 459.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_76680441/",
+    "text": "物件総数4638件！その他未公開・新着物件多数！お気軽にお問合せください！",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21687141/|200坪以上の敷地です。居住用、事業用地としてご利用いただけます。": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県小田原市羽根尾",
+    "price_man": 5500,
+    "area_sqm": 726.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21687141/",
+    "text": "200坪以上の敷地です。居住用、事業用地としてご利用いただけます。",
+    "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

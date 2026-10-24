@@ -647,5 +647,38 @@
     "text": "渋沢３（渋沢駅） 2380万円",
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21514213/|堀山下 1360万円～1380万円": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県秦野市堀山下571番5",
+    "price_man": 1360,
+    "area_sqm": 125.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21514213/",
+    "text": "堀山下 1360万円～1380万円",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746190/|便利な立地で叶える理想の家。": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県秦野市本町３",
+    "price_man": 1380,
+    "area_sqm": 109.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21746190/",
+    "text": "便利な立地で叶える理想の家。",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21961612/|渋沢駅徒歩10分♪建築条件無♪南東側道路♪約69坪♪買物施設至近♪": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-23",
+    "location": "神奈川県秦野市渋沢２",
+    "price_man": 1990,
+    "area_sqm": 231.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21961612/",
+    "text": "渋沢駅徒歩10分♪建築条件無♪南東側道路♪約69坪♪買物施設至近♪",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

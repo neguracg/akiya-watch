@@ -549,17 +549,6 @@
     "removed_on": "2026-10-23",
     "site_name": "日本マウント 静岡県 リゾート・田舎物件"
   },
-  "https://resort-estate.com/detail/1750|静岡県伊東市八幡野「伊豆急伊豆高原分譲地」": {
-    "first_seen": "2026-10-16",
-    "last_seen": "2026-10-22",
-    "location": "静岡県伊東市八幡野「伊豆急伊豆高原分譲地」",
-    "price_man": 7990,
-    "area_sqm": null,
-    "url": "https://resort-estate.com/detail/1750",
-    "text": "静岡県伊東市八幡野「伊豆急伊豆高原分譲地」",
-    "removed_on": "2026-10-23",
-    "site_name": "日本マウント 静岡県 リゾート・田舎物件"
-  },
   "https://resort-estate.com/detail/3409|静岡県熱海市青葉町": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-22",
@@ -635,6 +624,17 @@
     "url": "https://resort-estate.com/detail/1219",
     "text": "物件No.1219 伊東市 宇佐美 中古別荘 こちらの物件は、現在会員様のみ閲覧可能です",
     "removed_on": "2026-10-23",
+    "site_name": "日本マウント 静岡県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/1789|静岡県熱海市「南熱海グリーンヒル」": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-10-23",
+    "location": "静岡県熱海市「南熱海グリーンヒル」",
+    "price_man": 2250,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/1789",
+    "text": "静岡県熱海市「南熱海グリーンヒル」",
+    "removed_on": "2026-10-24",
     "site_name": "日本マウント 静岡県 リゾート・田舎物件"
   }
 }

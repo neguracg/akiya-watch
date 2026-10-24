@@ -571,17 +571,6 @@
     "removed_on": "2026-10-02",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|第二の家に！富士山が見えるので見学から楽しい時間が過ごせます！": {
-    "first_seen": "2026-10-02",
-    "last_seen": "2026-10-02",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "第二の家に！富士山が見えるので見学から楽しい時間が過ごせます！",
-    "removed_on": "2026-10-03",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|移住先としてもおすすめ。都心約100km圏内の別荘地。富士山の見える敷地": {
     "first_seen": "2026-10-03",
     "last_seen": "2026-10-05",
@@ -723,6 +712,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77114614/",
     "text": "【建築条件無】10/15更新・裾野市伊豆島田分譲地",
     "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21743118/|裾野駅徒歩約4分！周辺利便性も高いエリアです！": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-10-23",
+    "location": "静岡県裾野市平松",
+    "price_man": 2100,
+    "area_sqm": 174.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_21743118/",
+    "text": "裾野駅徒歩約4分！周辺利便性も高いエリアです！",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/|■茶畑富士見台売地■建築条件ナシ、整形地です。裾野駅徒歩4分の好立地☆": {
+    "first_seen": "2026-10-01",
+    "last_seen": "2026-10-23",
+    "location": "静岡県裾野市茶畑",
+    "price_man": 850,
+    "area_sqm": 182.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_74558736/",
+    "text": "■茶畑富士見台売地■建築条件ナシ、整形地です。裾野駅徒歩4分の好立地☆",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|家族で楽しく思い出を作れる！富士山が見えるゆったりとした敷地は解放感あり": {
+    "first_seen": "2026-10-21",
+    "last_seen": "2026-10-23",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "家族で楽しく思い出を作れる！富士山が見えるゆったりとした敷地は解放感あり",
+    "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

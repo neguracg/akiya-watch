@@ -428,17 +428,6 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21778609/|日立町 1250万円": {
-    "first_seen": "2026-10-01",
-    "last_seen": "2026-10-16",
-    "location": "静岡県静岡市清水区日立町",
-    "price_man": 1250,
-    "area_sqm": 115.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21778609/",
-    "text": "日立町 1250万円",
-    "removed_on": "2026-10-17",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75726207/|建築条件なし、全区画南面道路、台風１５号被害なし": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-16",
@@ -514,6 +503,72 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20963076/",
     "text": "スーパー、コンビニ、ドラッグストア近く生活環境良好！",
     "removed_on": "2026-10-23",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21889013/|＼周辺環境案内可能！／約347坪のゆとりある売土地！落ち着いた住環境です♪": {
+    "first_seen": "2026-10-09",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区三保",
+    "price_man": 650,
+    "area_sqm": 1149.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21889013/",
+    "text": "＼周辺環境案内可能！／約347坪のゆとりある売土地！落ち着いた住環境です♪",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21618019/|建築条件なし、暮らしやすさ広がる弥生町の約40坪・二方道路の売土地です": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区弥生町",
+    "price_man": 550,
+    "area_sqm": 132.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21618019/",
+    "text": "建築条件なし、暮らしやすさ広がる弥生町の約40坪・二方道路の売土地です",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21219425/|建築条件なし◎飯田小徒歩10分圏内！清水飯田町の土地約４０坪♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区飯田町4-6",
+    "price_man": 599,
+    "area_sqm": 134.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21219425/",
+    "text": "建築条件なし◎飯田小徒歩10分圏内！清水飯田町の土地約４０坪♪",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78660581/|蒲原（新蒲原駅） 800万円": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区蒲原",
+    "price_man": 800,
+    "area_sqm": 71.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78660581/",
+    "text": "蒲原（新蒲原駅） 800万円",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21972250/|■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■": {
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区下野中",
+    "price_man": 2000,
+    "area_sqm": 175.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21972250/",
+    "text": "■■閑静な住宅地に50坪超え売地登場です！！人気の三方角地!(^^)!■■",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21044121/|JR草薙駅まで徒歩約8分の好立地！敷地面積100坪の南東角地！": {
+    "first_seen": "2026-10-16",
+    "last_seen": "2026-10-23",
+    "location": "静岡県静岡市清水区楠新田",
+    "price_man": 5980,
+    "area_sqm": 330.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21044121/",
+    "text": "JR草薙駅まで徒歩約8分の好立地！敷地面積100坪の南東角地！",
+    "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }
