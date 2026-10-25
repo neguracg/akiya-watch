@@ -29,35 +29,6 @@
       "machi": "下田市",
       "tab": "camp"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76806211/|生活便利": {
-      "first_seen": "2026-07-12",
-      "last_seen": "2026-10-24",
-      "location": "静岡県下田市高馬",
-      "price_man": 325,
-      "area_sqm": 223.6,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76806211/",
-      "text": "生活便利",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 4.8,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "下田市",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_79192897/|蓮台寺 400万円": {
       "first_seen": "2026-07-12",
       "last_seen": "2026-10-24",
@@ -378,6 +349,6 @@
       "tab": "camp"
     }
   },
-  "hash": "0fe7f7ab7ac49359",
-  "fetched_at": "2026-10-24T00:40:03.826499"
+  "hash": "73cf772c8ad0d5fe",
+  "fetched_at": "2026-10-25T00:16:32.989808"
 }

@@ -153,17 +153,6 @@
     "removed_on": "2026-09-29",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   },
-  "https://resort-estate.com/detail/5514|物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、投資に": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-29",
-    "location": "",
-    "price_man": 4000,
-    "area_sqm": null,
-    "url": "https://resort-estate.com/detail/5514",
-    "text": "物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、投資に",
-    "removed_on": "2026-09-30",
-    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
-  },
   "https://resort-estate.com/detail/5509|物件No.5509 山梨県富士河口湖町長浜 2LDK 2,280万円 河口湖を一望する、自然豊かなログハウス約147坪超": {
     "first_seen": "2026-09-08",
     "last_seen": "2026-09-29",
@@ -315,6 +304,17 @@
     "area_sqm": null,
     "url": "https://resort-estate.com/detail/5520",
     "text": "更新 物件No.5520 山梨県南都留郡富士河口湖町 2LDK 5,050万円 河口湖の自然に囲まれた高台に佇む、一棟貸",
+    "removed_on": "2026-10-24",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5517|物件No.5517 富士吉田市 上吉田東 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-24",
+    "location": "",
+    "price_man": null,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5517",
+    "text": "物件No.5517 富士吉田市 上吉田東 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です",
     "removed_on": "2026-10-24",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   }

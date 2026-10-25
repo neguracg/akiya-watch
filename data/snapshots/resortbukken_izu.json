@@ -772,37 +772,6 @@
       "machi": "伊東市",
       "tab": "camp"
     },
-    "https://resort-bukken.com/detail/4753|伊東市 池 「南大室台別荘地」 中古別荘 3LDK 2,580万円 リフォーム済物件！ 建具、家具、造作材に無垢材使用！": {
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-24",
-      "location": "伊東市 池",
-      "price_man": 2580,
-      "area_sqm": null,
-      "url": "https://resort-bukken.com/detail/4753",
-      "text": "伊東市 池 「南大室台別荘地」 中古別荘 3LDK 2,580万円 リフォーム済物件！ 建具、家具、造作材に無垢材使用！",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊東市",
-      "tab": "camp"
-    },
     "https://resort-bukken.com/detail/4734|伊東市 宇佐美 中古別荘 2LDK 1,300万円 〇宇佐美みのりの村別荘地 〇分譲地内には、スパ施設やレストラン、テニ": {
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-24",
@@ -1107,6 +1076,6 @@
       "tab": "camp"
     }
   },
-  "hash": "34ad47a9113dd485",
-  "fetched_at": "2026-10-24T00:18:03.767279"
+  "hash": "0cb42278fb8f10c7",
+  "fetched_at": "2026-10-25T00:00:10.418538"
 }

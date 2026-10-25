@@ -42,5 +42,27 @@
     "text": "静岡県富士宮市",
     "removed_on": "2026-10-17",
     "site_name": "家いちば 静岡県エリア（キャンプ場用）"
+  },
+  "https://www.ieichiba.com/project/P202600827%E4%B8%8B%E7%94%B0%E5%8A%A0%E5%A2%97%E9%87%8EK|静岡県下田市": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-24",
+    "location": "静岡県下田市",
+    "price_man": 1580,
+    "area_sqm": null,
+    "url": "https://www.ieichiba.com/project/P202600827%E4%B8%8B%E7%94%B0%E5%8A%A0%E5%A2%97%E9%87%8EK",
+    "text": "静岡県下田市",
+    "removed_on": "2026-10-24",
+    "site_name": "家いちば 静岡県エリア（キャンプ場用）"
+  },
+  "https://www.ieichiba.com/project/P202500247%E6%9D%BE%E5%B4%8E%E7%94%BA%E5%B3%B0%E8%BC%AA|静岡県松崎町": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-24",
+    "location": "静岡県松崎町",
+    "price_man": 2000,
+    "area_sqm": null,
+    "url": "https://www.ieichiba.com/project/P202500247%E6%9D%BE%E5%B4%8E%E7%94%BA%E5%B3%B0%E8%BC%AA",
+    "text": "静岡県松崎町",
+    "removed_on": "2026-10-24",
+    "site_name": "家いちば 静岡県エリア（キャンプ場用）"
   }
 }

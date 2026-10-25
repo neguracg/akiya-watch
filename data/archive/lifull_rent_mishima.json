@@ -3024,14 +3024,47 @@
     "removed_on": "2026-10-24",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/3bb159c4cd4b4e96e5557b8abfa29010632c6535/|JR東海道本線 三島駅 徒歩15分": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-23",
+  "https://www.homes.co.jp/chintai/room/f322802ac804d62ef140679fff9ca967d7bd77e0/|アビタシオンB": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "location": "静岡県三島市谷田489-3",
+    "price_man": 7.0,
+    "area_sqm": 53.2,
+    "url": "https://www.homes.co.jp/chintai/room/f322802ac804d62ef140679fff9ca967d7bd77e0/",
+    "text": "アビタシオンB",
+    "removed_on": "2026-10-24",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/e573a47c60d8bacf90efd25bf327071436b77266/|アビタシオンB": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "location": "静岡県三島市谷田489-3",
+    "price_man": 7.0,
+    "area_sqm": 53.2,
+    "url": "https://www.homes.co.jp/chintai/room/e573a47c60d8bacf90efd25bf327071436b77266/",
+    "text": "アビタシオンB",
+    "removed_on": "2026-10-24",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/91a14517aabecaf5b68ea25d56858c92d33bc156/|グランドゥール壱町田": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
     "location": "静岡県三島市壱町田",
-    "price_man": 6.2,
-    "area_sqm": 40.1,
-    "url": "https://www.homes.co.jp/chintai/room/3bb159c4cd4b4e96e5557b8abfa29010632c6535/",
-    "text": "JR東海道本線 三島駅 徒歩15分",
+    "price_man": 6.9,
+    "area_sqm": 31.1,
+    "url": "https://www.homes.co.jp/chintai/room/91a14517aabecaf5b68ea25d56858c92d33bc156/",
+    "text": "グランドゥール壱町田",
+    "removed_on": "2026-10-24",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/4e9bd65f423fe92a380abde0318257f62156d67e/|スカイコートひうが": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "location": "静岡県三島市谷田",
+    "price_man": 6.4,
+    "area_sqm": 60.4,
+    "url": "https://www.homes.co.jp/chintai/room/4e9bd65f423fe92a380abde0318257f62156d67e/",
+    "text": "スカイコートひうが",
     "removed_on": "2026-10-24",
     "site_name": "LIFULL 賃貸 三島市"
   }

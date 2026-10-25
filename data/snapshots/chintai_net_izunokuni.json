@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.chintai.net/detail/bk-C030007870000000001094640001/|プチメゾンＳ": {
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "location": "静岡県伊豆の国市南條",
+      "price_man": 4.4,
+      "area_sqm": 36.0,
+      "url": "https://www.chintai.net/detail/bk-C030007870000000001094640001/",
+      "text": "プチメゾンＳ",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1R",
+      "chikunen": "2004年01月（築22年）",
+      "kanrihi": 2200,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "rent"
+    },
     "https://www.chintai.net/detail/bk-C030010620000000005042840005/|サンモール山下": {
       "first_seen": "2026-10-24",
       "last_seen": "2026-10-24",
@@ -612,6 +641,6 @@
       "tab": "rent"
     }
   },
-  "hash": "5dc8ea6732c51a40",
-  "fetched_at": "2026-10-24T00:35:58.513877"
+  "hash": "ec34dc386df79edf",
+  "fetched_at": "2026-10-25T00:14:07.230233"
 }

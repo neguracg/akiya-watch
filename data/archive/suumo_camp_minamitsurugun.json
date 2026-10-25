@@ -218,5 +218,16 @@
     "text": "850万円",
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21120009/|鳴沢（河口湖駅） 220万円": {
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-10-24",
+    "location": "山梨県南都留郡鳴沢村鳴沢",
+    "price_man": 220,
+    "area_sqm": 620.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21120009/",
+    "text": "鳴沢（河口湖駅） 220万円",
+    "removed_on": "2026-10-24",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
   }
 }
