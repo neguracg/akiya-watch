@@ -570,5 +570,16 @@
     "text": "三島市三恵台",
     "removed_on": "2026-10-24",
     "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1500050000565/|JR東海道本線 函南駅 徒歩23分": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "location": "JR東海道本線 函南駅 徒歩23分",
+    "price_man": 2480,
+    "area_sqm": 190.9,
+    "url": "https://www.homes.co.jp/kodate/b-1500050000565/",
+    "text": "JR東海道本線 函南駅 徒歩23分",
+    "removed_on": "2026-10-25",
+    "site_name": "LIFULL 中古戸建 三島市"
   }
 }

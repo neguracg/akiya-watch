@@ -1627,28 +1627,6 @@
     "removed_on": "2026-10-23",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
-    "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町仁田191-6",
-    "price_man": 7.4,
-    "area_sqm": 62.8,
-    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
-    "text": "オーポン　ヒルズ",
-    "removed_on": "2026-10-24",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/|セリアージュ": {
-    "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.37,
-    "area_sqm": 66.2,
-    "url": "https://www.homes.co.jp/chintai/room/8fda8910ff9126309c6b2d5a1dce3739f0a83ced/",
-    "text": "セリアージュ",
-    "removed_on": "2026-10-24",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/d22dcce35712a8c2559d03eb4b12d73af1a00ca4/|ベルファミーユＢ": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-24",
@@ -1671,15 +1649,15 @@
     "removed_on": "2026-10-24",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/221b25a78db338883c76fb3c862f8de28e11effe/|グランドール高城Ｃ": {
-    "first_seen": "2026-10-24",
+  "https://www.homes.co.jp/chintai/room/b08a81790e57c6543278735fa6ed02c17286f2fa/|メルベーユＳ　　プロシードＳ　プロシードＳ": {
+    "first_seen": "2026-10-09",
     "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 6.4,
-    "area_sqm": 63.5,
-    "url": "https://www.homes.co.jp/chintai/room/221b25a78db338883c76fb3c862f8de28e11effe/",
-    "text": "グランドール高城Ｃ",
-    "removed_on": "2026-10-24",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/b08a81790e57c6543278735fa6ed02c17286f2fa/",
+    "text": "メルベーユＳ　　プロシードＳ　プロシードＳ",
+    "removed_on": "2026-10-25",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }
