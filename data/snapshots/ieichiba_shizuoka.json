@@ -1,12 +1,12 @@
 {
   "keys": {
-    "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98|静岡県裾野市": {
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-10-25",
+    "https://www.ieichiba.com/project/P202600454裾野千福が丘|静岡県裾野市": {
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
-      "url": "https://www.ieichiba.com/project/P202600454%E8%A3%BE%E9%87%8E%E5%8D%83%E7%A6%8F%E3%81%8C%E4%B8%98",
+      "url": "https://www.ieichiba.com/project/P202600454裾野千福が丘",
       "text": "静岡県裾野市",
       "shubetsu": "古家付き土地",
       "shubetsu_reason": "土地＋古家/上物の表記",
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "b885d53331b5eb1b",
-  "fetched_at": "2026-10-25T23:49:53.506606"
+  "hash": "832702ab1a30396f",
+  "fetched_at": "2026-10-27T01:09:21.214391"
 }

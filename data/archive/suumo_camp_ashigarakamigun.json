@@ -263,17 +263,6 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_21945175/|☆土地ゆとりの42坪超、角地です☆建築条件ありません。": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "location": "神奈川県足柄上郡開成町吉田島",
-    "price_man": 1470,
-    "area_sqm": 141.8,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_21945175/",
-    "text": "☆土地ゆとりの42坪超、角地です☆建築条件ありません。",
-    "removed_on": "2026-10-20",
-    "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_21244935/|自然を身近に、広い敷地で自分らしく暮らす。": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-21",
@@ -327,6 +316,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_78795262/",
     "text": "限定ラスト１区画！早いもの勝！",
     "removed_on": "2026-10-25",
+    "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_20865832/|【スギホーム】土地価格＋1900万で自由設計！デザイン×品質×コスパ": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "location": "神奈川県足柄上郡松田町松田庶子1446-15",
+    "price_man": 1380,
+    "area_sqm": 138.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_20865832/",
+    "text": "【スギホーム】土地価格＋1900万で自由設計！デザイン×品質×コスパ",
+    "removed_on": "2026-10-27",
     "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
   }
 }

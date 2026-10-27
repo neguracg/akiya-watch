@@ -681,17 +681,6 @@
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78118227/|東田原 1480万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-24",
-    "location": "神奈川県秦野市東田原411-3",
-    "price_man": 1480,
-    "area_sqm": 262.2,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78118227/",
-    "text": "東田原 1480万円",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_75960914/|駅徒歩圏の暮らしやすい好立地に広々とした宅地が登場！": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-10-24",
@@ -756,6 +745,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21275754/",
     "text": "◎当社売主物件◎駅近徒歩5分◎開放感のある開発分譲地◎好評販売中です◎",
     "removed_on": "2026-10-25",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21530150/|駅徒歩5分！住環境良好！戸建のほかアパート用地にも最適です。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "location": "神奈川県秦野市鶴巻南１",
+    "price_man": 2580,
+    "area_sqm": 219.8,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21530150/",
+    "text": "駅徒歩5分！住環境良好！戸建のほかアパート用地にも最適です。",
+    "removed_on": "2026-10-27",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

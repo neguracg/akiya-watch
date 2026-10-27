@@ -2297,5 +2297,27 @@
     "text": "石黒ハイツ",
     "removed_on": "2026-10-25",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000105895715/|熱海パークマンション": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "location": "静岡県熱海市桜木町",
+    "price_man": 6.2,
+    "area_sqm": 35.0,
+    "url": "https://suumo.jp/chintai/jnc_000105895715/",
+    "text": "熱海パークマンション",
+    "removed_on": "2026-10-27",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000109678311/?bc=100525809581|カルド・マーレ": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-10-25",
+    "location": "静岡県熱海市伊豆山",
+    "price_man": 5.0,
+    "area_sqm": 23.2,
+    "url": "https://suumo.jp/chintai/jnc_000109678311/?bc=100525809581",
+    "text": "カルド・マーレ",
+    "removed_on": "2026-10-27",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

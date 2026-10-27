@@ -1286,17 +1286,6 @@
     "removed_on": "2026-10-03",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/|プリマヴェーラ": {
-    "first_seen": "2026-09-06",
-    "last_seen": "2026-10-02",
-    "location": "静岡県伊豆の国市三福",
-    "price_man": 8.0,
-    "area_sqm": 74.2,
-    "url": "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/",
-    "text": "プリマヴェーラ",
-    "removed_on": "2026-10-03",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/152d62d37d86960cd6e389154b5d056b6c587119/|セジュールＩＩＩ": {
     "first_seen": "2026-10-02",
     "last_seen": "2026-10-03",
@@ -1913,17 +1902,6 @@
     "removed_on": "2026-10-17",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/0f4c566d600f3d61efbace70d87893d5e55a0186/|ハイツ天のや　Ｂ": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "location": "静岡県伊豆の国市南條",
-    "price_man": 5.9,
-    "area_sqm": 47.7,
-    "url": "https://www.homes.co.jp/chintai/room/0f4c566d600f3d61efbace70d87893d5e55a0186/",
-    "text": "ハイツ天のや　Ｂ",
-    "removed_on": "2026-10-18",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/ee302ed1384197f3176f07eb8e6d3b2aea0aeebe/|サンモール山下": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-21",
@@ -1966,6 +1944,28 @@
     "url": "https://www.homes.co.jp/chintai/room/0f0bcbe935fdd4ad13e4d95724df29337045bf96/",
     "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩7分",
     "removed_on": "2026-10-25",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/|パーシモンスクエア": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-25",
+    "location": "静岡県伊豆の国市寺家705-1",
+    "price_man": 6.9,
+    "area_sqm": 62.8,
+    "url": "https://www.homes.co.jp/chintai/room/b8d79fd592c2e51f9a728bc362c15993ee358505/",
+    "text": "パーシモンスクエア",
+    "removed_on": "2026-10-27",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/a75d9657fd2cd2b5f2870b5d07bb9be5f9f3b561/|ｓｔｅｌｌａｒ　II": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-25",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.1,
+    "area_sqm": 48.9,
+    "url": "https://www.homes.co.jp/chintai/room/a75d9657fd2cd2b5f2870b5d07bb9be5f9f3b561/",
+    "text": "ｓｔｅｌｌａｒ　II",
+    "removed_on": "2026-10-27",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }
