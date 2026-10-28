@@ -879,17 +879,6 @@
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-23",
-    "location": "静岡県裾野市深良",
-    "price_man": 850,
-    "area_sqm": 177.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
-    "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21212623/|【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪": {
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-24",
@@ -899,6 +888,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21212623/",
     "text": "【リフォーム済☆】●〇アトモ〇●いつでもご内覧できます♪",
     "removed_on": "2026-10-25",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|新価格◆千福が丘◆水回り4点新品・外壁塗装済/南向き・陽当り良好/駐車2台可": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-27",
+    "location": "静岡県裾野市千福が丘１",
+    "price_man": 1350,
+    "area_sqm": 235.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
+    "text": "新価格◆千福が丘◆水回り4点新品・外壁塗装済/南向き・陽当り良好/駐車2台可",
+    "removed_on": "2026-10-28",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/|【見学会開催】内外装リフォーム予定／水回り交換／駐車2台可／庭スペースあ": {
+    "first_seen": "2026-09-07",
+    "last_seen": "2026-10-27",
+    "location": "静岡県裾野市千福が丘２-9-5",
+    "price_man": 1599,
+    "area_sqm": 225.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21083825/",
+    "text": "【見学会開催】内外装リフォーム予定／水回り交換／駐車2台可／庭スペースあ",
+    "removed_on": "2026-10-28",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

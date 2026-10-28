@@ -757,5 +757,27 @@
     "text": "駅徒歩5分！住環境良好！戸建のほかアパート用地にも最適です。",
     "removed_on": "2026-10-27",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/|渋沢（渋沢駅） 1380万円": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-10-27",
+    "location": "神奈川県秦野市渋沢1428-3",
+    "price_man": 1380,
+    "area_sqm": 147.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20591746/",
+    "text": "渋沢（渋沢駅） 1380万円",
+    "removed_on": "2026-10-28",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20381007/|ゆったり87坪！駅徒歩圏で利便性良、緑が広がる景観は一見の価値あり！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
+    "location": "神奈川県秦野市南矢名",
+    "price_man": 2480,
+    "area_sqm": 289.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20381007/",
+    "text": "ゆったり87坪！駅徒歩圏で利便性良、緑が広がる景観は一見の価値あり！",
+    "removed_on": "2026-10-28",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

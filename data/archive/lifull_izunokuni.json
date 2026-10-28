@@ -2529,17 +2529,6 @@
     "removed_on": "2026-10-24",
     "site_name": "LIFULL 土地 伊豆の国市"
   },
-  "https://www.homes.co.jp/tochi/b-1500050000639/|伊豆の国市南條 (伊豆長岡駅)": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-24",
-    "location": "伊豆の国市南條 (伊豆長岡駅)",
-    "price_man": 1680,
-    "area_sqm": 192.7,
-    "url": "https://www.homes.co.jp/tochi/b-1500050000639/",
-    "text": "伊豆の国市南條 (伊豆長岡駅)",
-    "removed_on": "2026-10-24",
-    "site_name": "LIFULL 土地 伊豆の国市"
-  },
   "https://www.homes.co.jp/tochi/b-1500050000370/|伊豆の国市韮山山木 (韮山駅)": {
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-24",
@@ -2672,15 +2661,26 @@
     "removed_on": "2026-10-27",
     "site_name": "LIFULL 土地 伊豆の国市"
   },
-  "https://www.homes.co.jp/tochi/b-33308270000285/|伊豆の国市韮山多田富士見ニュータウン": {
+  "https://www.homes.co.jp/tochi/b-33303660000840/|伊豆の国市奈古谷 (熱海駅)": {
     "first_seen": "2026-10-16",
-    "last_seen": "2026-10-25",
-    "location": "伊豆の国市韮山多田富士見ニュータウン",
-    "price_man": 100,
-    "area_sqm": 345.0,
-    "url": "https://www.homes.co.jp/tochi/b-33308270000285/",
-    "text": "伊豆の国市韮山多田富士見ニュータウン",
-    "removed_on": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "伊豆の国市奈古谷 (熱海駅)",
+    "price_man": 80,
+    "area_sqm": 495.0,
+    "url": "https://www.homes.co.jp/tochi/b-33303660000840/",
+    "text": "伊豆の国市奈古谷 (熱海駅)",
+    "removed_on": "2026-10-28",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-33303660001115/|伊豆の国市韮山山木 (熱海駅)": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-27",
+    "location": "伊豆の国市韮山山木 (熱海駅)",
+    "price_man": 250,
+    "area_sqm": 616.0,
+    "url": "https://www.homes.co.jp/tochi/b-33303660001115/",
+    "text": "伊豆の国市韮山山木 (熱海駅)",
+    "removed_on": "2026-10-28",
     "site_name": "LIFULL 土地 伊豆の国市"
   }
 }

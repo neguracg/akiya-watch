@@ -373,17 +373,6 @@
     "removed_on": "2026-10-10",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-33303030000191/|伊豆箱根鉄道駿豆線 田京駅 徒歩32分": {
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-18",
-    "location": "伊豆箱根鉄道駿豆線 田京駅 徒歩32分",
-    "price_man": 650,
-    "area_sqm": 200.0,
-    "url": "https://www.homes.co.jp/kodate/b-33303030000191/",
-    "text": "伊豆箱根鉄道駿豆線 田京駅 徒歩32分",
-    "removed_on": "2026-10-20",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-20",
@@ -395,17 +384,6 @@
     "removed_on": "2026-10-21",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1490460002293/|伊豆の国市北江間　中古戸建": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-24",
-    "location": "伊豆の国市北江間　中古戸建",
-    "price_man": 580,
-    "area_sqm": 200.2,
-    "url": "https://www.homes.co.jp/kodate/b-1490460002293/",
-    "text": "伊豆の国市北江間　中古戸建",
-    "removed_on": "2026-10-24",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1556780000068/|中古戸建　伊豆の国市富士見": {
     "first_seen": "2026-09-27",
     "last_seen": "2026-10-25",
@@ -415,6 +393,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1556780000068/",
     "text": "中古戸建　伊豆の国市富士見",
     "removed_on": "2026-10-27",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33323730000527/|伊豆箱根鉄道駿豆線 田京駅 徒歩7分": {
+    "first_seen": "2026-10-03",
+    "last_seen": "2026-10-27",
+    "location": "伊豆箱根鉄道駿豆線 田京駅 徒歩7分",
+    "price_man": 2480,
+    "area_sqm": 150.6,
+    "url": "https://www.homes.co.jp/kodate/b-33323730000527/",
+    "text": "伊豆箱根鉄道駿豆線 田京駅 徒歩7分",
+    "removed_on": "2026-10-28",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-39046610000060/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分": {
+    "first_seen": "2026-08-27",
+    "last_seen": "2026-10-27",
+    "location": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分",
+    "price_man": 3580,
+    "area_sqm": 330.2,
+    "url": "https://www.homes.co.jp/kodate/b-39046610000060/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩22分",
+    "removed_on": "2026-10-28",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

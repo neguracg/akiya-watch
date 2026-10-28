@@ -318,15 +318,59 @@
     "removed_on": "2026-10-24",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   },
-  "https://resort-estate.com/detail/5514|物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、投資に": {
-    "first_seen": "2026-10-24",
-    "last_seen": "2026-10-25",
+  "https://resort-estate.com/detail/5514|更新 物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
     "location": "",
     "price_man": 4000,
     "area_sqm": null,
     "url": "https://resort-estate.com/detail/5514",
-    "text": "物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、投資に",
-    "removed_on": "2026-10-27",
+    "text": "更新 物件No.5514 山梨県南都留郡山中湖村山中 3LDK 4,000万円 〇富士山を望む客室〇静かな別荘地〇民泊、",
+    "removed_on": "2026-10-28",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5403|物件No.5403 山梨県南都留郡富士河口湖町富士ヶ嶺 2LDK 2,600万円 〇6000坪を超える広大な敷地。〇富士": {
+    "first_seen": "2026-10-06",
+    "last_seen": "2026-10-27",
+    "location": "",
+    "price_man": 2600,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5403",
+    "text": "物件No.5403 山梨県南都留郡富士河口湖町富士ヶ嶺 2LDK 2,600万円 〇6000坪を超える広大な敷地。〇富士",
+    "removed_on": "2026-10-28",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5459|物件No.5459 南都留郡富士河口湖町 小立 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-27",
+    "location": "",
+    "price_man": null,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5459",
+    "text": "物件No.5459 南都留郡富士河口湖町 小立 中古住宅 こちらの物件は、現在会員様のみ閲覧可能です",
+    "removed_on": "2026-10-28",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5449|物件No.5449 山梨県南都留郡鳴沢村「富士桜高原別荘地」第2次分譲地 3LDK 5,600万円 リビングの吹き抜けに": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-27",
+    "location": "",
+    "price_man": 5600,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5449",
+    "text": "物件No.5449 山梨県南都留郡鳴沢村「富士桜高原別荘地」第2次分譲地 3LDK 5,600万円 リビングの吹き抜けに",
+    "removed_on": "2026-10-28",
+    "site_name": "日本マウント 山梨県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/5276|物件No.5276 山梨県富士河口湖町富士ヶ嶺高原別荘地「富士ドクタービレッジ」 3LDK 580万円 標高1000Ｍ避": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-27",
+    "location": "",
+    "price_man": 580,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/5276",
+    "text": "物件No.5276 山梨県富士河口湖町富士ヶ嶺高原別荘地「富士ドクタービレッジ」 3LDK 580万円 標高1000Ｍ避",
+    "removed_on": "2026-10-28",
     "site_name": "日本マウント 山梨県 リゾート・田舎物件"
   }
 }

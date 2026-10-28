@@ -1,1 +1,79 @@
-{}
+{
+  "https://www.eheya.net/detail/300000140000448002411/|ベラビスタ C": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市徳倉",
+    "price_man": 4.4,
+    "area_sqm": 42.8,
+    "url": "https://www.eheya.net/detail/300000140000448002411/",
+    "text": "ベラビスタ C",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004593000008/|Dreamio": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市大宮町３丁目",
+    "price_man": 7.1,
+    "area_sqm": 31.4,
+    "url": "https://www.eheya.net/detail/300000142004593000008/",
+    "text": "Dreamio",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005252000001/|ペアシティ榊": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市徳倉４丁目",
+    "price_man": 5.8,
+    "area_sqm": 51.0,
+    "url": "https://www.eheya.net/detail/300001603005252000001/",
+    "text": "ペアシティ榊",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004139000002/|ファミール下加茂II B": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市若松町",
+    "price_man": 4.8,
+    "area_sqm": 40.9,
+    "url": "https://www.eheya.net/detail/300000142004139000002/",
+    "text": "ファミール下加茂II B",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000205000001/|チェリー アベニュー": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市谷田",
+    "price_man": 5.5,
+    "area_sqm": 33.4,
+    "url": "https://www.eheya.net/detail/300001603000205000001/",
+    "text": "チェリー アベニュー",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000188000001/|チェリー アベニュー": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市谷田",
+    "price_man": 5.6,
+    "area_sqm": 33.4,
+    "url": "https://www.eheya.net/detail/300001603000188000001/",
+    "text": "チェリー アベニュー",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000447000001/|ハイツ駒形": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "location": "静岡県三島市大宮町３丁目",
+    "price_man": 5.7,
+    "area_sqm": 46.9,
+    "url": "https://www.eheya.net/detail/300001603000447000001/",
+    "text": "ハイツ駒形",
+    "removed_on": "2026-10-28",
+    "site_name": "いい部屋ネット 三島市"
+  }
+}
