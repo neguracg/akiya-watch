@@ -2033,5 +2033,38 @@
     "text": "100坪超の敷地に佇む、ゆとりある三島の邸宅",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20889912/|東大場１ 1660万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市東大場１",
+    "price_man": 1660,
+    "area_sqm": 195.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20889912/",
+    "text": "東大場１ 1660万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/|三恵台（三島二日町駅） 1980万円": {
+    "first_seen": "2026-07-16",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市三恵台",
+    "price_man": 1980,
+    "area_sqm": 202.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20612460/",
+    "text": "三恵台（三島二日町駅） 1980万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21630560/|塚原新田（三島駅） 1億900万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市塚原新田",
+    "price_man": 10900,
+    "area_sqm": 331.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21630560/",
+    "text": "塚原新田（三島駅） 1億900万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 中古戸建 三島市"
   }
 }

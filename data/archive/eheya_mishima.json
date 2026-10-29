@@ -75,5 +75,60 @@
     "text": "ハイツ駒形",
     "removed_on": "2026-10-28",
     "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140000297002287/|グランポルテ 木の宮Ⅰ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市谷田",
+    "price_man": 4.0,
+    "area_sqm": 44.7,
+    "url": "https://www.eheya.net/detail/300000140000297002287/",
+    "text": "グランポルテ 木の宮Ⅰ",
+    "removed_on": "2026-10-29",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140001539000005/|EVANS A": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市谷田",
+    "price_man": 7.65,
+    "area_sqm": 58.7,
+    "url": "https://www.eheya.net/detail/300000140001539000005/",
+    "text": "EVANS A",
+    "removed_on": "2026-10-29",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140001490008669/|フリーデ エス": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市長伏",
+    "price_man": 5.9,
+    "area_sqm": 44.2,
+    "url": "https://www.eheya.net/detail/300000140001490008669/",
+    "text": "フリーデ エス",
+    "removed_on": "2026-10-29",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603003695000001/|ヴィクトワールレーブ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 7.5,
+    "area_sqm": 50.5,
+    "url": "https://www.eheya.net/detail/300001603003695000001/",
+    "text": "ヴィクトワールレーブ",
+    "removed_on": "2026-10-29",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000429000001/|野知マンション B": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市幸原町１丁目",
+    "price_man": 6.1,
+    "area_sqm": 58.6,
+    "url": "https://www.eheya.net/detail/300001603000429000001/",
+    "text": "野知マンション B",
+    "removed_on": "2026-10-29",
+    "site_name": "いい部屋ネット 三島市"
   }
 }

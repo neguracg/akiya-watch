@@ -516,17 +516,6 @@
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21219425/|建築条件なし◎飯田小徒歩10分圏内！清水飯田町の土地約４０坪♪": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-10-23",
-    "location": "静岡県静岡市清水区飯田町4-6",
-    "price_man": 599,
-    "area_sqm": 134.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21219425/",
-    "text": "建築条件なし◎飯田小徒歩10分圏内！清水飯田町の土地約４０坪♪",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_78660581/|蒲原（新蒲原駅） 800万円": {
     "first_seen": "2026-10-16",
     "last_seen": "2026-10-23",
@@ -646,6 +635,83 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75412598/",
     "text": "【売主物件・建築条件なし】分譲地残り４区画！！静鉄「桜橋駅」　徒歩3分。",
     "removed_on": "2026-10-28",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20080982/|県立美術館前駅と草薙駅、2沿線利用可能な約58.43坪の整形地。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区中之郷２",
+    "price_man": 4680,
+    "area_sqm": 193.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20080982/",
+    "text": "県立美術館前駅と草薙駅、2沿線利用可能な約58.43坪の整形地。",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20771855/|■土地面積約３４．９３坪！（１１５．４９㎡）": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区押切",
+    "price_man": 870,
+    "area_sqm": 115.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20771855/",
+    "text": "■土地面積約３４．９３坪！（１１５．４９㎡）",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21593693/|八坂西町 898万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区八坂西町17-8",
+    "price_man": 898,
+    "area_sqm": 119.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21593693/",
+    "text": "八坂西町 898万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20927666/|由比東山寺（由比駅） 1450万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区由比東山寺573",
+    "price_man": 1450,
+    "area_sqm": 593.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20927666/",
+    "text": "由比東山寺（由比駅） 1450万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21630413/|有東坂１ 1700万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区有東坂１-2216-29(地番他2216-5、2216-34)",
+    "price_man": 1700,
+    "area_sqm": 189.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21630413/",
+    "text": "有東坂１ 1700万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20763096/|永楽町 1800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区永楽町(地番90-1)",
+    "price_man": 1800,
+    "area_sqm": 146.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20763096/",
+    "text": "永楽町 1800万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20069649/|■東名高速道路「清水インターチェンジ」まで約２，１００ｍ！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県静岡市清水区袖師町",
+    "price_man": 6000,
+    "area_sqm": 638.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_20069649/",
+    "text": "■東名高速道路「清水インターチェンジ」まで約２，１００ｍ！",
+    "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

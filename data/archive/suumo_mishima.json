@@ -614,5 +614,38 @@
     "text": "価格改定！「三島広小路」駅近く！【建築条件なし♪】■敷地面積５９坪以上",
     "removed_on": "2026-10-25",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21207489/|富士ビレッジ（三島駅） 1230万円": {
+    "first_seen": "2026-07-03",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市富士ビレッジ",
+    "price_man": 1230,
+    "area_sqm": 201.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21207489/",
+    "text": "富士ビレッジ（三島駅） 1230万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20649722/|栄町（三島広小路駅） 2780万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市栄町",
+    "price_man": 2780,
+    "area_sqm": 133.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20649722/",
+    "text": "栄町（三島広小路駅） 2780万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20359048/|東本町２（三島二日町駅） 3200万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-28",
+    "location": "静岡県三島市東本町２",
+    "price_man": 3200,
+    "area_sqm": 198.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20359048/",
+    "text": "東本町２（三島二日町駅） 3200万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

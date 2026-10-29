@@ -548,5 +548,60 @@
     "text": "☆建築条件なし！お好きな住宅会社で建築可能！",
     "removed_on": "2026-10-25",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069626/|柿田 1780万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 1780,
+    "area_sqm": 247.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069626/",
+    "text": "柿田 1780万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20125614/|徳倉（三島二日町駅） 3150万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県駿東郡清水町徳倉",
+    "price_man": 3150,
+    "area_sqm": 330.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20125614/",
+    "text": "徳倉（三島二日町駅） 3150万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069912/|桜堤３（長泉なめり駅） 3290万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県駿東郡長泉町桜堤３",
+    "price_man": 3290,
+    "area_sqm": 180.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069912/",
+    "text": "桜堤３（長泉なめり駅） 3290万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069918/|桜堤３（長泉なめり駅） 3580万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県駿東郡長泉町桜堤３",
+    "price_man": 3580,
+    "area_sqm": 187.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069918/",
+    "text": "桜堤３（長泉なめり駅） 3580万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069865/|桜堤３（長泉なめり駅） 3580万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県駿東郡長泉町桜堤３",
+    "price_man": 3580,
+    "area_sqm": 187.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20069865/",
+    "text": "桜堤３（長泉なめり駅） 3580万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

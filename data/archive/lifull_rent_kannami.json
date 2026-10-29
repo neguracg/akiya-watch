@@ -989,17 +989,6 @@
     "removed_on": "2026-09-09",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/94add63efe327cfa2e4725635d65fced15140147/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩3分": {
-    "first_seen": "2026-09-08",
-    "last_seen": "2026-09-08",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 6.0,
-    "area_sqm": 53.3,
-    "url": "https://www.homes.co.jp/chintai/room/94add63efe327cfa2e4725635d65fced15140147/",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩3分",
-    "removed_on": "2026-09-09",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/4aa205cf4138d350ce15cab12aed03ff8d21a189/|ルーチェ": {
     "first_seen": "2026-07-25",
     "last_seen": "2026-09-09",
@@ -1691,6 +1680,83 @@
     "url": "https://www.homes.co.jp/chintai/room/852e1de0ee459d6b4287737748bb18801caba672/",
     "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩9分",
     "removed_on": "2026-10-28",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/dedadb700025a2dbc93f7cec75c75d359c1fe8e6/|ヴィル・スクエア": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.2,
+    "area_sqm": 62.1,
+    "url": "https://www.homes.co.jp/chintai/room/dedadb700025a2dbc93f7cec75c75d359c1fe8e6/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/3cb5700125cb6a1da729fb80bf3565861e806560/|ヴィル・スクエア": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.1,
+    "area_sqm": 62.1,
+    "url": "https://www.homes.co.jp/chintai/room/3cb5700125cb6a1da729fb80bf3565861e806560/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/f8fe0a3be2460c429be51b7bb7474f97169da2eb/|ヴィル・スクエア": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.0,
+    "area_sqm": 61.8,
+    "url": "https://www.homes.co.jp/chintai/room/f8fe0a3be2460c429be51b7bb7474f97169da2eb/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e6abf05573f1168997bc60a5700ff54599fa6c85/|ヴィル・スクエア": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.0,
+    "area_sqm": 61.8,
+    "url": "https://www.homes.co.jp/chintai/room/e6abf05573f1168997bc60a5700ff54599fa6c85/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/2dd8d172247a8a07610864545449dc84cb85a0a1/|ヴィル・スクエア": {
+    "first_seen": "2026-09-29",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 6.9,
+    "area_sqm": 62.1,
+    "url": "https://www.homes.co.jp/chintai/room/2dd8d172247a8a07610864545449dc84cb85a0a1/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/1c94de265033ac28184f71c2f48517b836a58385/|ベルファミーユＢ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.9,
+    "area_sqm": 58.5,
+    "url": "https://www.homes.co.jp/chintai/room/1c94de265033ac28184f71c2f48517b836a58385/",
+    "text": "ベルファミーユＢ",
+    "removed_on": "2026-10-29",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e60270d424ecc38e475e77501210fddd158a5e97/|ベルファミーユＢ": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-28",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.1,
+    "area_sqm": 47.3,
+    "url": "https://www.homes.co.jp/chintai/room/e60270d424ecc38e475e77501210fddd158a5e97/",
+    "text": "ベルファミーユＢ",
+    "removed_on": "2026-10-29",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

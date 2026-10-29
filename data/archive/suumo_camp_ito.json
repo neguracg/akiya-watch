@@ -515,5 +515,49 @@
     "text": "駅徒歩圏×生活便利。自由設計可能な静海町の売地",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/|鎌田（南伊東駅） 540万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県伊東市鎌田",
+    "price_man": 540,
+    "area_sqm": 119.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_79181624/",
+    "text": "鎌田（南伊東駅） 540万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21001998/|八幡野（伊豆高原駅） 1100万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県伊東市八幡野",
+    "price_man": 1100,
+    "area_sqm": 230.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21001998/",
+    "text": "八幡野（伊豆高原駅） 1100万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/|川奈（川奈駅） 1880万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県伊東市川奈",
+    "price_man": 1880,
+    "area_sqm": 879.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71522480/",
+    "text": "川奈（川奈駅） 1880万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21729458/|桜ガ丘２（南伊東駅） 4200万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
+    "location": "静岡県伊東市桜ガ丘２",
+    "price_man": 4200,
+    "area_sqm": 743.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21729458/",
+    "text": "桜ガ丘２（南伊東駅） 4200万円",
+    "removed_on": "2026-10-29",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }
