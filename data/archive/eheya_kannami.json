@@ -163,5 +163,49 @@
     "text": "ベルファミーユB",
     "removed_on": "2026-10-29",
     "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142004262000001/|サンロード伊豆": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 5.7,
+    "area_sqm": 47.4,
+    "url": "https://www.eheya.net/detail/300000142004262000001/",
+    "text": "サンロード伊豆",
+    "removed_on": "2026-10-30",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142004504000001/|タウニーくわはら": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 3.5,
+    "area_sqm": 38.8,
+    "url": "https://www.eheya.net/detail/300000142004504000001/",
+    "text": "タウニーくわはら",
+    "removed_on": "2026-10-30",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142004637000001/|サンモール塚本 B": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.9,
+    "area_sqm": 50.6,
+    "url": "https://www.eheya.net/detail/300000142004637000001/",
+    "text": "サンモール塚本 B",
+    "removed_on": "2026-10-30",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142001832000004/|アンジェパティオ函南": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 9.3,
+    "area_sqm": 58.9,
+    "url": "https://www.eheya.net/detail/300000142001832000004/",
+    "text": "アンジェパティオ函南",
+    "removed_on": "2026-10-30",
+    "site_name": "いい部屋ネット 田方郡函南町"
   }
 }

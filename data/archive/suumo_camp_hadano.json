@@ -780,15 +780,37 @@
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21692760/|☆夢のマイホームを自由設計！建築条件なしのゆとりある土地☆": {
-    "first_seen": "2026-09-12",
-    "last_seen": "2026-10-28",
-    "location": "神奈川県秦野市南矢名",
-    "price_man": 1400,
-    "area_sqm": 160.6,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21692760/",
-    "text": "☆夢のマイホームを自由設計！建築条件なしのゆとりある土地☆",
-    "removed_on": "2026-10-29",
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21979763/|曽屋 500万円": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-29",
+    "location": "神奈川県秦野市曽屋6020－8",
+    "price_man": 500,
+    "area_sqm": 154.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21979763/",
+    "text": "曽屋 500万円",
+    "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21391834/|緑町 1380万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-29",
+    "location": "神奈川県秦野市緑町",
+    "price_man": 1380,
+    "area_sqm": 260.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21391834/",
+    "text": "緑町 1380万円",
+    "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21476138/|今泉（秦野駅） 1898万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-29",
+    "location": "神奈川県秦野市今泉",
+    "price_man": 1898,
+    "area_sqm": 154.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21476138/",
+    "text": "今泉（秦野駅） 1898万円",
+    "removed_on": "2026-10-30",
     "site_name": "SUUMO 土地 秦野市"
   }
 }

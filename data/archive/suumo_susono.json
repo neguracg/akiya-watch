@@ -582,17 +582,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 土地 裾野市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|移住先としても選ばれる自然豊かな都心100km圏内の富士山が見える別荘地！": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県裾野市須山",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-    "text": "移住先としても選ばれる自然豊かな都心100km圏内の富士山が見える別荘地！",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 土地 裾野市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20935308/|佐野（裾野駅） 1570万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-10-09",
@@ -745,6 +734,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
     "text": "移住先としてもおすすめ。都心約100km圏内の別荘地。富士山の見える敷地",
     "removed_on": "2026-10-28",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77114614/|【建築条件無】10/22更新・裾野市伊豆島田分譲地": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-29",
+    "location": "静岡県裾野市伊豆島田",
+    "price_man": 1920,
+    "area_sqm": 141.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_77114614/",
+    "text": "【建築条件無】10/22更新・裾野市伊豆島田分譲地",
+    "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20887246/|166坪の広い敷地。富士サファリパークまで3000ｍ（自動車6分）。": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-10-29",
+    "location": "静岡県裾野市須山主要地",
+    "price_man": 50,
+    "area_sqm": 551.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20887246/",
+    "text": "166坪の広い敷地。富士サファリパークまで3000ｍ（自動車6分）。",
+    "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 裾野市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|広大な340坪以上の敷地！豊かな自然はお子様の情操教育・野鳥観察にも◎": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
+    "location": "静岡県裾野市須山",
+    "price_man": 1390,
+    "area_sqm": 1149.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
+    "text": "広大な340坪以上の敷地！豊かな自然はお子様の情操教育・野鳥観察にも◎",
+    "removed_on": "2026-10-30",
     "site_name": "SUUMO 土地 裾野市"
   }
 }

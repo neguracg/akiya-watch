@@ -285,28 +285,6 @@
     "removed_on": "2026-10-23",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-37260450000017/|駿東郡長泉町桜堤3丁目 (長泉なめり駅)": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "location": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "price_man": 3580,
-    "area_sqm": 187.1,
-    "url": "https://www.homes.co.jp/tochi/b-37260450000017/",
-    "text": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "removed_on": "2026-10-28",
-    "site_name": "LIFULL 土地 長泉町"
-  },
-  "https://www.homes.co.jp/tochi/b-37260450000018/|駿東郡長泉町桜堤3丁目 (長泉なめり駅)": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "location": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "price_man": 3580,
-    "area_sqm": 187.2,
-    "url": "https://www.homes.co.jp/tochi/b-37260450000018/",
-    "text": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "removed_on": "2026-10-28",
-    "site_name": "LIFULL 土地 長泉町"
-  },
   "https://www.homes.co.jp/tochi/b-1265050002682/|駿東郡長泉町中土狩 (長泉なめり駅)": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
@@ -318,15 +296,37 @@
     "removed_on": "2026-10-29",
     "site_name": "LIFULL 土地 長泉町"
   },
-  "https://www.homes.co.jp/tochi/b-37260450000019/|駿東郡長泉町桜堤3丁目 (長泉なめり駅)": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "location": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "price_man": 3290,
-    "area_sqm": 180.9,
-    "url": "https://www.homes.co.jp/tochi/b-37260450000019/",
-    "text": "駿東郡長泉町桜堤3丁目 (長泉なめり駅)",
-    "removed_on": "2026-10-29",
+  "https://www.homes.co.jp/tochi/b-33324250000155/|駿東郡長泉町下土狩 (下土狩駅)": {
+    "first_seen": "2026-07-28",
+    "last_seen": "2026-10-29",
+    "location": "駿東郡長泉町下土狩 (下土狩駅)",
+    "price_man": 1250,
+    "area_sqm": 73.6,
+    "url": "https://www.homes.co.jp/tochi/b-33324250000155/",
+    "text": "駿東郡長泉町下土狩 (下土狩駅)",
+    "removed_on": "2026-10-30",
+    "site_name": "LIFULL 土地 長泉町"
+  },
+  "https://www.homes.co.jp/tochi/b-1540930000250/|駿東郡長泉町納米里 (長泉なめり駅)": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "location": "駿東郡長泉町納米里 (長泉なめり駅)",
+    "price_man": 2950,
+    "area_sqm": 329.0,
+    "url": "https://www.homes.co.jp/tochi/b-1540930000250/",
+    "text": "駿東郡長泉町納米里 (長泉なめり駅)",
+    "removed_on": "2026-10-30",
+    "site_name": "LIFULL 土地 長泉町"
+  },
+  "https://www.homes.co.jp/tochi/b-1265050002513/|駿東郡長泉町東野 (長泉なめり駅)": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
+    "location": "駿東郡長泉町東野 (長泉なめり駅)",
+    "price_man": 990,
+    "area_sqm": 1272.2,
+    "url": "https://www.homes.co.jp/tochi/b-1265050002513/",
+    "text": "駿東郡長泉町東野 (長泉なめり駅)",
+    "removed_on": "2026-10-30",
     "site_name": "LIFULL 土地 長泉町"
   }
 }

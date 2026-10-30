@@ -3298,5 +3298,16 @@
     "text": "三島市若松町 (三島駅)",
     "removed_on": "2026-10-29",
     "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-33309130000095/|三島市中 (三島二日町駅)": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
+    "location": "三島市中 (三島二日町駅)",
+    "price_man": 450,
+    "area_sqm": 153.4,
+    "url": "https://www.homes.co.jp/tochi/b-33309130000095/",
+    "text": "三島市中 (三島二日町駅)",
+    "removed_on": "2026-10-30",
+    "site_name": "LIFULL 土地 三島市"
   }
 }

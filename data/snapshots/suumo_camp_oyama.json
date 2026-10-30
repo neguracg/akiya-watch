@@ -1,13 +1,13 @@
 {
   "keys": {
-    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/|高台にある住宅地。小中学校が徒歩圏内。町役場商店街にアクセス良好": {
-      "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/|藤曲（駿河小山駅） 880万円": {
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
       "location": "静岡県駿東郡小山町藤曲",
       "price_man": 880,
       "area_sqm": 272.4,
       "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_21705458/",
-      "text": "高台にある住宅地。小中学校が徒歩圏内。町役場商店街にアクセス良好",
+      "text": "藤曲（駿河小山駅） 880万円",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -17,7 +17,7 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "宅地",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": 10.7,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_77183215/|大胡田 2000万円": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "静岡県駿東郡小山町大胡田",
       "price_man": 2000,
       "area_sqm": 580.1,
@@ -59,6 +59,6 @@
       "tab": "camp"
     }
   },
-  "hash": "83e3894074416398",
-  "fetched_at": "2026-10-29T02:00:22.686766"
+  "hash": "23330f9906e007c0",
+  "fetched_at": "2026-10-30T02:00:36.808739"
 }

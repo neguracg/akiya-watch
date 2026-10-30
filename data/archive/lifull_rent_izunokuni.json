@@ -1803,17 +1803,6 @@
     "removed_on": "2026-10-17",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   },
-  "https://www.homes.co.jp/chintai/room/84b79e07f7e0e0110e9a47ebdb62659e2b1ff633/|ガーデンコート21": {
-    "first_seen": "2026-10-08",
-    "last_seen": "2026-10-16",
-    "location": "静岡県伊豆の国市三福",
-    "price_man": 6.5,
-    "area_sqm": 58.4,
-    "url": "https://www.homes.co.jp/chintai/room/84b79e07f7e0e0110e9a47ebdb62659e2b1ff633/",
-    "text": "ガーデンコート21",
-    "removed_on": "2026-10-17",
-    "site_name": "LIFULL 賃貸 伊豆の国市"
-  },
   "https://www.homes.co.jp/chintai/room/ccfe3159f54ae40bc608059f1dcbaa9508a0c538/|レオパレスサン": {
     "first_seen": "2026-10-07",
     "last_seen": "2026-10-16",
@@ -2032,6 +2021,28 @@
     "url": "https://www.homes.co.jp/chintai/room/c1878bfb0b2380823e6708a15e03a69932fbc53c/",
     "text": "ハイツ天のや　Ｂ",
     "removed_on": "2026-10-28",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/|プリマヴェーラ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
+    "location": "静岡県伊豆の国市三福",
+    "price_man": 8.0,
+    "area_sqm": 74.2,
+    "url": "https://www.homes.co.jp/chintai/room/98740aae276f511a8fdf6ee1ebef24aecd5d1012/",
+    "text": "プリマヴェーラ",
+    "removed_on": "2026-10-30",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/b1ba5b89a6bd0d4740424a1f171fe33537ab4696/|ＳＴビル": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-29",
+    "location": "静岡県伊豆の国市田京",
+    "price_man": 6.2,
+    "area_sqm": 60.2,
+    "url": "https://www.homes.co.jp/chintai/room/b1ba5b89a6bd0d4740424a1f171fe33537ab4696/",
+    "text": "ＳＴビル",
+    "removed_on": "2026-10-30",
     "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

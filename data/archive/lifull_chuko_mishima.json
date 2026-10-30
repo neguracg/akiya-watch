@@ -581,5 +581,16 @@
     "text": "三島市富士見台　太陽光付　眺望良好　駐車場3台可",
     "removed_on": "2026-10-27",
     "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1265050002469/|三島市錦が丘中古住宅": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-10-29",
+    "location": "三島市錦が丘中古住宅",
+    "price_man": 2998,
+    "area_sqm": 233.2,
+    "url": "https://www.homes.co.jp/kodate/b-1265050002469/",
+    "text": "三島市錦が丘中古住宅",
+    "removed_on": "2026-10-30",
+    "site_name": "LIFULL 中古戸建 三島市"
   }
 }

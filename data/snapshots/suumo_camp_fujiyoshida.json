@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_20980695/|■土地面積：256.55㎡（1区画）～271.45㎡（1区画）の広々敷地！": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市竜ケ丘３-898番203の一部",
       "price_man": 1430,
       "area_sqm": 256.6,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_20349410/|松山 1300万円": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市松山字沢畑1240番30",
       "price_man": 1300,
       "area_sqm": 307.1,
@@ -60,7 +60,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_21005447/|松山 1320万円": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市松山",
       "price_man": 1320,
       "area_sqm": 311.9,
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_78502318/|下吉田８（下吉田駅） 2000万円": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市下吉田８-2867-1",
       "price_man": 2000,
       "area_sqm": 886.0,
@@ -118,7 +118,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_21873020/|土地223坪！現況でお引渡し。オギノ富士吉田横町店まで車で3分♪": {
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市上吉田",
       "price_man": 2240,
       "area_sqm": 740.0,
@@ -147,7 +147,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_74074961/|下吉田東２ 2740万円": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市下吉田東２",
       "price_man": 2740,
       "area_sqm": 1134.0,
@@ -176,7 +176,7 @@
     },
     "https://suumo.jp/tochi/yamanashi/sc_fujiyoshida/nc_21405608/|新町４（月江寺駅） 3100万円": {
       "first_seen": "2026-09-04",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-10-30",
       "location": "山梨県富士吉田市新町４",
       "price_man": 3100,
       "area_sqm": 402.8,
@@ -204,6 +204,6 @@
       "tab": "camp"
     }
   },
-  "hash": "8302a479b3817797",
-  "fetched_at": "2026-10-29T02:11:56.686168"
+  "hash": "1d729c8639785967",
+  "fetched_at": "2026-10-30T02:11:44.570720"
 }

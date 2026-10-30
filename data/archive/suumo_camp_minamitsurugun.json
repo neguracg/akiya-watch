@@ -350,5 +350,16 @@
     "text": "大嵐 3200万円",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_77907447/|2340万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-29",
+    "location": "山梨県南都留郡鳴沢村",
+    "price_man": 2340,
+    "area_sqm": 1933.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_77907447/",
+    "text": "2340万円",
+    "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
   }
 }
