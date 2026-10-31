@@ -2407,5 +2407,49 @@
     "text": "コーポイトウ",
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110528193/|フォーシーズンズ・ガーデン熱海八方苑": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-30",
+    "location": "静岡県熱海市水口町",
+    "price_man": 17.8,
+    "area_sqm": 68.8,
+    "url": "https://suumo.jp/chintai/jnc_000110528193/",
+    "text": "フォーシーズンズ・ガーデン熱海八方苑",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000028652173/|ソフィア熱海ビューヒルズ": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-30",
+    "location": "静岡県熱海市海光町",
+    "price_man": 15.0,
+    "area_sqm": 51.6,
+    "url": "https://suumo.jp/chintai/jnc_000028652173/",
+    "text": "ソフィア熱海ビューヒルズ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110733656/|石黒ハイツ": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
+    "location": "静岡県熱海市中央町",
+    "price_man": 8.3,
+    "area_sqm": 63.2,
+    "url": "https://suumo.jp/chintai/jnc_000110733656/",
+    "text": "石黒ハイツ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110195786/?bc=100529803706|ラ・ヴィ熱海": {
+    "first_seen": "2026-10-10",
+    "last_seen": "2026-10-30",
+    "location": "静岡県熱海市林ガ丘町",
+    "price_man": 15.0,
+    "area_sqm": 50.4,
+    "url": "https://suumo.jp/chintai/jnc_000110195786/?bc=100529803706",
+    "text": "ラ・ヴィ熱海",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

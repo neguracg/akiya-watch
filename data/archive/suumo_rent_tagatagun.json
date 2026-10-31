@@ -9844,17 +9844,6 @@
     "removed_on": "2026-09-08",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000013976441/|シンフォニー": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-07",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 12.0,
-    "area_sqm": 91.2,
-    "url": "https://suumo.jp/chintai/jnc_000013976441/",
-    "text": "シンフォニー",
-    "removed_on": "2026-09-08",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000107566350/|サニーガーデン間宮II": {
     "first_seen": "2026-09-06",
     "last_seen": "2026-09-07",
@@ -13199,17 +13188,6 @@
     "removed_on": "2026-09-27",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109654450/?bc=100523885688|レジェンド　Ａ": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-09-26",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.4,
-    "area_sqm": 58.1,
-    "url": "https://suumo.jp/chintai/jnc_000109654450/?bc=100523885688",
-    "text": "レジェンド　Ａ",
-    "removed_on": "2026-09-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000109061478/?bc=100521421973|サンパティーク": {
     "first_seen": "2026-09-26",
     "last_seen": "2026-09-26",
@@ -14923,39 +14901,6 @@
     "area_sqm": 22.4,
     "url": "https://suumo.jp/chintai/jnc_000103950489/",
     "text": "レオパレスドヴォール函南",
-    "removed_on": "2026-10-04",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000049537224/|KMT沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://suumo.jp/chintai/jnc_000049537224/",
-    "text": "KMT沙稀（ケイエムティサキ）",
-    "removed_on": "2026-10-04",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000049537223/|KMT沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://suumo.jp/chintai/jnc_000049537223/",
-    "text": "KMT沙稀（ケイエムティサキ）",
-    "removed_on": "2026-10-04",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000049537225/|KMT沙稀（ケイエムティサキ）": {
-    "first_seen": "2026-10-03",
-    "last_seen": "2026-10-03",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.0,
-    "area_sqm": 45.8,
-    "url": "https://suumo.jp/chintai/jnc_000049537225/",
-    "text": "KMT沙稀（ケイエムティサキ）",
     "removed_on": "2026-10-04",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -16862,17 +16807,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000098135415/?bc=100434442460|エヴァーグリーン": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 4.7,
-    "area_sqm": 24.8,
-    "url": "https://suumo.jp/chintai/jnc_000098135415/?bc=100434442460",
-    "text": "エヴァーグリーン",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000074417109/?bc=100528927917|ストークハウスいづみ": {
     "first_seen": "2026-10-09",
     "last_seen": "2026-10-09",
@@ -17478,17 +17412,6 @@
     "removed_on": "2026-10-13",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000104702581/?bc=100481749657|プロムナード": {
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-12",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 5.8,
-    "area_sqm": 56.5,
-    "url": "https://suumo.jp/chintai/jnc_000104702581/?bc=100481749657",
-    "text": "プロムナード",
-    "removed_on": "2026-10-13",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000110185815/?bc=100490211802|バロールＫ＆Ｙ": {
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
@@ -17739,17 +17662,6 @@
     "area_sqm": 58.2,
     "url": "https://suumo.jp/chintai/jnc_000109654451/?bc=100525560598",
     "text": "レジェンド　Ａ",
-    "removed_on": "2026-10-14",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000039353621/?bc=100465618326|アプローズ": {
-    "first_seen": "2026-10-12",
-    "last_seen": "2026-10-13",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 4.5,
-    "area_sqm": 22.0,
-    "url": "https://suumo.jp/chintai/jnc_000039353621/?bc=100465618326",
-    "text": "アプローズ",
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -18996,17 +18908,6 @@
     "removed_on": "2026-10-18",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109764323/?bc=100511793939|タウニーくわはら": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
-    "location": "静岡県田方郡函南町桑原",
-    "price_man": 3.5,
-    "area_sqm": 38.8,
-    "url": "https://suumo.jp/chintai/jnc_000109764323/?bc=100511793939",
-    "text": "タウニーくわはら",
-    "removed_on": "2026-10-18",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000110163450/?bc=100517129163|バロール道越": {
     "first_seen": "2026-10-17",
     "last_seen": "2026-10-17",
@@ -19568,17 +19469,6 @@
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109612084/?bc=100528842692|ロッソ・フォンターナ": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 5.5,
-    "area_sqm": 45.3,
-    "url": "https://suumo.jp/chintai/jnc_000109612084/?bc=100528842692",
-    "text": "ロッソ・フォンターナ",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000110163453/?bc=100529581589|ロイヤルレジデンス　A": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
@@ -19597,17 +19487,6 @@
     "price_man": 5.6,
     "area_sqm": 44.8,
     "url": "https://suumo.jp/chintai/jnc_000102962907/?bc=100473975737",
-    "text": "楠の台ハイツ",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000087763093/?bc=100503455560|楠の台ハイツ": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.7,
-    "area_sqm": 44.8,
-    "url": "https://suumo.jp/chintai/jnc_000087763093/?bc=100503455560",
     "text": "楠の台ハイツ",
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
@@ -20261,17 +20140,6 @@
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000107425887/?bc=100508155881|エクレール友野": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.5,
-    "area_sqm": 49.7,
-    "url": "https://suumo.jp/chintai/jnc_000107425887/?bc=100508155881",
-    "text": "エクレール友野",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000109654452/?bc=100525806876|ハウスK": {
     "first_seen": "2026-10-23",
     "last_seen": "2026-10-23",
@@ -20313,39 +20181,6 @@
     "area_sqm": 65.9,
     "url": "https://suumo.jp/chintai/jnc_000109890957/?bc=100531235537",
     "text": "ロイヤルレジデンス　B",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000092151290/?bc=100508155923|Ｍわんハイツ": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "location": "静岡県田方郡函南町大竹",
-    "price_man": 4.5,
-    "area_sqm": 34.8,
-    "url": "https://suumo.jp/chintai/jnc_000092151290/?bc=100508155923",
-    "text": "Ｍわんハイツ",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000100648697/?bc=100488563074|アレスバルト来光川": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "location": "静岡県田方郡函南町上沢",
-    "price_man": 3.9,
-    "area_sqm": 40.5,
-    "url": "https://suumo.jp/chintai/jnc_000100648697/?bc=100488563074",
-    "text": "アレスバルト来光川",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000083737081/?bc=100508612489|クリア函南": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-23",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 3.6,
-    "area_sqm": 22.4,
-    "url": "https://suumo.jp/chintai/jnc_000083737081/?bc=100508612489",
-    "text": "クリア函南",
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -20500,17 +20335,6 @@
     "area_sqm": 50.6,
     "url": "https://suumo.jp/chintai/jnc_000090199786/?bc=100530097913",
     "text": "サンモール塚本B",
-    "removed_on": "2026-10-25",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000081971751/?bc=100492623075|ストークハウスいづみ": {
-    "first_seen": "2026-10-24",
-    "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 6.5,
-    "area_sqm": 53.7,
-    "url": "https://suumo.jp/chintai/jnc_000081971751/?bc=100492623075",
-    "text": "ストークハウスいづみ",
     "removed_on": "2026-10-25",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -20800,28 +20624,6 @@
     "removed_on": "2026-10-25",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000103436702/?bc=100514530438|伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 7.0,
-    "area_sqm": 68.7,
-    "url": "https://suumo.jp/chintai/jnc_000103436702/?bc=100514530438",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年",
-    "removed_on": "2026-10-25",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000068652933/?bc=100465483754|グランペール函南": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-24",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 7.4,
-    "area_sqm": 60.5,
-    "url": "https://suumo.jp/chintai/jnc_000068652933/?bc=100465483754",
-    "text": "グランペール函南",
-    "removed_on": "2026-10-25",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000094979451/?bc=100412374276|伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築35年": {
     "first_seen": "2026-09-01",
     "last_seen": "2026-10-24",
@@ -20987,17 +20789,6 @@
     "removed_on": "2026-10-27",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000090199786/?bc=100531485559|サンモール塚本 Ｂ": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 4.9,
-    "area_sqm": 50.6,
-    "url": "https://suumo.jp/chintai/jnc_000090199786/?bc=100531485559",
-    "text": "サンモール塚本 Ｂ",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000074417109/?bc=100528842687|ストークハウスいづみ": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
@@ -21152,39 +20943,6 @@
     "removed_on": "2026-10-27",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109377767/?bc=100523814381|セリアージュ": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.37,
-    "area_sqm": 66.2,
-    "url": "https://suumo.jp/chintai/jnc_000109377767/?bc=100523814381",
-    "text": "セリアージュ",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000098995127/?bc=100465638853|シティパレス柿島": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.2,
-    "area_sqm": 52.0,
-    "url": "https://suumo.jp/chintai/jnc_000098995127/?bc=100465638853",
-    "text": "シティパレス柿島",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000083094646/?bc=100514251915|アプローズ": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 4.6,
-    "area_sqm": 22.0,
-    "url": "https://suumo.jp/chintai/jnc_000083094646/?bc=100514251915",
-    "text": "アプローズ",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000059358227/?bc=100465483768|アプローズ": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
@@ -21251,17 +21009,6 @@
     "removed_on": "2026-10-27",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000108298325/?bc=100515764764|プリマヴェーラ": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 4.4,
-    "area_sqm": 27.1,
-    "url": "https://suumo.jp/chintai/jnc_000108298325/?bc=100515764764",
-    "text": "プリマヴェーラ",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000108640510/?bc=100517874153|プリマヴェーラ": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-25",
@@ -21292,17 +21039,6 @@
     "area_sqm": 38.8,
     "url": "https://suumo.jp/chintai/jnc_000109764323/?bc=100515530418",
     "text": "タウニーくわはら",
-    "removed_on": "2026-10-27",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000105580082/?bc=100494326727|セジュール９５２": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-25",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 4.5,
-    "area_sqm": 26.7,
-    "url": "https://suumo.jp/chintai/jnc_000105580082/?bc=100494326727",
-    "text": "セジュール９５２",
     "removed_on": "2026-10-27",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -21592,17 +21328,6 @@
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000108080953/?bc=100513988842|グランドール高城C": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 6.4,
-    "area_sqm": 63.6,
-    "url": "https://suumo.jp/chintai/jnc_000108080953/?bc=100513988842",
-    "text": "グランドール高城C",
-    "removed_on": "2026-10-28",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000108761167/?bc=100519058313|ＷＩＴ": {
     "first_seen": "2026-10-24",
     "last_seen": "2026-10-27",
@@ -21611,17 +21336,6 @@
     "area_sqm": 47.9,
     "url": "https://suumo.jp/chintai/jnc_000108761167/?bc=100519058313",
     "text": "ＷＩＴ",
-    "removed_on": "2026-10-28",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000102962907/?bc=100529799497|楠の台ハイツ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.6,
-    "area_sqm": 44.8,
-    "url": "https://suumo.jp/chintai/jnc_000102962907/?bc=100529799497",
-    "text": "楠の台ハイツ",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -21713,17 +21427,6 @@
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000107190446/?bc=100501445547|アンビシオン函南": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-27",
-    "location": "静岡県田方郡函南町平井",
-    "price_man": 6.2,
-    "area_sqm": 53.0,
-    "url": "https://suumo.jp/chintai/jnc_000107190446/?bc=100501445547",
-    "text": "アンビシオン函南",
-    "removed_on": "2026-10-28",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000107184457/?bc=100501257308|伊豆箱根鉄道駿豆線 大場駅 3階建 築28年": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-27",
@@ -21743,17 +21446,6 @@
     "area_sqm": 42.8,
     "url": "https://suumo.jp/chintai/jnc_000108735245/?bc=100518487209",
     "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 2階建 築26年",
-    "removed_on": "2026-10-28",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000073311724/?bc=100514530350|伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-10-27",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 7.0,
-    "area_sqm": 67.7,
-    "url": "https://suumo.jp/chintai/jnc_000073311724/?bc=100514530350",
-    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -21787,17 +21479,6 @@
     "area_sqm": 58.1,
     "url": "https://suumo.jp/chintai/jnc_000109654450/?bc=100524014944",
     "text": "レジェンド　Ａ",
-    "removed_on": "2026-10-28",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000098431732/?bc=100478255331|増島ハイツ": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-27",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 5.5,
-    "area_sqm": 52.0,
-    "url": "https://suumo.jp/chintai/jnc_000098431732/?bc=100478255331",
-    "text": "増島ハイツ",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -21889,28 +21570,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000089728052/|メルベーユＳ　/　プロシードＳ　プロシードＳ": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.4,
-    "area_sqm": 58.1,
-    "url": "https://suumo.jp/chintai/jnc_000089728052/",
-    "text": "メルベーユＳ　/　プロシードＳ　プロシードＳ",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000110217714/|メルベーユＳ　/　プロシードＳ　プロシードＳ": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 7.6,
-    "area_sqm": 58.1,
-    "url": "https://suumo.jp/chintai/jnc_000110217714/",
-    "text": "メルベーユＳ　/　プロシードＳ　プロシードＳ",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000058130314/|ベルエポックフジカ": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
@@ -21930,17 +21589,6 @@
     "area_sqm": 53.6,
     "url": "https://suumo.jp/chintai/jnc_000041016505/",
     "text": "ベルエポックフジカ",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000074417109/?bc=100529063605|ストークハウスいづみ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 6.5,
-    "area_sqm": 53.7,
-    "url": "https://suumo.jp/chintai/jnc_000074417109/?bc=100529063605",
-    "text": "ストークハウスいづみ",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -22007,17 +21655,6 @@
     "area_sqm": 29.4,
     "url": "https://suumo.jp/chintai/jnc_000107639655/?bc=100522351929",
     "text": "ラ・メーグ",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000110163453/?bc=100531235539|ロイヤルレジデンス　A": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 8.3,
-    "area_sqm": 65.5,
-    "url": "https://suumo.jp/chintai/jnc_000110163453/?bc=100531235539",
-    "text": "ロイヤルレジデンス　A",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -22252,28 +21889,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000078859438/?bc=100522327387|ヴィヴレ仁田": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 6.0,
-    "area_sqm": 52.0,
-    "url": "https://suumo.jp/chintai/jnc_000078859438/?bc=100522327387",
-    "text": "ヴィヴレ仁田",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000104181327/?bc=100508048191|アンビシオン函南": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町平井",
-    "price_man": 6.2,
-    "area_sqm": 53.0,
-    "url": "https://suumo.jp/chintai/jnc_000104181327/?bc=100508048191",
-    "text": "アンビシオン函南",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000089658847/?bc=100489606438|アンビシオン函南": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
@@ -22296,17 +21911,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000099261264/?bc=100525367387|ラ・エトワール": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町平井",
-    "price_man": 4.7,
-    "area_sqm": 33.0,
-    "url": "https://suumo.jp/chintai/jnc_000099261264/?bc=100525367387",
-    "text": "ラ・エトワール",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000108209528/?bc=100527907999|リヴェールB": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
@@ -22315,17 +21919,6 @@
     "area_sqm": 42.8,
     "url": "https://suumo.jp/chintai/jnc_000108209528/?bc=100527907999",
     "text": "リヴェールB",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000110289328/?bc=100530457692|サンモール塚本（Ｂ）": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 4.9,
-    "area_sqm": 50.6,
-    "url": "https://suumo.jp/chintai/jnc_000110289328/?bc=100530457692",
-    "text": "サンモール塚本（Ｂ）",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -22406,17 +21999,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109084966/?bc=100521054878|ベスト２１": {
-    "first_seen": "2026-09-29",
-    "last_seen": "2026-10-28",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 4.3,
-    "area_sqm": 52.2,
-    "url": "https://suumo.jp/chintai/jnc_000109084966/?bc=100521054878",
-    "text": "ベスト２１",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000110501324/?bc=100513854392|間宮分譲マンション": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-28",
@@ -22491,28 +22073,6 @@
     "area_sqm": 38.9,
     "url": "https://suumo.jp/chintai/jnc_000091286085/",
     "text": "コーポ社",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000107597502/|シンフォニー": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 12.0,
-    "area_sqm": 91.2,
-    "url": "https://suumo.jp/chintai/jnc_000107597502/",
-    "text": "シンフォニー",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000016670814/|シンフォニー": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 12.0,
-    "area_sqm": 91.2,
-    "url": "https://suumo.jp/chintai/jnc_000016670814/",
-    "text": "シンフォニー",
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -22791,17 +22351,6 @@
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000109660063/?bc=100525624886|クレール塚本": {
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 4.3,
-    "area_sqm": 27.2,
-    "url": "https://suumo.jp/chintai/jnc_000109660063/?bc=100525624886",
-    "text": "クレール塚本",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000108073592/?bc=100513659830|プリマヴェーラ": {
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
@@ -22901,39 +22450,6 @@
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000110185814/?bc=100513577434|バロールＫ＆Ｙ　Ｂ棟": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.6,
-    "area_sqm": 79.6,
-    "url": "https://suumo.jp/chintai/jnc_000110185814/?bc=100513577434",
-    "text": "バロールＫ＆Ｙ　Ｂ棟",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000110195883/?bc=100512958881|バロールＫ＆Ｙ　Ｂ棟": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.8,
-    "area_sqm": 79.6,
-    "url": "https://suumo.jp/chintai/jnc_000110195883/?bc=100512958881",
-    "text": "バロールＫ＆Ｙ　Ｂ棟",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884|バロールＫ＆Ｙ　Ｂ棟": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町間宮",
-    "price_man": 6.8,
-    "area_sqm": 79.6,
-    "url": "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884",
-    "text": "バロールＫ＆Ｙ　Ｂ棟",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000086953361/?bc=100528842733|Ｍハイツ": {
     "first_seen": "2026-10-28",
     "last_seen": "2026-10-29",
@@ -22956,17 +22472,6 @@
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000089658847/?bc=100489535327|アンビシオン函南": {
-    "first_seen": "2026-10-29",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町平井",
-    "price_man": 6.2,
-    "area_sqm": 53.0,
-    "url": "https://suumo.jp/chintai/jnc_000089658847/?bc=100489535327",
-    "text": "アンビシオン函南",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000104181327/?bc=100486143715|アンビシオン函南": {
     "first_seen": "2026-10-29",
     "last_seen": "2026-10-29",
@@ -22986,17 +22491,6 @@
     "area_sqm": 53.0,
     "url": "https://suumo.jp/chintai/jnc_000107190446/?bc=100508048108",
     "text": "アンビシオン函南",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000108500545/?bc=100529803824|フォンティーヌ小高壱番館": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町大土肥",
-    "price_man": 6.6,
-    "area_sqm": 71.7,
-    "url": "https://suumo.jp/chintai/jnc_000108500545/?bc=100529803824",
-    "text": "フォンティーヌ小高壱番館",
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -23107,72 +22601,6 @@
     "area_sqm": 58.1,
     "url": "https://suumo.jp/chintai/jnc_000109654450/?bc=100523961708",
     "text": "レジェンド　Ａ",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815560/?bc=100121692401|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815560/?bc=100121692401",
-    "text": "メゾンコクシネル",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815559/?bc=100514109772|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815559/?bc=100514109772",
-    "text": "メゾンコクシネル",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815556/?bc=100496313316|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815556/?bc=100496313316",
-    "text": "メゾンコクシネル",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815558/?bc=100522351923|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815558/?bc=100522351923",
-    "text": "メゾンコクシネル",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815557/?bc=100516770347|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815557/?bc=100516770347",
-    "text": "メゾンコクシネル",
-    "removed_on": "2026-10-30",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000109815555/?bc=100514109769|メゾンコクシネル": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.0,
-    "area_sqm": 44.1,
-    "url": "https://suumo.jp/chintai/jnc_000109815555/?bc=100514109769",
-    "text": "メゾンコクシネル",
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
@@ -23297,26 +22725,664 @@
     "removed_on": "2026-10-30",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000105267497/?bc=100522351963|Ｘ－ＭＡＸ": {
+  "https://suumo.jp/chintai/jnc_000110665606/|サンブルグ": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 7.9,
+    "area_sqm": 66.7,
+    "url": "https://suumo.jp/chintai/jnc_000110665606/",
+    "text": "サンブルグ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000099261264/|ラ・エトワール": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 4.7,
+    "area_sqm": 33.0,
+    "url": "https://suumo.jp/chintai/jnc_000099261264/",
+    "text": "ラ・エトワール",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110133391/|ブロッサム": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.35,
+    "area_sqm": 34.1,
+    "url": "https://suumo.jp/chintai/jnc_000110133391/",
+    "text": "ブロッサム",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000089728052/|メルベーユＳ　　プロシードＳ　プロシードＳ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://suumo.jp/chintai/jnc_000089728052/",
+    "text": "メルベーユＳ　　プロシードＳ　プロシードＳ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110217714/|メルベーユＳ　　プロシードＳ　プロシードＳ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.6,
+    "area_sqm": 58.1,
+    "url": "https://suumo.jp/chintai/jnc_000110217714/",
+    "text": "メルベーユＳ　　プロシードＳ　プロシードＳ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000090199786/?bc=100531217821|サンモール塚本": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.9,
+    "area_sqm": 50.6,
+    "url": "https://suumo.jp/chintai/jnc_000090199786/?bc=100531217821",
+    "text": "サンモール塚本",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110598444/?bc=100500991662|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000110598444/?bc=100500991662",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110598443/?bc=100498445356|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000110598443/?bc=100498445356",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110598445/?bc=100502764454|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000110598445/?bc=100502764454",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000049537225/?bc=100518846981|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000049537225/?bc=100518846981",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000049537224/?bc=100521922114|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000049537224/?bc=100521922114",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000049537223/?bc=100521922113|KMT沙稀（ケイエムティサキ）": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.0,
+    "area_sqm": 45.8,
+    "url": "https://suumo.jp/chintai/jnc_000049537223/?bc=100521922113",
+    "text": "KMT沙稀（ケイエムティサキ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000074417109/?bc=100522908882|ストークハウスいづみ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 6.5,
+    "area_sqm": 53.7,
+    "url": "https://suumo.jp/chintai/jnc_000074417109/?bc=100522908882",
+    "text": "ストークハウスいづみ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000081971751/?bc=100510575846|ストークハウスいづみ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 6.5,
+    "area_sqm": 53.7,
+    "url": "https://suumo.jp/chintai/jnc_000081971751/?bc=100510575846",
+    "text": "ストークハウスいづみ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110163453/?bc=100529570147|ロイヤルレジデンス　A": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 8.3,
+    "area_sqm": 65.5,
+    "url": "https://suumo.jp/chintai/jnc_000110163453/?bc=100529570147",
+    "text": "ロイヤルレジデンス　A",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109612084/?bc=100525634525|ロッソフォンターナ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 5.5,
+    "area_sqm": 45.3,
+    "url": "https://suumo.jp/chintai/jnc_000109612084/?bc=100525634525",
+    "text": "ロッソフォンターナ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109377767/?bc=100526420480|セリアージュ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 8.37,
+    "area_sqm": 66.2,
+    "url": "https://suumo.jp/chintai/jnc_000109377767/?bc=100526420480",
+    "text": "セリアージュ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000108080953/?bc=100527927415|グランドール高城C": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.4,
+    "area_sqm": 63.5,
+    "url": "https://suumo.jp/chintai/jnc_000108080953/?bc=100527927415",
+    "text": "グランドール高城C",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000098995127/?bc=100446699587|シティパレス柿島": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.3,
+    "area_sqm": 51.0,
+    "url": "https://suumo.jp/chintai/jnc_000098995127/?bc=100446699587",
+    "text": "シティパレス柿島",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000039353621/?bc=100465639412|アプローズ": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 4.5,
+    "area_sqm": 22.0,
+    "url": "https://suumo.jp/chintai/jnc_000039353621/?bc=100465639412",
+    "text": "アプローズ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000083094646/?bc=100465618348|アプローズ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 4.6,
+    "area_sqm": 22.0,
+    "url": "https://suumo.jp/chintai/jnc_000083094646/?bc=100465618348",
+    "text": "アプローズ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000102962907/?bc=100529898588|楠の台ハイツ": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.6,
+    "area_sqm": 44.8,
+    "url": "https://suumo.jp/chintai/jnc_000102962907/?bc=100529898588",
+    "text": "楠の台ハイツ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000087763093/?bc=000097661878|楠の台ハイツ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.7,
+    "area_sqm": 44.8,
+    "url": "https://suumo.jp/chintai/jnc_000087763093/?bc=000097661878",
+    "text": "楠の台ハイツ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000098135415/?bc=100504379759|エヴァーグリーン": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 4.7,
+    "area_sqm": 24.8,
+    "url": "https://suumo.jp/chintai/jnc_000098135415/?bc=100504379759",
+    "text": "エヴァーグリーン",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109660063/?bc=100525671495|クレール塚本": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.3,
+    "area_sqm": 27.2,
+    "url": "https://suumo.jp/chintai/jnc_000109660063/?bc=100525671495",
+    "text": "クレール塚本",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000108298325/?bc=100515297820|プリマヴェーラ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 4.4,
+    "area_sqm": 27.1,
+    "url": "https://suumo.jp/chintai/jnc_000108298325/?bc=100515297820",
+    "text": "プリマヴェーラ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109764323/?bc=100512211493|タウニーくわはら": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 3.5,
+    "area_sqm": 38.8,
+    "url": "https://suumo.jp/chintai/jnc_000109764323/?bc=100512211493",
+    "text": "タウニーくわはら",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000105580082/?bc=100498445824|セジュール９５２": {
     "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.5,
+    "area_sqm": 26.7,
+    "url": "https://suumo.jp/chintai/jnc_000105580082/?bc=100498445824",
+    "text": "セジュール９５２",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000107597502/?bc=100524697387|シンフォニー": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 12.0,
+    "area_sqm": 91.2,
+    "url": "https://suumo.jp/chintai/jnc_000107597502/?bc=100524697387",
+    "text": "シンフォニー",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000013976441/?bc=100522327258|シンフォニー": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 12.0,
+    "area_sqm": 91.2,
+    "url": "https://suumo.jp/chintai/jnc_000013976441/?bc=100522327258",
+    "text": "シンフォニー",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000016670814/?bc=100509503419|シンフォニー": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 12.0,
+    "area_sqm": 91.2,
+    "url": "https://suumo.jp/chintai/jnc_000016670814/?bc=100509503419",
+    "text": "シンフォニー",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110790977/?bc=100517866461|バロール道越": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 5.6,
+    "area_sqm": 64.3,
+    "url": "https://suumo.jp/chintai/jnc_000110790977/?bc=100517866461",
+    "text": "バロール道越",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000104702581/?bc=100528236222|プロムナード": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 5.8,
+    "area_sqm": 56.5,
+    "url": "https://suumo.jp/chintai/jnc_000104702581/?bc=100528236222",
+    "text": "プロムナード",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110185814/?bc=100513026596|バロールK＆Y": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.6,
+    "area_sqm": 77.5,
+    "url": "https://suumo.jp/chintai/jnc_000110185814/?bc=100513026596",
+    "text": "バロールK＆Y",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110195883/?bc=100510247724|バロールK＆Y": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 77.5,
+    "url": "https://suumo.jp/chintai/jnc_000110195883/?bc=100510247724",
+    "text": "バロールK＆Y",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884|バロールK＆Y": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 6.8,
+    "area_sqm": 79.6,
+    "url": "https://suumo.jp/chintai/jnc_000108073591/?bc=100515299884",
+    "text": "バロールK＆Y",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000078859438/?bc=100522351902|ヴィヴレ仁田": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 6.0,
+    "area_sqm": 52.0,
+    "url": "https://suumo.jp/chintai/jnc_000078859438/?bc=100522351902",
+    "text": "ヴィヴレ仁田",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000104181327/?bc=100483541975|アンビシオン函南": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 6.2,
+    "area_sqm": 53.0,
+    "url": "https://suumo.jp/chintai/jnc_000104181327/?bc=100483541975",
+    "text": "アンビシオン函南",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000089658847/?bc=100508048091|アンビシオン函南": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 6.2,
+    "area_sqm": 53.0,
+    "url": "https://suumo.jp/chintai/jnc_000089658847/?bc=100508048091",
+    "text": "アンビシオン函南",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000107190446/?bc=100509329790|アンビシオン函南": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 6.2,
+    "area_sqm": 53.0,
+    "url": "https://suumo.jp/chintai/jnc_000107190446/?bc=100509329790",
+    "text": "アンビシオン函南",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000108500545/?bc=100522328114|フォンティーヌ小高壱番館": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.6,
+    "area_sqm": 71.7,
+    "url": "https://suumo.jp/chintai/jnc_000108500545/?bc=100522328114",
+    "text": "フォンティーヌ小高壱番館",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000110289328/?bc=100531184430|サンモール塚本（Ｂ）": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.9,
+    "area_sqm": 50.6,
+    "url": "https://suumo.jp/chintai/jnc_000110289328/?bc=100531184430",
+    "text": "サンモール塚本（Ｂ）",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000107425887/?bc=100516888245|エクレール友野": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.5,
+    "area_sqm": 49.7,
+    "url": "https://suumo.jp/chintai/jnc_000107425887/?bc=100516888245",
+    "text": "エクレール友野",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000072964855/?bc=100514530350|レサージュＡＯＮＯ": {
+    "first_seen": "2026-10-28",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.0,
+    "area_sqm": 67.7,
+    "url": "https://suumo.jp/chintai/jnc_000072964855/?bc=100514530350",
+    "text": "レサージュＡＯＮＯ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000103436702/?bc=100477472047|伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.0,
+    "area_sqm": 68.7,
+    "url": "https://suumo.jp/chintai/jnc_000103436702/?bc=100477472047",
+    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 3階建 築32年",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000068652933/?bc=100478255402|グランペール函南": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 7.4,
+    "area_sqm": 60.5,
+    "url": "https://suumo.jp/chintai/jnc_000068652933/?bc=100478255402",
+    "text": "グランペール函南",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109654450/?bc=100524697377|レジェンド　Ａ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://suumo.jp/chintai/jnc_000109654450/?bc=100524697377",
+    "text": "レジェンド　Ａ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000098431732/?bc=100498432745|増島ハイツ": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 5.5,
+    "area_sqm": 52.0,
+    "url": "https://suumo.jp/chintai/jnc_000098431732/?bc=100498432745",
+    "text": "増島ハイツ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815560/?bc=100119690986|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815560/?bc=100119690986",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815556/?bc=100496268000|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815556/?bc=100496268000",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815557/?bc=100516384864|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815557/?bc=100516384864",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815558/?bc=100522327336|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815558/?bc=100522327336",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815555/?bc=100506355983|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815555/?bc=100506355983",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109815559/?bc=100416892446|メゾンコクシネル": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.0,
+    "area_sqm": 44.1,
+    "url": "https://suumo.jp/chintai/jnc_000109815559/?bc=100416892446",
+    "text": "メゾンコクシネル",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000109084966/?bc=100525451051|ベスト２１": {
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 4.3,
+    "area_sqm": 52.2,
+    "url": "https://suumo.jp/chintai/jnc_000109084966/?bc=100525451051",
+    "text": "ベスト２１",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000092151290/?bc=100517866459|Ｍわんハイツ": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町大竹",
+    "price_man": 4.5,
+    "area_sqm": 34.8,
+    "url": "https://suumo.jp/chintai/jnc_000092151290/?bc=100517866459",
+    "text": "Ｍわんハイツ",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000100648697/?bc=100507028044|アレスバルト来光川": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 3.9,
+    "area_sqm": 40.5,
+    "url": "https://suumo.jp/chintai/jnc_000100648697/?bc=100507028044",
+    "text": "アレスバルト来光川",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000083737081/?bc=100479245128|クリア函南": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-30",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 3.6,
+    "area_sqm": 22.4,
+    "url": "https://suumo.jp/chintai/jnc_000083737081/?bc=100479245128",
+    "text": "クリア函南",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 賃貸 田方郡（函南町）"
+  },
+  "https://suumo.jp/chintai/jnc_000105267497/?bc=100522327733|Ｘ－ＭＡＸ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
     "location": "静岡県田方郡函南町間宮",
     "price_man": 3.35,
     "area_sqm": 20.2,
-    "url": "https://suumo.jp/chintai/jnc_000105267497/?bc=100522351963",
+    "url": "https://suumo.jp/chintai/jnc_000105267497/?bc=100522327733",
     "text": "Ｘ－ＭＡＸ",
-    "removed_on": "2026-10-30",
+    "removed_on": "2026-10-31",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000110511511/?bc=100514109777|クリーンハイツ": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-10-29",
+  "https://suumo.jp/chintai/jnc_000110511511/?bc=100424883584|クリーンハイツ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
     "location": "静岡県田方郡函南町柏谷",
     "price_man": 2.5,
     "area_sqm": 31.8,
-    "url": "https://suumo.jp/chintai/jnc_000110511511/?bc=100514109777",
+    "url": "https://suumo.jp/chintai/jnc_000110511511/?bc=100424883584",
     "text": "クリーンハイツ",
-    "removed_on": "2026-10-30",
+    "removed_on": "2026-10-31",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   }
 }

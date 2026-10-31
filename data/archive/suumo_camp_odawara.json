@@ -538,17 +538,6 @@
     "removed_on": "2026-10-16",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78490928/|(株)三心　久野 三京窪　A区画 67.16坪  南ひな壇、陽当り景観良好": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-16",
-    "location": "神奈川県小田原市久野",
-    "price_man": 1450,
-    "area_sqm": 246.2,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78490928/",
-    "text": "(株)三心　久野 三京窪　A区画 67.16坪  南ひな壇、陽当り景観良好",
-    "removed_on": "2026-10-17",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21585463/|酒匂５（鴨宮駅） 2580万円": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-16",
@@ -813,15 +802,70 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21990734/|都心アクセス×歴史×自然　建築条件なし！": {
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/|土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。": {
+    "first_seen": "2026-09-17",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市鬼柳",
+    "price_man": 980,
+    "area_sqm": 218.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/",
+    "text": "土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78232477/|敷地広々42坪～46坪の全7区画の分譲地が誕生！栢山駅徒歩10分！！": {
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-29",
-    "location": "神奈川県小田原市南町３",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市栢山3247-1",
+    "price_man": 1500,
+    "area_sqm": 144.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78232477/",
+    "text": "敷地広々42坪～46坪の全7区画の分譲地が誕生！栢山駅徒歩10分！！",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/|土地面積46.13坪の整形地です。お好きなハウスメーカーで建築可能です！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市飯泉",
+    "price_man": 1680,
+    "area_sqm": 152.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/",
+    "text": "土地面積46.13坪の整形地です。お好きなハウスメーカーで建築可能です！",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/|土地50坪以上、角地、平坦地、建築条件なし、駅まで平坦、田園風景": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市堀之内",
     "price_man": 2400,
-    "area_sqm": 142.4,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21990734/",
-    "text": "都心アクセス×歴史×自然　建築条件なし！",
-    "removed_on": "2026-10-30",
+    "area_sqm": 214.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/",
+    "text": "土地50坪以上、角地、平坦地、建築条件なし、駅まで平坦、田園風景",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/|■建築条件なしの土地です。■お好きなハウスメーカーで建築可能です。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市栄町１",
+    "price_man": 3180,
+    "area_sqm": 108.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/",
+    "text": "■建築条件なしの土地です。■お好きなハウスメーカーで建築可能です。",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20948139/|扇町２（井細田駅） 2億2800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県小田原市扇町２",
+    "price_man": 22800,
+    "area_sqm": 1877.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20948139/",
+    "text": "扇町２（井細田駅） 2億2800万円",
+    "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

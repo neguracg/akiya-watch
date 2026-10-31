@@ -515,5 +515,27 @@
     "text": "駅徒歩圏×生活便利。自由設計可能な静海町の売地",
     "removed_on": "2026-10-28",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78581075/|富戸（城ヶ崎海岸駅） 950万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県伊東市富戸",
+    "price_man": 950,
+    "area_sqm": 370.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78581075/",
+    "text": "富戸（城ヶ崎海岸駅） 950万円",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/|城ケ崎大型用地【デグチステート】～伊東市～": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-30",
+    "location": "静岡県伊東市富戸",
+    "price_man": 29500,
+    "area_sqm": 66341.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/",
+    "text": "城ケ崎大型用地【デグチステート】～伊東市～",
+    "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

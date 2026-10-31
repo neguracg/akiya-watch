@@ -714,17 +714,6 @@
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 秦野市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79062105/|秦野市本町１丁目のうりちで65.15坪の広さ！駅まで450m！": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-24",
-    "location": "神奈川県秦野市本町１-11番地23号",
-    "price_man": 4560,
-    "area_sqm": 215.4,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_79062105/",
-    "text": "秦野市本町１丁目のうりちで65.15坪の広さ！駅まで450m！",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 土地 秦野市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21452287/|千村５（渋沢駅） 780万円": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-24",
@@ -811,6 +800,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21476138/",
     "text": "今泉（秦野駅） 1898万円",
     "removed_on": "2026-10-30",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_76657644/|北矢名（東海大学前駅） 800万円": {
+    "first_seen": "2026-10-08",
+    "last_seen": "2026-10-30",
+    "location": "神奈川県秦野市北矢名",
+    "price_man": 800,
+    "area_sqm": 203.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_76657644/",
+    "text": "北矢名（東海大学前駅） 800万円",
+    "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 秦野市"
   }
 }
