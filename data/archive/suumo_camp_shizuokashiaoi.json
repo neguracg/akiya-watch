@@ -263,17 +263,6 @@
     "removed_on": "2026-09-18",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20380458/|羽鳥５ 2400万円": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-09-17",
-    "location": "静岡県静岡市葵区羽鳥５-1101番8",
-    "price_man": 2400,
-    "area_sqm": 195.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20380458/",
-    "text": "羽鳥５ 2400万円",
-    "removed_on": "2026-09-18",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21330900/|城北２ 2980万円": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-20",
@@ -1165,17 +1154,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20752445/|山崎１ 1250万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-28",
-    "location": "静岡県静岡市葵区山崎１(地番8-4)",
-    "price_man": 1250,
-    "area_sqm": 112.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20752445/",
-    "text": "山崎１ 1250万円",
-    "removed_on": "2026-10-29",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21300987/|【積水ハウス】葵区大岩本町、あと1区71.15坪。安東小徒歩12分。安東中徒歩14分": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-30",
@@ -1207,6 +1185,50 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20990501/",
     "text": "●〇アトモ〇●ご内覧承ります♪お気軽にお問合せください♪",
     "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21151302/|北番町（新静岡駅） 1100万円": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "location": "静岡県静岡市葵区北番町地番135-13",
+    "price_man": 1100,
+    "area_sqm": 66.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21151302/",
+    "text": "北番町（新静岡駅） 1100万円",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21804724/|葵区松富3丁目に、百年住宅で叶える住まいにぴったりの売土地が登場！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
+    "location": "静岡県静岡市葵区松富３",
+    "price_man": 1750,
+    "area_sqm": 116.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21804724/",
+    "text": "葵区松富3丁目に、百年住宅で叶える住まいにぴったりの売土地が登場！",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21593694/|新富町３ 3300万円": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "location": "静岡県静岡市葵区新富町３-2",
+    "price_man": 3300,
+    "area_sqm": 248.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21593694/",
+    "text": "新富町３ 3300万円",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21059913/|北安東１ 3670万円": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "location": "静岡県静岡市葵区北安東１-7-12（地番675-5）",
+    "price_man": 3670,
+    "area_sqm": 187.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21059913/",
+    "text": "北安東１ 3670万円",
+    "removed_on": "2026-11-01",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

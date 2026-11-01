@@ -2078,17 +2078,6 @@
     "removed_on": "2026-10-21",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_75920486/|本松下（沼津駅） 1230万円": {
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-20",
-    "location": "静岡県沼津市本松下",
-    "price_man": 1230,
-    "area_sqm": 176.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_75920486/",
-    "text": "本松下（沼津駅） 1230万円",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 土地 沼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_78345343/|通勤通学に◎な興国寺通り近くの物件です。原駅徒歩約19分、国一車約3分": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
@@ -2538,6 +2527,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_73849716/",
     "text": "沼津の中心街近く。徒歩で市役所約6分、ドラッグストア約6分、沼津駅約16分",
     "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74312427/|東熊堂（沼津駅） 1980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
+    "location": "静岡県沼津市東熊堂",
+    "price_man": 1980,
+    "area_sqm": 487.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_74312427/",
+    "text": "東熊堂（沼津駅） 1980万円",
+    "removed_on": "2026-11-01",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

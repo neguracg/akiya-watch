@@ -417,15 +417,26 @@
     "removed_on": "2026-10-28",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001953/|伊豆の国市奈古谷　中古戸建": {
-    "first_seen": "2026-09-01",
-    "last_seen": "2026-10-30",
-    "location": "伊豆の国市奈古谷　中古戸建",
+  "https://www.homes.co.jp/kodate/b-1316560005060/|伊豆の国市原木　中古戸建": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-10-31",
+    "location": "伊豆の国市原木　中古戸建",
+    "price_man": 2180,
+    "area_sqm": 170.1,
+    "url": "https://www.homes.co.jp/kodate/b-1316560005060/",
+    "text": "伊豆の国市原木　中古戸建",
+    "removed_on": "2026-11-01",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33310640001151/|伊豆富士見高原小松ヶ原": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "location": "伊豆富士見高原小松ヶ原",
     "price_man": 880,
     "area_sqm": 209.0,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001953/",
-    "text": "伊豆の国市奈古谷　中古戸建",
-    "removed_on": "2026-10-31",
+    "url": "https://www.homes.co.jp/kodate/b-33310640001151/",
+    "text": "伊豆富士見高原小松ヶ原",
+    "removed_on": "2026-11-01",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

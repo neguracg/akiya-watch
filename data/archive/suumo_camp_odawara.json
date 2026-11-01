@@ -802,17 +802,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/|土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。": {
-    "first_seen": "2026-09-17",
-    "last_seen": "2026-10-30",
-    "location": "神奈川県小田原市鬼柳",
-    "price_man": 980,
-    "area_sqm": 218.9,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/",
-    "text": "土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78232477/|敷地広々42坪～46坪の全7区画の分譲地が誕生！栢山駅徒歩10分！！": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-30",
@@ -866,6 +855,39 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20948139/",
     "text": "扇町２（井細田駅） 2億2800万円",
     "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21864631/|敷地広々約50坪以上の整形地。二駅利用可能です！！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県小田原市小台",
+    "price_man": 1530,
+    "area_sqm": 165.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21864631/",
+    "text": "敷地広々約50坪以上の整形地。二駅利用可能です！！",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21629805/|【当日予約OK・本日見学可能】31(土)・11/1(日)現地集合・平日も可": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県小田原市国府津2731",
+    "price_man": 2180,
+    "area_sqm": 155.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21629805/",
+    "text": "【当日予約OK・本日見学可能】31(土)・11/1(日)現地集合・平日も可",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/|☆各線「小田原」駅徒歩11分☆建築条件なし売地": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県小田原市扇町１",
+    "price_man": 2380,
+    "area_sqm": 141.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21898944/",
+    "text": "☆各線「小田原」駅徒歩11分☆建築条件なし売地",
+    "removed_on": "2026-11-01",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

@@ -812,5 +812,38 @@
     "text": "北矢名（東海大学前駅） 800万円",
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21485990/|名古木 900万円": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県秦野市名古木",
+    "price_man": 900,
+    "area_sqm": 219.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21485990/",
+    "text": "名古木 900万円",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21469699/|堀西（渋沢駅） 900万円": {
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県秦野市堀西",
+    "price_man": 900,
+    "area_sqm": 234.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21469699/",
+    "text": "堀西（渋沢駅） 900万円",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_77638907/|東田原 980万円": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-10-31",
+    "location": "神奈川県秦野市東田原",
+    "price_man": 980,
+    "area_sqm": 214.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_77638907/",
+    "text": "東田原 980万円",
+    "removed_on": "2026-11-01",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }
