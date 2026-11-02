@@ -494,17 +494,6 @@
     "removed_on": "2026-10-31",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300000140001173006414/|ヴィオラ N": {
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市長伏",
-    "price_man": 5.3,
-    "area_sqm": 31.0,
-    "url": "https://www.eheya.net/detail/300000140001173006414/",
-    "text": "ヴィオラ N",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300001603005363000001/|プリムローズB": {
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
@@ -513,17 +502,6 @@
     "area_sqm": 39.7,
     "url": "https://www.eheya.net/detail/300001603005363000001/",
     "text": "プリムローズB",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300000142004524000001/|シティハイムスズキ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市大場",
-    "price_man": 4.0,
-    "area_sqm": 38.9,
-    "url": "https://www.eheya.net/detail/300000142004524000001/",
-    "text": "シティハイムスズキ",
     "removed_on": "2026-11-01",
     "site_name": "いい部屋ネット 三島市"
   },
@@ -538,61 +516,6 @@
     "removed_on": "2026-11-01",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300000142004635000001/|祖谷形の杜 3番館": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市壱町田",
-    "price_man": 3.6,
-    "area_sqm": 27.1,
-    "url": "https://www.eheya.net/detail/300000142004635000001/",
-    "text": "祖谷形の杜 3番館",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300059832003055000010/|グランドゥール壱町田": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市壱町田",
-    "price_man": 6.9,
-    "area_sqm": 31.1,
-    "url": "https://www.eheya.net/detail/300059832003055000010/",
-    "text": "グランドゥール壱町田",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300059832003406000001/|(仮称)三島市萩新築長屋住宅": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市萩",
-    "price_man": 11.0,
-    "area_sqm": 85.3,
-    "url": "https://www.eheya.net/detail/300059832003406000001/",
-    "text": "(仮称)三島市萩新築長屋住宅",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300059832003406000002/|(仮称)三島市萩新築長屋住宅": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市萩",
-    "price_man": 11.0,
-    "area_sqm": 85.3,
-    "url": "https://www.eheya.net/detail/300059832003406000002/",
-    "text": "(仮称)三島市萩新築長屋住宅",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300059832003406000003/|(仮称)三島市萩新築長屋住宅": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市萩",
-    "price_man": 11.0,
-    "area_sqm": 85.3,
-    "url": "https://www.eheya.net/detail/300059832003406000003/",
-    "text": "(仮称)三島市萩新築長屋住宅",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300059832001204000004/|パストラルKー1": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-31",
@@ -602,6 +525,61 @@
     "url": "https://www.eheya.net/detail/300059832001204000004/",
     "text": "パストラルKー1",
     "removed_on": "2026-11-01",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142001906000010/|コンフォート ヴィラ": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "location": "静岡県三島市徳倉４丁目",
+    "price_man": 5.9,
+    "area_sqm": 33.6,
+    "url": "https://www.eheya.net/detail/300000142001906000010/",
+    "text": "コンフォート ヴィラ",
+    "removed_on": "2026-11-02",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004662000002/|メゾン東本町": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-01",
+    "location": "静岡県三島市東本町２丁目",
+    "price_man": 7.0,
+    "area_sqm": 63.6,
+    "url": "https://www.eheya.net/detail/300000142004662000002/",
+    "text": "メゾン東本町",
+    "removed_on": "2026-11-02",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140000563001576/|コウハイムⅠ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-01",
+    "location": "静岡県三島市壱町田",
+    "price_man": 4.5,
+    "area_sqm": 32.9,
+    "url": "https://www.eheya.net/detail/300000140000563001576/",
+    "text": "コウハイムⅠ",
+    "removed_on": "2026-11-02",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140000816003624/|プリムローズKM": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-01",
+    "location": "静岡県三島市中島",
+    "price_man": 5.45,
+    "area_sqm": 33.3,
+    "url": "https://www.eheya.net/detail/300000140000816003624/",
+    "text": "プリムローズKM",
+    "removed_on": "2026-11-02",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000223000001/|フルハウスK A": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-01",
+    "location": "静岡県三島市中",
+    "price_man": 6.0,
+    "area_sqm": 55.5,
+    "url": "https://www.eheya.net/detail/300001603000223000001/",
+    "text": "フルハウスK A",
+    "removed_on": "2026-11-02",
     "site_name": "いい部屋ネット 三島市"
   }
 }

@@ -845,5 +845,16 @@
     "text": "東田原 980万円",
     "removed_on": "2026-11-01",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78596526/|南が丘５（秦野駅） 1880万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-01",
+    "location": "神奈川県秦野市南が丘５",
+    "price_man": 1880,
+    "area_sqm": 239.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_78596526/",
+    "text": "南が丘５（秦野駅） 1880万円",
+    "removed_on": "2026-11-02",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

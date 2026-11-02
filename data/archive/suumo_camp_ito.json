@@ -537,5 +537,16 @@
     "text": "城ケ崎大型用地【デグチステート】～伊東市～",
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71739867/|川奈（川奈駅） 800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-01",
+    "location": "静岡県伊東市川奈1315-9他",
+    "price_man": 800,
+    "area_sqm": 187.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71739867/",
+    "text": "川奈（川奈駅） 800万円",
+    "removed_on": "2026-11-02",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

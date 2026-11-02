@@ -603,5 +603,16 @@
     "text": "桜堤３（長泉なめり駅） 3580万円",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22071620/|中土狩（下土狩駅） 3780万円": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-01",
+    "location": "静岡県駿東郡長泉町中土狩",
+    "price_man": 3780,
+    "area_sqm": 165.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22071620/",
+    "text": "中土狩（下土狩駅） 3780万円",
+    "removed_on": "2026-11-02",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }
