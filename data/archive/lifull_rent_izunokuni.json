@@ -2033,5 +2033,16 @@
     "text": "ドルチェ伊豆長岡",
     "removed_on": "2026-11-02",
     "site_name": "LIFULL 賃貸 伊豆の国市"
+  },
+  "https://www.homes.co.jp/chintai/room/98d751ead69fd810b139ffca1ddae22602212ff6/|セジュール　Ｂ棟": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-02",
+    "location": "静岡県伊豆の国市三福",
+    "price_man": 7.5,
+    "area_sqm": 58.4,
+    "url": "https://www.homes.co.jp/chintai/room/98d751ead69fd810b139ffca1ddae22602212ff6/",
+    "text": "セジュール　Ｂ棟",
+    "removed_on": "2026-11-03",
+    "site_name": "LIFULL 賃貸 伊豆の国市"
   }
 }

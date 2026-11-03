@@ -527,17 +527,6 @@
     "removed_on": "2026-11-02",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1475010001944/|沼津市原　中古一戸建て": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-11-01",
-    "location": "沼津市原　中古一戸建て",
-    "price_man": 2480,
-    "area_sqm": 128.6,
-    "url": "https://www.homes.co.jp/kodate/b-1475010001944/",
-    "text": "沼津市原　中古一戸建て",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1490460002477/|沼津市沼北町第4　全4棟　3号棟": {
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
@@ -547,6 +536,17 @@
     "url": "https://www.homes.co.jp/kodate/b-1490460002477/",
     "text": "沼津市沼北町第4　全4棟　3号棟",
     "removed_on": "2026-11-02",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1316560005088/|沼津市西添町　中古戸建": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-02",
+    "location": "沼津市西添町　中古戸建",
+    "price_man": 2480,
+    "area_sqm": 128.6,
+    "url": "https://www.homes.co.jp/kodate/b-1316560005088/",
+    "text": "沼津市西添町　中古戸建",
+    "removed_on": "2026-11-03",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

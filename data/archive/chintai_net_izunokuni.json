@@ -229,5 +229,16 @@
     "text": "フォーブルホリエ（Ａ・Ｂ）",
     "removed_on": "2026-10-31",
     "site_name": "CHINTAI 伊豆の国市"
+  },
+  "https://www.chintai.net/detail/bk-C030007890000000001042160001/|伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築29年": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-02",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 3.7,
+    "area_sqm": 36.4,
+    "url": "https://www.chintai.net/detail/bk-C030007890000000001042160001/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆長岡駅 2階建 築29年",
+    "removed_on": "2026-11-03",
+    "site_name": "CHINTAI 伊豆の国市"
   }
 }

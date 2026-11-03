@@ -186,17 +186,6 @@
     "removed_on": "2026-09-28",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|働き盛りに！コンビニ徒歩約5分、スーパードラッグストアが車10分圏内に充実": {
-    "first_seen": "2026-09-26",
-    "last_seen": "2026-09-28",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "働き盛りに！コンビニ徒歩約5分、スーパードラッグストアが車10分圏内に充実",
-    "removed_on": "2026-09-29",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20900792/|【デグチエステート】山本横巻土地建築条件なし！自由に建築会社を選べます": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-29",
@@ -547,6 +536,138 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77584686/",
     "text": "小泉（源道寺駅） 700万円",
     "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_91930881/|高台の閑静な住宅地です！現地から富士山が綺麗に見えます！": {
+    "first_seen": "2026-09-13",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市黒田",
+    "price_man": 250,
+    "area_sqm": 189.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_91930881/",
+    "text": "高台の閑静な住宅地です！現地から富士山が綺麗に見えます！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20446342/|スーパー・ドラッグストア近くで買物便利な立地です！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市小泉",
+    "price_man": 580,
+    "area_sqm": 162.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20446342/",
+    "text": "スーパー・ドラッグストア近くで買物便利な立地です！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地約68坪の豊かな暮らし！バス停「子安神社」徒歩約3分！コンビニ徒歩約5分": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "敷地約68坪の豊かな暮らし！バス停「子安神社」徒歩約3分！コンビニ徒歩約5分",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20890090/|青木平 650万円": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市青木平209",
+    "price_man": 650,
+    "area_sqm": 289.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_20890090/",
+    "text": "青木平 650万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_70222252/|敷地約８０坪のゆとりある土地！小・中学校近くで通学も安心です！": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市小泉",
+    "price_man": 1000,
+    "area_sqm": 266.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_70222252/",
+    "text": "敷地約８０坪のゆとりある土地！小・中学校近くで通学も安心です！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21274187/|上井出 1000万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市上井出",
+    "price_man": 1000,
+    "area_sqm": 667.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21274187/",
+    "text": "上井出 1000万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21646438/|小泉（富士宮駅） 1180万円": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市小泉1341-3",
+    "price_man": 1180,
+    "area_sqm": 219.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21646438/",
+    "text": "小泉（富士宮駅） 1180万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_70822008/|大岩（富士宮駅） 1180万円": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市大岩396-1",
+    "price_man": 1180,
+    "area_sqm": 1136.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_70822008/",
+    "text": "大岩（富士宮駅） 1180万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_97542890/|２方向道路の角地！閑静な住宅地です！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市小泉",
+    "price_man": 1238,
+    "area_sqm": 204.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_97542890/",
+    "text": "２方向道路の角地！閑静な住宅地です！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77234116/|山本（富士根駅） 1550万円": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市山本",
+    "price_man": 1550,
+    "area_sqm": 699.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77234116/",
+    "text": "山本（富士根駅） 1550万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_96704616/|大岩（富士宮駅） 5000万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市大岩",
+    "price_man": 5000,
+    "area_sqm": 1838.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_96704616/",
+    "text": "大岩（富士宮駅） 5000万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77926724/|住宅・アパート用地として利用可能な土地！約５００坪の広々とした敷地！": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県富士宮市東阿幸地",
+    "price_man": 8380,
+    "area_sqm": 1649.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77926724/",
+    "text": "住宅・アパート用地として利用可能な土地！約５００坪の広々とした敷地！",
+    "removed_on": "2026-11-03",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }

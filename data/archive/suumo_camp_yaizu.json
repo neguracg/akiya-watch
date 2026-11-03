@@ -372,5 +372,27 @@
     "text": "近隣にスーパーマーケットがあり生活至便良好です。",
     "removed_on": "2026-11-02",
     "site_name": "SUUMO 土地 焼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22010157/|小土（西焼津駅） 141万6000円": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-11-02",
+    "location": "静岡県焼津市小土",
+    "price_man": 141,
+    "area_sqm": 234.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22010157/",
+    "text": "小土（西焼津駅） 141万6000円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 焼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21471967/|▼建築条件なし▼約52坪▼間口10.7ｍ▼前面道路6.5ｍ▼住環境良好▼": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-02",
+    "location": "静岡県焼津市石津港町",
+    "price_man": 600,
+    "area_sqm": 171.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21471967/",
+    "text": "▼建築条件なし▼約52坪▼間口10.7ｍ▼前面道路6.5ｍ▼住環境良好▼",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 焼津市"
   }
 }

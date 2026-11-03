@@ -273,5 +273,16 @@
     "text": "長沢（大岡駅） 3700万円",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/|中徳倉 1980万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-02",
+    "location": "静岡県駿東郡清水町中徳倉",
+    "price_man": 1980,
+    "area_sqm": 164.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20303492/",
+    "text": "中徳倉 1980万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }

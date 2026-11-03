@@ -911,5 +911,49 @@
     "text": "整形地×115坪超。家族の理想を叶えるゆとりのステージ。",
     "removed_on": "2026-11-02",
     "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21927156/|小田原駅徒歩圏×土地1180万円！理想の住まいを城山に。": {
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-11-02",
+    "location": "神奈川県小田原市城山４",
+    "price_man": 1180,
+    "area_sqm": 121.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21927156/",
+    "text": "小田原駅徒歩圏×土地1180万円！理想の住まいを城山に。",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21486118/|お好きなハウスメーカーで建築できます！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-02",
+    "location": "神奈川県小田原市小八幡２-24-25",
+    "price_man": 2500,
+    "area_sqm": 156.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21486118/",
+    "text": "お好きなハウスメーカーで建築できます！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21486098/|お好きなハウスメーカーで建築できます！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-02",
+    "location": "神奈川県小田原市成田467-6他",
+    "price_man": 4280,
+    "area_sqm": 406.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21486098/",
+    "text": "お好きなハウスメーカーで建築できます！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21594052/|南町２（小田原駅） 8380万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-02",
+    "location": "神奈川県小田原市南町２",
+    "price_man": 8380,
+    "area_sqm": 207.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21594052/",
+    "text": "南町２（小田原駅） 8380万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 小田原市"
   }
 }

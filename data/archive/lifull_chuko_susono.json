@@ -230,17 +230,6 @@
     "removed_on": "2026-10-02",
     "site_name": "LIFULL 中古戸建 裾野市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001868/|裾野市公文名　中古戸建": {
-    "first_seen": "2026-10-13",
-    "last_seen": "2026-10-13",
-    "location": "裾野市公文名　中古戸建",
-    "price_man": 1780,
-    "area_sqm": 243.7,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001868/",
-    "text": "裾野市公文名　中古戸建",
-    "removed_on": "2026-10-14",
-    "site_name": "LIFULL 中古戸建 裾野市"
-  },
   "https://www.homes.co.jp/kodate/b-33329470000046/|JR御殿場線 裾野駅 徒歩9分": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-14",
@@ -261,17 +250,6 @@
     "url": "https://www.homes.co.jp/kodate/b-1220300000757/",
     "text": "裾野市佐野　戸建て",
     "removed_on": "2026-10-17",
-    "site_name": "LIFULL 中古戸建 裾野市"
-  },
-  "https://www.homes.co.jp/kodate/b-1443010007452/|裾野市千福が丘1丁目": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-24",
-    "location": "裾野市千福が丘1丁目",
-    "price_man": 1398,
-    "area_sqm": 206.6,
-    "url": "https://www.homes.co.jp/kodate/b-1443010007452/",
-    "text": "裾野市千福が丘1丁目",
-    "removed_on": "2026-10-25",
     "site_name": "LIFULL 中古戸建 裾野市"
   },
   "https://www.homes.co.jp/kodate/b-33323360001161/|JR御殿場線 裾野駅 徒歩25分": {
@@ -316,6 +294,39 @@
     "url": "https://www.homes.co.jp/kodate/b-33326400000193/",
     "text": "JR御殿場線 裾野駅 6.1km",
     "removed_on": "2026-11-02",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001961/|裾野市呼子2丁目　中古戸建": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-02",
+    "location": "裾野市呼子2丁目　中古戸建",
+    "price_man": 1780,
+    "area_sqm": 218.0,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001961/",
+    "text": "裾野市呼子2丁目　中古戸建",
+    "removed_on": "2026-11-03",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1220300000778/|裾野市佐野　戸建て": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-11-02",
+    "location": "裾野市佐野　戸建て",
+    "price_man": 1999,
+    "area_sqm": 166.1,
+    "url": "https://www.homes.co.jp/kodate/b-1220300000778/",
+    "text": "裾野市佐野　戸建て",
+    "removed_on": "2026-11-03",
+    "site_name": "LIFULL 中古戸建 裾野市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001959/|裾野市茶畑　中古戸建": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-02",
+    "location": "裾野市茶畑　中古戸建",
+    "price_man": 1080,
+    "area_sqm": 145.5,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001959/",
+    "text": "裾野市茶畑　中古戸建",
+    "removed_on": "2026-11-03",
     "site_name": "LIFULL 中古戸建 裾野市"
   }
 }

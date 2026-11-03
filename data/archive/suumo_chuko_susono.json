@@ -967,15 +967,26 @@
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/|千福が丘３（岩波駅） 1380万円": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-30",
-    "location": "静岡県裾野市千福が丘３",
-    "price_man": 1380,
-    "area_sqm": 395.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21244616/",
-    "text": "千福が丘３（岩波駅） 1380万円",
-    "removed_on": "2026-10-31",
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79095838/|裾野市千福が丘のリノベーション物件！": {
+    "first_seen": "2026-06-21",
+    "last_seen": "2026-11-02",
+    "location": "静岡県裾野市千福が丘１",
+    "price_man": 1398,
+    "area_sqm": 206.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79095838/",
+    "text": "裾野市千福が丘のリノベーション物件！",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21937752/|【見学会開催】自社売主物件につき随時内覧可能です。【リフォーム内容】植": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-02",
+    "location": "静岡県裾野市佐野676-17",
+    "price_man": 1999,
+    "area_sqm": 166.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21937752/",
+    "text": "【見学会開催】自社売主物件につき随時内覧可能です。【リフォーム内容】植",
+    "removed_on": "2026-11-03",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

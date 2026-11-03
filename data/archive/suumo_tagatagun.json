@@ -240,5 +240,27 @@
     "text": "桑原（函南駅） 4800万円",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/|柏谷（伊豆仁田駅） 980万円": {
+    "first_seen": "2026-09-01",
+    "last_seen": "2026-11-02",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 980,
+    "area_sqm": 165.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78717756/",
+    "text": "柏谷（伊豆仁田駅） 980万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78328544/|大竹（函南駅） 1880万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-02",
+    "location": "静岡県田方郡函南町大竹",
+    "price_man": 1880,
+    "area_sqm": 263.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_78328544/",
+    "text": "大竹（函南駅） 1880万円",
+    "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 田方郡（函南）"
   }
 }

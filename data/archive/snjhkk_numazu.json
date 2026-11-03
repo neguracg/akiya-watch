@@ -560,15 +560,26 @@
     "removed_on": "2026-10-30",
     "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_59734/|静岡県沼津市岡一色": {
+  "https://www.snjhkk.com/s_r_59799/|静岡県沼津市下香貫木ノ宮": {
     "first_seen": "2026-10-23",
-    "last_seen": "2026-10-31",
-    "location": "静岡県沼津市岡一色",
-    "price_man": 1990,
-    "area_sqm": null,
-    "url": "https://www.snjhkk.com/s_r_59734/",
-    "text": "静岡県沼津市岡一色",
-    "removed_on": "2026-11-01",
+    "last_seen": "2026-11-02",
+    "location": "静岡県沼津市下香貫木ノ宮",
+    "price_man": 2480,
+    "area_sqm": 137.1,
+    "url": "https://www.snjhkk.com/s_r_59799/",
+    "text": "静岡県沼津市下香貫木ノ宮",
+    "removed_on": "2026-11-03",
+    "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_59797/|静岡県沼津市西熊堂": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-02",
+    "location": "静岡県沼津市西熊堂",
+    "price_man": 2699,
+    "area_sqm": 245.6,
+    "url": "https://www.snjhkk.com/s_r_59797/",
+    "text": "静岡県沼津市西熊堂",
+    "removed_on": "2026-11-03",
     "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
   }
 }
