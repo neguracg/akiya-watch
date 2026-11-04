@@ -4718,17 +4718,6 @@
     "removed_on": "2026-11-01",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-89420000424/|沼津市高沢町 (沼津駅)": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-11-01",
-    "location": "沼津市高沢町 (沼津駅)",
-    "price_man": 5180,
-    "area_sqm": 332.7,
-    "url": "https://www.homes.co.jp/tochi/b-89420000424/",
-    "text": "沼津市高沢町 (沼津駅)",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 土地 沼津市"
-  },
   "https://www.homes.co.jp/tochi/b-33303690000070/|沼津市青野 (原駅)": {
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-02",
@@ -4793,6 +4782,17 @@
     "url": "https://www.homes.co.jp/tochi/b-33312110000022/",
     "text": "沼津市五月町",
     "removed_on": "2026-11-03",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33334000000003/|沼津市岡宮 (大岡駅)": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "location": "沼津市岡宮 (大岡駅)",
+    "price_man": 1580,
+    "area_sqm": 165.4,
+    "url": "https://www.homes.co.jp/tochi/b-33334000000003/",
+    "text": "沼津市岡宮 (大岡駅)",
+    "removed_on": "2026-11-04",
     "site_name": "LIFULL 土地 沼津市"
   }
 }

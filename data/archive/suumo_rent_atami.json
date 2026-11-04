@@ -2495,5 +2495,16 @@
     "text": "熱海スカイハイツ",
     "removed_on": "2026-11-03",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000108767528/?bc=100518749746|熱海プラザ": {
+    "first_seen": "2026-08-25",
+    "last_seen": "2026-11-03",
+    "location": "静岡県熱海市春日町",
+    "price_man": 19.0,
+    "area_sqm": 100.2,
+    "url": "https://suumo.jp/chintai/jnc_000108767528/?bc=100518749746",
+    "text": "熱海プラザ",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

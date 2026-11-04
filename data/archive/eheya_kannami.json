@@ -295,5 +295,38 @@
     "text": "KMT沙稀（ｹｲｴﾑﾃｨｻｷ）",
     "removed_on": "2026-11-03",
     "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142003261000004/|ヴィル・スクエア": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.1,
+    "area_sqm": 62.1,
+    "url": "https://www.eheya.net/detail/300000142003261000004/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142002238000009/|レジェンド A": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://www.eheya.net/detail/300000142002238000009/",
+    "text": "レジェンド A",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142002159000010/|メルベーユS / プロシードS プロシードS": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 7.6,
+    "area_sqm": 58.1,
+    "url": "https://www.eheya.net/detail/300000142002159000010/",
+    "text": "メルベーユS / プロシードS プロシードS",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 田方郡函南町"
   }
 }

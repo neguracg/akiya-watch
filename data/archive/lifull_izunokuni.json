@@ -2496,28 +2496,6 @@
     "removed_on": "2026-10-31",
     "site_name": "LIFULL 土地 伊豆の国市"
   },
-  "https://www.homes.co.jp/tochi/b-33316480000102/|伊豆の国市原木 (原木駅)": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-11-01",
-    "location": "伊豆の国市原木 (原木駅)",
-    "price_man": 950,
-    "area_sqm": 165.5,
-    "url": "https://www.homes.co.jp/tochi/b-33316480000102/",
-    "text": "伊豆の国市原木 (原木駅)",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 土地 伊豆の国市"
-  },
-  "https://www.homes.co.jp/tochi/b-33311850000189/|伊豆の国市奈古谷小松ケ原": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-11-01",
-    "location": "伊豆の国市奈古谷小松ケ原",
-    "price_man": 680,
-    "area_sqm": 337.0,
-    "url": "https://www.homes.co.jp/tochi/b-33311850000189/",
-    "text": "伊豆の国市奈古谷小松ケ原",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 土地 伊豆の国市"
-  },
   "https://www.homes.co.jp/tochi/b-39046610000081/|伊豆の国市御門 (田京駅)": {
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
@@ -2681,6 +2659,28 @@
     "url": "https://www.homes.co.jp/tochi/b-33317490000154/",
     "text": "伊豆の国市古奈 (伊豆長岡駅)",
     "removed_on": "2026-11-03",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-33332300000036/|伊豆の国市北江間 (伊豆箱根バス)": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-03",
+    "location": "伊豆の国市北江間 (伊豆箱根バス)",
+    "price_man": 750,
+    "area_sqm": 366.2,
+    "url": "https://www.homes.co.jp/tochi/b-33332300000036/",
+    "text": "伊豆の国市北江間 (伊豆箱根バス)",
+    "removed_on": "2026-11-04",
+    "site_name": "LIFULL 土地 伊豆の国市"
+  },
+  "https://www.homes.co.jp/tochi/b-33313200000024/|伊豆の国市大仁 (大仁駅)": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-03",
+    "location": "伊豆の国市大仁 (大仁駅)",
+    "price_man": 1350,
+    "area_sqm": 443.7,
+    "url": "https://www.homes.co.jp/tochi/b-33313200000024/",
+    "text": "伊豆の国市大仁 (大仁駅)",
+    "removed_on": "2026-11-04",
     "site_name": "LIFULL 土地 伊豆の国市"
   }
 }

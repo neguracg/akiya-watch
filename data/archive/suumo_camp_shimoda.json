@@ -9,5 +9,38 @@
     "text": "生活便利",
     "removed_on": "2026-10-24",
     "site_name": "SUUMO 土地 下田市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_79192897/|蓮台寺 400万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-03",
+    "location": "静岡県下田市蓮台寺",
+    "price_man": 400,
+    "area_sqm": 132.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_79192897/",
+    "text": "蓮台寺 400万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 下田市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76546962/|六丁目 680万円": {
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-11-03",
+    "location": "静岡県下田市六丁目",
+    "price_man": 680,
+    "area_sqm": 148.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_76546962/",
+    "text": "六丁目 680万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 下田市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/|河内（蓮台寺駅） 880万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-03",
+    "location": "静岡県下田市河内",
+    "price_man": 880,
+    "area_sqm": 185.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shimoda/nc_21156185/",
+    "text": "河内（蓮台寺駅） 880万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 下田市"
   }
 }

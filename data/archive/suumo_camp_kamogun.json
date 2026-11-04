@@ -9,5 +9,49 @@
     "text": "下賀茂 480万円",
     "removed_on": "2026-08-01",
     "site_name": "SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_21858822/|稲取 500万円": {
+    "first_seen": "2026-10-05",
+    "last_seen": "2026-11-03",
+    "location": "静岡県賀茂郡東伊豆町稲取3011-269",
+    "price_man": 500,
+    "area_sqm": 236.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_21858822/",
+    "text": "稲取 500万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_77740246/|加納 620万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-03",
+    "location": "静岡県賀茂郡南伊豆町加納",
+    "price_man": 620,
+    "area_sqm": 256.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_77740246/",
+    "text": "加納 620万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_66521056/|川津筏場 2500万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-03",
+    "location": "静岡県賀茂郡河津町川津筏場",
+    "price_man": 2500,
+    "area_sqm": 811.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_66521056/",
+    "text": "川津筏場 2500万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_72755666/|稲取（伊豆稲取駅） 1億800万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-03",
+    "location": "静岡県賀茂郡東伊豆町稲取",
+    "price_man": 10800,
+    "area_sqm": 36898.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_72755666/",
+    "text": "稲取（伊豆稲取駅） 1億800万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 賀茂郡（西伊豆/東伊豆/南伊豆/河津/松崎）"
   }
 }

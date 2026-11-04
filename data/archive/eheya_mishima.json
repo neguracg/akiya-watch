@@ -757,5 +757,60 @@
     "text": "セントオーベル",
     "removed_on": "2026-11-03",
     "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005378000001/|セントオーベル": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "location": "静岡県三島市中",
+    "price_man": 4.3,
+    "area_sqm": 40.6,
+    "url": "https://www.eheya.net/detail/300001603005378000001/",
+    "text": "セントオーベル",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603001353000001/|M・F・N Eternity": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県三島市寿町",
+    "price_man": 14.0,
+    "area_sqm": 65.3,
+    "url": "https://www.eheya.net/detail/300001603001353000001/",
+    "text": "M・F・N Eternity",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002660000008/|リヴェールコッコロ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県三島市平田",
+    "price_man": 8.1,
+    "area_sqm": 58.4,
+    "url": "https://www.eheya.net/detail/300000142002660000008/",
+    "text": "リヴェールコッコロ",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142003589000003/|フルハウスK B": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県三島市中",
+    "price_man": 6.0,
+    "area_sqm": 55.5,
+    "url": "https://www.eheya.net/detail/300000142003589000003/",
+    "text": "フルハウスK B",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000326000001/|コーポラス21": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-03",
+    "location": "静岡県三島市西本町",
+    "price_man": 3.3,
+    "area_sqm": 20.2,
+    "url": "https://www.eheya.net/detail/300001603000326000001/",
+    "text": "コーポラス21",
+    "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
   }
 }

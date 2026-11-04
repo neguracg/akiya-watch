@@ -230,17 +230,6 @@
     "removed_on": "2026-11-03",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-33307280000062/|裾野市水窪 (長泉なめり駅)": {
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-02",
-    "location": "裾野市水窪 (長泉なめり駅)",
-    "price_man": 1580,
-    "area_sqm": 168.7,
-    "url": "https://www.homes.co.jp/tochi/b-33307280000062/",
-    "text": "裾野市水窪 (長泉なめり駅)",
-    "removed_on": "2026-11-03",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-33307280000058/|裾野市水窪 (長泉なめり駅)": {
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
@@ -305,6 +294,17 @@
     "url": "https://www.homes.co.jp/tochi/b-33318160000076/",
     "text": "裾野市茶畑 (裾野駅)",
     "removed_on": "2026-11-03",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1155020001875/|裾野市千福が丘3丁目": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-03",
+    "location": "裾野市千福が丘3丁目",
+    "price_man": 348,
+    "area_sqm": 789.5,
+    "url": "https://www.homes.co.jp/tochi/b-1155020001875/",
+    "text": "裾野市千福が丘3丁目",
+    "removed_on": "2026-11-04",
     "site_name": "LIFULL 土地 裾野市"
   }
 }

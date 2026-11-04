@@ -262,5 +262,60 @@
     "text": "大竹（函南駅） 1880万円",
     "removed_on": "2026-11-03",
     "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20324315/|平井 10万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 10,
+    "area_sqm": 286.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_20324315/",
+    "text": "平井 10万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_70153287/|畑南箱根ダイヤランド 300万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町畑南箱根ダイヤランド",
+    "price_man": 300,
+    "area_sqm": 268.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_70153287/",
+    "text": "畑南箱根ダイヤランド 300万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_22083403/|柏谷（伊豆仁田駅） 980万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 980,
+    "area_sqm": 165.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_22083403/",
+    "text": "柏谷（伊豆仁田駅） 980万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_22082089/|大竹（函南駅） 1880万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町大竹",
+    "price_man": 1880,
+    "area_sqm": 263.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_22082089/",
+    "text": "大竹（函南駅） 1880万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_74602978/|大土肥（大場駅） 6800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-03",
+    "location": "静岡県田方郡函南町大土肥222-1",
+    "price_man": 6800,
+    "area_sqm": 946.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_74602978/",
+    "text": "大土肥（大場駅） 6800万円",
+    "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 田方郡（函南）"
   }
 }
