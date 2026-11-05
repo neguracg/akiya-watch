@@ -3167,28 +3167,6 @@
     "removed_on": "2026-11-02",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/a51c85a977596d855b4c57248d82257befc21456/|ステラガーデン": {
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-11-01",
-    "location": "静岡県三島市平田",
-    "price_man": 7.7,
-    "area_sqm": 61.0,
-    "url": "https://www.homes.co.jp/chintai/room/a51c85a977596d855b4c57248d82257befc21456/",
-    "text": "ステラガーデン",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/b1f5a52f7e4f3105122fe13208dfecab1de0abe8/|ステラガーデン": {
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-11-01",
-    "location": "静岡県三島市平田",
-    "price_man": 6.6,
-    "area_sqm": 46.2,
-    "url": "https://www.homes.co.jp/chintai/room/b1f5a52f7e4f3105122fe13208dfecab1de0abe8/",
-    "text": "ステラガーデン",
-    "removed_on": "2026-11-02",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/02a28d289f1b849cdce84ea1aad80f07ecf4fe78/|ベルックスA": {
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
@@ -3363,6 +3341,17 @@
     "url": "https://www.homes.co.jp/chintai/room/3400c8f2b5b8294df600ee3c094c0a69104eaee7/",
     "text": "ヴェリテI",
     "removed_on": "2026-11-04",
+    "site_name": "LIFULL 賃貸 三島市"
+  },
+  "https://www.homes.co.jp/chintai/room/61a7e049269cc8d518bf3807d8742f8365c4942d/|パティオトテラス（メゾネット）": {
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "location": "静岡県三島市大場",
+    "price_man": 7.4,
+    "area_sqm": 69.5,
+    "url": "https://www.homes.co.jp/chintai/room/61a7e049269cc8d518bf3807d8742f8365c4942d/",
+    "text": "パティオトテラス（メゾネット）",
+    "removed_on": "2026-11-05",
     "site_name": "LIFULL 賃貸 三島市"
   }
 }

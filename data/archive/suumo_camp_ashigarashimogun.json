@@ -218,5 +218,16 @@
     "text": "元箱根 680万円",
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 土地 足柄下郡（箱根町・湯河原町）"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20645222/|仙石原 10億円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県足柄下郡箱根町仙石原",
+    "price_man": 100000,
+    "area_sqm": 5069.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20645222/",
+    "text": "仙石原 10億円",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 足柄下郡（箱根町・湯河原町）"
   }
 }

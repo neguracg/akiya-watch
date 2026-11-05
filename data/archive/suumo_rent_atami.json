@@ -2506,5 +2506,16 @@
     "text": "熱海プラザ",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 賃貸 熱海市"
+  },
+  "https://suumo.jp/chintai/jnc_000110021436/|熱海サニーハイツ": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-04",
+    "location": "静岡県熱海市海光町",
+    "price_man": 7.9,
+    "area_sqm": 40.0,
+    "url": "https://suumo.jp/chintai/jnc_000110021436/",
+    "text": "熱海サニーハイツ",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 賃貸 熱海市"
   }
 }

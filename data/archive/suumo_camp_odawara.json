@@ -1,15 +1,4 @@
 {
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21589970/|北ノ窪（相模沼田駅） 800万円": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-09-04",
-    "location": "神奈川県小田原市北ノ窪",
-    "price_man": 800,
-    "area_sqm": 210.0,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21589970/",
-    "text": "北ノ窪（相模沼田駅） 800万円",
-    "removed_on": "2026-09-05",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21282466/|☆全11区画の大型分譲地☆ダイナシティへのアクセス良好！！": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-09-04",
@@ -505,17 +494,6 @@
     "removed_on": "2026-10-14",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21904894/|板橋（箱根板橋駅） 3500万円": {
-    "first_seen": "2026-10-10",
-    "last_seen": "2026-10-15",
-    "location": "神奈川県小田原市板橋",
-    "price_man": 3500,
-    "area_sqm": 452.0,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21904894/",
-    "text": "板橋（箱根板橋駅） 3500万円",
-    "removed_on": "2026-10-16",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21676095/|土地面積238.67坪！建築条件無/解体更地渡しです♪": {
     "first_seen": "2026-09-10",
     "last_seen": "2026-10-15",
@@ -943,6 +921,72 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21594052/",
     "text": "南町２（小田原駅） 8380万円",
     "removed_on": "2026-11-03",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21589970/|建築条件なし！お好きなメーカーで建築可能！": {
+    "first_seen": "2026-09-05",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市北ノ窪",
+    "price_man": 800,
+    "area_sqm": 210.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21589970/",
+    "text": "建築条件なし！お好きなメーカーで建築可能！",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_76114837/|４４坪超のゆとりある住宅用地！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市東町３",
+    "price_man": 1580,
+    "area_sqm": 147.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_76114837/",
+    "text": "４４坪超のゆとりある住宅用地！",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21231273/|寿町２（小田原駅） 1980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市寿町２",
+    "price_man": 1980,
+    "area_sqm": 121.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21231273/",
+    "text": "寿町２（小田原駅） 1980万円",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78470838/|売主物件！箱根板橋駅徒歩約５分。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市板橋",
+    "price_man": 2500,
+    "area_sqm": 163.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78470838/",
+    "text": "売主物件！箱根板橋駅徒歩約５分。",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20821331/|小田原駅徒歩約７分！現駐車場としてのオーナーチェンジも可能◎": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市城山３",
+    "price_man": 3500,
+    "area_sqm": 447.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20821331/",
+    "text": "小田原駅徒歩約７分！現駐車場としてのオーナーチェンジも可能◎",
+    "removed_on": "2026-11-05",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21904894/|箱根板橋駅まで徒歩４分！利便性の良い立地が魅力！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-04",
+    "location": "神奈川県小田原市板橋",
+    "price_man": 3500,
+    "area_sqm": 452.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21904894/",
+    "text": "箱根板橋駅まで徒歩４分！利便性の良い立地が魅力！",
+    "removed_on": "2026-11-05",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

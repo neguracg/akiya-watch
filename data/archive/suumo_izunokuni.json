@@ -1176,17 +1176,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20504718/|伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-11-03",
-    "location": "静岡県伊豆の国市三福69-3他",
-    "price_man": 820,
-    "area_sqm": 109.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20504718/",
-    "text": "伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22083432/|大仁（大仁駅） 1080万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -1231,17 +1220,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 伊豆の国市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20609438/|伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！建築条件付": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-11-03",
-    "location": "静岡県伊豆の国市三福69-4",
-    "price_man": 1468,
-    "area_sqm": 165.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20609438/",
-    "text": "伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！建築条件付",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 伊豆の国市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72137058/|天野（伊豆長岡駅） 2480万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-11-03",
@@ -1273,6 +1251,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21863069/",
     "text": "南江間（韮山駅） 1億円",
     "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 伊豆の国市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20869771/|長岡 1980万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-04",
+    "location": "静岡県伊豆の国市長岡",
+    "price_man": 1980,
+    "area_sqm": 1316.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20869771/",
+    "text": "長岡 1980万円",
+    "removed_on": "2026-11-05",
     "site_name": "SUUMO 土地 伊豆の国市"
   }
 }
