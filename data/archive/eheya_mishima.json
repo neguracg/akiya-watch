@@ -98,72 +98,6 @@
     "removed_on": "2026-10-29",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300059832003374000001/|カーサセレーソ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市文教町１丁目",
-    "price_man": 5.0,
-    "area_sqm": 30.4,
-    "url": "https://www.eheya.net/detail/300059832003374000001/",
-    "text": "カーサセレーソ",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603000997000001/|エミネンスプラザ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市幸原町２丁目",
-    "price_man": 4.0,
-    "area_sqm": 23.2,
-    "url": "https://www.eheya.net/detail/300001603000997000001/",
-    "text": "エミネンスプラザ",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603001146000001/|言の葉": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市大宮町１丁目",
-    "price_man": 5.2,
-    "area_sqm": 27.2,
-    "url": "https://www.eheya.net/detail/300001603001146000001/",
-    "text": "言の葉",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603001012000001/|コーナスガーデン A": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市徳倉１丁目",
-    "price_man": 6.5,
-    "area_sqm": 66.2,
-    "url": "https://www.eheya.net/detail/300001603001012000001/",
-    "text": "コーナスガーデン A",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603001167000001/|シャンブルS": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市谷田",
-    "price_man": 3.5,
-    "area_sqm": 19.9,
-    "url": "https://www.eheya.net/detail/300001603001167000001/",
-    "text": "シャンブルS",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603001171000001/|グリーンプラザ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市緑町",
-    "price_man": 3.5,
-    "area_sqm": 18.8,
-    "url": "https://www.eheya.net/detail/300001603001171000001/",
-    "text": "グリーンプラザ",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300001603003619000001/|ヒルズ・若松町Ⅲ": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-29",
@@ -516,17 +450,6 @@
     "removed_on": "2026-11-01",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300059832001204000004/|パストラルKー1": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-31",
-    "location": "静岡県三島市若松町",
-    "price_man": 6.8,
-    "area_sqm": 59.3,
-    "url": "https://www.eheya.net/detail/300059832001204000004/",
-    "text": "パストラルKー1",
-    "removed_on": "2026-11-01",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300000142001906000010/|コンフォート ヴィラ": {
     "first_seen": "2026-11-01",
     "last_seen": "2026-11-01",
@@ -557,17 +480,6 @@
     "area_sqm": 32.9,
     "url": "https://www.eheya.net/detail/300000140000563001576/",
     "text": "コウハイムⅠ",
-    "removed_on": "2026-11-02",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300000140000816003624/|プリムローズKM": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-01",
-    "location": "静岡県三島市中島",
-    "price_man": 5.45,
-    "area_sqm": 33.3,
-    "url": "https://www.eheya.net/detail/300000140000816003624/",
-    "text": "プリムローズKM",
     "removed_on": "2026-11-02",
     "site_name": "いい部屋ネット 三島市"
   },
@@ -644,17 +556,6 @@
     "price_man": 6.5,
     "area_sqm": 66.2,
     "url": "https://www.eheya.net/detail/300001603003493000001/",
-    "text": "コーナスガーデン A",
-    "removed_on": "2026-11-03",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300059832002703000004/|コーナスガーデン A": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-02",
-    "location": "静岡県三島市徳倉１丁目",
-    "price_man": 6.5,
-    "area_sqm": 66.2,
-    "url": "https://www.eheya.net/detail/300059832002703000004/",
     "text": "コーナスガーデン A",
     "removed_on": "2026-11-03",
     "site_name": "いい部屋ネット 三島市"
@@ -811,6 +712,149 @@
     "url": "https://www.eheya.net/detail/300001603000326000001/",
     "text": "コーポラス21",
     "removed_on": "2026-11-04",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002703000005/|コーナスガーデンA": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市徳倉１丁目",
+    "price_man": 6.5,
+    "area_sqm": 66.2,
+    "url": "https://www.eheya.net/detail/300059832002703000005/",
+    "text": "コーナスガーデンA",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002703000004/|コーナスガーデンA": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市徳倉１丁目",
+    "price_man": 6.5,
+    "area_sqm": 66.2,
+    "url": "https://www.eheya.net/detail/300059832002703000004/",
+    "text": "コーナスガーデンA",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002703000003/|コーナスガーデンA": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市徳倉１丁目",
+    "price_man": 6.5,
+    "area_sqm": 66.2,
+    "url": "https://www.eheya.net/detail/300059832002703000003/",
+    "text": "コーナスガーデンA",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004635000001/|祖谷形の杜 3番館": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市壱町田",
+    "price_man": 3.6,
+    "area_sqm": 27.1,
+    "url": "https://www.eheya.net/detail/300000142004635000001/",
+    "text": "祖谷形の杜 3番館",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005372000001/|プリムローズKM": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市中島",
+    "price_man": 5.25,
+    "area_sqm": 36.8,
+    "url": "https://www.eheya.net/detail/300001603005372000001/",
+    "text": "プリムローズKM",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004555000001/|カーサセレーソ": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市文教町１丁目",
+    "price_man": 5.0,
+    "area_sqm": 30.4,
+    "url": "https://www.eheya.net/detail/300000142004555000001/",
+    "text": "カーサセレーソ",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002322000008/|アルコバレーノⅡ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市幸原町２丁目",
+    "price_man": 5.0,
+    "area_sqm": 29.4,
+    "url": "https://www.eheya.net/detail/300059832002322000008/",
+    "text": "アルコバレーノⅡ",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002322000007/|アルコバレーノⅡ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市幸原町２丁目",
+    "price_man": 5.1,
+    "area_sqm": 29.4,
+    "url": "https://www.eheya.net/detail/300059832002322000007/",
+    "text": "アルコバレーノⅡ",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002322000005/|アルコバレーノⅡ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市幸原町２丁目",
+    "price_man": 5.2,
+    "area_sqm": 29.4,
+    "url": "https://www.eheya.net/detail/300059832002322000005/",
+    "text": "アルコバレーノⅡ",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142001573000004/|アビタシオンB": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市谷田",
+    "price_man": 7.0,
+    "area_sqm": 53.2,
+    "url": "https://www.eheya.net/detail/300000142001573000004/",
+    "text": "アビタシオンB",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603004495000001/|菰池パークハウス": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市一番町",
+    "price_man": 3.6,
+    "area_sqm": 17.0,
+    "url": "https://www.eheya.net/detail/300001603004495000001/",
+    "text": "菰池パークハウス",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603004494000001/|菰池パークハウス": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市一番町",
+    "price_man": 3.9,
+    "area_sqm": 17.0,
+    "url": "https://www.eheya.net/detail/300001603004494000001/",
+    "text": "菰池パークハウス",
+    "removed_on": "2026-11-06",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002098000026/|言の葉": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市大宮町１丁目",
+    "price_man": 5.5,
+    "area_sqm": 27.2,
+    "url": "https://www.eheya.net/detail/300000142002098000026/",
+    "text": "言の葉",
+    "removed_on": "2026-11-06",
     "site_name": "いい部屋ネット 三島市"
   }
 }

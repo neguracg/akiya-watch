@@ -670,28 +670,6 @@
     "removed_on": "2026-07-21",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78195636/|陽当り良好、閑静な住宅地、前道６ｍ以上、和室、２階建、高台に立地": {
-    "first_seen": "2026-07-10",
-    "last_seen": "2026-07-23",
-    "location": "静岡県三島市芙蓉台１",
-    "price_man": 1680,
-    "area_sqm": 307.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78195636/",
-    "text": "陽当り良好、閑静な住宅地、前道６ｍ以上、和室、２階建、高台に立地",
-    "removed_on": "2026-07-24",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_76272661/|静かな分譲地・診療所付きの住宅ですが、幅広い用途で使用可能です。": {
-    "first_seen": "2026-07-10",
-    "last_seen": "2026-07-23",
-    "location": "静岡県三島市東大場２",
-    "price_man": 3580,
-    "area_sqm": 717.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_76272661/",
-    "text": "静かな分譲地・診療所付きの住宅ですが、幅広い用途で使用可能です。",
-    "removed_on": "2026-07-24",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_77776853/|三島駅まで徒歩11分。三島市泉町に「住友林業」築2年の高級感溢れる戸建！": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-07-26",
@@ -2472,6 +2450,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_91566387/",
     "text": "６００坪以上の敷地に建てられた住宅、離れの茶室、倉庫、庭園です。",
     "removed_on": "2026-11-04",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_22082386/|長伏（大場駅） 2680万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市長伏",
+    "price_man": 2680,
+    "area_sqm": 217.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_22082386/",
+    "text": "長伏（大場駅） 2680万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_79161567/|松が丘（三島二日町駅） 3580万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市松が丘",
+    "price_man": 3580,
+    "area_sqm": 587.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_79161567/",
+    "text": "松が丘（三島二日町駅） 3580万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21877163/|谷田（三島二日町駅） 3980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県三島市谷田",
+    "price_man": 3980,
+    "area_sqm": 398.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21877163/",
+    "text": "谷田（三島二日町駅） 3980万円",
+    "removed_on": "2026-11-06",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

@@ -307,17 +307,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21623452/|上土狩（三島駅） 1950万円": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-11-03",
-    "location": "静岡県駿東郡長泉町上土狩",
-    "price_man": 1950,
-    "area_sqm": 150.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21623452/",
-    "text": "上土狩（三島駅） 1950万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_22081126/|中徳倉 1980万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -362,17 +351,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21374221/|玄関・２面バルコニー・リビング・各部屋・納戸全て広く、ゆとりが有ります。": {
-    "first_seen": "2026-07-30",
-    "last_seen": "2026-11-03",
-    "location": "静岡県駿東郡清水町徳倉",
-    "price_man": 2780,
-    "area_sqm": 168.1,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21374221/",
-    "text": "玄関・２面バルコニー・リビング・各部屋・納戸全て広く、ゆとりが有ります。",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_22081895/|下土狩（下土狩駅） 4149万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -395,15 +373,70 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20516724/|耐震・耐火に優れた旭化成ホームズのヘーベルハウス中古住宅5LDK＋WIC": {
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21682872/|【見学会開催】長泉町元長窪の中古住宅。2面接道にて運転もしやすいです。": {
+    "first_seen": "2026-09-15",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡長泉町元長窪895-216",
+    "price_man": 1049,
+    "area_sqm": 263.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21682872/",
+    "text": "【見学会開催】長泉町元長窪の中古住宅。2面接道にて運転もしやすいです。",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_76264260/|下土狩（三島駅） 1150万円": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡長泉町下土狩",
+    "price_man": 1150,
+    "area_sqm": 77.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_76264260/",
+    "text": "下土狩（三島駅） 1150万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21202905/|長沢 3080万円": {
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡清水町長沢",
+    "price_man": 3080,
+    "area_sqm": 132.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21202905/",
+    "text": "長沢 3080万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20424710/|上長窪（長泉なめり駅） 3880万円": {
     "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県駿東郡長泉町中土狩",
-    "price_man": 12800,
-    "area_sqm": 277.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20516724/",
-    "text": "耐震・耐火に優れた旭化成ホームズのヘーベルハウス中古住宅5LDK＋WIC",
-    "removed_on": "2026-11-04",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡長泉町上長窪",
+    "price_man": 3880,
+    "area_sqm": 203.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_20424710/",
+    "text": "上長窪（長泉なめり駅） 3880万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21442178/|下土狩（下土狩駅） 4149万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡長泉町下土狩",
+    "price_man": 4149,
+    "area_sqm": 137.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_21442178/",
+    "text": "下土狩（下土狩駅） 4149万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_76630606/|～大地とつながっていられる暮らし～　都会的に洗練された大人なデザイン": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県駿東郡長泉町納米里",
+    "price_man": 5500,
+    "area_sqm": 266.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_suntogun/nc_76630606/",
+    "text": "～大地とつながっていられる暮らし～　都会的に洗練された大人なデザイン",
+    "removed_on": "2026-11-06",
     "site_name": "SUUMO 中古戸建 駿東郡（清水/長泉）"
   }
 }

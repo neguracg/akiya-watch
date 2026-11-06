@@ -527,17 +527,6 @@
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/|城ケ崎大型用地【デグチステート】～伊東市～": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-30",
-    "location": "静岡県伊東市富戸",
-    "price_man": 29500,
-    "area_sqm": 66341.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20825340/",
-    "text": "城ケ崎大型用地【デグチステート】～伊東市～",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_71739867/|川奈（川奈駅） 800万円": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-01",
@@ -1143,39 +1132,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 伊東市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828165/|八幡野 1400万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県伊東市八幡野",
-    "price_man": 1400,
-    "area_sqm": 638.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20828165/",
-    "text": "八幡野 1400万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 伊東市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20863197/|富戸（城ヶ崎海岸駅） 1480万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県伊東市富戸",
-    "price_man": 1480,
-    "area_sqm": 506.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20863197/",
-    "text": "富戸（城ヶ崎海岸駅） 1480万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 伊東市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20802866/|八幡野（伊豆高原駅） 2000万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県伊東市八幡野",
-    "price_man": 2000,
-    "area_sqm": 1064.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20802866/",
-    "text": "八幡野（伊豆高原駅） 2000万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 伊東市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20779375/|宇佐美（宇佐美駅） 2100万円": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-03",
@@ -1185,6 +1141,61 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20779375/",
     "text": "宇佐美（宇佐美駅） 2100万円",
     "removed_on": "2026-11-04",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77752843/|宇佐美（宇佐美駅） 368万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県伊東市宇佐美",
+    "price_man": 368,
+    "area_sqm": 111.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_77752843/",
+    "text": "宇佐美（宇佐美駅） 368万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21361124/|湯川 760万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県伊東市湯川",
+    "price_man": 760,
+    "area_sqm": 307.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21361124/",
+    "text": "湯川 760万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_83505648/|川奈（川奈駅） 1240万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県伊東市川奈",
+    "price_man": 1240,
+    "area_sqm": 534.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_83505648/",
+    "text": "川奈（川奈駅） 1240万円",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_22086101/|【全９区画中、６区画販売中！！】": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-05",
+    "location": "静岡県伊東市大原１-1137-4",
+    "price_man": 1330,
+    "area_sqm": 198.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_22086101/",
+    "text": "【全９区画中、６区画販売中！！】",
+    "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21448274/|富戸（城ヶ崎海岸駅） 2億9500万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-05",
+    "location": "静岡県伊東市富戸",
+    "price_man": 29500,
+    "area_sqm": 9999.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_21448274/",
+    "text": "富戸（城ヶ崎海岸駅） 2億9500万円",
+    "removed_on": "2026-11-06",
     "site_name": "SUUMO 土地 伊東市"
   }
 }
