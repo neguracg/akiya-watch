@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202200550伊東松原K|静岡県伊東市": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県伊東市",
       "price_man": 10,
       "area_sqm": null,
@@ -33,7 +33,7 @@
     },
     "https://www.ieichiba.com/project/P202600957東伊豆町白田H|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県東伊豆町",
       "price_man": 430,
       "area_sqm": null,
@@ -62,7 +62,7 @@
     },
     "https://www.ieichiba.com/project/P202600929東伊豆町片瀬|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県東伊豆町",
       "price_man": 1980,
       "area_sqm": null,
@@ -91,7 +91,7 @@
     },
     "https://www.ieichiba.com/project/P202600454裾野千福が丘|静岡県裾野市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
@@ -120,7 +120,7 @@
     },
     "https://www.ieichiba.com/project/P202600824伊東鎌田S|静岡県伊東市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県伊東市",
       "price_man": 300,
       "area_sqm": null,
@@ -152,7 +152,7 @@
     },
     "https://www.ieichiba.com/project/P202600804伊東鎌田W|静岡県伊東市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-07",
       "location": "静岡県伊東市",
       "price_man": 50,
       "area_sqm": null,
@@ -183,6 +183,6 @@
       "tab": "camp"
     }
   },
-  "hash": "685e8fdf5e75ed9f",
-  "fetched_at": "2026-11-06T02:37:35.823291"
+  "hash": "3301eb221d5c454a",
+  "fetched_at": "2026-11-07T02:13:09.226262"
 }

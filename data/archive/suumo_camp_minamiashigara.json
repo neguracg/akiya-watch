@@ -109,17 +109,6 @@
     "removed_on": "2026-10-20",
     "site_name": "SUUMO 土地 南足柄市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_76420112/|塚原（塚原駅） 880万円": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-10-23",
-    "location": "神奈川県南足柄市塚原",
-    "price_man": 880,
-    "area_sqm": 135.2,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_76420112/",
-    "text": "塚原（塚原駅） 880万円",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 土地 南足柄市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_21601280/|【SUGIhome】土地価格＋1900万で自由設計！デザイン×品質×コスパ": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-25",
@@ -140,6 +129,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_20697639/",
     "text": "南道路に付陽当り良好、建築条件なし売地。",
     "removed_on": "2026-10-31",
+    "site_name": "SUUMO 土地 南足柄市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_21556954/|＜ぜひ現地をご見学下さい＞現地のご状況や周辺の環境をご案内させて頂きます": {
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-11-06",
+    "location": "神奈川県南足柄市雨坪",
+    "price_man": 720,
+    "area_sqm": 139.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_minamiashigara/nc_21556954/",
+    "text": "＜ぜひ現地をご見学下さい＞現地のご状況や周辺の環境をご案内させて頂きます",
+    "removed_on": "2026-11-07",
     "site_name": "SUUMO 土地 南足柄市"
   }
 }

@@ -285,17 +285,6 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|共働き世帯に☆車10分圏内のスーパードラッグストア充実。コンビニ徒歩約5分": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-10-18",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "共働き世帯に☆車10分圏内のスーパードラッグストア充実。コンビニ徒歩約5分",
-    "removed_on": "2026-10-20",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地約68坪！ゆったりした明るい生活設計が叶えられる南側道路で楽しく過ごす": {
     "first_seen": "2026-10-20",
     "last_seen": "2026-10-20",
@@ -800,6 +789,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77649536/",
     "text": "北町（西富士宮駅） 920万円",
     "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_74471294/|■10/30更新【ミサワホーム】富士山を臨む利便性も兼ね備えた21区画分譲地": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-06",
+    "location": "静岡県富士宮市野中",
+    "price_man": 780,
+    "area_sqm": 172.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_74471294/",
+    "text": "■10/30更新【ミサワホーム】富士山を臨む利便性も兼ね備えた21区画分譲地",
+    "removed_on": "2026-11-07",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地68坪！近隣に幼稚園・コンビニ徒歩約5分！バス停「子安神社」徒歩約3分": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "敷地68坪！近隣に幼稚園・コンビニ徒歩約5分！バス停「子安神社」徒歩約3分",
+    "removed_on": "2026-11-07",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77584122/|万野原新田（富士宮駅） 600万円": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "location": "静岡県富士宮市万野原新田3042-13",
+    "price_man": 600,
+    "area_sqm": 213.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_77584122/",
+    "text": "万野原新田（富士宮駅） 600万円",
+    "removed_on": "2026-11-07",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }

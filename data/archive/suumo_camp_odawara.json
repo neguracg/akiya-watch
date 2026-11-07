@@ -791,17 +791,6 @@
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/|土地50坪以上、角地、平坦地、建築条件なし、駅まで平坦、田園風景": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-30",
-    "location": "神奈川県小田原市堀之内",
-    "price_man": 2400,
-    "area_sqm": 214.6,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/",
-    "text": "土地50坪以上、角地、平坦地、建築条件なし、駅まで平坦、田園風景",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/|■建築条件なしの土地です。■お好きなハウスメーカーで建築可能です。": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-30",
@@ -854,17 +843,6 @@
     "area_sqm": 142.4,
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78631744/",
     "text": "【久野・開発全４区画】敷地面積142.43㎡～171.88㎡の整形地",
-    "removed_on": "2026-11-02",
-    "site_name": "SUUMO 土地 小田原市"
-  },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21641091/|整形地×115坪超。家族の理想を叶えるゆとりのステージ。": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-01",
-    "location": "神奈川県小田原市飯泉266-12他",
-    "price_man": 3080,
-    "area_sqm": 383.4,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21641091/",
-    "text": "整形地×115坪超。家族の理想を叶えるゆとりのステージ。",
     "removed_on": "2026-11-02",
     "site_name": "SUUMO 土地 小田原市"
   },
@@ -987,6 +965,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21555385/",
     "text": "成田 1500万円",
     "removed_on": "2026-11-06",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/|堀之内（富水駅） 2400万円": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-06",
+    "location": "神奈川県小田原市堀之内",
+    "price_man": 2400,
+    "area_sqm": 214.6,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21420893/",
+    "text": "堀之内（富水駅） 2400万円",
+    "removed_on": "2026-11-07",
     "site_name": "SUUMO 土地 小田原市"
   }
 }
