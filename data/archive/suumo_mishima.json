@@ -911,5 +911,27 @@
     "text": "若松町（三島駅） 1億1000万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_22083380/|◇建築条件なし！お好きなハウスメーカーで建築可♪": {
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-07",
+    "location": "静岡県三島市青木",
+    "price_man": 2180,
+    "area_sqm": 154.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_22083380/",
+    "text": "◇建築条件なし！お好きなハウスメーカーで建築可♪",
+    "removed_on": "2026-11-08",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21921099/|松本 2190万円": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-11-07",
+    "location": "静岡県三島市松本",
+    "price_man": 2190,
+    "area_sqm": 190.9,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21921099/",
+    "text": "松本 2190万円",
+    "removed_on": "2026-11-08",
+    "site_name": "SUUMO 土地 三島市"
   }
 }

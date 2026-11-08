@@ -2001,17 +2001,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22000537/|●〇アトモ〇●いつでもご内覧できます♪": {
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-06",
-    "location": "静岡県沼津市西添町",
-    "price_man": 2480,
-    "area_sqm": 128.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22000537/",
-    "text": "●〇アトモ〇●いつでもご内覧できます♪",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086613/|大岡（下土狩駅） 3550万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-06",
@@ -2021,6 +2010,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086613/",
     "text": "大岡（下土狩駅） 3550万円",
     "removed_on": "2026-11-07",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20734158/|☆　「住む家」ではなく「体験する住まい」という新しい価値提案": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-07",
+    "location": "静岡県沼津市東間門２",
+    "price_man": 2580,
+    "area_sqm": 113.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_20734158/",
+    "text": "☆　「住む家」ではなく「体験する住まい」という新しい価値提案",
+    "removed_on": "2026-11-08",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }
