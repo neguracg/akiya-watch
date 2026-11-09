@@ -4952,19 +4952,6 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     # 列フィルタ用ポップアップ
     H.append("<div id='popup'></div>")
 
-    # 非表示確認モーダル（JSで .open クラスを付与して表示）。
-    # ※ スクリプトはトップレベルで getElementById('hideConfirm') 等を参照するため、
-    #   モーダル DOM は必ず <script> より前に配置すること。
-    H.append("<div id='hideModal'>"
-             "<div id='hideModalBox'>"
-             "<h3>この物件を非表示にしますか？</h3>"
-             "<p class='hide-target' id='hideTarget'></p>"
-             "<p>非表示にした物件は下の「非表示にした物件」からいつでも戻せます。</p>"
-             "<div class='modal-btns'>"
-             "<button id='hideCancel'>キャンセル</button>"
-             "<button id='hideConfirm'>非表示にする</button>"
-             "</div></div></div>")
-
     H.append("<script>")
     H.append("const DATA=" + data_json + ";")
     H.append("const CONFIG=" + config_js + ";")
@@ -5074,20 +5061,6 @@ _REPORT_CSS = (
     ".refbox[open] summary::before{content:'\\25bc  ';}"
     ".refbox summary:hover{color:#333;}"
     ".refbox .cond{margin-top:4px;}.fujihelp{display:none;}body[data-tab=camp] .fujihelp{display:block;}"
-    # ---- 非表示確認モーダル ----
-    "#hideModal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:100;"
-    "justify-content:center;align-items:center;}"
-    "#hideModal.open{display:flex;}"
-    "#hideModalBox{background:#fff;border-radius:8px;padding:20px 24px;max-width:340px;width:90%;"
-    "box-shadow:0 4px 20px rgba(0,0,0,.3);}"
-    "#hideModalBox h3{margin:0 0 8px;font-size:15px;color:#c0392b;}"
-    "#hideModalBox p{font-size:12px;color:#555;margin:0 0 14px;line-height:1.5;}"
-    "#hideModalBox p.hide-target{font-weight:bold;color:#222;background:#f3f4f6;"
-    "border-radius:5px;padding:8px 10px;margin:0 0 12px;}"
-    ".modal-btns{display:flex;gap:8px;justify-content:flex-end;}"
-    ".modal-btns button{font-size:13px;padding:6px 16px;border-radius:4px;cursor:pointer;border:1px solid;}"
-    "#hideConfirm{background:#c0392b;color:#fff;border-color:#c0392b;}"
-    "#hideCancel{background:#fff;color:#444;border-color:#ccc;}"
     # ---- お気に入り★ボタン ----
     ".favbtn{cursor:pointer;border:none;background:none;font-size:16px;line-height:1;"
     "color:#ccc;padding:0 2px;}.favbtn.on{color:#f0a500;}"
@@ -6103,24 +6076,6 @@ function repByBdk(bdk){
   return FAVOR.get(bdk)||HIDDEN.get(bdk)||{dk:bdk,loc:'',price:null,area:null};
 }
 
-// ---- 非表示確認モーダル（対象の所在地を表示して押し間違いを防ぐ）----
-let _pendingHide=null;
-function openHideModal(rep){
-  _pendingHide={bdk:(rep.dk),snap:snapOf(rep)};
-  const loc=normLoc(rep.loc||'').slice(0,40)||'(所在地不明)';
-  const price=(rep.price==null)?'価格不明':rep.price.toLocaleString()+'万円';
-  const area=(rep.area==null)?'':(' / '+rep.area+'㎡');
-  document.getElementById('hideTarget').textContent=loc+'（'+price+area+'）';
-  document.getElementById('hideModal').classList.add('open');
-}
-function closeHideModal(){document.getElementById('hideModal').classList.remove('open');_pendingHide=null;}
-document.getElementById('hideConfirm').addEventListener('click',()=>{
-  if(_pendingHide){HIDDEN.set(_pendingHide.bdk,_pendingHide.snap);saveHidden();render();}
-  closeHideModal();
-});
-document.getElementById('hideCancel').addEventListener('click',closeHideModal);
-document.getElementById('hideModal').addEventListener('click',e=>{if(e.target===document.getElementById('hideModal'))closeHideModal();});
-
 // ---- モバイル: 見出し行sticky(B-3)用に.topbarの実高さを測って--topbarHへ反映する。
 // タイトル文字列の長さや同期バッジ(#syncStatus)の表示有無で高さが変わるため、固定px値
 // ではなく実測する（CSS側の.listtbl thead th{top:var(--topbarH,88px)}が参照する。
@@ -6193,7 +6148,8 @@ if(window.ResizeObserver){
       saveFav();render();return;}
     const th=e.target.closest('th.col'); if(th){e.stopPropagation();openPopup(th.dataset.k,th);return;}
     const chip=e.target.closest('.colchip'); if(chip){e.stopPropagation();openPopup(chip.dataset.k,chip);return;}
-    const hb=e.target.closest('.hidebtn'); if(hb){e.stopPropagation();openHideModal(repByBdk(hb.dataset.bdk));return;}
+    const hb=e.target.closest('.hidebtn'); if(hb){e.stopPropagation();const bdk=hb.dataset.bdk;
+      HIDDEN.set(bdk,snapOf(repByBdk(bdk)));saveHidden();render();return;}
     const rb=e.target.closest('.restorebtn'); if(rb){HIDDEN.delete(rb.dataset.bdk);saveHidden();render();return;}
     const sec=e.target.closest('h2.sec'); if(sec){const t=document.getElementById(sec.dataset.target);sec.classList.toggle('open');t.classList.toggle('open');return;}
     const pop=document.getElementById('popup'); if(pop.style.display==='block'&&!pop.contains(e.target))closePopup();
