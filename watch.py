@@ -734,7 +734,7 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     area_min = filters.get("area_min_sqm", 330)
     # 下限が0以下（賃貸のarea_min_sqm等）／rooms_min未指定の項目は判定条件から外す（売買タブの挙動は不変）。
     # rooms_min（賃貸のみ）は間取りの部屋数が下限以上か。間取りが読めなければ価格nullと同じく数値不明。
-    area_required, rooms_min = area_min > 0, filters.get("rooms_min", 0)
+    area_required, rooms_min = area_min > 0, (filters.get("rooms_min") or 0)
     rooms = rooms_of(madori) if rooms_min > 0 else None
     if price is None or (area_required and area is None) or (rooms_min > 0 and rooms is None):
         verdict = "数値不明"
@@ -2139,8 +2139,8 @@ def parse_ez(first_html, base_url, filter_keywords, filters, session):
 
 
 # ---------------------------------------------------------------------------
-# 賃貸タブ 共通ヘルパ（tab=rent。静岡県東部（函南町の友人拠点=丹那から通える範囲）の
-# 激安賃貸監視向け・月額家賃で判定）
+# 賃貸タブ 共通ヘルパ（tab=rent。静岡県東部の腱さん本人の広い家探し(4LDK以上・家賃20万以下。
+# 2026-11-09 #954で再定義)向け・月額家賃と間取りの部屋数で判定）
 # ---------------------------------------------------------------------------
 
 def _suumo_shikirei_val(text: str):

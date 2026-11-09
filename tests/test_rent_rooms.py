@@ -37,7 +37,7 @@ def test_rooms_of(text, expected):
 
 
 def test_yaml_defines_rooms_min_only_for_rent():
-    assert RENT["rooms_min"] == 4 and RENT["price_max_man"] == 20
+    assert RENT["rooms_min"] > 0  # 閾値の値そのものは urls.yaml が定義元（ここでは固定しない）
     assert "rooms_min" not in HOME and "rooms_min" not in CAMP
 
 
