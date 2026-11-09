@@ -4957,7 +4957,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("const CONFIG=" + config_js + ";")
     H.append("const SUMMARY=" + summary_json + ";")
     H.append("const DISAPPEARED=" + disappeared_json + ";")
-    H.append(_FILTER_JS + ROOMS_JS)  # ROOMS_JS=賃貸の部屋数絞り込み(madori.py所有。passFiltersが呼ぶ)
+    H.append(ROOMS_JS + _FILTER_JS)  # ROOMS_JS=賃貸の部屋数絞り込み(madori.py所有)。constを使うため必ず_FILTER_JSより前（末尾の初回render()が先に走る＝TDZ）
     H.append("</script>")
     H.append("</body></html>")
     return "\n".join(H)

@@ -133,3 +133,6 @@ def test_report_html_carries_rooms_min_and_filter_hook():
     html = watch.build_html_report([], dict(_FILTERS), [], False)
     assert '"rentRoomsMin": %d' % RENT["rooms_min"] in html
     assert "!passRooms(d)" in html and "function roomsOf(" in html
+    # _FILTER_JS の末尾は同期で初回 render() を呼ぶ（保存タブが賃貸なら passFilters→roomsOf が走る）。
+    # ROOMS_RE は const（TDZ）なので _FILTER_JS より前に定義されていないと一覧ごと壊れる（2026-11-10 実測）。
+    assert html.index("const ROOMS_RE") < html.index("function passFilters(")
