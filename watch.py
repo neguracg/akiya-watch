@@ -595,13 +595,12 @@ def detect_zokujinsei(text: str) -> bool:
 
 def classify_shubetsu(text: str, default_type: str):
     """物件種別を 更地/古家付き土地/中古戸建/空き家 に分類。戻り値 (種別, 判定根拠)。
-
-    default_type は adapter が URL/カテゴリから渡すヒント。本文で上書き判定する。
-    """
+    default_type は adapter が URL/カテゴリから渡すヒント（更地は汎用の既定）。本文で上書き判定する。"""
     if "空き家" in text or "空家" in text:
         return "空き家", "掲載に空き家表記"
-    # 土地系（更地/古家付き）
-    if default_type in ("更地", "古家付き土地") or ("土地" in text and "戸建" not in text):
+    # 土地系。家系ヒント(中古戸建/空き家)の時は本文の「土地」(土地面積等)だけでは入らず、古家表記がある時のみ（#954）
+    land = "土地" in text and "戸建" not in text and (default_type not in ("中古戸建", "空き家") or any(t in text for t in _FURUYA_TOKENS))
+    if default_type in ("更地", "古家付き土地") or land:
         if any(t in text for t in _FURUYA_TOKENS):
             return "古家付き土地", "土地＋古家/上物の表記"
         return "更地", "土地カテゴリ（建物表記なし）"
