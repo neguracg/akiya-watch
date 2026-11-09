@@ -175,6 +175,18 @@ sites:
     channel: "①"
     kind: 中古戸建
     filter_keywords: [函南町]
+  - id: suumo_chuko_atami
+    name: SUUMO 中古戸建 熱海市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: suumo_chuko_izu
+    name: SUUMO 中古戸建 伊豆市
+    url: "https://suumo.jp/chukoikkodate/shizuoka/sc_izu/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
 
   # ==== ① アットホーム（土地7市町・中古戸建5市町）====
   # 持続的な bot 対策ブロックのため sites から除外し sources_extra(フェーズ2) へ退避。
@@ -1116,79 +1128,75 @@ sites:
     tab: camp
     note: "athouse_land_gotembaと同一運営・同一parse。2026-09-05実測: HTTP 200・42,058B・在庫少数（detail要素の実測で1件相当）。単一ページ"
 
-  # ==== ⑧ 賃貸（静岡東部。tab: rent。函南町(丹那)在住の友人が通える範囲の激安賃貸監視。
-  #   別荘地(エメラルドタウン等)の激安賃貸は狙い目のため exclude_areas を賃貸タブでは適用しない ====
-  # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定はrentフィルタ
-  # (月額家賃5万円以下)。SUUMO賃貸: div.cassetteitem=建物、table.cassetteitem_other
-  # tbody tr=部屋（1建物に複数部屋のことがある）。函南町(田方郡)は友人の拠点=丹那の地元。
-  # 実測978件・最安3.26万円(大土肥ワンルーム)/3.8万円(柏谷2DK)。構造は既存アダプタ
-  # parse_suumo_rent と同一(div.cassetteitem=建物、table.cassetteitem_other tbody tr=部屋)。
+  # ==== ⑧ 賃貸（静岡東部。tab: rent。腱さん本人の広い家（4LDK以上・家賃20万以下）探し。
+  #   2026-11-09 #954 で旧目的（友人の家賃5万円以下・丹那周辺の激安賃貸）から再定義。
+  #   別荘地の賃貸も候補なので exclude_areas は賃貸タブでは適用しない ====
+  # filter_keywords は付けない（市/郡単位URLなので中身は全部対象）。判定は filters.rent
+  # （家賃上限 price_max_man と間取りの部屋数 rooms_min）。SUUMO 賃貸は「間取り4K以上・賃料
+  # 上下限なし」の条件付き一覧URL（md=11〜14。1ページ50件で全件が1頁に収まる）。LIFULL 三島・
+  # 伊豆の国は「4LDK以上」特集ページ（theme/14175）。いい部屋ネット・CHINTAI・LIFULL函南は
+  # 間取りで絞れる静的URLが無く全間取りの一覧のままなので、表示側（watch.py の passFilters）が
+  # rooms_min 未満の行を一覧から外す。SUUMO賃貸: div.cassetteitem=建物、table.cassetteitem_other
+  # tbody tr=部屋（1建物に複数部屋のことがある）。構造は既存アダプタ parse_suumo_rent を流用。
+  # 激安専用・停止中のサイト（ビレッジハウス・県営住宅・ジモティー・アットホーム空き家バンク・
+  # スマイミー賃貸）は同日 sources_extra へ移動した。
   - id: suumo_rent_tagatagun
-    name: SUUMO 賃貸 田方郡（函南町）
-    url: "https://suumo.jp/chintai/shizuoka/sc_tagatagun/"
+    name: SUUMO 賃貸 田方郡（函南町） 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22320&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_izunokuni
-    name: SUUMO 賃貸 伊豆の国市
-    url: "https://suumo.jp/chintai/shizuoka/sc_izunokuni/"
+    name: SUUMO 賃貸 伊豆の国市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22225&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_mishima
-    name: SUUMO 賃貸 三島市
-    url: "https://suumo.jp/chintai/shizuoka/sc_mishima/"
+    name: SUUMO 賃貸 三島市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22206&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_numazu
-    name: SUUMO 賃貸 沼津市
-    url: "https://suumo.jp/chintai/shizuoka/sc_numazu/"
+    name: SUUMO 賃貸 沼津市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22203&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_atami
-    name: SUUMO 賃貸 熱海市
-    url: "https://suumo.jp/chintai/shizuoka/sc_atami/"
+    name: SUUMO 賃貸 熱海市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22205&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_susono
-    name: SUUMO 賃貸 裾野市
-    url: "https://suumo.jp/chintai/shizuoka/sc_susono/"
+    name: SUUMO 賃貸 裾野市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22220&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_izu
-    name: SUUMO 賃貸 伊豆市
-    url: "https://suumo.jp/chintai/shizuoka/sc_izu/"
+    name: SUUMO 賃貸 伊豆市 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22222&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: suumo_rent_suntogun
-    name: SUUMO 賃貸 駿東郡（清水/長泉）
-    url: "https://suumo.jp/chintai/shizuoka/sc_suntogun/"
+    name: SUUMO 賃貸 駿東郡（清水/長泉） 4K以上
+    url: "https://suumo.jp/jj/chintai/ichiran/FR301FC001/?ar=050&bs=040&ta=22&sc=22340&cb=0.0&ct=9999999&md=11&md=12&md=13&md=14&et=9999999&mb=0&mt=9999999&cn=9999999&shkr1=03&shkr2=03&shkr3=03&shkr4=03&pc=50&po1=25&po2=99"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
 
-  - id: jmty_rent_shizuoka
-    name: ジモティー 静岡県 賃貸
-    url: "https://jmty.jp/shizuoka/est-hou"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-    filter_keywords: [函南, 伊豆の国, 三島, 沼津, 熱海, 清水町, 長泉, 裾野, 伊豆市]
-    note: "静的。li.p-articles-list-item。カードに「3.48万円 | 静岡 | 伊豆の国市 | 韮山駅 | マンション」と構造化。実測52件。個人・大家直・初期費用0円などポータルに出ない掘り出し物が出る"
   - id: chintai_net_izunokuni
     name: CHINTAI 伊豆の国市
     url: "https://www.chintai.net/sizuoka/area/22225/list/"
@@ -1213,81 +1221,10 @@ sites:
     kind: 賃貸
     tab: rent
     note: "実測200・propertyCassetteWrapper=56"
-  - id: akiya_athome_rent_shizuoka
-    name: アットホーム空き家バンク 賃貸 静岡県
-    url: "https://www.akiya-athome.jp/rent/22/"
-    status: verified
-    channel: "⑧"
-    kind: 空き家バンク/賃貸
-    tab: rent
-    note: "実測200・県全体で3件(東伊豆1/西伊豆1/静岡市葵区1)と少ないが、月2〜3万の掘り出し物が出る新着待ちチャネル。応答15秒級で遅い"
 
   # ---- スマイミー静岡（宅建サポートセンター）賃貸。静岡県宅建協会システム(空き家バンク
   #   しずおかと同基盤)。全9市町とも実測200で物件リンク70〜80件。敷金/礼金が一覧に
   #   載る唯一のソース。filter_keywords は不要（市町別URLのため）----
-  - id: sumaimy_rent_kannami
-    name: スマイミー静岡 賃貸 田方郡函南町
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%94%B0%E6%96%B9%E9%83%A1%E5%87%BD%E5%8D%97%E7%94%BA/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_izunokuni
-    name: スマイミー静岡 賃貸 伊豆の国市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_mishima
-    name: スマイミー静岡 賃貸 三島市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%B8%89%E5%B3%B6%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_numazu
-    name: スマイミー静岡 賃貸 沼津市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E6%B2%BC%E6%B4%A5%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_atami
-    name: スマイミー静岡 賃貸 熱海市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%86%B1%E6%B5%B7%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_nagaizumi
-    name: スマイミー静岡 賃貸 駿東郡長泉町
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E9%95%B7%E6%B3%89%E7%94%BA/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_shimizu
-    name: スマイミー静岡 賃貸 駿東郡清水町
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E6%B8%85%E6%B0%B4%E7%94%BA/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_susono
-    name: スマイミー静岡 賃貸 裾野市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E8%A3%BE%E9%87%8E%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
-  - id: sumaimy_rent_izu
-    name: スマイミー静岡 賃貸 伊豆市
-    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E5%B8%82/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸
-    tab: rent
 
   # ---- LIFULL HOME'S 賃貸（homes.co.jp）。202累積レート制限の実績があるドメインの
   #   ため3URLに限定。robots.txtは一覧ページを許可。取得間隔を長めに取り、202が返っ
@@ -1302,48 +1239,25 @@ sites:
     kind: 賃貸
     tab: rent
   - id: lifull_rent_izunokuni
-    name: LIFULL 賃貸 伊豆の国市
-    url: "https://www.homes.co.jp/chintai/shizuoka/izunokuni-city/list/"
+    name: LIFULL 賃貸 伊豆の国市 4LDK以上
+    url: "https://www.homes.co.jp/chintai/theme/14175/shizuoka/izunokuni-city/list/"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
   - id: lifull_rent_mishima
-    name: LIFULL 賃貸 三島市
-    url: "https://www.homes.co.jp/chintai/shizuoka/mishima-city/list/"
+    name: LIFULL 賃貸 三島市 4LDK以上
+    url: "https://www.homes.co.jp/chintai/theme/14175/shizuoka/mishima-city/list/"
     status: verified
     channel: "⑧"
     kind: 賃貸
     tab: rent
 
-  - id: sjkk_kenei
-    name: 静岡県営住宅（抽選・所得制限あり）
-    url: "https://www.sjkk.or.jp/kenei/list.php"
-    status: verified
-    channel: "⑧"
-    kind: 公営住宅/賃貸
-    tab: rent
-    filter_keywords: [三島, 沼津, 函南, 熱海, 裾野, 長泉, 清水, 御殿場, 伊豆の国, 田方, 駿東]
-    note: "抽選制・所得制限あり。空家募集は毎月10日公示・14〜18日受付。すぐには入居できない。list.phpはPOST専用フォームでページング・絞り込みのGETクエリは効かない(実測確認済み)。既定の1ページ目のみ取得しページャは追わない(サーバ負荷配慮)。既定順が熱海市→伊東市→駿東郡→沼津市→三島市→裾野市→御殿場市の地理順のため1ページ目20件で東部団地の大半(実測18/20)をカバー"
 
   # ---- ビレッジハウス（旧雇用促進住宅。villagehouse.jp）。敷金礼金ゼロが独自在庫だが、
   #   東部の在庫は非常に少ない（沼津2棟・伊豆の国1棟）。家賃はJS描画のため静的HTMLに
   #   出ずリンク監視型（価格None・面積None）で実装。物件が増えたときに気づけることが
   #   目的。建物リンク=/chintai/tokai/shizuoka/{市}/{団地名}-{id}/ ----
-  - id: vhouse_numazu
-    name: ビレッジハウス 沼津市（敷金礼金0円）
-    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸/敷礼0
-    tab: rent
-  - id: vhouse_izunokuni
-    name: ビレッジハウス 伊豆の国市（敷金礼金0円）
-    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/"
-    status: verified
-    channel: "⑧"
-    kind: 賃貸/敷礼0
-    tab: rent
 
 # ============================================================================
 # 監視対象外/保留/フェーズ2/未着手（実測済み・SOURCES.md 記録用。巡回はしない）
@@ -1484,3 +1398,101 @@ sources_extra:
     status: 対象外(robots)
     http: robots制限
     note: "消込表#474。2026-09-05 W3のrobots_allowed() RFC 9309準拠化で「Disallow: /*?bukken=」(User-agent: *)への該当が判明しsitesから除外(実クロールはrobots_allowed()で既に自動スキップ済み・実害なし)。2026-09-28に代替URL調査を実施: robots.txt実測(WebFetch)で禁止パターンはDisallow: /wp-admin/, /wp-includes/, /wp-content/{plugins,cache,themes}, /*.js$, /*?bukken=, /*?*s=（Sitemap行なし）。robots.txt非該当のホームページ(https://izu-s-k.fudohsan.jp/)を実測したところ、売買(shu=1)/賃貸(shu=2)/収益(shu=14)の3導線はいずれも/menu/?bukken=jsearch&shu=N型のみで、ナビ上に静的パスの一覧ページは存在しない(会社案内・お問い合わせ等の非物件ページのみ)。個別物件詳細は?post_type=fudo&menu=fudo&p=ID形式であり?bukken=にもs=にも該当しないが、一覧なしにIDを列挙する手段がなくsites復帰は不可。UA別Disallow(Baiduspider/BLEXBot/dotbot/MJ12bot/Yandex/SemrushBot/GPTBot/ChatGPT-User/PerplexityBot)はUser-agent: *には適用されないため無関係。代替なしのため本欄へ記録。サイトがリニューアルされ静的一覧が生えたら再調査。"
+  - channel: "⑧"
+    name: ビレッジハウス 沼津市（敷金礼金0円）（旧sites vhouse_numazu）
+    kind: 賃貸/敷礼0
+    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/numazu-shi-222038/"
+    status: 対象外(目的変更)
+    http: "200"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。敷金礼金0円の激安専用（旧雇用促進住宅・リンク監視型）で目的外。移動前の稼働は2件・HTTP 200。"
+  - channel: "⑧"
+    name: ビレッジハウス 伊豆の国市（敷金礼金0円）（旧sites vhouse_izunokuni）
+    kind: 賃貸/敷礼0
+    url: "https://www.villagehouse.jp/chintai/tokai/shizuoka/izunokuni-shi-222259/"
+    status: 対象外(目的変更)
+    http: "200"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。敷金礼金0円の激安専用で目的外。移動前の稼働は1件・HTTP 200。"
+  - channel: "⑧"
+    name: 静岡県営住宅（抽選・所得制限あり）（旧sites sjkk_kenei）
+    kind: 公営住宅/賃貸
+    url: "https://www.sjkk.or.jp/kenei/list.php"
+    status: 対象外(目的変更)
+    http: "ERROR(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。抽選・所得制限ありの県営住宅で目的外。移動前から GitHub Actions では ERROR（本PCからは200）。"
+  - channel: "⑧"
+    name: ジモティー 静岡県 賃貸（旧sites jmty_rent_shizuoka）
+    kind: 賃貸
+    url: "https://jmty.jp/shizuoka/est-hou"
+    status: 対象外(目的変更)
+    http: "403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安・個人掲載向けで目的外。移動前から GitHub Actions では 403（本PCからは200）。"
+  - channel: "⑧"
+    name: アットホーム空き家バンク 賃貸 静岡県（旧sites akiya_athome_rent_shizuoka）
+    kind: 空き家バンク/賃貸
+    url: "https://www.akiya-athome.jp/rent/22/"
+    status: 対象外(目的変更)
+    http: "403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。県全体3件・月2〜3万の激安向けで目的外。移動前から GitHub Actions では 403（本PCからは 2026-11-09 に503を実測）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 田方郡函南町（旧sites sumaimy_rent_kannami）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%94%B0%E6%96%B9%E9%83%A1%E5%87%BD%E5%8D%97%E7%94%BA/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 伊豆の国市（旧sites sumaimy_rent_izunokuni）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E3%81%AE%E5%9B%BD%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 三島市（旧sites sumaimy_rent_mishima）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%B8%89%E5%B3%B6%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 沼津市（旧sites sumaimy_rent_numazu）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E6%B2%BC%E6%B4%A5%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 熱海市（旧sites sumaimy_rent_atami）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E7%86%B1%E6%B5%B7%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 駿東郡長泉町（旧sites sumaimy_rent_nagaizumi）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E9%95%B7%E6%B3%89%E7%94%BA/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 駿東郡清水町（旧sites sumaimy_rent_shimizu）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E9%A7%BF%E6%9D%B1%E9%83%A1%E6%B8%85%E6%B0%B4%E7%94%BA/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 裾野市（旧sites sumaimy_rent_susono）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E8%A3%BE%E9%87%8E%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
+  - channel: "⑧"
+    name: スマイミー静岡 賃貸 伊豆市（旧sites sumaimy_rent_izu）
+    kind: 賃貸
+    url: "https://www.shizuoka.fudohsan.jp/%E4%B8%80%E8%A6%A7/%E5%80%9F%E3%82%8A%E3%82%8B/%E5%9C%B0%E5%9F%9F/%E4%BC%8A%E8%B1%86%E5%B8%82/"
+    status: 対象外(目的変更)
+    http: "ERROR/403(Actions)"
+    note: "2026-11-09 #954 賃貸タブを腱さん本人の広い家探し（4LDK以上・家賃20万以下）へ作り替えたため巡回終了（sites から移動）。激安中心で目的外、かつ移動前から GitHub Actions では ERROR/403（本PCからは200を実測。送信元クラウドIPの遮断の可能性が高い＝推測・Actions側の応答本文は未確認）。"
