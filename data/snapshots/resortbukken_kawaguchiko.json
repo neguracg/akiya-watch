@@ -911,15 +911,15 @@
       "area_sqm": null,
       "url": "https://resort-bukken.com/detail/4871",
       "text": "南都留郡山中湖村 平野 中古別荘 3LDK 8,000万円 〇富士山麓・山中湖エリア 〇敷地面積約1,631㎡の広大な土",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
       "madori": null,
       "chikunen": null,
       "kanrihi": null,
       "shikikin": null,
       "reikin": null,
       "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
       "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
@@ -1231,6 +1231,6 @@
       "tab": "camp"
     }
   },
-  "hash": "98ad6b3505462d87",
-  "fetched_at": "2026-11-09T14:07:21.395546"
+  "hash": "71a529d5fe5ea17c",
+  "fetched_at": "2026-11-09T16:57:52.285584"
 }

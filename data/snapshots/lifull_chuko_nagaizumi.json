@@ -116,14 +116,14 @@
       "machi": "長泉町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1475010001958/|駿東郡長泉町下土狩　中古一戸建て": {
+    "https://www.homes.co.jp/kodate/b-1265050002760/|長泉町下土狩中古住宅": {
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
-      "location": "駿東郡長泉町下土狩　中古一戸建て",
+      "location": "長泉町下土狩中古住宅",
       "price_man": 4149,
       "area_sqm": 137.5,
-      "url": "https://www.homes.co.jp/kodate/b-1475010001958/",
-      "text": "駿東郡長泉町下土狩　中古一戸建て",
+      "url": "https://www.homes.co.jp/kodate/b-1265050002760/",
+      "text": "長泉町下土狩中古住宅",
       "shubetsu": "空き家",
       "shubetsu_reason": "掲載に空き家表記",
       "madori": null,
@@ -348,35 +348,6 @@
       "machi": "長泉町",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1265050002641/|長泉町上土狩中古住宅": {
-      "first_seen": "2026-07-04",
-      "last_seen": "2026-11-09",
-      "location": "長泉町上土狩中古住宅",
-      "price_man": 3980,
-      "area_sqm": 219.6,
-      "url": "https://www.homes.co.jp/kodate/b-1265050002641/",
-      "text": "長泉町上土狩中古住宅",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 59.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-33307660000213/|JR御殿場線 長泉なめり駅 5.2km": {
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
@@ -404,6 +375,35 @@
       "ng_areas": [],
       "zokujinsei": false,
       "machi": "",
+      "tab": "home"
+    },
+    "https://www.homes.co.jp/kodate/b-1265050002641/|長泉町上土狩中古住宅": {
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-11-09",
+      "location": "長泉町上土狩中古住宅",
+      "price_man": 3980,
+      "area_sqm": 219.6,
+      "url": "https://www.homes.co.jp/kodate/b-1265050002641/",
+      "text": "長泉町上土狩中古住宅",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 59.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
       "tab": "home"
     },
     "https://www.homes.co.jp/kodate/b-1265050002502/|長泉町東野中古住宅": {
@@ -610,6 +610,6 @@
       "tab": "home"
     }
   },
-  "hash": "da0de7604e89c960",
-  "fetched_at": "2026-11-09T14:07:51.442763"
+  "hash": "45a6e36363c10a44",
+  "fetched_at": "2026-11-09T16:59:03.439245"
 }
