@@ -683,7 +683,7 @@ _KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）。fuji
 # する（既存テストは watch._oaza_hit のまま変更不要）。build_html_report/
 # write_csv_report からは fujiview.lookup()/fujiview.summarize() をモジュール経由で呼ぶ。
 import fujiview
-from fujiview import oaza_hit as _oaza_hit
+from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of  # 間取り→部屋数(賃貸rooms_min判定)
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
@@ -693,9 +693,9 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
     """共通テーブルへの正規化レコードを作る。flag_text はフラグ・属性判定に使う範囲のテキスト。
 
     サーバ側ではハード除外しない（C方針）。判定は数値のみ:
-      数値不明 = 価格が null（面積下限>0のタブでは面積nullも数値不明）
-      適合     = 価格≤種別別上限（price_ceiling_by_type） かつ
-                （面積下限≤0なら面積は問わない。>0なら面積≥下限も必要）
+      数値不明 = 価格が null（面積下限>0なら面積null・rooms_min>0なら間取り不明も数値不明）
+      適合     = 価格≤種別別上限（price_ceiling_by_type） かつ（面積下限≤0なら面積は
+                問わない。>0なら面積≥下限も必要）かつ（rooms_min>0なら部屋数≥rooms_min）
       不適合   = 上記以外
     NGエリア・キーワード・再建築不可は除外せず「フラグ」として保持し、絞り込みは
     クライアント側トグルで行う。
@@ -732,13 +732,13 @@ def _make_record(url, text, price, area, area_est, flag_text, filters,
         shubetsu, shubetsu_reason = classify_shubetsu(flag_text, default_type)
     ceiling = ceiling_for(shubetsu, filters)
     area_min = filters.get("area_min_sqm", 330)
-    # 面積下限が0以下（賃貸タブ等）のときは面積を判定条件から外し、価格のみで適合判定する。
-    # area_min>0（既存の売買タブ=330/1000）の挙動はここで一切変えない。
-    area_required = area_min > 0
-
-    if price is None or (area_required and area is None):
+    # 下限が0以下（賃貸のarea_min_sqm等）／rooms_min未指定の項目は判定条件から外す（売買タブの挙動は不変）。
+    # rooms_min（賃貸のみ）は間取りの部屋数が下限以上か。間取りが読めなければ価格nullと同じく数値不明。
+    area_required, rooms_min = area_min > 0, filters.get("rooms_min", 0)
+    rooms = rooms_of(madori) if rooms_min > 0 else None
+    if price is None or (area_required and area is None) or (rooms_min > 0 and rooms is None):
         verdict = "数値不明"
-    elif price <= ceiling and (not area_required or area >= area_min):
+    elif price <= ceiling and (not area_required or area >= area_min) and (rooms_min <= 0 or rooms >= rooms_min):
         verdict = "適合"
     else:
         verdict = "不適合"
@@ -5323,9 +5323,9 @@ function numOrNull(v){v=(''+(v==null?'':v)).trim();return v===''?null:parseFloat
 function hPrice(v){if(v==null)return'';if(v<=300)return'background:#1a7d36;color:#fff';if(v<=600)return'background:#66bb6a';if(v<=1000)return'background:#ffe082';if(v<=2000)return'background:#ffb74d';return'background:#ef9a9a';}
 function hArea(v){if(v==null)return'';if(v>=990)return'background:#1a7d36;color:#fff';if(v>=660)return'background:#66bb6a';if(v>=495)return'background:#ffe082';if(v>=330)return'background:#ffb74d';return'background:#ef9a9a';}
 function hTsubo(v){if(v==null)return'';if(v<=2)return'background:#1a7d36;color:#fff';if(v<=5)return'background:#66bb6a';if(v<=10)return'background:#ffe082';if(v<=20)return'background:#ffb74d';return'background:#ef9a9a';} /* 富士山:高いほど濃い緑(fujimap連携B) */ function hFuji(v){if(v==null)return'';if(v>=80)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=20)return'background:#ffb74d';return'background:#ef9a9a';}
-// 賃貸タブ専用ヒートマップ（家賃は万円/月・面積は建物専有面積なので売買の土地面積とは尺度が違う）
-function hRent(v){if(v==null)return'';if(v<=3)return'background:#1a7d36;color:#fff';if(v<=4)return'background:#66bb6a';if(v<=5)return'background:#ffe082';if(v<=7)return'background:#ffb74d';return'background:#ef9a9a';}
-function hAreaRent(v){if(v==null)return'';if(v>=90)return'background:#1a7d36;color:#fff';if(v>=60)return'background:#66bb6a';if(v>=40)return'background:#ffe082';if(v>=25)return'background:#ffb74d';return'background:#ef9a9a';}
+const HEAT_RENT=[10,13,16,20],HEAT_AREA_RENT=[130,110,90,75]; // 賃貸専用ヒートマップの閾値(広い家探し帯。表示色でありフィルタ定義ではない)。家賃=万円/月・面積=建物専有㎡で売買と尺度が違う。凡例(legendRow)も同じ配列から作る
+function hRent(v){if(v==null)return'';const t=HEAT_RENT;if(v<=t[0])return'background:#1a7d36;color:#fff';if(v<=t[1])return'background:#66bb6a';if(v<=t[2])return'background:#ffe082';if(v<=t[3])return'background:#ffb74d';return'background:#ef9a9a';}
+function hAreaRent(v){if(v==null)return'';const t=HEAT_AREA_RENT;if(v>=t[0])return'background:#1a7d36;color:#fff';if(v>=t[1])return'background:#66bb6a';if(v>=t[2])return'background:#ffe082';if(v>=t[3])return'background:#ffb74d';return'background:#ef9a9a';}
 // 検出日の鮮度ヒートマップ（新しいほど濃い緑。4週間超は無着色＝従来どおり）
 function hFirstSeen(v){if(v==null||v<0)return'';if(v<=7)return'background:#1a7d36;color:#fff';if(v<=14)return'background:#66bb6a';if(v<=21)return'background:#ffe082';if(v<=28)return'background:#ffb74d';return'';}
 function rbClass(m){return {'○':'rb-ok','△':'rb-wn','×':'rb-ng'}[m]||'rb-uk';}
@@ -5823,8 +5823,8 @@ function rowHtml(g,inHidden,cols){
 function legendRow(ncol,tab){
   if(tab==='rent'){
     return "<tfoot><tr class=legendrow><td colspan="+ncol+">"
-      +"<span class=lgline>家賃(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤3</b><b style='background:#66bb6a'>≤4</b><b style='background:#ffe082'>≤5</b><b style='background:#ffb74d'>≤7</b><b style='background:#ef9a9a'>&gt;7</b> 万円/月</span>"
-      +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥90</b><b style='background:#66bb6a'>≥60</b><b style='background:#ffe082'>≥40</b><b style='background:#ffb74d'>≥25</b> ㎡</span>"
+      +"<span class=lgline>家賃(安いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≤"+HEAT_RENT[0]+"</b><b style='background:#66bb6a'>≤"+HEAT_RENT[1]+"</b><b style='background:#ffe082'>≤"+HEAT_RENT[2]+"</b><b style='background:#ffb74d'>≤"+HEAT_RENT[3]+"</b><b style='background:#ef9a9a'>&gt;"+HEAT_RENT[3]+"</b> 万円/月</span>"
+      +"<span class=lgline>面積(広いほど濃い緑):<b style='background:#1a7d36;color:#fff'>≥"+HEAT_AREA_RENT[0]+"</b><b style='background:#66bb6a'>≥"+HEAT_AREA_RENT[1]+"</b><b style='background:#ffe082'>≥"+HEAT_AREA_RENT[2]+"</b><b style='background:#ffb74d'>≥"+HEAT_AREA_RENT[3]+"</b> ㎡</span>"
       +"<span class=lgline>検出日(新しいほど濃い緑):<b style='background:#1a7d36;color:#fff'>1週間以内</b><b style='background:#66bb6a'>2週間以内</b><b style='background:#ffe082'>3週間以内</b><b style='background:#ffb74d'>4週間以内</b><b>それ以前</b></span>"
       +"<span class=lgline>参考情報: <span class=bi>緑=好材料</span> <span class=bc>赤=注意点</span> <span class=bz>属人性</span></span>"
       +"</td></tr></tfoot>";
