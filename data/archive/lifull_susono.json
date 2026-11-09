@@ -175,17 +175,6 @@
     "removed_on": "2026-10-29",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1564140000168/|裾野市須山 (南御殿場駅)": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-10-30",
-    "location": "裾野市須山 (南御殿場駅)",
-    "price_man": 50,
-    "area_sqm": 551.0,
-    "url": "https://www.homes.co.jp/tochi/b-1564140000168/",
-    "text": "裾野市須山 (南御殿場駅)",
-    "removed_on": "2026-10-31",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-1540930000131/|裾野市二ツ屋 (裾野駅)": {
     "first_seen": "2026-10-31",
     "last_seen": "2026-10-31",
@@ -219,17 +208,6 @@
     "removed_on": "2026-11-03",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1546940000033/|裾野市須山 (富士岡駅)": {
-    "first_seen": "2026-07-11",
-    "last_seen": "2026-11-06",
-    "location": "裾野市須山 (富士岡駅)",
-    "price_man": 150,
-    "area_sqm": 620.0,
-    "url": "https://www.homes.co.jp/tochi/b-1546940000033/",
-    "text": "裾野市須山 (富士岡駅)",
-    "removed_on": "2026-11-07",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-1468010001208/|裾野市桃園 (裾野駅)": {
     "first_seen": "2026-09-30",
     "last_seen": "2026-11-06",
@@ -238,17 +216,6 @@
     "area_sqm": 157.4,
     "url": "https://www.homes.co.jp/tochi/b-1468010001208/",
     "text": "裾野市桃園 (裾野駅)",
-    "removed_on": "2026-11-07",
-    "site_name": "LIFULL 土地 裾野市"
-  },
-  "https://www.homes.co.jp/tochi/b-33329030000130/|裾野市須山 (御殿場駅)": {
-    "first_seen": "2026-10-28",
-    "last_seen": "2026-11-06",
-    "location": "裾野市須山 (御殿場駅)",
-    "price_man": 1390,
-    "area_sqm": 1149.0,
-    "url": "https://www.homes.co.jp/tochi/b-33329030000130/",
-    "text": "裾野市須山 (御殿場駅)",
     "removed_on": "2026-11-07",
     "site_name": "LIFULL 土地 裾野市"
   },
@@ -296,17 +263,6 @@
     "removed_on": "2026-11-08",
     "site_name": "LIFULL 土地 裾野市"
   },
-  "https://www.homes.co.jp/tochi/b-1490460002307/|裾野市深良 (岩波駅)": {
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-08",
-    "location": "裾野市深良 (岩波駅)",
-    "price_man": 480,
-    "area_sqm": 113.7,
-    "url": "https://www.homes.co.jp/tochi/b-1490460002307/",
-    "text": "裾野市深良 (岩波駅)",
-    "removed_on": "2026-11-09",
-    "site_name": "LIFULL 土地 裾野市"
-  },
   "https://www.homes.co.jp/tochi/b-1155020001875/|裾野市千福が丘3丁目": {
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-08",
@@ -315,6 +271,50 @@
     "area_sqm": 789.5,
     "url": "https://www.homes.co.jp/tochi/b-1155020001875/",
     "text": "裾野市千福が丘3丁目",
+    "removed_on": "2026-11-09",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-93570000285/|裾野市千福 (裾野駅)": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-09",
+    "location": "裾野市千福 (裾野駅)",
+    "price_man": 800,
+    "area_sqm": 211.1,
+    "url": "https://www.homes.co.jp/tochi/b-93570000285/",
+    "text": "裾野市千福 (裾野駅)",
+    "removed_on": "2026-11-09",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-33310270000068/|裾野市須山 (岩波駅)": {
+    "first_seen": "2026-10-14",
+    "last_seen": "2026-11-09",
+    "location": "裾野市須山 (岩波駅)",
+    "price_man": 90,
+    "area_sqm": 768.0,
+    "url": "https://www.homes.co.jp/tochi/b-33310270000068/",
+    "text": "裾野市須山 (岩波駅)",
+    "removed_on": "2026-11-09",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-1468040000346/|裾野市茶畑 (裾野駅)": {
+    "first_seen": "2026-07-22",
+    "last_seen": "2026-11-09",
+    "location": "裾野市茶畑 (裾野駅)",
+    "price_man": 700,
+    "area_sqm": 806.0,
+    "url": "https://www.homes.co.jp/tochi/b-1468040000346/",
+    "text": "裾野市茶畑 (裾野駅)",
+    "removed_on": "2026-11-09",
+    "site_name": "LIFULL 土地 裾野市"
+  },
+  "https://www.homes.co.jp/tochi/b-33307280000058/|裾野市水窪 (長泉なめり駅)": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "location": "裾野市水窪 (長泉なめり駅)",
+    "price_man": 1600,
+    "area_sqm": 168.3,
+    "url": "https://www.homes.co.jp/tochi/b-33307280000058/",
+    "text": "裾野市水窪 (長泉なめり駅)",
     "removed_on": "2026-11-09",
     "site_name": "LIFULL 土地 裾野市"
   }

@@ -1022,17 +1022,6 @@
     "removed_on": "2026-11-08",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300001603000004000001/|ハピデンス西本町": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-07",
-    "location": "静岡県三島市西本町",
-    "price_man": 5.7,
-    "area_sqm": 28.5,
-    "url": "https://www.eheya.net/detail/300001603000004000001/",
-    "text": "ハピデンス西本町",
-    "removed_on": "2026-11-08",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300001603000314000001/|ペイサージュN": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-07",
@@ -1118,6 +1107,61 @@
     "area_sqm": 67.4,
     "url": "https://www.eheya.net/detail/300001603000453000001/",
     "text": "ロイヤルプラザ高田",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140001173006414/|ヴィオラ N": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-09",
+    "location": "静岡県三島市長伏",
+    "price_man": 5.3,
+    "area_sqm": 31.0,
+    "url": "https://www.eheya.net/detail/300000140001173006414/",
+    "text": "ヴィオラ N",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832002843000003/|ミレニアム・パレ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-09",
+    "location": "静岡県三島市徳倉４丁目",
+    "price_man": 6.8,
+    "area_sqm": 62.5,
+    "url": "https://www.eheya.net/detail/300059832002843000003/",
+    "text": "ミレニアム・パレ",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142001935000002/|ヴィライースト": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-09",
+    "location": "静岡県三島市長伏",
+    "price_man": 7.1,
+    "area_sqm": 72.8,
+    "url": "https://www.eheya.net/detail/300000142001935000002/",
+    "text": "ヴィライースト",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000105000001/|パステルビレッジ E": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-09",
+    "location": "静岡県三島市松本",
+    "price_man": 5.8,
+    "area_sqm": 63.3,
+    "url": "https://www.eheya.net/detail/300001603000105000001/",
+    "text": "パステルビレッジ E",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142001068000018/|ヴィラ停雲": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-09",
+    "location": "静岡県三島市大宮町１丁目",
+    "price_man": 7.0,
+    "area_sqm": 47.1,
+    "url": "https://www.eheya.net/detail/300000142001068000018/",
+    "text": "ヴィラ停雲",
     "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 三島市"
   }

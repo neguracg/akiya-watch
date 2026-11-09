@@ -435,13 +435,13 @@
       "machi": "伊豆の国市",
       "tab": "rent"
     },
-    "https://www.chintai.net/detail/bk-C030007870000000001074250007/|ネオステージ原木": {
-      "first_seen": "2026-09-22",
+    "https://www.chintai.net/detail/bk-C030007870000000001074250009/|ネオステージ原木": {
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.2,
       "area_sqm": 47.5,
-      "url": "https://www.chintai.net/detail/bk-C030007870000000001074250007/",
+      "url": "https://www.chintai.net/detail/bk-C030007870000000001074250009/",
       "text": "ネオステージ原木",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -464,13 +464,13 @@
       "machi": "伊豆の国市",
       "tab": "rent"
     },
-    "https://www.chintai.net/detail/bk-C030007870000000001074250009/|ネオステージ原木": {
+    "https://www.chintai.net/detail/bk-C030007870000000001074250008/|ネオステージ原木": {
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
       "location": "静岡県伊豆の国市原木",
       "price_man": 4.2,
       "area_sqm": 47.5,
-      "url": "https://www.chintai.net/detail/bk-C030007870000000001074250009/",
+      "url": "https://www.chintai.net/detail/bk-C030007870000000001074250008/",
       "text": "ネオステージ原木",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -728,6 +728,6 @@
       "tab": "rent"
     }
   },
-  "hash": "028c32330d44b334",
-  "fetched_at": "2026-11-09T01:47:02.223099"
+  "hash": "e66c1bb7e76a14d8",
+  "fetched_at": "2026-11-09T13:52:35.822551"
 }

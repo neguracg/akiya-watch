@@ -2650,28 +2650,6 @@
     "removed_on": "2026-11-07",
     "site_name": "SUUMO 賃貸 伊豆市"
   },
-  "https://suumo.jp/chintai/jnc_000105384921/|天王ビューハイツ": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "location": "静岡県伊豆市修善寺",
-    "price_man": 4.2,
-    "area_sqm": 40.3,
-    "url": "https://suumo.jp/chintai/jnc_000105384921/",
-    "text": "天王ビューハイツ",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
-  "https://suumo.jp/chintai/jnc_000093888308/?bc=100531217831|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
-    "location": "静岡県伊豆市修善寺",
-    "price_man": 4.3,
-    "area_sqm": 38.8,
-    "url": "https://suumo.jp/chintai/jnc_000093888308/?bc=100531217831",
-    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 伊豆市"
-  },
   "https://suumo.jp/chintai/jnc_000110880341/|ファミール純": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-07",
@@ -2702,6 +2680,39 @@
     "area_sqm": 33.5,
     "url": "https://suumo.jp/chintai/jnc_000110176697/?bc=100529710562",
     "text": "ビレッジハウス修善寺1号棟",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000110936538/|アルページュ": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-09",
+    "location": "静岡県伊豆市柏久保",
+    "price_man": 6.1,
+    "area_sqm": 57.2,
+    "url": "https://suumo.jp/chintai/jnc_000110936538/",
+    "text": "アルページュ",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000105384921/?bc=100492917190|天王ビューハイツ": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-09",
+    "location": "静岡県伊豆市修善寺",
+    "price_man": 4.2,
+    "area_sqm": 42.4,
+    "url": "https://suumo.jp/chintai/jnc_000105384921/?bc=100492917190",
+    "text": "天王ビューハイツ",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 賃貸 伊豆市"
+  },
+  "https://suumo.jp/chintai/jnc_000093888308/?bc=100406612950|伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-09",
+    "location": "静岡県伊豆市修善寺",
+    "price_man": 4.3,
+    "area_sqm": 38.8,
+    "url": "https://suumo.jp/chintai/jnc_000093888308/?bc=100406612950",
+    "text": "伊豆箱根鉄道駿豆線 修善寺駅 2階建 築35年",
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 賃貸 伊豆市"
   }

@@ -1,5 +1,34 @@
 {
   "keys": {
+    "https://www.eheya.net/detail/300001603005559000001/|プロムナード": {
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "location": "静岡県田方郡函南町柏谷",
+      "price_man": 5.8,
+      "area_sqm": 56.5,
+      "url": "https://www.eheya.net/detail/300001603005559000001/",
+      "text": "プロムナード",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2LDK",
+      "chikunen": "築15年 / 2階建",
+      "kanrihi": 5100,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "函南町",
+      "tab": "rent"
+    },
     "https://www.eheya.net/detail/300000140001330007599/|ソエレンシア": {
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
@@ -3854,35 +3883,6 @@
       "machi": "函南町",
       "tab": "rent"
     },
-    "https://www.eheya.net/detail/300000140000919004453/|プロムナード": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-09",
-      "location": "静岡県田方郡函南町柏谷",
-      "price_man": 5.8,
-      "area_sqm": 56.5,
-      "url": "https://www.eheya.net/detail/300000140000919004453/",
-      "text": "プロムナード",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
-      "chikunen": "築15年 / 2階建",
-      "kanrihi": 5100,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "函南町",
-      "tab": "rent"
-    },
     "https://www.eheya.net/detail/300000142004225000001/|グランドール高城C": {
       "first_seen": "2026-10-27",
       "last_seen": "2026-11-09",
@@ -4062,6 +4062,6 @@
       "tab": "rent"
     }
   },
-  "hash": "6daa87d29ffce205",
-  "fetched_at": "2026-11-09T01:34:01.922377"
+  "hash": "e94aedb1853d7781",
+  "fetched_at": "2026-11-09T13:39:32.621579"
 }

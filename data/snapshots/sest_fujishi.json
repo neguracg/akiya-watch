@@ -116,14 +116,14 @@
       "machi": "富士市",
       "tab": "camp"
     },
-    "https://buy.s-est.co.jp/land/372776/|富士市石坂　建築条件なし　売土地": {
-      "first_seen": "2026-10-06",
+    "https://buy.s-est.co.jp/land/372776/|富士市石坂　建築条件なし　約57.08坪　売土地": {
+      "first_seen": "2026-11-09",
       "last_seen": "2026-11-09",
       "location": "静岡県富士市石坂196-20",
       "price_man": 980,
       "area_sqm": 188.7,
       "url": "https://buy.s-est.co.jp/land/372776/",
-      "text": "富士市石坂　建築条件なし　売土地",
+      "text": "富士市石坂　建築条件なし　約57.08坪　売土地",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -929,6 +929,6 @@
       "tab": "camp"
     }
   },
-  "hash": "e6be121e57c1c902",
-  "fetched_at": "2026-11-09T01:59:55.476026"
+  "hash": "fc766a01fbaf85d0",
+  "fetched_at": "2026-11-09T14:05:52.932051"
 }

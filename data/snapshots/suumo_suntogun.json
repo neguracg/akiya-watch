@@ -551,6 +551,35 @@
       "machi": "清水町",
       "tab": "home"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22058273/|サントムーン柿田川まで徒歩3分の好立地": {
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "location": "静岡県駿東郡清水町玉川",
+      "price_man": 2750,
+      "area_sqm": 171.9,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22058273/",
+      "text": "サントムーン柿田川まで徒歩3分の好立地",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 52.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "home"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22083085/|◇駅まで徒歩１５分の好立地で、大通りから少し入った閑静な住宅街": {
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-09",
@@ -1248,6 +1277,6 @@
       "tab": "home"
     }
   },
-  "hash": "54fc36421fe32d25",
-  "fetched_at": "2026-11-09T01:36:19.506389"
+  "hash": "bf463efce5de8b33",
+  "fetched_at": "2026-11-09T13:41:52.292719"
 }
