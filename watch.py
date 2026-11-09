@@ -683,7 +683,7 @@ _KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）。fuji
 # する（既存テストは watch._oaza_hit のまま変更不要）。build_html_report/
 # write_csv_report からは fujiview.lookup()/fujiview.summarize() をモジュール経由で呼ぶ。
 import fujiview
-from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of  # 間取り→部屋数(賃貸rooms_min判定)
+from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of, ROOMS_JS  # 間取り→部屋数(賃貸rooms_min判定。ROOMS_JSは表示側の写し)
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
@@ -4809,7 +4809,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
         "campAmin": camp_over.get("area_min_sqm"),
         # 賃貸タブ: 判定閾値(参考・月額家賃万円)。表示フィルタ既定は「絞らない」(null)
         "rentPmax": rent_over.get("price_max_man"),
-        "rentAmin": rent_over.get("area_min_sqm"),
+        "rentAmin": rent_over.get("area_min_sqm"), "rentRoomsMin": rent_over.get("rooms_min"),  # 部屋数下限(passRooms。madori.ROOMS_JS)
         # 参考情報（バッジの見方）の本命/注意キーワード説明文はタブごとに意味が違うため
         # base(更地/家付き/キャンプ場土地共通)とrent(賃貸)を両方渡し、JS側でタブ切替時に
         # 差し替える（filters.rent が賃貸タブのサーバ側判定に使われているのと対応させる）。
@@ -4957,7 +4957,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("const CONFIG=" + config_js + ";")
     H.append("const SUMMARY=" + summary_json + ";")
     H.append("const DISAPPEARED=" + disappeared_json + ";")
-    H.append(_FILTER_JS)
+    H.append(_FILTER_JS + ROOMS_JS)  # ROOMS_JS=賃貸の部屋数絞り込み(madori.py所有。passFiltersが呼ぶ)
     H.append("</script>")
     H.append("</body></html>")
     return "\n".join(H)
@@ -5685,7 +5685,7 @@ function inTabBucket(d,tab){
 // その場合だけ互換維持として全タブに表示する（tabがあれば inTabBucket と同じ判定）。
 function inTabBucketOrUntagged(d,tab){return d.tab==null?true:inTabBucket(d,tab);}
 function passFilters(d){
-  if(!inTabBucket(d,S.tab))return false;
+  if(!inTabBucket(d,S.tab)||!passRooms(d))return false;  // passRoomsは賃貸の部屋数下限(CONFIG.rentRoomsMin。間取り不明は通す)
   // 駐車場は住居ではなく月額数千円のため、混ぜると「安い順」の上位を占めて
   // 住む物件が埋もれる。既定で隠し、種別フィルタで明示的にチェックすれば出す。
   if(S.tab==='rent'&&d.shubetsu==='駐車場'){
