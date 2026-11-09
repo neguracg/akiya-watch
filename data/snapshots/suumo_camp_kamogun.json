@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_21858822/|総区画40の開発分譲地内分譲地内道路はすべて幅員6.5m": {
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "静岡県賀茂郡東伊豆町稲取3011-269",
       "price_man": 500,
       "area_sqm": 236.4,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_21279944/|温暖な気候と山に囲まれた住まいで田舎暮らしを満喫！": {
       "first_seen": "2026-08-01",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "静岡県賀茂郡南伊豆町下賀茂600番21",
       "price_man": 480,
       "area_sqm": 248.2,
@@ -60,7 +60,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_79108111/|※松崎海水浴場まで約2.6km、車で約５分で行くことができます。": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "静岡県賀茂郡松崎町櫻田",
       "price_man": 990,
       "area_sqm": 548.7,
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_21429675/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-08-15",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "静岡県賀茂郡西伊豆町仁科",
       "price_man": 1580,
       "area_sqm": 641.4,
@@ -118,7 +118,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_kamogun/nc_20783171/|☆　約2000坪の広大な敷地です。　　→住宅用地や事業用地におすすめです。": {
       "first_seen": "2026-07-12",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "静岡県賀茂郡西伊豆町仁科",
       "price_man": 11000,
       "area_sqm": 6593.3,
@@ -146,6 +146,6 @@
       "tab": "camp"
     }
   },
-  "hash": "ff5887f1b746fadd",
-  "fetched_at": "2026-11-08T01:30:33.840279"
+  "hash": "f9a81d3375373e17",
+  "fetched_at": "2026-11-09T01:52:44.666539"
 }

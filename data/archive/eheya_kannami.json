@@ -296,17 +296,6 @@
     "removed_on": "2026-11-03",
     "site_name": "いい部屋ネット 田方郡函南町"
   },
-  "https://www.eheya.net/detail/300000142003261000004/|ヴィル・スクエア": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-03",
-    "location": "静岡県田方郡函南町上沢",
-    "price_man": 7.1,
-    "area_sqm": 62.1,
-    "url": "https://www.eheya.net/detail/300000142003261000004/",
-    "text": "ヴィル・スクエア",
-    "removed_on": "2026-11-04",
-    "site_name": "いい部屋ネット 田方郡函南町"
-  },
   "https://www.eheya.net/detail/300000142002159000010/|メルベーユS / プロシードS プロシードS": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-03",
@@ -351,17 +340,6 @@
     "removed_on": "2026-11-07",
     "site_name": "いい部屋ネット 田方郡函南町"
   },
-  "https://www.eheya.net/detail/300000140001330007599/|ソエレンシア": {
-    "first_seen": "2026-11-07",
-    "last_seen": "2026-11-07",
-    "location": "静岡県田方郡函南町平井",
-    "price_man": 6.1,
-    "area_sqm": 46.5,
-    "url": "https://www.eheya.net/detail/300000140001330007599/",
-    "text": "ソエレンシア",
-    "removed_on": "2026-11-08",
-    "site_name": "いい部屋ネット 田方郡函南町"
-  },
   "https://www.eheya.net/detail/300000142002426000003/|ハーモニーガーデン": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-07",
@@ -393,6 +371,28 @@
     "url": "https://www.eheya.net/detail/300001603005294000001/",
     "text": "ラ・メゾンK’S Ⅱ",
     "removed_on": "2026-11-08",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005116000001/|ヴィル・スクエア": {
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-08",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.3,
+    "area_sqm": 61.1,
+    "url": "https://www.eheya.net/detail/300001603005116000001/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142003261000006/|ヴィル・スクエア": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-08",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.0,
+    "area_sqm": 61.8,
+    "url": "https://www.eheya.net/detail/300000142003261000006/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 田方郡函南町"
   }
 }

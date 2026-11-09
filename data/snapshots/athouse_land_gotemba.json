@@ -2,7 +2,7 @@
   "keys": {
     "https://www.at-house.jp/uri-tochi/detail-6323c530ce03c249fa43532d/|御殿場市西田中": {
       "first_seen": "2026-09-22",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "御殿場市西田中",
       "price_man": 1230,
       "area_sqm": 175.0,
@@ -31,7 +31,7 @@
     },
     "https://www.at-house.jp/uri-tochi/detail-6aed6087b8d4db315cc7897b/|御殿場市川島田": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "御殿場市川島田",
       "price_man": 1280,
       "area_sqm": 353.9,
@@ -60,7 +60,7 @@
     },
     "https://www.at-house.jp/uri-tochi/detail-68c90cbf1bbca2070d11b89b/|御殿場市杉名沢": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "御殿場市杉名沢",
       "price_man": 1298,
       "area_sqm": 275.0,
@@ -89,7 +89,7 @@
     },
     "https://www.at-house.jp/uri-tochi/detail-6473f11c83588c13d54fe09b/|御殿場市川島田": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-08",
+      "last_seen": "2026-11-09",
       "location": "御殿場市川島田",
       "price_man": 1300,
       "area_sqm": 188.2,
@@ -117,6 +117,6 @@
       "tab": "camp"
     }
   },
-  "hash": "675166729369d680",
-  "fetched_at": "2026-11-08T01:11:25.726358"
+  "hash": "5558576f9e9943e6",
+  "fetched_at": "2026-11-09T01:33:31.988766"
 }

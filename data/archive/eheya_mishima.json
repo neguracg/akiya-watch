@@ -98,17 +98,6 @@
     "removed_on": "2026-10-29",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300001603003619000001/|ヒルズ・若松町Ⅲ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-29",
-    "location": "静岡県三島市若松町",
-    "price_man": 8.3,
-    "area_sqm": 59.4,
-    "url": "https://www.eheya.net/detail/300001603003619000001/",
-    "text": "ヒルズ・若松町Ⅲ",
-    "removed_on": "2026-10-30",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300000140000854003945/|カーサプラシード": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-10-29",
@@ -216,17 +205,6 @@
     "area_sqm": 15.7,
     "url": "https://www.eheya.net/detail/300000142004611000002/",
     "text": "ルネコート三島",
-    "removed_on": "2026-10-31",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300000142004633000001/|SEIKOUビル": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-10-30",
-    "location": "静岡県三島市本町",
-    "price_man": 4.0,
-    "area_sqm": 26.3,
-    "url": "https://www.eheya.net/detail/300000142004633000001/",
-    "text": "SEIKOUビル",
     "removed_on": "2026-10-31",
     "site_name": "いい部屋ネット 三島市"
   },
@@ -1075,6 +1053,72 @@
     "url": "https://www.eheya.net/detail/300001603000312000001/",
     "text": "ペイサージュN",
     "removed_on": "2026-11-08",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832003406000001/|(仮称)三島市萩新築長屋住宅": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市萩",
+    "price_man": 11.0,
+    "area_sqm": 85.3,
+    "url": "https://www.eheya.net/detail/300059832003406000001/",
+    "text": "(仮称)三島市萩新築長屋住宅",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832003406000002/|(仮称)三島市萩新築長屋住宅": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市萩",
+    "price_man": 11.0,
+    "area_sqm": 85.3,
+    "url": "https://www.eheya.net/detail/300059832003406000002/",
+    "text": "(仮称)三島市萩新築長屋住宅",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832003406000003/|(仮称)三島市萩新築長屋住宅": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市萩",
+    "price_man": 11.0,
+    "area_sqm": 85.3,
+    "url": "https://www.eheya.net/detail/300059832003406000003/",
+    "text": "(仮称)三島市萩新築長屋住宅",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142003620000003/|ヒルズ・若松町Ⅲ": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市若松町",
+    "price_man": 8.3,
+    "area_sqm": 59.4,
+    "url": "https://www.eheya.net/detail/300000142003620000003/",
+    "text": "ヒルズ・若松町Ⅲ",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300059832003434000001/|メゾンMロードⅡ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市谷田",
+    "price_man": 7.8,
+    "area_sqm": 66.2,
+    "url": "https://www.eheya.net/detail/300059832003434000001/",
+    "text": "メゾンMロードⅡ",
+    "removed_on": "2026-11-09",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000453000001/|ロイヤルプラザ高田": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市若松町",
+    "price_man": 6.5,
+    "area_sqm": 67.4,
+    "url": "https://www.eheya.net/detail/300001603000453000001/",
+    "text": "ロイヤルプラザ高田",
+    "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 三島市"
   }
 }

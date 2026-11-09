@@ -780,28 +780,6 @@
     "removed_on": "2026-10-31",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/|土地面積46.13坪の整形地です。お好きなハウスメーカーで建築可能です！": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-30",
-    "location": "神奈川県小田原市飯泉",
-    "price_man": 1680,
-    "area_sqm": 152.5,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/",
-    "text": "土地面積46.13坪の整形地です。お好きなハウスメーカーで建築可能です！",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 土地 小田原市"
-  },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/|■建築条件なしの土地です。■お好きなハウスメーカーで建築可能です。": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-10-30",
-    "location": "神奈川県小田原市栄町１",
-    "price_man": 3180,
-    "area_sqm": 108.7,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/",
-    "text": "■建築条件なしの土地です。■お好きなハウスメーカーで建築可能です。",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20948139/|扇町２（井細田駅） 2億2800万円": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-10-30",
@@ -912,17 +890,6 @@
     "removed_on": "2026-11-05",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21231273/|寿町２（小田原駅） 1980万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-04",
-    "location": "神奈川県小田原市寿町２",
-    "price_man": 1980,
-    "area_sqm": 121.0,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21231273/",
-    "text": "寿町２（小田原駅） 1980万円",
-    "removed_on": "2026-11-05",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78470838/|売主物件！箱根板橋駅徒歩約５分。": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-04",
@@ -998,6 +965,61 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22022952/",
     "text": "西酒匂３（鴨宮駅） 1780万円",
     "removed_on": "2026-11-08",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/|飯泉（鴨宮駅） 1680万円": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
+    "location": "神奈川県小田原市飯泉",
+    "price_man": 1680,
+    "area_sqm": 152.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21523060/",
+    "text": "飯泉（鴨宮駅） 1680万円",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21739348/|閑静な住宅街です。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-08",
+    "location": "神奈川県小田原市南鴨宮１",
+    "price_man": 2250,
+    "area_sqm": 145.8,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21739348/",
+    "text": "閑静な住宅街です。",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21739584/|閑静な住宅街です。": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-08",
+    "location": "神奈川県小田原市南鴨宮１",
+    "price_man": 2850,
+    "area_sqm": 211.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21739584/",
+    "text": "閑静な住宅街です。",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/|栄町１（小田原駅） 3180万円": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-08",
+    "location": "神奈川県小田原市栄町１",
+    "price_man": 3180,
+    "area_sqm": 108.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21560820/",
+    "text": "栄町１（小田原駅） 3180万円",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22087763/|鴨宮駅徒歩10分♪建築条件無し♪約110坪超え♪北東角地♪": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-08",
+    "location": "神奈川県小田原市鴨宮",
+    "price_man": 3940,
+    "area_sqm": 376.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22087763/",
+    "text": "鴨宮駅徒歩10分♪建築条件無し♪約110坪超え♪北東角地♪",
+    "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

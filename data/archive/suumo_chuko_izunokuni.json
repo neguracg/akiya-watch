@@ -702,5 +702,16 @@
     "text": "韮山山木 1000万円",
     "removed_on": "2026-11-06",
     "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21590394/|奈古谷 100万円": {
+    "first_seen": "2026-08-29",
+    "last_seen": "2026-11-08",
+    "location": "静岡県伊豆の国市奈古谷",
+    "price_man": 100,
+    "area_sqm": 301.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_21590394/",
+    "text": "奈古谷 100万円",
+    "removed_on": "2026-11-09",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
   }
 }

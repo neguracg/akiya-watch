@@ -516,17 +516,6 @@
     "removed_on": "2026-10-02",
     "site_name": "SUUMO 土地 三島市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/|土地面積１００坪以上、建築条件なし": {
-    "first_seen": "2026-08-03",
-    "last_seen": "2026-10-09",
-    "location": "静岡県三島市文教町２-4777",
-    "price_man": 3880,
-    "area_sqm": 346.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/",
-    "text": "土地面積１００坪以上、建築条件なし",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 土地 三島市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_20319563/|「三島広小路」駅近く！【建築条件なし♪】■敷地面積５９坪以上■全１区画販売": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-10-11",
@@ -932,6 +921,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21921099/",
     "text": "松本 2190万円",
     "removed_on": "2026-11-08",
+    "site_name": "SUUMO 土地 三島市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/|文教町２（三島駅） 3880万円": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-08",
+    "location": "静岡県三島市文教町２-4777",
+    "price_man": 3880,
+    "area_sqm": 346.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_mishima/nc_21237120/",
+    "text": "文教町２（三島駅） 3880万円",
+    "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 三島市"
   }
 }

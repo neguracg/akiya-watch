@@ -1946,50 +1946,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21463318/|今泉（吉原本町駅） 80万円": {
-    "first_seen": "2026-08-09",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 80,
-    "area_sqm": 99.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21463318/",
-    "text": "今泉（吉原本町駅） 80万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78593109/|鈴川西町（吉原駅） 130万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市鈴川西町",
-    "price_man": 130,
-    "area_sqm": 207.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78593109/",
-    "text": "鈴川西町（吉原駅） 130万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20440652/|比奈（比奈駅） 180万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市比奈",
-    "price_man": 180,
-    "area_sqm": 106.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20440652/",
-    "text": "比奈（比奈駅） 180万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77683068/|今泉（岳南原田駅） 200万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 200,
-    "area_sqm": 166.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77683068/",
-    "text": "今泉（岳南原田駅） 200万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_22086686/|増川（神谷駅） 250万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -2009,83 +1965,6 @@
     "area_sqm": 531.0,
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21274189/",
     "text": "増川（神谷駅） 250万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21064201/|中之郷（富士川駅） 350万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市中之郷",
-    "price_man": 350,
-    "area_sqm": 128.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21064201/",
-    "text": "中之郷（富士川駅） 350万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21699194/|大淵（富士根駅） 400万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市大淵",
-    "price_man": 400,
-    "area_sqm": 190.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21699194/",
-    "text": "大淵（富士根駅） 400万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20867908/|木島（富士川駅） 450万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市木島",
-    "price_man": 450,
-    "area_sqm": 309.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20867908/",
-    "text": "木島（富士川駅） 450万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77598479/|中野（入山瀬駅） 490万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市中野",
-    "price_man": 490,
-    "area_sqm": 188.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77598479/",
-    "text": "中野（入山瀬駅） 490万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77219479/|今泉（吉原駅） 500万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉2663-8",
-    "price_man": 500,
-    "area_sqm": 126.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77219479/",
-    "text": "今泉（吉原駅） 500万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78121390/|富士岡（須津駅） 500万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市富士岡",
-    "price_man": 500,
-    "area_sqm": 788.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78121390/",
-    "text": "富士岡（須津駅） 500万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/|中野（本吉原駅） 500万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市中野",
-    "price_man": 500,
-    "area_sqm": 198.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76108306/",
-    "text": "中野（本吉原駅） 500万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
@@ -2155,50 +2034,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20826226/|今泉（岳南原田駅） 850万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 850,
-    "area_sqm": 317.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20826226/",
-    "text": "今泉（岳南原田駅） 850万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21920330/|水戸島（富士駅） 850万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市水戸島",
-    "price_man": 850,
-    "area_sqm": 189.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21920330/",
-    "text": "水戸島（富士駅） 850万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20452071/|岩本（入山瀬駅） 890万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市岩本",
-    "price_man": 890,
-    "area_sqm": 202.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20452071/",
-    "text": "岩本（入山瀬駅） 890万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21218669/|中里（須津駅） 900万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市中里",
-    "price_man": 900,
-    "area_sqm": 212.1,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21218669/",
-    "text": "中里（須津駅） 900万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21512327/|国久保１（吉原本町駅） 950万円": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-03",
@@ -2265,17 +2100,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20765333/|今泉（岳南原田駅） 1100万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 1100,
-    "area_sqm": 186.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20765333/",
-    "text": "今泉（岳南原田駅） 1100万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_22085985/|今泉（岳南原田駅） 1140万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -2309,28 +2133,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20869443/|今泉（本吉原駅） 1200万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 1200,
-    "area_sqm": 253.3,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20869443/",
-    "text": "今泉（本吉原駅） 1200万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78236731/|石坂（岳南原田駅） 1200万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市石坂",
-    "price_man": 1200,
-    "area_sqm": 188.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_78236731/",
-    "text": "石坂（岳南原田駅） 1200万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20213563/|厚原（入山瀬駅） 1280万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -2361,17 +2163,6 @@
     "area_sqm": 223.7,
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_22086855/",
     "text": "中丸（新富士駅） 1280万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21911026/|吉原３（吉原本町駅） 1390万円": {
-    "first_seen": "2026-11-03",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市吉原３",
-    "price_man": 1390,
-    "area_sqm": 203.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21911026/",
-    "text": "吉原３（吉原本町駅） 1390万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
@@ -2452,17 +2243,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21644318/|岩本（入山瀬駅） 1530万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市岩本",
-    "price_man": 1530,
-    "area_sqm": 724.7,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21644318/",
-    "text": "岩本（入山瀬駅） 1530万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20512140/|伝法二本松開発分譲地　全10区画建築条件なし！": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-03",
@@ -2471,28 +2251,6 @@
     "area_sqm": 225.3,
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20512140/",
     "text": "伝法二本松開発分譲地　全10区画建築条件なし！",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21458679/|吉原４（吉原本町駅） 1580万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市吉原４",
-    "price_man": 1580,
-    "area_sqm": 242.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21458679/",
-    "text": "吉原４（吉原本町駅） 1580万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76634299/|今泉（吉原本町駅） 1700万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 1700,
-    "area_sqm": 292.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_76634299/",
-    "text": "今泉（吉原本町駅） 1700万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
@@ -2548,17 +2306,6 @@
     "area_sqm": 318.8,
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_77775191/",
     "text": "建築条件無し！クリエイト木の宮店まで約100ｍ！生活便利な立地です",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/|今泉（富士駅） 1950万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉",
-    "price_man": 1950,
-    "area_sqm": 318.8,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20400491/",
-    "text": "今泉（富士駅） 1950万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
@@ -2636,39 +2383,6 @@
     "area_sqm": 398.3,
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20474480/",
     "text": "県道24号線沿い。視認性抜群のロードサイド。事業も暮らしも叶う120坪。",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_75584551/|神谷（神谷駅） 2800万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市神谷571-1",
-    "price_man": 2800,
-    "area_sqm": 807.4,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_75584551/",
-    "text": "神谷（神谷駅） 2800万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21103481/|石坂（吉原本町駅） 2850万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市石坂",
-    "price_man": 2850,
-    "area_sqm": 554.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21103481/",
-    "text": "石坂（吉原本町駅） 2850万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 富士市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20814730/|今泉８（吉原本町駅） 2990万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県富士市今泉８",
-    "price_man": 2990,
-    "area_sqm": 664.5,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20814730/",
-    "text": "今泉８（吉原本町駅） 2990万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 富士市"
   },
@@ -2824,6 +2538,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20900793/",
     "text": "【デグチエステート】三ツ沢治郎畑土地※B区画ご成約となりました！",
     "removed_on": "2026-11-08",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21821066/|※　市街化調整区域内につき建物の建築はできません。": {
+    "first_seen": "2026-09-30",
+    "last_seen": "2026-11-08",
+    "location": "静岡県富士市大淵",
+    "price_man": 50,
+    "area_sqm": 166.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21821066/",
+    "text": "※　市街化調整区域内につき建物の建築はできません。",
+    "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 富士市"
   }
 }
