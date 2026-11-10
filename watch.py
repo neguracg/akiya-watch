@@ -682,7 +682,7 @@ _KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）。fuji
 # する（既存テストは watch._oaza_hit のまま変更不要）。build_html_report/
 # write_csv_report からは fujiview.lookup()/fujiview.summarize() をモジュール経由で呼ぶ。
 import fujiview
-from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of, ROOMS_JS  # 間取り→部屋数(賃貸rooms_min判定。ROOMS_JSは表示側の写し)
+from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of, ROOMS_JS; from rowmark import CSS as ROWMARK_CSS, JS as ROWMARK_JS  # 行の赤枠マーク(rowmark.py所有)・間取り→部屋数(賃貸rooms_min判定。ROOMS_JSは表示側の写し)
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
@@ -4956,7 +4956,7 @@ def build_html_report(results: list, filters: dict, disappeared: list, dry_run: 
     H.append("const CONFIG=" + config_js + ";")
     H.append("const SUMMARY=" + summary_json + ";")
     H.append("const DISAPPEARED=" + disappeared_json + ";")
-    H.append(ROOMS_JS + _FILTER_JS)  # ROOMS_JS=賃貸の部屋数絞り込み(madori.py所有)。constを使うため必ず_FILTER_JSより前（末尾の初回render()が先に走る＝TDZ）
+    H.append(ROOMS_JS + ROWMARK_JS + _FILTER_JS)  # ROWMARK_JS=行の赤枠マーク(rowmark.py所有・constのみ)。ROOMS_JS=賃貸の部屋数絞り込み(madori.py所有)。constを使うため必ず_FILTER_JSより前（末尾の初回render()が先に走る＝TDZ）
     H.append("</script>")
     H.append("</body></html>")
     return "\n".join(H)
@@ -5196,7 +5196,7 @@ _REPORT_CSS = (
     # (openPopup内のelse分岐)はこの変更で一切触っていない。
     "#popup.mobilepos{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);"
     "max-height:80vh;overflow-y:auto;}"
-    "}"
+    "}" + ROWMARK_CSS
 )
 
 
@@ -5813,7 +5813,7 @@ function rowHtml(g,inHidden,cols){
   const fav="<td class=favcell><button class='favbtn"+(isFav?' on':'')+"' data-bdk='"+esc(bdk)+"' title='お気に入り'>"+(isFav?'★':'☆')+"</button></td>";
   let cells='';
   cols.forEach(c=>{cells+=cellHtml(c.k,d,g);});
-  return "<tr>"
+  return "<tr"+markAttr(bdk)+">"  // 行の赤枠マーク(rowmark.py)
     +fav
     +cells
     +"<td class='detailcell'><a href='"+esc(d.url)+"' target=_blank>詳細</a></td>"
@@ -6151,7 +6151,7 @@ if(window.ResizeObserver){
       HIDDEN.set(bdk,snapOf(repByBdk(bdk)));saveHidden();render();return;}
     const rb=e.target.closest('.restorebtn'); if(rb){HIDDEN.delete(rb.dataset.bdk);saveHidden();render();return;}
     const sec=e.target.closest('h2.sec'); if(sec){const t=document.getElementById(sec.dataset.target);sec.classList.toggle('open');t.classList.toggle('open');return;}
-    const pop=document.getElementById('popup'); if(pop.style.display==='block'&&!pop.contains(e.target))closePopup();
+    rowMarkClick(e);const pop=document.getElementById('popup'); if(pop.style.display==='block'&&!pop.contains(e.target))closePopup();
     const ap=document.getElementById('areaPop'); if(ap.style.display==='block'&&!ap.contains(e.target)&&e.target.id!=='areaBtn')ap.style.display='none';
   });
 
