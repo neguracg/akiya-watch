@@ -20,6 +20,8 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     timeout-minutes: 70   # watch.py 側の 55分上限と二重化（2026-09-05: 30分→55分。消込表#472）
+    env:
+      TZ: Asia/Tokyo   # watch.py の datetime.now()（画面の更新時刻・レポート名・検出日）を日本時間にする。未指定だとUTCで9時間ずれる（2026-11-10 #954）
     steps:
       - name: Checkout
         uses: actions/checkout@v4
