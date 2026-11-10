@@ -1,8 +1,39 @@
 {
   "keys": {
+    "https://www.ieichiba.com/project/P202200753伊東十足|静岡県伊東市": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "静岡県伊東市",
+      "price_man": 190,
+      "area_sqm": null,
+      "url": "https://www.ieichiba.com/project/P202200753伊東十足",
+      "text": "静岡県伊東市",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "山林",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [
+        "管理費"
+      ],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊東市",
+      "tab": "camp"
+    },
     "https://www.ieichiba.com/project/P202200550伊東松原K|静岡県伊東市": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県伊東市",
       "price_man": 10,
       "area_sqm": null,
@@ -33,7 +64,7 @@
     },
     "https://www.ieichiba.com/project/P202600957東伊豆町白田H|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県東伊豆町",
       "price_man": 430,
       "area_sqm": null,
@@ -62,7 +93,7 @@
     },
     "https://www.ieichiba.com/project/P202600929東伊豆町片瀬|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県東伊豆町",
       "price_man": 1980,
       "area_sqm": null,
@@ -91,7 +122,7 @@
     },
     "https://www.ieichiba.com/project/P202600454裾野千福が丘|静岡県裾野市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
@@ -120,7 +151,7 @@
     },
     "https://www.ieichiba.com/project/P202600824伊東鎌田S|静岡県伊東市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県伊東市",
       "price_man": 300,
       "area_sqm": null,
@@ -152,7 +183,7 @@
     },
     "https://www.ieichiba.com/project/P202600804伊東鎌田W|静岡県伊東市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県伊東市",
       "price_man": 50,
       "area_sqm": null,
@@ -181,39 +212,8 @@
       "zokujinsei": false,
       "machi": "伊東市",
       "tab": "camp"
-    },
-    "https://www.ieichiba.com/project/P202500238伊東岡O|静岡県伊東市": {
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-09",
-      "location": "静岡県伊東市",
-      "price_man": 450,
-      "area_sqm": null,
-      "url": "https://www.ieichiba.com/project/P202500238伊東岡O",
-      "text": "静岡県伊東市",
-      "shubetsu": "古家付き土地",
-      "shubetsu_reason": "土地＋古家/上物の表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "数値不明",
-      "interest": [],
-      "caution": [
-        "温泉"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊東市",
-      "tab": "camp"
     }
   },
-  "hash": "4a2473aac03dde40",
-  "fetched_at": "2026-11-09T16:57:32.280187"
+  "hash": "89e632f28fa2424e",
+  "fetched_at": "2026-11-10T10:37:11.099934"
 }

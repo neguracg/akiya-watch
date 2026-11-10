@@ -3078,5 +3078,16 @@
     "text": "西間門（沼津駅） 780万円",
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_22055904/|西熊堂 250万円": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-09",
+    "location": "静岡県沼津市西熊堂",
+    "price_man": 250,
+    "area_sqm": 240.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_22055904/",
+    "text": "西熊堂 250万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 沼津市"
   }
 }

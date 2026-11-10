@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/chintai/jnc_000109880901/?bc=100527631818|ＪＲ東海道本線 熱海駅 地上2階建 築50年": {
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県熱海市桃山町",
       "price_man": 13.0,
       "area_sqm": 144.5,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/chintai/jnc_000079549171/?bc=100522193903|金子貸家": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県熱海市泉",
       "price_man": 7.0,
       "area_sqm": 84.0,
@@ -59,6 +59,6 @@
       "tab": "rent"
     }
   },
-  "hash": "f267fa1dbdeb8d1a",
-  "fetched_at": "2026-11-09T16:37:43.470528"
+  "hash": "8e3ccd474fda89a6",
+  "fetched_at": "2026-11-10T10:18:25.421897"
 }

@@ -30909,17 +30909,6 @@
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 賃貸 裾野市 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283|ロイヤルテラス華": {
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-09",
-    "location": "静岡県裾野市稲荷",
-    "price_man": 8.0,
-    "area_sqm": 78.4,
-    "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283",
-    "text": "ロイヤルテラス華",
-    "removed_on": "2026-11-09",
-    "site_name": "SUUMO 賃貸 裾野市 4K以上"
-  },
   "https://suumo.jp/chintai/jnc_000109550694/?bc=100522440244|ＪＲ御殿場線 裾野駅 4階建 築21年": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-09",
@@ -32799,6 +32788,17 @@
     "url": "https://suumo.jp/chintai/jnc_000105509562/?bc=100497139558",
     "text": "コンフォール石脇",
     "removed_on": "2026-11-09",
+    "site_name": "SUUMO 賃貸 裾野市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000102720801/?bc=100482231353|ロイヤルテラス華": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-09",
+    "location": "静岡県裾野市稲荷",
+    "price_man": 8.0,
+    "area_sqm": 78.4,
+    "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100482231353",
+    "text": "ロイヤルテラス華",
+    "removed_on": "2026-11-10",
     "site_name": "SUUMO 賃貸 裾野市 4K以上"
   }
 }

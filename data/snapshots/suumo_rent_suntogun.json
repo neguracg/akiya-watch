@@ -1,17 +1,17 @@
 {
   "keys": {
-    "https://suumo.jp/chintai/jnc_000102146363/?bc=100456727752|ＪＲ東海道本線 沼津駅 地上2階建 築39年": {
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000102146363/?bc=100516888240|ＪＲ東海道本線 沼津駅 2階建 築39年": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 8.0,
-      "area_sqm": 144.1,
-      "url": "https://suumo.jp/chintai/jnc_000102146363/?bc=100456727752",
-      "text": "ＪＲ東海道本線 沼津駅 地上2階建 築39年",
+      "area_sqm": 142.2,
+      "url": "https://suumo.jp/chintai/jnc_000102146363/?bc=100516888240",
+      "text": "ＪＲ東海道本線 沼津駅 2階建 築39年",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "5LDK",
-      "chikunen": "築39年 地上2階建",
+      "chikunen": "築39年 2階建",
       "kanrihi": null,
       "shikikin": "8万円",
       "reikin": null,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/chintai/jnc_000099655728/?bc=100050360956|ロイヤルコート富士見": {
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町柿田",
       "price_man": 9.5,
       "area_sqm": 75.0,
@@ -58,13 +58,13 @@
       "machi": "清水町",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000069719394/?bc=100262095550|ロイヤルコート富士見": {
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000069719394/?bc=100516677466|ロイヤルコート富士見": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町柿田",
       "price_man": 10.0,
       "area_sqm": 75.0,
-      "url": "https://suumo.jp/chintai/jnc_000069719394/?bc=100262095550",
+      "url": "https://suumo.jp/chintai/jnc_000069719394/?bc=100516677466",
       "text": "ロイヤルコート富士見",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/chintai/jnc_000106615811/?bc=100447624796|久米田戸建": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町久米田",
       "price_man": 13.0,
       "area_sqm": 125.0,
@@ -120,7 +120,7 @@
     },
     "https://suumo.jp/chintai/jnc_000106462451/?bc=100502595177|ロイヤルガーデン": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町畑中",
       "price_man": 14.8,
       "area_sqm": 132.3,
@@ -149,7 +149,7 @@
     },
     "https://suumo.jp/chintai/jnc_000103601809/?bc=100478852543|ロイヤルガーデン": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町畑中",
       "price_man": 17.0,
       "area_sqm": 132.3,
@@ -176,38 +176,9 @@
       "machi": "清水町",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911|ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年": {
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-09",
-      "location": "静岡県駿東郡長泉町納米里",
-      "price_man": 17.0,
-      "area_sqm": 106.4,
-      "url": "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911",
-      "text": "ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "4LDK",
-      "chikunen": "築10年 地上2階建",
-      "kanrihi": null,
-      "shikikin": "34万円",
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "長泉町",
-      "tab": "rent"
-    },
     "https://suumo.jp/chintai/jnc_000109258626/?bc=100488186778|伊豆箱根鉄道駿豆線 三島二日町駅 6階建 築26年": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡清水町畑中",
       "price_man": 17.0,
       "area_sqm": 132.3,
@@ -234,9 +205,38 @@
       "machi": "清水町",
       "tab": "rent"
     },
+    "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911|ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年": {
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
+      "location": "静岡県駿東郡長泉町納米里",
+      "price_man": 17.0,
+      "area_sqm": 106.4,
+      "url": "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911",
+      "text": "ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "4LDK",
+      "chikunen": "築10年 地上2階建",
+      "kanrihi": null,
+      "shikikin": "34万円",
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "長泉町",
+      "tab": "rent"
+    },
     "https://suumo.jp/chintai/jnc_000102214134/?bc=000077744804|ラグナヒルA棟": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町竹原",
       "price_man": 6.5,
       "area_sqm": 71.2,
@@ -265,7 +265,7 @@
     },
     "https://suumo.jp/chintai/jnc_000109953939/?bc=100527794136|レノヴァーレ中土狩": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町中土狩",
       "price_man": 8.5,
       "area_sqm": 77.8,
@@ -294,7 +294,7 @@
     },
     "https://suumo.jp/chintai/jnc_000088243666/?bc=100465617421|サンハイツ秋山Ｂ": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町上土狩",
       "price_man": 6.4,
       "area_sqm": 70.0,
@@ -321,13 +321,13 @@
       "machi": "長泉町",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103524912/?bc=100502675064|サンハイツ秋山Ｂ": {
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000103524912/?bc=100502976865|サンハイツ秋山Ｂ": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町上土狩",
       "price_man": 6.4,
       "area_sqm": 70.0,
-      "url": "https://suumo.jp/chintai/jnc_000103524912/?bc=100502675064",
+      "url": "https://suumo.jp/chintai/jnc_000103524912/?bc=100502976865",
       "text": "サンハイツ秋山Ｂ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -352,7 +352,7 @@
     },
     "https://suumo.jp/chintai/jnc_000109628268/?bc=100337669566|駿東郡長泉町東野貸家": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町東野",
       "price_man": 30.0,
       "area_sqm": 318.3,
@@ -381,7 +381,7 @@
     },
     "https://suumo.jp/chintai/jnc_000088514732/?bc=100522250239|長泉町上土狩一戸建て": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "location": "静岡県駿東郡長泉町上土狩",
       "price_man": 23.0,
       "area_sqm": 112.7,
@@ -411,6 +411,6 @@
       "tab": "rent"
     }
   },
-  "hash": "068f86ed147b9995",
-  "fetched_at": "2026-11-09T16:47:18.409309"
+  "hash": "548f91c56da4d854",
+  "fetched_at": "2026-11-10T10:27:07.944906"
 }
