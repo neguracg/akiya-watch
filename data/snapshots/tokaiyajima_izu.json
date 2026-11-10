@@ -1324,6 +1324,35 @@
       "machi": "下田市",
       "tab": "camp"
     },
+    "https://tokaiyajima.com/fudo/12083?bk=os2&shu=&mid=&nor=|＜下田市田牛＞田牛浜まで約80m！海辺の暮らしを楽しめる7LDK": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "静岡県下田市田牛311番地",
+      "price_man": 950,
+      "area_sqm": null,
+      "url": "https://tokaiyajima.com/fudo/12083?bk=os2&shu=&mid=&nor=",
+      "text": "＜下田市田牛＞田牛浜まで約80m！海辺の暮らしを楽しめる7LDK",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "下田市",
+      "tab": "camp"
+    },
     "https://tokaiyajima.com/fudo/10613?bk=os2&shu=&mid=&nor=|＜下田市蓮台寺＞温泉街の中心に佇む住宅2棟＋店舗1棟のセット販売物件": {
       "first_seen": "2026-07-04",
       "last_seen": "2026-11-10",
@@ -2908,6 +2937,6 @@
       "tab": "camp"
     }
   },
-  "hash": "533378838323aef5",
-  "fetched_at": "2026-11-10T13:12:43.880215"
+  "hash": "ad9f0a5966f729a3",
+  "fetched_at": "2026-11-10T17:59:47.684648"
 }

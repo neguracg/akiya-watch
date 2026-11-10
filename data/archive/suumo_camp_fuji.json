@@ -2528,5 +2528,16 @@
     "text": "※　市街化調整区域内につき建物の建築はできません。",
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_22088325/|吉原１（吉原本町駅） 2100万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士市吉原１",
+    "price_man": 2100,
+    "area_sqm": 277.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_22088325/",
+    "text": "吉原１（吉原本町駅） 2100万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

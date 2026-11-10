@@ -1,63 +1,5 @@
 {
   "keys": {
-    "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_21817521/|穏やかな時間が流れる湯河原に移住しませんか": {
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-11-10",
-      "location": "神奈川県足柄下郡湯河原町宮上225-1",
-      "price_man": 1699,
-      "area_sqm": 140.1,
-      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_21817521/",
-      "text": "穏やかな時間が流れる湯河原に移住しませんか",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 40.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "湯河原町",
-      "tab": "camp"
-    },
-    "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_21092001/|県道739号線よりすぐ側の位置になります。": {
-      "first_seen": "2026-09-04",
-      "last_seen": "2026-11-10",
-      "location": "神奈川県足柄下郡真鶴町真鶴1067",
-      "price_man": 2480,
-      "area_sqm": 366.9,
-      "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_21092001/",
-      "text": "県道739号線よりすぐ側の位置になります。",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 22.3,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "真鶴町",
-      "tab": "camp"
-    },
     "https://suumo.jp/tochi/kanagawa/sc_ashigarashimogun/nc_20709419/|◆建築条件無し×現況更地◆小学校まで徒歩3分、買物施設が徒歩8分圏内！": {
       "first_seen": "2026-10-15",
       "last_seen": "2026-11-10",
@@ -1480,6 +1422,6 @@
       "tab": "camp"
     }
   },
-  "hash": "dbf57082ff40b409",
-  "fetched_at": "2026-11-10T13:28:07.218145"
+  "hash": "77e37cb12d9ecb3c",
+  "fetched_at": "2026-11-10T18:12:01.940110"
 }

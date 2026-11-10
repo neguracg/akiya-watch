@@ -1297,28 +1297,6 @@
     "removed_on": "2026-11-03",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21287090/|静岡市葵区沓谷に新たな分譲地が完成。JR静岡駅や静鉄新静岡駅までのアクセス": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-11-03",
-    "location": "静岡県静岡市葵区沓谷１",
-    "price_man": 2788,
-    "area_sqm": 135.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21287090/",
-    "text": "静岡市葵区沓谷に新たな分譲地が完成。JR静岡駅や静鉄新静岡駅までのアクセス",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21287089/|静岡市葵区沓谷に新たな分譲地が完成。JR静岡駅や静鉄新静岡駅までのアクセス": {
-    "first_seen": "2026-09-04",
-    "last_seen": "2026-11-03",
-    "location": "静岡県静岡市葵区沓谷１",
-    "price_man": 2836,
-    "area_sqm": 135.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21287089/",
-    "text": "静岡市葵区沓谷に新たな分譲地が完成。JR静岡駅や静鉄新静岡駅までのアクセス",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21655062/|あさはた２ 400万円": {
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-03",
@@ -1690,6 +1668,83 @@
     "area_sqm": 330.8,
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20788455/",
     "text": "古庄１（古庄駅） 5800万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087854/|梅ケ島 650万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区梅ケ島",
+    "price_man": 650,
+    "area_sqm": 4080.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087854/",
+    "text": "梅ケ島 650万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087522/|梅ケ島 980万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区梅ケ島",
+    "price_man": 980,
+    "area_sqm": 661.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087522/",
+    "text": "梅ケ島 980万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087768/|東千代田２（古庄駅） 2780万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区東千代田２",
+    "price_man": 2780,
+    "area_sqm": 168.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087768/",
+    "text": "東千代田２（古庄駅） 2780万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087448/|新伝馬１（静岡駅） 3680万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区新伝馬１",
+    "price_man": 3680,
+    "area_sqm": 236.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087448/",
+    "text": "新伝馬１（静岡駅） 3680万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087757/|北安東４（長沼駅） 4339万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区北安東４",
+    "price_man": 4339,
+    "area_sqm": 227.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087757/",
+    "text": "北安東４（長沼駅） 4339万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087685/|安東３（日吉町駅） 5380万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区安東３",
+    "price_man": 5380,
+    "area_sqm": 210.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22087685/",
+    "text": "安東３（日吉町駅） 5380万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/|安東３（日吉町駅） 5980万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区安東３",
+    "price_man": 5980,
+    "area_sqm": 360.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21551040/",
+    "text": "安東３（日吉町駅） 5980万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 静岡市葵区"
   }

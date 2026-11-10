@@ -120,14 +120,14 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|富士山の見える広大な敷地で豊かな思い出☆標高900m越えで空気も美味しい！": {
-      "first_seen": "2026-11-06",
+    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/|自宅から富士山が見える絶景な立地☆広々340坪以上、都心から100km圏内": {
+      "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県裾野市須山",
       "price_man": 1390,
       "area_sqm": 1149.0,
       "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_78216986/",
-      "text": "富士山の見える広大な敷地で豊かな思い出☆標高900m越えで空気も美味しい！",
+      "text": "自宅から富士山が見える絶景な立地☆広々340坪以上、都心から100km圏内",
       "shubetsu": "更地",
       "shubetsu_reason": "土地カテゴリ（建物表記なし）",
       "madori": null,
@@ -443,37 +443,6 @@
       "machi": "裾野市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_susono/nc_22087463/|茶畑（裾野駅） 1580万円": {
-      "first_seen": "2026-11-03",
-      "last_seen": "2026-11-10",
-      "location": "静岡県裾野市茶畑",
-      "price_man": 1580,
-      "area_sqm": 155.4,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_susono/nc_22087463/",
-      "text": "茶畑（裾野駅） 1580万円",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "畑",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 33.6,
-      "verdict": "不適合",
-      "interest": [
-        "外輪山西麓"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "裾野市",
-      "tab": "home"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_susono/nc_20047231/|茶畑（裾野駅） 1760万円": {
       "first_seen": "2026-10-03",
       "last_seen": "2026-11-10",
@@ -622,6 +591,6 @@
       "tab": "home"
     }
   },
-  "hash": "17cbf61e64419895",
-  "fetched_at": "2026-11-10T13:01:06.569899"
+  "hash": "f1640ed047f283d5",
+  "fetched_at": "2026-11-10T17:50:15.034009"
 }

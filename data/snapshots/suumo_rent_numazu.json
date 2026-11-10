@@ -29,20 +29,20 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000044511587/?bc=100536322948|ドリーミー片浜": {
+    "https://suumo.jp/chintai/jnc_000044511587/?bc=100536380427|ドリーミー片浜": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市松長",
       "price_man": 12.5,
       "area_sqm": 83.5,
-      "url": "https://suumo.jp/chintai/jnc_000044511587/?bc=100536322948",
+      "url": "https://suumo.jp/chintai/jnc_000044511587/?bc=100536380427",
       "text": "ドリーミー片浜",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4LDK",
       "chikunen": "築28年 10階建",
       "kanrihi": null,
-      "shikikin": "37.5万円",
+      "shikikin": "25万円",
       "reikin": null,
       "rebuild_mark": "—",
       "rebuild_reason": "賃貸のため対象外",
@@ -327,6 +327,35 @@
       "machi": "沼津市",
       "tab": "rent"
     },
+    "https://suumo.jp/chintai/jnc_000051302189/?bc=100474324112|ＪＲ御殿場線 大岡駅 3階建 築37年": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "静岡県沼津市大岡",
+      "price_man": 5.4,
+      "area_sqm": 62.8,
+      "url": "https://suumo.jp/chintai/jnc_000051302189/?bc=100474324112",
+      "text": "ＪＲ御殿場線 大岡駅 3階建 築37年",
+      "shubetsu": "賃貸マンション",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "4DK",
+      "chikunen": "築37年 3階建",
+      "kanrihi": 2000,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "沼津市",
+      "tab": "rent"
+    },
     "https://suumo.jp/chintai/jnc_000110455420/?bc=100330981522|松長44番2": {
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-10",
@@ -356,13 +385,13 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000079002254/?bc=100522353351|サンヴィレッジフォルテシモ": {
-      "first_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000079002254/?bc=100522328306|サンヴィレッジフォルテシモ": {
+      "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市大岡",
       "price_man": 6.0,
       "area_sqm": 66.2,
-      "url": "https://suumo.jp/chintai/jnc_000079002254/?bc=100522353351",
+      "url": "https://suumo.jp/chintai/jnc_000079002254/?bc=100522328306",
       "text": "サンヴィレッジフォルテシモ",
       "shubetsu": "賃貸アパート",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -414,15 +443,15 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102806736/?bc=100483826914|マンションＳＵＭＩＫＯ": {
-      "first_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000102806736/?bc=100500872790|マンションＳＵＭＩＫＯ": {
+      "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市下香貫前原",
       "price_man": 4.2,
       "area_sqm": 65.0,
-      "url": "https://suumo.jp/chintai/jnc_000102806736/?bc=100483826914",
+      "url": "https://suumo.jp/chintai/jnc_000102806736/?bc=100500872790",
       "text": "マンションＳＵＭＩＫＯ",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4DK",
       "chikunen": "築32年 4階建",
@@ -451,7 +480,7 @@
       "area_sqm": 65.0,
       "url": "https://suumo.jp/chintai/jnc_000102831900/?bc=100526891813",
       "text": "マンションＳＵＭＩＫＯ",
-      "shubetsu": "賃貸アパート",
+      "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4DK",
       "chikunen": "築32年 4階建",
@@ -836,13 +865,13 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108786863/?bc=100525049454|鳥谷一戸建": {
+    "https://suumo.jp/chintai/jnc_000108786863/?bc=100518947545|鳥谷一戸建": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市鳥谷",
       "price_man": 7.9,
       "area_sqm": 99.2,
-      "url": "https://suumo.jp/chintai/jnc_000108786863/?bc=100525049454",
+      "url": "https://suumo.jp/chintai/jnc_000108786863/?bc=100518947545",
       "text": "鳥谷一戸建",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -867,13 +896,13 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466482|イズヤハイツ": {
+    "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466490|イズヤハイツ": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市西椎路",
       "price_man": 7.9,
       "area_sqm": 100.0,
-      "url": "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466482",
+      "url": "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466490",
       "text": "イズヤハイツ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -954,13 +983,13 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000103404999/?bc=100333161740|イズヤハイツ": {
+    "https://suumo.jp/chintai/jnc_000103404999/?bc=100477215990|イズヤハイツ": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市西椎路",
       "price_man": 9.5,
       "area_sqm": 92.0,
-      "url": "https://suumo.jp/chintai/jnc_000103404999/?bc=100333161740",
+      "url": "https://suumo.jp/chintai/jnc_000103404999/?bc=100477215990",
       "text": "イズヤハイツ",
       "shubetsu": "賃貸マンション",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -1012,45 +1041,14 @@
       "machi": "沼津市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000106452812/?bc=100457809737|西椎路戸建": {
-      "first_seen": "2026-11-09",
+    "https://suumo.jp/chintai/jnc_000106452812/?bc=100518793563|西椎路戸建（８７２－３）": {
+      "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県沼津市西椎路",
       "price_man": 11.5,
       "area_sqm": 116.3,
-      "url": "https://suumo.jp/chintai/jnc_000106452812/?bc=100457809737",
-      "text": "西椎路戸建",
-      "shubetsu": "賃貸戸建",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "4SLDK",
-      "chikunen": "築27年 地上2階建",
-      "kanrihi": 5000,
-      "shikikin": "23万円",
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "適合",
-      "interest": [
-        "戸建"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "沼津市",
-      "tab": "rent"
-    },
-    "https://suumo.jp/chintai/jnc_000108479460/?bc=100516545762|西椎路戸建": {
-      "first_seen": "2026-11-09",
-      "last_seen": "2026-11-10",
-      "location": "静岡県沼津市西椎路",
-      "price_man": 11.5,
-      "area_sqm": 116.3,
-      "url": "https://suumo.jp/chintai/jnc_000108479460/?bc=100516545762",
-      "text": "西椎路戸建",
+      "url": "https://suumo.jp/chintai/jnc_000106452812/?bc=100518793563",
+      "text": "西椎路戸建（８７２－３）",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4SLDK",
@@ -1433,6 +1431,6 @@
       "tab": "rent"
     }
   },
-  "hash": "2ca6eedf0e5d86d9",
-  "fetched_at": "2026-11-10T13:04:14.376241"
+  "hash": "a423a47d4478159e",
+  "fetched_at": "2026-11-10T17:53:22.111979"
 }

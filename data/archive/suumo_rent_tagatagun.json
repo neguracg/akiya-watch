@@ -22780,50 +22780,6 @@
     "removed_on": "2026-11-07",
     "site_name": "SUUMO 賃貸 田方郡（函南町）"
   },
-  "https://suumo.jp/chintai/jnc_000013976258/?bc=100465483777|メゾンミタ": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.6,
-    "area_sqm": 68.7,
-    "url": "https://suumo.jp/chintai/jnc_000013976258/?bc=100465483777",
-    "text": "メゾンミタ",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000039395862/?bc=100484180764|メゾンミタ": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.8,
-    "area_sqm": 68.7,
-    "url": "https://suumo.jp/chintai/jnc_000039395862/?bc=100484180764",
-    "text": "メゾンミタ",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000042418539/?bc=100465483791|メゾンミタ": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.0,
-    "area_sqm": 68.7,
-    "url": "https://suumo.jp/chintai/jnc_000042418539/?bc=100465483791",
-    "text": "メゾンミタ",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
-  "https://suumo.jp/chintai/jnc_000033342267/?bc=100465483790|メゾンミタ": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-06",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 8.0,
-    "area_sqm": 68.7,
-    "url": "https://suumo.jp/chintai/jnc_000033342267/?bc=100465483790",
-    "text": "メゾンミタ",
-    "removed_on": "2026-11-07",
-    "site_name": "SUUMO 賃貸 田方郡（函南町）"
-  },
   "https://suumo.jp/chintai/jnc_000039353621/?bc=100465639412|アプローズ": {
     "first_seen": "2026-11-06",
     "last_seen": "2026-11-06",
@@ -28694,6 +28650,50 @@
     "price_man": 8.0,
     "area_sqm": 68.7,
     "url": "https://suumo.jp/chintai/jnc_000033342267/?bc=100507919082",
+    "text": "メゾンミタ",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 田方郡（函南町） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000013976258/?bc=100507028074|メゾンミタ": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.6,
+    "area_sqm": 68.7,
+    "url": "https://suumo.jp/chintai/jnc_000013976258/?bc=100507028074",
+    "text": "メゾンミタ",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 田方郡（函南町） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000039395862/?bc=100507028055|メゾンミタ": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.8,
+    "area_sqm": 68.7,
+    "url": "https://suumo.jp/chintai/jnc_000039395862/?bc=100507028055",
+    "text": "メゾンミタ",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 田方郡（函南町） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000042418539/?bc=100507028016|メゾンミタ": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 8.0,
+    "area_sqm": 68.7,
+    "url": "https://suumo.jp/chintai/jnc_000042418539/?bc=100507028016",
+    "text": "メゾンミタ",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 田方郡（函南町） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000033342267/?bc=100507028051|メゾンミタ": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 8.0,
+    "area_sqm": 68.7,
+    "url": "https://suumo.jp/chintai/jnc_000033342267/?bc=100507028051",
     "text": "メゾンミタ",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 賃貸 田方郡（函南町） 4K以上"

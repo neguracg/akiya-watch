@@ -547,7 +547,7 @@
       "reikin": null,
       "rebuild_mark": "不明",
       "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
+      "chimoku": "—",
       "toshikeikaku": "—",
       "setsudo": null,
       "tsubo_man": 4.0,
@@ -796,6 +796,6 @@
       "tab": "home"
     }
   },
-  "hash": "7affc5d8f42e3e1f",
-  "fetched_at": "2026-11-10T13:14:43.158550"
+  "hash": "701179ccec873ed2",
+  "fetched_at": "2026-11-10T18:02:12.941605"
 }

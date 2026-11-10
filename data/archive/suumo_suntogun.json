@@ -823,5 +823,27 @@
     "text": "【積水ハウス】駿東郡長泉町納米里。50坪以上。長泉北中徒歩3分。南向整形地。",
     "removed_on": "2026-11-08",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22087531/|柿田（三島広小路駅） 1880万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 1880,
+    "area_sqm": 138.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22087531/",
+    "text": "柿田（三島広小路駅） 1880万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22087563/|柿田（三島広小路駅） 2080万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 2080,
+    "area_sqm": 140.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_22087563/",
+    "text": "柿田（三島広小路駅） 2080万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

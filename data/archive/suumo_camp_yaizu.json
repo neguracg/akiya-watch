@@ -362,17 +362,6 @@
     "removed_on": "2026-11-03",
     "site_name": "SUUMO 土地 焼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22031034/|焼津市塩津に条件無し土地が販売開始！南西角地で広々とした間口の土地！": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-03",
-    "location": "静岡県焼津市塩津",
-    "price_man": 1524,
-    "area_sqm": 219.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22031034/",
-    "text": "焼津市塩津に条件無し土地が販売開始！南西角地で広々とした間口の土地！",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 焼津市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_21109899/|☆駐車場・資材置場・家庭菜園等に　☆一般建築不可　☆清々とした60坪": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-11-03",
@@ -392,17 +381,6 @@
     "area_sqm": 207.7,
     "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_91360001/",
     "text": "石津港町 650万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 土地 焼津市"
-  },
-  "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22075723/|南面道路に接する敷地約34.78坪！現況更地の売土地！": {
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-03",
-    "location": "静岡県焼津市大村２",
-    "price_man": 870,
-    "area_sqm": 115.0,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22075723/",
-    "text": "南面道路に接する敷地約34.78坪！現況更地の売土地！",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 焼津市"
   },
@@ -447,6 +425,17 @@
     "area_sqm": 1471.3,
     "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_78145253/",
     "text": "☆事業用におすすめ☆150号線へのアクセス良好、アステラス製薬様至近☆",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 焼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22087611/|利右衛門（藤枝駅） 1000万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県焼津市利右衛門",
+    "price_man": 1000,
+    "area_sqm": 901.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_yaizu/nc_22087611/",
+    "text": "利右衛門（藤枝駅） 1000万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 焼津市"
   }

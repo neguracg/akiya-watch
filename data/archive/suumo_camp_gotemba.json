@@ -152,5 +152,38 @@
     "text": "二の岡１（御殿場駅） 2750万円",
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 土地 御殿場市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_22087460/|中畑（御殿場駅） 480万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県御殿場市中畑",
+    "price_man": 480,
+    "area_sqm": 1156.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_22087460/",
+    "text": "中畑（御殿場駅） 480万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 御殿場市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_76207702/|中畑 680万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-10",
+    "location": "静岡県御殿場市中畑1384-34",
+    "price_man": 680,
+    "area_sqm": 240.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_76207702/",
+    "text": "中畑 680万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 御殿場市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73371293/|中畑 800万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-10",
+    "location": "静岡県御殿場市中畑1384番33",
+    "price_man": 800,
+    "area_sqm": 254.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_gotemba/nc_73371293/",
+    "text": "中畑 800万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 御殿場市"
   }
 }

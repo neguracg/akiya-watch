@@ -977,5 +977,27 @@
     "text": "押切 2080万円",
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_22087502/|高橋４（清水駅） 480万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市清水区高橋４",
+    "price_man": 480,
+    "area_sqm": 121.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_22087502/",
+    "text": "高橋４（清水駅） 480万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_22087818/|草薙（草薙駅） 1980万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市清水区草薙",
+    "price_man": 1980,
+    "area_sqm": 262.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_22087818/",
+    "text": "草薙（草薙駅） 1980万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

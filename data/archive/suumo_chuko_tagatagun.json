@@ -802,17 +802,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20820491/|平井南箱根ダイヤランド 2350万円": {
-    "first_seen": "2026-10-14",
-    "last_seen": "2026-11-03",
-    "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
-    "price_man": 2350,
-    "area_sqm": 356.2,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20820491/",
-    "text": "平井南箱根ダイヤランド 2350万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 中古戸建 田方郡（函南）"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_22089675/|平井南箱根ダイヤランド 2780万円": {
     "first_seen": "2026-11-03",
     "last_seen": "2026-11-03",
@@ -1009,6 +998,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21230712/",
     "text": "ゆったり贅沢な平屋の住まい。住友林業施工、バリアフリーで快適安心。",
     "removed_on": "2026-11-06",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21717352/|南箱根ダイヤランド_マシンカットの角ログハウス、薪ストーブ付、駐車3台可": {
+    "first_seen": "2026-09-18",
+    "last_seen": "2026-11-10",
+    "location": "静岡県田方郡函南町畑",
+    "price_man": 1480,
+    "area_sqm": 375.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21717352/",
+    "text": "南箱根ダイヤランド_マシンカットの角ログハウス、薪ストーブ付、駐車3台可",
+    "removed_on": "2026-11-10",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

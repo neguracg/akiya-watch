@@ -145,6 +145,35 @@
       "machi": "清水町",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-1436870001971/|清水町徳倉　中古戸建": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "清水町徳倉　中古戸建",
+      "price_man": 2500,
+      "area_sqm": 161.0,
+      "url": "https://www.homes.co.jp/kodate/b-1436870001971/",
+      "text": "清水町徳倉　中古戸建",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 51.3,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "清水町",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-33307660000210/|JR東海道本線 三島駅 5.3km": {
       "first_seen": "2026-11-01",
       "last_seen": "2026-11-10",
@@ -552,6 +581,6 @@
       "tab": "home"
     }
   },
-  "hash": "b0ad61732626557f",
-  "fetched_at": "2026-11-10T13:20:21.639076"
+  "hash": "d2fd8a2237277720",
+  "fetched_at": "2026-11-10T19:01:15.263234"
 }

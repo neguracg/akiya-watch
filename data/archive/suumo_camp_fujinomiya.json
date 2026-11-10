@@ -285,17 +285,6 @@
     "removed_on": "2026-10-17",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地約68坪！ゆったりした明るい生活設計が叶えられる南側道路で楽しく過ごす": {
-    "first_seen": "2026-10-20",
-    "last_seen": "2026-10-20",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "敷地約68坪！ゆったりした明るい生活設計が叶えられる南側道路で楽しく過ごす",
-    "removed_on": "2026-10-21",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21545695/|小泉（源道寺駅） 1054万4000円": {
     "first_seen": "2026-09-15",
     "last_seen": "2026-10-21",
@@ -833,6 +822,39 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21982965/",
     "text": "※　建築要件がないので住宅の建築は出来ません。",
     "removed_on": "2026-11-09",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|共働き世帯に☆車10分圏内のスーパードラッグストア充実。コンビニ徒歩約5分": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "共働き世帯に☆車10分圏内のスーパードラッグストア充実。コンビニ徒歩約5分",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_22087511/|上井出 1000万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士宮市上井出",
+    "price_man": 1000,
+    "area_sqm": 667.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_22087511/",
+    "text": "上井出 1000万円",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_22088310/|星山（富士宮駅） 1200万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士宮市星山",
+    "price_man": 1200,
+    "area_sqm": 318.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_22088310/",
+    "text": "星山（富士宮駅） 1200万円",
+    "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }
