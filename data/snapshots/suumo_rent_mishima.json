@@ -118,13 +118,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000108742906/?bc=100496467198|グリーンパレス三島": {
+    "https://suumo.jp/chintai/jnc_000108742906/?bc=100503760915|グリーンパレス三島": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県三島市幸原町１",
       "price_man": 13.8,
       "area_sqm": 107.9,
-      "url": "https://suumo.jp/chintai/jnc_000108742906/?bc=100496467198",
+      "url": "https://suumo.jp/chintai/jnc_000108742906/?bc=100503760915",
       "text": "グリーンパレス三島",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -414,13 +414,13 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000110812109/?bc=100523694695|ロイヤルヒルズ加茂": {
+    "https://suumo.jp/chintai/jnc_000110812109/?bc=100524338978|ロイヤルヒルズ加茂": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県三島市加茂",
       "price_man": 9.5,
       "area_sqm": 93.0,
-      "url": "https://suumo.jp/chintai/jnc_000110812109/?bc=100523694695",
+      "url": "https://suumo.jp/chintai/jnc_000110812109/?bc=100524338978",
       "text": "ロイヤルヒルズ加茂",
       "shubetsu": "賃貸その他",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
@@ -472,18 +472,18 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000105944336/?bc=100500232815|錦が丘戸建て": {
+    "https://suumo.jp/chintai/jnc_000105944336/?bc=100497451732|錦が丘戸建": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県三島市錦が丘",
       "price_man": 11.0,
       "area_sqm": 113.8,
-      "url": "https://suumo.jp/chintai/jnc_000105944336/?bc=100500232815",
-      "text": "錦が丘戸建て",
+      "url": "https://suumo.jp/chintai/jnc_000105944336/?bc=100497451732",
+      "text": "錦が丘戸建",
       "shubetsu": "賃貸戸建",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4LDK",
-      "chikunen": "築25年 平屋",
+      "chikunen": "築25年 地上2階建",
       "kanrihi": null,
       "shikikin": "22万円",
       "reikin": "11万円",
@@ -593,6 +593,6 @@
       "tab": "rent"
     }
   },
-  "hash": "03f4bb9375291f2f",
-  "fetched_at": "2026-11-10T10:14:15.287031"
+  "hash": "38de3a707b048201",
+  "fetched_at": "2026-11-10T13:00:56.096534"
 }

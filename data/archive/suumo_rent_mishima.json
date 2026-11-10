@@ -74524,17 +74524,6 @@
     "removed_on": "2026-11-03",
     "site_name": "SUUMO 賃貸 三島市"
   },
-  "https://suumo.jp/chintai/jnc_000105944336/?bc=100497451732|錦が丘戸建": {
-    "first_seen": "2026-11-01",
-    "last_seen": "2026-11-02",
-    "location": "静岡県三島市錦が丘",
-    "price_man": 11.0,
-    "area_sqm": 113.8,
-    "url": "https://suumo.jp/chintai/jnc_000105944336/?bc=100497451732",
-    "text": "錦が丘戸建",
-    "removed_on": "2026-11-03",
-    "site_name": "SUUMO 賃貸 三島市"
-  },
   "https://suumo.jp/chintai/jnc_000110444950/?bc=100525451298|エクセレントTAKA　B": {
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-02",
@@ -97657,17 +97646,6 @@
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 賃貸 三島市 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000108742906/?bc=100503760915|グリーンパレス三島": {
-    "first_seen": "2026-11-09",
-    "last_seen": "2026-11-09",
-    "location": "静岡県三島市幸原町１",
-    "price_man": 13.8,
-    "area_sqm": 107.9,
-    "url": "https://suumo.jp/chintai/jnc_000108742906/?bc=100503760915",
-    "text": "グリーンパレス三島",
-    "removed_on": "2026-11-10",
-    "site_name": "SUUMO 賃貸 三島市 4K以上"
-  },
   "https://suumo.jp/chintai/jnc_000110812109/?bc=100523763682|ロイヤルヒルズ加茂": {
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
@@ -97698,6 +97676,39 @@
     "area_sqm": 113.8,
     "url": "https://suumo.jp/chintai/jnc_000105944336/?bc=100498445818",
     "text": "錦が丘戸建",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 三島市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000108742906/?bc=100496467198|グリーンパレス三島": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県三島市幸原町１",
+    "price_man": 13.8,
+    "area_sqm": 107.9,
+    "url": "https://suumo.jp/chintai/jnc_000108742906/?bc=100496467198",
+    "text": "グリーンパレス三島",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 三島市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000110812109/?bc=100523694695|ロイヤルヒルズ加茂": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県三島市加茂",
+    "price_man": 9.5,
+    "area_sqm": 93.0,
+    "url": "https://suumo.jp/chintai/jnc_000110812109/?bc=100523694695",
+    "text": "ロイヤルヒルズ加茂",
+    "removed_on": "2026-11-10",
+    "site_name": "SUUMO 賃貸 三島市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000105944336/?bc=100500232815|錦が丘戸建て": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "静岡県三島市錦が丘",
+    "price_man": 11.0,
+    "area_sqm": 113.8,
+    "url": "https://suumo.jp/chintai/jnc_000105944336/?bc=100500232815",
+    "text": "錦が丘戸建て",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 賃貸 三島市 4K以上"
   }

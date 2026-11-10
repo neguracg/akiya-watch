@@ -2053,6 +2053,35 @@
       "machi": "下田市",
       "tab": "camp"
     },
+    "https://tokaiyajima.com/fudo/12042?bk=os2&shu=&mid=&nor=|＜南伊豆町下賀茂＞青野川の桜並木沿い！2026年リフォーム済みの5LDK＋ロフト付き": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "静岡県賀茂郡南伊豆町下賀茂505番地19",
+      "price_man": 1745,
+      "area_sqm": null,
+      "url": "https://tokaiyajima.com/fudo/12042?bk=os2&shu=&mid=&nor=",
+      "text": "＜南伊豆町下賀茂＞青野川の桜並木沿い！2026年リフォーム済みの5LDK＋ロフト付き",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "南伊豆町",
+      "tab": "camp"
+    },
     "https://tokaiyajima.com/fudo/11174?bk=os2&shu=&mid=&nor=|＜東伊豆町片瀬白田＞片瀬白田駅徒歩圏！店舗付き大型12SLDK住宅": {
       "first_seen": "2026-07-07",
       "last_seen": "2026-11-10",
@@ -2789,6 +2818,35 @@
       "machi": "下田市",
       "tab": "camp"
     },
+    "https://tokaiyajima.com/fudo/11994?bk=os2&shu=&mid=&nor=|＜下田市田牛・碁石が浜＞築浅2024年築！温水プール＆大型テラス付きの豪華4LDKリゾート住宅": {
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "location": "静岡県下田市田牛字地蔵久保711番地60",
+      "price_man": null,
+      "area_sqm": null,
+      "url": "https://tokaiyajima.com/fudo/11994?bk=os2&shu=&mid=&nor=",
+      "text": "＜下田市田牛・碁石が浜＞築浅2024年築！温水プール＆大型テラス付きの豪華4LDKリゾート住宅",
+      "shubetsu": "中古戸建",
+      "shubetsu_reason": "中古戸建/住宅カテゴリ",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "田",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "数値不明",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "下田市",
+      "tab": "camp"
+    },
     "https://tokaiyajima.com/fudo/9855?bk=os2&shu=&mid=&nor=|＜下田市吉佐美＞海まで徒歩1分・吉佐美エリア・希少温泉付": {
       "first_seen": "2026-09-05",
       "last_seen": "2026-11-10",
@@ -2850,6 +2908,6 @@
       "tab": "camp"
     }
   },
-  "hash": "ce9889b46ccd7e0a",
-  "fetched_at": "2026-11-10T10:24:36.837729"
+  "hash": "533378838323aef5",
+  "fetched_at": "2026-11-10T13:12:43.880215"
 }

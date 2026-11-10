@@ -87,18 +87,18 @@
       "machi": "裾野市",
       "tab": "rent"
     },
-    "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283|ロイヤルテラス華": {
+    "https://suumo.jp/chintai/jnc_000102720801/?bc=100482231353|ロイヤルテラス華": {
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "location": "静岡県裾野市稲荷",
       "price_man": 8.0,
       "area_sqm": 78.4,
-      "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283",
+      "url": "https://suumo.jp/chintai/jnc_000102720801/?bc=100482231353",
       "text": "ロイヤルテラス華",
       "shubetsu": "賃貸その他",
       "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
       "madori": "4DK",
-      "chikunen": "築29年 地上2階建",
+      "chikunen": "築29年 2階建",
       "kanrihi": null,
       "shikikin": "16万円",
       "reikin": "8万円",
@@ -117,6 +117,6 @@
       "tab": "rent"
     }
   },
-  "hash": "ea7f0e72079dcf77",
-  "fetched_at": "2026-11-10T10:19:21.856227"
+  "hash": "81b17e444f1fbd41",
+  "fetched_at": "2026-11-10T13:07:40.238378"
 }
