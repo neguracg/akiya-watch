@@ -280,6 +280,20 @@ sites:
     status: verified
     channel: "①"
     kind: 中古戸建
+  # 2026-11-10 #954 腱さん承認: 熱海・伊豆市の中古戸建（SUUMOとの重複は熱海約5割・伊豆市約2割）。
+  #   (a) Invoke-WebRequest 200 (b) WebFetch「熱海市の中古一戸建て196件」「伊豆市56件」確認済み。
+  - id: lifull_chuko_atami
+    name: LIFULL 中古戸建 熱海市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/atami-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
+  - id: lifull_chuko_izu
+    name: LIFULL 中古戸建 伊豆市
+    url: "https://www.homes.co.jp/kodate/chuko/shizuoka/izu-city/list/"
+    status: verified
+    channel: "①"
+    kind: 中古戸建
 
   # ==== ② 公的誘導型: 空き家バンクしずおか（takken・adapter・本命） ====
   - id: takken_kannami
@@ -1241,6 +1255,22 @@ sites:
   - id: lifull_rent_izunokuni
     name: LIFULL 賃貸 伊豆の国市 4LDK以上
     url: "https://www.homes.co.jp/chintai/theme/14175/shizuoka/izunokuni-city/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  # 2026-11-10 #954 腱さん承認: 熱海・伊豆市の4LDK以上（SUUMOに無い物件あり）。
+  #   (a) Invoke-WebRequest 200 (b) WebFetch 熱海4件・伊豆市1件（docs/research/20261109_url_proposal_954.md）。
+  - id: lifull_rent_atami
+    name: LIFULL 賃貸 熱海市 4LDK以上
+    url: "https://www.homes.co.jp/chintai/theme/14175/shizuoka/atami-city/list/"
+    status: verified
+    channel: "⑧"
+    kind: 賃貸
+    tab: rent
+  - id: lifull_rent_izu
+    name: LIFULL 賃貸 伊豆市 4LDK以上
+    url: "https://www.homes.co.jp/chintai/theme/14175/shizuoka/izu-city/list/"
     status: verified
     channel: "⑧"
     kind: 賃貸
