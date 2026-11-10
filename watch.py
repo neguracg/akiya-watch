@@ -35,7 +35,7 @@ except Exception:
 # 安全装置の定数
 FETCH_TOTAL_TIMEOUT = 25     # 1リクエストの総時間上限（秒）。requestsのtimeoutは細切れ送信で無限化するため
 SITE_TIME_BUDGET = 180       # 1サイトあたりの最大処理時間（秒）。超えたらページャ追従を打ち切り
-RUN_WALLCLOCK_LIMIT = 3300   # 実行全体の上限（秒・55分）。超えたら残サイトを打ち切って報告
+RUN_WALLCLOCK_LIMIT = 4800   # 実行全体の上限（秒・80分）。超えたら残サイトを打ち切って報告。LIFULL全ページ化(#954 2026-11-10)で 3300(55分)→4800: 末尾の見積り(pacing.py冒頭・WORKLOG)
 # 2026-09-05: 101→118サイト化(消込表#472)に伴い1800(30分)→3300へ引き上げ。直近5回の
 # Actions実行ログをgh run view --logで実測したところ、うち3回で実際に「実行ウォールクロック
 # 上限 1800s 超過」が発生し末尾4/7/12サイトが打ち切られていた（残り2回はサイトリスト完走が
@@ -301,10 +301,11 @@ def robots_allowed(url: str, session: requests.Session) -> bool:
     parsed = urllib.parse.urlsplit(url)
     robots_url = f"{parsed.scheme}://{parsed.netloc}/robots.txt"
     try:
-        resp = session.get(robots_url, timeout=10, headers=HEADERS)
-        if resp.status_code >= 400:
-            return True
-        groups = _parse_robots_groups(resp.text)
+        cache = session.__dict__.setdefault("_robots_cache", {})  # 同一session内は1ドメイン1回だけ取得（LIFULLの回数制限に数えさせない）
+        if robots_url not in cache:
+            resp = session.get(robots_url, timeout=10, headers=HEADERS)
+            cache[robots_url] = [] if resp.status_code >= 400 else _parse_robots_groups(resp.text)
+        groups = cache[robots_url]
     except Exception:
         return True
     rules = _robots_group_for(groups, HEADERS["User-Agent"])
@@ -682,7 +683,7 @@ _KANJI_RE = re.compile(r"[一-鿿々]")  # CJK統合漢字（々含む）。fuji
 # する（既存テストは watch._oaza_hit のまま変更不要）。build_html_report/
 # write_csv_report からは fujiview.lookup()/fujiview.summarize() をモジュール経由で呼ぶ。
 import fujiview
-from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of, ROOMS_JS; from rowmark import CSS as ROWMARK_CSS, JS as ROWMARK_JS  # 行の赤枠マーク(rowmark.py所有)・間取り→部屋数(賃貸rooms_min判定。ROOMS_JSは表示側の写し)
+from fujiview import oaza_hit as _oaza_hit; from madori import rooms_of, ROOMS_JS; from rowmark import CSS as ROWMARK_CSS, JS as ROWMARK_JS; import pacing  # 取得ペース(202待機・ページ継続・間隔。pacing.py所有)・行の赤枠マーク(rowmark.py所有)・間取り→部屋数(賃貸rooms_min判定。ROOMS_JSは表示側の写し)
 
 
 def _make_record(url, text, price, area, area_est, flag_text, filters,
@@ -1168,7 +1169,7 @@ def parse_athome(first_html, base_url, filter_keywords, filters, session):
 # LIFULL HOME'S アダプタ（土地 /tochi/・中古戸建 /kodate/chuko/）
 #   カード = div.mod-mergeBuilding--sale。価格/土地面積は spec テーブルの th↔td 対応
 #   （中古戸建は「土地面積」ラベルで土地優先）。所在地 = .bukkenName。
-#   詳細URL = /tochi|kodate/b-{id}/。202対策は run() 側（スリープ延長＋再試行）。単一ページ。
+#   詳細URL = /tochi|kodate/b-{id}/。ページ追従（?page=N）と202対策（間隔・待機・再試行）は pacing.py。
 # ---------------------------------------------------------------------------
 
 def _lifull_card_specs(card):
@@ -1246,14 +1247,8 @@ def parse_lifull(first_html, base_url, filter_keywords, filters, session):
     soup = BeautifulSoup(first_html, "html.parser")
     if _page_blocked(first_html, soup, "div.mod-mergeBuilding--sale"):
         raise BotBlocked(f"LIFULL ソフトブロック（{len(first_html)}B）: {base_url}")
-    out = _extract_lifull_cards(soup, base_url, filter_keywords, filters)
-    seen, dedup = set(), []
-    for r in out:
-        if r["key"] not in seen:
-            seen.add(r["key"])
-            dedup.append(r)
-    log.info(f"[lifull] cards={len(dedup)} (1ページ)")
-    return dedup
+    # ページ送りは pacing.step が担う（次ページがあれば Continue を送出→run() が待ち行列へ戻して続きを取る）
+    return pacing.step(soup, base_url, _extract_lifull_cards(soup, base_url, filter_keywords, filters), "lifull")
 
 
 # ---------------------------------------------------------------------------
@@ -3729,7 +3724,7 @@ def parse_jmty(first_html, base_url, filter_keywords, filters, session) -> list:
 # ---------------------------------------------------------------------------
 # LIFULL HOME'S 賃貸 アダプタ（homes.co.jp/chintai/... tab=rent。売買用 parse_lifull とは
 #   別関数・別のDOM構造。homes.co.jp は累積202レート制限の実績があるため urls.yaml 側で
-#   3URLに限定し、ページャは追わない（1ページのみ・レート制限配慮。回避策は取らない）。
+#   3URLに限定。ページ追従と202待機・再試行は pacing.py（上限は賃貸のほうが低い。回避策は取らない）。
 #   建物カード = div[class*=mergeBuilding]（複数部屋が同一建物にマージされた表示）。
 #   建物名/種別 = .bukkenName / .icon-bukkenType .bType（建物見出し内）。建物spec表
 #   （所在地/交通/築年数・階数）= .moduleInner.prg-building 内 table の th/td。
@@ -3826,20 +3821,13 @@ def _extract_lifull_rent_cards(soup, base_url, filter_keywords, filters) -> list
 
 def parse_lifull_rent(first_html, base_url, filter_keywords, filters, session):
     """HOME'S賃貸アダプタ。202レート制限の実績があるため urls.yaml 側で3URLに限定済み。
-    ページャは追わない（1ページのみ・レート制限配慮）。売買用 parse_lifull とは別関数・
+    ページ追従は pacing.step（上限 max_pages_rent）。売買用 parse_lifull とは別関数・
     別DOM構造（registry では lifull_rent_ を lifull_ より必ず先に置くこと）。
     """
     soup = BeautifulSoup(first_html, "html.parser")
     if _page_blocked(first_html, soup, "div[class*=mergeBuilding]"):
         raise BotBlocked(f"HOME'S賃貸 ソフトブロック（{len(first_html)}B）: {base_url}")
-    out = _extract_lifull_rent_cards(soup, base_url, filter_keywords, filters)
-    seen, dedup = set(), []
-    for r in out:
-        if r["key"] not in seen:
-            seen.add(r["key"])
-            dedup.append(r)
-    log.info(f"[lifull_rent] cards={len(dedup)} (1ページ・ページャ追従なし)")
-    return dedup
+    return pacing.step(soup, base_url, _extract_lifull_rent_cards(soup, base_url, filter_keywords, filters), "lifull_rent", rent=True)
 
 
 # ---------------------------------------------------------------------------
@@ -4183,8 +4171,9 @@ def run(dry_run: bool = False, only: str = "") -> int:
     today = date.today().isoformat()
     fail_count = 0
     run_start = time.time()
+    sched = pacing.Scheduler(sites, deadline=run_start + RUN_WALLCLOCK_LIMIT)  # 取得の順序・間隔・202待機(pacing.py)
 
-    for i, site in enumerate(sites):
+    for i, site in enumerate(sched):
         sid = site["id"]
         name = site["name"]
         url = site["url"]
@@ -4199,10 +4188,10 @@ def run(dry_run: bool = False, only: str = "") -> int:
             site_filters = filters
         # 実行全体のウォールクロック上限。超えたら残サイトを打ち切ってレポートへ。
         if time.time() - run_start > RUN_WALLCLOCK_LIMIT:
-            log.warning(f"実行ウォールクロック上限 {RUN_WALLCLOCK_LIMIT}s 超過。残 {len(sites) - i} サイトを打ち切り")
+            log.warning(f"実行ウォールクロック上限 {RUN_WALLCLOCK_LIMIT}s 超過。残 {sched.pending() + 1} サイトを打ち切り")
             break
         _SITE_DEADLINE[0] = time.time() + SITE_TIME_BUDGET  # このサイトの時間予算
-        log.info(f"[{sid}] fetch start: {url}")
+        log.info(f"[{sid}] fetch start: {pacing.fetch_url(url)}")
 
         row = {
             "id": sid, "name": name, "url": url, "yaml_status": yaml_status, "tab": site_tab,
@@ -4219,12 +4208,14 @@ def run(dry_run: bool = False, only: str = "") -> int:
             row["phase2"] = False
             results.append(row)
             fail_count += 1
-            if i < len(sites) - 1:
+            if sched.pending():
                 time.sleep(random.uniform(2, 5))
             continue
 
-        status_code, html = fetch(url, session)
+        status_code, html = fetch(pacing.fetch_url(url), session)   # 一覧の途中ページがあればその続きを取る
         row["http"] = status_code if status_code != 0 else "ERROR"
+        if status_code == 202 and sched.rate_limited(site):   # 回数制限＝冷却して待ち行列の先頭へ戻す。上限超は下の「HTTP 202 要確認」へ
+            continue
 
         if status_code == 0:
             log.error(f"[{sid}] fetch error: {html[:120]}")
@@ -4242,6 +4233,9 @@ def run(dry_run: bool = False, only: str = "") -> int:
                 try:
                     props = adapter(html, url, filter_kws, site_filters, session)
                     row["mode"] = "adapter"
+                except pacing.Continue:   # 一覧に次ページあり＝続きを待ち行列の先頭へ（取得済みは pacing が保持）
+                    sched.again(site)
+                    continue
                 except BotBlocked as e:
                     # bot対策ページ＝0件で上書きしない。前回スナップショットを保持し
                     # 「要確認」扱い（差分・消滅判定もスキップ＝誤った全消滅を防ぐ）。
@@ -4251,7 +4245,7 @@ def run(dry_run: bool = False, only: str = "") -> int:
                     row["phase2"] = True
                     fail_count += 1
                     results.append(row)
-                    if i < len(sites) - 1:
+                    if sched.pending():
                         time.sleep(random.uniform(2, 5))
                     continue
             else:
@@ -4370,14 +4364,8 @@ def run(dry_run: bool = False, only: str = "") -> int:
 
         results.append(row)
 
-        if i < len(sites) - 1:
-            # 次サイトが LIFULL(homes.co.jp) なら間隔を延長（202レート制限回避）。
-            # ドメイン分散で連続は減るが、念のため homes.co.jp 直前は長めに空ける。
-            nxt_url = sites[i + 1].get("url", "")
-            if "homes.co.jp" in nxt_url:
-                time.sleep(random.uniform(12, 20))
-            else:
-                time.sleep(random.uniform(2, 5))
+        if sched.pending():
+            time.sleep(random.uniform(2, 5))   # LIFULL等の間隔・202待機は pacing.Scheduler が持つ
 
     # 本番成果物(reports/index.html・日付別html/csv・SOURCES.md)を書くのは「引数なしの
     # 通常実行」だけにする（F・2026-09-05）。--only は対象サイトだけの部分データで
