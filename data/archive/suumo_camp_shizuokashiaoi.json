@@ -1747,5 +1747,16 @@
     "text": "安東３（日吉町駅） 5980万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20652849/|城北２ 1680万円": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-10",
+    "location": "静岡県静岡市葵区城北２",
+    "price_man": 1680,
+    "area_sqm": 150.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20652849/",
+    "text": "城北２ 1680万円",
+    "removed_on": "2026-11-11",
+    "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

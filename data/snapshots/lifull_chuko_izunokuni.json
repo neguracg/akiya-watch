@@ -1,37 +1,8 @@
 {
   "keys": {
-    "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "location": "伊豆の国市三福　中古戸建",
-      "price_man": 1980,
-      "area_sqm": 128.1,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
-      "text": "伊豆の国市三福　中古戸建",
-      "shubetsu": "中古戸建",
-      "shubetsu_reason": "中古戸建/住宅カテゴリ",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "田",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 51.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-33306040000363/|伊豆の国市大仁": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市大仁",
       "price_man": 3200,
       "area_sqm": 160.6,
@@ -60,7 +31,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1500050000270/|売中古戸建　伊豆の国市大仁": {
       "first_seen": "2026-10-01",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "売中古戸建　伊豆の国市大仁",
       "price_man": 3200,
       "area_sqm": 160.6,
@@ -89,7 +60,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1436870001906/|伊豆の国市田京　中古戸建": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市田京　中古戸建",
       "price_man": 3450,
       "area_sqm": 245.5,
@@ -118,7 +89,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33307660000211/|伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩17分": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 伊豆長岡駅 徒歩17分",
       "price_man": 3180,
       "area_sqm": 149.1,
@@ -147,7 +118,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002686/|伊豆の国市中島中古住宅": {
       "first_seen": "2026-07-30",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市中島中古住宅",
       "price_man": 3980,
       "area_sqm": 239.0,
@@ -176,7 +147,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1546050000228/|伊豆の国市守木 住友林業施工中古戸建": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市守木 住友林業施工中古戸建",
       "price_man": 4490,
       "area_sqm": 238.9,
@@ -205,7 +176,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33323360001178/|伊豆箱根鉄道駿豆線 韮山駅 徒歩2分": {
       "first_seen": "2026-08-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 韮山駅 徒歩2分",
       "price_man": 3850,
       "area_sqm": 165.6,
@@ -234,7 +205,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1540930000173/|中古戸建  伊豆の国市原木": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "中古戸建  伊豆の国市原木",
       "price_man": 1890,
       "area_sqm": 312.6,
@@ -261,38 +232,9 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-1436870001803/|伊豆の国市原木　中古戸建": {
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "location": "伊豆の国市原木　中古戸建",
-      "price_man": 1890,
-      "area_sqm": 313.2,
-      "url": "https://www.homes.co.jp/kodate/b-1436870001803/",
-      "text": "伊豆の国市原木　中古戸建",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "宅地",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 19.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-1500050000602/|売中古戸建　伊豆の国市大仁": {
       "first_seen": "2026-10-01",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "売中古戸建　伊豆の国市大仁",
       "price_man": 1800,
       "area_sqm": 210.7,
@@ -323,7 +265,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002093/|伊豆の国市長岡中古住宅": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市長岡中古住宅",
       "price_man": 3280,
       "area_sqm": 157.3,
@@ -354,7 +296,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1220300000786/|伊豆の国市中島　戸建て": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市中島　戸建て",
       "price_man": 1999,
       "area_sqm": 332.9,
@@ -383,7 +325,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002720/|伊豆の国市墹之上中古住宅": {
       "first_seen": "2026-09-11",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市墹之上中古住宅",
       "price_man": 3480,
       "area_sqm": 330.2,
@@ -412,7 +354,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1436870001946/|伊豆の国市南條　中古戸建": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市南條　中古戸建",
       "price_man": 1780,
       "area_sqm": 184.1,
@@ -441,7 +383,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002747/|伊豆の国市古奈中古住宅": {
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市古奈中古住宅",
       "price_man": 990,
       "area_sqm": 130.6,
@@ -470,7 +412,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1111450005602/|小松ヶ原別荘地　売戸建": {
       "first_seen": "2026-08-16",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "小松ヶ原別荘地　売戸建",
       "price_man": 1200,
       "area_sqm": 416.0,
@@ -499,9 +441,38 @@
       "machi": "",
       "tab": "home"
     },
+    "https://www.homes.co.jp/kodate/b-1436870001953/|伊豆の国市奈古谷　中古戸建": {
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-11",
+      "location": "伊豆の国市奈古谷　中古戸建",
+      "price_man": 880,
+      "area_sqm": 209.0,
+      "url": "https://www.homes.co.jp/kodate/b-1436870001953/",
+      "text": "伊豆の国市奈古谷　中古戸建",
+      "shubetsu": "空き家",
+      "shubetsu_reason": "掲載に空き家表記",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 13.9,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "home"
+    },
     "https://www.homes.co.jp/kodate/b-1220300000701/|伊豆の国市古奈　戸建て": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市古奈　戸建て",
       "price_man": 1799,
       "area_sqm": 213.7,
@@ -530,7 +501,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303660000874/|JR東海道本線 熱海駅 16km": {
       "first_seen": "2026-06-21",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "JR東海道本線 熱海駅 16km",
       "price_man": 2480,
       "area_sqm": 218.0,
@@ -561,7 +532,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33318410000046/|片桐邸": {
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "片桐邸",
       "price_man": 980,
       "area_sqm": 515.2,
@@ -590,7 +561,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002492/|伊豆の国市奈古谷　中古戸建": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市奈古谷　中古戸建",
       "price_man": 980,
       "area_sqm": 677.0,
@@ -617,40 +588,9 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://www.homes.co.jp/kodate/b-33310640001151/|伊豆富士見高原小松ヶ原": {
-      "first_seen": "2026-11-08",
-      "last_seen": "2026-11-10",
-      "location": "伊豆富士見高原小松ヶ原",
-      "price_man": 880,
-      "area_sqm": 209.0,
-      "url": "https://www.homes.co.jp/kodate/b-33310640001151/",
-      "text": "伊豆富士見高原小松ヶ原",
-      "shubetsu": "空き家",
-      "shubetsu_reason": "掲載に空き家表記",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし。建物ありだが現行法での再建築可否は役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 13.9,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [
-        "別荘地"
-      ],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "",
-      "tab": "home"
-    },
     "https://www.homes.co.jp/kodate/b-33318410000045/|伊豆箱根鉄道駿豆線 大仁駅 徒歩15分": {
       "first_seen": "2026-07-13",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 大仁駅 徒歩15分",
       "price_man": 1500,
       "area_sqm": 340.9,
@@ -679,7 +619,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303660001201/|エメラルドタウン": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "エメラルドタウン",
       "price_man": 250,
       "area_sqm": 337.0,
@@ -710,7 +650,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1220300000755/|伊豆の国市古奈　戸建て": {
       "first_seen": "2026-08-07",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市古奈　戸建て",
       "price_man": 2349,
       "area_sqm": 215.5,
@@ -739,7 +679,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002531/|伊豆の国市南條中古住宅": {
       "first_seen": "2026-07-31",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市南條中古住宅",
       "price_man": 750,
       "area_sqm": 199.5,
@@ -768,7 +708,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33310640001107/|伊豆エメラルドタウン": {
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆エメラルドタウン",
       "price_man": 450,
       "area_sqm": 290.0,
@@ -799,7 +739,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002407/|伊豆の国市北江間　中古戸建": {
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市北江間　中古戸建",
       "price_man": 1780,
       "area_sqm": 180.9,
@@ -828,7 +768,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1220300000726/|伊豆の国市原木　戸建て": {
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市原木　戸建て",
       "price_man": 1299,
       "area_sqm": 109.0,
@@ -857,7 +797,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002523/|伊豆の国市韮山山木　中古戸建": {
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市韮山山木　中古戸建",
       "price_man": 888,
       "area_sqm": 224.6,
@@ -886,7 +826,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303660001172/|富士見ニュータウン": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "富士見ニュータウン",
       "price_man": 250,
       "area_sqm": 246.3,
@@ -919,7 +859,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002362/|伊豆の国市花坂　中古戸建": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市花坂　中古戸建",
       "price_man": 650,
       "area_sqm": 1059.9,
@@ -948,7 +888,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002293/|伊豆の国市北江間　中古戸建": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市北江間　中古戸建",
       "price_man": 580,
       "area_sqm": 200.2,
@@ -977,7 +917,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303030000191/|伊豆箱根鉄道駿豆線 田京駅 徒歩32分": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 田京駅 徒歩32分",
       "price_man": 650,
       "area_sqm": 200.0,
@@ -1006,7 +946,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050001281/|伊豆の国市三福中古住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市三福中古住宅",
       "price_man": 900,
       "area_sqm": 201.8,
@@ -1035,7 +975,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002618/|伊豆の国市吉田中古住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市吉田中古住宅",
       "price_man": 1750,
       "area_sqm": 422.4,
@@ -1064,7 +1004,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1490460002558/|伊豆の国市韮山多田　中古戸建": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市韮山多田　中古戸建",
       "price_man": 250,
       "area_sqm": 377.4,
@@ -1093,7 +1033,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050001309/|伊豆の国市富士見中古住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市富士見中古住宅",
       "price_man": 3000,
       "area_sqm": 850.9,
@@ -1122,7 +1062,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002599/|伊豆の国市原木中古住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市原木中古住宅",
       "price_man": 750,
       "area_sqm": 117.3,
@@ -1151,7 +1091,7 @@
     },
     "https://www.homes.co.jp/kodate/b-1265050002702/|伊豆の国市大仁事務所付中古住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市大仁事務所付中古住宅",
       "price_man": 8200,
       "area_sqm": 556.0,
@@ -1180,7 +1120,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33327070001019/|富士見ニュータウン": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "富士見ニュータウン",
       "price_man": 480,
       "area_sqm": 256.0,
@@ -1211,7 +1151,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33328330000658/|伊豆の国市宗光寺　売戸建住宅": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市宗光寺　売戸建住宅",
       "price_man": 380,
       "area_sqm": 124.0,
@@ -1240,7 +1180,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303660001190/|富士見ニュータウン": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "富士見ニュータウン",
       "price_man": 480,
       "area_sqm": 380.0,
@@ -1271,7 +1211,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33324270000051/|伊豆箱根鉄道駿豆線 大仁駅 徒歩18分": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 大仁駅 徒歩18分",
       "price_man": 4480,
       "area_sqm": 996.5,
@@ -1300,7 +1240,7 @@
     },
     "https://www.homes.co.jp/kodate/b-93060000053/|伊豆の国市花坂中古戸建": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆の国市花坂中古戸建",
       "price_man": 1000,
       "area_sqm": 1506.2,
@@ -1329,7 +1269,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33303030000181/|伊豆箱根鉄道駿豆線 大仁駅 徒歩11分": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 大仁駅 徒歩11分",
       "price_man": 1980,
       "area_sqm": 404.0,
@@ -1358,7 +1298,7 @@
     },
     "https://www.homes.co.jp/kodate/b-33318410000047/|伊豆箱根鉄道駿豆線 大仁駅 徒歩13分": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "伊豆箱根鉄道駿豆線 大仁駅 徒歩13分",
       "price_man": 1200,
       "area_sqm": 268.9,
@@ -1386,6 +1326,6 @@
       "tab": "home"
     }
   },
-  "hash": "df88bd5e74db98b6",
-  "fetched_at": "2026-11-10T17:47:43.137866"
+  "hash": "6f65f98a1a9e8ba8",
+  "fetched_at": "2026-11-11T10:42:47.173608"
 }

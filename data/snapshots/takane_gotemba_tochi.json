@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_gotenba/niihashi_1289-621/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 1400,
       "area_sqm": 244.9,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/itazuma_233-2/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 2000,
       "area_sqm": 556.9,
@@ -60,7 +60,7 @@
     },
     "http://www.takane-re.jp/tochi_busines/oozeki/details.html|静岡県御殿場市大堰 大堰売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県御殿場市大堰 大堰売農地",
       "price_man": 472,
       "area_sqm": 1958.0,
@@ -89,7 +89,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/higashitanaka_02/details.html|静岡県御殿場市東田中 東田中売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県御殿場市東田中 東田中売土地",
       "price_man": 3229,
       "area_sqm": 427.1,
@@ -120,7 +120,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/ohsaka/details.html|静岡県御殿場市大坂 大坂売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県御殿場市大坂 大坂売土地",
       "price_man": 580,
       "area_sqm": 201.6,
@@ -151,5 +151,5 @@
     }
   },
   "hash": "d4a1b29972995f4d",
-  "fetched_at": "2026-11-10T13:14:18.510635"
+  "fetched_at": "2026-11-11T10:54:02.442556"
 }

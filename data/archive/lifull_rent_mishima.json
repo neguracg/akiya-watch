@@ -4167,5 +4167,16 @@
     "text": "Ｋ’ｓディヨール",
     "removed_on": "2026-11-09",
     "site_name": "LIFULL 賃貸 三島市 4LDK以上"
+  },
+  "https://www.homes.co.jp/chintai/room/db1a53d467c53daf19d957fe2564200b4e2fd62e/|ロイヤルヒルズ加茂": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
+    "location": "静岡県三島市加茂",
+    "price_man": 9.5,
+    "area_sqm": 93.0,
+    "url": "https://www.homes.co.jp/chintai/room/db1a53d467c53daf19d957fe2564200b4e2fd62e/",
+    "text": "ロイヤルヒルズ加茂",
+    "removed_on": "2026-11-11",
+    "site_name": "LIFULL 賃貸 三島市 4LDK以上"
   }
 }

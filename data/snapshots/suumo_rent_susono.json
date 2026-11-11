@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/chintai/jnc_000110703484/?bc=100514712638|ひなたと春色メゾン": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県裾野市茶畑",
       "price_man": 6.9,
       "area_sqm": 130.0,
@@ -31,7 +31,7 @@
     },
     "https://suumo.jp/chintai/jnc_000110746355/?bc=100516138113|ひなたと春色メゾン": {
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県裾野市茶畑",
       "price_man": 6.9,
       "area_sqm": 130.0,
@@ -60,7 +60,7 @@
     },
     "https://suumo.jp/chintai/jnc_000109628250/?bc=100515826381|ひなたと春色メゾン": {
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県裾野市茶畑",
       "price_man": 9.9,
       "area_sqm": 130.0,
@@ -89,7 +89,7 @@
     },
     "https://suumo.jp/chintai/jnc_000102720801/?bc=100489590283|ロイヤルテラス華": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "location": "静岡県裾野市稲荷",
       "price_man": 8.0,
       "area_sqm": 78.4,
@@ -117,6 +117,6 @@
       "tab": "rent"
     }
   },
-  "hash": "c865adef78ca70a4",
-  "fetched_at": "2026-11-10T17:55:23.101654"
+  "hash": "72ebfeec3e395609",
+  "fetched_at": "2026-11-11T10:48:32.153217"
 }

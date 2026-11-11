@@ -2539,5 +2539,16 @@
     "text": "吉原１（吉原本町駅） 2100万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21517825/|今泉（吉原本町駅） 1800万円": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士市今泉3399-6",
+    "price_man": 1800,
+    "area_sqm": 278.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21517825/",
+    "text": "今泉（吉原本町駅） 1800万円",
+    "removed_on": "2026-11-11",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

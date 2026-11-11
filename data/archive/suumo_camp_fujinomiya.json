@@ -856,5 +856,16 @@
     "text": "星山（富士宮駅） 1200万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_73047921/|泉町（西富士宮駅） 2000万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-10",
+    "location": "静岡県富士宮市泉町324-1",
+    "price_man": 2000,
+    "area_sqm": 422.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_73047921/",
+    "text": "泉町（西富士宮駅） 2000万円",
+    "removed_on": "2026-11-11",
+    "site_name": "SUUMO 土地 富士宮市"
   }
 }

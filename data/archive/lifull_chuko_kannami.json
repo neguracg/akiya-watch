@@ -130,5 +130,16 @@
     "text": "南箱根ダイヤランド　売戸建",
     "removed_on": "2026-11-05",
     "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-33303660000992/|JR東海道本線 熱海駅 13km": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-10",
+    "location": "JR東海道本線 熱海駅 13km",
+    "price_man": 2650,
+    "area_sqm": 370.5,
+    "url": "https://www.homes.co.jp/kodate/b-33303660000992/",
+    "text": "JR東海道本線 熱海駅 13km",
+    "removed_on": "2026-11-11",
+    "site_name": "LIFULL 中古戸建 函南町"
   }
 }
