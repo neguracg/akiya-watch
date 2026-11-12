@@ -999,5 +999,27 @@
     "text": "草薙（草薙駅） 1980万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21778609/|小中学校徒歩圏内｜建築条件あり｜限定1区画": {
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-11",
+    "location": "静岡県静岡市清水区日立町",
+    "price_man": 1250,
+    "area_sqm": 115.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21778609/",
+    "text": "小中学校徒歩圏内｜建築条件あり｜限定1区画",
+    "removed_on": "2026-11-12",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21704441/|八坂西町（清水駅） 1580万円": {
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "location": "静岡県静岡市清水区八坂西町",
+    "price_man": 1580,
+    "area_sqm": 206.1,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21704441/",
+    "text": "八坂西町（清水駅） 1580万円",
+    "removed_on": "2026-11-12",
+    "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

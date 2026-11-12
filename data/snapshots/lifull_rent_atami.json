@@ -2,7 +2,7 @@
   "keys": {
     "https://www.homes.co.jp/chintai/room/9add54523ab87be3f7cebed0f6fee2cde171ebb0/|熱海市和田町　戸建": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "location": "静岡県熱海市和田町16-38",
       "price_man": 9.8,
       "area_sqm": 94.2,
@@ -33,7 +33,7 @@
     },
     "https://www.homes.co.jp/chintai/room/0f0508ec87ce658e185e2567174260e5370a97e1/|JR東海道本線 熱海駅 8km": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "location": "静岡県熱海市上多賀1045-208",
       "price_man": 15.0,
       "area_sqm": 128.7,
@@ -62,7 +62,7 @@
     },
     "https://www.homes.co.jp/chintai/room/e72e4bbbab1f5363928bd0a5e5de0dec2ea9d50a/|熱海市紅葉ガ丘町　1棟貸し寮": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "location": "静岡県熱海市紅葉ガ丘町23-9",
       "price_man": 48.5,
       "area_sqm": 320.3,
@@ -91,7 +91,7 @@
     },
     "https://www.homes.co.jp/chintai/room/4bf73ea6eeded06eec4b4f3a3aefc4a09c5d9b81/|プライベートテラスハウス熱海湯河原": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "location": "静岡県熱海市泉元宮上分",
       "price_man": 80.0,
       "area_sqm": 510.9,
@@ -119,6 +119,6 @@
       "tab": "rent"
     }
   },
-  "hash": "0d2527cdbd3dd5c6",
-  "fetched_at": "2026-11-11T11:37:30.880062"
+  "hash": "24936d12eb6b4b15",
+  "fetched_at": "2026-11-12T12:40:33.259927"
 }

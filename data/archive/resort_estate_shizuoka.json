@@ -493,5 +493,16 @@
     "text": "物件No.10062 熱海市 上多賀 中古別荘 (貸別荘運営中) こちらの物件は、現在会員様のみ閲覧可能です",
     "removed_on": "2026-11-10",
     "site_name": "日本マウント 静岡県 リゾート・田舎物件"
+  },
+  "https://resort-estate.com/detail/3409|静岡県熱海市青葉町": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-11",
+    "location": "静岡県熱海市青葉町",
+    "price_man": 380,
+    "area_sqm": null,
+    "url": "https://resort-estate.com/detail/3409",
+    "text": "静岡県熱海市青葉町",
+    "removed_on": "2026-11-12",
+    "site_name": "日本マウント 静岡県 リゾート・田舎物件"
   }
 }

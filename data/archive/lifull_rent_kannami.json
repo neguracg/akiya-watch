@@ -1857,5 +1857,38 @@
     "text": "ガーデンブルグ",
     "removed_on": "2026-11-11",
     "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/3cb5700125cb6a1da729fb80bf3565861e806560/|ヴィル・スクエア": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.1,
+    "area_sqm": 62.1,
+    "url": "https://www.homes.co.jp/chintai/room/3cb5700125cb6a1da729fb80bf3565861e806560/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-11-12",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/e6abf05573f1168997bc60a5700ff54599fa6c85/|ヴィル・スクエア": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-11",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 7.0,
+    "area_sqm": 61.8,
+    "url": "https://www.homes.co.jp/chintai/room/e6abf05573f1168997bc60a5700ff54599fa6c85/",
+    "text": "ヴィル・スクエア",
+    "removed_on": "2026-11-12",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/38e1839e240b52c7b133e5e9f9c2be375d09a142/|レオパレスセリバテール": {
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 5.7,
+    "area_sqm": 23.2,
+    "url": "https://www.homes.co.jp/chintai/room/38e1839e240b52c7b133e5e9f9c2be375d09a142/",
+    "text": "レオパレスセリバテール",
+    "removed_on": "2026-11-12",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

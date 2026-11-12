@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202600454裾野千福が丘|静岡県裾野市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-11",
+      "last_seen": "2026-11-12",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
@@ -30,6 +30,6 @@
       "tab": "home"
     }
   },
-  "hash": "b4bdca2f894b82ce",
-  "fetched_at": "2026-11-11T10:43:37.365171"
+  "hash": "0989c8d9b0948147",
+  "fetched_at": "2026-11-12T11:42:05.007670"
 }
