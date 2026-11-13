@@ -758,17 +758,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21988348/|寛ぎ溢れる平屋の住まい。こだわりの意匠、和の建築美。": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-11-03",
-    "location": "静岡県田方郡函南町塚本",
-    "price_man": 1500,
-    "area_sqm": 283.3,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21988348/",
-    "text": "寛ぎ溢れる平屋の住まい。こだわりの意匠、和の建築美。",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 中古戸建 田方郡（函南）"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_20523898/|桑原（函南駅） 1780万円": {
     "first_seen": "2026-06-17",
     "last_seen": "2026-11-03",
@@ -1009,6 +998,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21717352/",
     "text": "南箱根ダイヤランド_マシンカットの角ログハウス、薪ストーブ付、駐車3台可",
     "removed_on": "2026-11-10",
+    "site_name": "SUUMO 中古戸建 田方郡（函南）"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21416658/|上沢（函南駅） 900万円": {
+    "first_seen": "2026-08-02",
+    "last_seen": "2026-11-12",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 900,
+    "area_sqm": 291.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_tagatagun/nc_21416658/",
+    "text": "上沢（函南駅） 900万円",
+    "removed_on": "2026-11-13",
     "site_name": "SUUMO 中古戸建 田方郡（函南）"
   }
 }

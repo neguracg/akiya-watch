@@ -296,17 +296,6 @@
     "removed_on": "2026-10-23",
     "site_name": "SUUMO 土地 富士宮市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|アクティブな方へおすすめ！標高約189ｍで洪水のリスクを抑えやすい立地です": {
-    "first_seen": "2026-10-21",
-    "last_seen": "2026-10-23",
-    "location": "静岡県富士宮市杉田509-18",
-    "price_man": 600,
-    "area_sqm": 226.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
-    "text": "アクティブな方へおすすめ！標高約189ｍで洪水のリスクを抑えやすい立地です",
-    "removed_on": "2026-10-24",
-    "site_name": "SUUMO 土地 富士宮市"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_21232586/|・日当たり良好・閑静な住宅地": {
     "first_seen": "2026-09-04",
     "last_seen": "2026-10-23",
@@ -866,6 +855,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_73047921/",
     "text": "泉町（西富士宮駅） 2000万円",
     "removed_on": "2026-11-11",
+    "site_name": "SUUMO 土地 富士宮市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/|敷地約68坪！ゆったりした明るい生活設計が叶えられる南側道路で楽しく過ごす": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-12",
+    "location": "静岡県富士宮市杉田509-18",
+    "price_man": 600,
+    "area_sqm": 226.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fujinomiya/nc_78103708/",
+    "text": "敷地約68坪！ゆったりした明るい生活設計が叶えられる南側道路で楽しく過ごす",
+    "removed_on": "2026-11-13",
     "site_name": "SUUMO 土地 富士宮市"
   }
 }

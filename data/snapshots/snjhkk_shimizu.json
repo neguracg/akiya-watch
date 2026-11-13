@@ -2,7 +2,7 @@
   "keys": {
     "https://www.snjhkk.com/s_r_60096/|静岡県駿東郡清水町新宿": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町新宿",
       "price_man": 2590,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.snjhkk.com/s_r_59849/|静岡県駿東郡清水町伏見": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町伏見",
       "price_man": 3200,
       "area_sqm": 257.4,
@@ -60,7 +60,7 @@
     },
     "https://www.snjhkk.com/s_r_58687/|静岡県駿東郡清水町徳倉": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1800,
       "area_sqm": 567.1,
@@ -89,7 +89,7 @@
     },
     "https://www.snjhkk.com/s_r_58601/|静岡県駿東郡清水町湯川": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町湯川",
       "price_man": 1780,
       "area_sqm": 143.5,
@@ -118,7 +118,7 @@
     },
     "https://www.snjhkk.com/s_r_54907/|静岡県駿東郡清水町玉川": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町玉川",
       "price_man": 1980,
       "area_sqm": 165.3,
@@ -147,7 +147,7 @@
     },
     "https://www.snjhkk.com/s_r_53046/|静岡県駿東郡清水町伏見字谷口579-6": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町伏見字谷口579-6",
       "price_man": 2698,
       "area_sqm": 99.3,
@@ -176,7 +176,7 @@
     },
     "https://www.snjhkk.com/s_r_53045/|静岡県駿東郡清水町湯川字五反田9-16": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町湯川字五反田9-16",
       "price_man": 3398,
       "area_sqm": 112.3,
@@ -205,7 +205,7 @@
     },
     "https://www.snjhkk.com/s_r_52860/|静岡県駿東郡清水町湯川字五反田9-15": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町湯川字五反田9-15",
       "price_man": 2598,
       "area_sqm": 111.0,
@@ -234,7 +234,7 @@
     },
     "https://www.snjhkk.com/s_r_52859/|静岡県駿東郡清水町湯川字五反田9-14": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町湯川字五反田9-14",
       "price_man": 3398,
       "area_sqm": 112.2,
@@ -263,7 +263,7 @@
     },
     "https://www.snjhkk.com/s_r_40275/|静岡県駿東郡清水町徳倉": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 1650,
       "area_sqm": 300.6,
@@ -292,7 +292,7 @@
     },
     "https://www.snjhkk.com/s_r_27858/|静岡県駿東郡清水町徳倉": {
       "first_seen": "2026-10-23",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県駿東郡清水町徳倉",
       "price_man": 2680,
       "area_sqm": 156.0,
@@ -320,6 +320,6 @@
       "tab": "home"
     }
   },
-  "hash": "9a5a9d65ceb2b256",
-  "fetched_at": "2026-11-12T11:55:47.519179"
+  "hash": "ad22f605baaf7b4e",
+  "fetched_at": "2026-11-13T11:36:38.287728"
 }

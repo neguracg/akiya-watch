@@ -845,5 +845,16 @@
     "text": "柿田（三島広小路駅） 2080万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/|竹原（下土狩駅） 750万円": {
+    "first_seen": "2026-09-22",
+    "last_seen": "2026-11-12",
+    "location": "静岡県駿東郡長泉町竹原",
+    "price_man": 750,
+    "area_sqm": 91.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_suntogun/nc_20635006/",
+    "text": "竹原（下土狩駅） 750万円",
+    "removed_on": "2026-11-13",
+    "site_name": "SUUMO 土地 駿東郡（清水/長泉）"
   }
 }

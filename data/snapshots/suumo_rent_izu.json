@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/chintai/jnc_000095775869/?bc=100417544302|伊豆市柏久保": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-13",
       "location": "静岡県伊豆市柏久保",
       "price_man": 16.5,
       "area_sqm": 129.8,
@@ -30,6 +30,6 @@
       "tab": "rent"
     }
   },
-  "hash": "3024c2d5a6eb9484",
-  "fetched_at": "2026-11-12T11:47:33.559102"
+  "hash": "1dcc8e88f7dd6337",
+  "fetched_at": "2026-11-13T11:28:15.658327"
 }

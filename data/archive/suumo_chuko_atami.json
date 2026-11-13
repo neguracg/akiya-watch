@@ -42,5 +42,27 @@
     "text": "下多賀（伊豆多賀駅） 3580万円",
     "removed_on": "2026-11-10",
     "site_name": "SUUMO 中古戸建 熱海市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_20578295/|上多賀（伊豆多賀駅） 3480万円": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-12",
+    "location": "静岡県熱海市上多賀",
+    "price_man": 3480,
+    "area_sqm": 652.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_20578295/",
+    "text": "上多賀（伊豆多賀駅） 3480万円",
+    "removed_on": "2026-11-13",
+    "site_name": "SUUMO 中古戸建 熱海市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_21807722/|西熱海町２（来宮駅） 3980万円": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-12",
+    "location": "静岡県熱海市西熱海町２",
+    "price_man": 3980,
+    "area_sqm": 383.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_21807722/",
+    "text": "西熱海町２（来宮駅） 3980万円",
+    "removed_on": "2026-11-13",
+    "site_name": "SUUMO 中古戸建 熱海市"
   }
 }

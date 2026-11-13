@@ -945,17 +945,6 @@
     "removed_on": "2026-11-07",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78490928/|(株)三心　久野 三京窪　A区画 67.16坪  南ひな壇、陽当り景観良好": {
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-11-07",
-    "location": "神奈川県小田原市久野",
-    "price_man": 1450,
-    "area_sqm": 246.2,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78490928/",
-    "text": "(株)三心　久野 三京窪　A区画 67.16坪  南ひな壇、陽当り景観良好",
-    "removed_on": "2026-11-08",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22022952/|西酒匂３（鴨宮駅） 1780万円": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-07",
@@ -1064,6 +1053,17 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21359508/",
     "text": "敷地面積77坪以上！ゆったりとした敷地です♪",
     "removed_on": "2026-11-10",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21892526/|最終1区画。富水駅徒歩5分×建築条件なし、43坪超の土地": {
+    "first_seen": "2026-10-11",
+    "last_seen": "2026-11-12",
+    "location": "神奈川県小田原市堀之内",
+    "price_man": 1380,
+    "area_sqm": 143.8,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21892526/",
+    "text": "最終1区画。富水駅徒歩5分×建築条件なし、43坪超の土地",
+    "removed_on": "2026-11-13",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

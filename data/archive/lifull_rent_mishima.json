@@ -3211,28 +3211,6 @@
     "removed_on": "2026-11-09",
     "site_name": "LIFULL 賃貸 三島市"
   },
-  "https://www.homes.co.jp/chintai/room/1cc2906473ff6d1f14045d192c68f89b5533220e/|グリーンパレス三島": {
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-09",
-    "location": "静岡県三島市幸原町 1丁目6-15",
-    "price_man": 13.8,
-    "area_sqm": 107.8,
-    "url": "https://www.homes.co.jp/chintai/room/1cc2906473ff6d1f14045d192c68f89b5533220e/",
-    "text": "グリーンパレス三島",
-    "removed_on": "2026-11-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
-  "https://www.homes.co.jp/chintai/room/0a8bd23fd35b4b3357be8b63e68d9cc6a0a8a6ab/|ロイヤルヒルズ加茂": {
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-09",
-    "location": "静岡県三島市加茂77-3-1",
-    "price_man": 8.9,
-    "area_sqm": 93.0,
-    "url": "https://www.homes.co.jp/chintai/room/0a8bd23fd35b4b3357be8b63e68d9cc6a0a8a6ab/",
-    "text": "ロイヤルヒルズ加茂",
-    "removed_on": "2026-11-09",
-    "site_name": "LIFULL 賃貸 三島市"
-  },
   "https://www.homes.co.jp/chintai/room/02a28d289f1b849cdce84ea1aad80f07ecf4fe78/|ベルックスA": {
     "first_seen": "2026-11-09",
     "last_seen": "2026-11-09",
@@ -4168,15 +4146,15 @@
     "removed_on": "2026-11-09",
     "site_name": "LIFULL 賃貸 三島市 4LDK以上"
   },
-  "https://www.homes.co.jp/chintai/room/db1a53d467c53daf19d957fe2564200b4e2fd62e/|ロイヤルヒルズ加茂": {
-    "first_seen": "2026-11-09",
-    "last_seen": "2026-11-10",
+  "https://www.homes.co.jp/chintai/room/db1a53d467c53daf19d957fe2564200b4e2fd62e/|JR東海道本線 三島駅 3.4km": {
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-11",
     "location": "静岡県三島市加茂",
     "price_man": 9.5,
     "area_sqm": 93.0,
     "url": "https://www.homes.co.jp/chintai/room/db1a53d467c53daf19d957fe2564200b4e2fd62e/",
-    "text": "ロイヤルヒルズ加茂",
-    "removed_on": "2026-11-11",
+    "text": "JR東海道本線 三島駅 3.4km",
+    "removed_on": "2026-11-13",
     "site_name": "LIFULL 賃貸 三島市 4LDK以上"
   }
 }
