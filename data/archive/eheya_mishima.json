@@ -538,17 +538,6 @@
     "removed_on": "2026-11-03",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300059832001782000002/|ノアAPT": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-02",
-    "location": "静岡県三島市萩",
-    "price_man": 7.9,
-    "area_sqm": 50.0,
-    "url": "https://www.eheya.net/detail/300059832001782000002/",
-    "text": "ノアAPT",
-    "removed_on": "2026-11-03",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300000142001429000020/|菰池パークハウス": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-02",
@@ -802,17 +791,6 @@
     "removed_on": "2026-11-06",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300059832001204000004/|パストラルKー1": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-06",
-    "location": "静岡県三島市若松町",
-    "price_man": 6.8,
-    "area_sqm": 59.3,
-    "url": "https://www.eheya.net/detail/300059832001204000004/",
-    "text": "パストラルKー1",
-    "removed_on": "2026-11-07",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300000142004526000002/|エクセレントTAKA B": {
     "first_seen": "2026-10-31",
     "last_seen": "2026-11-06",
@@ -898,17 +876,6 @@
     "area_sqm": 19.4,
     "url": "https://www.eheya.net/detail/300000142002693000003/",
     "text": "リバーローズ",
-    "removed_on": "2026-11-07",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300000140001022005321/|TTE": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-06",
-    "location": "静岡県三島市南二日町",
-    "price_man": 5.5,
-    "area_sqm": 32.9,
-    "url": "https://www.eheya.net/detail/300000140001022005321/",
-    "text": "TTE",
     "removed_on": "2026-11-07",
     "site_name": "いい部屋ネット 三島市"
   },
@@ -1077,17 +1044,6 @@
     "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300000140001173006414/|ヴィオラ N": {
-    "first_seen": "2026-11-02",
-    "last_seen": "2026-11-09",
-    "location": "静岡県三島市長伏",
-    "price_man": 5.3,
-    "area_sqm": 31.0,
-    "url": "https://www.eheya.net/detail/300000140001173006414/",
-    "text": "ヴィオラ N",
-    "removed_on": "2026-11-09",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300059832002843000003/|ミレニアム・パレ": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-09",
@@ -1140,17 +1096,6 @@
     "area_sqm": 28.4,
     "url": "https://www.eheya.net/detail/300000142004587000002/",
     "text": "フラット麻布Ⅲ",
-    "removed_on": "2026-11-10",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300000140000816003624/|プリムローズKM": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-10",
-    "location": "静岡県三島市中島",
-    "price_man": 5.45,
-    "area_sqm": 33.3,
-    "url": "https://www.eheya.net/detail/300000140000816003624/",
-    "text": "プリムローズKM",
     "removed_on": "2026-11-10",
     "site_name": "いい部屋ネット 三島市"
   },
@@ -1220,39 +1165,6 @@
     "removed_on": "2026-11-13",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300001603005439000001/|シティコート東町": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-12",
-    "location": "静岡県三島市東町",
-    "price_man": 6.9,
-    "area_sqm": 67.2,
-    "url": "https://www.eheya.net/detail/300001603005439000001/",
-    "text": "シティコート東町",
-    "removed_on": "2026-11-13",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603005464000001/|ロイヤルハイツセブン": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-12",
-    "location": "静岡県三島市松本",
-    "price_man": 6.0,
-    "area_sqm": 51.5,
-    "url": "https://www.eheya.net/detail/300001603005464000001/",
-    "text": "ロイヤルハイツセブン",
-    "removed_on": "2026-11-13",
-    "site_name": "いい部屋ネット 三島市"
-  },
-  "https://www.eheya.net/detail/300001603005472000001/|パティオトテラス": {
-    "first_seen": "2026-11-06",
-    "last_seen": "2026-11-12",
-    "location": "静岡県三島市大場",
-    "price_man": 7.4,
-    "area_sqm": 69.5,
-    "url": "https://www.eheya.net/detail/300001603005472000001/",
-    "text": "パティオトテラス",
-    "removed_on": "2026-11-13",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300059832003402000002/|Dreamio": {
     "first_seen": "2026-11-08",
     "last_seen": "2026-11-12",
@@ -1295,6 +1207,116 @@
     "url": "https://www.eheya.net/detail/300001603005252000001/",
     "text": "ペアシティ榊",
     "removed_on": "2026-11-13",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005372000001/|プリムローズKM": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市中島",
+    "price_man": 5.25,
+    "area_sqm": 36.8,
+    "url": "https://www.eheya.net/detail/300001603005372000001/",
+    "text": "プリムローズKM",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005136000001/|シレンシオ パティオ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市徳倉４丁目",
+    "price_man": 6.3,
+    "area_sqm": 62.8,
+    "url": "https://www.eheya.net/detail/300001603005136000001/",
+    "text": "シレンシオ パティオ",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005323000001/|ノアAPT": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市萩",
+    "price_man": 7.9,
+    "area_sqm": 50.0,
+    "url": "https://www.eheya.net/detail/300001603005323000001/",
+    "text": "ノアAPT",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002499000005/|カーネリアン": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市長伏",
+    "price_man": 5.5,
+    "area_sqm": 40.1,
+    "url": "https://www.eheya.net/detail/300000142002499000005/",
+    "text": "カーネリアン",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004630000001/|クレール ティエラ": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市若松町",
+    "price_man": 6.3,
+    "area_sqm": 44.0,
+    "url": "https://www.eheya.net/detail/300000142004630000001/",
+    "text": "クレール ティエラ",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004611000003/|ルネコート三島": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市西本町",
+    "price_man": 3.2,
+    "area_sqm": 15.7,
+    "url": "https://www.eheya.net/detail/300000142004611000003/",
+    "text": "ルネコート三島",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603003739000001/|シャトー望月 C": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市壱町田",
+    "price_man": 4.0,
+    "area_sqm": 29.0,
+    "url": "https://www.eheya.net/detail/300001603003739000001/",
+    "text": "シャトー望月 C",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004496000001/|アクアハイム大宮": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市大宮町２丁目",
+    "price_man": 7.2,
+    "area_sqm": 59.6,
+    "url": "https://www.eheya.net/detail/300000142004496000001/",
+    "text": "アクアハイム大宮",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000485000001/|エコシティープライム": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市長伏",
+    "price_man": 6.5,
+    "area_sqm": 56.7,
+    "url": "https://www.eheya.net/detail/300001603000485000001/",
+    "text": "エコシティープライム",
+    "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142003145000001/|リバーサイド中島B": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市中島",
+    "price_man": 5.2,
+    "area_sqm": 50.6,
+    "url": "https://www.eheya.net/detail/300000142003145000001/",
+    "text": "リバーサイド中島B",
+    "removed_on": "2026-11-14",
     "site_name": "いい部屋ネット 三島市"
   }
 }

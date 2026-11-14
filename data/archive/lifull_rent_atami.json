@@ -1,1 +1,13 @@
-{}
+{
+  "https://www.homes.co.jp/chintai/room/0f0508ec87ce658e185e2567174260e5370a97e1/|JR東海道本線 熱海駅 8km": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
+    "location": "静岡県熱海市上多賀1045-208",
+    "price_man": 15.0,
+    "area_sqm": 128.7,
+    "url": "https://www.homes.co.jp/chintai/room/0f0508ec87ce658e185e2567174260e5370a97e1/",
+    "text": "JR東海道本線 熱海駅 8km",
+    "removed_on": "2026-11-14",
+    "site_name": "LIFULL 賃貸 熱海市 4LDK以上"
+  }
+}

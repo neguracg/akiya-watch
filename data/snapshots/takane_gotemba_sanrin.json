@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_busines/oozeki/details.html|静岡県御殿場市大堰 大堰売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "location": "静岡県御殿場市大堰 大堰売農地",
       "price_man": 472,
       "area_sqm": 1958.0,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/chintai_gotenba/kawashimata_982-1/details.html|静岡県御殿場市川島田 川島田貸倉庫": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "location": "静岡県御殿場市川島田 川島田貸倉庫",
       "price_man": 17,
       "area_sqm": 99.4,
@@ -60,5 +60,5 @@
     }
   },
   "hash": "a0c08e031dc832e0",
-  "fetched_at": "2026-11-13T11:23:25.610471"
+  "fetched_at": "2026-11-14T11:00:00.271136"
 }

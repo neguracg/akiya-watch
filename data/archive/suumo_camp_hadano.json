@@ -944,5 +944,49 @@
     "text": "曽屋 500万円",
     "removed_on": "2026-11-11",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21392366/|48坪超の敷地で、理想の暮らしをカタチに。": {
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-11-13",
+    "location": "神奈川県秦野市平沢",
+    "price_man": 1480,
+    "area_sqm": 159.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21392366/",
+    "text": "48坪超の敷地で、理想の暮らしをカタチに。",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_22049723/|◆広々とした土地面積で、思い描く理想の暮らしを叶えるチャンス！": {
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-11-13",
+    "location": "神奈川県秦野市堀西",
+    "price_man": 1580,
+    "area_sqm": 225.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_22049723/",
+    "text": "◆広々とした土地面積で、思い描く理想の暮らしを叶えるチャンス！",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_22029255/|戸川 1690万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-13",
+    "location": "神奈川県秦野市戸川456-14",
+    "price_man": 1690,
+    "area_sqm": 164.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_22029255/",
+    "text": "戸川 1690万円",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21974563/|渋沢１（渋沢駅） 1980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-13",
+    "location": "神奈川県秦野市渋沢１",
+    "price_man": 1980,
+    "area_sqm": 175.7,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21974563/",
+    "text": "渋沢１（渋沢駅） 1980万円",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

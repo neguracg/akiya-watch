@@ -2045,17 +2045,6 @@
     "removed_on": "2026-10-29",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78628522/|☆南向きで陽当たり良好。明るいリビング。充実の収納。": {
-    "first_seen": "2026-06-17",
-    "last_seen": "2026-10-30",
-    "location": "静岡県三島市谷田",
-    "price_man": 1598,
-    "area_sqm": 145.7,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78628522/",
-    "text": "☆南向きで陽当たり良好。明るいリビング。充実の収納。",
-    "removed_on": "2026-10-31",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_75922516/|【富士山が見える家】三井ホーム築3年！全館空調・太陽光発電！長期優良住宅！": {
     "first_seen": "2026-07-04",
     "last_seen": "2026-10-30",
@@ -2571,6 +2560,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_20334289/",
     "text": "梅名 2980万円",
     "removed_on": "2026-11-13",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78628522/|谷田（三島二日町駅） 1598万円": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市谷田",
+    "price_man": 1598,
+    "area_sqm": 145.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_78628522/",
+    "text": "谷田（三島二日町駅） 1598万円",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21156446/|☆　閑静な住宅地に位置し、陽当たり良好です。": {
+    "first_seen": "2026-08-16",
+    "last_seen": "2026-11-13",
+    "location": "静岡県三島市芙蓉台１",
+    "price_man": 2230,
+    "area_sqm": 303.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21156446/",
+    "text": "☆　閑静な住宅地に位置し、陽当たり良好です。",
+    "removed_on": "2026-11-14",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

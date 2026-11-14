@@ -570,5 +570,16 @@
     "text": "沼津市足高　中古戸建",
     "removed_on": "2026-11-13",
     "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-33333600000104/|JR東海道本線 片浜駅 3.2km": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
+    "location": "JR東海道本線 片浜駅 3.2km",
+    "price_man": 370,
+    "area_sqm": 187.4,
+    "url": "https://www.homes.co.jp/kodate/b-33333600000104/",
+    "text": "JR東海道本線 片浜駅 3.2km",
+    "removed_on": "2026-11-14",
+    "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

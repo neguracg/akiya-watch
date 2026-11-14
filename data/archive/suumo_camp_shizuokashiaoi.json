@@ -1747,5 +1747,16 @@
     "text": "城北２ 1680万円",
     "removed_on": "2026-11-11",
     "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21547111/|市街地が近い、陽当り良好、閑静な住宅地、建築条件なし、都市ガス": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-13",
+    "location": "静岡県静岡市葵区与一３-223-1",
+    "price_man": 1680,
+    "area_sqm": 125.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21547111/",
+    "text": "市街地が近い、陽当り良好、閑静な住宅地、建築条件なし、都市ガス",
+    "removed_on": "2026-11-14",
+    "site_name": "SUUMO 土地 静岡市葵区"
   }
 }
