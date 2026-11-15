@@ -1011,17 +1011,6 @@
     "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300000142003620000003/|ヒルズ・若松町Ⅲ": {
-    "first_seen": "2026-10-30",
-    "last_seen": "2026-11-08",
-    "location": "静岡県三島市若松町",
-    "price_man": 8.3,
-    "area_sqm": 59.4,
-    "url": "https://www.eheya.net/detail/300000142003620000003/",
-    "text": "ヒルズ・若松町Ⅲ",
-    "removed_on": "2026-11-09",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300059832003434000001/|メゾンMロードⅡ": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-08",
@@ -1209,17 +1198,6 @@
     "removed_on": "2026-11-13",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300001603005372000001/|プリムローズKM": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-13",
-    "location": "静岡県三島市中島",
-    "price_man": 5.25,
-    "area_sqm": 36.8,
-    "url": "https://www.eheya.net/detail/300001603005372000001/",
-    "text": "プリムローズKM",
-    "removed_on": "2026-11-14",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300001603005136000001/|シレンシオ パティオ": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-13",
@@ -1317,6 +1295,72 @@
     "url": "https://www.eheya.net/detail/300000142003145000001/",
     "text": "リバーサイド中島B",
     "removed_on": "2026-11-14",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140000816003624/|プリムローズKM": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市中島",
+    "price_man": 5.45,
+    "area_sqm": 33.3,
+    "url": "https://www.eheya.net/detail/300000140000816003624/",
+    "text": "プリムローズKM",
+    "removed_on": "2026-11-15",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140000102000162/|エステートB": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市柳郷地",
+    "price_man": 4.6,
+    "area_sqm": 50.1,
+    "url": "https://www.eheya.net/detail/300000140000102000162/",
+    "text": "エステートB",
+    "removed_on": "2026-11-15",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140001022005321/|TTE": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市南二日町",
+    "price_man": 5.5,
+    "area_sqm": 32.9,
+    "url": "https://www.eheya.net/detail/300000140001022005321/",
+    "text": "TTE",
+    "removed_on": "2026-11-15",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000140001136006156/|ラズベリー": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市安久",
+    "price_man": 6.05,
+    "area_sqm": 45.9,
+    "url": "https://www.eheya.net/detail/300000140001136006156/",
+    "text": "ラズベリー",
+    "removed_on": "2026-11-15",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603003619000001/|ヒルズ・若松町Ⅲ": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市若松町",
+    "price_man": 8.3,
+    "area_sqm": 59.4,
+    "url": "https://www.eheya.net/detail/300001603003619000001/",
+    "text": "ヒルズ・若松町Ⅲ",
+    "removed_on": "2026-11-15",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603003743000001/|パピヨンプレイス": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-14",
+    "location": "静岡県三島市梅名",
+    "price_man": 5.8,
+    "area_sqm": 49.5,
+    "url": "https://www.eheya.net/detail/300001603003743000001/",
+    "text": "パピヨンプレイス",
+    "removed_on": "2026-11-15",
     "site_name": "いい部屋ネット 三島市"
   }
 }

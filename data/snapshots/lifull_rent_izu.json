@@ -2,7 +2,7 @@
   "keys": {
     "https://www.homes.co.jp/chintai/room/0bc76446b92d8e6ab4d92b8df8bd1a94735bf6a3/|Livello-30": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-14",
+      "last_seen": "2026-11-15",
       "location": "静岡県伊豆市熊坂415",
       "price_man": 8.5,
       "area_sqm": 105.8,
@@ -30,6 +30,6 @@
       "tab": "rent"
     }
   },
-  "hash": "ef81de98efaaba1a",
-  "fetched_at": "2026-11-14T12:14:38.984098"
+  "hash": "cc8531c0521879ff",
+  "fetched_at": "2026-11-15T11:41:54.905195"
 }

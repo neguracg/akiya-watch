@@ -988,5 +988,16 @@
     "text": "渋沢１（渋沢駅） 1980万円",
     "removed_on": "2026-11-14",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788918/|本町１（秦野駅） 2980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-14",
+    "location": "神奈川県秦野市本町１",
+    "price_man": 2980,
+    "area_sqm": 183.5,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21788918/",
+    "text": "本町１（秦野駅） 2980万円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

@@ -2088,5 +2088,49 @@
     "text": "本字千本（沼津駅） 3280万円",
     "removed_on": "2026-11-13",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21078619/|☆庭付き５LDK。大型商業施設近く！": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-14",
+    "location": "静岡県沼津市東椎路",
+    "price_man": 1580,
+    "area_sqm": 214.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21078619/",
+    "text": "☆庭付き５LDK。大型商業施設近く！",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086017/|大諏訪（片浜駅） 2080万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-14",
+    "location": "静岡県沼津市大諏訪",
+    "price_man": 2080,
+    "area_sqm": 157.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086017/",
+    "text": "大諏訪（片浜駅） 2080万円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086575/|大岡（下土狩駅） 3450万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-14",
+    "location": "静岡県沼津市大岡",
+    "price_man": 3450,
+    "area_sqm": 162.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086575/",
+    "text": "大岡（下土狩駅） 3450万円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086658/|大岡（大岡駅） 4150万1000円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-14",
+    "location": "静岡県沼津市大岡",
+    "price_man": 4150,
+    "area_sqm": 121.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22086658/",
+    "text": "大岡（大岡駅） 4150万1000円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

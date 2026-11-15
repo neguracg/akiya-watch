@@ -724,5 +724,27 @@
     "text": "☆　おしゃれな別荘です。　　→各所にこだわりがあります。",
     "removed_on": "2026-11-14",
     "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22086911/|南條立花台（伊豆長岡駅） 780万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-14",
+    "location": "静岡県伊豆の国市南條立花台",
+    "price_man": 780,
+    "area_sqm": 278.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22086911/",
+    "text": "南條立花台（伊豆長岡駅） 780万円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22086966/|三福（田京駅） 3650万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-14",
+    "location": "静岡県伊豆の国市三福",
+    "price_man": 3650,
+    "area_sqm": 307.7,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22086966/",
+    "text": "三福（田京駅） 3650万円",
+    "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
   }
 }
