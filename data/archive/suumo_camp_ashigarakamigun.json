@@ -328,5 +328,16 @@
     "text": "上大井（上大井駅） 580万円",
     "removed_on": "2026-11-01",
     "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_20696322/|岸（山北駅） 999万円": {
+    "first_seen": "2026-09-08",
+    "last_seen": "2026-11-15",
+    "location": "神奈川県足柄上郡山北町岸",
+    "price_man": 999,
+    "area_sqm": 480.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_ashigarakamigun/nc_20696322/",
+    "text": "岸（山北駅） 999万円",
+    "removed_on": "2026-11-16",
+    "site_name": "SUUMO 土地 足柄上郡（山北町ほか）"
   }
 }

@@ -2847,5 +2847,49 @@
     "text": "三島市松本 (三島二日町駅)",
     "removed_on": "2026-11-15",
     "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-37260450000044/|三島市富士ビレッジ (三島駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-15",
+    "location": "三島市富士ビレッジ (三島駅)",
+    "price_man": 1230,
+    "area_sqm": 201.0,
+    "url": "https://www.homes.co.jp/tochi/b-37260450000044/",
+    "text": "三島市富士ビレッジ (三島駅)",
+    "removed_on": "2026-11-16",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-37260450000030/|三島市東本町2丁目 (三島二日町駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-15",
+    "location": "三島市東本町2丁目 (三島二日町駅)",
+    "price_man": 3200,
+    "area_sqm": 198.5,
+    "url": "https://www.homes.co.jp/tochi/b-37260450000030/",
+    "text": "三島市東本町2丁目 (三島二日町駅)",
+    "removed_on": "2026-11-16",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1490460002400/|三島市徳倉5丁目 (長泉なめり駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-15",
+    "location": "三島市徳倉5丁目 (長泉なめり駅)",
+    "price_man": 800,
+    "area_sqm": 113.9,
+    "url": "https://www.homes.co.jp/tochi/b-1490460002400/",
+    "text": "三島市徳倉5丁目 (長泉なめり駅)",
+    "removed_on": "2026-11-16",
+    "site_name": "LIFULL 土地 三島市"
+  },
+  "https://www.homes.co.jp/tochi/b-1490460002309/|三島市初音台 (三島二日町駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-15",
+    "location": "三島市初音台 (三島二日町駅)",
+    "price_man": 1180,
+    "area_sqm": 297.7,
+    "url": "https://www.homes.co.jp/tochi/b-1490460002309/",
+    "text": "三島市初音台 (三島二日町駅)",
+    "removed_on": "2026-11-16",
+    "site_name": "LIFULL 土地 三島市"
   }
 }
