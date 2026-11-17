@@ -1032,5 +1032,49 @@
     "text": "久野（小田原駅） 1750万円～1850万円",
     "removed_on": "2026-11-16",
     "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21649105/|小八幡３（国府津駅） 850万円": {
+    "first_seen": "2026-09-06",
+    "last_seen": "2026-11-16",
+    "location": "神奈川県小田原市小八幡３",
+    "price_man": 850,
+    "area_sqm": 109.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21649105/",
+    "text": "小八幡３（国府津駅） 850万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21978087/|別堀（下曽我駅） 1380万円": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-16",
+    "location": "神奈川県小田原市別堀",
+    "price_man": 1380,
+    "area_sqm": 100.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21978087/",
+    "text": "別堀（下曽我駅） 1380万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_77290238/|371.37㎡広々とした敷地小田急線富水駅徒歩12分自然が残るエリア！": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "神奈川県小田原市清水新田202-10",
+    "price_man": 1580,
+    "area_sqm": 371.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_77290238/",
+    "text": "371.37㎡広々とした敷地小田急線富水駅徒歩12分自然が残るエリア！",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22185829/|久野（足柄駅） 2490万円": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
+    "location": "神奈川県小田原市久野",
+    "price_man": 2490,
+    "area_sqm": 161.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22185829/",
+    "text": "久野（足柄駅） 2490万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 小田原市"
   }
 }

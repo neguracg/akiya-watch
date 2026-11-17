@@ -2,7 +2,7 @@
   "keys": {
     "http://www.takane-re.jp/tochi_gotenba/niihashi_1289-621/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 1400,
       "area_sqm": 244.9,
@@ -31,7 +31,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/itazuma_233-2/details.html|静岡県御殿場市板妻 板妻売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "location": "静岡県御殿場市板妻 板妻売土地",
       "price_man": 2000,
       "area_sqm": 556.9,
@@ -60,7 +60,7 @@
     },
     "http://www.takane-re.jp/tochi_busines/oozeki/details.html|静岡県御殿場市大堰 大堰売農地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "location": "静岡県御殿場市大堰 大堰売農地",
       "price_man": 472,
       "area_sqm": 1958.0,
@@ -89,7 +89,7 @@
     },
     "http://www.takane-re.jp/tochi_gotenba/higashitanaka_02/details.html|静岡県御殿場市東田中 東田中売土地": {
       "first_seen": "2026-09-05",
-      "last_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
       "location": "静岡県御殿場市東田中 東田中売土地",
       "price_man": 3229,
       "area_sqm": 427.1,
@@ -117,39 +117,8 @@
       "zokujinsei": false,
       "machi": "御殿場市",
       "tab": "camp"
-    },
-    "http://www.takane-re.jp/tochi_gotenba/ohsaka/details.html|静岡県御殿場市大坂 大坂売土地": {
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-11-15",
-      "location": "静岡県御殿場市大坂 大坂売土地",
-      "price_man": 580,
-      "area_sqm": 201.6,
-      "url": "http://www.takane-re.jp/tochi_gotenba/ohsaka/details.html",
-      "text": "静岡県御殿場市大坂 大坂売土地",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 9.5,
-      "verdict": "不適合",
-      "interest": [
-        "外輪山西麓"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "御殿場市",
-      "tab": "camp"
     }
   },
-  "hash": "d4a1b29972995f4d",
-  "fetched_at": "2026-11-15T10:42:32.318405"
+  "hash": "16546f79d0335340",
+  "fetched_at": "2026-11-17T13:31:39.141378"
 }

@@ -1033,17 +1033,6 @@
     "removed_on": "2026-11-09",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300059832002843000003/|ミレニアム・パレ": {
-    "first_seen": "2026-10-27",
-    "last_seen": "2026-11-09",
-    "location": "静岡県三島市徳倉４丁目",
-    "price_man": 6.8,
-    "area_sqm": 62.5,
-    "url": "https://www.eheya.net/detail/300059832002843000003/",
-    "text": "ミレニアム・パレ",
-    "removed_on": "2026-11-09",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300000142001935000002/|ヴィライースト": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-09",
@@ -1341,17 +1330,6 @@
     "removed_on": "2026-11-15",
     "site_name": "いい部屋ネット 三島市"
   },
-  "https://www.eheya.net/detail/300001603003619000001/|ヒルズ・若松町Ⅲ": {
-    "first_seen": "2026-11-09",
-    "last_seen": "2026-11-14",
-    "location": "静岡県三島市若松町",
-    "price_man": 8.3,
-    "area_sqm": 59.4,
-    "url": "https://www.eheya.net/detail/300001603003619000001/",
-    "text": "ヒルズ・若松町Ⅲ",
-    "removed_on": "2026-11-15",
-    "site_name": "いい部屋ネット 三島市"
-  },
   "https://www.eheya.net/detail/300001603003743000001/|パピヨンプレイス": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-14",
@@ -1493,6 +1471,83 @@
     "url": "https://www.eheya.net/detail/300001603003362000001/",
     "text": "プランドール",
     "removed_on": "2026-11-16",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002832000012/|Star Arrow": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市徳倉２丁目",
+    "price_man": 6.6,
+    "area_sqm": 63.2,
+    "url": "https://www.eheya.net/detail/300000142002832000012/",
+    "text": "Star Arrow",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142004665000002/|ロイヤルヒルズ561": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市徳倉３丁目",
+    "price_man": 5.2,
+    "area_sqm": 48.5,
+    "url": "https://www.eheya.net/detail/300000142004665000002/",
+    "text": "ロイヤルヒルズ561",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142003620000003/|ヒルズ・若松町Ⅲ": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市若松町",
+    "price_man": 8.3,
+    "area_sqm": 59.4,
+    "url": "https://www.eheya.net/detail/300000142003620000003/",
+    "text": "ヒルズ・若松町Ⅲ",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142001844000001/|ドミールさつき": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市新谷",
+    "price_man": 4.8,
+    "area_sqm": 29.2,
+    "url": "https://www.eheya.net/detail/300000142001844000001/",
+    "text": "ドミールさつき",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002786000004/|ツインベル長澤": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市長伏",
+    "price_man": 7.2,
+    "area_sqm": 67.6,
+    "url": "https://www.eheya.net/detail/300000142002786000004/",
+    "text": "ツインベル長澤",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002230000001/|Feliz（ﾌｪﾘｰｽ）": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 5.8,
+    "area_sqm": 30.3,
+    "url": "https://www.eheya.net/detail/300000142002230000001/",
+    "text": "Feliz（ﾌｪﾘｰｽ）",
+    "removed_on": "2026-11-17",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005193000001/|プラス・ウィステリア": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市松本",
+    "price_man": 7.51,
+    "area_sqm": 55.0,
+    "url": "https://www.eheya.net/detail/300001603005193000001/",
+    "text": "プラス・ウィステリア",
+    "removed_on": "2026-11-17",
     "site_name": "いい部屋ネット 三島市"
   }
 }

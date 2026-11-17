@@ -746,5 +746,27 @@
     "text": "三福（田京駅） 3650万円",
     "removed_on": "2026-11-15",
     "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_91192340/|奈古谷エメラルドタウン 1980万円": {
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊豆の国市奈古谷エメラルドタウン",
+    "price_man": 1980,
+    "area_sqm": 558.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_91192340/",
+    "text": "奈古谷エメラルドタウン 1980万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22148143/|守木（田京駅） 4490万円": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊豆の国市守木",
+    "price_man": 4490,
+    "area_sqm": 238.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_izunokuni/nc_22148143/",
+    "text": "守木（田京駅） 4490万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 中古戸建 伊豆の国市"
   }
 }

@@ -9,5 +9,38 @@
     "text": "山林物件　静岡市葵区吉津",
     "removed_on": "2026-10-27",
     "site_name": "フォレステ（山いちばグループ） 山林物件"
+  },
+  "https://foreste.yamaichiba.com/sz009-shizuoka-okabecho/|山林物件　静岡県藤枝市岡部町": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-16",
+    "location": "静岡県藤枝市岡部町",
+    "price_man": 54,
+    "area_sqm": 7400.0,
+    "url": "https://foreste.yamaichiba.com/sz009-shizuoka-okabecho/",
+    "text": "山林物件　静岡県藤枝市岡部町",
+    "removed_on": "2026-11-17",
+    "site_name": "フォレステ（山いちばグループ） 山林物件"
+  },
+  "https://foreste.yamaichiba.com/sz002-shizuoka-oohira/|山林物件　静岡市清水区大平①": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-16",
+    "location": "静岡市清水区大平①",
+    "price_man": 90,
+    "area_sqm": 64200.0,
+    "url": "https://foreste.yamaichiba.com/sz002-shizuoka-oohira/",
+    "text": "山林物件　静岡市清水区大平①",
+    "removed_on": "2026-11-17",
+    "site_name": "フォレステ（山いちばグループ） 山林物件"
+  },
+  "https://foreste.yamaichiba.com/sz003-shizuoka-oohira/|山林物件　静岡市清水区大平②": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-16",
+    "location": "静岡市清水区大平②",
+    "price_man": 160,
+    "area_sqm": 164200.0,
+    "url": "https://foreste.yamaichiba.com/sz003-shizuoka-oohira/",
+    "text": "山林物件　静岡市清水区大平②",
+    "removed_on": "2026-11-17",
+    "site_name": "フォレステ（山いちばグループ） 山林物件"
   }
 }

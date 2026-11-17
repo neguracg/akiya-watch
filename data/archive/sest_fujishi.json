@@ -42,5 +42,27 @@
     "text": "富士市石坂　建築条件なし　売土地",
     "removed_on": "2026-11-09",
     "site_name": "しずなび 富士市 土地"
+  },
+  "https://buy.s-est.co.jp/land/383438/|富士市北松野　約50坪　建築条件なしの整形地": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "富士市北松野170-8",
+    "price_man": 850,
+    "area_sqm": 183.3,
+    "url": "https://buy.s-est.co.jp/land/383438/",
+    "text": "富士市北松野　約50坪　建築条件なしの整形地",
+    "removed_on": "2026-11-17",
+    "site_name": "しずなび 富士市 土地"
+  },
+  "https://buy.s-est.co.jp/land/372776/|富士市石坂　建築条件なし　約57.08坪　売土地": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-16",
+    "location": "静岡県富士市石坂196-20",
+    "price_man": 980,
+    "area_sqm": 188.7,
+    "url": "https://buy.s-est.co.jp/land/372776/",
+    "text": "富士市石坂　建築条件なし　約57.08坪　売土地",
+    "removed_on": "2026-11-17",
+    "site_name": "しずなび 富士市 土地"
   }
 }

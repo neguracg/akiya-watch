@@ -229,5 +229,27 @@
     "text": "売中古戸建　田方郡函南町柏谷",
     "removed_on": "2026-11-16",
     "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1220300000748/|田方郡函南町平井1371‐35": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-16",
+    "location": "田方郡函南町平井1371‐35",
+    "price_man": 2149,
+    "area_sqm": 207.7,
+    "url": "https://www.homes.co.jp/kodate/b-1220300000748/",
+    "text": "田方郡函南町平井1371‐35",
+    "removed_on": "2026-11-17",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-39049880000714/|（南箱根ダイヤランド）温泉権利付き": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-16",
+    "location": "（南箱根ダイヤランド）温泉権利付き",
+    "price_man": 3500,
+    "area_sqm": 1401.0,
+    "url": "https://www.homes.co.jp/kodate/b-39049880000714/",
+    "text": "（南箱根ダイヤランド）温泉権利付き",
+    "removed_on": "2026-11-17",
+    "site_name": "LIFULL 中古戸建 函南町"
   }
 }

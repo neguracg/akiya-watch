@@ -1252,5 +1252,82 @@
     "text": "吉田 2000万円",
     "removed_on": "2026-11-09",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20900797/|【デグチエステート】南伊東駅まで徒歩13分の好立地です。": {
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市鎌田776-3、776-2",
+    "price_man": 1320,
+    "area_sqm": 481.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20900797/",
+    "text": "【デグチエステート】南伊東駅まで徒歩13分の好立地です。",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/|鎌田 300万円": {
+    "first_seen": "2026-07-12",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市鎌田",
+    "price_man": 300,
+    "area_sqm": 168.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_96491569/",
+    "text": "鎌田 300万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_82209132/|鎌田 800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市鎌田",
+    "price_man": 800,
+    "area_sqm": 132.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_82209132/",
+    "text": "鎌田 800万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20100259/|八幡野 900万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市八幡野",
+    "price_man": 900,
+    "area_sqm": 611.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20100259/",
+    "text": "八幡野 900万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20042906/|岡 1980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市岡",
+    "price_man": 1980,
+    "area_sqm": 728.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_20042906/",
+    "text": "岡 1980万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78920700/|富戸 2800万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市富戸",
+    "price_man": 2800,
+    "area_sqm": 1667.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_78920700/",
+    "text": "富戸 2800万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75865708/|富戸 3億円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県伊東市富戸",
+    "price_man": 30000,
+    "area_sqm": 9918.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_75865708/",
+    "text": "富戸 3億円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

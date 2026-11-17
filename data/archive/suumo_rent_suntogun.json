@@ -135893,28 +135893,6 @@
     "removed_on": "2026-11-15",
     "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000102146363/?bc=100516888240|ＪＲ東海道本線 沼津駅 2階建 築39年": {
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-15",
-    "location": "静岡県駿東郡清水町徳倉",
-    "price_man": 8.0,
-    "area_sqm": 142.2,
-    "url": "https://suumo.jp/chintai/jnc_000102146363/?bc=100516888240",
-    "text": "ＪＲ東海道本線 沼津駅 2階建 築39年",
-    "removed_on": "2026-11-16",
-    "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000069719394/?bc=100533792314|ロイヤルコート富士見": {
-    "first_seen": "2026-11-15",
-    "last_seen": "2026-11-15",
-    "location": "静岡県駿東郡清水町柿田",
-    "price_man": 10.0,
-    "area_sqm": 75.0,
-    "url": "https://suumo.jp/chintai/jnc_000069719394/?bc=100533792314",
-    "text": "ロイヤルコート富士見",
-    "removed_on": "2026-11-16",
-    "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
-  },
   "https://suumo.jp/chintai/jnc_000088243666/?bc=100465617421|サンハイツ秋山Ｂ": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-15",
@@ -135935,6 +135913,39 @@
     "url": "https://suumo.jp/chintai/jnc_000103524912/?bc=100502731208",
     "text": "サンハイツ秋山Ｂ",
     "removed_on": "2026-11-16",
+    "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000102146363/?bc=100458121929|ＪＲ東海道本線 沼津駅 2階建 築39年": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "静岡県駿東郡清水町徳倉",
+    "price_man": 8.0,
+    "area_sqm": 142.2,
+    "url": "https://suumo.jp/chintai/jnc_000102146363/?bc=100458121929",
+    "text": "ＪＲ東海道本線 沼津駅 2階建 築39年",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000069719394/?bc=100511600020|ロイヤルコート富士見": {
+    "first_seen": "2026-11-16",
+    "last_seen": "2026-11-16",
+    "location": "静岡県駿東郡清水町柿田",
+    "price_man": 10.0,
+    "area_sqm": 77.3,
+    "url": "https://suumo.jp/chintai/jnc_000069719394/?bc=100511600020",
+    "text": "ロイヤルコート富士見",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911|ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年": {
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-16",
+    "location": "静岡県駿東郡長泉町納米里",
+    "price_man": 17.0,
+    "area_sqm": 106.4,
+    "url": "https://suumo.jp/chintai/jnc_000109335447/?bc=100505508911",
+    "text": "ＪＲ御殿場線 長泉なめり駅 地上2階建 築10年",
+    "removed_on": "2026-11-17",
     "site_name": "SUUMO 賃貸 駿東郡（清水/長泉） 4K以上"
   }
 }

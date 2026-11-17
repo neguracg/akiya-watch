@@ -1858,17 +1858,6 @@
     "removed_on": "2026-10-10",
     "site_name": "SUUMO 中古戸建 三島市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21526598/|外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路": {
-    "first_seen": "2026-09-09",
-    "last_seen": "2026-10-09",
-    "location": "静岡県三島市萩",
-    "price_man": 2599,
-    "area_sqm": 197.9,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21526598/",
-    "text": "外壁塗装・水回り設備交換など内外装リフォーム済み住宅　伊豆縦貫道や幹線道路",
-    "removed_on": "2026-10-10",
-    "site_name": "SUUMO 中古戸建 三島市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|10/12（祝）13-16時オープンハウス●萩リフォーム住宅●家具設置済♪": {
     "first_seen": "2026-10-05",
     "last_seen": "2026-10-13",
@@ -2615,6 +2604,39 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_22086411/",
     "text": "千枚原（三島駅） 4780万円",
     "removed_on": "2026-11-15",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/|●リフォーム済＆家具付！萩リフォーム住宅●眺望も良好♪内覧予約受付中！": {
+    "first_seen": "2026-11-11",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市萩",
+    "price_man": 2599,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21068156/",
+    "text": "●リフォーム済＆家具付！萩リフォーム住宅●眺望も良好♪内覧予約受付中！",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21526598/|外壁塗装・水回り設備交換など内外装リフォーム済み住宅": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市萩",
+    "price_man": 2599,
+    "area_sqm": 197.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_21526598/",
+    "text": "外壁塗装・水回り設備交換など内外装リフォーム済み住宅",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 中古戸建 三島市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_22118044/|物件から富士山を眺望できます！5LDKの間取りは家族が多くなっても安心。": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-16",
+    "location": "静岡県三島市徳倉３",
+    "price_man": 999,
+    "area_sqm": 155.1,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_mishima/nc_22118044/",
+    "text": "物件から富士山を眺望できます！5LDKの間取りは家族が多くなっても安心。",
+    "removed_on": "2026-11-17",
     "site_name": "SUUMO 中古戸建 三島市"
   }
 }

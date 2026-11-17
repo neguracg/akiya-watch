@@ -317,5 +317,38 @@
     "text": "肥田（伊豆仁田駅） 3500万円",
     "removed_on": "2026-11-14",
     "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_70693647/|平井南箱根ダイヤランド 80万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-16",
+    "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
+    "price_man": 80,
+    "area_sqm": 166.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_70693647/",
+    "text": "平井南箱根ダイヤランド 80万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_80752295/|平井南箱根ダイヤランド 100万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-16",
+    "location": "静岡県田方郡函南町平井南箱根ダイヤランド区画№25-576",
+    "price_man": 100,
+    "area_sqm": 421.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_80752295/",
+    "text": "平井南箱根ダイヤランド 100万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 田方郡（函南）"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_86354000/|平井南箱根ダイヤランド 200万円": {
+    "first_seen": "2026-06-17",
+    "last_seen": "2026-11-16",
+    "location": "静岡県田方郡函南町平井南箱根ダイヤランド",
+    "price_man": 200,
+    "area_sqm": 283.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_tagatagun/nc_86354000/",
+    "text": "平井南箱根ダイヤランド 200万円",
+    "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 田方郡（函南）"
   }
 }
