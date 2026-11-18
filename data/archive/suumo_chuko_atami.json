@@ -218,5 +218,27 @@
     "text": "春日町（熱海駅） 5億円",
     "removed_on": "2026-11-17",
     "site_name": "SUUMO 中古戸建 熱海市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_21084086/|【デグチエステート】来宮中古戸建　熱海市": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-17",
+    "location": "静岡県熱海市西山町1761-48",
+    "price_man": 1980,
+    "area_sqm": 115.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_21084086/",
+    "text": "【デグチエステート】来宮中古戸建　熱海市",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 中古戸建 熱海市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_78934107/|西熱海町２ 8000万円": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-17",
+    "location": "静岡県熱海市西熱海町２",
+    "price_man": 8000,
+    "area_sqm": 492.9,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_atami/nc_78934107/",
+    "text": "西熱海町２ 8000万円",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 中古戸建 熱海市"
   }
 }

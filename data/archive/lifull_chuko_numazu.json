@@ -472,17 +472,6 @@
     "removed_on": "2026-11-13",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001811/|沼津市西椎路　中古戸建": {
-    "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
-    "location": "沼津市西椎路　中古戸建",
-    "price_man": 1790,
-    "area_sqm": 157.4,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001811/",
-    "text": "沼津市西椎路　中古戸建",
-    "removed_on": "2026-11-13",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
   "https://www.homes.co.jp/kodate/b-1556780000217/|中古戸建　沼津市下香貫前角": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-12",
@@ -547,17 +536,6 @@
     "url": "https://www.homes.co.jp/kodate/b-1475010001944/",
     "text": "沼津市原　中古一戸建て",
     "removed_on": "2026-11-16",
-    "site_name": "LIFULL 中古戸建 沼津市"
-  },
-  "https://www.homes.co.jp/kodate/b-1475010001418/|沼津市中沢田I　分譲住宅　E号棟": {
-    "first_seen": "2026-11-15",
-    "last_seen": "2026-11-16",
-    "location": "沼津市中沢田I　分譲住宅　E号棟",
-    "price_man": 2090,
-    "area_sqm": 133.9,
-    "url": "https://www.homes.co.jp/kodate/b-1475010001418/",
-    "text": "沼津市中沢田I　分譲住宅　E号棟",
-    "removed_on": "2026-11-17",
     "site_name": "LIFULL 中古戸建 沼津市"
   },
   "https://www.homes.co.jp/kodate/b-1556780000026/|新築戸建　沼津市中沢田I　全6棟　Ａ号棟": {
@@ -657,6 +635,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1436870001944/",
     "text": "沼津市我入道東町　中古戸建",
     "removed_on": "2026-11-17",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1316560004593/|沼津市中沢田I　E号棟": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-17",
+    "location": "沼津市中沢田I　E号棟",
+    "price_man": 2090,
+    "area_sqm": 133.9,
+    "url": "https://www.homes.co.jp/kodate/b-1316560004593/",
+    "text": "沼津市中沢田I　E号棟",
+    "removed_on": "2026-11-18",
+    "site_name": "LIFULL 中古戸建 沼津市"
+  },
+  "https://www.homes.co.jp/kodate/b-1444230000595/|沼津市西椎路ストックヘーベルハウス": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-17",
+    "location": "沼津市西椎路ストックヘーベルハウス",
+    "price_man": 1790,
+    "area_sqm": 157.4,
+    "url": "https://www.homes.co.jp/kodate/b-1444230000595/",
+    "text": "沼津市西椎路ストックヘーベルハウス",
+    "removed_on": "2026-11-18",
     "site_name": "LIFULL 中古戸建 沼津市"
   }
 }

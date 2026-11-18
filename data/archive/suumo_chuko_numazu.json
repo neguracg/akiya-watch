@@ -2165,5 +2165,38 @@
     "text": "アパマンキャンペーン！ご成約で7万円分『商品券』or『旅行券』プレゼント！",
     "removed_on": "2026-11-17",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085742/|松長（片浜駅） 1580万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-17",
+    "location": "静岡県沼津市松長",
+    "price_man": 1580,
+    "area_sqm": 133.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085742/",
+    "text": "松長（片浜駅） 1580万円",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085980/|今沢（片浜駅） 1800万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-17",
+    "location": "静岡県沼津市今沢",
+    "price_man": 1800,
+    "area_sqm": 205.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085980/",
+    "text": "今沢（片浜駅） 1800万円",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085628/|西熊堂（沼津駅） 3450万円": {
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-17",
+    "location": "静岡県沼津市西熊堂",
+    "price_man": 3450,
+    "area_sqm": 145.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22085628/",
+    "text": "西熊堂（沼津駅） 3450万円",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

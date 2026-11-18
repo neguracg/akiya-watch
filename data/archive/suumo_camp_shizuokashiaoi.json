@@ -1781,17 +1781,6 @@
     "removed_on": "2026-11-16",
     "site_name": "SUUMO 土地 静岡市葵区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77674904/|土地購入をお考えの方、コチラの売地は環境も良くておすすめです！": {
-    "first_seen": "2026-10-17",
-    "last_seen": "2026-11-15",
-    "location": "静岡県静岡市葵区田町１",
-    "price_man": 3980,
-    "area_sqm": 257.9,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_77674904/",
-    "text": "土地購入をお考えの方、コチラの売地は環境も良くておすすめです！",
-    "removed_on": "2026-11-16",
-    "site_name": "SUUMO 土地 静岡市葵区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_79103482/|千代田小徒歩10分。幼稚園徒歩4分・スーパー徒歩9分。子育て家族にちょうどいい": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-15",
@@ -1867,6 +1856,28 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_21083673/",
     "text": "大岩４（新静岡駅） 2460万円",
     "removed_on": "2026-11-17",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20382651/|人気の安東小・安東中エリア！建築条件なし、解体更地渡し": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-17",
+    "location": "静岡県静岡市葵区大岩２",
+    "price_man": 2299,
+    "area_sqm": 83.4,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_20382651/",
+    "text": "人気の安東小・安東中エリア！建築条件なし、解体更地渡し",
+    "removed_on": "2026-11-18",
+    "site_name": "SUUMO 土地 静岡市葵区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22125483/|大岩本町（新静岡駅） 2350万円": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-17",
+    "location": "静岡県静岡市葵区大岩本町7-14",
+    "price_man": 2350,
+    "area_sqm": 97.3,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashiaoi/nc_22125483/",
+    "text": "大岩本町（新静岡駅） 2350万円",
+    "removed_on": "2026-11-18",
     "site_name": "SUUMO 土地 静岡市葵区"
   }
 }

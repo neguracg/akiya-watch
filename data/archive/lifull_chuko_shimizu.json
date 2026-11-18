@@ -130,5 +130,27 @@
     "text": "バス 東海バス香貫大橋下車 徒歩1分",
     "removed_on": "2026-11-06",
     "site_name": "LIFULL 中古戸建 清水町"
+  },
+  "https://www.homes.co.jp/kodate/b-33323360001202/|JR御殿場線 大岡駅 3.3km": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-17",
+    "location": "JR御殿場線 大岡駅 3.3km",
+    "price_man": 2490,
+    "area_sqm": 237.4,
+    "url": "https://www.homes.co.jp/kodate/b-33323360001202/",
+    "text": "JR御殿場線 大岡駅 3.3km",
+    "removed_on": "2026-11-18",
+    "site_name": "LIFULL 中古戸建 清水町"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001971/|清水町徳倉　中古戸建": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-17",
+    "location": "清水町徳倉　中古戸建",
+    "price_man": 2500,
+    "area_sqm": 161.0,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001971/",
+    "text": "清水町徳倉　中古戸建",
+    "removed_on": "2026-11-18",
+    "site_name": "LIFULL 中古戸建 清水町"
   }
 }

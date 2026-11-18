@@ -2,7 +2,7 @@
   "keys": {
     "https://foreste.yamaichiba.com/kn002-kanagawa-ashigarakamigunyamakita/|山林物件　神奈川県足柄上郡山北町": {
       "first_seen": "2026-10-03",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "location": "神奈川県足柄上郡山北町",
       "price_man": 117,
       "area_sqm": 184700.0,
@@ -30,6 +30,6 @@
       "tab": "camp"
     }
   },
-  "hash": "6d5a4dc099067fe5",
-  "fetched_at": "2026-11-17T13:30:59.772937"
+  "hash": "5ca4e3b6497bda52",
+  "fetched_at": "2026-11-18T12:29:43.141520"
 }
