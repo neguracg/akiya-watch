@@ -1043,5 +1043,27 @@
     "text": "国道246号線に面する敷地は間口が約４２ｍもあり、とっても目立ちます！",
     "removed_on": "2026-11-18",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/|西田原 1280万円": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-18",
+    "location": "神奈川県秦野市西田原",
+    "price_man": 1280,
+    "area_sqm": 155.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20563259/",
+    "text": "西田原 1280万円",
+    "removed_on": "2026-11-19",
+    "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21973575/|渋沢（渋沢駅） 1380万円～1760万円": {
+    "first_seen": "2026-10-20",
+    "last_seen": "2026-11-18",
+    "location": "神奈川県秦野市渋沢1445",
+    "price_man": 1380,
+    "area_sqm": 149.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_21973575/",
+    "text": "渋沢（渋沢駅） 1380万円～1760万円",
+    "removed_on": "2026-11-19",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

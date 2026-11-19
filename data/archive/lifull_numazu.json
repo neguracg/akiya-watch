@@ -3519,15 +3519,15 @@
     "removed_on": "2026-11-13",
     "site_name": "LIFULL 土地 沼津市"
   },
-  "https://www.homes.co.jp/tochi/b-1436870001966/|沼津市本字下一丁田 (沼津駅)": {
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-16",
-    "location": "沼津市本字下一丁田 (沼津駅)",
-    "price_man": 1780,
-    "area_sqm": 234.9,
-    "url": "https://www.homes.co.jp/tochi/b-1436870001966/",
-    "text": "沼津市本字下一丁田 (沼津駅)",
-    "removed_on": "2026-11-17",
+  "https://www.homes.co.jp/tochi/b-17000130015849/|【ダイワハウス】セキュレア沼津南小林 (建築条件付宅地分譲)": {
+    "first_seen": "2026-06-19",
+    "last_seen": "2026-11-18",
+    "location": "【ダイワハウス】セキュレア沼津南小林 (建築条件付宅地分譲)",
+    "price_man": 1490,
+    "area_sqm": 191.5,
+    "url": "https://www.homes.co.jp/tochi/b-17000130015849/",
+    "text": "【ダイワハウス】セキュレア沼津南小林 (建築条件付宅地分譲)",
+    "removed_on": "2026-11-19",
     "site_name": "LIFULL 土地 沼津市"
   }
 }

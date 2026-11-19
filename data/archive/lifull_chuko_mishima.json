@@ -603,5 +603,27 @@
     "text": "三島市萩中古住宅",
     "removed_on": "2026-11-18",
     "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001685/|三島市東大場　中古戸建": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-18",
+    "location": "三島市東大場　中古戸建",
+    "price_man": 1780,
+    "area_sqm": 169.0,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001685/",
+    "text": "三島市東大場　中古戸建",
+    "removed_on": "2026-11-19",
+    "site_name": "LIFULL 中古戸建 三島市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001880/|三島市青木 中古戸建": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
+    "location": "三島市青木 中古戸建",
+    "price_man": 2980,
+    "area_sqm": 335.5,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001880/",
+    "text": "三島市青木 中古戸建",
+    "removed_on": "2026-11-19",
+    "site_name": "LIFULL 中古戸建 三島市"
   }
 }
