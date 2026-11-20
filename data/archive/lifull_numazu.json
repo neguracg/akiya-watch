@@ -3529,5 +3529,60 @@
     "text": "【ダイワハウス】セキュレア沼津南小林 (建築条件付宅地分譲)",
     "removed_on": "2026-11-19",
     "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33303690000077/|沼津市白銀町 (沼津駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-19",
+    "location": "沼津市白銀町 (沼津駅)",
+    "price_man": 1690,
+    "area_sqm": 126.3,
+    "url": "https://www.homes.co.jp/tochi/b-33303690000077/",
+    "text": "沼津市白銀町 (沼津駅)",
+    "removed_on": "2026-11-20",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-1436870001966/|沼津市本字下一丁田 (沼津駅)": {
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "location": "沼津市本字下一丁田 (沼津駅)",
+    "price_man": 1780,
+    "area_sqm": 234.9,
+    "url": "https://www.homes.co.jp/tochi/b-1436870001966/",
+    "text": "沼津市本字下一丁田 (沼津駅)",
+    "removed_on": "2026-11-20",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33326400000178/|沼津市住吉町 (沼津駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-19",
+    "location": "沼津市住吉町 (沼津駅)",
+    "price_man": 1000,
+    "area_sqm": 127.3,
+    "url": "https://www.homes.co.jp/tochi/b-33326400000178/",
+    "text": "沼津市住吉町 (沼津駅)",
+    "removed_on": "2026-11-20",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33326400000188/|沼津市鳥谷 (片浜駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-19",
+    "location": "沼津市鳥谷 (片浜駅)",
+    "price_man": 1000,
+    "area_sqm": 446.3,
+    "url": "https://www.homes.co.jp/tochi/b-33326400000188/",
+    "text": "沼津市鳥谷 (片浜駅)",
+    "removed_on": "2026-11-20",
+    "site_name": "LIFULL 土地 沼津市"
+  },
+  "https://www.homes.co.jp/tochi/b-33317060000113/|沼津市下香貫 (沼津駅)": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-19",
+    "location": "沼津市下香貫 (沼津駅)",
+    "price_man": 1480,
+    "area_sqm": 281.8,
+    "url": "https://www.homes.co.jp/tochi/b-33317060000113/",
+    "text": "沼津市下香貫 (沼津駅)",
+    "removed_on": "2026-11-20",
+    "site_name": "LIFULL 土地 沼津市"
   }
 }

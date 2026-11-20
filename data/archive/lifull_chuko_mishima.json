@@ -615,15 +615,15 @@
     "removed_on": "2026-11-19",
     "site_name": "LIFULL 中古戸建 三島市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001880/|三島市青木 中古戸建": {
-    "first_seen": "2026-11-17",
-    "last_seen": "2026-11-18",
-    "location": "三島市青木 中古戸建",
-    "price_man": 2980,
-    "area_sqm": 335.5,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001880/",
-    "text": "三島市青木 中古戸建",
-    "removed_on": "2026-11-19",
+  "https://www.homes.co.jp/kodate/b-33326400000171/|JR東海道本線 函南駅 徒歩34分": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-19",
+    "location": "JR東海道本線 函南駅 徒歩34分",
+    "price_man": 1250,
+    "area_sqm": 178.6,
+    "url": "https://www.homes.co.jp/kodate/b-33326400000171/",
+    "text": "JR東海道本線 函南駅 徒歩34分",
+    "removed_on": "2026-11-20",
     "site_name": "LIFULL 中古戸建 三島市"
   }
 }
