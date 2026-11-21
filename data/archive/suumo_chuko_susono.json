@@ -1198,17 +1198,6 @@
     "removed_on": "2026-11-17",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/|新価格◆千福が丘◆水回り4点新品・外壁塗装済/南向き・陽当り良好/駐車2台可": {
-    "first_seen": "2026-10-31",
-    "last_seen": "2026-11-19",
-    "location": "静岡県裾野市千福が丘１",
-    "price_man": 1350,
-    "area_sqm": 235.5,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21437558/",
-    "text": "新価格◆千福が丘◆水回り4点新品・外壁塗装済/南向き・陽当り良好/駐車2台可",
-    "removed_on": "2026-11-20",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21467217/|☆築15年の大和ハウス施工の中古住宅！室内も綺麗でそのまま住めます！": {
     "first_seen": "2026-08-09",
     "last_seen": "2026-11-19",
@@ -1240,6 +1229,28 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_79108110/",
     "text": "☆　十里木南富士別荘地内のお家です。☆　緑豊かな場所にあります。",
     "removed_on": "2026-11-20",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/|■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "location": "静岡県裾野市深良",
+    "price_man": 850,
+    "area_sqm": 177.0,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
+    "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
+    "removed_on": "2026-11-21",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21322392/|☆積水ハウス施工の住宅！周辺商業施設充実で生活利便性良好です！": {
+    "first_seen": "2026-07-19",
+    "last_seen": "2026-11-20",
+    "location": "静岡県裾野市佐野",
+    "price_man": 4480,
+    "area_sqm": 251.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21322392/",
+    "text": "☆積水ハウス施工の住宅！周辺商業施設充実で生活利便性良好です！",
+    "removed_on": "2026-11-21",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }

@@ -1792,17 +1792,6 @@
     "removed_on": "2026-11-14",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/|オーポン　ヒルズ": {
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-14",
-    "location": "静岡県田方郡函南町仁田191-6",
-    "price_man": 7.4,
-    "area_sqm": 62.8,
-    "url": "https://www.homes.co.jp/chintai/room/16eeba3808679e3beb159794f0bd6bee84099127/",
-    "text": "オーポン　ヒルズ",
-    "removed_on": "2026-11-15",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/44823a693ac0d46d820abdb6e657ee8f977743bb/|シンフォニー": {
     "first_seen": "2026-11-02",
     "last_seen": "2026-11-14",
@@ -1833,17 +1822,6 @@
     "area_sqm": 42.8,
     "url": "https://www.homes.co.jp/chintai/room/9eea76d9dc40028d89911e211092a68ae791e6a6/",
     "text": "リヴェールB",
-    "removed_on": "2026-11-15",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/083ab98b3820657bea5424999e5271ab8577f6eb/|ヴィガラスＳ": {
-    "first_seen": "2026-11-13",
-    "last_seen": "2026-11-14",
-    "location": "静岡県田方郡函南町間宮9-1",
-    "price_man": 5.0,
-    "area_sqm": 27.0,
-    "url": "https://www.homes.co.jp/chintai/room/083ab98b3820657bea5424999e5271ab8577f6eb/",
-    "text": "ヴィガラスＳ",
     "removed_on": "2026-11-15",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
@@ -2210,28 +2188,6 @@
     "removed_on": "2026-11-20",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   },
-  "https://www.homes.co.jp/chintai/room/13b522b402085b024a85bfc80833f4898aa5d8f0/|レオパレスパークヒルズII": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-19",
-    "location": "静岡県田方郡函南町柏谷681",
-    "price_man": 5.1,
-    "area_sqm": 26.5,
-    "url": "https://www.homes.co.jp/chintai/room/13b522b402085b024a85bfc80833f4898aa5d8f0/",
-    "text": "レオパレスパークヒルズII",
-    "removed_on": "2026-11-20",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
-  "https://www.homes.co.jp/chintai/room/4ac84e0468783f00e7da9bc61283e2f6355027ff/|レオパレスサン平井II": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-19",
-    "location": "静岡県田方郡函南町平井850",
-    "price_man": 4.7,
-    "area_sqm": 22.4,
-    "url": "https://www.homes.co.jp/chintai/room/4ac84e0468783f00e7da9bc61283e2f6355027ff/",
-    "text": "レオパレスサン平井II",
-    "removed_on": "2026-11-20",
-    "site_name": "LIFULL 賃貸 田方郡函南町"
-  },
   "https://www.homes.co.jp/chintai/room/5483e38d15e1264b9e00f2113682ed2aef819738/|レオパレスサン平井II": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-19",
@@ -2252,6 +2208,127 @@
     "url": "https://www.homes.co.jp/chintai/room/ecfc6cf7c2f796510b29ae0743ac7e74b90f9bd8/",
     "text": "レオパレスサン平井II",
     "removed_on": "2026-11-20",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/a4c08ebb1fb19833237179e5cbad8cbea452f989/|レジェンド　Ａ": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/a4c08ebb1fb19833237179e5cbad8cbea452f989/",
+    "text": "レジェンド　Ａ",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/9fb152534c4b1c22944bc8daeb070dfed915cbba/|レジェンド　Ａ": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/9fb152534c4b1c22944bc8daeb070dfed915cbba/",
+    "text": "レジェンド　Ａ",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/a400bc40d27db892c2eacdb7cd6c746dec008a36/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.5,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/a400bc40d27db892c2eacdb7cd6c746dec008a36/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/1d6150772bbc2626ea3d407d3195ac48496b5194/|伊豆箱根鉄道駿豆線 大場駅 徒歩28分": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.4,
+    "area_sqm": 58.1,
+    "url": "https://www.homes.co.jp/chintai/room/1d6150772bbc2626ea3d407d3195ac48496b5194/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 徒歩28分",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d2bbb2a6e6990a907169fd6329ba6fc389e12979/|ラ・メーグ": {
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 4.9,
+    "area_sqm": 29.4,
+    "url": "https://www.homes.co.jp/chintai/room/d2bbb2a6e6990a907169fd6329ba6fc389e12979/",
+    "text": "ラ・メーグ",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/18571652b55930b23c7790d690eee6f003e9b3d1/|ラ・メーグ": {
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 4.9,
+    "area_sqm": 29.4,
+    "url": "https://www.homes.co.jp/chintai/room/18571652b55930b23c7790d690eee6f003e9b3d1/",
+    "text": "ラ・メーグ",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/aa8f16a0b9a9dec6e62935cda3b5c391c3823002/|サンモール塚本": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.9,
+    "area_sqm": 50.6,
+    "url": "https://www.homes.co.jp/chintai/room/aa8f16a0b9a9dec6e62935cda3b5c391c3823002/",
+    "text": "サンモール塚本",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/d128d7bfbddacc3443d367f0979b067aeb66df53/|レジデンス　ソレイユ": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 5.0,
+    "area_sqm": 37.4,
+    "url": "https://www.homes.co.jp/chintai/room/d128d7bfbddacc3443d367f0979b067aeb66df53/",
+    "text": "レジデンス　ソレイユ",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/87ed081efd8462f6fe491ada3c916b7d85902524/|伊豆箱根鉄道駿豆線 大場駅 バス4分 柏谷口下車 徒歩11分": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町柏谷681",
+    "price_man": 5.1,
+    "area_sqm": 26.5,
+    "url": "https://www.homes.co.jp/chintai/room/87ed081efd8462f6fe491ada3c916b7d85902524/",
+    "text": "伊豆箱根鉄道駿豆線 大場駅 バス4分 柏谷口下車 徒歩11分",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/04a4c0cf374cb4ee3d9b1f9c7fb33fab69068348/|伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩11分": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町仁田238-5",
+    "price_man": 4.9,
+    "area_sqm": 10.0,
+    "url": "https://www.homes.co.jp/chintai/room/04a4c0cf374cb4ee3d9b1f9c7fb33fab69068348/",
+    "text": "伊豆箱根鉄道駿豆線 伊豆仁田駅 徒歩11分",
+    "removed_on": "2026-11-21",
+    "site_name": "LIFULL 賃貸 田方郡函南町"
+  },
+  "https://www.homes.co.jp/chintai/room/383c51a7d312e303f9f64b10e981f1f79aea27b5/|レオパレスサン平井II": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "静岡県田方郡函南町平井850",
+    "price_man": 4.5,
+    "area_sqm": 22.4,
+    "url": "https://www.homes.co.jp/chintai/room/383c51a7d312e303f9f64b10e981f1f79aea27b5/",
+    "text": "レオパレスサン平井II",
+    "removed_on": "2026-11-21",
     "site_name": "LIFULL 賃貸 田方郡函南町"
   }
 }

@@ -142,17 +142,6 @@
     "removed_on": "2026-11-13",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-33310650000002/|JR東海道本線 熱海駅 20km": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
-    "location": "JR東海道本線 熱海駅 20km",
-    "price_man": 480,
-    "area_sqm": 379.0,
-    "url": "https://www.homes.co.jp/kodate/b-33310650000002/",
-    "text": "JR東海道本線 熱海駅 20km",
-    "removed_on": "2026-11-13",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
   "https://www.homes.co.jp/kodate/b-1111450005576/|南箱根ダイヤランド　売戸建": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-13",
@@ -272,6 +261,17 @@
     "url": "https://www.homes.co.jp/kodate/b-33303660000992/",
     "text": "JR東海道本線 熱海駅 13km",
     "removed_on": "2026-11-19",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1576280000004/|JR東海道本線 函南駅 徒歩28分": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
+    "location": "JR東海道本線 函南駅 徒歩28分",
+    "price_man": 390,
+    "area_sqm": 212.0,
+    "url": "https://www.homes.co.jp/kodate/b-1576280000004/",
+    "text": "JR東海道本線 函南駅 徒歩28分",
+    "removed_on": "2026-11-21",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

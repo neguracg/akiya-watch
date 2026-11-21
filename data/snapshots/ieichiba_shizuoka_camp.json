@@ -2,7 +2,7 @@
   "keys": {
     "https://www.ieichiba.com/project/P202500508南伊豆町入間|静岡県南伊豆町": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県南伊豆町",
       "price_man": 580,
       "area_sqm": null,
@@ -31,7 +31,7 @@
     },
     "https://www.ieichiba.com/project/P202600451伊東十足N|静岡県伊東市": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県伊東市",
       "price_man": 200,
       "area_sqm": null,
@@ -63,7 +63,7 @@
     },
     "https://www.ieichiba.com/project/P202200753伊東十足|静岡県伊東市": {
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県伊東市",
       "price_man": 90,
       "area_sqm": null,
@@ -94,7 +94,7 @@
     },
     "https://www.ieichiba.com/project/P202200550伊東松原K|静岡県伊東市": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県伊東市",
       "price_man": 10,
       "area_sqm": null,
@@ -125,7 +125,7 @@
     },
     "https://www.ieichiba.com/project/P202600957東伊豆町白田H|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県東伊豆町",
       "price_man": 430,
       "area_sqm": null,
@@ -154,7 +154,7 @@
     },
     "https://www.ieichiba.com/project/P202600929東伊豆町片瀬|静岡県東伊豆町": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県東伊豆町",
       "price_man": 1980,
       "area_sqm": null,
@@ -183,7 +183,7 @@
     },
     "https://www.ieichiba.com/project/P202600454裾野千福が丘|静岡県裾野市": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "location": "静岡県裾野市",
       "price_man": 120,
       "area_sqm": null,
@@ -211,6 +211,6 @@
       "tab": "camp"
     }
   },
-  "hash": "bd83cd4526d91e9b",
-  "fetched_at": "2026-11-20T12:10:11.084560"
+  "hash": "3299be5eb9e74e80",
+  "fetched_at": "2026-11-21T12:19:49.945186"
 }
