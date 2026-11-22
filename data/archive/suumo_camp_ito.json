@@ -1384,5 +1384,16 @@
     "text": "城ケ崎大型用地【デグチステート】～伊東市～",
     "removed_on": "2026-11-21",
     "site_name": "SUUMO 土地 伊東市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_ito/nc_22182413/|竹の台（伊東駅） 280万円": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-21",
+    "location": "静岡県伊東市竹の台",
+    "price_man": 280,
+    "area_sqm": 370.2,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_ito/nc_22182413/",
+    "text": "竹の台（伊東駅） 280万円",
+    "removed_on": "2026-11-22",
+    "site_name": "SUUMO 土地 伊東市"
   }
 }

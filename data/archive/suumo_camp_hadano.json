@@ -1043,5 +1043,16 @@
     "text": "緑町 990万円",
     "removed_on": "2026-11-20",
     "site_name": "SUUMO 土地 秦野市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20270889/|南矢名（東海大学前駅） 1190万円": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-21",
+    "location": "神奈川県秦野市南矢名",
+    "price_man": 1190,
+    "area_sqm": 175.4,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_hadano/nc_20270889/",
+    "text": "南矢名（東海大学前駅） 1190万円",
+    "removed_on": "2026-11-22",
+    "site_name": "SUUMO 土地 秦野市"
   }
 }

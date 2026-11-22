@@ -1121,17 +1121,6 @@
     "removed_on": "2026-11-21",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22022092/|☆「鴨宮」駅まで徒歩7分☆都市ガス利用可能エリア♪": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-20",
-    "location": "神奈川県小田原市西酒匂３",
-    "price_man": 1780,
-    "area_sqm": 95.1,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22022092/",
-    "text": "☆「鴨宮」駅まで徒歩7分☆都市ガス利用可能エリア♪",
-    "removed_on": "2026-11-21",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22168760/|堀之内（富水駅） 3250万円": {
     "first_seen": "2026-11-14",
     "last_seen": "2026-11-20",
@@ -1141,6 +1130,28 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22168760/",
     "text": "堀之内（富水駅） 3250万円",
     "removed_on": "2026-11-21",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22233156/|☆2駅徒歩5分圏内の開発分譲地☆小学校まで約100ｍの立地": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "location": "神奈川県小田原市扇町３",
+    "price_man": 2280,
+    "area_sqm": 127.0,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22233156/",
+    "text": "☆2駅徒歩5分圏内の開発分譲地☆小学校まで約100ｍの立地",
+    "removed_on": "2026-11-22",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20017167/|足柄駅徒歩18分♪建築条件無し♪約44～約98坪♪買物施設至近♪": {
+    "first_seen": "2026-09-04",
+    "last_seen": "2026-11-21",
+    "location": "神奈川県小田原市久野",
+    "price_man": 1180,
+    "area_sqm": 146.3,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20017167/",
+    "text": "足柄駅徒歩18分♪建築条件無し♪約44～約98坪♪買物施設至近♪",
+    "removed_on": "2026-11-22",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

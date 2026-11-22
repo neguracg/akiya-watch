@@ -515,5 +515,60 @@
     "text": "レジデンス ソレイユ",
     "removed_on": "2026-11-21",
     "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005122000001/|レジデンスまみや": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 3.5,
+    "area_sqm": 23.1,
+    "url": "https://www.eheya.net/detail/300001603005122000001/",
+    "text": "レジデンスまみや",
+    "removed_on": "2026-11-22",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005657000001/|クレール塚本": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.3,
+    "area_sqm": 27.2,
+    "url": "https://www.eheya.net/detail/300001603005657000001/",
+    "text": "クレール塚本",
+    "removed_on": "2026-11-22",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005658000001/|コーポ石井": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-21",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.8,
+    "area_sqm": 34.6,
+    "url": "https://www.eheya.net/detail/300001603005658000001/",
+    "text": "コーポ石井",
+    "removed_on": "2026-11-22",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142002428000010/|グランシエル": {
+    "first_seen": "2026-11-02",
+    "last_seen": "2026-11-21",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 7.9,
+    "area_sqm": 52.5,
+    "url": "https://www.eheya.net/detail/300000142002428000010/",
+    "text": "グランシエル",
+    "removed_on": "2026-11-22",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300000142004637000001/|サンモール塚本 B": {
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-11-21",
+    "location": "静岡県田方郡函南町塚本",
+    "price_man": 4.9,
+    "area_sqm": 50.6,
+    "url": "https://www.eheya.net/detail/300000142004637000001/",
+    "text": "サンモール塚本 B",
+    "removed_on": "2026-11-22",
+    "site_name": "いい部屋ネット 田方郡函南町"
   }
 }
