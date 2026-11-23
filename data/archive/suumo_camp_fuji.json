@@ -2649,5 +2649,38 @@
     "text": "敷地広々８４坪！東南角地で日当たり良好です！",
     "removed_on": "2026-11-21",
     "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/|森島（富士駅） 980万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-22",
+    "location": "静岡県富士市森島",
+    "price_man": 980,
+    "area_sqm": 170.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_20368129/",
+    "text": "森島（富士駅） 980万円",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21911026/|吉原３（吉原本町駅） 1390万円": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-22",
+    "location": "静岡県富士市吉原３",
+    "price_man": 1390,
+    "area_sqm": 203.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_21911026/",
+    "text": "吉原３（吉原本町駅） 1390万円",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 富士市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_71060427/|大淵 1750万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-22",
+    "location": "静岡県富士市大淵",
+    "price_man": 1750,
+    "area_sqm": 1123.5,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_fuji/nc_71060427/",
+    "text": "大淵 1750万円",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 富士市"
   }
 }

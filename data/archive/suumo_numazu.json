@@ -3222,15 +3222,81 @@
     "removed_on": "2026-11-21",
     "site_name": "SUUMO 土地 沼津市"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_91718724/|原（原駅） 1060万円・1100万円": {
-    "first_seen": "2026-10-09",
-    "last_seen": "2026-11-20",
-    "location": "静岡県沼津市原字鳥澤６４７－１ノ一部",
-    "price_man": 1060,
-    "area_sqm": 159.2,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_91718724/",
-    "text": "原（原駅） 1060万円・1100万円",
-    "removed_on": "2026-11-21",
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77750894/|南西道路に面し日当たり良好の５６坪超！落ち着いた環境も魅力の売地♪": {
+    "first_seen": "2026-11-09",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市西間門",
+    "price_man": 780,
+    "area_sqm": 191.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_77750894/",
+    "text": "南西道路に面し日当たり良好の５６坪超！落ち着いた環境も魅力の売地♪",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21976436/|暮らしに便利な施設が身近にそろう地域☆": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 780,
+    "area_sqm": 100.7,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21976436/",
+    "text": "暮らしに便利な施設が身近にそろう地域☆",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20374403/|日当たりの良い４９坪整形地☆": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市大岡",
+    "price_man": 1080,
+    "area_sqm": 165.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20374403/",
+    "text": "日当たりの良い４９坪整形地☆",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20728680/|広々約99坪の敷地☆日当たりのいい角地☆": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市西間門442",
+    "price_man": 1990,
+    "area_sqm": 330.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_20728680/",
+    "text": "広々約99坪の敷地☆日当たりのいい角地☆",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21901728/|沼津市五月町。生活利便と約45坪のゆとり。": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市五月町",
+    "price_man": 2580,
+    "area_sqm": 148.8,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21901728/",
+    "text": "沼津市五月町。生活利便と約45坪のゆとり。",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21902002/|135坪超。家も、庭も、理想のままに。沼津・岡宮｜広い庭と、ゆとりある暮ら": {
+    "first_seen": "2026-11-10",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市岡宮",
+    "price_man": 2780,
+    "area_sqm": 449.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21902002/",
+    "text": "135坪超。家も、庭も、理想のままに。沼津・岡宮｜広い庭と、ゆとりある暮ら",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 沼津市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21979451/|敷地面積約173坪☆住宅用地や事業用地などに！": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市西間門",
+    "price_man": 3500,
+    "area_sqm": 573.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_numazu/nc_21979451/",
+    "text": "敷地面積約173坪☆住宅用地や事業用地などに！",
+    "removed_on": "2026-11-23",
     "site_name": "SUUMO 土地 沼津市"
   }
 }

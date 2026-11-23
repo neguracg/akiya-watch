@@ -262,5 +262,16 @@
     "text": "山中 1400万円",
     "removed_on": "2026-11-20",
     "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
+  },
+  "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21589978/|小立 1482万円": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "山梨県南都留郡富士河口湖町小立",
+    "price_man": 1482,
+    "area_sqm": 258.0,
+    "url": "https://suumo.jp/tochi/yamanashi/sc_minamitsurugun/nc_21589978/",
+    "text": "小立 1482万円",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 土地 南都留郡（富士河口湖・鳴沢・忍野・山中湖）"
   }
 }

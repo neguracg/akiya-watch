@@ -2231,5 +2231,27 @@
     "text": "獅子浜 1億5000万円",
     "removed_on": "2026-11-20",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/|建物面積60坪のRC住宅☆2021年に新築そっくりさんリノベーション済☆": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市江原町",
+    "price_man": 6700,
+    "area_sqm": 409.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/",
+    "text": "建物面積60坪のRC住宅☆2021年に新築そっくりさんリノベーション済☆",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22143029/|五月町（沼津駅） 2580万円": {
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-22",
+    "location": "静岡県沼津市五月町",
+    "price_man": 2580,
+    "area_sqm": 148.8,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22143029/",
+    "text": "五月町（沼津駅） 2580万円",
+    "removed_on": "2026-11-23",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }
