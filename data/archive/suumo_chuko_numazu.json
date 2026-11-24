@@ -1946,17 +1946,6 @@
     "removed_on": "2026-11-04",
     "site_name": "SUUMO 中古戸建 沼津市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/|江原町（沼津駅） 6700万円": {
-    "first_seen": "2026-10-25",
-    "last_seen": "2026-11-03",
-    "location": "静岡県沼津市江原町",
-    "price_man": 6700,
-    "area_sqm": 409.6,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_78375595/",
-    "text": "江原町（沼津駅） 6700万円",
-    "removed_on": "2026-11-04",
-    "site_name": "SUUMO 中古戸建 沼津市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21958049/|岡宮（大岡駅） 7980万円": {
     "first_seen": "2026-10-30",
     "last_seen": "2026-11-03",
@@ -2252,6 +2241,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22143029/",
     "text": "五月町（沼津駅） 2580万円",
     "removed_on": "2026-11-23",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22096162/|閑静な住宅街に3LDK住宅。2階のお部屋からは駿河湾を望むことが出来ます。": {
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-23",
+    "location": "静岡県沼津市岡宮1421番22",
+    "price_man": 2299,
+    "area_sqm": 165.3,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22096162/",
+    "text": "閑静な住宅街に3LDK住宅。2階のお部屋からは駿河湾を望むことが出来ます。",
+    "removed_on": "2026-11-24",
     "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

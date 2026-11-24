@@ -648,17 +648,6 @@
     "removed_on": "2026-11-10",
     "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
   },
-  "https://www.snjhkk.com/s_r_59847/|静岡県沼津市杉崎町": {
-    "first_seen": "2026-10-23",
-    "last_seen": "2026-11-13",
-    "location": "静岡県沼津市杉崎町",
-    "price_man": 690,
-    "area_sqm": null,
-    "url": "https://www.snjhkk.com/s_r_59847/",
-    "text": "静岡県沼津市杉崎町",
-    "removed_on": "2026-11-14",
-    "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
-  },
   "https://www.snjhkk.com/s_r_60091/|静岡県沼津市大手町2丁目": {
     "first_seen": "2026-11-05",
     "last_seen": "2026-11-21",
@@ -679,6 +668,17 @@
     "url": "https://www.snjhkk.com/s_r_59919/",
     "text": "静岡県沼津市大岡",
     "removed_on": "2026-11-22",
+    "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
+  },
+  "https://www.snjhkk.com/s_r_60026/|静岡県沼津市東原字向方386-12": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-23",
+    "location": "静岡県沼津市東原字向方386-12",
+    "price_man": 2998,
+    "area_sqm": 167.5,
+    "url": "https://www.snjhkk.com/s_r_60026/",
+    "text": "静岡県沼津市東原字向方386-12",
+    "removed_on": "2026-11-24",
     "site_name": "家っち(新日本住建販売) 沼津市 土地一覧"
   }
 }

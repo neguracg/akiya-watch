@@ -219,17 +219,6 @@
     "removed_on": "2026-11-17",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001941/|函南町柏谷　中古戸建": {
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
-    "location": "函南町柏谷　中古戸建",
-    "price_man": 1075,
-    "area_sqm": 217.1,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001941/",
-    "text": "函南町柏谷　中古戸建",
-    "removed_on": "2026-11-18",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
   "https://www.homes.co.jp/kodate/b-1220300000763/|田方郡函南町柏谷　戸建て": {
     "first_seen": "2026-11-10",
     "last_seen": "2026-11-17",
@@ -238,17 +227,6 @@
     "area_sqm": 226.4,
     "url": "https://www.homes.co.jp/kodate/b-1220300000763/",
     "text": "田方郡函南町柏谷　戸建て",
-    "removed_on": "2026-11-18",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
-  "https://www.homes.co.jp/kodate/b-1436870001911/|函南町畑毛　中古戸建": {
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-17",
-    "location": "函南町畑毛　中古戸建",
-    "price_man": 850,
-    "area_sqm": 190.0,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001911/",
-    "text": "函南町畑毛　中古戸建",
     "removed_on": "2026-11-18",
     "site_name": "LIFULL 中古戸建 函南町"
   },
@@ -263,28 +241,6 @@
     "removed_on": "2026-11-19",
     "site_name": "LIFULL 中古戸建 函南町"
   },
-  "https://www.homes.co.jp/kodate/b-1576280000004/|JR東海道本線 函南駅 徒歩28分": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-20",
-    "location": "JR東海道本線 函南駅 徒歩28分",
-    "price_man": 390,
-    "area_sqm": 212.0,
-    "url": "https://www.homes.co.jp/kodate/b-1576280000004/",
-    "text": "JR東海道本線 函南駅 徒歩28分",
-    "removed_on": "2026-11-21",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
-  "https://www.homes.co.jp/kodate/b-33316480000083/|田方郡函南町平井　中古戸建": {
-    "first_seen": "2026-11-10",
-    "last_seen": "2026-11-21",
-    "location": "田方郡函南町平井　中古戸建",
-    "price_man": 2700,
-    "area_sqm": 424.8,
-    "url": "https://www.homes.co.jp/kodate/b-33316480000083/",
-    "text": "田方郡函南町平井　中古戸建",
-    "removed_on": "2026-11-22",
-    "site_name": "LIFULL 中古戸建 函南町"
-  },
   "https://www.homes.co.jp/kodate/b-39049880000716/|（南箱根ダイヤランド）温泉権利付き": {
     "first_seen": "2026-11-17",
     "last_seen": "2026-11-22",
@@ -294,6 +250,39 @@
     "url": "https://www.homes.co.jp/kodate/b-39049880000716/",
     "text": "（南箱根ダイヤランド）温泉権利付き",
     "removed_on": "2026-11-23",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1508430000113/|ヒューマンヒルズ函南40号地": {
+    "first_seen": "2026-07-11",
+    "last_seen": "2026-11-23",
+    "location": "ヒューマンヒルズ函南40号地",
+    "price_man": 1780,
+    "area_sqm": 276.0,
+    "url": "https://www.homes.co.jp/kodate/b-1508430000113/",
+    "text": "ヒューマンヒルズ函南40号地",
+    "removed_on": "2026-11-24",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1341600001884/|南箱根ダイヤランド戸建": {
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-11-23",
+    "location": "南箱根ダイヤランド戸建",
+    "price_man": 3200,
+    "area_sqm": 355.4,
+    "url": "https://www.homes.co.jp/kodate/b-1341600001884/",
+    "text": "南箱根ダイヤランド戸建",
+    "removed_on": "2026-11-24",
+    "site_name": "LIFULL 中古戸建 函南町"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001863/|函南町平井　中古戸建": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-23",
+    "location": "函南町平井　中古戸建",
+    "price_man": 1480,
+    "area_sqm": 183.3,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001863/",
+    "text": "函南町平井　中古戸建",
+    "removed_on": "2026-11-24",
     "site_name": "LIFULL 中古戸建 函南町"
   }
 }

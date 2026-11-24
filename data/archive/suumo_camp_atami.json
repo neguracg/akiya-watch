@@ -724,5 +724,38 @@
     "text": "小嵐町 1億3500万円",
     "removed_on": "2026-11-20",
     "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_95816245/|海をのぞむ売地。建築条件無。温泉引込可能(費用別途要).。他に2区画有": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-23",
+    "location": "静岡県熱海市上多賀1065-1275　熱海自然郷初島台288",
+    "price_man": 100,
+    "area_sqm": 198.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_95816245/",
+    "text": "海をのぞむ売地。建築条件無。温泉引込可能(費用別途要).。他に2区画有",
+    "removed_on": "2026-11-24",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_95816312/|海をのぞむ売地。温泉引込可能(費用別途要).。他に2区画有り。": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-23",
+    "location": "静岡県熱海市上多賀1065-1467　熱海自然郷初島台289",
+    "price_man": 200,
+    "area_sqm": 295.6,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_95816312/",
+    "text": "海をのぞむ売地。温泉引込可能(費用別途要).。他に2区画有り。",
+    "removed_on": "2026-11-24",
+    "site_name": "SUUMO 土地 熱海市"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_atami/nc_94876086/|エッジedge…馬の背地勢の端で特別眺めの良い場所をエッジと呼んでいます。": {
+    "first_seen": "2026-11-17",
+    "last_seen": "2026-11-23",
+    "location": "静岡県熱海市上多賀1065-1468 熱海自然郷初島台290",
+    "price_man": 400,
+    "area_sqm": 289.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_atami/nc_94876086/",
+    "text": "エッジedge…馬の背地勢の端で特別眺めの良い場所をエッジと呼んでいます。",
+    "removed_on": "2026-11-24",
+    "site_name": "SUUMO 土地 熱海市"
   }
 }
