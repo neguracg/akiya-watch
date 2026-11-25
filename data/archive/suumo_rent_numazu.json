@@ -167694,17 +167694,6 @@
     "removed_on": "2026-11-21",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000106593940/?bc=100461762940|イズヤハイツ": {
-    "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 7.9,
-    "area_sqm": 100.0,
-    "url": "https://suumo.jp/chintai/jnc_000106593940/?bc=100461762940",
-    "text": "イズヤハイツ",
-    "removed_on": "2026-11-21",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
   "https://suumo.jp/chintai/jnc_000108786863/?bc=100525049454|鳥谷一戸建": {
     "first_seen": "2026-11-21",
     "last_seen": "2026-11-21",
@@ -167757,39 +167746,6 @@
     "area_sqm": 99.2,
     "url": "https://suumo.jp/chintai/jnc_000108786863/?bc=100518947545",
     "text": "鳥谷一戸建",
-    "removed_on": "2026-11-23",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000099909303/?bc=100450661769|イズヤハイツ": {
-    "first_seen": "2026-11-22",
-    "last_seen": "2026-11-22",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 8.5,
-    "area_sqm": 92.0,
-    "url": "https://suumo.jp/chintai/jnc_000099909303/?bc=100450661769",
-    "text": "イズヤハイツ",
-    "removed_on": "2026-11-23",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000099909302/?bc=100450661757|イズヤハイツ": {
-    "first_seen": "2026-11-22",
-    "last_seen": "2026-11-22",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 8.5,
-    "area_sqm": 92.0,
-    "url": "https://suumo.jp/chintai/jnc_000099909302/?bc=100450661757",
-    "text": "イズヤハイツ",
-    "removed_on": "2026-11-23",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000103404999/?bc=100333161740|イズヤハイツ": {
-    "first_seen": "2026-11-18",
-    "last_seen": "2026-11-22",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 9.5,
-    "area_sqm": 92.0,
-    "url": "https://suumo.jp/chintai/jnc_000103404999/?bc=100333161740",
-    "text": "イズヤハイツ",
     "removed_on": "2026-11-23",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   },
@@ -167879,6 +167835,50 @@
     "url": "https://suumo.jp/chintai/jnc_000101193512/?bc=100529082376",
     "text": "山田様戸建",
     "removed_on": "2026-11-24",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466490|イズヤハイツ": {
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-24",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 7.9,
+    "area_sqm": 100.0,
+    "url": "https://suumo.jp/chintai/jnc_000106593940/?bc=100483466490",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-25",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000099909303/?bc=100440809427|イズヤハイツ": {
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 8.5,
+    "area_sqm": 92.0,
+    "url": "https://suumo.jp/chintai/jnc_000099909303/?bc=100440809427",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-25",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000099909302/?bc=100440809429|イズヤハイツ": {
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 8.5,
+    "area_sqm": 92.0,
+    "url": "https://suumo.jp/chintai/jnc_000099909302/?bc=100440809429",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-25",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000103404999/?bc=100477215990|イズヤハイツ": {
+    "first_seen": "2026-11-23",
+    "last_seen": "2026-11-24",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 9.5,
+    "area_sqm": 92.0,
+    "url": "https://suumo.jp/chintai/jnc_000103404999/?bc=100477215990",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-25",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   }
 }

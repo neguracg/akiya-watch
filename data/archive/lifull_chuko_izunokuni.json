@@ -417,28 +417,6 @@
     "removed_on": "2026-11-14",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   },
-  "https://www.homes.co.jp/kodate/b-1436870001889/|伊豆の国市三福　中古戸建": {
-    "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "location": "伊豆の国市三福　中古戸建",
-    "price_man": 1980,
-    "area_sqm": 128.1,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001889/",
-    "text": "伊豆の国市三福　中古戸建",
-    "removed_on": "2026-11-18",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
-  "https://www.homes.co.jp/kodate/b-1436870001803/|伊豆の国市原木　中古戸建": {
-    "first_seen": "2026-11-17",
-    "last_seen": "2026-11-17",
-    "location": "伊豆の国市原木　中古戸建",
-    "price_man": 1890,
-    "area_sqm": 313.2,
-    "url": "https://www.homes.co.jp/kodate/b-1436870001803/",
-    "text": "伊豆の国市原木　中古戸建",
-    "removed_on": "2026-11-18",
-    "site_name": "LIFULL 中古戸建 伊豆の国市"
-  },
   "https://www.homes.co.jp/kodate/b-1111450005602/|小松ヶ原別荘地　売戸建": {
     "first_seen": "2026-08-16",
     "last_seen": "2026-11-21",
@@ -470,6 +448,28 @@
     "url": "https://www.homes.co.jp/kodate/b-1436870001953/",
     "text": "伊豆の国市奈古谷　中古戸建",
     "removed_on": "2026-11-24",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-1436870001946/|伊豆の国市南條　中古戸建": {
+    "first_seen": "2026-11-18",
+    "last_seen": "2026-11-24",
+    "location": "伊豆の国市南條　中古戸建",
+    "price_man": 1780,
+    "area_sqm": 184.1,
+    "url": "https://www.homes.co.jp/kodate/b-1436870001946/",
+    "text": "伊豆の国市南條　中古戸建",
+    "removed_on": "2026-11-25",
+    "site_name": "LIFULL 中古戸建 伊豆の国市"
+  },
+  "https://www.homes.co.jp/kodate/b-33310640001107/|伊豆エメラルドタウン": {
+    "first_seen": "2026-09-28",
+    "last_seen": "2026-11-24",
+    "location": "伊豆エメラルドタウン",
+    "price_man": 450,
+    "area_sqm": 290.0,
+    "url": "https://www.homes.co.jp/kodate/b-33310640001107/",
+    "text": "伊豆エメラルドタウン",
+    "removed_on": "2026-11-25",
     "site_name": "LIFULL 中古戸建 伊豆の国市"
   }
 }

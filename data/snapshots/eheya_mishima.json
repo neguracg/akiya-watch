@@ -2,7 +2,7 @@
   "keys": {
     "https://www.eheya.net/detail/300000140001022005321/|TTE": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南二日町",
       "price_man": 5.5,
       "area_sqm": 32.9,
@@ -31,7 +31,7 @@
     },
     "https://www.eheya.net/detail/300000142002620000009/|フォンテーヌu．": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 8.0,
       "area_sqm": 40.0,
@@ -58,38 +58,9 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://www.eheya.net/detail/300001603004996000001/|エーデルハイム": {
-      "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "location": "静岡県三島市安久",
-      "price_man": 3.0,
-      "area_sqm": 28.5,
-      "url": "https://www.eheya.net/detail/300001603004996000001/",
-      "text": "エーデルハイム",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1K",
-      "chikunen": "築28年 / 3階建",
-      "kanrihi": 3000,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
     "https://www.eheya.net/detail/300001603005659000001/|パティオトテラス": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 7.4,
       "area_sqm": 69.5,
@@ -118,7 +89,7 @@
     },
     "https://www.eheya.net/detail/300001603005472000001/|パティオトテラス": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 7.4,
       "area_sqm": 69.5,
@@ -147,7 +118,7 @@
     },
     "https://www.eheya.net/detail/300001603005854000001/|ツインコート": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 3.4,
       "area_sqm": 30.2,
@@ -176,7 +147,7 @@
     },
     "https://www.eheya.net/detail/300001603005857000001/|タウニー A": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西若町",
       "price_man": 5.2,
       "area_sqm": 53.0,
@@ -205,7 +176,7 @@
     },
     "https://www.eheya.net/detail/300001603005860000001/|フローライト": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 5.6,
       "area_sqm": 29.7,
@@ -234,7 +205,7 @@
     },
     "https://www.eheya.net/detail/300001603005861000001/|アラモ ファミリア": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中田町",
       "price_man": 6.1,
       "area_sqm": 29.2,
@@ -263,7 +234,7 @@
     },
     "https://www.eheya.net/detail/300001603005864000001/|コーポフェリーヌ": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 4.0,
       "area_sqm": 43.5,
@@ -290,9 +261,38 @@
       "machi": "三島市",
       "tab": "rent"
     },
+    "https://www.eheya.net/detail/300001603005868000001/|スペースKⅡ": {
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "location": "静岡県三島市加茂",
+      "price_man": 5.7,
+      "area_sqm": 42.4,
+      "url": "https://www.eheya.net/detail/300001603005868000001/",
+      "text": "スペースKⅡ",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "1LDK",
+      "chikunen": "築17年 / 2階建",
+      "kanrihi": 2300,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
     "https://www.eheya.net/detail/300000142001943000002/|EASTⅡ": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東本町２丁目",
       "price_man": 4.2,
       "area_sqm": 20.2,
@@ -321,7 +321,7 @@
     },
     "https://www.eheya.net/detail/300000142002578000001/|メゾン・ドゥ・ララル": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市安久",
       "price_man": 7.2,
       "area_sqm": 54.5,
@@ -350,7 +350,7 @@
     },
     "https://www.eheya.net/detail/300000142003121000005/|エル・フィネス加屋町": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加屋町",
       "price_man": 6.7,
       "area_sqm": 33.6,
@@ -379,7 +379,7 @@
     },
     "https://www.eheya.net/detail/300000142001522000026/|アヴニールドゥモエ": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 5.9,
       "area_sqm": 55.2,
@@ -408,7 +408,7 @@
     },
     "https://www.eheya.net/detail/300059832003397000001/|アベニュー加茂": {
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 5.7,
       "area_sqm": 45.5,
@@ -437,7 +437,7 @@
     },
     "https://www.eheya.net/detail/300000140000102000162/|エステートB": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市柳郷地",
       "price_man": 4.7,
       "area_sqm": 50.1,
@@ -466,7 +466,7 @@
     },
     "https://www.eheya.net/detail/300000140000462004205/|サニーアーバンヒルズ": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉５丁目",
       "price_man": 4.1,
       "area_sqm": 39.6,
@@ -495,7 +495,7 @@
     },
     "https://www.eheya.net/detail/300000142002230000001/|Feliz（ﾌｪﾘｰｽ）": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.8,
       "area_sqm": 30.3,
@@ -524,7 +524,7 @@
     },
     "https://www.eheya.net/detail/300001603005798000001/|ヴィラ武智寿町": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.8,
       "area_sqm": 24.4,
@@ -553,7 +553,7 @@
     },
     "https://www.eheya.net/detail/300001603005799000001/|ヴィラ武智寿町": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.8,
       "area_sqm": 24.4,
@@ -582,7 +582,7 @@
     },
     "https://www.eheya.net/detail/300001603005282000001/|ヴィラ武智寿町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.4,
       "area_sqm": 22.6,
@@ -611,7 +611,7 @@
     },
     "https://www.eheya.net/detail/300001603005675000001/|ドリームカーサ": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 4.5,
       "area_sqm": 28.4,
@@ -640,7 +640,7 @@
     },
     "https://www.eheya.net/detail/300001603005676000001/|ドリームカーサ": {
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 4.5,
       "area_sqm": 28.4,
@@ -669,7 +669,7 @@
     },
     "https://www.eheya.net/detail/300001603005728000001/|ドリームカーサ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 4.5,
       "area_sqm": 28.4,
@@ -698,7 +698,7 @@
     },
     "https://www.eheya.net/detail/300001603005354000001/|Dreamio": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 10.2,
       "area_sqm": 44.0,
@@ -729,7 +729,7 @@
     },
     "https://www.eheya.net/detail/300000142004593000008/|Dreamio": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 7.1,
       "area_sqm": 31.4,
@@ -760,7 +760,7 @@
     },
     "https://www.eheya.net/detail/300000142004593000002/|Dreamio": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 7.1,
       "area_sqm": 30.1,
@@ -791,7 +791,7 @@
     },
     "https://www.eheya.net/detail/300001603000997000001/|エミネンスプラザ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 4.0,
       "area_sqm": 23.2,
@@ -820,7 +820,7 @@
     },
     "https://www.eheya.net/detail/300059832002348000008/|エミネンスプラザ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 4.1,
       "area_sqm": 23.2,
@@ -849,7 +849,7 @@
     },
     "https://www.eheya.net/detail/300059832002348000007/|エミネンスプラザ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 4.0,
       "area_sqm": 23.2,
@@ -878,7 +878,7 @@
     },
     "https://www.eheya.net/detail/300001603001012000001/|コーナスガーデン A": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 6.5,
       "area_sqm": 66.2,
@@ -907,7 +907,7 @@
     },
     "https://www.eheya.net/detail/300059832002703000004/|コーナスガーデン A": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 6.5,
       "area_sqm": 66.2,
@@ -936,7 +936,7 @@
     },
     "https://www.eheya.net/detail/300059832002703000003/|コーナスガーデン A": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 6.5,
       "area_sqm": 66.2,
@@ -965,7 +965,7 @@
     },
     "https://www.eheya.net/detail/300001603001146000001/|言の葉": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 5.2,
       "area_sqm": 27.2,
@@ -994,7 +994,7 @@
     },
     "https://www.eheya.net/detail/300001603001167000001/|シャンブルS": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 3.5,
       "area_sqm": 19.9,
@@ -1023,7 +1023,7 @@
     },
     "https://www.eheya.net/detail/300001603001171000001/|グリーンプラザ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市緑町",
       "price_man": 3.5,
       "area_sqm": 18.8,
@@ -1052,7 +1052,7 @@
     },
     "https://www.eheya.net/detail/300001603005481000001/|グリーンプラザ": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市緑町",
       "price_man": 3.5,
       "area_sqm": 18.8,
@@ -1081,7 +1081,7 @@
     },
     "https://www.eheya.net/detail/300001603005735000001/|ロイヤルテラス・カモ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 8.5,
       "area_sqm": 86.4,
@@ -1110,7 +1110,7 @@
     },
     "https://www.eheya.net/detail/300001603001408000001/|ロイヤルテラス・カモ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 7.7,
       "area_sqm": 72.6,
@@ -1139,7 +1139,7 @@
     },
     "https://www.eheya.net/detail/300001603004505000001/|岩崎ハイツ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市玉川",
       "price_man": 5.9,
       "area_sqm": 52.0,
@@ -1168,7 +1168,7 @@
     },
     "https://www.eheya.net/detail/300001603005724000001/|坪内ハイツ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 3.8,
       "area_sqm": 54.5,
@@ -1197,7 +1197,7 @@
     },
     "https://www.eheya.net/detail/300001603005725000001/|坪内ハイツ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 3.8,
       "area_sqm": 54.5,
@@ -1226,7 +1226,7 @@
     },
     "https://www.eheya.net/detail/300001603005720000001/|坪内ハイツ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 4.2,
       "area_sqm": 54.5,
@@ -1255,7 +1255,7 @@
     },
     "https://www.eheya.net/detail/300001603005732000001/|ラ・フォーレ": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 7.2,
       "area_sqm": 57.8,
@@ -1284,7 +1284,7 @@
     },
     "https://www.eheya.net/detail/300001603005737000001/|TOi et moi 弐番館": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.4,
       "area_sqm": 53.5,
@@ -1315,7 +1315,7 @@
     },
     "https://www.eheya.net/detail/300001603005747000001/|リベラ エレンシア": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市川原ケ谷",
       "price_man": 10.4,
       "area_sqm": 73.0,
@@ -1344,7 +1344,7 @@
     },
     "https://www.eheya.net/detail/300001603005758000001/|プランドール": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.1,
       "area_sqm": 33.0,
@@ -1373,7 +1373,7 @@
     },
     "https://www.eheya.net/detail/300001603005755000001/|プランドール": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.6,
       "area_sqm": 33.0,
@@ -1402,7 +1402,7 @@
     },
     "https://www.eheya.net/detail/300001603005756000001/|プランドール": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.6,
       "area_sqm": 33.0,
@@ -1431,7 +1431,7 @@
     },
     "https://www.eheya.net/detail/300001603005759000001/|プラス・ウィステリア": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.54,
       "area_sqm": 43.2,
@@ -1460,7 +1460,7 @@
     },
     "https://www.eheya.net/detail/300000140000918004435/|バウアンホーフ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 6.9,
       "area_sqm": 58.3,
@@ -1489,7 +1489,7 @@
     },
     "https://www.eheya.net/detail/300000140001087005790/|BILL EVANS A": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市八反畑",
       "price_man": 7.2,
       "area_sqm": 58.7,
@@ -1518,7 +1518,7 @@
     },
     "https://www.eheya.net/detail/300000140001557000006/|ブリランテ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.7,
       "area_sqm": 28.2,
@@ -1547,7 +1547,7 @@
     },
     "https://www.eheya.net/detail/300000140001608000004/|マレッサ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 5.3,
       "area_sqm": 26.6,
@@ -1576,7 +1576,7 @@
     },
     "https://www.eheya.net/detail/300000142000617000008/|セノーテ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市新谷",
       "price_man": 6.1,
       "area_sqm": 41.0,
@@ -1605,7 +1605,7 @@
     },
     "https://www.eheya.net/detail/300000142000617000007/|セノーテ": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市新谷",
       "price_man": 6.3,
       "area_sqm": 41.0,
@@ -1634,7 +1634,7 @@
     },
     "https://www.eheya.net/detail/300000142001446000005/|TOi et moi（ﾄﾜｴﾓｱ） 弐番館": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.4,
       "area_sqm": 53.5,
@@ -1665,7 +1665,7 @@
     },
     "https://www.eheya.net/detail/300000142001950000005/|メゾン・クレール": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 5.2,
       "area_sqm": 24.8,
@@ -1694,7 +1694,7 @@
     },
     "https://www.eheya.net/detail/300000142002170000004/|花花弐番館": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 62.1,
@@ -1723,7 +1723,7 @@
     },
     "https://www.eheya.net/detail/300000142002170000003/|花花弐番館": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 62.1,
@@ -1752,7 +1752,7 @@
     },
     "https://www.eheya.net/detail/300000142002386000006/|ベアテスPTMⅡ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.0,
       "area_sqm": 58.0,
@@ -1781,7 +1781,7 @@
     },
     "https://www.eheya.net/detail/300000142002780000004/|ソレイユ": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 8.4,
       "area_sqm": 55.4,
@@ -1812,7 +1812,7 @@
     },
     "https://www.eheya.net/detail/300000142002786000004/|ツインベル長澤": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 7.2,
       "area_sqm": 67.6,
@@ -1841,7 +1841,7 @@
     },
     "https://www.eheya.net/detail/300059832003405000001/|ツインベル長澤": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 7.1,
       "area_sqm": 67.6,
@@ -1870,7 +1870,7 @@
     },
     "https://www.eheya.net/detail/300000142002807000006/|ラ・フォンテ大宮": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 6.8,
       "area_sqm": 41.0,
@@ -1897,40 +1897,9 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://www.eheya.net/detail/300000142004087000006/|Casa Takekura": {
-      "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
-      "location": "静岡県三島市柳郷地",
-      "price_man": 7.7,
-      "area_sqm": 50.7,
-      "url": "https://www.eheya.net/detail/300000142004087000006/",
-      "text": "Casa Takekura",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "2LDK",
-      "chikunen": "新築 / 2階建",
-      "kanrihi": 6000,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "ペット可"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
     "https://www.eheya.net/detail/300059832002251000003/|シレンシオ ベルデ": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 7.3,
       "area_sqm": 68.8,
@@ -1959,7 +1928,7 @@
     },
     "https://www.eheya.net/detail/300059832002321000008/|ラフィーネ花畑": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 5.2,
       "area_sqm": 27.7,
@@ -1988,7 +1957,7 @@
     },
     "https://www.eheya.net/detail/300059832002321000007/|ラフィーネ花畑": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 5.1,
       "area_sqm": 27.7,
@@ -2017,7 +1986,7 @@
     },
     "https://www.eheya.net/detail/300059832002275000004/|Star Arrow": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 6.6,
       "area_sqm": 63.2,
@@ -2046,7 +2015,7 @@
     },
     "https://www.eheya.net/detail/300059832002843000003/|ミレニアム・パレ": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.8,
       "area_sqm": 62.5,
@@ -2075,7 +2044,7 @@
     },
     "https://www.eheya.net/detail/300059832002843000004/|ミレニアム・パレ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 7.0,
       "area_sqm": 62.5,
@@ -2104,7 +2073,7 @@
     },
     "https://www.eheya.net/detail/300059832002843000001/|ミレニアム・パレ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.7,
       "area_sqm": 62.5,
@@ -2133,7 +2102,7 @@
     },
     "https://www.eheya.net/detail/300059832003432000002/|ロイヤルヒルズ561": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 5.2,
       "area_sqm": 48.5,
@@ -2162,7 +2131,7 @@
     },
     "https://www.eheya.net/detail/300059832003432000001/|ロイヤルヒルズ561": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 6.3,
       "area_sqm": 64.3,
@@ -2191,7 +2160,7 @@
     },
     "https://www.eheya.net/detail/300059832003447000001/|オオツカコーポ": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 4.0,
       "area_sqm": 22.2,
@@ -2220,7 +2189,7 @@
     },
     "https://www.eheya.net/detail/300000142001429000016/|菰池パークハウス": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.6,
       "area_sqm": 17.0,
@@ -2249,7 +2218,7 @@
     },
     "https://www.eheya.net/detail/300000142001429000013/|菰池パークハウス": {
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.9,
       "area_sqm": 22.5,
@@ -2278,7 +2247,7 @@
     },
     "https://www.eheya.net/detail/300000142001429000021/|菰池パークハウス": {
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.9,
       "area_sqm": 19.2,
@@ -2307,7 +2276,7 @@
     },
     "https://www.eheya.net/detail/300001603000197000001/|ドミールさつき": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市新谷",
       "price_man": 4.8,
       "area_sqm": 29.2,
@@ -2336,7 +2305,7 @@
     },
     "https://www.eheya.net/detail/300000142001844000003/|ドミールさつき": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市新谷",
       "price_man": 4.5,
       "area_sqm": 28.6,
@@ -2365,7 +2334,7 @@
     },
     "https://www.eheya.net/detail/300001603005679000001/|アンソレイユ": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 5.6,
       "area_sqm": 31.5,
@@ -2394,7 +2363,7 @@
     },
     "https://www.eheya.net/detail/300000142004383000001/|アンソレイユ": {
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 4.5,
       "area_sqm": 31.5,
@@ -2423,7 +2392,7 @@
     },
     "https://www.eheya.net/detail/300000142004383000002/|アンソレイユ": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 5.2,
       "area_sqm": 31.5,
@@ -2452,7 +2421,7 @@
     },
     "https://www.eheya.net/detail/300000142004523000004/|アクアハイム三島": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 3.7,
       "area_sqm": 24.4,
@@ -2481,7 +2450,7 @@
     },
     "https://www.eheya.net/detail/300000142004677000001/|栗原ハイツB": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 4.3,
       "area_sqm": 51.2,
@@ -2510,7 +2479,7 @@
     },
     "https://www.eheya.net/detail/300000142004678000001/|栗原ハイツA": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 4.3,
       "area_sqm": 51.2,
@@ -2539,7 +2508,7 @@
     },
     "https://www.eheya.net/detail/300000142004679000001/|リバーサイド雪沢": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.2,
       "area_sqm": 66.2,
@@ -2568,7 +2537,7 @@
     },
     "https://www.eheya.net/detail/300001603005667000001/|ルネコート三島": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西本町",
       "price_man": 3.2,
       "area_sqm": 15.7,
@@ -2597,7 +2566,7 @@
     },
     "https://www.eheya.net/detail/300001603005668000001/|ルネコート三島": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西本町",
       "price_man": 3.2,
       "area_sqm": 15.7,
@@ -2626,7 +2595,7 @@
     },
     "https://www.eheya.net/detail/300001603004536000001/|ルネコート三島": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西本町",
       "price_man": 3.2,
       "area_sqm": 15.7,
@@ -2655,7 +2624,7 @@
     },
     "https://www.eheya.net/detail/300059832003376000001/|ロイヤルヒルズ加茂": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 9.5,
       "area_sqm": 93.0,
@@ -2684,7 +2653,7 @@
     },
     "https://www.eheya.net/detail/300001603005677000001/|ロイヤルヒルズ加茂": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 9.5,
       "area_sqm": 93.0,
@@ -2713,7 +2682,7 @@
     },
     "https://www.eheya.net/detail/300001603005685000001/|ロイヤルコンフォート大宮": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 7.0,
       "area_sqm": 53.6,
@@ -2742,7 +2711,7 @@
     },
     "https://www.eheya.net/detail/300001603005686000001/|Fortuna2010": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 36.9,
@@ -2771,7 +2740,7 @@
     },
     "https://www.eheya.net/detail/300001603005690000001/|パセオ桜川": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 6.8,
       "area_sqm": 30.8,
@@ -2800,7 +2769,7 @@
     },
     "https://www.eheya.net/detail/300001603005699000001/|マーメゾン和田": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 54.6,
@@ -2829,7 +2798,7 @@
     },
     "https://www.eheya.net/detail/300059832001060000005/|マーメゾン和田": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 54.6,
@@ -2858,7 +2827,7 @@
     },
     "https://www.eheya.net/detail/300001603005700000001/|エスペシア華Ⅵ": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市泉町",
       "price_man": 6.5,
       "area_sqm": 35.2,
@@ -2887,7 +2856,7 @@
     },
     "https://www.eheya.net/detail/300000140001173006414/|ヴィオラ N": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.3,
       "area_sqm": 31.0,
@@ -2916,7 +2885,7 @@
     },
     "https://www.eheya.net/detail/300000142004611000004/|ルネコート三島": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西本町",
       "price_man": 3.2,
       "area_sqm": 17.6,
@@ -2945,7 +2914,7 @@
     },
     "https://www.eheya.net/detail/300001603005439000001/|シティコート東町": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東町",
       "price_man": 6.9,
       "area_sqm": 67.2,
@@ -2974,7 +2943,7 @@
     },
     "https://www.eheya.net/detail/300001603000234000001/|シティコート東町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東町",
       "price_man": 6.9,
       "area_sqm": 67.2,
@@ -3003,7 +2972,7 @@
     },
     "https://www.eheya.net/detail/300059832002318000002/|ファーストパーシモン": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 4.5,
       "area_sqm": 24.8,
@@ -3032,7 +3001,7 @@
     },
     "https://www.eheya.net/detail/300001603003706000001/|ファーストパーシモン": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 4.6,
       "area_sqm": 24.8,
@@ -3061,7 +3030,7 @@
     },
     "https://www.eheya.net/detail/300059832002252000005/|シレンシオ パティオ": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.1,
       "area_sqm": 62.8,
@@ -3090,7 +3059,7 @@
     },
     "https://www.eheya.net/detail/300059832002252000004/|シレンシオ パティオ": {
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.9,
       "area_sqm": 62.8,
@@ -3119,7 +3088,7 @@
     },
     "https://www.eheya.net/detail/300001603005143000001/|シレンシオ パティオ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.1,
       "area_sqm": 62.8,
@@ -3148,7 +3117,7 @@
     },
     "https://www.eheya.net/detail/300001603005372000001/|プリムローズKM": {
       "first_seen": "2026-11-15",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.25,
       "area_sqm": 36.8,
@@ -3177,7 +3146,7 @@
     },
     "https://www.eheya.net/detail/300001603005464000001/|ロイヤルハイツセブン": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.0,
       "area_sqm": 51.5,
@@ -3208,7 +3177,7 @@
     },
     "https://www.eheya.net/detail/300000142002957000006/|ルピナス": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.9,
       "area_sqm": 50.3,
@@ -3237,7 +3206,7 @@
     },
     "https://www.eheya.net/detail/300059832001204000004/|パストラルKー1": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 6.8,
       "area_sqm": 59.3,
@@ -3266,7 +3235,7 @@
     },
     "https://www.eheya.net/detail/300059832001799000003/|ラ・フォーレ B": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 7.2,
       "area_sqm": 57.8,
@@ -3295,7 +3264,7 @@
     },
     "https://www.eheya.net/detail/300000140000176005653/|Mt．オータム": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 6.45,
       "area_sqm": 63.5,
@@ -3324,7 +3293,7 @@
     },
     "https://www.eheya.net/detail/300000140000847003893/|コウヒロハイムB": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 5.8,
       "area_sqm": 48.2,
@@ -3353,7 +3322,7 @@
     },
     "https://www.eheya.net/detail/300000140001599000007/|インノバール・メゾン": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.05,
       "area_sqm": 32.4,
@@ -3382,7 +3351,7 @@
     },
     "https://www.eheya.net/detail/300000140001599000001/|インノバール・メゾン": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 7.25,
       "area_sqm": 40.7,
@@ -3411,7 +3380,7 @@
     },
     "https://www.eheya.net/detail/300000140001599000002/|インノバール・メゾン": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 7.05,
       "area_sqm": 40.9,
@@ -3440,7 +3409,7 @@
     },
     "https://www.eheya.net/detail/300001603005036000001/|シティハイムスズキ": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 4.5,
       "area_sqm": 38.9,
@@ -3469,7 +3438,7 @@
     },
     "https://www.eheya.net/detail/300001603005048000001/|シティハイムスズキ": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 4.5,
       "area_sqm": 38.9,
@@ -3498,7 +3467,7 @@
     },
     "https://www.eheya.net/detail/300000142004524000001/|シティハイムスズキ": {
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 4.0,
       "area_sqm": 38.9,
@@ -3527,7 +3496,7 @@
     },
     "https://www.eheya.net/detail/300001603005054000001/|エクセレントTAKA": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.8,
       "area_sqm": 50.6,
@@ -3556,7 +3525,7 @@
     },
     "https://www.eheya.net/detail/300001603001328000001/|エクセレントTAKA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.8,
       "area_sqm": 50.6,
@@ -3585,7 +3554,7 @@
     },
     "https://www.eheya.net/detail/300001603004740000001/|ペアシティ榊": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.8,
       "area_sqm": 51.0,
@@ -3614,7 +3583,7 @@
     },
     "https://www.eheya.net/detail/300001603004399000001/|ペアシティ榊": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.8,
       "area_sqm": 51.0,
@@ -3643,7 +3612,7 @@
     },
     "https://www.eheya.net/detail/300001603005023000001/|はぴねすHouse": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 4.3,
       "area_sqm": 23.8,
@@ -3672,7 +3641,7 @@
     },
     "https://www.eheya.net/detail/300001603005075000001/|アビタシオンタカダ": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市安久",
       "price_man": 5.8,
       "area_sqm": 49.8,
@@ -3701,7 +3670,7 @@
     },
     "https://www.eheya.net/detail/300001603005077000001/|レジデンス淳": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.2,
       "area_sqm": 52.5,
@@ -3732,7 +3701,7 @@
     },
     "https://www.eheya.net/detail/300001603005078000001/|レジデンス淳": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 6.2,
       "area_sqm": 52.5,
@@ -3763,7 +3732,7 @@
     },
     "https://www.eheya.net/detail/300001603005085000001/|カーサK－2": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 4.3,
       "area_sqm": 38.9,
@@ -3792,7 +3761,7 @@
     },
     "https://www.eheya.net/detail/300000140000848003897/|コウヒロハイムC": {
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 5.9,
       "area_sqm": 48.2,
@@ -3821,7 +3790,7 @@
     },
     "https://www.eheya.net/detail/300001603000004000001/|ハピデンス西本町": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西本町",
       "price_man": 5.7,
       "area_sqm": 28.5,
@@ -3850,7 +3819,7 @@
     },
     "https://www.eheya.net/detail/300000142004633000001/|SEIKOUビル": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市本町",
       "price_man": 4.0,
       "area_sqm": 26.3,
@@ -3879,7 +3848,7 @@
     },
     "https://www.eheya.net/detail/300000142004633000002/|SEIKOUビル": {
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市本町",
       "price_man": 3.5,
       "area_sqm": 24.2,
@@ -3908,7 +3877,7 @@
     },
     "https://www.eheya.net/detail/300059832003378000001/|カメリア B": {
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 5.9,
       "area_sqm": 53.0,
@@ -3937,7 +3906,7 @@
     },
     "https://www.eheya.net/detail/300000140000091000405/|ヴィラ・シューロス": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市安久",
       "price_man": 5.1,
       "area_sqm": 56.1,
@@ -3968,7 +3937,7 @@
     },
     "https://www.eheya.net/detail/300000140000091005417/|ヴィラ・シューロス": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市安久",
       "price_man": 4.9,
       "area_sqm": 56.1,
@@ -3999,7 +3968,7 @@
     },
     "https://www.eheya.net/detail/300000142001245000019/|グランメゾン白瀧公園": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市芝本町",
       "price_man": 4.9,
       "area_sqm": 26.4,
@@ -4028,7 +3997,7 @@
     },
     "https://www.eheya.net/detail/300000142001685000015/|祇園山ヒルズ": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 6.8,
       "area_sqm": 41.3,
@@ -4057,7 +4026,7 @@
     },
     "https://www.eheya.net/detail/300000140001155006275/|Fiore・H": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.4,
       "area_sqm": 54.2,
@@ -4086,7 +4055,7 @@
     },
     "https://www.eheya.net/detail/300000140001580000006/|Claris．T": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市安久",
       "price_man": 6.3,
       "area_sqm": 37.6,
@@ -4115,7 +4084,7 @@
     },
     "https://www.eheya.net/detail/300001603005507000001/|エンジェル湘南": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.8,
       "area_sqm": 35.3,
@@ -4144,7 +4113,7 @@
     },
     "https://www.eheya.net/detail/300000142002268000004/|エンジェル湘南": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.8,
       "area_sqm": 35.3,
@@ -4173,7 +4142,7 @@
     },
     "https://www.eheya.net/detail/300001603005494000001/|サニーハウス": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 6.3,
       "area_sqm": 50.0,
@@ -4202,7 +4171,7 @@
     },
     "https://www.eheya.net/detail/300000142002458000002/|サニーハウス": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 6.3,
       "area_sqm": 50.0,
@@ -4231,7 +4200,7 @@
     },
     "https://www.eheya.net/detail/300001603005491000001/|ベルックス A": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市三好町",
       "price_man": 9.0,
       "area_sqm": 72.5,
@@ -4260,7 +4229,7 @@
     },
     "https://www.eheya.net/detail/300001603000460000001/|ベルックス A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市三好町",
       "price_man": 7.8,
       "area_sqm": 54.2,
@@ -4289,7 +4258,7 @@
     },
     "https://www.eheya.net/detail/300001603005521000001/|菰池パークハウス": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.6,
       "area_sqm": 17.0,
@@ -4318,7 +4287,7 @@
     },
     "https://www.eheya.net/detail/300001603005522000001/|菰池パークハウス": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.9,
       "area_sqm": 17.0,
@@ -4347,7 +4316,7 @@
     },
     "https://www.eheya.net/detail/300001603005523000001/|菰池パークハウス": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 3.9,
       "area_sqm": 17.0,
@@ -4376,7 +4345,7 @@
     },
     "https://www.eheya.net/detail/300001603005489000001/|ボザール峯": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 4.7,
       "area_sqm": 29.8,
@@ -4405,7 +4374,7 @@
     },
     "https://www.eheya.net/detail/300001603005492000001/|シャルモント": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 8.2,
       "area_sqm": 65.4,
@@ -4436,7 +4405,7 @@
     },
     "https://www.eheya.net/detail/300001603005495000001/|エーデルハイムひかり": {
       "first_seen": "2026-11-16",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 4.7,
       "area_sqm": 43.8,
@@ -4465,7 +4434,7 @@
     },
     "https://www.eheya.net/detail/300001603005497000001/|アビタシオンB": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.0,
       "area_sqm": 41.7,
@@ -4494,7 +4463,7 @@
     },
     "https://www.eheya.net/detail/300001603005503000001/|スギヤママンションⅡ": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.9,
       "area_sqm": 25.8,
@@ -4523,7 +4492,7 @@
     },
     "https://www.eheya.net/detail/300001603005504000001/|パレスヒルズ21": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 6.0,
       "area_sqm": 40.7,
@@ -4552,7 +4521,7 @@
     },
     "https://www.eheya.net/detail/300001603005506000001/|ベアテスPTM": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.0,
       "area_sqm": 62.8,
@@ -4581,7 +4550,7 @@
     },
     "https://www.eheya.net/detail/300001603005515000001/|ロッキーホーム三島": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東本町１丁目",
       "price_man": 5.0,
       "area_sqm": 30.1,
@@ -4610,7 +4579,7 @@
     },
     "https://www.eheya.net/detail/300001603005519000001/|サンビーム萩": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 3.8,
       "area_sqm": 30.6,
@@ -4641,7 +4610,7 @@
     },
     "https://www.eheya.net/detail/300001603005524000001/|ダイマルハイツ幸原": {
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 5.6,
       "area_sqm": 47.9,
@@ -4670,7 +4639,7 @@
     },
     "https://www.eheya.net/detail/300001603005525000001/|アルコバレーノ Ⅱ": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 5.0,
       "area_sqm": 29.4,
@@ -4699,7 +4668,7 @@
     },
     "https://www.eheya.net/detail/300059832002322000007/|アルコバレーノ Ⅱ": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 5.1,
       "area_sqm": 29.4,
@@ -4728,7 +4697,7 @@
     },
     "https://www.eheya.net/detail/300059832002322000005/|アルコバレーノ Ⅱ": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 5.2,
       "area_sqm": 29.4,
@@ -4757,7 +4726,7 @@
     },
     "https://www.eheya.net/detail/300000142001514000007/|ヒルサイドテラス並木": {
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.3,
       "area_sqm": 46.3,
@@ -4788,7 +4757,7 @@
     },
     "https://www.eheya.net/detail/300000142003184000003/|MICASA2000": {
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市北田町",
       "price_man": 5.5,
       "area_sqm": 31.3,
@@ -4817,7 +4786,7 @@
     },
     "https://www.eheya.net/detail/300000142004658000003/|N-Base Mishima": {
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.4,
       "area_sqm": 55.9,
@@ -4848,7 +4817,7 @@
     },
     "https://www.eheya.net/detail/300000142004658000001/|N-Base Mishima": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.4,
       "area_sqm": 55.9,
@@ -4879,7 +4848,7 @@
     },
     "https://www.eheya.net/detail/300000142004658000002/|N-Base Mishima": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.4,
       "area_sqm": 55.9,
@@ -4910,7 +4879,7 @@
     },
     "https://www.eheya.net/detail/300059832001297000007/|コンフォート ヴィラ": {
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.9,
       "area_sqm": 33.6,
@@ -4939,7 +4908,7 @@
     },
     "https://www.eheya.net/detail/300059832003055000010/|グランドゥール壱町田": {
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.9,
       "area_sqm": 31.1,
@@ -4968,7 +4937,7 @@
     },
     "https://www.eheya.net/detail/300059832003406000001/|クローレ": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 11.0,
       "area_sqm": 85.3,
@@ -4997,7 +4966,7 @@
     },
     "https://www.eheya.net/detail/300059832003406000002/|クローレ": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 11.0,
       "area_sqm": 85.3,
@@ -5026,7 +4995,7 @@
     },
     "https://www.eheya.net/detail/300059832003406000003/|クローレ": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 11.0,
       "area_sqm": 85.3,
@@ -5055,7 +5024,7 @@
     },
     "https://www.eheya.net/detail/300000142001449000006/|Fortuna2010(ﾌｫﾙﾄｩﾅ2010)": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 36.9,
@@ -5084,7 +5053,7 @@
     },
     "https://www.eheya.net/detail/300000142004284000002/|エクセレントTAKA－A": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.3,
       "area_sqm": 50.6,
@@ -5113,7 +5082,7 @@
     },
     "https://www.eheya.net/detail/300000142004622000001/|パークヒルズ C": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.2,
       "area_sqm": 54.6,
@@ -5142,7 +5111,7 @@
     },
     "https://www.eheya.net/detail/300059832001588000003/|ローズコート加茂": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.4,
       "area_sqm": 51.1,
@@ -5171,7 +5140,7 @@
     },
     "https://www.eheya.net/detail/300059832003337000001/|タウニイエード B": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 4.0,
       "area_sqm": 48.7,
@@ -5200,7 +5169,7 @@
     },
     "https://www.eheya.net/detail/300059832003351000001/|グリーンパレス三島": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 13.8,
       "area_sqm": 107.9,
@@ -5229,7 +5198,7 @@
     },
     "https://www.eheya.net/detail/300059832003365000001/|ディアス萩 B": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.9,
       "area_sqm": 43.5,
@@ -5258,7 +5227,7 @@
     },
     "https://www.eheya.net/detail/300059832003373000001/|カメリア A": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 5.9,
       "area_sqm": 53.0,
@@ -5287,7 +5256,7 @@
     },
     "https://www.eheya.net/detail/300000140001539000005/|EVANS A": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.65,
       "area_sqm": 58.7,
@@ -5316,7 +5285,7 @@
     },
     "https://www.eheya.net/detail/300000142001286000002/|サニーヒル塚の台": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 4.5,
       "area_sqm": 33.3,
@@ -5345,7 +5314,7 @@
     },
     "https://www.eheya.net/detail/300000142004671000001/|杉山戸建て": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 4.5,
       "area_sqm": 38.8,
@@ -5377,7 +5346,7 @@
     },
     "https://www.eheya.net/detail/300059832003138000003/|ボウヴェール徳倉C": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 6.0,
       "area_sqm": 41.0,
@@ -5406,7 +5375,7 @@
     },
     "https://www.eheya.net/detail/300001603005323000001/|ノアAPT": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 7.9,
       "area_sqm": 50.0,
@@ -5437,7 +5406,7 @@
     },
     "https://www.eheya.net/detail/300000140000218001332/|エルディム初音Ⅰ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市初音台",
       "price_man": 3.9,
       "area_sqm": 39.6,
@@ -5466,7 +5435,7 @@
     },
     "https://www.eheya.net/detail/300000140001094005840/|ボン・ヴォヤージュ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉５丁目",
       "price_man": 5.9,
       "area_sqm": 40.1,
@@ -5495,7 +5464,7 @@
     },
     "https://www.eheya.net/detail/300000142004659000001/|ハイムやすらぎ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.0,
       "area_sqm": 58.0,
@@ -5524,7 +5493,7 @@
     },
     "https://www.eheya.net/detail/300000142004659000002/|ハイムやすらぎ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.0,
       "area_sqm": 58.0,
@@ -5553,7 +5522,7 @@
     },
     "https://www.eheya.net/detail/300000142004660000001/|ロワイムアライ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 4.5,
       "area_sqm": 39.7,
@@ -5582,7 +5551,7 @@
     },
     "https://www.eheya.net/detail/300001603000114000001/|ロワイムアライ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 4.5,
       "area_sqm": 39.7,
@@ -5611,7 +5580,7 @@
     },
     "https://www.eheya.net/detail/300000142004661000001/|タカギアパート": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 4.6,
       "area_sqm": 37.7,
@@ -5640,7 +5609,7 @@
     },
     "https://www.eheya.net/detail/300000142004661000002/|タカギアパート": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 4.6,
       "area_sqm": 37.7,
@@ -5669,7 +5638,7 @@
     },
     "https://www.eheya.net/detail/300000142004662000001/|メゾン東本町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東本町２丁目",
       "price_man": 7.0,
       "area_sqm": 63.6,
@@ -5698,7 +5667,7 @@
     },
     "https://www.eheya.net/detail/300000142004663000001/|セゾンフェリーチェ&駐車場": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
@@ -5727,7 +5696,7 @@
     },
     "https://www.eheya.net/detail/300000142004663000002/|セゾンフェリーチェ&駐車場": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
@@ -5756,7 +5725,7 @@
     },
     "https://www.eheya.net/detail/300000142004663000003/|セゾンフェリーチェ&駐車場": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
@@ -5785,7 +5754,7 @@
     },
     "https://www.eheya.net/detail/300000142004666000001/|メゾンMロード": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.5,
       "area_sqm": 53.0,
@@ -5814,7 +5783,7 @@
     },
     "https://www.eheya.net/detail/300000142004669000001/|メゾンMロードⅡ": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.8,
       "area_sqm": 66.2,
@@ -5843,7 +5812,7 @@
     },
     "https://www.eheya.net/detail/300059832003435000001/|オオツカハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 4.2,
       "area_sqm": 26.1,
@@ -5872,7 +5841,7 @@
     },
     "https://www.eheya.net/detail/300000142002566000003/|ローズコートSUGIYAMA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.0,
       "area_sqm": 41.1,
@@ -5901,7 +5870,7 @@
     },
     "https://www.eheya.net/detail/300000142003019000001/|リバーガーデン壱番": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 6.3,
       "area_sqm": 30.3,
@@ -5930,7 +5899,7 @@
     },
     "https://www.eheya.net/detail/300000140001024005344/|グランデュオA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町２丁目",
       "price_man": 5.4,
       "area_sqm": 30.1,
@@ -5959,7 +5928,7 @@
     },
     "https://www.eheya.net/detail/300000140001665000003/|ヴェリテⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.95,
       "area_sqm": 35.0,
@@ -5988,7 +5957,7 @@
     },
     "https://www.eheya.net/detail/300000140001665000004/|ヴェリテⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.95,
       "area_sqm": 35.0,
@@ -6017,7 +5986,7 @@
     },
     "https://www.eheya.net/detail/300000140001665000001/|ヴェリテⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 7.75,
       "area_sqm": 43.8,
@@ -6046,7 +6015,7 @@
     },
     "https://www.eheya.net/detail/300000140001666000005/|ヴェリテⅠ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.75,
       "area_sqm": 35.0,
@@ -6075,7 +6044,7 @@
     },
     "https://www.eheya.net/detail/300000140001666000004/|ヴェリテⅠ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.95,
       "area_sqm": 35.0,
@@ -6104,7 +6073,7 @@
     },
     "https://www.eheya.net/detail/300000140001666000006/|ヴェリテⅠ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.95,
       "area_sqm": 35.0,
@@ -6133,7 +6102,7 @@
     },
     "https://www.eheya.net/detail/300000142002327000002/|マーメゾン 加茂": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.5,
       "area_sqm": 26.9,
@@ -6162,7 +6131,7 @@
     },
     "https://www.eheya.net/detail/300000142002517000001/|ミクアルト": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.3,
       "area_sqm": 41.0,
@@ -6191,7 +6160,7 @@
     },
     "https://www.eheya.net/detail/300001603000261000001/|ミクアルト": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.6,
       "area_sqm": 43.6,
@@ -6220,7 +6189,7 @@
     },
     "https://www.eheya.net/detail/300000140000956004782/|TOP Hill MIU": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 5.5,
       "area_sqm": 46.8,
@@ -6249,7 +6218,7 @@
     },
     "https://www.eheya.net/detail/300001603005176000001/|SHINE FORT": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中央町",
       "price_man": 16.0,
       "area_sqm": 57.4,
@@ -6278,7 +6247,7 @@
     },
     "https://www.eheya.net/detail/300001603005298000001/|ウィングラッシア": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市緑町",
       "price_man": 6.5,
       "area_sqm": 48.5,
@@ -6307,7 +6276,7 @@
     },
     "https://www.eheya.net/detail/300001603005299000001/|ベルハイム": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市三好町",
       "price_man": 6.8,
       "area_sqm": 55.8,
@@ -6336,7 +6305,7 @@
     },
     "https://www.eheya.net/detail/300001603005300000001/|ベルハイム": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市三好町",
       "price_man": 6.8,
       "area_sqm": 55.8,
@@ -6365,7 +6334,7 @@
     },
     "https://www.eheya.net/detail/300059832001426000004/|スター バレー": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 6.2,
       "area_sqm": 37.8,
@@ -6394,7 +6363,7 @@
     },
     "https://www.eheya.net/detail/300059832002925000002/|ビオモンテ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 6.5,
       "area_sqm": 54.9,
@@ -6423,7 +6392,7 @@
     },
     "https://www.eheya.net/detail/300000142001381000008/|ソフィア南本町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南本町",
       "price_man": 6.0,
       "area_sqm": 31.4,
@@ -6452,7 +6421,7 @@
     },
     "https://www.eheya.net/detail/300000142002878000004/|カンパネッロ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.3,
       "area_sqm": 44.7,
@@ -6481,7 +6450,7 @@
     },
     "https://www.eheya.net/detail/300059832002896000009/|グリーングラスN": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 5.7,
       "area_sqm": 49.0,
@@ -6510,7 +6479,7 @@
     },
     "https://www.eheya.net/detail/300001603005146000001/|グリーングラスN": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 5.7,
       "area_sqm": 49.0,
@@ -6537,71 +6506,9 @@
       "machi": "三島市",
       "tab": "rent"
     },
-    "https://www.eheya.net/detail/300001603005158000001/|フェリス・カーサ": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
-      "location": "静岡県三島市萩",
-      "price_man": 7.95,
-      "area_sqm": 39.2,
-      "url": "https://www.eheya.net/detail/300001603005158000001/",
-      "text": "フェリス・カーサ",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1LDK",
-      "chikunen": "新築 / 2階建",
-      "kanrihi": 3900,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "ペット可"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
-    "https://www.eheya.net/detail/300001603005157000001/|フェリス・カーサ": {
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
-      "location": "静岡県三島市萩",
-      "price_man": 9.15,
-      "area_sqm": 47.7,
-      "url": "https://www.eheya.net/detail/300001603005157000001/",
-      "text": "フェリス・カーサ",
-      "shubetsu": "賃貸アパート",
-      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
-      "madori": "1LDK",
-      "chikunen": "新築 / 2階建",
-      "kanrihi": 3900,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "—",
-      "rebuild_reason": "賃貸のため対象外",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": null,
-      "verdict": "不適合",
-      "interest": [
-        "ペット可"
-      ],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "三島市",
-      "tab": "rent"
-    },
     "https://www.eheya.net/detail/300001603005148000001/|アウローラ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市八反畑",
       "price_man": 4.7,
       "area_sqm": 26.4,
@@ -6630,7 +6537,7 @@
     },
     "https://www.eheya.net/detail/300000142002193000004/|アウローラ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市八反畑",
       "price_man": 4.7,
       "area_sqm": 26.4,
@@ -6657,9 +6564,40 @@
       "machi": "三島市",
       "tab": "rent"
     },
+    "https://www.eheya.net/detail/300001603003339000001/|Casa Takekura": {
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "location": "静岡県三島市柳郷地",
+      "price_man": 7.7,
+      "area_sqm": 50.7,
+      "url": "https://www.eheya.net/detail/300001603003339000001/",
+      "text": "Casa Takekura",
+      "shubetsu": "賃貸アパート",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "2LDK",
+      "chikunen": "新築 / 2階建",
+      "kanrihi": 6000,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "不適合",
+      "interest": [
+        "ペット可"
+      ],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "三島市",
+      "tab": "rent"
+    },
     "https://www.eheya.net/detail/300001603005150000001/|カサグランデ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市末広町",
       "price_man": 4.4,
       "area_sqm": 25.1,
@@ -6688,7 +6626,7 @@
     },
     "https://www.eheya.net/detail/300001603003691000001/|カサグランデ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市末広町",
       "price_man": 4.5,
       "area_sqm": 25.1,
@@ -6717,7 +6655,7 @@
     },
     "https://www.eheya.net/detail/300001603005144000001/|グリーングラス S": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 7.4,
       "area_sqm": 68.8,
@@ -6746,7 +6684,7 @@
     },
     "https://www.eheya.net/detail/300001603003709000001/|グリーングラス S": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 7.0,
       "area_sqm": 68.8,
@@ -6775,7 +6713,7 @@
     },
     "https://www.eheya.net/detail/300059832002262000001/|グリーングラス S": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 7.0,
       "area_sqm": 68.8,
@@ -6804,7 +6742,7 @@
     },
     "https://www.eheya.net/detail/300001603004557000001/|グランドゥール壱町田（1F）": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.9,
       "area_sqm": 31.1,
@@ -6833,7 +6771,7 @@
     },
     "https://www.eheya.net/detail/300001603004561000001/|ヒルコート": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市光ケ丘",
       "price_man": 12.5,
       "area_sqm": 88.2,
@@ -6862,7 +6800,7 @@
     },
     "https://www.eheya.net/detail/300001603004563000001/|CITY PAL": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 5.8,
       "area_sqm": 35.1,
@@ -6891,7 +6829,7 @@
     },
     "https://www.eheya.net/detail/300000142004076000005/|シャリル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.4,
       "area_sqm": 40.1,
@@ -6920,7 +6858,7 @@
     },
     "https://www.eheya.net/detail/300000142004076000006/|シャリル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 6.4,
       "area_sqm": 46.1,
@@ -6949,7 +6887,7 @@
     },
     "https://www.eheya.net/detail/300000142004632000001/|本町第一ビル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市本町",
       "price_man": 4.3,
       "area_sqm": 23.4,
@@ -6978,7 +6916,7 @@
     },
     "https://www.eheya.net/detail/300000142001575000009/|パセオ桜川": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 6.8,
       "area_sqm": 30.8,
@@ -7007,7 +6945,7 @@
     },
     "https://www.eheya.net/detail/300000142002433000004/|サンパティオ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 6.2,
       "area_sqm": 29.2,
@@ -7036,7 +6974,7 @@
     },
     "https://www.eheya.net/detail/300000142002433000001/|サンパティオ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 6.5,
       "area_sqm": 29.4,
@@ -7065,7 +7003,7 @@
     },
     "https://www.eheya.net/detail/300001603004542000001/|エトワール花の木 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 55.4,
@@ -7094,7 +7032,7 @@
     },
     "https://www.eheya.net/detail/300000142001411000003/|エトワール花の木 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 55.4,
@@ -7123,7 +7061,7 @@
     },
     "https://www.eheya.net/detail/300000142002501000004/|アンソレイエ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.5,
       "area_sqm": 34.2,
@@ -7152,7 +7090,7 @@
     },
     "https://www.eheya.net/detail/300001603004537000001/|エスペシア華Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 5.5,
       "area_sqm": 22.6,
@@ -7181,7 +7119,7 @@
     },
     "https://www.eheya.net/detail/300001603004538000001/|エスペシア華Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 5.5,
       "area_sqm": 22.6,
@@ -7210,7 +7148,7 @@
     },
     "https://www.eheya.net/detail/300001603004539000001/|エスペシア華Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 5.5,
       "area_sqm": 22.6,
@@ -7239,7 +7177,7 @@
     },
     "https://www.eheya.net/detail/300001603004540000001/|エステイト大場": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 4.0,
       "area_sqm": 22.5,
@@ -7268,7 +7206,7 @@
     },
     "https://www.eheya.net/detail/300001603004543000001/|アルヴェアーレ一番町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市一番町",
       "price_man": 5.4,
       "area_sqm": 26.7,
@@ -7297,7 +7235,7 @@
     },
     "https://www.eheya.net/detail/300001603004529000001/|エスペシア華Ⅷ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大社町",
       "price_man": 6.3,
       "area_sqm": 25.8,
@@ -7326,7 +7264,7 @@
     },
     "https://www.eheya.net/detail/300000140001551000001/|メゾン ド クオーレ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市柳郷地",
       "price_man": 6.7,
       "area_sqm": 50.1,
@@ -7357,7 +7295,7 @@
     },
     "https://www.eheya.net/detail/300000142002222000001/|フォーレストモリカワ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市芝本町",
       "price_man": 4.2,
       "area_sqm": 22.6,
@@ -7386,7 +7324,7 @@
     },
     "https://www.eheya.net/detail/300000142002556000007/|トレンタ・ノーベ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.2,
       "area_sqm": 47.0,
@@ -7415,7 +7353,7 @@
     },
     "https://www.eheya.net/detail/300001603004509000001/|ソレイユ ノール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南町",
       "price_man": 7.1,
       "area_sqm": 49.0,
@@ -7444,7 +7382,7 @@
     },
     "https://www.eheya.net/detail/300001603003708000001/|ソレイユ ノール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南町",
       "price_man": 6.4,
       "area_sqm": 49.0,
@@ -7473,7 +7411,7 @@
     },
     "https://www.eheya.net/detail/300059832001275000001/|パストラルKー3": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 7.0,
       "area_sqm": 56.3,
@@ -7502,7 +7440,7 @@
     },
     "https://www.eheya.net/detail/300000142001661000005/|グランディオーレS": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南町",
       "price_man": 5.8,
       "area_sqm": 33.7,
@@ -7531,7 +7469,7 @@
     },
     "https://www.eheya.net/detail/300000142001661000012/|グランディオーレS": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南町",
       "price_man": 5.8,
       "area_sqm": 33.7,
@@ -7560,7 +7498,7 @@
     },
     "https://www.eheya.net/detail/300059832002763000004/|カサグランデ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市末広町",
       "price_man": 4.4,
       "area_sqm": 23.6,
@@ -7589,7 +7527,7 @@
     },
     "https://www.eheya.net/detail/300059832002763000003/|カサグランデ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市末広町",
       "price_man": 4.5,
       "area_sqm": 25.1,
@@ -7618,7 +7556,7 @@
     },
     "https://www.eheya.net/detail/300059832001009000006/|賀茂川ガーデンプレイス C": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.2,
       "area_sqm": 56.2,
@@ -7647,7 +7585,7 @@
     },
     "https://www.eheya.net/detail/300000140000941004624/|エレガントKINOMIYA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 46.8,
@@ -7676,7 +7614,7 @@
     },
     "https://www.eheya.net/detail/300000142002271000004/|レーヴ・ヌーヴォー": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 4.7,
       "area_sqm": 29.4,
@@ -7705,7 +7643,7 @@
     },
     "https://www.eheya.net/detail/300000140000578002368/|ヴェルハウズン B": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.2,
       "area_sqm": 58.1,
@@ -7734,7 +7672,7 @@
     },
     "https://www.eheya.net/detail/300000140000579001688/|プラシード": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.4,
       "area_sqm": 46.0,
@@ -7763,7 +7701,7 @@
     },
     "https://www.eheya.net/detail/300001603004368000001/|ロイヤルパレス徳倉": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 6.0,
       "area_sqm": 68.1,
@@ -7792,7 +7730,7 @@
     },
     "https://www.eheya.net/detail/300001603004411000001/|ドミールK壱番館": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.8,
       "area_sqm": 59.6,
@@ -7821,7 +7759,7 @@
     },
     "https://www.eheya.net/detail/300001603004406000001/|ドミールK壱番館": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.9,
       "area_sqm": 59.6,
@@ -7850,7 +7788,7 @@
     },
     "https://www.eheya.net/detail/300001603004409000001/|リジョンロード加茂川": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 5.5,
       "area_sqm": 35.2,
@@ -7879,7 +7817,7 @@
     },
     "https://www.eheya.net/detail/300001603004425000001/|ラフィーネ花畑": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 5.1,
       "area_sqm": 27.7,
@@ -7908,7 +7846,7 @@
     },
     "https://www.eheya.net/detail/300001603004427000001/|エステートピアみどり": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市緑町",
       "price_man": 5.6,
       "area_sqm": 37.2,
@@ -7937,7 +7875,7 @@
     },
     "https://www.eheya.net/detail/300000142002717000003/|コーポ長沢": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.5,
       "area_sqm": 19.9,
@@ -7966,7 +7904,7 @@
     },
     "https://www.eheya.net/detail/300000142004410000002/|メゾン落合": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 5.5,
       "area_sqm": 66.0,
@@ -7995,7 +7933,7 @@
     },
     "https://www.eheya.net/detail/300000142004561000001/|コーポラス杉山Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 6.5,
       "area_sqm": 67.3,
@@ -8024,7 +7962,7 @@
     },
     "https://www.eheya.net/detail/300000140001181006500/|ヴェルハウズンD": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.65,
       "area_sqm": 59.3,
@@ -8053,7 +7991,7 @@
     },
     "https://www.eheya.net/detail/300001603003756000001/|アクアハイム大宮": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 7.2,
       "area_sqm": 59.6,
@@ -8082,7 +8020,7 @@
     },
     "https://www.eheya.net/detail/300001603003372000001/|アクアハイム大宮": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 7.2,
       "area_sqm": 59.6,
@@ -8111,7 +8049,7 @@
     },
     "https://www.eheya.net/detail/300001603003726000001/|ルナ ジュイエ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市青木",
       "price_man": 7.0,
       "area_sqm": 60.9,
@@ -8140,7 +8078,7 @@
     },
     "https://www.eheya.net/detail/300001603003757000001/|望月マンション Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 4.2,
       "area_sqm": 30.3,
@@ -8169,7 +8107,7 @@
     },
     "https://www.eheya.net/detail/300001603003759000001/|ベンデュールⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市初音台",
       "price_man": 4.7,
       "area_sqm": 53.0,
@@ -8198,7 +8136,7 @@
     },
     "https://www.eheya.net/detail/300001603003690000001/|リヴェールコッコロ": {
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市平田",
       "price_man": 8.1,
       "area_sqm": 58.4,
@@ -8227,7 +8165,7 @@
     },
     "https://www.eheya.net/detail/300001603003705000001/|セボージャ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 5.2,
       "area_sqm": 29.4,
@@ -8256,7 +8194,7 @@
     },
     "https://www.eheya.net/detail/300000142002806000007/|アミティ加茂川": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.3,
       "area_sqm": 59.5,
@@ -8285,7 +8223,7 @@
     },
     "https://www.eheya.net/detail/300059832003061000007/|コトー萩": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
@@ -8314,7 +8252,7 @@
     },
     "https://www.eheya.net/detail/300059832003061000006/|コトー萩": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
@@ -8343,7 +8281,7 @@
     },
     "https://www.eheya.net/detail/300059832003061000003/|コトー萩": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
@@ -8372,7 +8310,7 @@
     },
     "https://www.eheya.net/detail/300059832003346000001/|クレールY": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.7,
       "area_sqm": 53.8,
@@ -8403,7 +8341,7 @@
     },
     "https://www.eheya.net/detail/300000142003133000001/|岩崎ハイツ B": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市玉川",
       "price_man": 5.9,
       "area_sqm": 52.0,
@@ -8432,7 +8370,7 @@
     },
     "https://www.eheya.net/detail/300000142001718000001/|ARIOGATO（ｱﾘｵｶﾞﾄ）": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 12.5,
       "area_sqm": 81.0,
@@ -8463,7 +8401,7 @@
     },
     "https://www.eheya.net/detail/300001603003618000001/|ヒルズ・若松町Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 8.3,
       "area_sqm": 59.4,
@@ -8492,7 +8430,7 @@
     },
     "https://www.eheya.net/detail/300001603003619000001/|ヒルズ・若松町Ⅲ": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 8.3,
       "area_sqm": 59.4,
@@ -8521,7 +8459,7 @@
     },
     "https://www.eheya.net/detail/300000142001791000012/|ジュネス": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南二日町",
       "price_man": 5.4,
       "area_sqm": 28.8,
@@ -8550,7 +8488,7 @@
     },
     "https://www.eheya.net/detail/300001603003358000001/|ソワサント大庭": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市初音台",
       "price_man": 6.2,
       "area_sqm": 58.6,
@@ -8579,7 +8517,7 @@
     },
     "https://www.eheya.net/detail/300001603003367000001/|ワンロード・加茂川": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.5,
       "area_sqm": 57.9,
@@ -8608,7 +8546,7 @@
     },
     "https://www.eheya.net/detail/300001603002599000001/|メゾン若松第1": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 5.0,
       "area_sqm": 41.8,
@@ -8637,7 +8575,7 @@
     },
     "https://www.eheya.net/detail/300001603000595000001/|メゾン若松第1": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 5.0,
       "area_sqm": 41.8,
@@ -8666,7 +8604,7 @@
     },
     "https://www.eheya.net/detail/300000142004496000002/|アクアハイム大宮": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町２丁目",
       "price_man": 7.0,
       "area_sqm": 60.5,
@@ -8695,7 +8633,7 @@
     },
     "https://www.eheya.net/detail/300059832001784000003/|アムール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.45,
       "area_sqm": 50.4,
@@ -8724,7 +8662,7 @@
     },
     "https://www.eheya.net/detail/300059832001784000002/|アムール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.65,
       "area_sqm": 50.4,
@@ -8753,7 +8691,7 @@
     },
     "https://www.eheya.net/detail/300059832001784000001/|アムール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.65,
       "area_sqm": 50.4,
@@ -8782,7 +8720,7 @@
     },
     "https://www.eheya.net/detail/300000140001662000007/|アムール・エ・ペ Ⅱ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 7.0,
       "area_sqm": 39.2,
@@ -8811,7 +8749,7 @@
     },
     "https://www.eheya.net/detail/300000140001662000008/|アムール・エ・ペ Ⅱ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 7.0,
       "area_sqm": 39.2,
@@ -8840,7 +8778,7 @@
     },
     "https://www.eheya.net/detail/300000140001662000009/|アムール・エ・ペ Ⅱ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 7.0,
       "area_sqm": 39.2,
@@ -8869,7 +8807,7 @@
     },
     "https://www.eheya.net/detail/300000140001659000008/|エレシエル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.0,
       "area_sqm": 29.4,
@@ -8898,7 +8836,7 @@
     },
     "https://www.eheya.net/detail/300000140001659000006/|エレシエル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 29.4,
@@ -8927,7 +8865,7 @@
     },
     "https://www.eheya.net/detail/300000140001659000007/|エレシエル": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 29.4,
@@ -8956,7 +8894,7 @@
     },
     "https://www.eheya.net/detail/300000142001516000002/|メゾン小山": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 52.1,
@@ -8987,7 +8925,7 @@
     },
     "https://www.eheya.net/detail/300000140001631000002/|リジエールⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 7.0,
       "area_sqm": 33.5,
@@ -9016,7 +8954,7 @@
     },
     "https://www.eheya.net/detail/300000140001636000003/|フォルトゥーナ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 6.9,
       "area_sqm": 41.7,
@@ -9045,7 +8983,7 @@
     },
     "https://www.eheya.net/detail/300000142002188000012/|PIKO": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大社町",
       "price_man": 5.8,
       "area_sqm": 31.6,
@@ -9074,7 +9012,7 @@
     },
     "https://www.eheya.net/detail/300000142002290000011/|classroom": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 18.3,
@@ -9103,7 +9041,7 @@
     },
     "https://www.eheya.net/detail/300000142002290000001/|classroom": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 17.1,
@@ -9132,7 +9070,7 @@
     },
     "https://www.eheya.net/detail/300000142002290000003/|classroom": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 3.9,
       "area_sqm": 15.6,
@@ -9161,7 +9099,7 @@
     },
     "https://www.eheya.net/detail/300001603001409000001/|イーアンドケイ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南田町",
       "price_man": 5.5,
       "area_sqm": 34.6,
@@ -9190,7 +9128,7 @@
     },
     "https://www.eheya.net/detail/300001603000138000001/|イーアンドケイ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南田町",
       "price_man": 5.5,
       "area_sqm": 34.6,
@@ -9219,7 +9157,7 @@
     },
     "https://www.eheya.net/detail/300001603001407000001/|レインボーハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 5.2,
       "area_sqm": 26.1,
@@ -9248,7 +9186,7 @@
     },
     "https://www.eheya.net/detail/300001603001260000001/|レインボーハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 5.2,
       "area_sqm": 26.1,
@@ -9277,7 +9215,7 @@
     },
     "https://www.eheya.net/detail/300059832001038000010/|タウンコート参番館": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉２丁目",
       "price_man": 4.1,
       "area_sqm": 26.9,
@@ -9306,7 +9244,7 @@
     },
     "https://www.eheya.net/detail/300001603001320000001/|シティハイム杉山 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 5.0,
       "area_sqm": 40.3,
@@ -9335,7 +9273,7 @@
     },
     "https://www.eheya.net/detail/300001603001321000001/|パティオ今井坂": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市川原ケ谷",
       "price_man": 5.2,
       "area_sqm": 53.0,
@@ -9366,7 +9304,7 @@
     },
     "https://www.eheya.net/detail/300001603001325000001/|エステートピア足立": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.2,
       "area_sqm": 52.2,
@@ -9395,7 +9333,7 @@
     },
     "https://www.eheya.net/detail/300001603001329000001/|タウニー野村": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市川原ケ谷",
       "price_man": 6.8,
       "area_sqm": 50.6,
@@ -9424,7 +9362,7 @@
     },
     "https://www.eheya.net/detail/300001603001327000001/|タウニー野村": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市川原ケ谷",
       "price_man": 7.2,
       "area_sqm": 50.6,
@@ -9453,7 +9391,7 @@
     },
     "https://www.eheya.net/detail/300001603001336000001/|エトワール窪田": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 4.9,
       "area_sqm": 42.1,
@@ -9482,7 +9420,7 @@
     },
     "https://www.eheya.net/detail/300001603001259000001/|ハイツアミューズ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 6.0,
       "area_sqm": 49.0,
@@ -9511,7 +9449,7 @@
     },
     "https://www.eheya.net/detail/300000142001566000005/|ベアテスPTMⅢ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.9,
       "area_sqm": 52.9,
@@ -9540,7 +9478,7 @@
     },
     "https://www.eheya.net/detail/300001603000005000001/|ベンデュールⅠ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市初音台",
       "price_man": 3.5,
       "area_sqm": 29.8,
@@ -9569,7 +9507,7 @@
     },
     "https://www.eheya.net/detail/300001603000009000001/|フォルジュロン井出": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 4.0,
       "area_sqm": 25.1,
@@ -9598,7 +9536,7 @@
     },
     "https://www.eheya.net/detail/300001603000013000001/|スターハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 5.0,
       "area_sqm": 51.3,
@@ -9627,7 +9565,7 @@
     },
     "https://www.eheya.net/detail/300001603000014000001/|スターハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 5.0,
       "area_sqm": 51.3,
@@ -9656,7 +9594,7 @@
     },
     "https://www.eheya.net/detail/300001603000015000001/|スターハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 5.2,
       "area_sqm": 51.3,
@@ -9685,7 +9623,7 @@
     },
     "https://www.eheya.net/detail/300001603000020000001/|サンコーポ徳倉台": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 3.0,
       "area_sqm": 17.0,
@@ -9714,7 +9652,7 @@
     },
     "https://www.eheya.net/detail/300001603000019000001/|サンコーポ徳倉台": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 4.5,
       "area_sqm": 34.8,
@@ -9743,7 +9681,7 @@
     },
     "https://www.eheya.net/detail/300001603000030000001/|博重マンション": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 2.9,
       "area_sqm": 21.0,
@@ -9772,7 +9710,7 @@
     },
     "https://www.eheya.net/detail/300001603000031000001/|博重マンション": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 2.9,
       "area_sqm": 21.0,
@@ -9801,7 +9739,7 @@
     },
     "https://www.eheya.net/detail/300001603000032000001/|博重マンション": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 2.9,
       "area_sqm": 21.0,
@@ -9830,7 +9768,7 @@
     },
     "https://www.eheya.net/detail/300001603000040000001/|シャトー望月 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 5.5,
       "area_sqm": 62.4,
@@ -9859,7 +9797,7 @@
     },
     "https://www.eheya.net/detail/300001603000047000001/|山城コーポ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西旭ケ丘町",
       "price_man": 2.8,
       "area_sqm": 19.8,
@@ -9888,7 +9826,7 @@
     },
     "https://www.eheya.net/detail/300001603000055000001/|ランドマーク": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 8.5,
       "area_sqm": 78.2,
@@ -9919,7 +9857,7 @@
     },
     "https://www.eheya.net/detail/300001603000075000001/|セゾンフェリーチェ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
@@ -9948,7 +9886,7 @@
     },
     "https://www.eheya.net/detail/300001603000076000001/|セゾンフェリーチェ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中",
       "price_man": 5.5,
       "area_sqm": 54.1,
@@ -9977,7 +9915,7 @@
     },
     "https://www.eheya.net/detail/300001603000122000001/|エクセラン吉田 B": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.9,
       "area_sqm": 53.0,
@@ -10006,7 +9944,7 @@
     },
     "https://www.eheya.net/detail/300001603000136000001/|ロワール 23": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.8,
       "area_sqm": 57.8,
@@ -10035,7 +9973,7 @@
     },
     "https://www.eheya.net/detail/300059832001351000002/|ロワール 23": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 6.7,
       "area_sqm": 46.1,
@@ -10064,7 +10002,7 @@
     },
     "https://www.eheya.net/detail/300001603000153000001/|アンソレイエ祇園原": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 7.5,
       "area_sqm": 63.4,
@@ -10093,7 +10031,7 @@
     },
     "https://www.eheya.net/detail/300001603000169000001/|アビタシオンA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.8,
       "area_sqm": 58.1,
@@ -10122,7 +10060,7 @@
     },
     "https://www.eheya.net/detail/300001603000171000001/|パラーシオ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大場",
       "price_man": 7.5,
       "area_sqm": 56.1,
@@ -10151,7 +10089,7 @@
     },
     "https://www.eheya.net/detail/300001603000172000001/|サンハイツ徳倉 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 3.9,
       "area_sqm": 34.7,
@@ -10180,7 +10118,7 @@
     },
     "https://www.eheya.net/detail/300001603000210000001/|プログレス": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市御園",
       "price_man": 5.8,
       "area_sqm": 44.9,
@@ -10211,7 +10149,7 @@
     },
     "https://www.eheya.net/detail/300001603000212000001/|加茂ハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 5.8,
       "area_sqm": 59.5,
@@ -10240,7 +10178,7 @@
     },
     "https://www.eheya.net/detail/300001603000213000001/|加茂ハイツ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂",
       "price_man": 5.8,
       "area_sqm": 59.5,
@@ -10269,7 +10207,7 @@
     },
     "https://www.eheya.net/detail/300001603000215000001/|メゾン双葉": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 5.4,
       "area_sqm": 26.5,
@@ -10298,7 +10236,7 @@
     },
     "https://www.eheya.net/detail/300001603000225000001/|リバーサイド中島B": {
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.2,
       "area_sqm": 50.6,
@@ -10327,7 +10265,7 @@
     },
     "https://www.eheya.net/detail/300001603000226000001/|TOKURA GARDEN HILL‘S": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 4.5,
       "area_sqm": 29.5,
@@ -10356,7 +10294,7 @@
     },
     "https://www.eheya.net/detail/300001603000421000001/|TOKURA GARDEN HILL‘S": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉",
       "price_man": 4.6,
       "area_sqm": 29.5,
@@ -10385,7 +10323,7 @@
     },
     "https://www.eheya.net/detail/300001603000267000001/|コーポ下賀茂": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 3.0,
       "area_sqm": 21.2,
@@ -10414,7 +10352,7 @@
     },
     "https://www.eheya.net/detail/300001603000266000001/|コーポ下賀茂": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市若松町",
       "price_man": 3.3,
       "area_sqm": 21.2,
@@ -10443,7 +10381,7 @@
     },
     "https://www.eheya.net/detail/300001603000278000001/|エフハイム": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 4.8,
       "area_sqm": 39.7,
@@ -10472,7 +10410,7 @@
     },
     "https://www.eheya.net/detail/300001603000286000001/|コトー萩": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
@@ -10501,7 +10439,7 @@
     },
     "https://www.eheya.net/detail/300001603000463000001/|コトー萩": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市萩",
       "price_man": 5.8,
       "area_sqm": 55.4,
@@ -10530,7 +10468,7 @@
     },
     "https://www.eheya.net/detail/300001603000296000001/|ヴィラ停雲": {
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町１丁目",
       "price_man": 7.0,
       "area_sqm": 47.1,
@@ -10559,7 +10497,7 @@
     },
     "https://www.eheya.net/detail/300001603000313000001/|ペイサージュN": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 6.3,
       "area_sqm": 66.0,
@@ -10588,7 +10526,7 @@
     },
     "https://www.eheya.net/detail/300001603000323000001/|エステートピア関野": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 4.9,
       "area_sqm": 49.3,
@@ -10617,7 +10555,7 @@
     },
     "https://www.eheya.net/detail/300001603000330000001/|ストークハウス園田": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 6.0,
       "area_sqm": 59.5,
@@ -10646,7 +10584,7 @@
     },
     "https://www.eheya.net/detail/300001603000358000001/|コーポ長沢": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市寿町",
       "price_man": 3.5,
       "area_sqm": 19.9,
@@ -10675,7 +10613,7 @@
     },
     "https://www.eheya.net/detail/300001603000361000001/|キャトルセゾン C": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.5,
       "area_sqm": 59.1,
@@ -10706,7 +10644,7 @@
     },
     "https://www.eheya.net/detail/300001603000598000001/|キャトルセゾン C": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.5,
       "area_sqm": 59.1,
@@ -10737,7 +10675,7 @@
     },
     "https://www.eheya.net/detail/300001603000362000001/|キャトルセゾン A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 6.5,
       "area_sqm": 59.1,
@@ -10768,7 +10706,7 @@
     },
     "https://www.eheya.net/detail/300001603000371000001/|アレグリア": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市東本町２丁目",
       "price_man": 4.1,
       "area_sqm": 27.1,
@@ -10799,7 +10737,7 @@
     },
     "https://www.eheya.net/detail/300001603000390000001/|パークヒルズ CDE": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 5.4,
       "area_sqm": 54.6,
@@ -10828,7 +10766,7 @@
     },
     "https://www.eheya.net/detail/300001603000393000001/|セジュールオサダ 3号館": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 6.5,
       "area_sqm": 57.8,
@@ -10857,7 +10795,7 @@
     },
     "https://www.eheya.net/detail/300001603000400000001/|エスペシア華Ⅶ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 5.7,
       "area_sqm": 25.0,
@@ -10886,7 +10824,7 @@
     },
     "https://www.eheya.net/detail/300001603000450000001/|エスペシア華Ⅶ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 5.7,
       "area_sqm": 25.0,
@@ -10915,7 +10853,7 @@
     },
     "https://www.eheya.net/detail/300001603000449000001/|エスペシア華Ⅶ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 5.8,
       "area_sqm": 27.6,
@@ -10944,7 +10882,7 @@
     },
     "https://www.eheya.net/detail/300001603000409000001/|マルシオン・マルジュ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.3,
       "area_sqm": 65.7,
@@ -10973,7 +10911,7 @@
     },
     "https://www.eheya.net/detail/300001603000407000001/|マルシオン・マルジュ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.9,
       "area_sqm": 65.7,
@@ -11002,7 +10940,7 @@
     },
     "https://www.eheya.net/detail/300001603000408000001/|マルシオン・マルジュ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 6.9,
       "area_sqm": 65.7,
@@ -11031,7 +10969,7 @@
     },
     "https://www.eheya.net/detail/300001603000414000001/|ドミール・アトレ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.9,
       "area_sqm": 55.1,
@@ -11060,7 +10998,7 @@
     },
     "https://www.eheya.net/detail/300001603000416000001/|リバーサイドマンションM": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 7.0,
       "area_sqm": 59.4,
@@ -11089,7 +11027,7 @@
     },
     "https://www.eheya.net/detail/300001603000417000001/|リバーサイドマンションM": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 7.0,
       "area_sqm": 59.4,
@@ -11118,7 +11056,7 @@
     },
     "https://www.eheya.net/detail/300001603000583000001/|リバーサイドマンションM": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市壱町田",
       "price_man": 7.1,
       "area_sqm": 59.4,
@@ -11147,7 +11085,7 @@
     },
     "https://www.eheya.net/detail/300001603000422000001/|ユニヴェールKODAMA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.0,
       "area_sqm": 57.3,
@@ -11176,7 +11114,7 @@
     },
     "https://www.eheya.net/detail/300001603000424000001/|コーポラス杉山 Ⅲ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 6.5,
       "area_sqm": 67.3,
@@ -11205,7 +11143,7 @@
     },
     "https://www.eheya.net/detail/300001603000431000001/|グリーンハイツ松本": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市松本",
       "price_man": 5.0,
       "area_sqm": 25.9,
@@ -11234,7 +11172,7 @@
     },
     "https://www.eheya.net/detail/300001603000432000001/|コーポバーディーⅡ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市幸原町１丁目",
       "price_man": 4.4,
       "area_sqm": 26.6,
@@ -11263,7 +11201,7 @@
     },
     "https://www.eheya.net/detail/300001603000433000001/|初音台ハイム": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市初音台",
       "price_man": 3.9,
       "area_sqm": 29.7,
@@ -11292,7 +11230,7 @@
     },
     "https://www.eheya.net/detail/300001603000444000001/|エルフローラ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市栄町",
       "price_man": 6.8,
       "area_sqm": 39.7,
@@ -11321,7 +11259,7 @@
     },
     "https://www.eheya.net/detail/300001603000459000001/|エスペシア華Ⅴ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南本町",
       "price_man": 4.5,
       "area_sqm": 20.1,
@@ -11350,7 +11288,7 @@
     },
     "https://www.eheya.net/detail/300001603000461000001/|アルテハイツカサベルテ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市錦が丘",
       "price_man": 8.5,
       "area_sqm": 67.9,
@@ -11379,7 +11317,7 @@
     },
     "https://www.eheya.net/detail/300001603000462000001/|フォーブルハセガワ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市文教町２丁目",
       "price_man": 3.3,
       "area_sqm": 21.2,
@@ -11408,7 +11346,7 @@
     },
     "https://www.eheya.net/detail/300001603000546000001/|イーフラッツ山本": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市御園",
       "price_man": 6.5,
       "area_sqm": 63.3,
@@ -11439,7 +11377,7 @@
     },
     "https://www.eheya.net/detail/300000142002953000003/|リデンテ南町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南町",
       "price_man": 4.8,
       "area_sqm": 39.6,
@@ -11468,7 +11406,7 @@
     },
     "https://www.eheya.net/detail/300000142004498000001/|サンシティ西島": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市中島",
       "price_man": 3.5,
       "area_sqm": 35.9,
@@ -11497,7 +11435,7 @@
     },
     "https://www.eheya.net/detail/300059832001711000005/|ローズコートS": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市富士ビレッジ",
       "price_man": 6.2,
       "area_sqm": 47.6,
@@ -11526,7 +11464,7 @@
     },
     "https://www.eheya.net/detail/300059832001568000006/|CITY PAL（ｼﾃｨﾊﾟﾙ）": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉１丁目",
       "price_man": 5.8,
       "area_sqm": 35.1,
@@ -11555,7 +11493,7 @@
     },
     "https://www.eheya.net/detail/300000140000665002364/|フローラルクラベール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市竹倉",
       "price_man": 3.95,
       "area_sqm": 33.1,
@@ -11584,7 +11522,7 @@
     },
     "https://www.eheya.net/detail/300000140000665003026/|フローラルクラベール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市竹倉",
       "price_man": 3.95,
       "area_sqm": 33.1,
@@ -11613,7 +11551,7 @@
     },
     "https://www.eheya.net/detail/300000142001578000001/|ココペリ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市梅名",
       "price_man": 7.2,
       "area_sqm": 62.5,
@@ -11642,7 +11580,7 @@
     },
     "https://www.eheya.net/detail/300059832002232000001/|ペアシティ榊A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.8,
       "area_sqm": 51.0,
@@ -11671,7 +11609,7 @@
     },
     "https://www.eheya.net/detail/300059832002232000002/|ペアシティ榊A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.8,
       "area_sqm": 51.0,
@@ -11700,7 +11638,7 @@
     },
     "https://www.eheya.net/detail/300059832002460000005/|R－1 TOKURA": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉３丁目",
       "price_man": 4.5,
       "area_sqm": 25.6,
@@ -11729,7 +11667,7 @@
     },
     "https://www.eheya.net/detail/300000142004441000001/|ファミーユ二日町": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南二日町",
       "price_man": 6.8,
       "area_sqm": 62.1,
@@ -11758,7 +11696,7 @@
     },
     "https://www.eheya.net/detail/300000142004226000001/|錦が丘戸建": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市錦が丘",
       "price_man": 11.0,
       "area_sqm": 113.8,
@@ -11789,7 +11727,7 @@
     },
     "https://www.eheya.net/detail/300000142001595000009/|グランディール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 6.7,
       "area_sqm": 62.8,
@@ -11818,7 +11756,7 @@
     },
     "https://www.eheya.net/detail/300000142002972000004/|リヴェール": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.0,
       "area_sqm": 42.1,
@@ -11847,7 +11785,7 @@
     },
     "https://www.eheya.net/detail/300000142001347000002/|ルミエール花の木 B": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 6.2,
       "area_sqm": 48.7,
@@ -11876,7 +11814,7 @@
     },
     "https://www.eheya.net/detail/300000142001674000003/|ルミエール花の木 A": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.9,
       "area_sqm": 37.6,
@@ -11905,7 +11843,7 @@
     },
     "https://www.eheya.net/detail/300000142001561000003/|エテルノ": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市八反畑",
       "price_man": 6.2,
       "area_sqm": 53.3,
@@ -11934,7 +11872,7 @@
     },
     "https://www.eheya.net/detail/300000142000498000007/|パルク長伏": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市長伏",
       "price_man": 5.98,
       "area_sqm": 65.6,
@@ -11963,7 +11901,7 @@
     },
     "https://www.eheya.net/detail/300000142004210000001/|LIFE LIKE 21 II": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市大宮町３丁目",
       "price_man": 5.5,
       "area_sqm": 23.8,
@@ -11992,7 +11930,7 @@
     },
     "https://www.eheya.net/detail/300000142002795000006/|フォルトゥーナ三島": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 5.8,
       "area_sqm": 53.5,
@@ -12021,7 +11959,7 @@
     },
     "https://www.eheya.net/detail/300001603005476000001/|河西ビル": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市南本町",
       "price_man": 6.0,
       "area_sqm": 38.9,
@@ -12050,7 +11988,7 @@
     },
     "https://www.eheya.net/detail/300001603005488000001/|ベルベデーレ": {
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市西旭ケ丘町",
       "price_man": 5.8,
       "area_sqm": 53.0,
@@ -12079,7 +12017,7 @@
     },
     "https://www.eheya.net/detail/300001603005490000001/|メイプルガーデン B": {
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市多呂",
       "price_man": 5.5,
       "area_sqm": 53.9,
@@ -12108,7 +12046,7 @@
     },
     "https://www.eheya.net/detail/300001603003744000001/|ウィズ ワン ヒルズ": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.2,
       "area_sqm": 33.0,
@@ -12139,7 +12077,7 @@
     },
     "https://www.eheya.net/detail/300001603003745000001/|ウィズ ワン ヒルズ": {
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市徳倉４丁目",
       "price_man": 5.4,
       "area_sqm": 33.0,
@@ -12170,7 +12108,7 @@
     },
     "https://www.eheya.net/detail/300001603004397000001/|春ひなたのテラス": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市谷田",
       "price_man": 9.4,
       "area_sqm": 86.5,
@@ -12201,7 +12139,7 @@
     },
     "https://www.eheya.net/detail/300001603002584000001/|シャルマンコーポ三島 A809": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "location": "静岡県三島市加茂川町",
       "price_man": 12.0,
       "area_sqm": 75.0,
@@ -12229,6 +12167,6 @@
       "tab": "rent"
     }
   },
-  "hash": "dbbbcafd60353c8c",
-  "fetched_at": "2026-11-24T15:03:23.474305"
+  "hash": "b15951fb85a5d36f",
+  "fetched_at": "2026-11-25T14:05:58.175406"
 }
