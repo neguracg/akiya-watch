@@ -1890,5 +1890,49 @@
     "text": "フェリス・カーサ",
     "removed_on": "2026-11-25",
     "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005868000001/|スペースKⅡ": {
+    "first_seen": "2026-11-25",
+    "last_seen": "2026-11-25",
+    "location": "静岡県三島市加茂",
+    "price_man": 5.7,
+    "area_sqm": 42.4,
+    "url": "https://www.eheya.net/detail/300001603005868000001/",
+    "text": "スペースKⅡ",
+    "removed_on": "2026-11-26",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300000142002957000006/|ルピナス": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-25",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 7.9,
+    "area_sqm": 50.3,
+    "url": "https://www.eheya.net/detail/300000142002957000006/",
+    "text": "ルピナス",
+    "removed_on": "2026-11-26",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603005323000001/|ノアAPT": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-25",
+    "location": "静岡県三島市萩",
+    "price_man": 7.9,
+    "area_sqm": 50.0,
+    "url": "https://www.eheya.net/detail/300001603005323000001/",
+    "text": "ノアAPT",
+    "removed_on": "2026-11-26",
+    "site_name": "いい部屋ネット 三島市"
+  },
+  "https://www.eheya.net/detail/300001603000153000001/|アンソレイエ祇園原": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-25",
+    "location": "静岡県三島市加茂川町",
+    "price_man": 7.5,
+    "area_sqm": 63.4,
+    "url": "https://www.eheya.net/detail/300001603000153000001/",
+    "text": "アンソレイエ祇園原",
+    "removed_on": "2026-11-26",
+    "site_name": "いい部屋ネット 三島市"
   }
 }
