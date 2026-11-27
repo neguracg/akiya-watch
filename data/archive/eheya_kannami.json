@@ -538,17 +538,6 @@
     "removed_on": "2026-11-22",
     "site_name": "いい部屋ネット 田方郡函南町"
   },
-  "https://www.eheya.net/detail/300000142002238000009/|レジェンド A": {
-    "first_seen": "2026-11-08",
-    "last_seen": "2026-11-22",
-    "location": "静岡県田方郡函南町柏谷",
-    "price_man": 7.5,
-    "area_sqm": 58.1,
-    "url": "https://www.eheya.net/detail/300000142002238000009/",
-    "text": "レジェンド A",
-    "removed_on": "2026-11-23",
-    "site_name": "いい部屋ネット 田方郡函南町"
-  },
   "https://www.eheya.net/detail/300059832002898000002/|ビヴァシティ函南": {
     "first_seen": "2026-10-27",
     "last_seen": "2026-11-22",
@@ -558,17 +547,6 @@
     "url": "https://www.eheya.net/detail/300059832002898000002/",
     "text": "ビヴァシティ函南",
     "removed_on": "2026-11-23",
-    "site_name": "いい部屋ネット 田方郡函南町"
-  },
-  "https://www.eheya.net/detail/300001603005746000001/|エステートピア池谷": {
-    "first_seen": "2026-11-21",
-    "last_seen": "2026-11-23",
-    "location": "静岡県田方郡函南町仁田",
-    "price_man": 5.3,
-    "area_sqm": 51.9,
-    "url": "https://www.eheya.net/detail/300001603005746000001/",
-    "text": "エステートピア池谷",
-    "removed_on": "2026-11-24",
     "site_name": "いい部屋ネット 田方郡函南町"
   },
   "https://www.eheya.net/detail/300059832003439000001/|サンモール塚本 B": {
@@ -789,6 +767,138 @@
     "url": "https://www.eheya.net/detail/300001603000050000001/",
     "text": "パライソ",
     "removed_on": "2026-11-25",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005113000001/|プリマヴェーラ": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町間宮",
+    "price_man": 4.4,
+    "area_sqm": 27.1,
+    "url": "https://www.eheya.net/detail/300001603005113000001/",
+    "text": "プリマヴェーラ",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005025000001/|エムズマンション函南": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町平井",
+    "price_man": 4.0,
+    "area_sqm": 43.9,
+    "url": "https://www.eheya.net/detail/300001603005025000001/",
+    "text": "エムズマンション函南",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005099000001/|ラ・メーグ": {
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 4.9,
+    "area_sqm": 29.4,
+    "url": "https://www.eheya.net/detail/300001603005099000001/",
+    "text": "ラ・メーグ",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005469000001/|メゾン山崎": {
+    "first_seen": "2026-11-14",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 3.9,
+    "area_sqm": 42.2,
+    "url": "https://www.eheya.net/detail/300001603005469000001/",
+    "text": "メゾン山崎",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603004961000001/|トレピアーニ": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町肥田",
+    "price_man": 5.8,
+    "area_sqm": 47.7,
+    "url": "https://www.eheya.net/detail/300001603004961000001/",
+    "text": "トレピアーニ",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603004995000001/|グランドソレイユ": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町大竹",
+    "price_man": 6.3,
+    "area_sqm": 56.0,
+    "url": "https://www.eheya.net/detail/300001603004995000001/",
+    "text": "グランドソレイユ",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005073000001/|間宮分譲マンション": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町桑原",
+    "price_man": 6.9,
+    "area_sqm": 68.1,
+    "url": "https://www.eheya.net/detail/300001603005073000001/",
+    "text": "間宮分譲マンション",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005090000001/|リヴェール B": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町仁田",
+    "price_man": 5.2,
+    "area_sqm": 42.8,
+    "url": "https://www.eheya.net/detail/300001603005090000001/",
+    "text": "リヴェール B",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005100000001/|WIT": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町上沢",
+    "price_man": 6.4,
+    "area_sqm": 47.9,
+    "url": "https://www.eheya.net/detail/300001603005100000001/",
+    "text": "WIT",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005123000001/|レジェンド": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町柏谷",
+    "price_man": 7.6,
+    "area_sqm": 58.2,
+    "url": "https://www.eheya.net/detail/300001603005123000001/",
+    "text": "レジェンド",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005115000001/|グランドール高城 C": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.4,
+    "area_sqm": 63.5,
+    "url": "https://www.eheya.net/detail/300001603005115000001/",
+    "text": "グランドール高城 C",
+    "removed_on": "2026-11-27",
+    "site_name": "いい部屋ネット 田方郡函南町"
+  },
+  "https://www.eheya.net/detail/300001603005124000001/|リバレイン": {
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-26",
+    "location": "静岡県田方郡函南町大土肥",
+    "price_man": 6.7,
+    "area_sqm": 50.3,
+    "url": "https://www.eheya.net/detail/300001603005124000001/",
+    "text": "リバレイン",
+    "removed_on": "2026-11-27",
     "site_name": "いい部屋ネット 田方郡函南町"
   }
 }

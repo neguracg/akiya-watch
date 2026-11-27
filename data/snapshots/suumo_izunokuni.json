@@ -2,7 +2,7 @@
   "keys": {
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_82693663/|豊かな自然を満喫、四季を感じられる立地です。": {
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市奈古谷エメラルドタウン",
       "price_man": 170,
       "area_sqm": 283.0,
@@ -33,7 +33,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_76404904/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市韮山山木",
       "price_man": 400,
       "area_sqm": 461.0,
@@ -62,7 +62,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22083496/|伊豆縦貫道へのアクセス良好な閑静な住宅地です": {
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 490,
       "area_sqm": 180.9,
@@ -91,7 +91,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22127906/|◇資材置場として使用できます": {
       "first_seen": "2026-11-08",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市中",
       "price_man": 500,
       "area_sqm": 1141.0,
@@ -120,7 +120,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21078648/|☆宅地面積981坪☆千代田団地内最上部　眺望は圧巻です！": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市北江間",
       "price_man": 800,
       "area_sqm": 3244.8,
@@ -149,7 +149,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20504718/|伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！": {
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市三福69-3他",
       "price_man": 820,
       "area_sqm": 109.9,
@@ -176,38 +176,9 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
-    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利": {
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-26",
-      "location": "静岡県伊豆の国市長崎350-6",
-      "price_man": 980,
-      "area_sqm": 201.0,
-      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
-      "text": "働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利",
-      "shubetsu": "更地",
-      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
-      "madori": null,
-      "chikunen": null,
-      "kanrihi": null,
-      "shikikin": null,
-      "reikin": null,
-      "rebuild_mark": "不明",
-      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
-      "chimoku": "—",
-      "toshikeikaku": "—",
-      "setsudo": null,
-      "tsubo_man": 16.1,
-      "verdict": "不適合",
-      "interest": [],
-      "caution": [],
-      "ng_areas": [],
-      "zokujinsei": false,
-      "machi": "伊豆の国市",
-      "tab": "home"
-    },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_72034398/|働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長崎350-4",
       "price_man": 980,
       "area_sqm": 201.0,
@@ -234,9 +205,38 @@
       "machi": "伊豆の国市",
       "tab": "home"
     },
+    "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/|働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利": {
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-27",
+      "location": "静岡県伊豆の国市長崎350-6",
+      "price_man": 980,
+      "area_sqm": 201.0,
+      "url": "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75640261/",
+      "text": "働き盛りに！「原木」駅徒歩約17分☆国道136まで約1.2ｋｍで通勤に便利",
+      "shubetsu": "更地",
+      "shubetsu_reason": "土地カテゴリ（建物表記なし）",
+      "madori": null,
+      "chikunen": null,
+      "kanrihi": null,
+      "shikikin": null,
+      "reikin": null,
+      "rebuild_mark": "不明",
+      "rebuild_reason": "接道・区分情報なし、詳細/役場で要確認",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": 16.1,
+      "verdict": "不適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆の国市",
+      "tab": "home"
+    },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21261527/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-07-10",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市中",
       "price_man": 980,
       "area_sqm": 1146.4,
@@ -265,7 +265,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22083432/|☆アピタ大仁店まで徒歩約７分☆角地なので解放感有ります☆": {
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 990,
       "area_sqm": 172.0,
@@ -294,7 +294,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21612987/|伊豆の国市長岡　建築条件無の約57坪！市役所、病院も近い好立地です！": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 1080,
       "area_sqm": 190.7,
@@ -323,7 +323,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_94832790/|南側道路のため、日当り良好です！採光・通風に優れ、閑静な住宅地です♪": {
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市北江間",
       "price_man": 1080,
       "area_sqm": 168.8,
@@ -352,7 +352,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75042663/|共働きに嬉しい通勤アクセス◎！国道136迄約1.2km！原木駅徒歩約18分": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長崎350-8",
       "price_man": 1150,
       "area_sqm": 201.5,
@@ -381,7 +381,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21853577/|南東角地。スーパーやドラックストア、コンビニ等が近く、生活しやすい環境♪": {
       "first_seen": "2026-10-04",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 1200,
       "area_sqm": 181.1,
@@ -410,7 +410,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_76627283/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市大仁",
       "price_man": 1200,
       "area_sqm": 342.3,
@@ -439,7 +439,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_71633187/|☆国道136号線にアクセス良好♪大仁駅まで徒歩圏内。60坪以上。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市三福",
       "price_man": 1200,
       "area_sqm": 201.8,
@@ -468,7 +468,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22249376/|◇敷地面積広々６５坪！！◇南側道路接面で日当たり良好♪": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市韮山多田",
       "price_man": 1250,
       "area_sqm": 218.0,
@@ -497,7 +497,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20315660/|☆70坪以上の住宅用地。公園隣接♪建築条件なし。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 1290,
       "area_sqm": 241.0,
@@ -526,7 +526,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21068965/|☆伊豆箱根鉄道駿豆線原木駅目の前の好立地☆生活しやすい立地です。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市原木",
       "price_man": 1300,
       "area_sqm": 173.3,
@@ -555,7 +555,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21742361/|☆敷地内浸水履歴無し！前面道路冠水履歴無し！更地でのお引渡しです！☆": {
       "first_seen": "2026-09-18",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市寺家",
       "price_man": 1380,
       "area_sqm": 201.8,
@@ -584,7 +584,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20609438/|伊豆の国市三福に新規分譲地登場！小学校迄徒歩4分、閑静な住宅街！建築条件付": {
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市三福69-4",
       "price_man": 1468,
       "area_sqm": 165.5,
@@ -613,7 +613,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20572842/|☆　建築条件なし！　　→お好きなハウスメーカーでお家が建てられます。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市南條",
       "price_man": 1680,
       "area_sqm": 192.7,
@@ -642,7 +642,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21469043/|伊豆箱根鉄道駿豆線「韮山駅」まで徒歩約２分と、とても利便性の良い立地です。": {
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市四日町",
       "price_man": 1680,
       "area_sqm": 185.1,
@@ -671,7 +671,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20764232/|☆スーパーやコンビニ、ドラッグストアなど周辺施設が充実しています。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市古奈",
       "price_man": 2180,
       "area_sqm": 396.0,
@@ -700,7 +700,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_70162419/|☆伊豆長岡駅徒歩圏内♪整形地、広々250坪以上。建築条件なし、現況渡し。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市富士見",
       "price_man": 3000,
       "area_sqm": 850.9,
@@ -729,7 +729,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_71292657/|☆大仁北小学校至近！田京駅徒歩6分♪広々340坪以上。二面道路、陽当良好。": {
       "first_seen": "2026-06-17",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市田京",
       "price_man": 4990,
       "area_sqm": 1152.9,
@@ -758,7 +758,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20069747/|■土地面積：公簿２，２２７．９７㎡（約６７３．９６坪）": {
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市南江間",
       "price_man": 10000,
       "area_sqm": 2228.0,
@@ -787,7 +787,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20083376/|韮山山木 250万円": {
       "first_seen": "2026-09-01",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市韮山山木",
       "price_man": 250,
       "area_sqm": 616.0,
@@ -816,7 +816,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_22253620/|長岡 490万円": {
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長岡744-18",
       "price_man": 490,
       "area_sqm": 180.9,
@@ -845,7 +845,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21411851/|奈古谷（韮山駅） 595万円": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市奈古谷",
       "price_man": 595,
       "area_sqm": 525.0,
@@ -874,7 +874,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_75550290/|三福（田京駅） 1600万円・1640万円": {
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市三福171-10他",
       "price_man": 1600,
       "area_sqm": 172.1,
@@ -903,7 +903,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_20869771/|長岡 1980万円": {
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市長岡",
       "price_man": 1980,
       "area_sqm": 1316.0,
@@ -932,7 +932,7 @@
     },
     "https://suumo.jp/tochi/shizuoka/sc_izunokuni/nc_21411852/|奈古谷 2900万円": {
       "first_seen": "2026-11-07",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "location": "静岡県伊豆の国市奈古谷",
       "price_man": 2900,
       "area_sqm": 3652.0,
@@ -960,6 +960,6 @@
       "tab": "home"
     }
   },
-  "hash": "ec598f547dc3f9b7",
-  "fetched_at": "2026-11-26T12:54:50.469548"
+  "hash": "abc0a55873cd3c33",
+  "fetched_at": "2026-11-27T12:54:45.493866"
 }

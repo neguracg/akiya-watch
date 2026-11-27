@@ -1110,17 +1110,6 @@
     "removed_on": "2026-11-13",
     "site_name": "SUUMO 中古戸建 裾野市"
   },
-  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/|須山 1280万円": {
-    "first_seen": "2026-11-05",
-    "last_seen": "2026-11-12",
-    "location": "静岡県裾野市須山",
-    "price_man": 1280,
-    "area_sqm": 514.0,
-    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_21402355/",
-    "text": "須山 1280万円",
-    "removed_on": "2026-11-13",
-    "site_name": "SUUMO 中古戸建 裾野市"
-  },
   "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20899278/|閑静な住宅街の再生住宅が登場！造成工事で駐車場を1台拡張予定です！敷地が広": {
     "first_seen": "2026-08-03",
     "last_seen": "2026-11-13",
@@ -1218,6 +1207,17 @@
     "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_75824401/",
     "text": "■■ 深良中古住宅 ■■　内覧可能☆静かな住環境の住まい！内部美邸です♪",
     "removed_on": "2026-11-23",
+    "site_name": "SUUMO 中古戸建 裾野市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20839293/|【デグチエステート】裾野市須山中古": {
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-26",
+    "location": "静岡県裾野市須山2255-4750",
+    "price_man": 3800,
+    "area_sqm": 1809.6,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_susono/nc_20839293/",
+    "text": "【デグチエステート】裾野市須山中古",
+    "removed_on": "2026-11-27",
     "site_name": "SUUMO 中古戸建 裾野市"
   }
 }
