@@ -1066,17 +1066,6 @@
     "removed_on": "2026-11-17",
     "site_name": "SUUMO 土地 小田原市"
   },
-  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21585463/|イーカム標準仕様にて自由設計フリープランで建築出来ます！！": {
-    "first_seen": "2026-11-14",
-    "last_seen": "2026-11-20",
-    "location": "神奈川県小田原市酒匂５",
-    "price_man": 2580,
-    "area_sqm": 194.3,
-    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21585463/",
-    "text": "イーカム標準仕様にて自由設計フリープランで建築出来ます！！",
-    "removed_on": "2026-11-21",
-    "site_name": "SUUMO 土地 小田原市"
-  },
   "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_78490928/|(株)三心　久野 三京窪　A区画 67.16坪  南ひな壇、陽当り景観良好": {
     "first_seen": "2026-11-13",
     "last_seen": "2026-11-20",
@@ -1185,6 +1174,39 @@
     "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20817818/",
     "text": "日当たり良好◎お家の前には樹木も多く、自然豊かな眺望が広がります♪",
     "removed_on": "2026-11-27",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/|土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。": {
+    "first_seen": "2026-11-01",
+    "last_seen": "2026-11-27",
+    "location": "神奈川県小田原市鬼柳",
+    "price_man": 980,
+    "area_sqm": 218.9,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_20584542/",
+    "text": "土地広々約６６坪、建築条件なし、南側調整区域に付陽当り良好。",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22252196/|小田原市東町｜約49坪・1680万円。建築条件なしの売地": {
+    "first_seen": "2026-11-24",
+    "last_seen": "2026-11-27",
+    "location": "神奈川県小田原市東町３",
+    "price_man": 1680,
+    "area_sqm": 162.2,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_22252196/",
+    "text": "小田原市東町｜約49坪・1680万円。建築条件なしの売地",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 土地 小田原市"
+  },
+  "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21701467/|城山４（小田原駅） 3480万円": {
+    "first_seen": "2026-10-25",
+    "last_seen": "2026-11-27",
+    "location": "神奈川県小田原市城山４",
+    "price_man": 3480,
+    "area_sqm": 590.1,
+    "url": "https://suumo.jp/tochi/kanagawa/sc_odawara/nc_21701467/",
+    "text": "城山４（小田原駅） 3480万円",
+    "removed_on": "2026-11-28",
     "site_name": "SUUMO 土地 小田原市"
   }
 }

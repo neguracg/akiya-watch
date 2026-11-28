@@ -2253,5 +2253,27 @@
     "text": "内装ダメージあり（特に１階）　リフォームが必要な物件です",
     "removed_on": "2026-11-27",
     "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21843136/|店舗付き中古戸建！駐車可能台数3台！": {
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市玉江町",
+    "price_man": 960,
+    "area_sqm": 123.5,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_21843136/",
+    "text": "店舗付き中古戸建！駐車可能台数3台！",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 中古戸建 沼津市"
+  },
+  "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22128884/|【デグチエステート】沼津市　東椎路中古": {
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市東椎路1038",
+    "price_man": 28000,
+    "area_sqm": 1696.2,
+    "url": "https://suumo.jp/chukoikkodate/shizuoka/sc_numazu/nc_22128884/",
+    "text": "【デグチエステート】沼津市　東椎路中古",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 中古戸建 沼津市"
   }
 }

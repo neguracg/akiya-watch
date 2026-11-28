@@ -1121,17 +1121,6 @@
     "removed_on": "2026-11-24",
     "site_name": "SUUMO 土地 静岡市清水区"
   },
-  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75412598/|【売主物件・建築条件なし】分譲地残り４区画！！静鉄「桜橋駅」　徒歩3分。": {
-    "first_seen": "2026-11-04",
-    "last_seen": "2026-11-26",
-    "location": "静岡県静岡市清水区桜橋町32",
-    "price_man": 2030,
-    "area_sqm": 115.6,
-    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75412598/",
-    "text": "【売主物件・建築条件なし】分譲地残り４区画！！静鉄「桜橋駅」　徒歩3分。",
-    "removed_on": "2026-11-27",
-    "site_name": "SUUMO 土地 静岡市清水区"
-  },
   "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_75816360/|陽当り良好。建築条件ないのでお好きなメーカーにて建築出来ます。": {
     "first_seen": "2026-10-25",
     "last_seen": "2026-11-26",
@@ -1152,6 +1141,17 @@
     "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_22016703/",
     "text": "船原１（桜橋駅） 1680万円",
     "removed_on": "2026-11-27",
+    "site_name": "SUUMO 土地 静岡市清水区"
+  },
+  "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21449828/|建築条件なし、都市ガス": {
+    "first_seen": "2026-11-06",
+    "last_seen": "2026-11-27",
+    "location": "静岡県静岡市清水区高橋６",
+    "price_man": 1180,
+    "area_sqm": 132.0,
+    "url": "https://suumo.jp/tochi/shizuoka/sc_shizuokashishimizu/nc_21449828/",
+    "text": "建築条件なし、都市ガス",
+    "removed_on": "2026-11-28",
     "site_name": "SUUMO 土地 静岡市清水区"
   }
 }

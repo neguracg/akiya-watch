@@ -167815,28 +167815,6 @@
     "removed_on": "2026-11-26",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000099909302/?bc=100450661757|イズヤハイツ": {
-    "first_seen": "2026-11-25",
-    "last_seen": "2026-11-25",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 8.5,
-    "area_sqm": 92.0,
-    "url": "https://suumo.jp/chintai/jnc_000099909302/?bc=100450661757",
-    "text": "イズヤハイツ",
-    "removed_on": "2026-11-26",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000099909303/?bc=100450661769|イズヤハイツ": {
-    "first_seen": "2026-11-25",
-    "last_seen": "2026-11-25",
-    "location": "静岡県沼津市西椎路",
-    "price_man": 8.5,
-    "area_sqm": 92.0,
-    "url": "https://suumo.jp/chintai/jnc_000099909303/?bc=100450661769",
-    "text": "イズヤハイツ",
-    "removed_on": "2026-11-26",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
   "https://suumo.jp/chintai/jnc_000111325254/?bc=100538553849|ＣＨＩＮＴＡＩ　本田町ビル": {
     "first_seen": "2026-11-24",
     "last_seen": "2026-11-26",
@@ -167889,28 +167867,6 @@
     "area_sqm": 96.9,
     "url": "https://suumo.jp/chintai/jnc_000111049310/?bc=100536359610",
     "text": "ＪＲ東海道本線 片浜駅 2階建 築43年",
-    "removed_on": "2026-11-27",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000111157861/?bc=100532287789|沼津大塚戸建５LDK": {
-    "first_seen": "2026-11-24",
-    "last_seen": "2026-11-26",
-    "location": "静岡県沼津市大塚",
-    "price_man": 7.4,
-    "area_sqm": 110.0,
-    "url": "https://suumo.jp/chintai/jnc_000111157861/?bc=100532287789",
-    "text": "沼津大塚戸建５LDK",
-    "removed_on": "2026-11-27",
-    "site_name": "SUUMO 賃貸 沼津市 4K以上"
-  },
-  "https://suumo.jp/chintai/jnc_000111152935/?bc=100537110029|沼津大塚戸建５LDK": {
-    "first_seen": "2026-11-24",
-    "last_seen": "2026-11-26",
-    "location": "静岡県沼津市大塚",
-    "price_man": 7.4,
-    "area_sqm": 110.0,
-    "url": "https://suumo.jp/chintai/jnc_000111152935/?bc=100537110029",
-    "text": "沼津大塚戸建５LDK",
     "removed_on": "2026-11-27",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   },
@@ -168013,15 +167969,70 @@
     "removed_on": "2026-11-27",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   },
-  "https://suumo.jp/chintai/jnc_000101193512/?bc=100529082376|山田様戸建": {
+  "https://suumo.jp/chintai/jnc_000111157861/?bc=100537534602|沼津大塚戸建": {
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市大塚",
+    "price_man": 7.4,
+    "area_sqm": 110.0,
+    "url": "https://suumo.jp/chintai/jnc_000111157861/?bc=100537534602",
+    "text": "沼津大塚戸建",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000111152935/?bc=100537110029|沼津大塚戸建": {
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市大塚",
+    "price_man": 7.4,
+    "area_sqm": 110.0,
+    "url": "https://suumo.jp/chintai/jnc_000111152935/?bc=100537110029",
+    "text": "沼津大塚戸建",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000110528192/?bc=100539017841|沼津大塚戸建": {
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市大塚",
+    "price_man": 7.9,
+    "area_sqm": 110.0,
+    "url": "https://suumo.jp/chintai/jnc_000110528192/?bc=100539017841",
+    "text": "沼津大塚戸建",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000099909303/?bc=100440809427|イズヤハイツ": {
     "first_seen": "2026-11-26",
-    "last_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 8.5,
+    "area_sqm": 92.0,
+    "url": "https://suumo.jp/chintai/jnc_000099909303/?bc=100440809427",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000099909302/?bc=100440809429|イズヤハイツ": {
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-27",
+    "location": "静岡県沼津市西椎路",
+    "price_man": 8.5,
+    "area_sqm": 92.0,
+    "url": "https://suumo.jp/chintai/jnc_000099909302/?bc=100440809429",
+    "text": "イズヤハイツ",
+    "removed_on": "2026-11-28",
+    "site_name": "SUUMO 賃貸 沼津市 4K以上"
+  },
+  "https://suumo.jp/chintai/jnc_000101193512/?bc=100529072654|山田様戸建": {
+    "first_seen": "2026-11-27",
+    "last_seen": "2026-11-27",
     "location": "静岡県沼津市豊町",
     "price_man": 6.0,
     "area_sqm": 74.4,
-    "url": "https://suumo.jp/chintai/jnc_000101193512/?bc=100529082376",
+    "url": "https://suumo.jp/chintai/jnc_000101193512/?bc=100529072654",
     "text": "山田様戸建",
-    "removed_on": "2026-11-27",
+    "removed_on": "2026-11-28",
     "site_name": "SUUMO 賃貸 沼津市 4K以上"
   }
 }

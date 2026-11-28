@@ -1,5 +1,35 @@
 {
-  "keys": {},
-  "hash": "67ff5939bc6477a8",
-  "fetched_at": "2026-11-27T13:03:39.194102"
+  "keys": {
+    "https://suumo.jp/chintai/jnc_000095775869/?bc=100417544302|伊豆市柏久保": {
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28",
+      "location": "静岡県伊豆市柏久保",
+      "price_man": 16.5,
+      "area_sqm": 129.8,
+      "url": "https://suumo.jp/chintai/jnc_000095775869/?bc=100417544302",
+      "text": "伊豆市柏久保",
+      "shubetsu": "賃貸戸建",
+      "shubetsu_reason": "賃貸カテゴリ（掲載種別）",
+      "madori": "4LDK",
+      "chikunen": "築58年 2階建",
+      "kanrihi": 5500,
+      "shikikin": "165万円",
+      "reikin": null,
+      "rebuild_mark": "—",
+      "rebuild_reason": "賃貸のため対象外",
+      "chimoku": "—",
+      "toshikeikaku": "—",
+      "setsudo": null,
+      "tsubo_man": null,
+      "verdict": "適合",
+      "interest": [],
+      "caution": [],
+      "ng_areas": [],
+      "zokujinsei": false,
+      "machi": "伊豆市",
+      "tab": "rent"
+    }
+  },
+  "hash": "3bec405f09373189",
+  "fetched_at": "2026-11-28T12:50:04.739133"
 }
